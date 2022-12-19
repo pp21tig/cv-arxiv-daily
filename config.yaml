@@ -25,5 +25,5 @@ keywords:
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection"]
-    "NeRF":
-        filters: ["NeRF"]
+    "NaRF":
+        filters: ["NaRF"]
