@@ -21,6 +21,7 @@ layout: default
     <li><a href=#NaRF>NaRF</a></li>
     <li><a href=#Terahertz>Terahertz</a></li>
     <li><a href=#Light-induce>Light induce</a></li>
+    <li><a href=#Intense-Terahertz>Intense Terahertz</a></li>
   </ol>
 </details>
 
@@ -1145,6 +1146,33 @@ layout: default
 |**2022-11-01**|**Photo-induced phase-transitions in complex solids**|Sangeeta Rajpurohit et.al.|[2211.00742v1](http://arxiv.org/abs/2211.00742v1)|null|
 |**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
 |**2022-10-25**|**Fast loading of a cold mixture of Sodium and Potassium atoms from compact and versatile cold atomic beam sources**|Sagar Sutradhar et.al.|[2210.14084v1](http://arxiv.org/abs/2210.14084v1)|null|
+
+<p align=right>(<a href=#Updated-on-20221225>back to top</a>)</p>
+
+## Intense Terahertz
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-20**|**Time-resolved THz Stark spectroscopy**|Bong Joo Kang et.al.|[2212.10333v1](http://arxiv.org/abs/2212.10333v1)|null|
+|**2022-12-14**|**Two-dimensional THz spectroscopy of nonlinear phononics in the topological insulator $\mathrm{MnBi}_2\mathrm{Te}_4$**|T. G. H. Blank et.al.|[2212.07532v1](http://arxiv.org/abs/2212.07532v1)|null|
+|**2022-11-18**|**Pandering in a Flexible Representative Democracy**|Xiaolin Sun et.al.|[2211.09986v1](http://arxiv.org/abs/2211.09986v1)|null|
+|**2022-11-04**|**Dynamics of light-induced anomalous Hall effect in the three-dimensional Dirac semimetal Cd $_3$As$_2$**|Yuta Murotani et.al.|[2211.02229v1](http://arxiv.org/abs/2211.02229v1)|null|
+|**2022-11-11**|**Search for gravitational-wave bursts in the third Advanced LIGO-Virgo run with coherent WaveBurst enhanced by Machine Learning**|Marek J. Szczepańczyk et.al.|[2210.01754v2](http://arxiv.org/abs/2210.01754v2)|null|
+|**2022-09-12**|**The asymptotic emergence of the Second Law for a repeated charging process**|Marcin Łobejko et.al.|[2209.05339v1](http://arxiv.org/abs/2209.05339v1)|null|
+|**2022-08-30**|**Improved Scheduling of Morphing Edge Drawing**|Kazuo Misue et.al.|[2208.11305v2](http://arxiv.org/abs/2208.11305v2)|null|
+|**2022-12-12**|**Electro-Optical Sampling of Single-Cycle THz Fields with Single-Photon Detectors**|Taylor Shields et.al.|[2208.02103v2](http://arxiv.org/abs/2208.02103v2)|null|
+|**2022-07-31**|**Generation of a single-cycle acoustic pulse: a scalable solution for transport in single-electron circuits**|Junliang Wang et.al.|[2208.00489v1](http://arxiv.org/abs/2208.00489v1)|null|
+|**2022-06-10**|**Analytic continuation for giant gravitons**|Yosuke Imamura et.al.|[2205.14615v2](http://arxiv.org/abs/2205.14615v2)|null|
+|**2022-10-07**|**Carrier-envelope phase controlled dynamics of relativistic electron beams in a laser-wakefield accelerator**|Lucas Rovige et.al.|[2205.08374v2](http://arxiv.org/abs/2205.08374v2)|null|
+|**2022-03-22**|**Generation of Super Intense Isolated Attosecond Pulses from Trapped Electrons in Metal Surfaces**|Younes Adnani et.al.|[2203.12061v1](http://arxiv.org/abs/2203.12061v1)|null|
+|**2022-04-04**|**Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes**|David Aasen et.al.|[2203.11137v2](http://arxiv.org/abs/2203.11137v2)|null|
+|**2022-03-01**|**Atmospheric aerosol clearing by femtosecond filaments**|A. Goffin et.al.|[2203.00196v1](http://arxiv.org/abs/2203.00196v1)|null|
+|**2022-02-28**|**Out-of-plane nonlinear optical responses of superconducting cuprates detected by Terahertz pump-Terahertz probe spectroscopy**|S. J. Zhang et.al.|[2202.13858v1](http://arxiv.org/abs/2202.13858v1)|null|
+|**2022-04-25**|**Four-point functions with multi-cycle fields in symmetric orbifolds and the D1-D5 CFT**|Andre Alves Lima et.al.|[2202.12424v2](http://arxiv.org/abs/2202.12424v2)|null|
+|**2022-01-12**|**Carrier-envelope phase of a light bullet**|Elizaveta Zaloznaya et.al.|[2201.04357v1](http://arxiv.org/abs/2201.04357v1)|null|
+|**2022-01-22**|**ADRA: Extending Digital Computing-in-Memory with Asymmetric Dual-Row-Activation**|Akul Malhotra et.al.|[2201.01509v2](http://arxiv.org/abs/2201.01509v2)|null|
+|**2021-12-20**|**Ramond States of the D1-D5 CFT away from the free orbifold point**|Andre Alves Lima et.al.|[2112.10832v1](http://arxiv.org/abs/2112.10832v1)|null|
+|**2021-12-13**|**Process Tomography on a 7-Qubit Quantum Processor via Tensor Network Contraction Path Finding**|Aidan Dang et.al.|[2112.06364v1](http://arxiv.org/abs/2112.06364v1)|null|
 
 <p align=right>(<a href=#Updated-on-20221225>back to top</a>)</p>
 
