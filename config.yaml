@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -25,7 +25,7 @@ keywords:
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection"]
-    "NaRF":
-        filters: ["NaRF"]
+    "Light induce":
+        filters: ["light driven","light induced","ultrafast"]
     "Terahertz":
         filters: ["terahertz","condensed matter"]
