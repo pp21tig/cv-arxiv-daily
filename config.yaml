@@ -27,3 +27,5 @@ keywords:
                   "Line Segment Detection"]
     "NaRF":
         filters: ["NaRF"]
+    "Terahertz":
+        filters: ["terahertz","condensed matter"]
