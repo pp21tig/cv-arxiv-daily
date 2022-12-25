@@ -15,6 +15,7 @@
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
     <li><a href=#NaRF>NaRF</a></li>
+    <li><a href=#Terahertz>Terahertz</a></li>
   </ol>
 </details>
 
@@ -1084,6 +1085,23 @@
 |**2022-10-03**|**NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering**|Stanley Lewis et.al.|[2210.01166v1](http://arxiv.org/abs/2210.01166v1)|null|
 |**2021-08-18**|**Neural Articulated Radiance Field**|Atsuhiro Noguchi et.al.|[2104.03110v2](http://arxiv.org/abs/2104.03110v2)|**[link](https://github.com/nogu-atsu/NARF)**|
 |**2020-11-11**|**Multi-wavelength high energy gas-filled fiber Raman laser spanning from 1.53 um to 2.4 um**|Abubakar I. Adamu et.al.|[2011.06121v1](http://arxiv.org/abs/2011.06121v1)|null|
+
+<p align=right>(<a href=#Updated-on-20221225>back to top</a>)</p>
+
+## Terahertz
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-12-22**|**Computable Cross Norm in Tensor Networks and Holography**|Alexey Milekhin et.al.|[2212.11978v1](http://arxiv.org/abs/2212.11978v1)|null|
+|**2022-12-22**|**Tangent Space Approach for Thermal Tensor Network Simulations of 2D Hubbard Model**|Qiaoyi Li et.al.|[2212.11973v1](http://arxiv.org/abs/2212.11973v1)|null|
+|**2022-12-22**|**A Coarse-Grained Simulation Model for Self-Assembly of Liquid Droplets Featuring Explicit Mobile Binders**|Gaurav Mitra et.al.|[2212.11946v1](http://arxiv.org/abs/2212.11946v1)|**[link](https://github.com/hocky-research-group/pycolloidomer_2022)**|
+|**2022-12-22**|**Metallic water: transient state under ultrafast electronic excitation**|Nikita Medvedev et.al.|[2212.11897v1](http://arxiv.org/abs/2212.11897v1)|null|
+|**2022-12-22**|**Machine learning understands knotted polymers**|Anna Braghetto et.al.|[2212.11822v1](http://arxiv.org/abs/2212.11822v1)|null|
+|**2022-12-22**|**State-and-rate friction in contact-line dynamics**|Chloe W. Lindeman et.al.|[2212.11759v1](http://arxiv.org/abs/2212.11759v1)|null|
+|**2022-12-22**|**Separability and entanglement of resonating valence-bond states**|Gilles Parez et.al.|[2212.11740v1](http://arxiv.org/abs/2212.11740v1)|null|
+|**2022-12-22**|**In situ stimulation of self-assembly tunes the elastic properties of interpenetrated glycolipid-biopolymer biobased hydrogels**|Chloé Seyrig et.al.|[2212.11721v1](http://arxiv.org/abs/2212.11721v1)|null|
+|**2022-12-22**|**The spin Hall effect**|Cosimo Gorini et.al.|[2212.11686v1](http://arxiv.org/abs/2212.11686v1)|null|
+|**2022-12-22**|**Stability of interlocked self-propelled dumbbell clusters**|Fabian Jan Schwarzendahl et.al.|[2212.11597v1](http://arxiv.org/abs/2212.11597v1)|null|
 
 <p align=right>(<a href=#Updated-on-20221225>back to top</a>)</p>
 
