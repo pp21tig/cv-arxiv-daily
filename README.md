@@ -16,6 +16,7 @@
     <li><a href=#NeRF>NeRF</a></li>
     <li><a href=#NaRF>NaRF</a></li>
     <li><a href=#Terahertz>Terahertz</a></li>
+    <li><a href=#Light-induce>Light induce</a></li>
   </ol>
 </details>
 
@@ -36,7 +37,7 @@
 |**2022-12-13**|**SST: Real-time End-to-end Monocular 3D Reconstruction via Sparse Spatial-Temporal Guidance**|Chenyangguang Zhang et.al.|[2212.06524v1](http://arxiv.org/abs/2212.06524v1)|null|
 |**2022-12-13**|**Localization and Navigation System for Indoor Mobile Robot**|Yanbaihui Liu et.al.|[2212.06391v1](http://arxiv.org/abs/2212.06391v1)|null|
 |**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
-|**2022-12-12**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v1](http://arxiv.org/abs/2212.05743v1)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
+|**2022-12-19**|**A Light-Weight LiDAR-Inertial SLAM System with Loop Closing**|Kangcheng Liu et.al.|[2212.05743v2](http://arxiv.org/abs/2212.05743v2)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/deep-learning-localization-mapping)**|
 |**2022-12-09**|**SLAM for Visually Impaired People: A Survey**|Marziyeh Bamdad et.al.|[2212.04745v1](http://arxiv.org/abs/2212.04745v1)|null|
 |**2022-12-09**|**Ego-Body Pose Estimation via Ego-Head Pose Estimation**|Jiaman Li et.al.|[2212.04636v1](http://arxiv.org/abs/2212.04636v1)|null|
@@ -467,7 +468,7 @@
 |**2022-12-09**|**StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2212.00937v2](http://arxiv.org/abs/2212.00937v2)|null|
 |**2022-11-30**|**Self-Supervised Feature Learning for Long-Term Metric Visual Localization**|Yuxuan Chen et.al.|[2212.00122v1](http://arxiv.org/abs/2212.00122v1)|null|
 |**2022-11-30**|**SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation**|Tianyu Zhang et.al.|[2211.16697v1](http://arxiv.org/abs/2211.16697v1)|null|
-|**2022-11-28**|**SLAN: Self-Locator Aided Network for Cross-Modal Understanding**|Jiang-Tian Zhai et.al.|[2211.16208v1](http://arxiv.org/abs/2211.16208v1)|null|
+|**2022-12-08**|**SLAN: Self-Locator Aided Network for Cross-Modal Understanding**|Jiang-Tian Zhai et.al.|[2211.16208v2](http://arxiv.org/abs/2211.16208v2)|null|
 |**2022-11-29**|**RankDNN: Learning to Rank for Few-shot Learning**|Qianyu Guo et.al.|[2211.15320v2](http://arxiv.org/abs/2211.15320v2)|**[link](https://github.com/guoqianyu-alberta/rankdnn)**|
 |**2022-11-28**|**Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**|Xi Zheng et.al.|[2211.15127v1](http://arxiv.org/abs/2211.15127v1)|null|
 |**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|null|
@@ -855,6 +856,7 @@
 |**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
 |**2022-11-15**|**Uncertainty-aware Efficient Subgraph Isomorphism using Graph Topology**|Arpan Kusari et.al.|[2209.09090v2](http://arxiv.org/abs/2209.09090v2)|null|
 |**2022-09-16**|**SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**|Lei Li et.al.|[2209.07806v1](http://arxiv.org/abs/2209.07806v1)|**[link](https://github.com/craigleili/srfeat)**|
+|**2022-09-10**|**LSDNet: Trainable Modification of LSD Algorithm for Real-Time Line Segment Detection**|Lev Teplyakov et.al.|[2209.04642v1](http://arxiv.org/abs/2209.04642v1)|**[link](https://github.com/iitpvisionlab/LSDNet)**|
 |**2022-08-30**|**ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**|Hongkai Chen et.al.|[2208.14201v1](http://arxiv.org/abs/2208.14201v1)|null|
 |**2022-08-25**|**A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**|Jianli Wei et.al.|[2208.12251v1](http://arxiv.org/abs/2208.12251v1)|null|
 |**2022-08-25**|**UAS Navigation in the Real World Using Visual Observation**|Yuci Han et.al.|[2208.12125v1](http://arxiv.org/abs/2208.12125v1)|null|
@@ -1102,6 +1104,43 @@
 |**2022-12-22**|**In situ stimulation of self-assembly tunes the elastic properties of interpenetrated glycolipid-biopolymer biobased hydrogels**|Chloé Seyrig et.al.|[2212.11721v1](http://arxiv.org/abs/2212.11721v1)|null|
 |**2022-12-22**|**The spin Hall effect**|Cosimo Gorini et.al.|[2212.11686v1](http://arxiv.org/abs/2212.11686v1)|null|
 |**2022-12-22**|**Stability of interlocked self-propelled dumbbell clusters**|Fabian Jan Schwarzendahl et.al.|[2212.11597v1](http://arxiv.org/abs/2212.11597v1)|null|
+|**2022-12-22**|**Better than counting: Orientational distribution functions from torque sampling**|Johannes Renner et.al.|[2212.11576v1](http://arxiv.org/abs/2212.11576v1)|null|
+|**2022-12-22**|**Scaling, saturation, and upper bounds in the failure of topologically interlocked structures**|Shai Feldfogel et.al.|[2212.11554v1](http://arxiv.org/abs/2212.11554v1)|null|
+|**2022-12-22**|**Hybrid Magnonic-Oscillator System**|A. Hamadeh et.al.|[2212.11532v1](http://arxiv.org/abs/2212.11532v1)|null|
+|**2022-12-22**|**The role of damping rate amplitude in the synchronization of two coupled oscillators**|A. Hamadeh et.al.|[2212.11521v1](http://arxiv.org/abs/2212.11521v1)|null|
+|**2022-12-22**|**Learning to swim efficiently in a nonuniform flow field**|Krongtum Sankaewtong et.al.|[2212.11482v1](http://arxiv.org/abs/2212.11482v1)|null|
+|**2022-12-21**|**Characterization and Control of the Run-and-Tumble Dynamics of {\it Escherichia Coli}**|Christina Kurzthaler et.al.|[2212.11222v1](http://arxiv.org/abs/2212.11222v1)|null|
+|**2022-12-21**|**A heuristic approach for the densest packing fraction of hard-sphere mixtures**|Andrés Santos et.al.|[2212.11208v1](http://arxiv.org/abs/2212.11208v1)|null|
+|**2022-12-21**|**Domain wall annihilation -- a QFT perspective**|Oriol Pujolas et.al.|[2212.11204v1](http://arxiv.org/abs/2212.11204v1)|null|
+|**2022-12-21**|**Shape-tension coupling produces nematic order in an epithelium vertex model**|Jan Rozman et.al.|[2212.11037v1](http://arxiv.org/abs/2212.11037v1)|null|
+|**2022-12-21**|**Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions**|Yongfeng Zhao et.al.|[2212.10996v1](http://arxiv.org/abs/2212.10996v1)|null|
+
+<p align=right>(<a href=#Updated-on-20221225>back to top</a>)</p>
+
+## Light induce
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-12-15**|**Observation of a new light-induced skyrmion phase in the Mott insulator Cu2OSeO3**|Alexey A. Sapozhnik et.al.|[2212.07878v1](http://arxiv.org/abs/2212.07878v1)|null|
+|**2022-12-03**|**Magnetoplasmonics: current challenges and future opportunities**|Nicolò Maccaferri et.al.|[2212.01684v1](http://arxiv.org/abs/2212.01684v1)|null|
+|**2022-12-02**|**Plasmonic Resonant Intercluster Coulombic Decay**|Rasheed Shaik et.al.|[2212.01487v1](http://arxiv.org/abs/2212.01487v1)|null|
+|**2022-12-02**|**Sublimable complexes with spin switching: Chemical design, processing as thin films and integration in graphene-based devices**|Miguel Gavara-Edo et.al.|[2212.01201v1](http://arxiv.org/abs/2212.01201v1)|null|
+|**2022-12-01**|**Spin noise spectroscopy of optical light shifts**|Joseph Delpy et.al.|[2212.00401v1](http://arxiv.org/abs/2212.00401v1)|null|
+|**2022-11-24**|**Unravelling the role of Sm 4f electrons in the magnetism of SmFeO $_3$**|Danila Amoroso et.al.|[2211.13528v1](http://arxiv.org/abs/2211.13528v1)|null|
+|**2022-11-19**|**Light-induced dynamic frequency shifting of microwave photons in a superconducting electro-optic converter**|Yuntao Xu et.al.|[2211.10668v1](http://arxiv.org/abs/2211.10668v1)|null|
+|**2022-11-18**|**Quantum theory of light-driven coherent lattice dynamics**|Fabio Caruso et.al.|[2211.10424v1](http://arxiv.org/abs/2211.10424v1)|null|
+|**2022-12-17**|**Light-induced phase crossovers in a quantum spin Hall system**|Fang Qin et.al.|[2211.09114v2](http://arxiv.org/abs/2211.09114v2)|null|
+|**2022-11-15**|**Advances in ultrafast plasmonics**|Alemayehu Nana Koya et.al.|[2211.08241v1](http://arxiv.org/abs/2211.08241v1)|null|
+|**2022-11-13**|**Light Induced Surface Tension Gradients for Hierarchical Assembly of Particles from Liquid Metals**|Jiayun Liang et.al.|[2211.06787v1](http://arxiv.org/abs/2211.06787v1)|null|
+|**2022-11-07**|**Quantum-classical approach to spin and charge pumping and the ensuing radiation in THz spintronics with example of ultrafast-light-driven Weyl antiferromagnet Mn $_3$ Sn**|Abhin Suresh et.al.|[2211.03645v1](http://arxiv.org/abs/2211.03645v1)|null|
+|**2022-11-06**|**Photon-statistics force in ultrafast electron dynamics**|Matan Even Tzur et.al.|[2211.03091v1](http://arxiv.org/abs/2211.03091v1)|null|
+|**2022-11-04**|**Dynamics of light-induced anomalous Hall effect in the three-dimensional Dirac semimetal Cd $_3$As$_2$**|Yuta Murotani et.al.|[2211.02229v1](http://arxiv.org/abs/2211.02229v1)|null|
+|**2022-11-02**|**A light-induced Weyl semiconductor-to-metal transition mediated by Peierls instability**|H. Ning et.al.|[2211.01501v1](http://arxiv.org/abs/2211.01501v1)|null|
+|**2022-11-02**|**Light-induced ultrafast dynamics of spin crossovers in LaCoO3**|Yu. S. Orlov et.al.|[2211.01300v1](http://arxiv.org/abs/2211.01300v1)|null|
+|**2022-11-08**|**Polarization Entanglement from Parametric Down-Conversion with a LED Pump**|Wuhong Zhang et.al.|[2211.00841v2](http://arxiv.org/abs/2211.00841v2)|null|
+|**2022-11-01**|**Photo-induced phase-transitions in complex solids**|Sangeeta Rajpurohit et.al.|[2211.00742v1](http://arxiv.org/abs/2211.00742v1)|null|
+|**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
+|**2022-10-25**|**Fast loading of a cold mixture of Sodium and Potassium atoms from compact and versatile cold atomic beam sources**|Sagar Sutradhar et.al.|[2210.14084v1](http://arxiv.org/abs/2210.14084v1)|null|
 
 <p align=right>(<a href=#Updated-on-20221225>back to top</a>)</p>
 
