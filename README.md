@@ -1095,6 +1095,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-23**|**Ultrafast Photo-induced Phase Change in SnSe**|Benjamin J. Dringoli et.al.|[2212.12498v1](http://arxiv.org/abs/2212.12498v1)|null|
+|**2022-12-23**|**Field Theory of Active Brownian Particles in Potentials**|Ziluo Zhang et.al.|[2212.12291v1](http://arxiv.org/abs/2212.12291v1)|null|
+|**2022-12-23**|**Circle packing in regular polygons**|Paolo Amore et.al.|[2212.12287v1](http://arxiv.org/abs/2212.12287v1)|null|
+|**2022-12-23**|**Does twist angle affect the properties of water confined inside twisted bilayer graphene?**|Jeet Majumdar et.al.|[2212.12278v1](http://arxiv.org/abs/2212.12278v1)|null|
+|**2022-12-23**|**Collective topological spin dynamics in a correlated spin glass**|Juraj Krempaský et.al.|[2212.12262v1](http://arxiv.org/abs/2212.12262v1)|null|
+|**2022-12-23**|**Direct visualization of the quantum vortex density law in rotating 4He**|Mathieu Gibert et.al.|[2212.12250v1](http://arxiv.org/abs/2212.12250v1)|null|
+|**2022-12-23**|**Dynamics of $\vartheta$-solitons in the HPD state of superfluid $^3$ He-B**|Vladislav. V. Zavjalov et.al.|[2212.12232v1](http://arxiv.org/abs/2212.12232v1)|null|
+|**2022-12-23**|**Nucleation of chemically active droplets**|Noah Ziethen et.al.|[2212.12224v1](http://arxiv.org/abs/2212.12224v1)|null|
+|**2022-12-23**|**Patterning of morphogenetic anisotropy fields**|Zihang Wang et.al.|[2212.12215v1](http://arxiv.org/abs/2212.12215v1)|null|
+|**2022-12-23**|**Delocalized Electronic Excitations and their Role in Directional Charge Transfer in the Reaction Center of Rhodobacter Sphaeroides**|Sabrina Volpert et.al.|[2212.12201v1](http://arxiv.org/abs/2212.12201v1)|null|
+|**2022-12-23**|**Flow and deformation due to periodic loading in a soft porous material**|Matilde Fiori et.al.|[2212.12166v1](http://arxiv.org/abs/2212.12166v1)|null|
+|**2022-12-23**|**Assur graphs, marginally jammed packings, and reconfigurable metamaterials**|Jose Ortiz et.al.|[2212.12129v1](http://arxiv.org/abs/2212.12129v1)|null|
+|**2022-12-23**|**In-situ scanning tunneling microscopy observation of thickness-dependent air-sensitive layered materials and heterodevices**|Hyoung Kug Kim et.al.|[2212.12126v1](http://arxiv.org/abs/2212.12126v1)|null|
+|**2022-12-22**|**Dynamics of a quantum polariton vortex: Low excitation scenario**|J. P. Restrepo Cuartas et.al.|[2212.12010v1](http://arxiv.org/abs/2212.12010v1)|null|
 |**2022-12-22**|**Computable Cross Norm in Tensor Networks and Holography**|Alexey Milekhin et.al.|[2212.11978v1](http://arxiv.org/abs/2212.11978v1)|null|
 |**2022-12-22**|**Tangent Space Approach for Thermal Tensor Network Simulations of 2D Hubbard Model**|Qiaoyi Li et.al.|[2212.11973v1](http://arxiv.org/abs/2212.11973v1)|null|
 |**2022-12-22**|**A Coarse-Grained Simulation Model for Self-Assembly of Liquid Droplets Featuring Explicit Mobile Binders**|Gaurav Mitra et.al.|[2212.11946v1](http://arxiv.org/abs/2212.11946v1)|**[link](https://github.com/hocky-research-group/pycolloidomer_2022)**|
