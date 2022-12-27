@@ -1099,6 +1099,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-26**|**Informatics-Driven Selection of Polymers for Fuel-Cell Applications**|Huan Tran et.al.|[2212.13198v1](http://arxiv.org/abs/2212.13198v1)|null|
+|**2022-12-26**|**Composing parafermions: a construction of $Z_{N}$ fractional quantum Hall systems and a modern understanding of confinement and duality**|Yoshiki Fukusumi et.al.|[2212.12999v1](http://arxiv.org/abs/2212.12999v1)|null|
+|**2022-12-26**|**Gaplessness protected by bulk-edge correspondence**|Yoshiki Fukusumi et.al.|[2212.12996v1](http://arxiv.org/abs/2212.12996v1)|null|
+|**2022-12-26**|**Fermionic fractional quantum Hall states: A modern approach of systems with bulk-boundary correspondence**|Yoshiki Fukusumi et.al.|[2212.12993v1](http://arxiv.org/abs/2212.12993v1)|null|
+|**2022-12-26**|**A simple model for dynamic heterogeneity in glass-forming liquids**|Rajib K. Pandit et.al.|[2212.12991v1](http://arxiv.org/abs/2212.12991v1)|null|
+|**2022-12-25**|**A charge dependent long-ranged force drives tailored assembly of matter in solution**|Sida Wang et.al.|[2212.12894v1](http://arxiv.org/abs/2212.12894v1)|null|
+|**2022-12-24**|**Anomalous dimensions of the Smoluchowski coagulation equation**|J. Eggers et.al.|[2212.12714v1](http://arxiv.org/abs/2212.12714v1)|null|
+|**2022-12-23**|**Stress anisotropy in polymer brushes and its effects on wetting**|Lars B. Veldscholte et.al.|[2212.12562v1](http://arxiv.org/abs/2212.12562v1)|null|
+|**2022-12-23**|**Low-temperature thermal corrections to a superfluid's equation of state**|Ioanna Kourkoulou et.al.|[2212.12555v1](http://arxiv.org/abs/2212.12555v1)|null|
 |**2022-12-23**|**Ultrafast Photo-induced Phase Change in SnSe**|Benjamin J. Dringoli et.al.|[2212.12498v1](http://arxiv.org/abs/2212.12498v1)|null|
 |**2022-12-23**|**Field Theory of Active Brownian Particles in Potentials**|Ziluo Zhang et.al.|[2212.12291v1](http://arxiv.org/abs/2212.12291v1)|null|
 |**2022-12-23**|**Circle packing in regular polygons**|Paolo Amore et.al.|[2212.12287v1](http://arxiv.org/abs/2212.12287v1)|null|
@@ -1140,6 +1149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-25**|**Light-induced injection of hot carriers from gold nanoparticles to carbon wire bundles**|Stella Kutrovskaya et.al.|[2212.12956v1](http://arxiv.org/abs/2212.12956v1)|null|
 |**2022-12-15**|**Observation of a new light-induced skyrmion phase in the Mott insulator Cu2OSeO3**|Alexey A. Sapozhnik et.al.|[2212.07878v1](http://arxiv.org/abs/2212.07878v1)|null|
 |**2022-12-03**|**Magnetoplasmonics: current challenges and future opportunities**|Nicolò Maccaferri et.al.|[2212.01684v1](http://arxiv.org/abs/2212.01684v1)|null|
 |**2022-12-02**|**Plasmonic Resonant Intercluster Coulombic Decay**|Rasheed Shaik et.al.|[2212.01487v1](http://arxiv.org/abs/2212.01487v1)|null|
