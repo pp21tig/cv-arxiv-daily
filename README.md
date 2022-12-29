@@ -1095,6 +1095,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**A computational study of a transversely propelling polymer and passive particles**|K. R. Prathyusha et.al.|[2212.14013v1](http://arxiv.org/abs/2212.14013v1)|null|
+|**2022-12-28**|**Dark matter searches and energy accumulation and release in materials**|Sergey Pereverzev et.al.|[2212.13964v1](http://arxiv.org/abs/2212.13964v1)|null|
+|**2022-12-28**|**Equilibrium behaviour of two cavity-confined polymers: Effects of polymer width and system asymmetries**|Desiree A. Rehel et.al.|[2212.13863v1](http://arxiv.org/abs/2212.13863v1)|null|
+|**2022-12-28**|**Examination of saturation coverage of polygons using random sequential adsorption algorithm**|Aref Abbasi Moud et.al.|[2212.13849v1](http://arxiv.org/abs/2212.13849v1)|null|
+|**2022-12-28**|**Real space thermalization of locally driven quantum magnets**|Ronald Melendrez et.al.|[2212.13790v1](http://arxiv.org/abs/2212.13790v1)|null|
+|**2022-12-28**|**A class of skin discrete breathers emerging from a high-order exceptional point**|Hui Jiang et.al.|[2212.13765v1](http://arxiv.org/abs/2212.13765v1)|null|
+|**2022-12-28**|**Controlling topological defects and contractile flow in confined nematic cell population**|Ryo Ienaga et.al.|[2212.13756v1](http://arxiv.org/abs/2212.13756v1)|null|
+|**2022-12-28**|**Review: Simulational Tests of the Rouse Model**|George D. J. Phillies et.al.|[2212.13663v1](http://arxiv.org/abs/2212.13663v1)|null|
+|**2022-12-27**|**Multiflagellarity leads to the size-independent swimming speed of bacteria**|Shashank Kamdar et.al.|[2212.13632v1](http://arxiv.org/abs/2212.13632v1)|null|
+|**2022-12-27**|**Shear recovery and temperature stability of Ca2+ and Ag+ glycolipid fibrillar metallogels with unusual $β$ -sheet-like domains**|Alexandre Poirier et.al.|[2212.13518v1](http://arxiv.org/abs/2212.13518v1)|null|
+|**2022-12-27**|**Complex Hydrodynamic Interactions and Stokes-Einstein Relation in Quasi-Two-Dimensional Colloidal Fluids**|Noman Hanif Barbhuiya et.al.|[2212.13481v1](http://arxiv.org/abs/2212.13481v1)|null|
+|**2022-12-27**|**Kinetic Paths of Block Copolymer Particles: Dynamic Self-Consistent Field Theory Studies**|Yanyan Zhu et.al.|[2212.13405v1](http://arxiv.org/abs/2212.13405v1)|null|
+|**2022-12-27**|**Accelerated Transport through Sliding Dynamics of Rodlike Particles in Macromolecular Networks**|Xuanyu Zhang et.al.|[2212.13341v1](http://arxiv.org/abs/2212.13341v1)|null|
+|**2022-12-26**|**Viscoplastic Lines: Printing a Single Filament of Yield Stress Material on a Surface**|Jesse van der Klok et.al.|[2212.13306v1](http://arxiv.org/abs/2212.13306v1)|null|
+|**2022-12-26**|**Discontinuous metric programming in liquid crystalline elastomers**|Tayler S. Hebner et.al.|[2212.13273v1](http://arxiv.org/abs/2212.13273v1)|null|
 |**2022-12-26**|**Informatics-Driven Selection of Polymers for Fuel-Cell Applications**|Huan Tran et.al.|[2212.13198v1](http://arxiv.org/abs/2212.13198v1)|null|
 |**2022-12-26**|**Composing parafermions: a construction of $Z_{N}$ fractional quantum Hall systems and a modern understanding of confinement and duality**|Yoshiki Fukusumi et.al.|[2212.12999v1](http://arxiv.org/abs/2212.12999v1)|null|
 |**2022-12-26**|**Gaplessness protected by bulk-edge correspondence**|Yoshiki Fukusumi et.al.|[2212.12996v1](http://arxiv.org/abs/2212.12996v1)|null|
