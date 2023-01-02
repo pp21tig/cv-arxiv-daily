@@ -1095,6 +1095,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-30**|**Equations of motion governing the dynamics of the exceptional points of parameterically dependent nonhermitian Hamiltonians**|Milan Šindelka et.al.|[2212.14804v1](http://arxiv.org/abs/2212.14804v1)|null|
+|**2022-12-30**|**Elucidating contact electrification mechanism of water**|Vasily Artemov et.al.|[2212.14758v1](http://arxiv.org/abs/2212.14758v1)|null|
+|**2022-12-30**|**Geometry-Induced Dynamics of Confined Chiral Active Matter**|Archit Negi et.al.|[2212.14701v1](http://arxiv.org/abs/2212.14701v1)|null|
+|**2022-12-30**|**Accurate reduced models for the pH oscillations in the urea-urease reaction confined to giant lipid vesicles**|Arthur V. Straube et.al.|[2212.14503v1](http://arxiv.org/abs/2212.14503v1)|null|
+|**2022-12-29**|**Localization in musical steelpans**|Petur Bryde et.al.|[2212.14465v1](http://arxiv.org/abs/2212.14465v1)|null|
+|**2022-12-29**|**DNA Unzipping as {\bf PT}-Symmetry Breaking Transition**|Tanmoy Pal et.al.|[2212.14394v1](http://arxiv.org/abs/2212.14394v1)|null|
+|**2022-12-29**|**Optical and structural properties of starch films formed on drying droplets of gelatinized starch solutions**|Subhadip Ghosh et.al.|[2212.14298v1](http://arxiv.org/abs/2212.14298v1)|null|
+|**2022-12-29**|**Inelastic Neutron Scattering in Weakly Coupled Triangular Spin Tubes CsCrF $_4$**|Hodaka Kikuchi et.al.|[2212.14280v1](http://arxiv.org/abs/2212.14280v1)|null|
+|**2022-12-29**|**Momentum-Resolved Sum-Frequency Vibrational Spectroscopy of Bonded Interface Layer at Charged Water Interfaces**|Yao Hsiao et.al.|[2212.14249v1](http://arxiv.org/abs/2212.14249v1)|null|
+|**2022-12-29**|**Activity-assisted barrier-crossing of self-propelled colloids over parallel microgrooves**|Yan Wen et.al.|[2212.14226v1](http://arxiv.org/abs/2212.14226v1)|null|
+|**2022-12-29**|**Magnetic oxides**|D. I. Khomskii et.al.|[2212.14176v1](http://arxiv.org/abs/2212.14176v1)|null|
+|**2022-12-29**|**Dynamics of flexible fibers in Couette flows at finite Reynolds numbers**|Jian Su et.al.|[2212.14153v1](http://arxiv.org/abs/2212.14153v1)|null|
+|**2022-12-28**|**Machine learning reveals memory of the parent phases in ferroelectric relaxors Ba(Ti $_{1-x}$,Zr$_x$)O$_3$**|Adriana Ladera et.al.|[2212.14087v1](http://arxiv.org/abs/2212.14087v1)|null|
+|**2022-12-28**|**Low-temperature magnetoresistance hysteresis in Vanadium-doped Bi $_{2}$Te$_{2.4}$Se$_{0.6}$ bulk topological insulators**|Birkan Düzel et.al.|[2212.14078v1](http://arxiv.org/abs/2212.14078v1)|null|
 |**2022-12-28**|**A computational study of a transversely propelling polymer and passive particles**|K. R. Prathyusha et.al.|[2212.14013v1](http://arxiv.org/abs/2212.14013v1)|null|
 |**2022-12-28**|**Dark matter searches and energy accumulation and release in materials**|Sergey Pereverzev et.al.|[2212.13964v1](http://arxiv.org/abs/2212.13964v1)|null|
 |**2022-12-28**|**Equilibrium behaviour of two cavity-confined polymers: Effects of polymer width and system asymmetries**|Desiree A. Rehel et.al.|[2212.13863v1](http://arxiv.org/abs/2212.13863v1)|null|
