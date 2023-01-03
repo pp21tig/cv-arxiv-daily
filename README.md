@@ -1095,6 +1095,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**Examination of saturation coverage of short polymers using random sequential adsorption algorithm**|Aref Abbasi Moud et.al.|[2301.00766v1](http://arxiv.org/abs/2301.00766v1)|null|
+|**2023-01-02**|**Seismic Wave Scattering and Dissipation in Fractured Shales**|Hao Zhou et.al.|[2301.00713v1](http://arxiv.org/abs/2301.00713v1)|null|
+|**2023-01-02**|**A tau-leaping method for computing joint probability distributions of the first-passage time and position of a Brownian particle**|Jaroslav Albert et.al.|[2301.00647v1](http://arxiv.org/abs/2301.00647v1)|null|
+|**2023-01-02**|**Yade Documentation**|Vaclav Smilauer et.al.|[2301.00611v1](http://arxiv.org/abs/2301.00611v1)|null|
+|**2023-01-02**|**Charging dynamics of electric double layer nanocapacitors in mean-field**|Ivan Palaia et.al.|[2301.00610v1](http://arxiv.org/abs/2301.00610v1)|null|
+|**2023-01-02**|**Tailoring the escape rate of a Brownian particle by combining a vortex flow with a magnetic field**|Iman Abdoli et.al.|[2301.00589v1](http://arxiv.org/abs/2301.00589v1)|null|
+|**2023-01-01**|**Phase behaviour of coarse-grained fluids**|Vlad P Sokhan et.al.|[2301.00465v1](http://arxiv.org/abs/2301.00465v1)|null|
+|**2023-01-01**|**Enzyme-enriched condensates show self-propulsion, positioning, and coexistence**|Leonardo Demarchi et.al.|[2301.00392v1](http://arxiv.org/abs/2301.00392v1)|null|
+|**2022-12-31**|**What Promotes Smectic Order: Applying Mean Field Theory to the Ends**|David A. King et.al.|[2301.00267v1](http://arxiv.org/abs/2301.00267v1)|null|
+|**2022-12-31**|**Walk ferroelectric liquid droplets with light**|Stefano Marni et.al.|[2301.00219v1](http://arxiv.org/abs/2301.00219v1)|null|
+|**2022-12-31**|**Nuclear Magnetic Resonance Measurements in High Flat-top Pulsed Magnetic Field up to 40 T at WHMFC**|Wenqi Wei et.al.|[2301.00215v1](http://arxiv.org/abs/2301.00215v1)|null|
+|**2022-12-31**|**Minimum in the pressure dependence of the interfacial free energy between ice Ih and water**|P. Montero de Hijes et.al.|[2301.00178v1](http://arxiv.org/abs/2301.00178v1)|null|
+|**2022-12-30**|**Are high-energy photoemission final states free-electron-like?**|V. N. Strocov et.al.|[2301.00033v1](http://arxiv.org/abs/2301.00033v1)|null|
 |**2022-12-30**|**Equations of motion governing the dynamics of the exceptional points of parameterically dependent nonhermitian Hamiltonians**|Milan Šindelka et.al.|[2212.14804v1](http://arxiv.org/abs/2212.14804v1)|null|
 |**2022-12-30**|**Elucidating contact electrification mechanism of water**|Vasily Artemov et.al.|[2212.14758v1](http://arxiv.org/abs/2212.14758v1)|null|
 |**2022-12-30**|**Geometry-Induced Dynamics of Confined Chiral Active Matter**|Archit Negi et.al.|[2212.14701v1](http://arxiv.org/abs/2212.14701v1)|null|
