@@ -1099,6 +1099,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-03**|**Machine Learning Approach to Polymerization Reaction Engineering: Determining Monomers Reactivity Ratios**|Tung Nguyen et.al.|[2301.01231v1](http://arxiv.org/abs/2301.01231v1)|null|
+|**2023-01-03**|**Axisymmetric necking of a circular electrodes-coated dielectric membrane**|Yibin Fu et.al.|[2301.01129v1](http://arxiv.org/abs/2301.01129v1)|null|
+|**2023-01-03**|**Two-Yukawa fluid at a hard wall: Field theory treatment**|I. Kravtsiv et.al.|[2301.01125v1](http://arxiv.org/abs/2301.01125v1)|null|
+|**2023-01-03**|**New trends in the nanophysics of ferroics, relaxors and multiferroics**|M. D. Glinchuk et.al.|[2301.01061v1](http://arxiv.org/abs/2301.01061v1)|null|
+|**2023-01-03**|**Uncovering the role of the light-induced reduction of the inter-atomic exchange in the ultrafast demagnetization of Fe, Co, and Ni**|Philippe Scheid et.al.|[2301.01055v1](http://arxiv.org/abs/2301.01055v1)|null|
+|**2023-01-03**|**Geometric theory of topological defects: methodological developments and new trends**|Sébastien Fumeron et.al.|[2301.01050v1](http://arxiv.org/abs/2301.01050v1)|null|
+|**2023-01-03**|**External chemical gradient leads to efficient swimming of chiral swimmers**|Ruma Maity et.al.|[2301.00966v1](http://arxiv.org/abs/2301.00966v1)|null|
+|**2023-01-03**|**Transverse circular photogalvanic effect associated with Lorentz-violating Weyl fermions**|Mohammad Yahyavi et.al.|[2301.00958v1](http://arxiv.org/abs/2301.00958v1)|null|
+|**2023-01-03**|**Scale-dependent elasticity as a probe of universal heterogeneity in equilibrium amorphous solids**|Boli Zhou et.al.|[2301.00907v1](http://arxiv.org/abs/2301.00907v1)|null|
 |**2023-01-02**|**Examination of saturation coverage of short polymers using random sequential adsorption algorithm**|Aref Abbasi Moud et.al.|[2301.00766v1](http://arxiv.org/abs/2301.00766v1)|null|
 |**2023-01-02**|**Seismic Wave Scattering and Dissipation in Fractured Shales**|Hao Zhou et.al.|[2301.00713v1](http://arxiv.org/abs/2301.00713v1)|null|
 |**2023-01-02**|**A tau-leaping method for computing joint probability distributions of the first-passage time and position of a Brownian particle**|Jaroslav Albert et.al.|[2301.00647v1](http://arxiv.org/abs/2301.00647v1)|null|
@@ -1191,6 +1200,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-07**|**Design of dye-sensitized TiO $_2$ materials for photocatalytic hydrogen production: light and shadow**|Lorenzo Zani et.al.|[2301.01273v1](http://arxiv.org/abs/2301.01273v1)|null|
+|**2023-01-03**|**Light-induced shear phonon splitting and instability in bilayer graphene**|Habib Rostami et.al.|[2301.01122v1](http://arxiv.org/abs/2301.01122v1)|null|
+|**2023-01-03**|**Uncovering the role of the light-induced reduction of the inter-atomic exchange in the ultrafast demagnetization of Fe, Co, and Ni**|Philippe Scheid et.al.|[2301.01055v1](http://arxiv.org/abs/2301.01055v1)|null|
 |**2022-12-25**|**Light-induced injection of hot carriers from gold nanoparticles to carbon wire bundles**|Stella Kutrovskaya et.al.|[2212.12956v1](http://arxiv.org/abs/2212.12956v1)|null|
 |**2022-12-15**|**Observation of a new light-induced skyrmion phase in the Mott insulator Cu2OSeO3**|Alexey A. Sapozhnik et.al.|[2212.07878v1](http://arxiv.org/abs/2212.07878v1)|null|
 |**2022-12-03**|**Magnetoplasmonics: current challenges and future opportunities**|Nicolò Maccaferri et.al.|[2212.01684v1](http://arxiv.org/abs/2212.01684v1)|null|
