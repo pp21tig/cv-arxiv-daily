@@ -1095,6 +1095,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-04**|**The influence of incompressible surfactant on drag in flow along an array of gas-filled grooves**|Tobias Baier et.al.|[2301.01675v1](http://arxiv.org/abs/2301.01675v1)|null|
+|**2023-01-04**|**Role of ionic surfactant in magnetic dynamics of self-assembled dispersions of nanoplatelets**|Hajnalka Nádasi et.al.|[2301.01652v1](http://arxiv.org/abs/2301.01652v1)|null|
+|**2023-01-04**|**Effect of externally deposited nanoscale heterogeneities in thin polymer films on their adhesion behavior**|Chiranjit Majhi et.al.|[2301.01627v1](http://arxiv.org/abs/2301.01627v1)|null|
+|**2023-01-04**|**Lightweight Lattice Boltzmann**|Adriano Tiribocchi et.al.|[2301.01622v1](http://arxiv.org/abs/2301.01622v1)|null|
+|**2023-01-04**|**Temperature dependence of dielectric permittivity in incommensurately modulated phase of ammonium fluoroberyllate**|B. I. Horon et.al.|[2301.01587v1](http://arxiv.org/abs/2301.01587v1)|null|
+|**2023-01-04**|**Apparent molar volume anomaly in water-dimethyl sulfoxide liquid mixtures. Molecular dynamics computer simulations**|M. Aguilar et.al.|[2301.01547v1](http://arxiv.org/abs/2301.01547v1)|null|
+|**2023-01-04**|**Electrocaloric and barocaloric effects in CsH $_2$PO$_4$ ferroelectric**|A. S. Vdovych et.al.|[2301.01544v1](http://arxiv.org/abs/2301.01544v1)|null|
+|**2023-01-04**|**Electric field induced polarization rotation in squaric acid crystals revisited**|A. P. Moina et.al.|[2301.01541v1](http://arxiv.org/abs/2301.01541v1)|null|
+|**2023-01-04**|**Shell-model and first-principles calculations of vibrational, structural and ferroelectric properties of KH $_2$PO$_4$**|R. E. Menchón et.al.|[2301.01538v1](http://arxiv.org/abs/2301.01538v1)|null|
+|**2023-01-04**|**Path integral Monte Carlo simulations of the geometrical effects in KDP crystals**|F. Torresi et.al.|[2301.01536v1](http://arxiv.org/abs/2301.01536v1)|null|
+|**2023-01-04**|**Slow and fast relaxation times of quantum lattice model with local multi-well potentials: phenomenological dynamics for Sn $_{2}$P$_{2}$S$_{6}$ ferroelectric crystals**|R. Erdem et.al.|[2301.01533v1](http://arxiv.org/abs/2301.01533v1)|null|
+|**2023-01-04**|**Dielectric relaxation induced by oxygen vacancies in Na $_{0.5}$Bi$_{0.5}$TiO$_{3}$ ceramics**|V. M. Sidak et.al.|[2301.01528v1](http://arxiv.org/abs/2301.01528v1)|null|
+|**2023-01-04**|**Bifurcation instructed design of multistate machines**|Teaya Yang et.al.|[2301.01507v1](http://arxiv.org/abs/2301.01507v1)|null|
+|**2023-01-04**|**Mechanosensitive bonds induced complex cell motility patterns**|Jen-Yu Lo et.al.|[2301.01463v1](http://arxiv.org/abs/2301.01463v1)|null|
+|**2023-01-04**|**Coexistence of bulk-nodal and surface-nodeless Cooper pairings in a superconducting Dirac semimetal**|Xian P. Yang et.al.|[2301.01402v1](http://arxiv.org/abs/2301.01402v1)|null|
+|**2023-01-03**|**Ice phonon spectra and Bayes inference: a gateway to a new understanding of terahertz sound propagation in water**|Alessio De Francesco et.al.|[2301.01385v1](http://arxiv.org/abs/2301.01385v1)|null|
+|**2023-01-03**|**Critical exponents of the order parameter of diffuse ferroelectric phase transitions in the solid solutions based on lead germanate: studies of optical rotation**|D. I. Adamenko et.al.|[2301.01346v1](http://arxiv.org/abs/2301.01346v1)|null|
+|**2023-01-03**|**Broadband Brillouin scattering study of ferroelectric instability of barium sodium niobate**|S. Kojima et.al.|[2301.01341v1](http://arxiv.org/abs/2301.01341v1)|null|
+|**2023-01-03**|**The antiferromagnetic phase transition in the layered Cu $_{0.15}$Fe$_{0.85}$PS$_3$ semiconductor: experiment and DFT modelling**|V. Pashchenko et.al.|[2301.01338v1](http://arxiv.org/abs/2301.01338v1)|null|
 |**2023-01-03**|**Machine Learning Approach to Polymerization Reaction Engineering: Determining Monomers Reactivity Ratios**|Tung Nguyen et.al.|[2301.01231v1](http://arxiv.org/abs/2301.01231v1)|null|
 |**2023-01-03**|**Axisymmetric necking of a circular electrodes-coated dielectric membrane**|Yibin Fu et.al.|[2301.01129v1](http://arxiv.org/abs/2301.01129v1)|null|
 |**2023-01-03**|**Two-Yukawa fluid at a hard wall: Field theory treatment**|I. Kravtsiv et.al.|[2301.01125v1](http://arxiv.org/abs/2301.01125v1)|null|
@@ -1196,6 +1215,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-04**|**Free-electron superfluorescence: collective optical dynamics at deep-subwavelength resolution**|Orr Be'er et.al.|[2301.01608v1](http://arxiv.org/abs/2301.01608v1)|null|
 |**2022-12-07**|**Design of dye-sensitized TiO $_2$ materials for photocatalytic hydrogen production: light and shadow**|Lorenzo Zani et.al.|[2301.01273v1](http://arxiv.org/abs/2301.01273v1)|null|
 |**2023-01-03**|**Light-induced shear phonon splitting and instability in bilayer graphene**|Habib Rostami et.al.|[2301.01122v1](http://arxiv.org/abs/2301.01122v1)|null|
 |**2023-01-03**|**Uncovering the role of the light-induced reduction of the inter-atomic exchange in the ultrafast demagnetization of Fe, Co, and Ni**|Philippe Scheid et.al.|[2301.01055v1](http://arxiv.org/abs/2301.01055v1)|null|
