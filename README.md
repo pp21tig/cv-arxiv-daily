@@ -1095,6 +1095,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**Transfer Learning Facilitates the Prediction of Polymer-Surface Adhesion Strength**|Jiale Shi et.al.|[2301.02219v1](http://arxiv.org/abs/2301.02219v1)|null|
+|**2023-01-05**|**Cold plasma waves in the chiral Maxwell-Carroll-Field-Jackiw electrodynamics**|Filipe S. Ribeiro et.al.|[2301.02183v1](http://arxiv.org/abs/2301.02183v1)|null|
+|**2023-01-05**|**Rainbows in a bottle: Realizing microoptic effects by polymerizable multiple emulsion particle design**|Naresh Yandrapalli et.al.|[2301.02005v1](http://arxiv.org/abs/2301.02005v1)|null|
+|**2023-01-05**|**Dynamics of active particles with translational and rotational inertia**|Alexander R. Sprenger et.al.|[2301.01865v1](http://arxiv.org/abs/2301.01865v1)|null|
+|**2023-01-05**|**Dynamical mean-field theory for the Hubbard-Holstein model on a quantum device**|Steffen Backes et.al.|[2301.01860v1](http://arxiv.org/abs/2301.01860v1)|null|
+|**2023-01-05**|**Wetting dynamics by mixtures of fast and slow self-propelled particles**|Mauricio Rojas-Vega et.al.|[2301.01856v1](http://arxiv.org/abs/2301.01856v1)|null|
 |**2023-01-04**|**The influence of incompressible surfactant on drag in flow along an array of gas-filled grooves**|Tobias Baier et.al.|[2301.01675v1](http://arxiv.org/abs/2301.01675v1)|null|
 |**2023-01-04**|**Role of ionic surfactant in magnetic dynamics of self-assembled dispersions of nanoplatelets**|Hajnalka Nádasi et.al.|[2301.01652v1](http://arxiv.org/abs/2301.01652v1)|null|
 |**2023-01-04**|**Effect of externally deposited nanoscale heterogeneities in thin polymer films on their adhesion behavior**|Chiranjit Majhi et.al.|[2301.01627v1](http://arxiv.org/abs/2301.01627v1)|null|
