@@ -1095,7 +1095,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-05**|**Transfer Learning Facilitates the Prediction of Polymer-Surface Adhesion Strength**|Jiale Shi et.al.|[2301.02219v1](http://arxiv.org/abs/2301.02219v1)|null|
+|**2023-01-05**|**Transfer Learning Facilitates the Prediction of Polymer-Surface Adhesion Strength**|Jiale Shi et.al.|[2301.02219v1](http://arxiv.org/abs/2301.02219v1)|**[link](https://github.com/shijiale0609/TL_PSI)**|
 |**2023-01-05**|**Cold plasma waves in the chiral Maxwell-Carroll-Field-Jackiw electrodynamics**|Filipe S. Ribeiro et.al.|[2301.02183v1](http://arxiv.org/abs/2301.02183v1)|null|
 |**2023-01-05**|**Rainbows in a bottle: Realizing microoptic effects by polymerizable multiple emulsion particle design**|Naresh Yandrapalli et.al.|[2301.02005v1](http://arxiv.org/abs/2301.02005v1)|null|
 |**2023-01-05**|**Dynamics of active particles with translational and rotational inertia**|Alexander R. Sprenger et.al.|[2301.01865v1](http://arxiv.org/abs/2301.01865v1)|null|
