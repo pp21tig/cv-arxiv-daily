@@ -1099,6 +1099,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-06**|**Nematic Torques in Scalar Active Matter: when Fluctuations Favor Polar Order and Persistence**|Gianmarco Spera et.al.|[2301.02568v1](http://arxiv.org/abs/2301.02568v1)|null|
+|**2023-01-06**|**Denser glasses relax faster: a competition between rejuvenation and aging during in-situ high pressure compression at the atomic scale**|A. Cornet et.al.|[2301.02551v1](http://arxiv.org/abs/2301.02551v1)|null|
+|**2023-01-06**|**Entry of Microparticles into Giant Lipid Vesicles by Optical Tweezers**|Florent Fessler et.al.|[2301.02504v1](http://arxiv.org/abs/2301.02504v1)|null|
+|**2023-01-06**|**Has the chemical contribution a secondary role in SERS?**|Luis A. Guerra Hernandez et.al.|[2301.02489v1](http://arxiv.org/abs/2301.02489v1)|null|
+|**2023-01-06**|**Multiplicative topological semimetals**|Adipta Pal et.al.|[2301.02404v1](http://arxiv.org/abs/2301.02404v1)|null|
+|**2023-01-06**|**Increase in Rod Diffusivity Emerges even in Markovian Nature**|Fumiaki Nakai et.al.|[2301.02394v1](http://arxiv.org/abs/2301.02394v1)|null|
+|**2023-01-06**|**Improved design and experimental demonstration of ultrahigh-Q C ${}_\text{6}$ -symmetric H1 hexapole photonic crystal nanocavities**|Kenta Takata et.al.|[2301.02376v1](http://arxiv.org/abs/2301.02376v1)|null|
+|**2023-01-05**|**Interlayer Exciton-Phonon Bound State in Bi2Se3/monolayer WS2 van der Waals Heterostructures**|Zachariah Hennighausen et.al.|[2301.02321v1](http://arxiv.org/abs/2301.02321v1)|null|
+|**2023-01-05**|**Giving life to robotic skins**|Ahmad Rafsanjani et.al.|[2301.02295v1](http://arxiv.org/abs/2301.02295v1)|null|
+|**2023-01-05**|**Strong pinning transition with arbitrary defect potentials**|Filippo Gaggioli et.al.|[2301.02254v1](http://arxiv.org/abs/2301.02254v1)|null|
 |**2023-01-05**|**Transfer Learning Facilitates the Prediction of Polymer-Surface Adhesion Strength**|Jiale Shi et.al.|[2301.02219v1](http://arxiv.org/abs/2301.02219v1)|**[link](https://github.com/shijiale0609/TL_PSI)**|
 |**2023-01-05**|**Cold plasma waves in the chiral Maxwell-Carroll-Field-Jackiw electrodynamics**|Filipe S. Ribeiro et.al.|[2301.02183v1](http://arxiv.org/abs/2301.02183v1)|null|
 |**2023-01-05**|**Rainbows in a bottle: Realizing microoptic effects by polymerizable multiple emulsion particle design**|Naresh Yandrapalli et.al.|[2301.02005v1](http://arxiv.org/abs/2301.02005v1)|null|
