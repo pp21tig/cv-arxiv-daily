@@ -1095,6 +1095,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-09**|**Discovery of enhanced lattice dynamics in a single-layered hybrid perovskite**|Zhuquan Zhang et.al.|[2301.03501v1](http://arxiv.org/abs/2301.03501v1)|null|
+|**2023-01-09**|**Evaluation of image registration for measuring deformation fields in soft tissue mechanics**|Ondřej Lisický et.al.|[2301.03419v1](http://arxiv.org/abs/2301.03419v1)|null|
+|**2023-01-09**|**Mapping Charge-Transfer Excitations in Bacteriochlorophyll Dimers from First Principles**|Zohreh Hashemi et.al.|[2301.03309v1](http://arxiv.org/abs/2301.03309v1)|null|
+|**2023-01-09**|**On the accuracy of one-way approximate models for nonlinear waves in soft solids**|Harold Berjamin et.al.|[2301.03284v1](http://arxiv.org/abs/2301.03284v1)|null|
+|**2023-01-09**|**X-ray detected ferromagnetic resonance techniques for the study of magnetization dynamics**|Gerrit van der Laan et.al.|[2301.03256v1](http://arxiv.org/abs/2301.03256v1)|null|
+|**2023-01-09**|**Cluster Formation and Relaxation in Particle Rafts under Uniform Radial Expansion**|Khá-Î Tô et.al.|[2301.03170v1](http://arxiv.org/abs/2301.03170v1)|null|
+|**2023-01-08**|**Exploring high thermal conductivity polymers via interpretable machine learning with physical descriptors**|Xiang Huang et.al.|[2301.03030v1](http://arxiv.org/abs/2301.03030v1)|null|
+|**2023-01-08**|**Polymers in turbulence: stretching statistics and the role of extreme strain-rate fluctuations**|Jason R. Picardo et.al.|[2301.02990v1](http://arxiv.org/abs/2301.02990v1)|null|
+|**2023-01-08**|**Probing temperature-responsivity of microgels and its interplay with a solid surface by superresolution microscopy and numerical simulations**|Xhorxhina Shaulli et.al.|[2301.02955v1](http://arxiv.org/abs/2301.02955v1)|null|
+|**2023-01-07**|**How Segmental Dynamics and Mesh Confinement Determine the Selective Diffusivity of Molecules in Crosslinked Dense Polymer Networks**|Baicheng Mei et.al.|[2301.02943v1](http://arxiv.org/abs/2301.02943v1)|null|
+|**2023-01-07**|**Inertial effects on rectification and diffusion of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2301.02902v1](http://arxiv.org/abs/2301.02902v1)|null|
+|**2023-01-07**|**De Haas - van Alphen Effect under Rotation**|Shu-Yun Yang et.al.|[2301.02857v1](http://arxiv.org/abs/2301.02857v1)|null|
+|**2023-01-07**|**Absence of off-diagonal long-range order in hcp $^{\bf 4}$ He dislocation cores**|Maurice de Koning et.al.|[2301.02854v1](http://arxiv.org/abs/2301.02854v1)|null|
+|**2023-01-07**|**A one-dimensional model for axisymmetric deformations of an inflated hyperelastic tube of finite wall thickness**|Xiang Yu et.al.|[2301.02845v1](http://arxiv.org/abs/2301.02845v1)|null|
+|**2023-01-07**|**Modulation-Doping a Correlated Electron Insulator**|Debasish Mondal et.al.|[2301.02798v1](http://arxiv.org/abs/2301.02798v1)|null|
 |**2023-01-06**|**Nematic Torques in Scalar Active Matter: when Fluctuations Favor Polar Order and Persistence**|Gianmarco Spera et.al.|[2301.02568v1](http://arxiv.org/abs/2301.02568v1)|null|
 |**2023-01-06**|**Denser glasses relax faster: a competition between rejuvenation and aging during in-situ high pressure compression at the atomic scale**|A. Cornet et.al.|[2301.02551v1](http://arxiv.org/abs/2301.02551v1)|null|
 |**2023-01-06**|**Entry of Microparticles into Giant Lipid Vesicles by Optical Tweezers**|Florent Fessler et.al.|[2301.02504v1](http://arxiv.org/abs/2301.02504v1)|null|
