@@ -1099,6 +1099,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-10**|**Diffusion Properties of a Brownian Ratchet with Coulomb Friction**|Massimiliano Semeraro et.al.|[2301.04073v1](http://arxiv.org/abs/2301.04073v1)|null|
+|**2023-01-10**|**Coffee stain effect on a fibre from axisymmetric droplets**|Marie Corpart et.al.|[2301.04053v1](http://arxiv.org/abs/2301.04053v1)|null|
+|**2023-01-10**|**Synergetic Effect of Wall-Slip and Compressibility During Startup Flow of Complex Fluids**|Aniruddha Sanyal et.al.|[2301.03898v1](http://arxiv.org/abs/2301.03898v1)|null|
+|**2023-01-10**|**The generalized Clapeyron equation and its application to confined ice growth**|Robert W. Style et.al.|[2301.03895v1](http://arxiv.org/abs/2301.03895v1)|null|
+|**2023-01-10**|**Removal of industrial dye and pharmaceutical product using the nano and micron-sized PS rough particles studded with Pt nanoparticles**|Faizan Khan et.al.|[2301.03891v1](http://arxiv.org/abs/2301.03891v1)|null|
+|**2023-01-10**|**Extension of Moving Particle Simulation including rotational degrees of freedom for dilute fiber suspension**|Keigo Enomoto et.al.|[2301.03818v1](http://arxiv.org/abs/2301.03818v1)|null|
 |**2023-01-09**|**Discovery of enhanced lattice dynamics in a single-layered hybrid perovskite**|Zhuquan Zhang et.al.|[2301.03501v1](http://arxiv.org/abs/2301.03501v1)|null|
 |**2023-01-09**|**Evaluation of image registration for measuring deformation fields in soft tissue mechanics**|Ondřej Lisický et.al.|[2301.03419v1](http://arxiv.org/abs/2301.03419v1)|null|
 |**2023-01-09**|**Mapping Charge-Transfer Excitations in Bacteriochlorophyll Dimers from First Principles**|Zohreh Hashemi et.al.|[2301.03309v1](http://arxiv.org/abs/2301.03309v1)|null|
