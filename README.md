@@ -1095,6 +1095,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Ion filling of a one-dimensional nanofluidic channel in the interaction confinement regime**|Paul Robin et.al.|[2301.04622v1](http://arxiv.org/abs/2301.04622v1)|null|
+|**2023-01-11**|**Entropy of different phases formed by soft rods**|Jayeeta Chattopadhyay et.al.|[2301.04621v1](http://arxiv.org/abs/2301.04621v1)|null|
+|**2023-01-11**|**Real-time simulation of viscoelastic tissue behavior with physics-guided deep learning**|Mohammad Karami et.al.|[2301.04614v1](http://arxiv.org/abs/2301.04614v1)|null|
+|**2023-01-11**|**Tunable Three-Dimensional Architecture of Nematic Disclination Lines**|Alvin Modin et.al.|[2301.04594v1](http://arxiv.org/abs/2301.04594v1)|null|
+|**2023-01-11**|**Recurrent generation of maximally entangled single particle states via quantum walks on cyclic graphs**|Dinesh Kumar Panda et.al.|[2301.04501v1](http://arxiv.org/abs/2301.04501v1)|null|
+|**2023-01-11**|**Correlated topological insulator in organic antiferromagnets**|Takahiro Misawa et.al.|[2301.04490v1](http://arxiv.org/abs/2301.04490v1)|null|
+|**2023-01-11**|**Threshold Voltage Control in Dual-Gate Organic Electrochemical Transistors**|Hsin Tseng et.al.|[2301.04356v1](http://arxiv.org/abs/2301.04356v1)|null|
+|**2023-01-10**|**Geometric phases along quantum trajectories**|Ludmila Viotti et.al.|[2301.04222v1](http://arxiv.org/abs/2301.04222v1)|null|
+|**2023-01-10**|**Topological defects as lagrangian correspondences**|Alex S. Arvanitakis et.al.|[2301.04143v1](http://arxiv.org/abs/2301.04143v1)|null|
 |**2023-01-10**|**Diffusion Properties of a Brownian Ratchet with Coulomb Friction**|Massimiliano Semeraro et.al.|[2301.04073v1](http://arxiv.org/abs/2301.04073v1)|null|
 |**2023-01-10**|**Coffee stain effect on a fibre from axisymmetric droplets**|Marie Corpart et.al.|[2301.04053v1](http://arxiv.org/abs/2301.04053v1)|null|
 |**2023-01-10**|**Synergetic Effect of Wall-Slip and Compressibility During Startup Flow of Complex Fluids**|Aniruddha Sanyal et.al.|[2301.03898v1](http://arxiv.org/abs/2301.03898v1)|null|
@@ -1252,6 +1261,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Ultrafast two-colour X-ray emission spectroscopy reveals excited state landscape in a base metal dyad**|Michal Nowakowski et.al.|[2301.04425v1](http://arxiv.org/abs/2301.04425v1)|null|
 |**2023-01-04**|**Free-electron superfluorescence: collective optical dynamics at deep-subwavelength resolution**|Orr Be'er et.al.|[2301.01608v1](http://arxiv.org/abs/2301.01608v1)|null|
 |**2022-12-07**|**Design of dye-sensitized TiO $_2$ materials for photocatalytic hydrogen production: light and shadow**|Lorenzo Zani et.al.|[2301.01273v1](http://arxiv.org/abs/2301.01273v1)|null|
 |**2023-01-03**|**Light-induced shear phonon splitting and instability in bilayer graphene**|Habib Rostami et.al.|[2301.01122v1](http://arxiv.org/abs/2301.01122v1)|null|
