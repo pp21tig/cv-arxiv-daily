@@ -1095,6 +1095,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-12**|**Finite-size excess-entropy scaling for simple liquids**|Mauricio Sevilla et.al.|[2301.05063v1](http://arxiv.org/abs/2301.05063v1)|null|
+|**2023-01-12**|**Sharp-interface limits of Cahn-Hilliard models and mechanics with moving contact lines**|Leonie Schmeller et.al.|[2301.04968v1](http://arxiv.org/abs/2301.04968v1)|null|
+|**2023-01-12**|**Dynamics of Fluctuating Thin Sheets Under Random Forcing**|Chanania Steinbock et.al.|[2301.04903v1](http://arxiv.org/abs/2301.04903v1)|null|
+|**2023-01-12**|**Dimethylamino terminated ferroelectric nematogens revealing high permittivity**|Martin Cigl et.al.|[2301.04865v1](http://arxiv.org/abs/2301.04865v1)|null|
+|**2023-01-12**|**Mixed-state Entanglement for AdS Born-Infeld Theory**|Peng Liu et.al.|[2301.04854v1](http://arxiv.org/abs/2301.04854v1)|null|
+|**2023-01-11**|**Density Mediated Spin Correlations Drive Edge to Bulk Flow Transition in Active Chiral Matter**|Alexander P. Petroff et.al.|[2301.04710v1](http://arxiv.org/abs/2301.04710v1)|null|
 |**2023-01-11**|**Ion filling of a one-dimensional nanofluidic channel in the interaction confinement regime**|Paul Robin et.al.|[2301.04622v1](http://arxiv.org/abs/2301.04622v1)|null|
 |**2023-01-11**|**Entropy of different phases formed by soft rods**|Jayeeta Chattopadhyay et.al.|[2301.04621v1](http://arxiv.org/abs/2301.04621v1)|null|
 |**2023-01-11**|**Real-time simulation of viscoelastic tissue behavior with physics-guided deep learning**|Mohammad Karami et.al.|[2301.04614v1](http://arxiv.org/abs/2301.04614v1)|null|
@@ -1261,6 +1267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-07**|**Visible-light photocatalytic oxygen production on a high-entropy oxide by multiple-heterojunction introduction**|Parisa Edalati et.al.|[2301.05016v1](http://arxiv.org/abs/2301.05016v1)|null|
 |**2023-01-11**|**Ultrafast two-colour X-ray emission spectroscopy reveals excited state landscape in a base metal dyad**|Michal Nowakowski et.al.|[2301.04425v1](http://arxiv.org/abs/2301.04425v1)|null|
 |**2023-01-04**|**Free-electron superfluorescence: collective optical dynamics at deep-subwavelength resolution**|Orr Be'er et.al.|[2301.01608v1](http://arxiv.org/abs/2301.01608v1)|null|
 |**2022-12-07**|**Design of dye-sensitized TiO $_2$ materials for photocatalytic hydrogen production: light and shadow**|Lorenzo Zani et.al.|[2301.01273v1](http://arxiv.org/abs/2301.01273v1)|null|
