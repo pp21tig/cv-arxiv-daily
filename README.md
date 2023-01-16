@@ -1095,6 +1095,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-13**|**Competitive Binding of Force-Extensible Sticker-and-Spacer 'EPYC1' Polypeptides to a Patchy Colloidal 'Rubisco' Protein**|Charley Schaefer et.al.|[2301.05681v1](http://arxiv.org/abs/2301.05681v1)|null|
+|**2023-01-13**|**Wrapping dynamics and full uptake conditions for nonspherical active nanoparticles**|Ke Xiao et.al.|[2301.05614v1](http://arxiv.org/abs/2301.05614v1)|null|
+|**2023-01-13**|**Collapse of columns of granular rods**|Claus Heussinger et.al.|[2301.05596v1](http://arxiv.org/abs/2301.05596v1)|null|
+|**2023-01-13**|**Nonreciprocal Cahn-Hilliard equations emerging as one of eight universal amplitude equations**|Tobias Frohoff-Hülsmann et.al.|[2301.05568v1](http://arxiv.org/abs/2301.05568v1)|null|
+|**2023-01-13**|**Transitions in vortex skyrmion structures in superfluid $^3$ He-A driven by an analogue of the zero-charge effect**|R. Rantanen et.al.|[2301.05558v1](http://arxiv.org/abs/2301.05558v1)|null|
+|**2023-01-13**|**Second sound resonators and tweezers as vorticity or velocity probes : fabrication, model and method**|Eric Woillez et.al.|[2301.05519v1](http://arxiv.org/abs/2301.05519v1)|null|
+|**2023-01-13**|**Transfer of multi-DNA patches by colloidal stamping**|Rawan Khalaf et.al.|[2301.05515v1](http://arxiv.org/abs/2301.05515v1)|null|
+|**2023-01-13**|**Exploring the substrate-driven morphological changes in Nd0.6Sr0.4MnO3 thin films**|R S Mrinaleni et.al.|[2301.05513v1](http://arxiv.org/abs/2301.05513v1)|null|
+|**2023-01-13**|**Inertial to viscous coalescence of liquid lenses: a lattice Boltzmann investigation**|Thomas Scheel et.al.|[2301.05498v1](http://arxiv.org/abs/2301.05498v1)|null|
+|**2023-01-13**|**Motility-induced shear thickening in dense colloidal suspensions**|A. Gülce Bayram et.al.|[2301.05429v1](http://arxiv.org/abs/2301.05429v1)|null|
+|**2023-01-13**|**Dynamical Signatures of Liouvillian Flat Band**|Yu-Guo Liu et.al.|[2301.05378v1](http://arxiv.org/abs/2301.05378v1)|null|
+|**2023-01-13**|**Simulation Study of the Effects of Polymer Network Dynamics and Mesh Confinement on the Diffusion and Structural Relaxation of Molecular Penetrants**|Tsai-Wei Lin et.al.|[2301.05356v1](http://arxiv.org/abs/2301.05356v1)|null|
+|**2023-01-13**|**Self-Consistent Hopping Theory of Activated Relaxation and Diffusion of Dilute Penetrants in Dense Crosslinked Polymer Networks**|Baicheng Mei et.al.|[2301.05353v1](http://arxiv.org/abs/2301.05353v1)|null|
+|**2023-01-13**|**Roadmap on structured waves**|K. Y. Bliokh et.al.|[2301.05349v1](http://arxiv.org/abs/2301.05349v1)|null|
+|**2023-01-12**|**Observation of terahertz second harmonic generation from surface states in the topological insulator Bi $_2$Se$_3$**|Jonathan Stensberg et.al.|[2301.05271v1](http://arxiv.org/abs/2301.05271v1)|null|
 |**2023-01-12**|**Finite-size excess-entropy scaling for simple liquids**|Mauricio Sevilla et.al.|[2301.05063v1](http://arxiv.org/abs/2301.05063v1)|null|
 |**2023-01-12**|**Sharp-interface limits of Cahn-Hilliard models and mechanics with moving contact lines**|Leonie Schmeller et.al.|[2301.04968v1](http://arxiv.org/abs/2301.04968v1)|null|
 |**2023-01-12**|**Dynamics of Fluctuating Thin Sheets Under Random Forcing**|Chanania Steinbock et.al.|[2301.04903v1](http://arxiv.org/abs/2301.04903v1)|null|
