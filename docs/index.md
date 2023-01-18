@@ -1099,6 +1099,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-17**|**Three Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling**|Dylan Reynolds et.al.|[2301.07096v1](http://arxiv.org/abs/2301.07096v1)|null|
+|**2023-01-17**|**Twist and Measure: Characterizing the Effective Radius of Strings and Bundles under Twisting Contraction**|Jesse M. Hanlan et.al.|[2301.07077v1](http://arxiv.org/abs/2301.07077v1)|null|
+|**2023-01-17**|**Suppression of sawtooth oscillations when using a finite-difference scheme for mass transfer simulation via the lubrication approximation in a droplet evaporated on a substrate**|Konstantin S. Kolegov et.al.|[2301.06983v1](http://arxiv.org/abs/2301.06983v1)|null|
+|**2023-01-17**|**Spinor fields, CPTM symmetry and smallness of cosmological constant in framework of extended manifold**|Sergey Bondarenko et.al.|[2301.06976v1](http://arxiv.org/abs/2301.06976v1)|null|
+|**2023-01-17**|**Toroidal hollow-core microcavities produced by self-rolling of strained polymer bilayer films**|V Luchnikov et.al.|[2301.06922v1](http://arxiv.org/abs/2301.06922v1)|null|
+|**2023-01-17**|**Revisiting the antiferromagnetic structure of $\rm Tb_{14}Ag_{51}$ . The importance of distinguishing alternative symmetries for a multidimensional order parameter**|V. Pomjakushin et.al.|[2301.06920v1](http://arxiv.org/abs/2301.06920v1)|null|
+|**2023-01-17**|**Ferroelectric nematic -- isotropic critical end point**|Jadwiga Szydlowska et.al.|[2301.06915v1](http://arxiv.org/abs/2301.06915v1)|null|
+|**2023-01-17**|**Ising Model on the Fibonacci Sphere**|A. S. Pochinok et.al.|[2301.06849v1](http://arxiv.org/abs/2301.06849v1)|null|
+|**2023-01-17**|**Even strong energy polydispersity does not affect the average structure and dynamics of simple liquids**|Trond S. Ingebrigtsen et.al.|[2301.06817v1](http://arxiv.org/abs/2301.06817v1)|null|
+|**2023-01-17**|**Scaling laws for single-file diffusion of adhesive particles**|Sören Schweers et.al.|[2301.06800v1](http://arxiv.org/abs/2301.06800v1)|null|
+|**2023-01-17**|**Control over epitaxy and the role of the InAs/Al interface in hybrid two-dimensional electron gas systems**|E. Cheah et.al.|[2301.06795v1](http://arxiv.org/abs/2301.06795v1)|null|
+|**2023-01-16**|**Powerful ordered collective heat engines**|Fernando S. Filho et.al.|[2301.06591v1](http://arxiv.org/abs/2301.06591v1)|null|
+|**2023-01-16**|**Giant Nernst effect in the crossover between Fermi liquid and strange metal**|Yusen Yang et.al.|[2301.06523v1](http://arxiv.org/abs/2301.06523v1)|null|
+|**2023-01-16**|**Monte Carlo Simulation of Long Hard-Sphere Polymer Chains in Two to Five Dimensions**|Stefan Schnabel et.al.|[2301.06380v1](http://arxiv.org/abs/2301.06380v1)|null|
+|**2023-01-16**|**Clusters and collective motions in Brownian vibrators**|Yangrui Chen et.al.|[2301.06377v1](http://arxiv.org/abs/2301.06377v1)|null|
+|**2023-01-16**|**Evidence of non-degenerated, non-reciprocal and ultra-fast spin-waves in the canted antiferromagnet α-Fe2O3**|A. El Kanj et.al.|[2301.06329v1](http://arxiv.org/abs/2301.06329v1)|null|
+|**2023-01-16**|**A Depth-Averaged Material Point Method for Shallow Landslides: Applications to Snow Slab Avalanche Release**|Louis Guillet et.al.|[2301.06296v1](http://arxiv.org/abs/2301.06296v1)|null|
+|**2023-01-16**|**Optimal/Nearly-optimal simulation of multi-periodic time-dependent Hamiltonians**|Kaoru Mizuta et.al.|[2301.06232v1](http://arxiv.org/abs/2301.06232v1)|null|
+|**2023-01-16**|**Non-phononic density of states of two-dimensional glasses revealed by random pinning**|Kumpei Shiraishi et.al.|[2301.06225v1](http://arxiv.org/abs/2301.06225v1)|null|
+|**2023-01-16**|**Kinetic Insights into Bridge Cleavage Pathways in Periodic Mesoporous Organosilicas**|Zeming Sun et.al.|[2301.06222v1](http://arxiv.org/abs/2301.06222v1)|null|
 |**2023-01-13**|**Competitive Binding of Force-Extensible Sticker-and-Spacer 'EPYC1' Polypeptides to a Patchy Colloidal 'Rubisco' Protein**|Charley Schaefer et.al.|[2301.05681v1](http://arxiv.org/abs/2301.05681v1)|null|
 |**2023-01-13**|**Wrapping dynamics and full uptake conditions for nonspherical active nanoparticles**|Ke Xiao et.al.|[2301.05614v1](http://arxiv.org/abs/2301.05614v1)|null|
 |**2023-01-13**|**Collapse of columns of granular rods**|Claus Heussinger et.al.|[2301.05596v1](http://arxiv.org/abs/2301.05596v1)|null|
@@ -1286,6 +1306,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-15**|**Light-Driven Transitions in Quantum Paraelectrics**|Zekun Zhuang et.al.|[2301.06161v1](http://arxiv.org/abs/2301.06161v1)|null|
+|**2023-01-15**|**Anomalous Hall effect of light-driven three-dimensional Dirac electrons in bismuth**|Yoshua Hirai et.al.|[2301.06072v1](http://arxiv.org/abs/2301.06072v1)|null|
 |**2023-01-07**|**Visible-light photocatalytic oxygen production on a high-entropy oxide by multiple-heterojunction introduction**|Parisa Edalati et.al.|[2301.05016v1](http://arxiv.org/abs/2301.05016v1)|null|
 |**2023-01-11**|**Ultrafast two-colour X-ray emission spectroscopy reveals excited state landscape in a base metal dyad**|Michal Nowakowski et.al.|[2301.04425v1](http://arxiv.org/abs/2301.04425v1)|null|
 |**2023-01-04**|**Free-electron superfluorescence: collective optical dynamics at deep-subwavelength resolution**|Orr Be'er et.al.|[2301.01608v1](http://arxiv.org/abs/2301.01608v1)|null|
