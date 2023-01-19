@@ -1099,6 +1099,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-18**|**Correlation properties of a one-dimensional repulsive Bose gas at finite temperature**|Giulia De Rosi et.al.|[2301.07626v1](http://arxiv.org/abs/2301.07626v1)|null|
+|**2023-01-18**|**Schramm-Loewner evolution in 2d rigidity percolation**|Nina Javerzat et.al.|[2301.07614v1](http://arxiv.org/abs/2301.07614v1)|null|
+|**2023-01-18**|**Dimensionality control and rotational symmetry breaking superconductivity in square-planar layered nickelates**|Lin Er Chow et.al.|[2301.07606v1](http://arxiv.org/abs/2301.07606v1)|null|
+|**2023-01-18**|**Extended analytical BCS theory of superconductivity in thin films**|Riccardo Travaglino et.al.|[2301.07604v1](http://arxiv.org/abs/2301.07604v1)|null|
+|**2023-01-18**|**Mean Stress Tensor of Discrete Particle Systems in Submerged Conditions**|Zhuan Ge et.al.|[2301.07567v1](http://arxiv.org/abs/2301.07567v1)|null|
+|**2023-01-18**|**Thermal loops in the accelerating frame**|D. V. Diakonov et.al.|[2301.07478v1](http://arxiv.org/abs/2301.07478v1)|null|
+|**2023-01-18**|**Excellent catalytic performance towards the hydrogen evolution reaction in topological semimetals**|Lirong Wang et.al.|[2301.07426v1](http://arxiv.org/abs/2301.07426v1)|null|
+|**2023-01-18**|**Nanophotonics for Pair Production**|Valerio Di Giulio et.al.|[2301.07377v1](http://arxiv.org/abs/2301.07377v1)|null|
+|**2023-01-18**|**From creep to flow: Granular materials under cyclic shear**|Ye Yuan et.al.|[2301.07309v1](http://arxiv.org/abs/2301.07309v1)|null|
 |**2023-01-17**|**Three Dimensional Odd Viscosity in Ferrofluids with Vorticity-Magnetization Coupling**|Dylan Reynolds et.al.|[2301.07096v1](http://arxiv.org/abs/2301.07096v1)|null|
 |**2023-01-17**|**Twist and Measure: Characterizing the Effective Radius of Strings and Bundles under Twisting Contraction**|Jesse M. Hanlan et.al.|[2301.07077v1](http://arxiv.org/abs/2301.07077v1)|null|
 |**2023-01-17**|**Suppression of sawtooth oscillations when using a finite-difference scheme for mass transfer simulation via the lubrication approximation in a droplet evaporated on a substrate**|Konstantin S. Kolegov et.al.|[2301.06983v1](http://arxiv.org/abs/2301.06983v1)|null|
