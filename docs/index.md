@@ -1099,6 +1099,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-19**|**Tensor decomposition for modified quasi-linear viscoelastic models: towards a fully nonlinear theory**|Valentina Balbi et.al.|[2301.08050v1](http://arxiv.org/abs/2301.08050v1)|null|
+|**2023-01-19**|**Quantum Otto heat engines on XYZ spin working medium with DM and KSEA interactions: Operating modes and efficiency at maximal work output**|Elena I. Kuznetsova et.al.|[2301.07987v1](http://arxiv.org/abs/2301.07987v1)|null|
+|**2023-01-19**|**Dynamic shapes of floppy vesicles enclosing active Brownian particles with membrane adhesion**|Priyanka Iyer et.al.|[2301.07952v1](http://arxiv.org/abs/2301.07952v1)|null|
+|**2023-01-19**|**Polarization patterning in ferroelectric nematic liquids**|Nerea Sebastián et.al.|[2301.07933v1](http://arxiv.org/abs/2301.07933v1)|null|
+|**2023-01-19**|**Heterogeneous biological membranes regulate protein partitioning via fluctuating diffusivity**|Ken Sakamoto et.al.|[2301.07932v1](http://arxiv.org/abs/2301.07932v1)|null|
+|**2023-01-19**|**Randomly stacked open-cylindrical shells as a functional mechanical device**|Tomohiko G. Sano et.al.|[2301.07867v1](http://arxiv.org/abs/2301.07867v1)|null|
+|**2023-01-19**|**Fatigue failure of amorphous alloys under cyclic shear deformation**|Nikolai V. Priezjev et.al.|[2301.07857v1](http://arxiv.org/abs/2301.07857v1)|null|
+|**2023-01-19**|**Theory of Cation Solvation and Ionic Association in Non-Aqueous Solvent Mixtures**|Zachary A. H. Goodwin et.al.|[2301.07839v1](http://arxiv.org/abs/2301.07839v1)|null|
+|**2023-01-18**|**Ion-Implanted $^8$ Li Nuclear Magnetic Resonance in Highly Oriented Pyrolytic Graphite**|John O. Ticknor et.al.|[2301.07821v1](http://arxiv.org/abs/2301.07821v1)|null|
+|**2023-01-18**|**Large barrier behaviour of the rate constant from the diffusion equation**|Pierpaolo Pravatto et.al.|[2301.07761v1](http://arxiv.org/abs/2301.07761v1)|null|
+|**2023-01-18**|**Charged magnons on the surface of a topological insulator**|I. Martinez-Berumen et.al.|[2301.07754v1](http://arxiv.org/abs/2301.07754v1)|null|
 |**2023-01-18**|**Correlation properties of a one-dimensional repulsive Bose gas at finite temperature**|Giulia De Rosi et.al.|[2301.07626v1](http://arxiv.org/abs/2301.07626v1)|null|
 |**2023-01-18**|**Schramm-Loewner evolution in 2d rigidity percolation**|Nina Javerzat et.al.|[2301.07614v1](http://arxiv.org/abs/2301.07614v1)|null|
 |**2023-01-18**|**Dimensionality control and rotational symmetry breaking superconductivity in square-planar layered nickelates**|Lin Er Chow et.al.|[2301.07606v1](http://arxiv.org/abs/2301.07606v1)|null|
