@@ -1099,6 +1099,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Space-charge region recombination in monocrystalline silicon-based barrier structures with long lifetimes and its impact on key characteristics of high-efficiency solar cells**|A. V. Sachenko et.al.|[2301.08737v1](http://arxiv.org/abs/2301.08737v1)|null|
+|**2023-01-20**|**Controlling Uncertainty of Empirical First-Passage Times in the Small-Sample Regime**|Rick Bebon et.al.|[2301.08732v1](http://arxiv.org/abs/2301.08732v1)|null|
+|**2023-01-20**|**An efficient and low-cost method to create high-density nitrogen-vacancy centers in CVD diamond for sensing applications**|Prem Bahadur Karki et.al.|[2301.08712v1](http://arxiv.org/abs/2301.08712v1)|null|
+|**2023-01-20**|**Multi-soliton solutions of the sine-Gordon equation with elliptic-function background**|Daisuke A. Takahashi et.al.|[2301.08705v1](http://arxiv.org/abs/2301.08705v1)|null|
+|**2023-01-20**|**Using Ensemble Monte Carlo Methods to Evaluate Non-Equilibrium Green's Functions**|David K. Ferry et.al.|[2301.08682v1](http://arxiv.org/abs/2301.08682v1)|null|
+|**2023-01-20**|**Disorder Induced Nonlinear Mode Coupling and Symmetry Breaking in Amorphous Solids**|Avanish Kumar et.al.|[2301.08546v1](http://arxiv.org/abs/2301.08546v1)|null|
+|**2023-01-20**|**Scalar dark matter induced oscillation of permanent-magnet field**|I. M. Bloch et.al.|[2301.08514v1](http://arxiv.org/abs/2301.08514v1)|null|
+|**2023-01-20**|**Revealing the supercritical dynamics of dusty plasmas and their liquid-like to gas-like dynamical crossover**|Dong Huang et.al.|[2301.08449v1](http://arxiv.org/abs/2301.08449v1)|null|
+|**2023-01-20**|**Extraction of the frequency moments of spectral densities from imaginary-time correlation function data**|Tobias Dornheim et.al.|[2301.08444v1](http://arxiv.org/abs/2301.08444v1)|null|
+|**2023-01-20**|**Pattern Formation and Transport for Externally Driven Active Matter on Periodic Substrates**|C. Reichhardt et.al.|[2301.08380v1](http://arxiv.org/abs/2301.08380v1)|null|
+|**2023-01-19**|**Spiraling Defect Cores in Chromonic Hedgehogs**|Silvia Paparini et.al.|[2301.08323v1](http://arxiv.org/abs/2301.08323v1)|null|
+|**2023-01-19**|**Numerical model of the Gross-Pitaevskii equation for vortex lattice formation in rotating Bose-Einstein condensates using smoothed-particle hydrodynamics**|Satori Tsuzuki et.al.|[2301.08304v1](http://arxiv.org/abs/2301.08304v1)|null|
 |**2023-01-19**|**Tensor decomposition for modified quasi-linear viscoelastic models: towards a fully nonlinear theory**|Valentina Balbi et.al.|[2301.08050v1](http://arxiv.org/abs/2301.08050v1)|null|
 |**2023-01-19**|**Quantum Otto heat engines on XYZ spin working medium with DM and KSEA interactions: Operating modes and efficiency at maximal work output**|Elena I. Kuznetsova et.al.|[2301.07987v1](http://arxiv.org/abs/2301.07987v1)|null|
 |**2023-01-19**|**Dynamic shapes of floppy vesicles enclosing active Brownian particles with membrane adhesion**|Priyanka Iyer et.al.|[2301.07952v1](http://arxiv.org/abs/2301.07952v1)|null|
@@ -1326,6 +1338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-20**|**Quenched lattice fluctuations in optically driven SrTiO3**|M. Fechner et.al.|[2301.08703v1](http://arxiv.org/abs/2301.08703v1)|null|
 |**2023-01-15**|**Light-Driven Transitions in Quantum Paraelectrics**|Zekun Zhuang et.al.|[2301.06161v1](http://arxiv.org/abs/2301.06161v1)|null|
 |**2023-01-15**|**Anomalous Hall effect of light-driven three-dimensional Dirac electrons in bismuth**|Yoshua Hirai et.al.|[2301.06072v1](http://arxiv.org/abs/2301.06072v1)|null|
 |**2023-01-07**|**Visible-light photocatalytic oxygen production on a high-entropy oxide by multiple-heterojunction introduction**|Parisa Edalati et.al.|[2301.05016v1](http://arxiv.org/abs/2301.05016v1)|null|
