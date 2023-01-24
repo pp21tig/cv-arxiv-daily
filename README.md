@@ -1095,6 +1095,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-23**|**Approximate higher-form symmetries, topological defects, and dynamical phase transitions**|Jay Armas et.al.|[2301.09628v1](http://arxiv.org/abs/2301.09628v1)|null|
+|**2023-01-23**|**The $(2 + δ)$ -dimensional theory of the electromechanics of lipid membranes: I. Electrostatics**|Yannick A. D. Omar et.al.|[2301.09610v1](http://arxiv.org/abs/2301.09610v1)|null|
+|**2023-01-23**|**Non-perturbative renormalization group analysis of nonlinear spiking networks**|Braden A. W. Brinkman et.al.|[2301.09600v1](http://arxiv.org/abs/2301.09600v1)|null|
+|**2023-01-23**|**Estimating random close packing in polydisperse and bidisperse hard spheres via an equilibrium model of crowding**|Carmine Anzivino et.al.|[2301.09599v1](http://arxiv.org/abs/2301.09599v1)|null|
+|**2023-01-23**|**Hard-needle elastomer in one spatial dimension**|Danilo B. Liarte et.al.|[2301.09589v1](http://arxiv.org/abs/2301.09589v1)|null|
+|**2023-01-23**|**Planktonic Active Matter**|Anupam Sengupta et.al.|[2301.09550v1](http://arxiv.org/abs/2301.09550v1)|null|
+|**2023-01-23**|**Network topology of interlocked chiral particles**|Paul A. Monderkamp et.al.|[2301.09541v1](http://arxiv.org/abs/2301.09541v1)|null|
+|**2023-01-23**|**Topology of quadrupolar Berry phase of a Qutrit**|Rajeev Singh et.al.|[2301.09476v1](http://arxiv.org/abs/2301.09476v1)|null|
+|**2023-01-23**|**A review on laser-induced crystallization from solution**|Vikram Korede et.al.|[2301.09434v1](http://arxiv.org/abs/2301.09434v1)|null|
+|**2023-01-23**|**Effect of polydispersity in concentrated magnetorheological fluids**|Julio Gabriel de Falco Manuel et.al.|[2301.09398v1](http://arxiv.org/abs/2301.09398v1)|null|
+|**2023-01-23**|**Sketching phase diagrams using low-depth variational quantum algorithms**|Jan Lukas Bosse et.al.|[2301.09369v1](http://arxiv.org/abs/2301.09369v1)|null|
+|**2023-01-23**|**Geometric Theory of Mechanical Screening in two-dimensional solids**|Noemie Livne et.al.|[2301.09301v1](http://arxiv.org/abs/2301.09301v1)|null|
+|**2023-01-22**|**Improved Hilbert space exploration algorithms for finite temperature calculations**|A. J. J. M. de Klerk et.al.|[2301.09224v1](http://arxiv.org/abs/2301.09224v1)|null|
+|**2023-01-22**|**Ferroelectric nematic liquids with conics**|Priyanka Kumari et.al.|[2301.09199v1](http://arxiv.org/abs/2301.09199v1)|null|
+|**2023-01-22**|**Active coating of a water drop by an oil film using a MHz-frequency surface acoustic wave**|Avital Reizman et.al.|[2301.09141v1](http://arxiv.org/abs/2301.09141v1)|null|
+|**2023-01-22**|**Atypical plug formation in internal elastoviscoplastic fluid flows over a non-smooth topology**|Miguel E. Villalba et.al.|[2301.09100v1](http://arxiv.org/abs/2301.09100v1)|null|
+|**2023-01-22**|**Collective dynamics and shattering of disturbed two-dimensional Lennard-Jones crystals**|Zhenwei Yao et.al.|[2301.09040v1](http://arxiv.org/abs/2301.09040v1)|null|
+|**2023-01-22**|**Charged elastic rings: deformation and dynamics**|Zhenwei Yao et.al.|[2301.09037v1](http://arxiv.org/abs/2301.09037v1)|null|
+|**2023-01-21**|**Water diffusion in carbon nanotubes for rigid and flexible models**|Bruno H. S. Mendonça et.al.|[2301.09000v1](http://arxiv.org/abs/2301.09000v1)|null|
+|**2023-01-21**|**Closed formula for the transport of micro-nano-particle across model porous media**|P. Malgaretti et.al.|[2301.08983v1](http://arxiv.org/abs/2301.08983v1)|null|
 |**2023-01-20**|**Space-charge region recombination in monocrystalline silicon-based barrier structures with long lifetimes and its impact on key characteristics of high-efficiency solar cells**|A. V. Sachenko et.al.|[2301.08737v1](http://arxiv.org/abs/2301.08737v1)|null|
 |**2023-01-20**|**Controlling Uncertainty of Empirical First-Passage Times in the Small-Sample Regime**|Rick Bebon et.al.|[2301.08732v1](http://arxiv.org/abs/2301.08732v1)|null|
 |**2023-01-20**|**An efficient and low-cost method to create high-density nitrogen-vacancy centers in CVD diamond for sensing applications**|Prem Bahadur Karki et.al.|[2301.08712v1](http://arxiv.org/abs/2301.08712v1)|null|
