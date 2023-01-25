@@ -1095,6 +1095,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**pH-dependent water permeability switching and its memory in 1T' MoS $_2$ membranes**|C. Hu et.al.|[2301.10195v1](http://arxiv.org/abs/2301.10195v1)|null|
+|**2023-01-24**|**Mean field theory of self-organizing memristive connectomes**|Francesco Caravelli et.al.|[2301.10145v1](http://arxiv.org/abs/2301.10145v1)|null|
+|**2023-01-24**|**Dynamics of blood cells during a routine laboratory examination**|Mesfin Taye et.al.|[2301.10124v1](http://arxiv.org/abs/2301.10124v1)|null|
+|**2023-01-23**|**Flexible Colloidal Molecules with Directional Bonds and Controlled Flexibility**|Yogesh Shelke et.al.|[2301.10024v1](http://arxiv.org/abs/2301.10024v1)|null|
+|**2023-01-24**|**Lee-Yang theory of quantum phase transitions with neural network quantum states**|Pascal M. Vecsei et.al.|[2301.09923v1](http://arxiv.org/abs/2301.09923v1)|null|
+|**2023-01-24**|**Rotor Lattice Model of Ferroelectric Large Polarons**|Georgios M. Koutentakis et.al.|[2301.09875v1](http://arxiv.org/abs/2301.09875v1)|null|
+|**2023-01-24**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v1](http://arxiv.org/abs/2301.09873v1)|null|
+|**2023-01-24**|**Connecting cooperative transport by ants with the physics of active swimmers**|Tabea Heckenthaler et.al.|[2301.09859v1](http://arxiv.org/abs/2301.09859v1)|null|
 |**2023-01-23**|**Approximate higher-form symmetries, topological defects, and dynamical phase transitions**|Jay Armas et.al.|[2301.09628v1](http://arxiv.org/abs/2301.09628v1)|null|
 |**2023-01-23**|**The $(2 + δ)$ -dimensional theory of the electromechanics of lipid membranes: I. Electrostatics**|Yannick A. D. Omar et.al.|[2301.09610v1](http://arxiv.org/abs/2301.09610v1)|null|
 |**2023-01-23**|**Non-perturbative renormalization group analysis of nonlinear spiking networks**|Braden A. W. Brinkman et.al.|[2301.09600v1](http://arxiv.org/abs/2301.09600v1)|null|
@@ -1354,6 +1362,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
+|**2023-01-24**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v1](http://arxiv.org/abs/2301.09873v1)|null|
 |**2023-01-20**|**Quenched lattice fluctuations in optically driven SrTiO3**|M. Fechner et.al.|[2301.08703v1](http://arxiv.org/abs/2301.08703v1)|null|
 |**2023-01-15**|**Light-Driven Transitions in Quantum Paraelectrics**|Zekun Zhuang et.al.|[2301.06161v1](http://arxiv.org/abs/2301.06161v1)|null|
 |**2023-01-15**|**Anomalous Hall effect of light-driven three-dimensional Dirac electrons in bismuth**|Yoshua Hirai et.al.|[2301.06072v1](http://arxiv.org/abs/2301.06072v1)|null|
