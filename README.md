@@ -1095,6 +1095,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Coexistence of $s$ -wave superconductivity and phase separation in the half-filled extended Hubbard model with attractive interactions**|E. Linnér et.al.|[2301.10755v1](http://arxiv.org/abs/2301.10755v1)|null|
+|**2023-01-25**|**Polar magneto-optic Kerr and Faraday effects in finite periodic \texorpdfstring{ $\mathcal{P}\mathcal{T}$ }{PT}-symmetric systems**|Antonio Perez-Garrido et.al.|[2301.10653v1](http://arxiv.org/abs/2301.10653v1)|null|
+|**2023-01-25**|**Investigation of Planckian behavior in a high-conductivity oxide: PdCrO $_2$**|Elina Zhakina et.al.|[2301.10631v1](http://arxiv.org/abs/2301.10631v1)|null|
+|**2023-01-25**|**Quantum optics measurement scheme for quantum geometry and topological invariants**|Markus Lysne et.al.|[2301.10590v1](http://arxiv.org/abs/2301.10590v1)|null|
+|**2023-01-25**|**The delayed fracture test for viscoelastic elastomers**|Bhavesh Shrimali et.al.|[2301.10490v1](http://arxiv.org/abs/2301.10490v1)|null|
+|**2023-01-25**|**Machine learning using structural representations for discovery of high temperature superconductors**|Lazar Novakovic et.al.|[2301.10474v1](http://arxiv.org/abs/2301.10474v1)|null|
 |**2023-01-24**|**pH-dependent water permeability switching and its memory in 1T' MoS $_2$ membranes**|C. Hu et.al.|[2301.10195v1](http://arxiv.org/abs/2301.10195v1)|null|
 |**2023-01-24**|**Mean field theory of self-organizing memristive connectomes**|Francesco Caravelli et.al.|[2301.10145v1](http://arxiv.org/abs/2301.10145v1)|null|
 |**2023-01-24**|**Dynamics of blood cells during a routine laboratory examination**|Mesfin Taye et.al.|[2301.10124v1](http://arxiv.org/abs/2301.10124v1)|null|
