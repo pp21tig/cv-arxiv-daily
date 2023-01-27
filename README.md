@@ -1095,6 +1095,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**Room-temperature spin glass behavior in zinc ferrite epitaxial thin films**|Julia Lumetzberger et.al.|[2301.11277v1](http://arxiv.org/abs/2301.11277v1)|null|
+|**2023-01-26**|**Planar and Nematic Aerogels: DLCA and Superfluid 3He**|M. D. Nguyen et.al.|[2301.11261v1](http://arxiv.org/abs/2301.11261v1)|null|
+|**2023-01-26**|**Lattice models for ballistic aggregation: cluster-shape dependent exponents**|P. Fahad et.al.|[2301.11250v1](http://arxiv.org/abs/2301.11250v1)|null|
+|**2023-01-26**|**Probing Majorana wavefunctions in Kitaev honeycomb spin liquids with second-order two-dimensional spectroscopy**|Yihua Qiang et.al.|[2301.11243v1](http://arxiv.org/abs/2301.11243v1)|null|
+|**2023-01-26**|**Collective Vortical Motion and Vorticity Reversals of Self-Propelled Particles on Circularly Patterned Substrates**|Haosheng Wen et.al.|[2301.11239v1](http://arxiv.org/abs/2301.11239v1)|null|
+|**2023-01-26**|**Microscopically grounded constitutive model for dense suspensions of soft particles below jamming**|N. Cuny et.al.|[2301.11234v1](http://arxiv.org/abs/2301.11234v1)|null|
+|**2023-01-26**|**What is liquid, from Noether's perspective?**|Florian Sammüller et.al.|[2301.11221v1](http://arxiv.org/abs/2301.11221v1)|null|
+|**2023-01-26**|**Efficient low-energy single-electron detection using a large-area superconducting microstrip**|Masato Shigefuji et.al.|[2301.11212v1](http://arxiv.org/abs/2301.11212v1)|null|
+|**2023-01-26**|**Additive Eigenvector Analysis of Diffusion: Wave-function Phase as Optimal Reaction Coordinate**|Sergei V. Krivov et.al.|[2301.11070v1](http://arxiv.org/abs/2301.11070v1)|null|
+|**2023-01-26**|**Coherent X-ray Scattering Reveals Nanoscale Fluctuations in Hydrated Proteins**|Maddalena Bin et.al.|[2301.11043v1](http://arxiv.org/abs/2301.11043v1)|null|
+|**2023-01-26**|**Electromagnetic pulse transparency in coupled cavity arrays through dispersion management**|Z. Ivic et.al.|[2301.11035v1](http://arxiv.org/abs/2301.11035v1)|null|
+|**2023-01-26**|**A nematic liquid crystal with an immersed body: equilibrium, stress, and paradox**|Thomas G. J. Chandler et.al.|[2301.10924v1](http://arxiv.org/abs/2301.10924v1)|null|
+|**2023-01-25**|**Deformations of an active liquid droplet**|Reiner Kree et.al.|[2301.10824v1](http://arxiv.org/abs/2301.10824v1)|null|
 |**2023-01-25**|**Coexistence of $s$ -wave superconductivity and phase separation in the half-filled extended Hubbard model with attractive interactions**|E. Linnér et.al.|[2301.10755v1](http://arxiv.org/abs/2301.10755v1)|null|
 |**2023-01-25**|**Polar magneto-optic Kerr and Faraday effects in finite periodic \texorpdfstring{ $\mathcal{P}\mathcal{T}$ }{PT}-symmetric systems**|Antonio Perez-Garrido et.al.|[2301.10653v1](http://arxiv.org/abs/2301.10653v1)|null|
 |**2023-01-25**|**Investigation of Planckian behavior in a high-conductivity oxide: PdCrO $_2$**|Elina Zhakina et.al.|[2301.10631v1](http://arxiv.org/abs/2301.10631v1)|null|
