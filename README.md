@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.01.26
+## Updated on 2023.01.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -369,7 +369,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## SFM
 
@@ -448,7 +448,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -722,7 +722,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -832,7 +832,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Image Matching
 
@@ -931,7 +931,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## NeRF
 
@@ -1079,7 +1079,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## NaRF
 
@@ -1089,7 +1089,7 @@
 |**2021-08-18**|**Neural Articulated Radiance Field**|Atsuhiro Noguchi et.al.|[2104.03110v2](http://arxiv.org/abs/2104.03110v2)|**[link](https://github.com/nogu-atsu/NARF)**|
 |**2020-11-11**|**Multi-wavelength high energy gas-filled fiber Raman laser spanning from 1.53 um to 2.4 um**|Abubakar I. Adamu et.al.|[2011.06121v1](http://arxiv.org/abs/2011.06121v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Terahertz
 
@@ -1107,7 +1107,7 @@
 |**2023-01-23**|**Flexible Colloidal Molecules with Directional Bonds and Controlled Flexibility**|Yogesh Shelke et.al.|[2301.10024v1](http://arxiv.org/abs/2301.10024v1)|null|
 |**2023-01-24**|**Lee-Yang theory of quantum phase transitions with neural network quantum states**|Pascal M. Vecsei et.al.|[2301.09923v1](http://arxiv.org/abs/2301.09923v1)|null|
 |**2023-01-24**|**Rotor Lattice Model of Ferroelectric Large Polarons**|Georgios M. Koutentakis et.al.|[2301.09875v1](http://arxiv.org/abs/2301.09875v1)|null|
-|**2023-01-24**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v1](http://arxiv.org/abs/2301.09873v1)|null|
+|**2023-01-26**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v2](http://arxiv.org/abs/2301.09873v2)|null|
 |**2023-01-24**|**Connecting cooperative transport by ants with the physics of active swimmers**|Tabea Heckenthaler et.al.|[2301.09859v1](http://arxiv.org/abs/2301.09859v1)|null|
 |**2023-01-23**|**Approximate higher-form symmetries, topological defects, and dynamical phase transitions**|Jay Armas et.al.|[2301.09628v1](http://arxiv.org/abs/2301.09628v1)|null|
 |**2023-01-23**|**The $(2 + δ)$ -dimensional theory of the electromechanics of lipid membranes: I. Electrostatics**|Yannick A. D. Omar et.al.|[2301.09610v1](http://arxiv.org/abs/2301.09610v1)|null|
@@ -1362,14 +1362,14 @@
 |**2022-12-21**|**Shape-tension coupling produces nematic order in an epithelium vertex model**|Jan Rozman et.al.|[2212.11037v1](http://arxiv.org/abs/2212.11037v1)|null|
 |**2022-12-21**|**Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions**|Yongfeng Zhao et.al.|[2212.10996v1](http://arxiv.org/abs/2212.10996v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Light induce
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
-|**2023-01-24**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v1](http://arxiv.org/abs/2301.09873v1)|null|
+|**2023-01-26**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v2](http://arxiv.org/abs/2301.09873v2)|null|
 |**2023-01-20**|**Quenched lattice fluctuations in optically driven SrTiO3**|M. Fechner et.al.|[2301.08703v1](http://arxiv.org/abs/2301.08703v1)|null|
 |**2023-01-15**|**Light-Driven Transitions in Quantum Paraelectrics**|Zekun Zhuang et.al.|[2301.06161v1](http://arxiv.org/abs/2301.06161v1)|null|
 |**2023-01-15**|**Anomalous Hall effect of light-driven three-dimensional Dirac electrons in bismuth**|Yoshua Hirai et.al.|[2301.06072v1](http://arxiv.org/abs/2301.06072v1)|null|
@@ -1401,7 +1401,7 @@
 |**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
 |**2022-10-25**|**Fast loading of a cold mixture of Sodium and Potassium atoms from compact and versatile cold atomic beam sources**|Sagar Sutradhar et.al.|[2210.14084v1](http://arxiv.org/abs/2210.14084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 ## Intense Terahertz
 
@@ -1428,7 +1428,7 @@
 |**2021-12-20**|**Ramond States of the D1-D5 CFT away from the free orbifold point**|Andre Alves Lima et.al.|[2112.10832v1](http://arxiv.org/abs/2112.10832v1)|null|
 |**2021-12-13**|**Process Tomography on a 7-Qubit Quantum Processor via Tensor Network Contraction Path Finding**|Aidan Dang et.al.|[2112.06364v1](http://arxiv.org/abs/2112.06364v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230127>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
