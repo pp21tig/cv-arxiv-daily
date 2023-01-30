@@ -1095,6 +1095,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**Low-damage electron beam lithography for nanostructures on Bi $_2$Te$_3$ -class topological insulator thin films**|Molly P. Andersen et.al.|[2301.11900v1](http://arxiv.org/abs/2301.11900v1)|null|
+|**2023-01-27**|**Electric-field frictional effects in confined zwitterionic brushes**|Melisa M. Gianetti et.al.|[2301.11861v1](http://arxiv.org/abs/2301.11861v1)|null|
+|**2023-01-27**|**Gas Diffusion in Cement Pastes: An Analysis using a Fluctuating Diffusivity Model**|Fumiaki Nakai et.al.|[2301.11834v1](http://arxiv.org/abs/2301.11834v1)|null|
+|**2023-01-27**|**Spontaneous velocity alignment of Brownian particles with feedback-induced propulsion**|Robin A. Kopp et.al.|[2301.11829v1](http://arxiv.org/abs/2301.11829v1)|null|
+|**2023-01-27**|**Neutrinos from dense: flavor mechanisms, theoretical approaches, observations, new directions**|Maria Cristina Volpe et.al.|[2301.11814v1](http://arxiv.org/abs/2301.11814v1)|null|
+|**2023-01-27**|**Phase separation of passive particles in active liquids**|Pragya Kushwaha et.al.|[2301.11771v1](http://arxiv.org/abs/2301.11771v1)|null|
+|**2023-01-27**|**Robust statistical properties of T1 transitions in confluent cell tissues**|Harish P Jain et.al.|[2301.11758v1](http://arxiv.org/abs/2301.11758v1)|null|
+|**2023-01-27**|**Active Spaghetti: Collective Organization in Cyanobacteria**|Mixon K. Faluweki et.al.|[2301.11667v1](http://arxiv.org/abs/2301.11667v1)|null|
+|**2023-01-27**|**A tape-peeling model for spatiotemporal pattern formation by deformed adhesives**|Keisuke Taga et.al.|[2301.11635v1](http://arxiv.org/abs/2301.11635v1)|null|
+|**2023-01-27**|**Non-Abelian Anyons and Non-Abelian Vortices in Topological Superconductors**|Yusuke Masaki et.al.|[2301.11614v1](http://arxiv.org/abs/2301.11614v1)|null|
+|**2023-01-27**|**A neural network potential with self-trained atomic fingerprints: a test with the mW water potential**|Francesco Guidarelli Mattioli et.al.|[2301.11612v1](http://arxiv.org/abs/2301.11612v1)|null|
+|**2023-01-26**|**Coupled continuum modeling of size-segregation driven by shear-strain-rate gradients and flow in dense, bidisperse granular media**|Daren Liu et.al.|[2301.11453v1](http://arxiv.org/abs/2301.11453v1)|null|
+|**2023-01-26**|**Soft Phonon Theorems**|Clifford Cheung et.al.|[2301.11363v1](http://arxiv.org/abs/2301.11363v1)|null|
 |**2023-01-25**|**Room-temperature spin glass behavior in zinc ferrite epitaxial thin films**|Julia Lumetzberger et.al.|[2301.11277v1](http://arxiv.org/abs/2301.11277v1)|null|
 |**2023-01-26**|**Planar and Nematic Aerogels: DLCA and Superfluid 3He**|M. D. Nguyen et.al.|[2301.11261v1](http://arxiv.org/abs/2301.11261v1)|null|
 |**2023-01-26**|**Lattice models for ballistic aggregation: cluster-shape dependent exponents**|P. Fahad et.al.|[2301.11250v1](http://arxiv.org/abs/2301.11250v1)|null|
