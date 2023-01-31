@@ -1095,6 +1095,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Viscoelastic response of an active particle under the action of magnetic field**|M Muhsin et.al.|[2301.13179v1](http://arxiv.org/abs/2301.13179v1)|null|
+|**2023-01-30**|**Improving the prediction of glassy dynamics by pinpointing the local cage**|Rinske M. Alkemade et.al.|[2301.13106v1](http://arxiv.org/abs/2301.13106v1)|null|
+|**2023-01-30**|**Theoretical model of membrane protrusions driven by curved active proteins**|Yoav Ravid et.al.|[2301.13055v1](http://arxiv.org/abs/2301.13055v1)|null|
+|**2023-01-30**|**Light, Matter, Action: Shining light on active matter**|Marcel Rey et.al.|[2301.13034v1](http://arxiv.org/abs/2301.13034v1)|null|
+|**2023-01-30**|**Network physics of attractive colloidal gels: Resilience, Rigidity, and Phase Diagram**|Mohammad Nabizadeh et.al.|[2301.13027v1](http://arxiv.org/abs/2301.13027v1)|null|
+|**2023-01-30**|**Programmable phase behavior in fluids with designable interactions**|Fan Chen et.al.|[2301.12958v1](http://arxiv.org/abs/2301.12958v1)|null|
+|**2023-01-30**|**Temporal response of the conductivity of electrolytes**|Haggai Bonneau et.al.|[2301.12871v1](http://arxiv.org/abs/2301.12871v1)|null|
+|**2023-01-30**|**Interplay between chiral medium and perfect electromagnetic conductor plates: repulsive vs. attractive Casimir force transitions**|Thomas Oosthuyse et.al.|[2301.12870v1](http://arxiv.org/abs/2301.12870v1)|null|
+|**2023-01-30**|**Development of a Laser-based angle-resolved-photoemission spectrometer with sub-micrometer spatial resolution and high-efficiency spin detection**|R. Z. Xu et.al.|[2301.12835v1](http://arxiv.org/abs/2301.12835v1)|null|
+|**2023-01-30**|**Emergent magnetism as a cooperative effect of interactions and reservoir**|M. Shiranzaei et.al.|[2301.12781v1](http://arxiv.org/abs/2301.12781v1)|null|
+|**2023-01-30**|**Vibrationally Induced Magnetism in Supramolecular Aggregates**|J. Fransson et.al.|[2301.12777v1](http://arxiv.org/abs/2301.12777v1)|null|
+|**2023-01-30**|**The slow viscous flow around doubly-periodic arrays of infinite slender cylinders**|Lyndon Koens et.al.|[2301.12774v1](http://arxiv.org/abs/2301.12774v1)|null|
+|**2023-01-30**|**Necking and failure of a colloidal gel arm: signatures of yielding on different length scales**|Kristian Thijssen et.al.|[2301.12735v1](http://arxiv.org/abs/2301.12735v1)|null|
+|**2023-01-30**|**Scalable fabrication of bijel films via continuous flow slit-coating**|Henrik Siegel et.al.|[2301.12720v1](http://arxiv.org/abs/2301.12720v1)|null|
+|**2023-01-30**|**Solvent quality and solvent polarity in polypeptides**|Cedrix J. Dongmo Foumthuim et.al.|[2301.12709v1](http://arxiv.org/abs/2301.12709v1)|null|
+|**2023-01-30**|**Floquet States**|Naoto Tsuji et.al.|[2301.12676v1](http://arxiv.org/abs/2301.12676v1)|null|
+|**2023-01-29**|**Corbino magnetoresistance in neutral graphene**|Vanessa Gall et.al.|[2301.12516v1](http://arxiv.org/abs/2301.12516v1)|null|
+|**2023-01-29**|**Kinetic reconstruction of free energies as a function of multiple order parameters**|Yagyik Goswami et.al.|[2301.12465v1](http://arxiv.org/abs/2301.12465v1)|null|
+|**2023-01-29**|**The escape transition in a self-avoiding walk model of linear polymers**|EJ Janse van Rensburg et.al.|[2301.12446v1](http://arxiv.org/abs/2301.12446v1)|null|
+|**2023-01-29**|**How universal is the relation between sign problem and phase transition**|Zheng Yan et.al.|[2301.12438v1](http://arxiv.org/abs/2301.12438v1)|null|
 |**2023-01-27**|**Low-damage electron beam lithography for nanostructures on Bi $_2$Te$_3$ -class topological insulator thin films**|Molly P. Andersen et.al.|[2301.11900v1](http://arxiv.org/abs/2301.11900v1)|null|
 |**2023-01-27**|**Electric-field frictional effects in confined zwitterionic brushes**|Melisa M. Gianetti et.al.|[2301.11861v1](http://arxiv.org/abs/2301.11861v1)|null|
 |**2023-01-27**|**Gas Diffusion in Cement Pastes: An Analysis using a Fluctuating Diffusivity Model**|Fumiaki Nakai et.al.|[2301.11834v1](http://arxiv.org/abs/2301.11834v1)|null|
@@ -1394,6 +1414,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Light, Matter, Action: Shining light on active matter**|Marcel Rey et.al.|[2301.13034v1](http://arxiv.org/abs/2301.13034v1)|null|
+|**2023-01-30**|**Coupling photogeneration with thermodynamic modeling of light-induced alloy segregation enables the discovery of stabilizing dopants**|Tong Zhu et.al.|[2301.12627v1](http://arxiv.org/abs/2301.12627v1)|null|
 |**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
 |**2023-01-26**|**Complication and hysteresis of the self-sustaining motion of a molecular-machine assembly caused by the directionality of the applied light energy**|Yoshiyuki Kageyama et.al.|[2301.09873v2](http://arxiv.org/abs/2301.09873v2)|null|
 |**2023-01-20**|**Quenched lattice fluctuations in optically driven SrTiO3**|M. Fechner et.al.|[2301.08703v1](http://arxiv.org/abs/2301.08703v1)|null|
