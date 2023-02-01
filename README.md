@@ -1095,9 +1095,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Armouring of a frictional interface by mechanical noise**|Elisa El Sergany et.al.|[2301.13802v1](http://arxiv.org/abs/2301.13802v1)|null|
+|**2023-01-31**|**Active Nematic Multipoles: Flow Responses and the Dynamics of Defects and Colloids**|Alexander J. H. Houston et.al.|[2301.13782v1](http://arxiv.org/abs/2301.13782v1)|null|
+|**2023-01-31**|**Stick-slip synchronization in stack of elastically coupled frictional interfaces**|Samuel Poincloux et.al.|[2301.13745v1](http://arxiv.org/abs/2301.13745v1)|null|
+|**2023-01-31**|**Elastic solids with strain-gradient elastic boundary surfaces**|Casey Rodriguez et.al.|[2301.13744v1](http://arxiv.org/abs/2301.13744v1)|null|
+|**2023-01-31**|**The emergence of soft-glassy mechanics in simulated foams**|Amruthesh Thirumalaiswamy et.al.|[2301.13400v1](http://arxiv.org/abs/2301.13400v1)|null|
+|**2023-01-31**|**Anisotropic Electron-Hole Excitation and Large Linear Dichroism in Two-Dimensional Ferromagnet CrSBr with In-Plane Magnetization**|Tian-Xiang Qian et.al.|[2301.13342v1](http://arxiv.org/abs/2301.13342v1)|null|
+|**2023-01-30**|**Transport properties in liquids from first principles: the case of liquid water and liquid Argon**|Pier Luigi Silvestrelli et.al.|[2301.13277v1](http://arxiv.org/abs/2301.13277v1)|null|
+|**2023-01-30**|**Adsorption of melting DNA**|Debjyoti Majumdar et.al.|[2301.13272v1](http://arxiv.org/abs/2301.13272v1)|null|
+|**2023-01-30**|**Revealing Rheological Parameters of Cotton-stitch-modified Cotton Fabrics by Three-Network Modeling (TNM) of Materials**|Harmony Werth et.al.|[2301.13270v1](http://arxiv.org/abs/2301.13270v1)|null|
+|**2023-01-30**|**Bohm - de Broglie Cycles**|Olivier Piguet et.al.|[2301.13251v1](http://arxiv.org/abs/2301.13251v1)|null|
+|**2023-01-30**|**Field Theoretic Aspects of Condensed Matter Physics: An Overview**|Eduardo Fradkin et.al.|[2301.13234v1](http://arxiv.org/abs/2301.13234v1)|null|
 |**2023-01-30**|**Viscoelastic response of an active particle under the action of magnetic field**|M Muhsin et.al.|[2301.13179v1](http://arxiv.org/abs/2301.13179v1)|null|
 |**2023-01-30**|**Improving the prediction of glassy dynamics by pinpointing the local cage**|Rinske M. Alkemade et.al.|[2301.13106v1](http://arxiv.org/abs/2301.13106v1)|null|
-|**2023-01-30**|**Theoretical model of membrane protrusions driven by curved active proteins**|Yoav Ravid et.al.|[2301.13055v1](http://arxiv.org/abs/2301.13055v1)|null|
+|**2023-01-30**|**Theoretical model of membrane protrusions driven by curved active proteins**|Yoav Ravid et.al.|[2301.13055v1](http://arxiv.org/abs/2301.13055v1)|**[link](https://github.com/yoavrv/cluster-trisurf)**|
 |**2023-01-30**|**Light, Matter, Action: Shining light on active matter**|Marcel Rey et.al.|[2301.13034v1](http://arxiv.org/abs/2301.13034v1)|null|
 |**2023-01-30**|**Network physics of attractive colloidal gels: Resilience, Rigidity, and Phase Diagram**|Mohammad Nabizadeh et.al.|[2301.13027v1](http://arxiv.org/abs/2301.13027v1)|null|
 |**2023-01-30**|**Programmable phase behavior in fluids with designable interactions**|Fan Chen et.al.|[2301.12958v1](http://arxiv.org/abs/2301.12958v1)|null|
@@ -1414,6 +1425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Designing Covalent Organic Framework-based Light-driven Microswimmers towards Intraocular Theranostic Applications**|Varun Sridhar et.al.|[2301.13787v1](http://arxiv.org/abs/2301.13787v1)|null|
 |**2023-01-30**|**Light, Matter, Action: Shining light on active matter**|Marcel Rey et.al.|[2301.13034v1](http://arxiv.org/abs/2301.13034v1)|null|
 |**2023-01-30**|**Coupling photogeneration with thermodynamic modeling of light-induced alloy segregation enables the discovery of stabilizing dopants**|Tong Zhu et.al.|[2301.12627v1](http://arxiv.org/abs/2301.12627v1)|null|
 |**2023-01-24**|**The ASTRI Cherenkov Camera: from the prototype to the industrial version for the Mini-Array**|G. Sottile et.al.|[2301.09915v1](http://arxiv.org/abs/2301.09915v1)|null|
