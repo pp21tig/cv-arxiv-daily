@@ -1099,6 +1099,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Occurrence of connected clusters in motility-induced phase-separated states of persistent active particles at zero temperature**|Michael Schmiedeberg et.al.|[2302.00570v1](http://arxiv.org/abs/2302.00570v1)|null|
+|**2023-02-01**|**Designing, Synthesizing and Modeling Active Fluids**|Ilham Essafri et.al.|[2302.00548v1](http://arxiv.org/abs/2302.00548v1)|null|
+|**2023-02-01**|**Entropy determination for mixtures in the adiabatic grand-isobaric ensemble**|Caroline Desgranges et.al.|[2302.00507v1](http://arxiv.org/abs/2302.00507v1)|null|
+|**2023-02-01**|**Inferring pointwise diffusion properties of single trajectories with deep learning**|Borja Requena et.al.|[2302.00410v1](http://arxiv.org/abs/2302.00410v1)|null|
+|**2023-02-01**|**Boundary states and Non-Abelian Casimir effect in lattice Yang-Mills theory**|Maxim N. Chernodub et.al.|[2302.00376v1](http://arxiv.org/abs/2302.00376v1)|null|
+|**2023-02-01**|**Aspect-ratio-dependent void formation in active rhomboidal and elliptical particle systems**|Motoya Suzaka et.al.|[2302.00308v1](http://arxiv.org/abs/2302.00308v1)|null|
+|**2023-02-01**|**Electronic Transport in a Topological Semimetal WTe2 Single Crystal**|A. N. Perevalova et.al.|[2302.00297v1](http://arxiv.org/abs/2302.00297v1)|null|
+|**2023-02-01**|**Threshold velocity for collisional growth of porous dust aggregates consisting of cohesive frictionless spheres**|Sota Arakawa et.al.|[2302.00280v1](http://arxiv.org/abs/2302.00280v1)|null|
+|**2023-02-01**|**Physics of Smart Matter: integrating active matter and control to gain insights into living systems**|Herbert Levine et.al.|[2302.00234v1](http://arxiv.org/abs/2302.00234v1)|null|
+|**2023-02-01**|**Enhanced Schiff and magnetic quadrupole moments in deformed nuclei and their connection to the search for axion dark matter**|F. Dalton et.al.|[2302.00214v1](http://arxiv.org/abs/2302.00214v1)|null|
+|**2023-02-01**|**Phase Separation Driven by Active Flows**|Saraswat Bhattacharyya et.al.|[2302.00153v1](http://arxiv.org/abs/2302.00153v1)|null|
+|**2023-01-31**|**Splitting probabilities for dynamics in corrugated channels: passive VS active Brownian motion**|P. Malgaretti et.al.|[2302.00130v1](http://arxiv.org/abs/2302.00130v1)|null|
+|**2023-01-31**|**Ionic liquid-electrode interface: classification of ions, saturation of layers, and structure-determined potentials**|Karl Karu et.al.|[2302.00076v1](http://arxiv.org/abs/2302.00076v1)|null|
+|**2023-01-31**|**Viscosity ratio across interfaces controls the stability and self-assembly of microrollers**|Blaise Delmotte et.al.|[2302.00073v1](http://arxiv.org/abs/2302.00073v1)|null|
 |**2023-01-31**|**Armouring of a frictional interface by mechanical noise**|Elisa El Sergany et.al.|[2301.13802v1](http://arxiv.org/abs/2301.13802v1)|null|
 |**2023-01-31**|**Active Nematic Multipoles: Flow Responses and the Dynamics of Defects and Colloids**|Alexander J. H. Houston et.al.|[2301.13782v1](http://arxiv.org/abs/2301.13782v1)|null|
 |**2023-01-31**|**Stick-slip synchronization in stack of elastically coupled frictional interfaces**|Samuel Poincloux et.al.|[2301.13745v1](http://arxiv.org/abs/2301.13745v1)|null|
@@ -1429,6 +1443,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-01**|**Pseudospin-selective Floquet band engineering in black phosphorus**|Shaohua Zhou et.al.|[2302.00604v1](http://arxiv.org/abs/2302.00604v1)|null|
+|**2023-02-01**|**Light-induced emergent phenomena in 2D materials and topological materials**|Changhua Bao et.al.|[2302.00443v1](http://arxiv.org/abs/2302.00443v1)|null|
 |**2023-01-10**|**Designing Covalent Organic Framework-based Light-driven Microswimmers towards Intraocular Theranostic Applications**|Varun Sridhar et.al.|[2301.13787v1](http://arxiv.org/abs/2301.13787v1)|null|
 |**2023-01-30**|**Light, Matter, Action: Shining light on active matter**|Marcel Rey et.al.|[2301.13034v1](http://arxiv.org/abs/2301.13034v1)|null|
 |**2023-01-30**|**Coupling photogeneration with thermodynamic modeling of light-induced alloy segregation enables the discovery of stabilizing dopants**|Tong Zhu et.al.|[2301.12627v1](http://arxiv.org/abs/2301.12627v1)|null|
