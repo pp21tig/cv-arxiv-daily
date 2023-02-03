@@ -1099,6 +1099,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-02**|**Laser-Induced Cavitation for Controlling Crystallization from Solution**|Nagaraj Nagalingam et.al.|[2302.01218v1](http://arxiv.org/abs/2302.01218v1)|null|
+|**2023-02-02**|**Spontaneous symmetry breaking without ground state degeneracy in generalized $N$ -state clock model**|Yaozong Hu et.al.|[2302.01207v1](http://arxiv.org/abs/2302.01207v1)|null|
+|**2023-02-02**|**Interparticle correlations and chemical bonding from physical side: Covalency $\textit{versus}$ atomicity and ionicity**|Ewa Brocławik et.al.|[2302.01136v1](http://arxiv.org/abs/2302.01136v1)|null|
+|**2023-02-01**|**Polyelectrolyte Knot Delocalization Induced by Counterion Condensation**|Shensheng Chen et.al.|[2302.01080v1](http://arxiv.org/abs/2302.01080v1)|null|
+|**2023-02-02**|**Accurate recipe for predicting valley Linear Weyl phonons in two dimensions**|Mingmin Zhong et.al.|[2302.01054v1](http://arxiv.org/abs/2302.01054v1)|null|
+|**2023-02-02**|**Absence of Correlations in Dissipative Interacting Qubits: a No-Go Theorem**|Zeqing Wang et.al.|[2302.00976v1](http://arxiv.org/abs/2302.00976v1)|null|
+|**2023-02-02**|**Exploring the Relationship Between Softness and Excess Entropy in Glass-forming Systems**|Ian R. Graham et.al.|[2302.00866v1](http://arxiv.org/abs/2302.00866v1)|null|
+|**2023-02-01**|**Blume-Emery-Griffiths model on Random Graphs**|R. Erichsen Jr. et.al.|[2302.00712v1](http://arxiv.org/abs/2302.00712v1)|null|
 |**2023-02-01**|**Occurrence of connected clusters in motility-induced phase-separated states of persistent active particles at zero temperature**|Michael Schmiedeberg et.al.|[2302.00570v1](http://arxiv.org/abs/2302.00570v1)|null|
 |**2023-02-01**|**Designing, Synthesizing and Modeling Active Fluids**|Ilham Essafri et.al.|[2302.00548v1](http://arxiv.org/abs/2302.00548v1)|null|
 |**2023-02-01**|**Entropy determination for mixtures in the adiabatic grand-isobaric ensemble**|Caroline Desgranges et.al.|[2302.00507v1](http://arxiv.org/abs/2302.00507v1)|null|
