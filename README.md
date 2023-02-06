@@ -1095,6 +1095,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Effects of orientational and positional randomness of particles on photonic band gap**|Zichen Qin et.al.|[2302.01812v1](http://arxiv.org/abs/2302.01812v1)|null|
+|**2023-02-03**|**Letter to the Editor Concerning Simultaneous, Single-Particle Measurements of Size and Loading Give Insights into the Structure of Drug-Delivery Nanoparticles**|Andrew C. Madison et.al.|[2302.01778v1](http://arxiv.org/abs/2302.01778v1)|null|
+|**2023-02-03**|**Effective viscosity of methyl cellulose solutions in phosphate buffered saline in real-time deformability cytometry**|Felix Reichel et.al.|[2302.01664v1](http://arxiv.org/abs/2302.01664v1)|null|
+|**2023-02-03**|**Simultaneous measurement of specific heat and thermal conductivity in pulsed magnetic fields**|Tetsuya Nomoto et.al.|[2302.01627v1](http://arxiv.org/abs/2302.01627v1)|null|
+|**2023-02-03**|**Realization of a Hopf insulator in circuit systems**|Zhu Wang et.al.|[2302.01591v1](http://arxiv.org/abs/2302.01591v1)|null|
+|**2023-02-02**|**Approach to Hyperuniformity in a Metallic Glass-Forming Material Exhibiting a Fragile to Strong Glass Transition**|Hao Zhang et.al.|[2302.01429v1](http://arxiv.org/abs/2302.01429v1)|null|
+|**2023-02-02**|**Spectral crossover in non-hermitian spin chain systems: comparison with random matrix theory**|Ayana Sarkar et.al.|[2302.01423v1](http://arxiv.org/abs/2302.01423v1)|null|
 |**2023-02-02**|**Laser-Induced Cavitation for Controlling Crystallization from Solution**|Nagaraj Nagalingam et.al.|[2302.01218v1](http://arxiv.org/abs/2302.01218v1)|null|
 |**2023-02-02**|**Spontaneous symmetry breaking without ground state degeneracy in generalized $N$ -state clock model**|Yaozong Hu et.al.|[2302.01207v1](http://arxiv.org/abs/2302.01207v1)|null|
 |**2023-02-02**|**Interparticle correlations and chemical bonding from physical side: Covalency $\textit{versus}$ atomicity and ionicity**|Ewa Brocławik et.al.|[2302.01136v1](http://arxiv.org/abs/2302.01136v1)|null|
