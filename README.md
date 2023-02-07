@@ -1095,6 +1095,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-06**|**Interacting, running and tumbling: the active Dyson Brownian motion**|Leo Touzo et.al.|[2302.02937v1](http://arxiv.org/abs/2302.02937v1)|null|
+|**2023-02-06**|**Accumulation of scale-free localized states induced by local non-Hermiticity**|Cui-Xian Guo et.al.|[2302.02798v1](http://arxiv.org/abs/2302.02798v1)|null|
+|**2023-02-06**|**Effects of Average Number of Platelets Through the Thickness and Platelet Width on the Mechanical Properties of Discontinuous Fiber Composites**|Seunghyun Ko et.al.|[2302.02574v1](http://arxiv.org/abs/2302.02574v1)|null|
+|**2023-02-06**|**Local and global measures of the shear moduli of jammed disk packings**|S. Zhang et.al.|[2302.02545v1](http://arxiv.org/abs/2302.02545v1)|null|
+|**2023-02-05**|**MATILDA.FT, a Mesoscale Simulation Package for Inhomogeneous Soft Matter**|Zuzanna M. Jedlinska et.al.|[2302.02474v1](http://arxiv.org/abs/2302.02474v1)|null|
+|**2023-02-05**|**Polystyrene clusters captured by acoustic tweezers spontaneously rupturing**|Saeedeh Kabiri et.al.|[2302.02319v1](http://arxiv.org/abs/2302.02319v1)|null|
+|**2023-02-04**|**Anomalous Scaling of Aeolian Sand Transport Reveals Coupling to Bed Rheology**|Katharina Tholen et.al.|[2302.02067v1](http://arxiv.org/abs/2302.02067v1)|null|
+|**2023-02-03**|**Work fluctuations of Brownian harmonic oscillators driven by "active-like'' viscoelastic baths**|Biswajit Das et.al.|[2302.01996v1](http://arxiv.org/abs/2302.01996v1)|null|
+|**2023-02-03**|**The surface tension of bulky colloids, capillarity under gravity and the microscopic origin of the KPZ equation**|Luis G. MacDowell et.al.|[2302.01959v1](http://arxiv.org/abs/2302.01959v1)|null|
+|**2023-02-03**|**$Q$ -Deformed Rainbows: a Universal Simulator of Free Entanglement Spectra**|Lucy Byles et.al.|[2302.01950v1](http://arxiv.org/abs/2302.01950v1)|null|
 |**2023-02-03**|**Effects of orientational and positional randomness of particles on photonic band gap**|Zichen Qin et.al.|[2302.01812v1](http://arxiv.org/abs/2302.01812v1)|null|
 |**2023-02-03**|**Letter to the Editor Concerning Simultaneous, Single-Particle Measurements of Size and Loading Give Insights into the Structure of Drug-Delivery Nanoparticles**|Andrew C. Madison et.al.|[2302.01778v1](http://arxiv.org/abs/2302.01778v1)|null|
 |**2023-02-03**|**Effective viscosity of methyl cellulose solutions in phosphate buffered saline in real-time deformability cytometry**|Felix Reichel et.al.|[2302.01664v1](http://arxiv.org/abs/2302.01664v1)|null|
