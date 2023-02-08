@@ -1095,6 +1095,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**Spatial mapping and analysis of graphene nanomechanical resonator networks**|Brittany Carter et.al.|[2302.03680v1](http://arxiv.org/abs/2302.03680v1)|null|
+|**2023-02-07**|**Ionic Liquid Crystal-Based Solid Electrolytes: Experiments and Modeling**|Md Sharif Khan et.al.|[2302.03639v1](http://arxiv.org/abs/2302.03639v1)|null|
+|**2023-02-07**|**Suspensions of viscoelastic capsules: effect of membrane viscosity on transient dynamics**|Fabio Guglietta et.al.|[2302.03546v1](http://arxiv.org/abs/2302.03546v1)|null|
+|**2023-02-07**|**Thermal fading of the $1/k^4$ -tail of the momentum distribution induced by the hole anomaly**|Giulia De Rosi et.al.|[2302.03509v1](http://arxiv.org/abs/2302.03509v1)|null|
+|**2023-02-07**|**Towards New Liquid Crystal Phases of DNA mesogens**|Kit Gallagher et.al.|[2302.03501v1](http://arxiv.org/abs/2302.03501v1)|null|
+|**2023-02-07**|**The θ-formulation of the 2D elastica -- Buckling and boundary layer theory**|Gregory Kozyreff et.al.|[2302.03463v1](http://arxiv.org/abs/2302.03463v1)|null|
+|**2023-02-07**|**Ionic fluctuations in finite volumes: fractional noise and hyperuniformity**|Thê Hoang Ngoc Minh et.al.|[2302.03393v1](http://arxiv.org/abs/2302.03393v1)|null|
+|**2023-02-07**|**Diffusive and inertial effects in three-dimensional phase separation of liquid-vapor systems**|Giuseppe Negro et.al.|[2302.03382v1](http://arxiv.org/abs/2302.03382v1)|null|
+|**2023-02-07**|**Optimal Control of Granular Material**|Yuichiro Aoyama et.al.|[2302.03231v1](http://arxiv.org/abs/2302.03231v1)|null|
+|**2023-02-07**|**Zero-Point Motion of Liquid and Solid Hydrogen**|T. R. Prisk et.al.|[2302.03190v1](http://arxiv.org/abs/2302.03190v1)|null|
+|**2023-02-06**|**Characteristics of fluid-fluid displacement in model mixed-wet porous media: patterns, pressures, and scalings**|Ashkan Irannezhad et.al.|[2302.03072v1](http://arxiv.org/abs/2302.03072v1)|null|
+|**2023-02-06**|**Granular binary mixtures improve energy dissipation efficiency of granular dampers**|Nydia Roxana Varela-Rosales et.al.|[2302.03069v1](http://arxiv.org/abs/2302.03069v1)|null|
 |**2023-02-06**|**Interacting, running and tumbling: the active Dyson Brownian motion**|Leo Touzo et.al.|[2302.02937v1](http://arxiv.org/abs/2302.02937v1)|null|
 |**2023-02-06**|**Accumulation of scale-free localized states induced by local non-Hermiticity**|Cui-Xian Guo et.al.|[2302.02798v1](http://arxiv.org/abs/2302.02798v1)|null|
 |**2023-02-06**|**Effects of Average Number of Platelets Through the Thickness and Platelet Width on the Mechanical Properties of Discontinuous Fiber Composites**|Seunghyun Ko et.al.|[2302.02574v1](http://arxiv.org/abs/2302.02574v1)|null|
