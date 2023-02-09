@@ -1095,6 +1095,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Three Dimensional Spontaneous Flow Transition in Active Polar Fluids**|Abhinav Singh et.al.|[2302.04259v1](http://arxiv.org/abs/2302.04259v1)|null|
+|**2023-02-08**|**Reduced-order approach for soft material inertial cavitation rheometry**|Zhiren Zhu et.al.|[2302.04227v1](http://arxiv.org/abs/2302.04227v1)|null|
+|**2023-02-08**|**Self-solidifying active droplets showing memory-induced chirality**|Kai Feng et.al.|[2302.04195v1](http://arxiv.org/abs/2302.04195v1)|null|
+|**2023-02-08**|**Coarse-graining the vertex model and its response to shear**|Gloria Triguero-Platero et.al.|[2302.04111v1](http://arxiv.org/abs/2302.04111v1)|null|
+|**2023-02-08**|**Reversible stepwise condensation polymerization with cyclization: strictly alternating co-polymerization and homopolymerization based upon two orthogonal reactions**|Michael Lang et.al.|[2302.04082v1](http://arxiv.org/abs/2302.04082v1)|null|
+|**2023-02-08**|**Entanglement in Resonance Fluorescence**|Juan Camilo López Carreño et.al.|[2302.04059v1](http://arxiv.org/abs/2302.04059v1)|null|
+|**2023-02-08**|**The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics**|Elena Bachini et.al.|[2302.04028v1](http://arxiv.org/abs/2302.04028v1)|null|
+|**2023-02-08**|**Diffusionless relaxation of half-skyrmion liquid, hexatic, and crystalline states in a chiral molecular crystal**|Kyohei Takae et.al.|[2302.04021v1](http://arxiv.org/abs/2302.04021v1)|null|
+|**2023-02-08**|**Generalized Langevin equation with shear flow and its fluctuation-dissipation theorems derived from a Caldeira-Leggett Hamiltonian**|Sara Pelargonio et.al.|[2302.03982v1](http://arxiv.org/abs/2302.03982v1)|null|
+|**2023-02-08**|**Chiral phonons probed by X rays**|Hiroki Ueda et.al.|[2302.03925v1](http://arxiv.org/abs/2302.03925v1)|null|
+|**2023-02-07**|**Single and two-cells shape analysis from energy functionals for three-dimensional vertex models**|Ahmad K. Khan et.al.|[2302.03785v1](http://arxiv.org/abs/2302.03785v1)|null|
 |**2023-02-07**|**Spatial mapping and analysis of graphene nanomechanical resonator networks**|Brittany Carter et.al.|[2302.03680v1](http://arxiv.org/abs/2302.03680v1)|null|
 |**2023-02-07**|**Ionic Liquid Crystal-Based Solid Electrolytes: Experiments and Modeling**|Md Sharif Khan et.al.|[2302.03639v1](http://arxiv.org/abs/2302.03639v1)|null|
 |**2023-02-07**|**Suspensions of viscoelastic capsules: effect of membrane viscosity on transient dynamics**|Fabio Guglietta et.al.|[2302.03546v1](http://arxiv.org/abs/2302.03546v1)|null|
