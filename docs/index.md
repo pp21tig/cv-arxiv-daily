@@ -1099,6 +1099,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**An Introduction to the Theory of Spin Glasses**|Ada Altieri et.al.|[2302.04842v1](http://arxiv.org/abs/2302.04842v1)|null|
+|**2023-02-09**|**Emergent States in Systems of Chiral Self-Propelled Rods**|Rüdiger Kürsten et.al.|[2302.04740v1](http://arxiv.org/abs/2302.04740v1)|null|
+|**2023-02-09**|**Quantum simulation costs for Suzuki-Trotter decomposition of quantum many-body lattice models**|Nathan M. Myers et.al.|[2302.04698v1](http://arxiv.org/abs/2302.04698v1)|null|
+|**2023-02-09**|**Interplay of Mechanochemistry and Material Processes in the Graphite to Diamond Phase Transformation**|Brenden W. Hamilton et.al.|[2302.04684v1](http://arxiv.org/abs/2302.04684v1)|null|
+|**2023-02-09**|**A simple and general approach for reversible condensation polymerization with cyclization**|Michael Lang et.al.|[2302.04483v1](http://arxiv.org/abs/2302.04483v1)|null|
+|**2023-02-09**|**Disentangling $1/f$ noise from confined ion dynamics**|Paul Robin et.al.|[2302.04468v1](http://arxiv.org/abs/2302.04468v1)|null|
+|**2023-02-08**|**ER network heterogeneity guides diffusive transport and kinetics**|Zubenelgenubi C. Scott et.al.|[2302.04377v1](http://arxiv.org/abs/2302.04377v1)|null|
+|**2023-02-08**|**Non-Equilibrium View of the Amorphous Solidification of Liquids with Competing Interactions**|Ana Gabriela Carretas-Talamante et.al.|[2302.04290v1](http://arxiv.org/abs/2302.04290v1)|null|
 |**2023-02-08**|**Three Dimensional Spontaneous Flow Transition in Active Polar Fluids**|Abhinav Singh et.al.|[2302.04259v1](http://arxiv.org/abs/2302.04259v1)|null|
 |**2023-02-08**|**Reduced-order approach for soft material inertial cavitation rheometry**|Zhiren Zhu et.al.|[2302.04227v1](http://arxiv.org/abs/2302.04227v1)|null|
 |**2023-02-08**|**Self-solidifying active droplets showing memory-induced chirality**|Kai Feng et.al.|[2302.04195v1](http://arxiv.org/abs/2302.04195v1)|null|
@@ -1491,6 +1499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-09**|**Nanomotion of micro-objects driven by light-induced elastic waves on solid interfaces**|Wei Lyu et.al.|[2302.04683v1](http://arxiv.org/abs/2302.04683v1)|null|
 |**2023-02-01**|**Pseudospin-selective Floquet band engineering in black phosphorus**|Shaohua Zhou et.al.|[2302.00604v1](http://arxiv.org/abs/2302.00604v1)|null|
 |**2023-02-01**|**Light-induced emergent phenomena in 2D materials and topological materials**|Changhua Bao et.al.|[2302.00443v1](http://arxiv.org/abs/2302.00443v1)|null|
 |**2023-01-10**|**Designing Covalent Organic Framework-based Light-driven Microswimmers towards Intraocular Theranostic Applications**|Varun Sridhar et.al.|[2301.13787v1](http://arxiv.org/abs/2301.13787v1)|null|
