@@ -1099,6 +1099,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**On-chip time-domain terahertz spectroscopy of superconducting films below the diffraction limit**|Alex Potts et.al.|[2302.05434v1](http://arxiv.org/abs/2302.05434v1)|null|
+|**2023-02-10**|**Crystallization and topology-induced dynamical heterogeneities in soft granular clusters**|Michal Bogdan et.al.|[2302.05363v1](http://arxiv.org/abs/2302.05363v1)|null|
+|**2023-02-10**|**Few-femtosecond phase-sensitive detection of infrared electric fields with a third-order nonlinearity**|Hannes Kempf et.al.|[2302.05238v1](http://arxiv.org/abs/2302.05238v1)|null|
+|**2023-02-10**|**The full Lorentz-violating vacuum polarization tensor: low and high energy limits**|J. C. C. Felipe et.al.|[2302.05236v1](http://arxiv.org/abs/2302.05236v1)|null|
+|**2023-02-10**|**Phenomenological model of supercooled liquid as a possible resolution of the Kauzmann paradox**|M. V. Kondrin et.al.|[2302.05162v1](http://arxiv.org/abs/2302.05162v1)|null|
+|**2023-02-10**|**The energy cost of local rearrangements, not cooperative effects, makes glasses solid**|Massimo Pica Ciamarra et.al.|[2302.05150v1](http://arxiv.org/abs/2302.05150v1)|null|
+|**2023-02-10**|**Unidirectional electron-phonon coupling as a "fingerprint'' of the nematic state in a kagome superconductor**|Ping Wu et.al.|[2302.05115v1](http://arxiv.org/abs/2302.05115v1)|null|
+|**2023-02-10**|**Ferroelectric Antiferromagnetic Quantum Anomalous Hall Insulator in TwoDimensional van der Waals Materials**|Yan Liang et.al.|[2302.05091v1](http://arxiv.org/abs/2302.05091v1)|null|
+|**2023-02-10**|**Intermediate-range order governs dynamics in dense colloidal liquids**|Navneet Singh et.al.|[2302.05084v1](http://arxiv.org/abs/2302.05084v1)|null|
+|**2023-02-10**|**Steering undulatory micro-swimmers in a fluid flow through reinforcement learning**|Zakarya El Khiyati et.al.|[2302.05081v1](http://arxiv.org/abs/2302.05081v1)|null|
+|**2023-02-09**|**A kinetic perspective of charge transfer reactions: the downfall of hard/soft acid/base interactions**|Ramon Alain Miranda Quintana et.al.|[2302.04935v1](http://arxiv.org/abs/2302.04935v1)|null|
 |**2023-02-09**|**An Introduction to the Theory of Spin Glasses**|Ada Altieri et.al.|[2302.04842v1](http://arxiv.org/abs/2302.04842v1)|null|
 |**2023-02-09**|**Emergent States in Systems of Chiral Self-Propelled Rods**|Rüdiger Kürsten et.al.|[2302.04740v1](http://arxiv.org/abs/2302.04740v1)|null|
 |**2023-02-09**|**Quantum simulation costs for Suzuki-Trotter decomposition of quantum many-body lattice models**|Nathan M. Myers et.al.|[2302.04698v1](http://arxiv.org/abs/2302.04698v1)|null|
@@ -1499,6 +1510,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-10**|**Ultrafast electron-electron scattering in metallic phase of 2H-NbSe $_2$ probed by high harmonic generation**|K. S. Shimomura et.al.|[2302.04984v1](http://arxiv.org/abs/2302.04984v1)|null|
 |**2023-02-09**|**Nanomotion of micro-objects driven by light-induced elastic waves on solid interfaces**|Wei Lyu et.al.|[2302.04683v1](http://arxiv.org/abs/2302.04683v1)|null|
 |**2023-02-01**|**Pseudospin-selective Floquet band engineering in black phosphorus**|Shaohua Zhou et.al.|[2302.00604v1](http://arxiv.org/abs/2302.00604v1)|null|
 |**2023-02-01**|**Light-induced emergent phenomena in 2D materials and topological materials**|Changhua Bao et.al.|[2302.00443v1](http://arxiv.org/abs/2302.00443v1)|null|
