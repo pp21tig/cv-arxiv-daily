@@ -1099,6 +1099,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-13**|**Molecular hydrodynamic theory of the velocity autocorrelation function**|Sean L Seyler et.al.|[2302.06546v1](http://arxiv.org/abs/2302.06546v1)|null|
+|**2023-02-13**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic and Molecular Physics, Condensed Matter and Materials Physics, and Earth Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
+|**2023-02-13**|**Temperature dependence of fast relaxation processes in amorphous materials**|Gieberth Rodriguez-Lopez et.al.|[2302.06471v1](http://arxiv.org/abs/2302.06471v1)|null|
+|**2023-02-13**|**Microstructural diversity, nucleation paths and phase behaviour in binary mixtures of charged colloidal spheres**|Nina Lorenz et.al.|[2302.06382v1](http://arxiv.org/abs/2302.06382v1)|null|
+|**2023-02-13**|**Shear thinning of non-Brownian suspensions and its variation at different ambient conditions**|Yuan Lin et.al.|[2302.06373v1](http://arxiv.org/abs/2302.06373v1)|null|
+|**2023-02-13**|**Hydrogels enable negative pressure in water for efficient heat utilization and transfer**|Yuxi Liu et.al.|[2302.06371v1](http://arxiv.org/abs/2302.06371v1)|null|
+|**2023-02-13**|**Experimental Realization of Geometry-Dependent Skin Effect in a Reciprocal Two-Dimensional Lattice**|Wei Wang et.al.|[2302.06314v1](http://arxiv.org/abs/2302.06314v1)|null|
+|**2023-02-13**|**Aharonov--Bohm and Aharonov--Casher effects in meso-scopic physics: A brief review**|Y. Avishai et.al.|[2302.06300v1](http://arxiv.org/abs/2302.06300v1)|null|
+|**2023-02-13**|**Soliton Confinement in a Quantum Circuit**|Ananda Roy et.al.|[2302.06289v1](http://arxiv.org/abs/2302.06289v1)|null|
+|**2023-02-13**|**Signatures of many-body localization of quasiparticles in a flat band superconductor**|Koushik Swaminathan et.al.|[2302.06250v1](http://arxiv.org/abs/2302.06250v1)|null|
+|**2023-02-13**|**Fermi surface nesting and surface topological superconductivity in $A$V$_{3}$Sb$_{5}$**|Junze Deng et.al.|[2302.06211v1](http://arxiv.org/abs/2302.06211v1)|null|
+|**2023-02-13**|**Transient shear banding during startup flow: Insights from nonlinear simulations**|Shweta Sharma et.al.|[2302.06129v1](http://arxiv.org/abs/2302.06129v1)|null|
+|**2023-02-13**|**Probing magnetic properties at the nanoscale: In-situ Hall measurements in a TEM**|Darius Pohl et.al.|[2302.06127v1](http://arxiv.org/abs/2302.06127v1)|null|
+|**2023-02-12**|**Quantum Simulation of an Extended Dicke Model with a Magnetic Solid**|Nicolas Marquez Peraca et.al.|[2302.06028v1](http://arxiv.org/abs/2302.06028v1)|null|
+|**2023-02-12**|**Solid-amorphous transition is related to the waterlike anomalies in a fluid without liquid-liquid phase transition**|José Rafael Bordin et.al.|[2302.05999v1](http://arxiv.org/abs/2302.05999v1)|null|
+|**2023-02-12**|**G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit**|M. H. Kelsey et.al.|[2302.05998v1](http://arxiv.org/abs/2302.05998v1)|null|
+|**2023-02-12**|**Noisy pursuit by a self-steering active particle in confinement**|Marielle Gassner et.al.|[2302.05986v1](http://arxiv.org/abs/2302.05986v1)|null|
+|**2023-02-12**|**Quantum vortices of strongly interacting photons**|Lee Drori et.al.|[2302.05967v1](http://arxiv.org/abs/2302.05967v1)|null|
+|**2023-02-12**|**Ginzburg-Landau approximation for the Hubbard model in the external magnetic field**|L. B. Dubovskii et.al.|[2302.05958v1](http://arxiv.org/abs/2302.05958v1)|null|
+|**2023-02-12**|**Learning to write with the fluid rope trick**|Gaurav Chaudhary et.al.|[2302.05853v1](http://arxiv.org/abs/2302.05853v1)|null|
 |**2023-02-10**|**On-chip time-domain terahertz spectroscopy of superconducting films below the diffraction limit**|Alex Potts et.al.|[2302.05434v1](http://arxiv.org/abs/2302.05434v1)|null|
 |**2023-02-10**|**Crystallization and topology-induced dynamical heterogeneities in soft granular clusters**|Michal Bogdan et.al.|[2302.05363v1](http://arxiv.org/abs/2302.05363v1)|null|
 |**2023-02-10**|**Few-femtosecond phase-sensitive detection of infrared electric fields with a third-order nonlinearity**|Hannes Kempf et.al.|[2302.05238v1](http://arxiv.org/abs/2302.05238v1)|null|
@@ -1510,6 +1530,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-12**|**Frequency-resolved microscopic current density analysis of linear and nonlinear optical phenomena in solids**|Shunsuke A. Sato et.al.|[2302.05859v1](http://arxiv.org/abs/2302.05859v1)|null|
 |**2023-02-13**|**Ultrafast electron-electron scattering in metallic phase of 2H-NbSe $_2$ probed by high harmonic generation**|K. S. Takeda et.al.|[2302.04984v2](http://arxiv.org/abs/2302.04984v2)|null|
 |**2023-02-09**|**Nanomotion of micro-objects driven by light-induced elastic waves on solid interfaces**|Wei Lyu et.al.|[2302.04683v1](http://arxiv.org/abs/2302.04683v1)|null|
 |**2023-02-01**|**Pseudospin-selective Floquet band engineering in black phosphorus**|Shaohua Zhou et.al.|[2302.00604v1](http://arxiv.org/abs/2302.00604v1)|null|
