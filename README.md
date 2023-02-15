@@ -1095,6 +1095,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**Microscopic mechanism of tunable thermal conductivity in carbon nanotube-geopolymer nanocomposites**|Wenkai Liu et.al.|[2302.07195v1](http://arxiv.org/abs/2302.07195v1)|null|
+|**2023-02-14**|**Phase Separation and Aggregation in Multiblock Chains**|Athanassios Z. Panagiotopoulos et.al.|[2302.07169v1](http://arxiv.org/abs/2302.07169v1)|null|
+|**2023-02-14**|**End-Tethered Chains Increase the Local Glass Transition Temperature of Matrix Chains by 45 K Next to Solid Substrates Independent of Chain Length**|James H. Merrill et.al.|[2302.07097v1](http://arxiv.org/abs/2302.07097v1)|null|
+|**2023-02-14**|**Unified Description of the Aharonov--Bohm Effect in Isotropic Multiband Electronic Systems**|Róbert Németh et.al.|[2302.07050v1](http://arxiv.org/abs/2302.07050v1)|null|
+|**2023-02-14**|**Quantum viscosity and the Reynolds similitude in quantum liquid He-II**|Hiromitsu Takeuchi et.al.|[2302.07039v1](http://arxiv.org/abs/2302.07039v1)|null|
+|**2023-02-14**|**Bruce-Vincent transference numbers from molecular dynamics simulations**|Yunqi Shao et.al.|[2302.07017v1](http://arxiv.org/abs/2302.07017v1)|null|
+|**2023-02-14**|**Laser-induced topological spin switching in a 2D van der Waals magnet**|Maya Khela et.al.|[2302.06964v1](http://arxiv.org/abs/2302.06964v1)|null|
+|**2023-02-14**|**Counting and Sequential Information Processing in Mechanical Metamaterials**|Lennard J. Kwakernaak et.al.|[2302.06947v1](http://arxiv.org/abs/2302.06947v1)|null|
+|**2023-02-13**|**Optimal motility strategies for self-propelled agents to explore porous media**|Christoph Lohrmann et.al.|[2302.06709v1](http://arxiv.org/abs/2302.06709v1)|null|
+|**2023-02-13**|**Berry curvature associated to Fermi arcs in continuum and lattice Weyl systems**|Dennis Wawrzik et.al.|[2302.06678v1](http://arxiv.org/abs/2302.06678v1)|null|
 |**2023-02-13**|**Molecular hydrodynamic theory of the velocity autocorrelation function**|Sean L Seyler et.al.|[2302.06546v1](http://arxiv.org/abs/2302.06546v1)|null|
 |**2023-02-13**|**ASFAP Working Groups Activity Summary: Biophysics, Light Sources, Atomic and Molecular Physics, Condensed Matter and Materials Physics, and Earth Sciences**|Sonia Haddad et.al.|[2302.06505v1](http://arxiv.org/abs/2302.06505v1)|null|
 |**2023-02-13**|**Temperature dependence of fast relaxation processes in amorphous materials**|Gieberth Rodriguez-Lopez et.al.|[2302.06471v1](http://arxiv.org/abs/2302.06471v1)|null|
