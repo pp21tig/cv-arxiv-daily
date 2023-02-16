@@ -1099,6 +1099,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-15**|**A "morphogenetic action" principle for 3D shape formation by the growth of thin sheets**|Dillon J. Cislo et.al.|[2302.07839v1](http://arxiv.org/abs/2302.07839v1)|null|
+|**2023-02-15**|**Minimum Entropy Production by Microswimmers with Internal Dissipation**|Abdallah Daddi-Moussa-Ider et.al.|[2302.07711v1](http://arxiv.org/abs/2302.07711v1)|null|
+|**2023-02-15**|**Entropy bound for time reversal markers**|Gabriel Knotz et.al.|[2302.07709v1](http://arxiv.org/abs/2302.07709v1)|null|
+|**2023-02-15**|**Chemical logic gates on active colloids**|Jiang-Xing Chen et.al.|[2302.07670v1](http://arxiv.org/abs/2302.07670v1)|null|
+|**2023-02-15**|**Schrödinger symmetry of Schwarzschild-(A)dS black hole mechanics**|Jibril Ben Achour et.al.|[2302.07644v1](http://arxiv.org/abs/2302.07644v1)|null|
+|**2023-02-15**|**Incorporating Ion-Specific van der Waals and Soft Repulsive Interactions in the Poisson-Boltzmann Theory of Electrical Double Layers**|Aniruddha Seal et.al.|[2302.07628v1](http://arxiv.org/abs/2302.07628v1)|null|
+|**2023-02-15**|**Collective response to local perturbations: how to evade threats without losing coherence**|Emanuele Loffredo et.al.|[2302.07592v1](http://arxiv.org/abs/2302.07592v1)|**[link](https://github.com/sonarventu/ISM)**|
+|**2023-02-14**|**Informational active matter**|Bryan VanSaders et.al.|[2302.07402v1](http://arxiv.org/abs/2302.07402v1)|null|
+|**2023-02-14**|**Dead or alive: Distinguishing active from passive particles using supervised learning**|Giulia Janzen et.al.|[2302.07353v1](http://arxiv.org/abs/2302.07353v1)|null|
 |**2023-02-14**|**Microscopic mechanism of tunable thermal conductivity in carbon nanotube-geopolymer nanocomposites**|Wenkai Liu et.al.|[2302.07195v1](http://arxiv.org/abs/2302.07195v1)|null|
 |**2023-02-14**|**Phase Separation and Aggregation in Multiblock Chains**|Athanassios Z. Panagiotopoulos et.al.|[2302.07169v1](http://arxiv.org/abs/2302.07169v1)|null|
 |**2023-02-14**|**End-Tethered Chains Increase the Local Glass Transition Temperature of Matrix Chains by 45 K Next to Solid Substrates Independent of Chain Length**|James H. Merrill et.al.|[2302.07097v1](http://arxiv.org/abs/2302.07097v1)|null|
@@ -1540,6 +1549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**Ion dynamic characterization using phase-resolved laser-induced fluorescence spectroscopy in low power Hall effect thruster**|Y. Dancheva et.al.|[2302.07310v1](http://arxiv.org/abs/2302.07310v1)|null|
 |**2023-02-12**|**Frequency-resolved microscopic current density analysis of linear and nonlinear optical phenomena in solids**|Shunsuke A. Sato et.al.|[2302.05859v1](http://arxiv.org/abs/2302.05859v1)|null|
 |**2023-02-13**|**Ultrafast electron-electron scattering in metallic phase of 2H-NbSe $_2$ probed by high harmonic generation**|K. S. Takeda et.al.|[2302.04984v2](http://arxiv.org/abs/2302.04984v2)|null|
 |**2023-02-09**|**Nanomotion of micro-objects driven by light-induced elastic waves on solid interfaces**|Wei Lyu et.al.|[2302.04683v1](http://arxiv.org/abs/2302.04683v1)|null|
