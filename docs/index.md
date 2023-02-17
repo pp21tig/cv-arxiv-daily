@@ -1099,6 +1099,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-16**|**Shear-induced bimodality and stability analysis of chiral spheroidal swimmers**|Mohammad Reza Shabanniya et.al.|[2302.08483v1](http://arxiv.org/abs/2302.08483v1)|null|
+|**2023-02-16**|**Relieving nematic geometric frustration in the plane**|Andrea Pedrini et.al.|[2302.08442v1](http://arxiv.org/abs/2302.08442v1)|null|
+|**2023-02-16**|**Effective dynamics and fluctuations of a trapped probe moving in a fluid of active hard discs**|Ashreya Jayaram et.al.|[2302.08422v1](http://arxiv.org/abs/2302.08422v1)|null|
+|**2023-02-16**|**Reconfiguration, Interrupted Aging and Enhanced Dynamics of a Colloidal Gel using Photo-Switchable Active Doping**|Mengshi Wei et.al.|[2302.08360v1](http://arxiv.org/abs/2302.08360v1)|null|
+|**2023-02-16**|**Flow patterns and defect dynamics of active nematics under an electric field**|Yutaka Kinoshita et.al.|[2302.08355v1](http://arxiv.org/abs/2302.08355v1)|null|
+|**2023-02-16**|**Ground-State Degeneracy Induces Spontaneous Two-Dimensional Crystalline Instability**|Ruijian Zhu et.al.|[2302.08305v1](http://arxiv.org/abs/2302.08305v1)|null|
+|**2023-02-16**|**Ground state properties of a multi-component bosonic mixture**|Chenrong Liu et.al.|[2302.08288v1](http://arxiv.org/abs/2302.08288v1)|null|
+|**2023-02-16**|**Weyl points in ball-and-spring mechanical systems**|Zoltán Guba et.al.|[2302.08241v1](http://arxiv.org/abs/2302.08241v1)|null|
+|**2023-02-16**|**Topological analysis and the recovery of entanglements in polymer melts**|Mattia Alberto Ubertini et.al.|[2302.08225v1](http://arxiv.org/abs/2302.08225v1)|null|
+|**2023-02-16**|**Unified non-equilibrium simulation methodology for flow through nanoporous carbon membrane**|Geoffrey Monet et.al.|[2302.08189v1](http://arxiv.org/abs/2302.08189v1)|null|
+|**2023-02-15**|**Momentum-independent magnetic excitation continuum in the honeycomb iridate H $_3$LiIr$_2$O$_6$**|A. de la Torre et.al.|[2302.07907v1](http://arxiv.org/abs/2302.07907v1)|null|
 |**2023-02-15**|**A "morphogenetic action" principle for 3D shape formation by the growth of thin sheets**|Dillon J. Cislo et.al.|[2302.07839v1](http://arxiv.org/abs/2302.07839v1)|null|
 |**2023-02-15**|**Minimum Entropy Production by Microswimmers with Internal Dissipation**|Abdallah Daddi-Moussa-Ider et.al.|[2302.07711v1](http://arxiv.org/abs/2302.07711v1)|null|
 |**2023-02-15**|**Entropy bound for time reversal markers**|Gabriel Knotz et.al.|[2302.07709v1](http://arxiv.org/abs/2302.07709v1)|null|
