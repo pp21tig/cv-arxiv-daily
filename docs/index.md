@@ -1099,6 +1099,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-17**|**Heating and Cooling are Fundamentally Asymmetric and Evolve Along Distinct Pathways**|Miguel Ibáñez et.al.|[2302.09061v1](http://arxiv.org/abs/2302.09061v1)|null|
+|**2023-02-17**|**Affine Dihedral Subgroups of Higher Dimensional Cubic Lattices $\mathbb{Z}^n$ and Quasicrystallography**|Nazife Ozdes Koca et.al.|[2302.09052v1](http://arxiv.org/abs/2302.09052v1)|null|
+|**2023-02-17**|**Ostwald-like ripening in the two-dimensional clustering of passive particles induced by swimming bacteria**|Julien Bouvard et.al.|[2302.09010v1](http://arxiv.org/abs/2302.09010v1)|null|
+|**2023-02-17**|**Frequency-dependent hydrodynamic finite size correction in molecular simulations reveals the long-time hydrodynamic tail**|Laura Scalfi et.al.|[2302.08989v1](http://arxiv.org/abs/2302.08989v1)|null|
+|**2023-02-17**|**A simple method for multi-body wave function of ground and low-lying excited states using deep neural network**|Tomoya Naito et.al.|[2302.08965v1](http://arxiv.org/abs/2302.08965v1)|null|
+|**2023-02-17**|**From Entropy to Echoes: Counting the quasi-normal modes and the quantum limit of silence**|Naritaka Oshita et.al.|[2302.08964v1](http://arxiv.org/abs/2302.08964v1)|null|
+|**2023-02-17**|**Taxis of cargo-carrying microswimmers in traveling activity waves**|Pietro Luigi Muzzeddu et.al.|[2302.08954v1](http://arxiv.org/abs/2302.08954v1)|null|
+|**2023-02-16**|**Acoustic metric and acoustic Planck constants**|G. E. Volovik et.al.|[2302.08894v1](http://arxiv.org/abs/2302.08894v1)|null|
+|**2023-02-17**|**Optimum dissipation by cruising in dense suspensions**|Pappu Acharya et.al.|[2302.08810v1](http://arxiv.org/abs/2302.08810v1)|null|
+|**2023-02-17**|**Effect of sample height and particle elongation in the sedimentation of colloidal rods**|Tobias Eckert et.al.|[2302.08790v1](http://arxiv.org/abs/2302.08790v1)|null|
+|**2023-02-17**|**Gravitational form factors of a kink in $1+1$ dimensional $φ^4$ model**|Hiroaki Ito et.al.|[2302.08762v1](http://arxiv.org/abs/2302.08762v1)|null|
+|**2023-02-17**|**Inverse-current quantum electro-oscillations in a charge-density wave insulator**|Tian Le et.al.|[2302.08677v1](http://arxiv.org/abs/2302.08677v1)|null|
+|**2023-02-16**|**Variance Sum Rule for Entropy Production**|I. Di Terlizzi et.al.|[2302.08565v1](http://arxiv.org/abs/2302.08565v1)|null|
+|**2023-02-16**|**Melting curves of ice polymorphs in the vicinity of the liquid-liquid critical point**|Pablo M. Piaggi et.al.|[2302.08540v1](http://arxiv.org/abs/2302.08540v1)|null|
+|**2023-02-16**|**Cavity-renormalized quantum criticality in a honeycomb bilayer antiferromagnet**|Lukas Weber et.al.|[2302.08528v1](http://arxiv.org/abs/2302.08528v1)|null|
 |**2023-02-16**|**Shear-induced bimodality and stability analysis of chiral spheroidal swimmers**|Mohammad Reza Shabanniya et.al.|[2302.08483v1](http://arxiv.org/abs/2302.08483v1)|null|
 |**2023-02-16**|**Relieving nematic geometric frustration in the plane**|Andrea Pedrini et.al.|[2302.08442v1](http://arxiv.org/abs/2302.08442v1)|null|
 |**2023-02-16**|**Effective dynamics and fluctuations of a trapped probe moving in a fluid of active hard discs**|Ashreya Jayaram et.al.|[2302.08422v1](http://arxiv.org/abs/2302.08422v1)|null|
