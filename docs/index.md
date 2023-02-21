@@ -1099,6 +1099,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-20**|**Stress and stretching regulate dispersion in viscoelastic porous media flows**|Manish Kumar et.al.|[2302.10113v1](http://arxiv.org/abs/2302.10113v1)|null|
+|**2023-02-20**|**Active nematics on flat surfaces: from droplet motility and scission to active wetting**|Rodrigo C. V. Coelho et.al.|[2302.10039v1](http://arxiv.org/abs/2302.10039v1)|null|
+|**2023-02-20**|**Dependence of Phoretic Propulsion of Sub-Micron Urease Motors on the Fraction of the Particle Covered by Catalyst**|Roshan Velluvakandy et.al.|[2302.09898v1](http://arxiv.org/abs/2302.09898v1)|null|
+|**2023-02-20**|**Discretized hierarchical equations of motion in mixed Liouville--Wigner space for two-dimensional vibrational spectroscopies of liquid water**|Hideaki Takahashi et.al.|[2302.09799v1](http://arxiv.org/abs/2302.09799v1)|null|
+|**2023-02-20**|**Gel-like granular materials with high durability and high deformability**|Honoka Fujio et.al.|[2302.09770v1](http://arxiv.org/abs/2302.09770v1)|null|
+|**2023-02-20**|**Simulating two-dimensional correlation spectroscopies with third-order infrared and fifth-order infrared--Raman processes of liquid water**|Hideaki Takahashi et.al.|[2302.09760v1](http://arxiv.org/abs/2302.09760v1)|null|
+|**2023-02-20**|**VQE-generated Quantum Circuit Dataset for Machine Learning**|Akimoto Nakayama et.al.|[2302.09751v1](http://arxiv.org/abs/2302.09751v1)|null|
+|**2023-02-20**|**Trap-limited electrical properties of organic semiconductor devices**|Donghyun Ko et.al.|[2302.09721v1](http://arxiv.org/abs/2302.09721v1)|null|
+|**2023-02-20**|**Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells**|Qi Chen et.al.|[2302.09705v1](http://arxiv.org/abs/2302.09705v1)|null|
+|**2023-02-19**|**Dynamic phase transition induced by active molecules simulating a facilitation mechanism in a supercooled liquid**|Victor Teboul et.al.|[2302.09675v1](http://arxiv.org/abs/2302.09675v1)|null|
+|**2023-02-19**|**Investigating global and topological order of states by local measurement and classical communication: Study on SPT phase diagrams by quantum energy teleportation**|Kazuki Ikeda et.al.|[2302.09630v1](http://arxiv.org/abs/2302.09630v1)|null|
+|**2023-02-19**|**Magnetic domain engineering in antiferromagnetic CuMnAs and Mn $_2$ Au devices**|Sonka Reimers et.al.|[2302.09550v1](http://arxiv.org/abs/2302.09550v1)|null|
+|**2023-02-19**|**Polydispersity modifies relaxation mechanisms in glassy liquids**|Ilian Pihlajamaa et.al.|[2302.09549v1](http://arxiv.org/abs/2302.09549v1)|null|
+|**2023-02-18**|**Emergence of synchronised rotations in dense active matter with disorder**|Danial Vahabli et.al.|[2302.09439v1](http://arxiv.org/abs/2302.09439v1)|null|
+|**2023-02-18**|**Intrinsically disordered protein's coil-to-globule transition and adsorption onto a hydrophobic surface at different temperatures and pressures**|Bernat Durà Faulí et.al.|[2302.09399v1](http://arxiv.org/abs/2302.09399v1)|null|
+|**2023-02-18**|**Towards a quasiphase transition in the single-file chain of water molecules: Simple lattice model**|Maksym Druchok et.al.|[2302.09362v1](http://arxiv.org/abs/2302.09362v1)|null|
+|**2023-02-17**|**Hairygami: Analysis of DNA Nanostructure's Conformational Change Driven by Functionalizable Overhangs**|Matthew Sample et.al.|[2302.09109v1](http://arxiv.org/abs/2302.09109v1)|null|
+|**2023-02-17**|**Trapping of an active Brownian particle at a partially absorbing wall**|Paul C Bressloff et.al.|[2302.09105v1](http://arxiv.org/abs/2302.09105v1)|null|
+|**2023-02-17**|**Anomalous Skin Effects in Disordered Systems with a Single non-Hermitian Impurity**|Paolo Molignini et.al.|[2302.09081v1](http://arxiv.org/abs/2302.09081v1)|null|
 |**2023-02-17**|**Heating and Cooling are Fundamentally Asymmetric and Evolve Along Distinct Pathways**|Miguel Ibáñez et.al.|[2302.09061v1](http://arxiv.org/abs/2302.09061v1)|null|
 |**2023-02-17**|**Affine Dihedral Subgroups of Higher Dimensional Cubic Lattices $\mathbb{Z}^n$ and Quasicrystallography**|Nazife Ozdes Koca et.al.|[2302.09052v1](http://arxiv.org/abs/2302.09052v1)|null|
 |**2023-02-17**|**Ostwald-like ripening in the two-dimensional clustering of passive particles induced by swimming bacteria**|Julien Bouvard et.al.|[2302.09010v1](http://arxiv.org/abs/2302.09010v1)|null|
