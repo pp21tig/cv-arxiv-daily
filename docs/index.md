@@ -1099,13 +1099,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-21**|**Experimental studies of superconducting gap structure and quantum fluctuations in novel superconductors and heavy fermion compounds**|K. Panda et.al.|[2302.10710v1](http://arxiv.org/abs/2302.10710v1)|null|
+|**2023-02-21**|**Self-organisation of spermatozoa in bulk suspensions via unsteady elastohydrodynamic interactions**|Nanami Taketoshi et.al.|[2302.10572v1](http://arxiv.org/abs/2302.10572v1)|null|
+|**2023-02-21**|**Molecular chaos in dense active systems**|Lu Chen et.al.|[2302.10525v1](http://arxiv.org/abs/2302.10525v1)|null|
+|**2023-02-21**|**Shear-induced migration of a suspension under quasi-planar confinement**|John T. Antolik et.al.|[2302.10380v1](http://arxiv.org/abs/2302.10380v1)|null|
+|**2023-02-20**|**Hydrodynamic Interactions in Ion Transport -- Theory and Simulation**|Diddo Diddens et.al.|[2302.10330v1](http://arxiv.org/abs/2302.10330v1)|null|
+|**2023-02-19**|**Effect of pH on structure and surface charge of Fe $_2$O$_3$ nanoparticles synthesized at different pH conditions and correlation to antibacterial properties**|Farzana Naushin et.al.|[2302.10187v1](http://arxiv.org/abs/2302.10187v1)|null|
 |**2023-02-20**|**Stress and stretching regulate dispersion in viscoelastic porous media flows**|Manish Kumar et.al.|[2302.10113v1](http://arxiv.org/abs/2302.10113v1)|null|
 |**2023-02-20**|**Active nematics on flat surfaces: from droplet motility and scission to active wetting**|Rodrigo C. V. Coelho et.al.|[2302.10039v1](http://arxiv.org/abs/2302.10039v1)|null|
 |**2023-02-20**|**Dependence of Phoretic Propulsion of Sub-Micron Urease Motors on the Fraction of the Particle Covered by Catalyst**|Roshan Velluvakandy et.al.|[2302.09898v1](http://arxiv.org/abs/2302.09898v1)|null|
 |**2023-02-20**|**Discretized hierarchical equations of motion in mixed Liouville--Wigner space for two-dimensional vibrational spectroscopies of liquid water**|Hideaki Takahashi et.al.|[2302.09799v1](http://arxiv.org/abs/2302.09799v1)|null|
 |**2023-02-21**|**Gel-like granular materials with high durability and high deformability**|Honoka Fujio et.al.|[2302.09770v2](http://arxiv.org/abs/2302.09770v2)|null|
 |**2023-02-20**|**Simulating two-dimensional correlation spectroscopies with third-order infrared and fifth-order infrared--Raman processes of liquid water**|Hideaki Takahashi et.al.|[2302.09760v1](http://arxiv.org/abs/2302.09760v1)|null|
-|**2023-02-20**|**VQE-generated Quantum Circuit Dataset for Machine Learning**|Akimoto Nakayama et.al.|[2302.09751v1](http://arxiv.org/abs/2302.09751v1)|null|
+|**2023-02-20**|**VQE-generated Quantum Circuit Dataset for Machine Learning**|Akimoto Nakayama et.al.|[2302.09751v1](http://arxiv.org/abs/2302.09751v1)|**[link](https://github.com/qulacs-osaka/vqe-generated-dataset)**|
 |**2023-02-20**|**Trap-limited electrical properties of organic semiconductor devices**|Donghyun Ko et.al.|[2302.09721v1](http://arxiv.org/abs/2302.09721v1)|null|
 |**2023-02-21**|**Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells**|Qi Chen et.al.|[2302.09705v2](http://arxiv.org/abs/2302.09705v2)|null|
 |**2023-02-19**|**Dynamic phase transition induced by active molecules simulating a facilitation mechanism in a supercooled liquid**|Victor Teboul et.al.|[2302.09675v1](http://arxiv.org/abs/2302.09675v1)|null|
