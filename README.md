@@ -1095,6 +1095,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**Two-dimensional crystals far from equilibrium**|Leonardo Galliano et.al.|[2302.11514v1](http://arxiv.org/abs/2302.11514v1)|null|
+|**2023-02-22**|**Attosecond Transient Absorption Spectroscopy of Strongly Correlated Mott Insulators: Signature of the Creation and Annihilation of Double Occupancy**|Youngjae Kim et.al.|[2302.11391v1](http://arxiv.org/abs/2302.11391v1)|null|
+|**2023-02-22**|**Entanglement entropy as an order parameter for strongly coupled nodal line semimetals**|Matteo Baggioli et.al.|[2302.11096v1](http://arxiv.org/abs/2302.11096v1)|null|
+|**2023-02-21**|**Detecting virtual phothons in ultrastrongly coupled superconducting quantum circuits**|L. Giannelli et.al.|[2302.10973v1](http://arxiv.org/abs/2302.10973v1)|null|
+|**2023-02-21**|**Polymer Complexation: Partially Ionizable Asymmetric Polyelectrolytes**|Souradeep Ghosh et.al.|[2302.10954v1](http://arxiv.org/abs/2302.10954v1)|null|
+|**2023-02-21**|**Effect of rigid top surface on the onset of phototactic bioconvection**|Shubham Kumar Rajput et.al.|[2302.10921v1](http://arxiv.org/abs/2302.10921v1)|null|
 |**2023-02-21**|**Experimental studies of superconducting gap structure and quantum fluctuations in novel superconductors and heavy fermion compounds**|K. Panda et.al.|[2302.10710v1](http://arxiv.org/abs/2302.10710v1)|null|
 |**2023-02-21**|**Self-organisation of spermatozoa in bulk suspensions via unsteady elastohydrodynamic interactions**|Nanami Taketoshi et.al.|[2302.10572v1](http://arxiv.org/abs/2302.10572v1)|null|
 |**2023-02-21**|**Molecular chaos in dense active systems**|Lu Chen et.al.|[2302.10525v1](http://arxiv.org/abs/2302.10525v1)|null|
