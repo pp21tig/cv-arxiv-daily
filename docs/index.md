@@ -1099,6 +1099,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-23**|**Effects of Poly(vinylpyrrolidone) on the Dynamic Viscosity of Methane Hydrate Systems at High-Pressure Driving Forces: Investigation of Concentration, Molecular Weight, and Shear Rate**|Chong Yang Du et.al.|[2302.12226v1](http://arxiv.org/abs/2302.12226v1)|null|
+|**2023-02-23**|**Dynamic behavior of elastic strips near shape transition**|Basile Radisson et.al.|[2302.12176v1](http://arxiv.org/abs/2302.12176v1)|null|
+|**2023-02-23**|**Elastic snap-through instabilities are governed by geometric symmetries**|Basile Radisson et.al.|[2302.12152v1](http://arxiv.org/abs/2302.12152v1)|null|
+|**2023-02-23**|**Molecular Modeling of Aquaporins and Artificial Transmembrane Channels: a mini-review and perspective for plants**|José Rafael Bordin et.al.|[2302.12145v1](http://arxiv.org/abs/2302.12145v1)|null|
+|**2023-02-23**|**Implication of the double-gating mode in hybrid photon counting detector for measurements of transient heat conduction in GaAs/AlAs superlattice structures**|Denys Naumenko et.al.|[2302.11972v1](http://arxiv.org/abs/2302.11972v1)|null|
+|**2023-02-23**|**Buckling Metamaterials for Extreme Vibration Damping**|David M. J. Dykstra et.al.|[2302.11968v1](http://arxiv.org/abs/2302.11968v1)|null|
+|**2023-02-23**|**Yielding under compression and the polyamorphic transition in silicon**|Jan Grießer et.al.|[2302.11936v1](http://arxiv.org/abs/2302.11936v1)|null|
+|**2023-02-23**|**Deflection and oscillations of an anchored elastic fiber embedded in a quasistatic two-dimensional foam flow**|Adrien Pellé et.al.|[2302.11901v1](http://arxiv.org/abs/2302.11901v1)|null|
+|**2023-02-23**|**Measuring Restraint in Amorphous Materials from Static Speckle Scattering**|Charlotte Petersen et.al.|[2302.11872v1](http://arxiv.org/abs/2302.11872v1)|null|
+|**2023-02-23**|**Shape- and orientation-dependent diffusiophoresis of colloidal ellipsoids**|Viet Sang Doan et.al.|[2302.11749v1](http://arxiv.org/abs/2302.11749v1)|null|
+|**2023-02-23**|**Membrane buckling and the determination of Gaussian curvature modulus**|Mei-Ting Wang et.al.|[2302.11745v1](http://arxiv.org/abs/2302.11745v1)|null|
+|**2023-02-23**|**Emergence of a hexagonal pattern in shear-thickening suspensions under swirling excitation**|Li-Xin Shi et.al.|[2302.11741v1](http://arxiv.org/abs/2302.11741v1)|null|
+|**2023-02-23**|**A doping threshold for polar metals**|Xiaohui Yang et.al.|[2302.11721v1](http://arxiv.org/abs/2302.11721v1)|null|
+|**2023-02-22**|**Compact Wannier Functions in One Dimension**|Pratik Sathe et.al.|[2302.11608v1](http://arxiv.org/abs/2302.11608v1)|null|
+|**2023-02-22**|**Enhancing the Expressivity of Variational Neural, and Hardware-Efficient Quantum States Through Orbital Rotations**|Javier Robledo Moreno et.al.|[2302.11588v1](http://arxiv.org/abs/2302.11588v1)|null|
+|**2023-02-22**|**Enhancement of the Rate of Surface Reactions by Elasto-capillary Effect**|Nitish Singh et.al.|[2302.11574v1](http://arxiv.org/abs/2302.11574v1)|null|
 |**2023-02-22**|**Two-dimensional crystals far from equilibrium**|Leonardo Galliano et.al.|[2302.11514v1](http://arxiv.org/abs/2302.11514v1)|null|
 |**2023-02-22**|**Attosecond Transient Absorption Spectroscopy of Strongly Correlated Mott Insulators: Signature of the Creation and Annihilation of Double Occupancy**|Youngjae Kim et.al.|[2302.11391v1](http://arxiv.org/abs/2302.11391v1)|null|
 |**2023-02-22**|**Entanglement entropy as an order parameter for strongly coupled nodal line semimetals**|Matteo Baggioli et.al.|[2302.11096v1](http://arxiv.org/abs/2302.11096v1)|null|
