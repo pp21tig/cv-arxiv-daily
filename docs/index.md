@@ -1099,6 +1099,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**On the origin of the negative energetic contribution to the elastic modulus of rubber-like gels**|L. K. R. Duarte et.al.|[2302.12819v1](http://arxiv.org/abs/2302.12819v1)|null|
+|**2023-02-24**|**The Wigner function of a semiconfined harmonic oscillator model with a position-dependent effective mass**|S. M. Nagiyev et.al.|[2302.12673v1](http://arxiv.org/abs/2302.12673v1)|null|
+|**2023-02-24**|**The $μ(I)$ model and extensions applied to granular material in silo with inserts**|Samuel K Irvine et.al.|[2302.12550v1](http://arxiv.org/abs/2302.12550v1)|null|
+|**2023-02-24**|**A Fiber-coupled Scanning Magnetometer with Nitrogen-Vacancy Spins in a Diamond Nanobeam**|Yufan Li et.al.|[2302.12536v1](http://arxiv.org/abs/2302.12536v1)|null|
+|**2023-02-24**|**Extensional rheometry of mobile fluids. Part II: Comparison between the uniaxial, planar and biaxial extensional rheology of dilute polymer solutions using numerically-optimized stagnation point microfluidic devices**|Simon J. Haward et.al.|[2302.12411v1](http://arxiv.org/abs/2302.12411v1)|null|
+|**2023-02-24**|**Spreading of foam on a substrate**|Masaya Endo et.al.|[2302.12390v1](http://arxiv.org/abs/2302.12390v1)|null|
+|**2023-02-23**|**Nonisothermal evaporation**|E. S. Benilov et.al.|[2302.12348v1](http://arxiv.org/abs/2302.12348v1)|null|
 |**2023-02-23**|**Effects of Poly(vinylpyrrolidone) on the Dynamic Viscosity of Methane Hydrate Systems at High-Pressure Driving Forces: Investigation of Concentration, Molecular Weight, and Shear Rate**|Chong Yang Du et.al.|[2302.12226v1](http://arxiv.org/abs/2302.12226v1)|null|
 |**2023-02-23**|**Dynamic behavior of elastic strips near shape transition**|Basile Radisson et.al.|[2302.12176v1](http://arxiv.org/abs/2302.12176v1)|null|
 |**2023-02-23**|**Elastic snap-through instabilities are governed by geometric symmetries**|Basile Radisson et.al.|[2302.12152v1](http://arxiv.org/abs/2302.12152v1)|null|
@@ -1622,6 +1629,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-23**|**Terahertz-driven Local Dipolar Correlation in a Quantum Paraelectric**|Bing Cheng et.al.|[2302.12315v1](http://arxiv.org/abs/2302.12315v1)|null|
 |**2023-02-14**|**Ion dynamic characterization using phase-resolved laser-induced fluorescence spectroscopy in low power Hall effect thruster**|Y. Dancheva et.al.|[2302.07310v1](http://arxiv.org/abs/2302.07310v1)|null|
 |**2023-02-12**|**Frequency-resolved microscopic current density analysis of linear and nonlinear optical phenomena in solids**|Shunsuke A. Sato et.al.|[2302.05859v1](http://arxiv.org/abs/2302.05859v1)|null|
 |**2023-02-13**|**Ultrafast electron-electron scattering in metallic phase of 2H-NbSe $_2$ probed by high harmonic generation**|K. S. Takeda et.al.|[2302.04984v2](http://arxiv.org/abs/2302.04984v2)|null|
