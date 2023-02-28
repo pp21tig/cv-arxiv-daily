@@ -1095,6 +1095,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**Emergence of a new band and the Lifshitz transition in kagome metal ScV $_6$Sn$_6$ with charge density wave**|Seoung-Hun Kang et.al.|[2302.14041v1](http://arxiv.org/abs/2302.14041v1)|null|
+|**2023-02-27**|**Tuning the bulk behaviour and 2D interfacial self-assembly of microgels by polyoxometalate ionic specificity**|Antonio Rubio-Andrés et.al.|[2302.14010v1](http://arxiv.org/abs/2302.14010v1)|null|
+|**2023-02-27**|**Close encounters of the sticky kind: Brownian motion at absorbing boundaries**|Paul C Bressloff et.al.|[2302.13986v1](http://arxiv.org/abs/2302.13986v1)|null|
+|**2023-02-27**|**Rotating hematite cube chains**|Mārtiņš Brics et.al.|[2302.13978v1](http://arxiv.org/abs/2302.13978v1)|null|
+|**2023-02-27**|**Hydrodynamic instabilities in a 2-D sheet of microswimmers embedded in a 3-D fluid**|Viktor Škultéty et.al.|[2302.13966v1](http://arxiv.org/abs/2302.13966v1)|null|
+|**2023-02-27**|**Hot Brownian Motion of thermoresponsive microgels in optical tweezers shows discontinuous volume phase transition and bistability**|Miguel Angel Fernandez-Rodriguez et.al.|[2302.13938v1](http://arxiv.org/abs/2302.13938v1)|null|
+|**2023-02-27**|**Interplay between Brownian and hydrodynamic tracer diffusion in suspensions of swimming microorganisms**|Henrik Nordanger et.al.|[2302.13688v1](http://arxiv.org/abs/2302.13688v1)|null|
+|**2023-02-27**|**A deep learning approach to the measurement of long-lived memory kernels from Generalised Langevin Dynamics**|Max Kerr Winter et.al.|[2302.13682v1](http://arxiv.org/abs/2302.13682v1)|null|
+|**2023-02-27**|**Universality of Osmotic Equation of State in Star Polymer Solutions**|Takashi Yasuda et.al.|[2302.13669v1](http://arxiv.org/abs/2302.13669v1)|null|
+|**2023-02-27**|**Strain-induced interlayer magnetic coupling spike of two-dimensional van der Waals material Fe $_5$GeTe$_2$**|Wen-Qiang Xie et.al.|[2302.13664v1](http://arxiv.org/abs/2302.13664v1)|null|
+|**2023-02-27**|**Spin Hall effects in the sky**|Lars Andersson et.al.|[2302.13634v1](http://arxiv.org/abs/2302.13634v1)|null|
+|**2023-02-27**|**Evanescent Gels: Competition Between Sticker Dynamics and Single Chain Relaxation**|Dominic Robe et.al.|[2302.13623v1](http://arxiv.org/abs/2302.13623v1)|null|
+|**2023-02-27**|**Constraints on fundamental physical constants from bio-friendly viscosity and diffusion**|K. Trachenko et.al.|[2302.13618v1](http://arxiv.org/abs/2302.13618v1)|null|
+|**2023-02-27**|**The yielding of granular matter is marginally stable and critical**|Jin Shang et.al.|[2302.13569v1](http://arxiv.org/abs/2302.13569v1)|null|
+|**2023-02-27**|**The One-dimensional Chiral Anomaly and its Disorder Response**|Zheng Qin et.al.|[2302.13556v1](http://arxiv.org/abs/2302.13556v1)|null|
+|**2023-02-27**|**From Classical to Quantum Information Geometry, an Introductory Guide**|J. Lambert et.al.|[2302.13515v1](http://arxiv.org/abs/2302.13515v1)|null|
+|**2023-02-27**|**Robustness of Half-Integer Quantized Hall Conductivity in a Disordered Dirac Semimetal with Parity Anomaly**|Zhen Ning et.al.|[2302.13499v1](http://arxiv.org/abs/2302.13499v1)|null|
+|**2023-02-27**|**Programming Mechanics in Knitted Materials, Stitch by Stitch**|Krishma Singal et.al.|[2302.13467v1](http://arxiv.org/abs/2302.13467v1)|null|
+|**2023-02-25**|**Long-range Velocity Correlations from Active Dopants**|Leila Abbaspour et.al.|[2302.13131v1](http://arxiv.org/abs/2302.13131v1)|null|
+|**2023-02-25**|**Axion electrodynamics: Green's functions, zero-point energy and optical activity**|Amedeo M. Favitta et.al.|[2302.13129v1](http://arxiv.org/abs/2302.13129v1)|null|
 |**2023-02-24**|**On the origin of the negative energetic contribution to the elastic modulus of rubber-like gels**|L. K. R. Duarte et.al.|[2302.12819v1](http://arxiv.org/abs/2302.12819v1)|null|
 |**2023-02-24**|**The Wigner function of a semiconfined harmonic oscillator model with a position-dependent effective mass**|S. M. Nagiyev et.al.|[2302.12673v1](http://arxiv.org/abs/2302.12673v1)|null|
 |**2023-02-24**|**The $μ(I)$ model and extensions applied to granular material in silo with inserts**|Samuel K Irvine et.al.|[2302.12550v1](http://arxiv.org/abs/2302.12550v1)|null|
