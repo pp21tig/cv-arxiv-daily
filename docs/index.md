@@ -1099,6 +1099,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-28**|**Compact expansion of a repulsive suspension**|Matan Yah Ben Zion et.al.|[2302.14756v1](http://arxiv.org/abs/2302.14756v1)|null|
+|**2023-02-28**|**Quantum criticality of bandwidth-controlled Mott transition**|Kensaku Takai et.al.|[2302.14605v1](http://arxiv.org/abs/2302.14605v1)|null|
+|**2023-02-28**|**Topological acoustics**|Haoran Xue et.al.|[2302.14429v1](http://arxiv.org/abs/2302.14429v1)|null|
+|**2023-02-28**|**Nonlinear electronic stopping of negatively-charged particles in liquid water**|Natalia E. Koval et.al.|[2302.14384v1](http://arxiv.org/abs/2302.14384v1)|null|
+|**2023-02-28**|**Record-high-Tc elemental superconductivity in scandium**|Jianjun Ying et.al.|[2302.14378v1](http://arxiv.org/abs/2302.14378v1)|null|
+|**2023-02-28**|**Lifetime-configurable soft robots via photodegradable silicone elastomer composites**|Min-Ha Oh et.al.|[2302.14331v1](http://arxiv.org/abs/2302.14331v1)|null|
+|**2023-02-27**|**On the path integral approach to quantum anomalies in interacting models**|Alireza Parhizkar et.al.|[2302.14191v1](http://arxiv.org/abs/2302.14191v1)|null|
+|**2023-02-27**|**Generic framework for data-race-free many-particle simulations on shared memory hardware**|Julian Jeggle et.al.|[2302.14170v1](http://arxiv.org/abs/2302.14170v1)|null|
+|**2023-02-27**|**Viscous dissipation in a gas of one-dimensional fermions with generic dispersion**|Wade DeGottardi et.al.|[2302.14110v1](http://arxiv.org/abs/2302.14110v1)|null|
+|**2023-02-27**|**Elastic Liénard-Wiechert potentials of dynamical dislocations from tensor gauge theory**|Lazaros Tsaloukidis et.al.|[2302.14092v1](http://arxiv.org/abs/2302.14092v1)|null|
 |**2023-02-27**|**Emergence of a new band and the Lifshitz transition in kagome metal ScV $_6$Sn$_6$ with charge density wave**|Seoung-Hun Kang et.al.|[2302.14041v1](http://arxiv.org/abs/2302.14041v1)|null|
 |**2023-02-27**|**Tuning the bulk behaviour and 2D interfacial self-assembly of microgels by polyoxometalate ionic specificity**|Antonio Rubio-Andrés et.al.|[2302.14010v1](http://arxiv.org/abs/2302.14010v1)|null|
 |**2023-02-27**|**Close encounters of the sticky kind: Brownian motion at absorbing boundaries**|Paul C Bressloff et.al.|[2302.13986v1](http://arxiv.org/abs/2302.13986v1)|null|
@@ -1649,6 +1659,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-28**|**Magnetic field control of light-induced spin accumulation in monolayer MoSe $_2$**|Rafael R. Rojas-Lopez et.al.|[2302.14206v1](http://arxiv.org/abs/2302.14206v1)|null|
 |**2023-02-23**|**Terahertz-driven Local Dipolar Correlation in a Quantum Paraelectric**|Bing Cheng et.al.|[2302.12315v1](http://arxiv.org/abs/2302.12315v1)|null|
 |**2023-02-14**|**Ion dynamic characterization using phase-resolved laser-induced fluorescence spectroscopy in low power Hall effect thruster**|Y. Dancheva et.al.|[2302.07310v1](http://arxiv.org/abs/2302.07310v1)|null|
 |**2023-02-12**|**Frequency-resolved microscopic current density analysis of linear and nonlinear optical phenomena in solids**|Shunsuke A. Sato et.al.|[2302.05859v1](http://arxiv.org/abs/2302.05859v1)|null|
@@ -1698,6 +1709,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-28**|**Model-Free and Learning-Free Proprioceptive Humanoid Movement Control**|Boren Jiang et.al.|[2302.14249v1](http://arxiv.org/abs/2302.14249v1)|null|
+|**2023-02-27**|**Structural constraints on the emergence of oscillations in multi-population neural networks**|Jie Zang et.al.|[2302.14157v1](http://arxiv.org/abs/2302.14157v1)|null|
 |**2022-12-20**|**Time-resolved THz Stark spectroscopy**|Bong Joo Kang et.al.|[2212.10333v1](http://arxiv.org/abs/2212.10333v1)|null|
 |**2022-12-14**|**Two-dimensional THz spectroscopy of nonlinear phononics in the topological insulator $\mathrm{MnBi}_2\mathrm{Te}_4$**|T. G. H. Blank et.al.|[2212.07532v1](http://arxiv.org/abs/2212.07532v1)|null|
 |**2023-02-24**|**Pandering in a Flexible Representative Democracy**|Xiaolin Sun et.al.|[2211.09986v2](http://arxiv.org/abs/2211.09986v2)|null|
