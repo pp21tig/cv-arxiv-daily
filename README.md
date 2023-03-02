@@ -1095,6 +1095,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-01**|**Observing the two-dimensional Bose glass in an optical quasicrystal**|Jr-Chiun Yu et.al.|[2303.00737v1](http://arxiv.org/abs/2303.00737v1)|null|
+|**2023-03-01**|**Escape dynamics of confined undulating worms**|Animesh Biswas et.al.|[2303.00647v1](http://arxiv.org/abs/2303.00647v1)|null|
+|**2023-03-01**|**Classifying the age of a glass based on structural properties: A machine learning approach**|Giulia Janzen et.al.|[2303.00636v1](http://arxiv.org/abs/2303.00636v1)|null|
+|**2023-03-01**|**Dynamics of Ball-Chains and Very Elastic Fibres Settling under Gravity in a Viscous Fluid**|H. J. Shashank et.al.|[2303.00548v1](http://arxiv.org/abs/2303.00548v1)|null|
+|**2023-03-01**|**Rotor/spin-wave theory for quantum spin models with U(1) symmetry**|Tommaso Roscilde et.al.|[2303.00380v1](http://arxiv.org/abs/2303.00380v1)|null|
+|**2023-03-01**|**Quench dynamics of edge states in a finite extended Su-Schrieffer-Heeger system**|Anirban Ghosh et.al.|[2303.00269v1](http://arxiv.org/abs/2303.00269v1)|null|
+|**2023-03-01**|**Jeffery's orbits and microswimmers in flows: A theoretical review**|Kenta Ishimoto et.al.|[2303.00195v1](http://arxiv.org/abs/2303.00195v1)|null|
+|**2023-03-01**|**Zyxin is all you need: machine learning adherent cell mechanics**|Matthew S. Schmitt et.al.|[2303.00176v1](http://arxiv.org/abs/2303.00176v1)|null|
+|**2023-02-28**|**Cell Division and Motility Enable Hexatic Order in Biological Tissues**|Yiwen Tang et.al.|[2303.00129v1](http://arxiv.org/abs/2303.00129v1)|null|
+|**2023-02-28**|**Using holographic microscopy to measure the effect of confinement on crowding agents in lipid vesicles**|Yaam Deckel et.al.|[2303.00126v1](http://arxiv.org/abs/2303.00126v1)|null|
+|**2023-02-28**|**Translational and rotational nonGaussianities in homogeneous freely evolving granular gases**|Alberto Megías et.al.|[2303.00057v1](http://arxiv.org/abs/2303.00057v1)|null|
+|**2023-02-28**|**Friction mediated phase transition in confined active nematics**|Cody D. Schimming et.al.|[2303.00051v1](http://arxiv.org/abs/2303.00051v1)|null|
+|**2023-02-28**|**Statics and diffusive dynamics of surfaces driven by $p$ -atic topological defects**|Farzan Vafa et.al.|[2303.00007v1](http://arxiv.org/abs/2303.00007v1)|null|
 |**2023-02-28**|**Compact expansion of a repulsive suspension**|Matan Yah Ben Zion et.al.|[2302.14756v1](http://arxiv.org/abs/2302.14756v1)|null|
 |**2023-02-28**|**Quantum criticality of bandwidth-controlled Mott transition**|Kensaku Takai et.al.|[2302.14605v1](http://arxiv.org/abs/2302.14605v1)|null|
 |**2023-02-28**|**Topological acoustics**|Haoran Xue et.al.|[2302.14429v1](http://arxiv.org/abs/2302.14429v1)|null|
