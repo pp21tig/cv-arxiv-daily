@@ -1095,6 +1095,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Dispersed, condensed and self-limiting states of geometrically frustrated assembly**|Nicholas W. Hackney et.al.|[2303.02121v1](http://arxiv.org/abs/2303.02121v1)|null|
+|**2023-03-03**|**Mechano-chemical active feedback generates convergence extension in epithelial tissue**|Aondoyima Ioratim-Uba et.al.|[2303.02109v1](http://arxiv.org/abs/2303.02109v1)|null|
+|**2023-03-03**|**In- and out-of-equilibrium {\em ab initio} theory of electrons and phonons**|Gianluca Stefanucci et.al.|[2303.02102v1](http://arxiv.org/abs/2303.02102v1)|null|
+|**2023-03-03**|**On the challenge of obtaining an accurate solvation energy estimate in simulations of electrocatalysis**|Björn Kirchhoff et.al.|[2303.02092v1](http://arxiv.org/abs/2303.02092v1)|null|
+|**2023-03-03**|**Mirror-symmetry protected higher-order topological zero-frequency boundary and corner modes in Maxwell lattices**|Siddhartha Sarkar et.al.|[2303.02072v1](http://arxiv.org/abs/2303.02072v1)|null|
+|**2023-03-03**|**Analogue gravity and its scientific confirmatory role**|Mojtaba Shahbazi et.al.|[2303.02039v1](http://arxiv.org/abs/2303.02039v1)|null|
+|**2023-03-03**|**A spatially resolved optical method to measure thermal diffusivity**|F. Sun et.al.|[2303.02017v1](http://arxiv.org/abs/2303.02017v1)|null|
+|**2023-03-03**|**Temperature scaling analysis of the 3D disordered Ising model with power-law correlated defects**|S. Kazmin et.al.|[2303.01988v1](http://arxiv.org/abs/2303.01988v1)|null|
+|**2023-03-03**|**An Abelian Higgs model for disclinations in nematics**|A. de Pádua Santos et.al.|[2303.01955v1](http://arxiv.org/abs/2303.01955v1)|null|
+|**2023-03-03**|**Interplay of Kekulé distortions and laser fields in graphene**|A. López et.al.|[2303.01947v1](http://arxiv.org/abs/2303.01947v1)|null|
+|**2023-03-03**|**Impact of the $p$ -cubic Dresselhaus term on the spin Hall effect**|E. Santana-Suárez et.al.|[2303.01941v1](http://arxiv.org/abs/2303.01941v1)|null|
+|**2023-03-03**|**Merging of Dirac points through uniaxial modulation on an optical lattice**|A. López et.al.|[2303.01890v1](http://arxiv.org/abs/2303.01890v1)|null|
+|**2023-03-03**|**Some speculations about local thermalization of nonequilibrium extended quantum systems**|M. Coppola et.al.|[2303.01881v1](http://arxiv.org/abs/2303.01881v1)|null|
+|**2023-03-03**|**Scaling behaviour under the influence of a homogeneous size-dependent perturbation**|L. Turban et.al.|[2303.01874v1](http://arxiv.org/abs/2303.01874v1)|null|
+|**2023-03-03**|**Quasi-localized charge approximation approach for the nonlinear structures in strongly coupled Yukawa systems**|Prince Kumar et.al.|[2303.01808v1](http://arxiv.org/abs/2303.01808v1)|null|
+|**2023-03-03**|**Inertia suppresses signatures of activity of active Brownian particles in a harmonic potential**|Angelica Arredondo et.al.|[2303.01757v1](http://arxiv.org/abs/2303.01757v1)|null|
+|**2023-03-03**|**Light-controllable hybrid aligning layer based on LIPSS on sapphire surface and PVCN-F film**|I. Gvozdovskyy et.al.|[2303.01749v1](http://arxiv.org/abs/2303.01749v1)|null|
+|**2023-03-03**|**Jitter correction for asynchronous optical sampling terahertz spectroscopy using free-running pulsed lasers**|Mayuri Nakagawa et.al.|[2303.01683v1](http://arxiv.org/abs/2303.01683v1)|null|
+|**2023-03-03**|**Revealing the hidden dynamics of confined water in acrylate polymers: Insights from hydrogen-bond lifetime analysis**|Kokoro Shikata et.al.|[2303.01647v1](http://arxiv.org/abs/2303.01647v1)|null|
+|**2023-03-02**|**Elasticity of spheres with buckled surfaces**|Yingzhen Tian et.al.|[2303.01623v1](http://arxiv.org/abs/2303.01623v1)|null|
 |**2023-03-03**|**Vascular adaptation model from force balance: Physarum polycephalum as a case study**|Sophie Marbach et.al.|[2303.01439v2](http://arxiv.org/abs/2303.01439v2)|null|
 |**2023-03-02**|**Symmetries and invariant solutions of the wave equation for shear disturbances in soft solids**|Alexander I. Kozlov et.al.|[2303.01437v1](http://arxiv.org/abs/2303.01437v1)|null|
 |**2023-03-02**|**Topological phononic metamaterials**|Weiwei Zhu et.al.|[2303.01426v1](http://arxiv.org/abs/2303.01426v1)|null|
@@ -1682,6 +1702,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-03**|**Light-induced coherent interlayer transport in stripe-ordered ${\rm La}_{1.6-x}{\rm Nd}_{0.4}{\rm Sr}_{x}{\rm CuO}_{4}$**|Morihiko Nishida et.al.|[2303.01961v1](http://arxiv.org/abs/2303.01961v1)|null|
+|**2023-03-03**|**Distinguishing and controlling Mottness in 1T-TaS $_2$ by ultrafast light**|Changhua Bao et.al.|[2303.01712v1](http://arxiv.org/abs/2303.01712v1)|null|
+|**2023-03-03**|**Light Induced Magnetization in Superconductors via Inverse Faraday Effect**|Priya Sharma et.al.|[2303.01699v1](http://arxiv.org/abs/2303.01699v1)|null|
 |**2023-02-28**|**Magnetic field control of light-induced spin accumulation in monolayer MoSe $_2$**|Rafael R. Rojas-Lopez et.al.|[2302.14206v1](http://arxiv.org/abs/2302.14206v1)|null|
 |**2023-02-23**|**Terahertz-driven Local Dipolar Correlation in a Quantum Paraelectric**|Bing Cheng et.al.|[2302.12315v1](http://arxiv.org/abs/2302.12315v1)|null|
 |**2023-02-14**|**Ion dynamic characterization using phase-resolved laser-induced fluorescence spectroscopy in low power Hall effect thruster**|Y. Dancheva et.al.|[2302.07310v1](http://arxiv.org/abs/2302.07310v1)|null|
