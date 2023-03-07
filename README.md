@@ -1095,6 +1095,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**Asymptotically exact scattering theory of active particles with anti-alignment interactions**|Thomas Ihle et.al.|[2303.03357v1](http://arxiv.org/abs/2303.03357v1)|null|
+|**2023-03-06**|**Scattering theory of Non-Brownian active particles with social distancing**|Thomas Ihle et.al.|[2303.03354v1](http://arxiv.org/abs/2303.03354v1)|null|
+|**2023-03-06**|**Surface viscosity in simple liquids**|Paolo Malgaretti et.al.|[2303.03342v1](http://arxiv.org/abs/2303.03342v1)|null|
+|**2023-03-06**|**Optimizing the Structure of Acene Clusters**|Philipp Elsässer et.al.|[2303.03209v1](http://arxiv.org/abs/2303.03209v1)|null|
+|**2023-03-06**|**Transverse fluctuations control the assembly of semiflexible filaments**|Valerio Sorichetti et.al.|[2303.03088v1](http://arxiv.org/abs/2303.03088v1)|null|
+|**2023-03-06**|**Run-and-tumble motion in trapping environments**|Luca Angelani et.al.|[2303.03078v1](http://arxiv.org/abs/2303.03078v1)|null|
+|**2023-03-06**|**Hidden scale invariance in the Gay-Berne model. II. Smectic B phase**|Saeed Mehri et.al.|[2303.03069v1](http://arxiv.org/abs/2303.03069v1)|null|
+|**2023-03-06**|**Theoretical model of confined thermoviscous flows for artificial cytoplasmic streaming**|Weida Liao et.al.|[2303.03063v1](http://arxiv.org/abs/2303.03063v1)|null|
+|**2023-03-06**|**Hamiltonian Dynamics and Structural States in Two-Dimensional Active Systems**|Yuval Shoham et.al.|[2303.03057v1](http://arxiv.org/abs/2303.03057v1)|null|
+|**2023-03-06**|**Light-activated microtubule-based 2D active nematic**|Zahra Zarei et.al.|[2303.02945v1](http://arxiv.org/abs/2303.02945v1)|null|
+|**2023-03-06**|**Cell-sized confinements alter molecular diffusion in concentrated polymer solutions due to length-dependent wetting of polymers**|Yuki Kanakubo et.al.|[2303.02818v1](http://arxiv.org/abs/2303.02818v1)|null|
+|**2023-03-05**|**Watching ion-driven folding kinetics of a ribozyme one molecule at a time**|Naoto Hori et.al.|[2303.02787v1](http://arxiv.org/abs/2303.02787v1)|null|
+|**2023-03-05**|**Low temperature Terahertz Spectroscopy of LaFeO $_3$, PrFeO$_3$, ErFeO$_3$, and LuFeO$_3$ : magnon resonances and ground multiplet transitions**|Nestor E. Massa et.al.|[2303.02786v1](http://arxiv.org/abs/2303.02786v1)|null|
+|**2023-03-05**|**On the use of organic semiconductors as handles for optical tweezers experiments: trapping and manipulating polyaniline (PANI) microparticles**|Kairon M. Oliveira et.al.|[2303.02754v1](http://arxiv.org/abs/2303.02754v1)|null|
+|**2023-03-05**|**Self-organized vortex phases and hydrodynamic interactions in Bos taurus sperm cells**|Charles R. Packard et.al.|[2303.02697v1](http://arxiv.org/abs/2303.02697v1)|null|
+|**2023-03-05**|**Universal Calcium fluctuations in Hydra morphogenesis**|Oded Agam et.al.|[2303.02671v1](http://arxiv.org/abs/2303.02671v1)|null|
+|**2023-03-05**|**Unidirectional Droplet Propulsion onto Gradient Brushes without External Energy Supply**|Russell Kajouri et.al.|[2303.02652v1](http://arxiv.org/abs/2303.02652v1)|null|
+|**2023-03-05**|**Oblique helicoidal state of the twist-bend nematic doped by chiral azo-compound**|Vitalii Chornous et.al.|[2303.02642v1](http://arxiv.org/abs/2303.02642v1)|null|
+|**2023-03-04**|**Free form three dimensional integrated circuits and wearables on a thread using organic eutectogel gated electrochemical transistors**|Rachel E. Owyeung et.al.|[2303.02447v1](http://arxiv.org/abs/2303.02447v1)|null|
+|**2023-03-04**|**Thermalization and transient dynamics in Multi-Channel Kondo systems under the quantum quench: Large- $N$ Schwinger-Keldysh approach**|Iksu Jang et.al.|[2303.02433v1](http://arxiv.org/abs/2303.02433v1)|null|
 |**2023-03-03**|**Dispersed, condensed and self-limiting states of geometrically frustrated assembly**|Nicholas W. Hackney et.al.|[2303.02121v1](http://arxiv.org/abs/2303.02121v1)|null|
 |**2023-03-03**|**Mechano-chemical active feedback generates convergence extension in epithelial tissue**|Aondoyima Ioratim-Uba et.al.|[2303.02109v1](http://arxiv.org/abs/2303.02109v1)|null|
 |**2023-03-03**|**In- and out-of-equilibrium {\em ab initio} theory of electrons and phonons**|Gianluca Stefanucci et.al.|[2303.02102v1](http://arxiv.org/abs/2303.02102v1)|null|
@@ -1702,6 +1722,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Opening long-time investigation window of living matter by nonbleaching phase intensity nanoscope: PINE**|Guangjie Cui et.al.|[2303.03344v1](http://arxiv.org/abs/2303.03344v1)|null|
+|**2023-03-06**|**Tracing the dynamics of superconducting order via transient third harmonic generation**|Min-Jae Kim et.al.|[2303.03288v1](http://arxiv.org/abs/2303.03288v1)|null|
+|**2023-03-06**|**Theoretical model of confined thermoviscous flows for artificial cytoplasmic streaming**|Weida Liao et.al.|[2303.03063v1](http://arxiv.org/abs/2303.03063v1)|null|
+|**2023-03-06**|**Sum rules for light-dressed matter**|Bing Gu et.al.|[2303.02866v1](http://arxiv.org/abs/2303.02866v1)|null|
+|**2023-03-05**|**Oblique helicoidal state of the twist-bend nematic doped by chiral azo-compound**|Vitalii Chornous et.al.|[2303.02642v1](http://arxiv.org/abs/2303.02642v1)|null|
 |**2023-03-03**|**Light-induced coherent interlayer transport in stripe-ordered ${\rm La}_{1.6-x}{\rm Nd}_{0.4}{\rm Sr}_{x}{\rm CuO}_{4}$**|Morihiko Nishida et.al.|[2303.01961v1](http://arxiv.org/abs/2303.01961v1)|null|
 |**2023-03-03**|**Distinguishing and controlling Mottness in 1T-TaS $_2$ by ultrafast light**|Changhua Bao et.al.|[2303.01712v1](http://arxiv.org/abs/2303.01712v1)|null|
 |**2023-03-03**|**Light Induced Magnetization in Superconductors via Inverse Faraday Effect**|Priya Sharma et.al.|[2303.01699v1](http://arxiv.org/abs/2303.01699v1)|null|
