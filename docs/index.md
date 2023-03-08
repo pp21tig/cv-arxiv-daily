@@ -1099,6 +1099,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-07**|**Extremely Large Lamb Shift in a Deep-strongly Coupled Circuit QED System with a Multimode Resonator**|Ziqiao Ao et.al.|[2303.04114v1](http://arxiv.org/abs/2303.04114v1)|null|
+|**2023-03-07**|**Macroscopic DNA-programmed photonic crystals via seeded growth**|Alexander Hensley et.al.|[2303.04074v1](http://arxiv.org/abs/2303.04074v1)|null|
+|**2023-03-07**|**Models of Mixed Matter**|V. I. Yukalov et.al.|[2303.04044v1](http://arxiv.org/abs/2303.04044v1)|null|
+|**2023-03-07**|**Statistics of carrier-cargo complexes**|René Wittmann et.al.|[2303.04005v1](http://arxiv.org/abs/2303.04005v1)|null|
+|**2023-03-07**|**Universal approach to p-wave triplet superconductivity in the Hubbard models**|Wanpeng Han et.al.|[2303.04004v1](http://arxiv.org/abs/2303.04004v1)|null|
+|**2023-03-07**|**Selecting Features for Markov Modeling: A Case Study on HP35**|Daniel Nagel et.al.|[2303.03814v1](http://arxiv.org/abs/2303.03814v1)|null|
+|**2023-03-07**|**On the electric charge of quantized vortices and the dipole moment of vortex pairs and rings in a magnetic field**|A. M. Konstantinov et.al.|[2303.03780v1](http://arxiv.org/abs/2303.03780v1)|null|
+|**2023-03-07**|**Extraordinary Electrical Conductance of Non-conducting Polymers Under Vibrational Strong Coupling**|Sunil Kumar et.al.|[2303.03777v1](http://arxiv.org/abs/2303.03777v1)|null|
+|**2023-03-07**|**Computing formation enthalpies through an explainable machine learning method: the case of Lanthanide Orthophosphates solid solutions**|Edoardo Di Napoli et.al.|[2303.03748v1](http://arxiv.org/abs/2303.03748v1)|null|
+|**2023-03-07**|**Electrostatic theory of the acidity of the solution in the lumina of viruses and virus-like particles**|H. J. Muhren et.al.|[2303.03722v1](http://arxiv.org/abs/2303.03722v1)|null|
+|**2023-03-07**|**Active Deformable Cells Undergo Cell Shape Transition Associated with Percolation of Topological Defects**|Nen Saito et.al.|[2303.03580v1](http://arxiv.org/abs/2303.03580v1)|null|
+|**2023-03-07**|**Sensing Translocating Polymers via Induced Magnetic Fields**|Sahin Buyukdagli et.al.|[2303.03563v1](http://arxiv.org/abs/2303.03563v1)|null|
+|**2023-03-06**|**Spin-Polarized Extended Lagrangian Born-Oppenheimer Molecular Dynamics**|Yu Zhang et.al.|[2303.03529v1](http://arxiv.org/abs/2303.03529v1)|null|
+|**2023-03-06**|**Going Beyond the Cumulant Approximation II:Power Series Correction to Single Particle Green's Function in 1D Holstein Chain**|Bipul Pandey et.al.|[2303.03503v1](http://arxiv.org/abs/2303.03503v1)|null|
+|**2023-03-06**|**Resonance structures in kink-antikink scattering in a quantum vacuum**|Mainak Mukhopadhyay et.al.|[2303.03415v1](http://arxiv.org/abs/2303.03415v1)|null|
 |**2023-03-06**|**Asymptotically exact scattering theory of active particles with anti-alignment interactions**|Thomas Ihle et.al.|[2303.03357v1](http://arxiv.org/abs/2303.03357v1)|null|
 |**2023-03-06**|**Scattering theory of Non-Brownian active particles with social distancing**|Thomas Ihle et.al.|[2303.03354v1](http://arxiv.org/abs/2303.03354v1)|null|
 |**2023-03-06**|**Surface viscosity in simple liquids**|Paolo Malgaretti et.al.|[2303.03342v1](http://arxiv.org/abs/2303.03342v1)|null|
