@@ -1095,6 +1095,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-08**|**Creep response of athermal amorphous solids under imposed shear stress**|Suman Dutta et.al.|[2303.04718v1](http://arxiv.org/abs/2303.04718v1)|null|
+|**2023-03-08**|**Peeling from a liquid**|Deepak Kumar et.al.|[2303.04709v1](http://arxiv.org/abs/2303.04709v1)|null|
+|**2023-03-08**|**Optical, electronic and structural properties of ScAlMgO4**|Tomasz Stefaniuka et.al.|[2303.04697v1](http://arxiv.org/abs/2303.04697v1)|null|
+|**2023-03-08**|**Observation of nonrelativistic plaid-like spin splitting in a noncoplanar antiferromagnet**|Yu-Peng Zhu et.al.|[2303.04549v1](http://arxiv.org/abs/2303.04549v1)|null|
+|**2023-03-08**|**Cavitation instabilities in amorphous solids via secondary mechanical perturbations**|Umang A. Dattani et.al.|[2303.04529v1](http://arxiv.org/abs/2303.04529v1)|null|
+|**2023-03-08**|**Testing the variants of the Stokes-Einstein relation in the framework of self-consistent generalized Langevin equation theory**|Wanmei Zhang et.al.|[2303.04325v1](http://arxiv.org/abs/2303.04325v1)|null|
+|**2023-03-07**|**Unveiling the capabilities of bipolar conical channels in neuromorphic iontronics**|T. M. Kamsma et.al.|[2303.04277v1](http://arxiv.org/abs/2303.04277v1)|null|
+|**2023-03-07**|**Current fluctuations in open quantum systems: Bridging the gap between quantum continuous measurements and full counting statistics**|Gabriel T. Landi et.al.|[2303.04270v1](http://arxiv.org/abs/2303.04270v1)|null|
+|**2023-03-07**|**Chern Simons condensate from misaligned axions**|Shuyang Cao et.al.|[2303.04197v1](http://arxiv.org/abs/2303.04197v1)|null|
 |**2023-03-07**|**Extremely Large Lamb Shift in a Deep-strongly Coupled Circuit QED System with a Multimode Resonator**|Ziqiao Ao et.al.|[2303.04114v1](http://arxiv.org/abs/2303.04114v1)|null|
 |**2023-03-07**|**Macroscopic DNA-programmed photonic crystals via seeded growth**|Alexander Hensley et.al.|[2303.04074v1](http://arxiv.org/abs/2303.04074v1)|null|
 |**2023-03-07**|**Models of Mixed Matter**|V. I. Yukalov et.al.|[2303.04044v1](http://arxiv.org/abs/2303.04044v1)|null|
