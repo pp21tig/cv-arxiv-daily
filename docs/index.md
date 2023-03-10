@@ -1099,6 +1099,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**Monte Carlo Study of Schwinger model without the Sign Problem**|Hiroki Ohata et.al.|[2303.05481v1](http://arxiv.org/abs/2303.05481v1)|null|
+|**2023-03-09**|**Implicit Chain Particle Model for Polymer Grafted Nanoparticles**|Zhenghao Wu et.al.|[2303.05363v1](http://arxiv.org/abs/2303.05363v1)|null|
+|**2023-03-09**|**The trousers fracture test for viscoelastic elastomers**|Bhavesh Shrimali et.al.|[2303.05340v1](http://arxiv.org/abs/2303.05340v1)|null|
+|**2023-03-09**|**Non-equilibrium configurations of swelling polymer brush layers induced by spreading drops of weakly volatile oil**|Özlem Kap et.al.|[2303.05324v1](http://arxiv.org/abs/2303.05324v1)|null|
+|**2023-03-09**|**Adhesive contact mechanics of viscoelastic materials**|C. Mandriota et.al.|[2303.05319v1](http://arxiv.org/abs/2303.05319v1)|null|
+|**2023-03-09**|**Unconventional Error Cancellation Explains the Success of Hartree-Fock Density Functional Theory for Barrier Heights**|Bikash Kanungo et.al.|[2303.05318v1](http://arxiv.org/abs/2303.05318v1)|null|
+|**2023-03-09**|**Investigating the fast spectral diffusion of a quantum emitter in hBN using resonant excitation and photon correlations**|Clarisse Fournier et.al.|[2303.05315v1](http://arxiv.org/abs/2303.05315v1)|null|
+|**2023-03-09**|**Search for Majorana neutrinos**|Itaru Shimizu et.al.|[2303.05127v1](http://arxiv.org/abs/2303.05127v1)|null|
+|**2023-03-09**|**Electron addition spectral functions of low-density polaron liquids**|Alberto Nocera et.al.|[2303.05013v1](http://arxiv.org/abs/2303.05013v1)|null|
+|**2023-03-08**|**Exploring Spin AGP Ansatze for Strongly Correlated Spin Systems**|Zhiyuan Liu et.al.|[2303.04925v1](http://arxiv.org/abs/2303.04925v1)|null|
+|**2023-03-08**|**Material-Geometry Interplay in Damping of Biomimetic Scale Beams**|Hossein Ebrahimi et.al.|[2303.04920v1](http://arxiv.org/abs/2303.04920v1)|null|
 |**2023-03-08**|**Creep response of athermal amorphous solids under imposed shear stress**|Suman Dutta et.al.|[2303.04718v1](http://arxiv.org/abs/2303.04718v1)|null|
 |**2023-03-08**|**Peeling from a liquid**|Deepak Kumar et.al.|[2303.04709v1](http://arxiv.org/abs/2303.04709v1)|null|
 |**2023-03-08**|**Optical, electronic and structural properties of ScAlMgO4**|Tomasz Stefaniuka et.al.|[2303.04697v1](http://arxiv.org/abs/2303.04697v1)|null|
@@ -1750,6 +1761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**Light-Induced Transitions of Polar State and Domain Morphology in Photo-Ferroelectric Nanoparticles**|Eugene A. Eliseev et.al.|[2303.04904v1](http://arxiv.org/abs/2303.04904v1)|null|
 |**2023-02-28**|**Opening long-time investigation window of living matter by nonbleaching phase intensity nanoscope: PINE**|Guangjie Cui et.al.|[2303.03344v1](http://arxiv.org/abs/2303.03344v1)|null|
 |**2023-03-06**|**Tracing the dynamics of superconducting order via transient third harmonic generation**|Min-Jae Kim et.al.|[2303.03288v1](http://arxiv.org/abs/2303.03288v1)|null|
 |**2023-03-06**|**Theoretical model of confined thermoviscous flows for artificial cytoplasmic streaming**|Weida Liao et.al.|[2303.03063v1](http://arxiv.org/abs/2303.03063v1)|null|
