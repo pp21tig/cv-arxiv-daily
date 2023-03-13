@@ -1099,6 +1099,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Supersolid phases of bosonic particles in a bubble trap**|Matteo Ciardi et.al.|[2303.06113v1](http://arxiv.org/abs/2303.06113v1)|null|
+|**2023-03-10**|**Coherent detection of hidden spin-lattice coupling in a van der Waals antiferromagnet**|Emre Ergeçen et.al.|[2303.05963v1](http://arxiv.org/abs/2303.05963v1)|null|
+|**2023-03-10**|**$\mathcal{PT}$ -symmetric, non-Hermitian quantum many-body physics -- a methodological perspective**|Volker Meden et.al.|[2303.05956v1](http://arxiv.org/abs/2303.05956v1)|null|
+|**2023-03-10**|**Nonequilibrium diffusion of active particles bound to a semi-flexible polymer network: simulations and fractional Langevin equation**|HyeongTark Han et.al.|[2303.05851v1](http://arxiv.org/abs/2303.05851v1)|null|
+|**2023-03-10**|**Single-Step Synthesis of Shape-Controlled Polymeric Particles using Initiated Chemical Vapor Deposition in Liquid Crystals**|Apoorva Jain et.al.|[2303.05662v1](http://arxiv.org/abs/2303.05662v1)|null|
+|**2023-03-09**|**First order alignment transition in an interfaced active nematic**|Olga Bantysh et.al.|[2303.05589v1](http://arxiv.org/abs/2303.05589v1)|null|
+|**2023-03-09**|**Optimal active particle navigation meets machine learning**|Mahdi Nasiri et.al.|[2303.05558v1](http://arxiv.org/abs/2303.05558v1)|null|
+|**2023-03-09**|**Spin-order-dependent magneto-elastic coupling in two dimensional antiferromagnetic MnPSe $_3$ observed through Raman spectroscopy**|Daniel J. Gillard et.al.|[2303.05554v1](http://arxiv.org/abs/2303.05554v1)|null|
 |**2023-03-09**|**Monte Carlo Study of Schwinger model without the Sign Problem**|Hiroki Ohata et.al.|[2303.05481v1](http://arxiv.org/abs/2303.05481v1)|null|
 |**2023-03-09**|**Implicit Chain Particle Model for Polymer Grafted Nanoparticles**|Zhenghao Wu et.al.|[2303.05363v1](http://arxiv.org/abs/2303.05363v1)|null|
 |**2023-03-09**|**The trousers fracture test for viscoelastic elastomers**|Bhavesh Shrimali et.al.|[2303.05340v1](http://arxiv.org/abs/2303.05340v1)|null|
