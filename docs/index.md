@@ -1099,6 +1099,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Collective synchronization of dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2303.07277v1](http://arxiv.org/abs/2303.07277v1)|null|
+|**2023-03-13**|**Ab initio electron-lattice downfolding: potential energy landscapes, anharmonicity, and molecular dynamics in charge density wave materials**|Arne Schobert et.al.|[2303.07261v1](http://arxiv.org/abs/2303.07261v1)|null|
+|**2023-03-13**|**Multi-objective analysis of the Sand Hypoplasticity model calibration**|Francisco J. Mendez et.al.|[2303.07234v1](http://arxiv.org/abs/2303.07234v1)|null|
+|**2023-03-13**|**Impact of polyelectrolyte adsorption on the rheology of concentrated Poly(N-Isopropylacrylamide) microgel suspensions**|Rajam Elancheliyan et.al.|[2303.07233v1](http://arxiv.org/abs/2303.07233v1)|null|
+|**2023-03-13**|**Surface instability in a nematic elastomer**|Morgan Barnes et.al.|[2303.07215v1](http://arxiv.org/abs/2303.07215v1)|null|
+|**2023-03-13**|**Enhanced Vibrational Stability in Glass Droplets**|Surajit Chakraborty et.al.|[2303.07147v1](http://arxiv.org/abs/2303.07147v1)|null|
+|**2023-03-13**|**Sublinear drag regime at mesoscopic scales in viscoelastic materials**|A. E. O. Ferreira et.al.|[2303.07145v1](http://arxiv.org/abs/2303.07145v1)|null|
+|**2023-03-13**|**Entanglement and localization in long-range quadratic Lindbladians**|Alejandro Cros Carrillo de Albornoz et.al.|[2303.07070v1](http://arxiv.org/abs/2303.07070v1)|null|
+|**2023-03-13**|**Spontaneous flows and dynamics of full-integer topological defects in polar active matter**|Jonas Rønning et.al.|[2303.07063v1](http://arxiv.org/abs/2303.07063v1)|null|
+|**2023-03-13**|**Tracing chirality from molecular organization to triply-periodic network assemblies: Threading biaxial twist through block copolymer gyroids**|Ishan Prasad et.al.|[2303.07059v1](http://arxiv.org/abs/2303.07059v1)|null|
+|**2023-03-13**|**Capillary filling of polymer chains in nanopores**|Jianwei Zhang et.al.|[2303.06809v1](http://arxiv.org/abs/2303.06809v1)|null|
+|**2023-03-10**|**Finite Elasticity of the Vertex Model and its Role in Rigidity of Curved Cellular Tissues**|Arthur Hernandez et.al.|[2303.06224v1](http://arxiv.org/abs/2303.06224v1)|null|
 |**2023-03-10**|**Supersolid phases of bosonic particles in a bubble trap**|Matteo Ciardi et.al.|[2303.06113v1](http://arxiv.org/abs/2303.06113v1)|null|
 |**2023-03-10**|**Coherent detection of hidden spin-lattice coupling in a van der Waals antiferromagnet**|Emre Ergeçen et.al.|[2303.05963v1](http://arxiv.org/abs/2303.05963v1)|null|
 |**2023-03-10**|**$\mathcal{PT}$ -symmetric, non-Hermitian quantum many-body physics -- a methodological perspective**|Volker Meden et.al.|[2303.05956v1](http://arxiv.org/abs/2303.05956v1)|null|
