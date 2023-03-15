@@ -1099,6 +1099,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Linear entropy fails to predict entanglement behavior in low-density fermionic systems**|T. Pauletti et.al.|[2303.08075v1](http://arxiv.org/abs/2303.08075v1)|null|
+|**2023-03-14**|**Unexpected catalytic activity of nanorippled graphene**|P. Z. Sun et.al.|[2303.08001v1](http://arxiv.org/abs/2303.08001v1)|null|
+|**2023-03-14**|**Photo-to-heat conversion of broadband metamaterial absorbers based on TiN nanoparticles under laser and solar illumination**|Do T. Nga et.al.|[2303.07894v1](http://arxiv.org/abs/2303.07894v1)|null|
+|**2023-03-14**|**Nature of Subdiffusion Crossover in Molecular Glass-Formers**|H. Srinivasan et.al.|[2303.07870v1](http://arxiv.org/abs/2303.07870v1)|null|
+|**2023-03-14**|**Poisson-Nernst-Planck charging dynamics of an electric double layer capacitor: symmetric and asymmetric binary electrolytes**|Ivan Palaia et.al.|[2303.07859v1](http://arxiv.org/abs/2303.07859v1)|null|
+|**2023-03-14**|**Structure and diffusion of active-passive binary mixtures in a single-file**|Tanwi Debnath et.al.|[2303.07843v1](http://arxiv.org/abs/2303.07843v1)|null|
+|**2023-03-14**|**Arrhenius temperature dependence of the crystallization time of deeply supercooled liquids**|Yuki Takaha et.al.|[2303.07817v1](http://arxiv.org/abs/2303.07817v1)|null|
+|**2023-03-14**|**Flocking without alignment interactions in attractive active Brownian particles**|Lorenzo Caprini et.al.|[2303.07746v1](http://arxiv.org/abs/2303.07746v1)|null|
+|**2023-03-14**|**Swimming, Feeding and Inversion of Multicellular Choanoflagellate Sheets**|Lloyd Fung et.al.|[2303.07727v1](http://arxiv.org/abs/2303.07727v1)|null|
+|**2023-03-14**|**An algebraic thixotropic elasto-viscoplastic constitutive equation describing pre-yielding solid and post-yielding liquid behaviours**|Lalit Kumar et.al.|[2303.07718v1](http://arxiv.org/abs/2303.07718v1)|null|
+|**2023-03-14**|**Quantum lattice models that preserve continuous translation symmetry**|Dominic G. Lewis et.al.|[2303.07649v1](http://arxiv.org/abs/2303.07649v1)|null|
+|**2023-03-13**|**Memory induced Magnus effect**|Xin Cao et.al.|[2303.07416v1](http://arxiv.org/abs/2303.07416v1)|null|
+|**2023-03-13**|**Influence of Entropy Changes on First Passage Time in the Thermodynamics of trajectories**|V. V. Ryazanov et.al.|[2303.07398v1](http://arxiv.org/abs/2303.07398v1)|null|
 |**2023-03-13**|**Collective synchronization of dissipatively-coupled noise-activated processes**|Michalis Chatzittofi et.al.|[2303.07277v1](http://arxiv.org/abs/2303.07277v1)|null|
 |**2023-03-13**|**Ab initio electron-lattice downfolding: potential energy landscapes, anharmonicity, and molecular dynamics in charge density wave materials**|Arne Schobert et.al.|[2303.07261v1](http://arxiv.org/abs/2303.07261v1)|null|
 |**2023-03-13**|**Multi-objective analysis of the Sand Hypoplasticity model calibration**|Francisco J. Mendez et.al.|[2303.07234v1](http://arxiv.org/abs/2303.07234v1)|**[link](https://github.com/frajomen/ga-cal)**|
