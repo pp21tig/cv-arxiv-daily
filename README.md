@@ -1095,6 +1095,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-15**|**Electron-photon Chern number in cavity-embedded 2D moiré materials**|Danh-Phuong Nguyen et.al.|[2303.08804v1](http://arxiv.org/abs/2303.08804v1)|null|
+|**2023-03-15**|**Halide perovskite artificial solids as a new platform to simulate collective phenomena in doped Mott insulators**|Alessandra Milloch et.al.|[2303.08791v1](http://arxiv.org/abs/2303.08791v1)|null|
+|**2023-03-15**|**Diffusiophoresis and medium structure control macroscopic particle transport in porous media**|Mamta Jotkar et.al.|[2303.08761v1](http://arxiv.org/abs/2303.08761v1)|null|
+|**2023-03-15**|**Efficient Solution of Bimaterial Riemann Problems for Compressible Multi-Material Flow Simulations**|Wentao Ma et.al.|[2303.08743v1](http://arxiv.org/abs/2303.08743v1)|null|
+|**2023-03-15**|**QMC-consistent static spin and density local field factors for the uniform electron gas**|Aaron D. Kaplan et.al.|[2303.08626v1](http://arxiv.org/abs/2303.08626v1)|null|
+|**2023-03-15**|**Temperature dependence study of water dynamics in Fluorohectorite clays using Molecular dynamics simulations**|H. O. Mohammed et.al.|[2303.08593v1](http://arxiv.org/abs/2303.08593v1)|null|
+|**2023-03-15**|**Tuning friction via topologically electro-convoluted lipid-membrane boundary layers**|Di Jin et.al.|[2303.08555v1](http://arxiv.org/abs/2303.08555v1)|null|
+|**2023-03-15**|**Electric-field-induced topological changes in multilamellar and in confined lipid membranes**|Di Jin et.al.|[2303.08551v1](http://arxiv.org/abs/2303.08551v1)|null|
+|**2023-03-15**|**Simulating prethermalization using near-term quantum computers**|Yilun Yang et.al.|[2303.08461v1](http://arxiv.org/abs/2303.08461v1)|null|
+|**2023-03-15**|**Acoustically driven magnon-phonon coupling in a layered antiferromagnet**|Thomas P. Lyons et.al.|[2303.08305v1](http://arxiv.org/abs/2303.08305v1)|null|
+|**2023-03-15**|**Universal Law of Coiling for a Short Elastic Strip Contacting Within a Tube**|Jeng Yi Lee et.al.|[2303.08304v1](http://arxiv.org/abs/2303.08304v1)|null|
+|**2023-03-15**|**Mechanical activation of reversible bonds by low amplitude high frequencies excitations**|Maziar Heidari et.al.|[2303.08283v1](http://arxiv.org/abs/2303.08283v1)|null|
+|**2023-03-14**|**Emergent modes of collective cell organization in an Active Finite Voronoi model**|Junxiang Huang et.al.|[2303.08276v1](http://arxiv.org/abs/2303.08276v1)|null|
+|**2023-03-14**|**Thermally-driven phase transitions in freestanding low-buckled silicene, germanene, and stanene**|John M. Davis et.al.|[2303.08237v1](http://arxiv.org/abs/2303.08237v1)|null|
+|**2023-03-14**|**Inertial Spinner Swarm Experiments: Spin Pumping, Entropy Oscillations and Spin Frustration**|Shengkai Li et.al.|[2303.08223v1](http://arxiv.org/abs/2303.08223v1)|null|
+|**2023-03-14**|**Gene Expression Programming for Quantum Computing**|Gonzalo Alvarez et.al.|[2303.08203v1](http://arxiv.org/abs/2303.08203v1)|null|
+|**2023-03-14**|**How to measure work functions from aqueous solutions**|Michele Pugini et.al.|[2303.08188v1](http://arxiv.org/abs/2303.08188v1)|null|
+|**2023-03-14**|**Highly resolved spectral functions of two-dimensional systems with neural quantum states**|Tiago Mendes-Santos et.al.|[2303.08184v1](http://arxiv.org/abs/2303.08184v1)|null|
+|**2023-03-14**|**Kekulé Moiré Superlattices**|Yusen Ye et.al.|[2303.08176v1](http://arxiv.org/abs/2303.08176v1)|null|
+|**2023-03-14**|**Machine learning topological defects in confluent tissues**|Andrew Killeen et.al.|[2303.08166v1](http://arxiv.org/abs/2303.08166v1)|null|
 |**2023-03-14**|**Linear entropy fails to predict entanglement behavior in low-density fermionic systems**|T. Pauletti et.al.|[2303.08075v1](http://arxiv.org/abs/2303.08075v1)|null|
 |**2023-03-14**|**Unexpected catalytic activity of nanorippled graphene**|P. Z. Sun et.al.|[2303.08001v1](http://arxiv.org/abs/2303.08001v1)|null|
 |**2023-03-14**|**Photo-to-heat conversion of broadband metamaterial absorbers based on TiN nanoparticles under laser and solar illumination**|Do T. Nga et.al.|[2303.07894v1](http://arxiv.org/abs/2303.07894v1)|null|
@@ -1790,6 +1810,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-15**|**Symmetry-protected difference between spin Hall and anomalous Hall effects of a periodically driven multiorbital metal**|Naoya Arakawa et.al.|[2303.08443v1](http://arxiv.org/abs/2303.08443v1)|null|
 |**2023-03-08**|**Light-Induced Transitions of Polar State and Domain Morphology in Photo-Ferroelectric Nanoparticles**|Eugene A. Eliseev et.al.|[2303.04904v1](http://arxiv.org/abs/2303.04904v1)|null|
 |**2023-02-28**|**Opening long-time investigation window of living matter by nonbleaching phase intensity nanoscope: PINE**|Guangjie Cui et.al.|[2303.03344v1](http://arxiv.org/abs/2303.03344v1)|null|
 |**2023-03-06**|**Tracing the dynamics of superconducting order via transient third harmonic generation**|Min-Jae Kim et.al.|[2303.03288v1](http://arxiv.org/abs/2303.03288v1)|null|
