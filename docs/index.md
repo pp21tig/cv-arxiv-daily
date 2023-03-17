@@ -1099,6 +1099,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**Properties of 2D anyon gas**|Douglas Lundholm et.al.|[2303.09544v1](http://arxiv.org/abs/2303.09544v1)|null|
+|**2023-03-16**|**Anomalous crystalline ordering of particles in a viscoelastic fluid under high shear**|Sijie Sun et.al.|[2303.09493v1](http://arxiv.org/abs/2303.09493v1)|null|
+|**2023-03-16**|**Electronic Excitation Response of DNA to High-energy Proton Radiation in Water**|Christopher Shepard et.al.|[2303.09466v1](http://arxiv.org/abs/2303.09466v1)|null|
+|**2023-03-16**|**4D-Printing of Smart, Nacre-Inspired, Organic-Ceramic Composites**|Benedikt F. Winhard et.al.|[2303.09326v1](http://arxiv.org/abs/2303.09326v1)|null|
+|**2023-03-16**|**NMR in $^3$ He-B**|V. V. Zavjalov et.al.|[2303.09228v1](http://arxiv.org/abs/2303.09228v1)|null|
+|**2023-03-16**|**Molecular Rheology of Nanoconfined Polymer Melts**|Ahmet Burak Yıldırım et.al.|[2303.09178v1](http://arxiv.org/abs/2303.09178v1)|null|
+|**2023-03-16**|**Hear the quantum noise of photocurrent**|Longjun Xiang et.al.|[2303.09160v1](http://arxiv.org/abs/2303.09160v1)|null|
+|**2023-03-16**|**Contact Angle Hysteresis on Rough Surfaces Part II: Energy Dissipation via Microscale Interface Dynamics**|Pawan Kumar et.al.|[2303.09149v1](http://arxiv.org/abs/2303.09149v1)|null|
+|**2023-03-16**|**Estimation of anisotropic bending rigidity and spontaneous curvature of crescent curvature-inducing proteins from tethered-vesicle experimental data**|Hiroshi Noguchi et.al.|[2303.09142v1](http://arxiv.org/abs/2303.09142v1)|null|
+|**2023-03-16**|**Motion of small bubbles and drops in viscoelastic fluids**|Dominique Langevin et.al.|[2303.09132v1](http://arxiv.org/abs/2303.09132v1)|null|
+|**2023-03-16**|**Interaction of Acoustic and Optical Phonons in Soft Bonded Cu-Se Framework of Large Unit Cell Minerals with Anionic Disorders**|Kewal Singh Rana et.al.|[2303.09111v1](http://arxiv.org/abs/2303.09111v1)|null|
+|**2023-03-16**|**Tuning Higher Order Structure in Colloidal Fluids**|Xiaoyue Wu et.al.|[2303.09029v1](http://arxiv.org/abs/2303.09029v1)|null|
+|**2023-03-15**|**Dynamic interfaces for contact-time control of colloidal interactions**|Yaxin Xu et.al.|[2303.08880v1](http://arxiv.org/abs/2303.08880v1)|null|
+|**2023-03-15**|**Nonequilibrium calcium dynamics optimizes the energetic efficiency of mitochondrial metabolism**|Valérie Voorsluijs et.al.|[2303.08822v1](http://arxiv.org/abs/2303.08822v1)|null|
 |**2023-03-15**|**Electron-photon Chern number in cavity-embedded 2D moiré materials**|Danh-Phuong Nguyen et.al.|[2303.08804v1](http://arxiv.org/abs/2303.08804v1)|null|
 |**2023-03-15**|**Halide perovskite artificial solids as a new platform to simulate collective phenomena in doped Mott insulators**|Alessandra Milloch et.al.|[2303.08791v1](http://arxiv.org/abs/2303.08791v1)|null|
 |**2023-03-15**|**Diffusiophoresis and medium structure control macroscopic particle transport in porous media**|Mamta Jotkar et.al.|[2303.08761v1](http://arxiv.org/abs/2303.08761v1)|null|
@@ -1814,6 +1828,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**Phototactic bioconvection in a forward scattering suspension illuminated by both diffuse and oblique collimated flux**|M. K. Panda et.al.|[2303.09127v1](http://arxiv.org/abs/2303.09127v1)|null|
 |**2023-03-15**|**Symmetry-protected difference between spin Hall and anomalous Hall effects of a periodically driven multiorbital metal**|Naoya Arakawa et.al.|[2303.08443v1](http://arxiv.org/abs/2303.08443v1)|null|
 |**2023-03-08**|**Light-Induced Transitions of Polar State and Domain Morphology in Photo-Ferroelectric Nanoparticles**|Eugene A. Eliseev et.al.|[2303.04904v1](http://arxiv.org/abs/2303.04904v1)|null|
 |**2023-02-28**|**Opening long-time investigation window of living matter by nonbleaching phase intensity nanoscope: PINE**|Guangjie Cui et.al.|[2303.03344v1](http://arxiv.org/abs/2303.03344v1)|null|
