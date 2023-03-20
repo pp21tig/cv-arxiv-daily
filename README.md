@@ -18,6 +18,7 @@
     <li><a href=#Terahertz>Terahertz</a></li>
     <li><a href=#Light-induce>Light induce</a></li>
     <li><a href=#Intense-Terahertz>Intense Terahertz</a></li>
+    <li><a href=#Electric-Field-Terahertz>Electric Field Terahertz</a></li>
   </ol>
 </details>
 
@@ -1907,6 +1908,33 @@
 |**2022-01-22**|**ADRA: Extending Digital Computing-in-Memory with Asymmetric Dual-Row-Activation**|Akul Malhotra et.al.|[2201.01509v2](http://arxiv.org/abs/2201.01509v2)|null|
 |**2021-12-20**|**Ramond States of the D1-D5 CFT away from the free orbifold point**|Andre Alves Lima et.al.|[2112.10832v1](http://arxiv.org/abs/2112.10832v1)|null|
 |**2021-12-13**|**Process Tomography on a 7-Qubit Quantum Processor via Tensor Network Contraction Path Finding**|Aidan Dang et.al.|[2112.06364v1](http://arxiv.org/abs/2112.06364v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
+
+## Electric Field Terahertz
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-03-10**|**In-gap Nonlinear Spin Hall Current by Two-color Excitation in Single-layer WTe $_2$**|Pankaj Bhalla et.al.|[2303.06238v1](http://arxiv.org/abs/2303.06238v1)|null|
+|**2023-03-05**|**Efficient Spin-Orbit Torque in Antiferromagnetic Topological Insulator MnBi $_2$Te$_4$**|Junyu Tang et.al.|[2303.06181v1](http://arxiv.org/abs/2303.06181v1)|null|
+|**2023-03-08**|**Current-induced spin polarization at metallic surfaces from first-principles**|Andrea Droghetti et.al.|[2303.04666v1](http://arxiv.org/abs/2303.04666v1)|null|
+|**2023-03-06**|**Simulating bistable current-induced switching of metallic atomic contacts by electron-vibration scattering**|Markus Ring et.al.|[2303.03309v1](http://arxiv.org/abs/2303.03309v1)|null|
+|**2023-02-27**|**Electromagnetic modeling and science reach of DMRadio-m $^3$**|DMRadio Collaboration et.al.|[2302.14084v1](http://arxiv.org/abs/2302.14084v1)|null|
+|**2023-02-25**|**Current-Induced Metallization and Valence Transition in Black SmS**|Shin-ichi Kimura et.al.|[2302.12998v1](http://arxiv.org/abs/2302.12998v1)|null|
+|**2023-02-14**|**Resistive Heating Induced by Streaming Cosmic Rays Around a Galaxy in the Early Universe**|Shota L. Yokoyama et.al.|[2302.07028v1](http://arxiv.org/abs/2302.07028v1)|null|
+|**2023-02-06**|**Ab initio study of the nonlinear optical properties and d.c. photocurrent of the Weyl semimetal TaIrTe $_4$**|Álvaro R. Puente-Uriona et.al.|[2302.03090v1](http://arxiv.org/abs/2302.03090v1)|null|
+|**2023-02-02**|**Leveraging symmetry for an accurate spin-orbit torques characterization in ferrimagnetic insulators**|Martín Testa-Anta et.al.|[2302.01141v1](http://arxiv.org/abs/2302.01141v1)|null|
+|**2023-01-19**|**Current-driven dynamics and ratchet effect of skyrmion bubbles in a ferrimagnetic insulator**|Saül Vélez et.al.|[2301.08183v1](http://arxiv.org/abs/2301.08183v1)|null|
+|**2023-01-16**|**Different spin relaxation property observed in linearly and circularly polarized laser induced terahertz emission from Bi/Co bilayer**|Kazuaki Ishibashi et.al.|[2301.06231v1](http://arxiv.org/abs/2301.06231v1)|null|
+|**2023-01-10**|**Compensation of anisotropy in spin-Hall devices for neuromorphic applications**|Pankaj Sethi et.al.|[2301.03794v1](http://arxiv.org/abs/2301.03794v1)|null|
+|**2023-01-04**|**Deterministic multi-level spin orbit torque switching using He+ microscopy patterning**|Jinu Kurian et.al.|[2301.02188v1](http://arxiv.org/abs/2301.02188v1)|null|
+|**2023-01-04**|**Including the effect of depth-uniform ambient currents on waves in a non-hydrostatic wave-flow model**|Dirk P. Rijnsdorp et.al.|[2301.01725v1](http://arxiv.org/abs/2301.01725v1)|null|
+|**2023-01-01**|**Spin Hall Induced Magnetization Dynamics in Multiferroic Tunnel Junction**|Jakub Pawlak et.al.|[2301.00459v1](http://arxiv.org/abs/2301.00459v1)|null|
+|**2022-12-29**|**Correlated Mott insulators in a strong electric field: The effects of phonon renormalization**|Tommaso Maria Mazzocchi et.al.|[2212.14352v1](http://arxiv.org/abs/2212.14352v1)|null|
+|**2022-12-27**|**The topological magnetoelectric effect in semiconductor nanostructures: quantum wells, wires, dots and rings**|Josep Planelles et.al.|[2212.13427v1](http://arxiv.org/abs/2212.13427v1)|null|
+|**2022-12-23**|**How an electrical current can stabilize a molecular nanojunction**|André Erpenbeck et.al.|[2212.12460v1](http://arxiv.org/abs/2212.12460v1)|null|
+|**2023-02-28**|**Highly-parallelized simulation of a pixelated LArTPC on a GPU**|DUNE Collaboration et.al.|[2212.09807v3](http://arxiv.org/abs/2212.09807v3)|**[link](https://github.com/DUNE/larnd-sim)**|
+|**2022-12-14**|**Ordered creation and motion of skyrmions with surface acoustic wave**|Ruyi Chen et.al.|[2212.06997v1](http://arxiv.org/abs/2212.06997v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230320>back to top</a>)</p>
 
