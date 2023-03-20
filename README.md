@@ -1096,6 +1096,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Probing the coverage of nanoparticles by biomimetic membranes through nanoplasmonics**|Jacopo Cardellini et.al.|[2303.10122v1](http://arxiv.org/abs/2303.10122v1)|null|
+|**2023-03-17**|**The role of fluid's viscoelasticity on the self-assembly of particle chains in simple shear flow**|Matthew G. Smith et.al.|[2303.09891v1](http://arxiv.org/abs/2303.09891v1)|null|
+|**2023-03-17**|**Self-organization of primitive metabolic cycles due to non-reciprocal interactions**|Vincent Ouazan-Reboul et.al.|[2303.09832v1](http://arxiv.org/abs/2303.09832v1)|null|
+|**2023-03-16**|**Initiation of motility on a compliant substrate**|Jocelyn Étienne et.al.|[2303.09666v1](http://arxiv.org/abs/2303.09666v1)|null|
+|**2023-03-16**|**Vibrational model of heat transfer in strongly coupled Yukawa fluids (dusty plasma liquids)**|Sergey Khrapak et.al.|[2303.09651v1](http://arxiv.org/abs/2303.09651v1)|null|
+|**2023-03-16**|**A simply solvable model capturing the approach to statistical self-similarity for the diffusive coarsening of bubbles, droplets, and grains**|Anthony T. Chieco et.al.|[2303.09612v1](http://arxiv.org/abs/2303.09612v1)|null|
 |**2023-03-16**|**Properties of 2D anyon gas**|Douglas Lundholm et.al.|[2303.09544v1](http://arxiv.org/abs/2303.09544v1)|null|
 |**2023-03-16**|**Anomalous crystalline ordering of particles in a viscoelastic fluid under high shear**|Sijie Sun et.al.|[2303.09493v1](http://arxiv.org/abs/2303.09493v1)|null|
 |**2023-03-16**|**Electronic Excitation Response of DNA to High-energy Proton Radiation in Water**|Christopher Shepard et.al.|[2303.09466v1](http://arxiv.org/abs/2303.09466v1)|null|
