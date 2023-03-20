@@ -18,5 +18,5 @@ keywords:
         filters: ["terahertz","condensed matter","terahertz spectroscopy"]
     "Intense Terahertz":
         filters: ["single cycle","ultrafast","terahertz"]
-    "MBT THz":
-        filters: ["MnBi2Te4","terahertz"]
+    "Electric Field Terahertz":
+        filters: ["current induce","current switching"]
