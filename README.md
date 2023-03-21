@@ -19,6 +19,7 @@
     <li><a href=#Light-induce>Light induce</a></li>
     <li><a href=#Intense-Terahertz>Intense Terahertz</a></li>
     <li><a href=#Electric-Field-Terahertz>Electric Field Terahertz</a></li>
+    <li><a href=#AHE>AHE</a></li>
   </ol>
 </details>
 
@@ -1096,6 +1097,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**Fluid-Glass-Jamming Rheology of Soft Active Brownian Particles**|Roland Wiese et.al.|[2303.11245v1](http://arxiv.org/abs/2303.11245v1)|null|
+|**2023-03-20**|**A Tensor Train Continuous Time Solver for Quantum Impurity Models**|A. Erpenbeck et.al.|[2303.11199v1](http://arxiv.org/abs/2303.11199v1)|null|
+|**2023-03-20**|**Spectroscopic Evidence for Dirac Nodal Surfaces and Nodal Rings in Superconductor NaAlSi**|Chunyao Song et.al.|[2303.11179v1](http://arxiv.org/abs/2303.11179v1)|null|
+|**2023-03-20**|**The kinetics of the ice-water interface from ab initio machine learning simulations**|Pablo Montero de Hijes et.al.|[2303.11092v1](http://arxiv.org/abs/2303.11092v1)|null|
+|**2023-03-20**|**Molecular conformations of dumbbell-shaped polymers in good solvent**|Khristine Haydukivska et.al.|[2303.11062v1](http://arxiv.org/abs/2303.11062v1)|null|
+|**2023-03-20**|**Squeeze cementing of micro-annuli: a visco-plastic invasion flow**|Mahdi Izadi et.al.|[2303.11043v1](http://arxiv.org/abs/2303.11043v1)|null|
+|**2023-03-20**|**High-g-Factor Phase-Matched Circular Dichroism of Second Harmonic Generation in Chiral Polar Liquids**|Xiuhu Zhao et.al.|[2303.11012v1](http://arxiv.org/abs/2303.11012v1)|null|
+|**2023-03-20**|**Topological and non-topological mechanisms of loops formation in chromosomes: effects on the contact probability**|Kirill Polovnikov et.al.|[2303.11004v1](http://arxiv.org/abs/2303.11004v1)|null|
+|**2023-03-20**|**Strong photon-magnon interaction beyond the near field**|Jinwei Rao et.al.|[2303.10925v1](http://arxiv.org/abs/2303.10925v1)|null|
+|**2023-03-20**|**Effect of substrate heterogeneity and topology on epithelial tissue growth dynamics**|Mahmood Mazarei et.al.|[2303.10850v1](http://arxiv.org/abs/2303.10850v1)|null|
+|**2023-03-19**|**The fluidic memristor: collective phenomena in elastohydrodynamic networks**|Alejandro Martinez-Calvo et.al.|[2303.10777v1](http://arxiv.org/abs/2303.10777v1)|null|
+|**2023-03-19**|**Timescales of Cell Membrane Fusion Mediated by SARS-CoV2 Spike Protein and its Receptor ACE2**|Dominic Hayward et.al.|[2303.10746v1](http://arxiv.org/abs/2303.10746v1)|null|
+|**2023-03-19**|**Emergent rigidity in chemically self-interacting flexible active polymers**|Manoj Kumar et.al.|[2303.10742v1](http://arxiv.org/abs/2303.10742v1)|null|
+|**2023-03-19**|**Mode-coupling theory of lattice dynamics for classical and quantum crystal**|Aloïs Castellano et.al.|[2303.10621v1](http://arxiv.org/abs/2303.10621v1)|null|
+|**2023-03-18**|**Random site percolation thresholds on square lattice for complex neighborhoods containing sites up to the sixth coordination zone**|Krzysztof Malarz et.al.|[2303.10423v1](http://arxiv.org/abs/2303.10423v1)|null|
+|**2023-03-18**|**Constitutive theory of saturated porous media considering porosity-dependent skeleton strain and chemical activity**|Ya-yuan Hu et.al.|[2303.10374v1](http://arxiv.org/abs/2303.10374v1)|null|
+|**2023-03-18**|**Designing mechanical response using tessellated granular metamaterials**|Jerry Zhang et.al.|[2303.10300v1](http://arxiv.org/abs/2303.10300v1)|null|
 |**2023-03-17**|**Probing the coverage of nanoparticles by biomimetic membranes through nanoplasmonics**|Jacopo Cardellini et.al.|[2303.10122v1](http://arxiv.org/abs/2303.10122v1)|null|
 |**2023-03-17**|**The role of fluid's viscoelasticity on the self-assembly of particle chains in simple shear flow**|Matthew G. Smith et.al.|[2303.09891v1](http://arxiv.org/abs/2303.09891v1)|null|
 |**2023-03-17**|**Self-organization of primitive metabolic cycles due to non-reciprocal interactions**|Vincent Ouazan-Reboul et.al.|[2303.09832v1](http://arxiv.org/abs/2303.09832v1)|null|
@@ -1921,6 +1939,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**A Hybrid 3D/2D Field Response Calculation for Liquid Argon Detectors with PCB Based Anode Plane**|S. Martynenko et.al.|[2303.10224v1](http://arxiv.org/abs/2303.10224v1)|null|
 |**2023-03-10**|**In-gap Nonlinear Spin Hall Current by Two-color Excitation in Single-layer WTe $_2$**|Pankaj Bhalla et.al.|[2303.06238v1](http://arxiv.org/abs/2303.06238v1)|null|
 |**2023-03-19**|**Efficient Spin-Orbit Torque in Antiferromagnetic Topological Insulator MnBi $_2$Te$_4$**|Junyu Tang et.al.|[2303.06181v2](http://arxiv.org/abs/2303.06181v2)|null|
 |**2023-03-08**|**Current-induced spin polarization at metallic surfaces from first-principles**|Andrea Droghetti et.al.|[2303.04666v1](http://arxiv.org/abs/2303.04666v1)|null|
@@ -1941,6 +1960,33 @@
 |**2022-12-23**|**How an electrical current can stabilize a molecular nanojunction**|André Erpenbeck et.al.|[2212.12460v1](http://arxiv.org/abs/2212.12460v1)|null|
 |**2023-02-28**|**Highly-parallelized simulation of a pixelated LArTPC on a GPU**|DUNE Collaboration et.al.|[2212.09807v3](http://arxiv.org/abs/2212.09807v3)|**[link](https://github.com/DUNE/larnd-sim)**|
 |**2022-12-14**|**Ordered creation and motion of skyrmions with surface acoustic wave**|Ruyi Chen et.al.|[2212.06997v1](http://arxiv.org/abs/2212.06997v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
+
+## AHE
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-03-17**|**Covariant derivatives of Berry-type quantities: Application to nonlinear transport % in solids**|Xiaoxiong Liu et.al.|[2303.10129v1](http://arxiv.org/abs/2303.10129v1)|null|
+|**2023-03-17**|**Scanning Tunneling Microscopy Study of Epitaxially Grown Fe3GeTe2 Layer on the Topological Insulator Bi2Te3**|Brad M. Goff et.al.|[2303.10113v1](http://arxiv.org/abs/2303.10113v1)|null|
+|**2023-03-17**|**Intrinsic and extrinsic anomalous transport properties of Heusler ferromagnets Fe $_2$CoAl and Fe$_2$ NiAl from first principles**|Xiuxian Yang et.al.|[2303.09812v1](http://arxiv.org/abs/2303.09812v1)|null|
+|**2023-03-15**|**Symmetry-protected difference between spin Hall and anomalous Hall effects of a periodically driven multiorbital metal**|Naoya Arakawa et.al.|[2303.08443v1](http://arxiv.org/abs/2303.08443v1)|null|
+|**2023-03-13**|**Unusual magnetotransport and anomalous Hall effect in quasi-two-dimensional van der Waals ferromagnet Fe $_4$GeTe$_2$**|Riju Pal et.al.|[2303.07440v1](http://arxiv.org/abs/2303.07440v1)|null|
+|**2023-03-15**|**Electrically Controlled Anomalous Hall Effect and Orbital Magnetization in Topological Magnet MnBi2Te4**|Ruobing Mei et.al.|[2303.06204v2](http://arxiv.org/abs/2303.06204v2)|null|
+|**2023-03-10**|**Anomalous Hall effect in type-I Weyl metals beyond the noncrossing approximation**|Jia-Xing Zhang et.al.|[2303.05829v1](http://arxiv.org/abs/2303.05829v1)|null|
+|**2023-03-08**|**Spontaneous topological Hall effect induced by non-coplanar antiferromagnetic order in intercalated van der Waals materials**|H. Takagi et.al.|[2303.04879v1](http://arxiv.org/abs/2303.04879v1)|null|
+|**2023-03-08**|**Quantum anomalous Hall insulator in ionic Rashba lattice of correlated electrons**|Marcin M. Wysokiński et.al.|[2303.04454v1](http://arxiv.org/abs/2303.04454v1)|null|
+|**2023-03-20**|**Observation of the Berry curvature quadrupole induced nonlinear anomalous Hall effect at room temperature**|Soumya Sankar et.al.|[2303.03274v2](http://arxiv.org/abs/2303.03274v2)|null|
+|**2023-03-06**|**Epitaxial van der Waals heterostructures of Cr2Te3 on 2D materials**|Quentin Guillet et.al.|[2303.03076v1](http://arxiv.org/abs/2303.03076v1)|null|
+|**2023-03-20**|**Orbital character of the spin-reorientation transition in TbMn $_6$Sn$_6$**|S. X. M. Riberolles et.al.|[2303.01613v2](http://arxiv.org/abs/2303.01613v2)|null|
+|**2023-03-07**|**The "Sign problem" of the 3rd order anomalous Hall effect in topological magnetic materials**|Xu Zhang et.al.|[2303.00819v2](http://arxiv.org/abs/2303.00819v2)|null|
+|**2023-03-01**|**General scatterings and electronic states in the quantum-wire network of moiré systems**|Chen-Hsuan Hsu et.al.|[2303.00759v1](http://arxiv.org/abs/2303.00759v1)|null|
+|**2023-02-23**|**Observation of Kondo lattice and Kondo-enhanced anomalous Hall effect in an itinerant ferromagnet**|Zi-Jia Cheng et.al.|[2302.12113v1](http://arxiv.org/abs/2302.12113v1)|null|
+|**2023-02-22**|**Anomalous Nernst effect induced terahertz emission in a single ferromagnetic film**|Zheng Feng et.al.|[2302.11134v1](http://arxiv.org/abs/2302.11134v1)|null|
+|**2023-02-22**|**Entanglement entropy as an order parameter for strongly coupled nodal line semimetals**|Matteo Baggioli et.al.|[2302.11096v1](http://arxiv.org/abs/2302.11096v1)|null|
+|**2023-02-16**|**Large intrinsic anomalous Hall effect in both Nb $_{2}$FeB$_{2}$ and Ta$_{2}$FeB$_{2}$ with collinear antiferromagnetism**|Xiao-Yao Hou et.al.|[2302.08276v1](http://arxiv.org/abs/2302.08276v1)|null|
+|**2023-02-14**|**Direct evidence of terahertz emission arising from anomalous Hall effect**|V. Mottamchetty et.al.|[2302.07398v1](http://arxiv.org/abs/2302.07398v1)|null|
+|**2023-02-14**|**Pressure-tunable magnetic topological phases in magnetic topological insulator MnSb4Te7**|Lingling Gao et.al.|[2302.07113v1](http://arxiv.org/abs/2302.07113v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
 
