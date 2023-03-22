@@ -1097,6 +1097,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Tessellated granular metamaterials with tunable elastic moduli**|Nidhi Pashine et.al.|[2303.12070v1](http://arxiv.org/abs/2303.12070v1)|null|
+|**2023-03-21**|**Force Dipole Interactions in Tubular Fluid Membranes**|Samyak Jain et.al.|[2303.12061v1](http://arxiv.org/abs/2303.12061v1)|null|
+|**2023-03-21**|**Materials under XUV irradiation: effects of structure, size, and temperature**|Nikita Medvedev et.al.|[2303.12056v1](http://arxiv.org/abs/2303.12056v1)|null|
+|**2023-03-21**|**Sculpting liquid crystal skyrmions with external flows**|Rodrigo C. V. Coelho et.al.|[2303.12045v1](http://arxiv.org/abs/2303.12045v1)|null|
+|**2023-03-21**|**Scalar CFTs from structural phase transitions**|Junchen Rong et.al.|[2303.12028v1](http://arxiv.org/abs/2303.12028v1)|null|
+|**2023-03-21**|**Hydrodynamics of an odd active surfer in a chiral fluid**|Yuto Hosaka et.al.|[2303.11836v1](http://arxiv.org/abs/2303.11836v1)|null|
+|**2023-03-21**|**Quantics Tensor Cross Interpolation for High-Resolution, Parsimonious Representations of Multivariate Functions in Physics and Beyond**|Marc K. Ritter et.al.|[2303.11819v1](http://arxiv.org/abs/2303.11819v1)|null|
+|**2023-03-21**|**Robust microphase separation through chemical reaction networks**|Franco Blanchini et.al.|[2303.11723v1](http://arxiv.org/abs/2303.11723v1)|null|
+|**2023-03-20**|**Wrinkling composite sheets**|Marc Suñé et.al.|[2303.11460v1](http://arxiv.org/abs/2303.11460v1)|null|
+|**2023-03-20**|**Spontaneous Emulsification: Elucidation of the Local Processes**|Monicka Kullappan et.al.|[2303.11442v1](http://arxiv.org/abs/2303.11442v1)|null|
+|**2023-03-20**|**Adhesive Release via Elasto-Osmotic Stress Driven Surface Instability**|Khulood Al-sakkaf et.al.|[2303.11437v1](http://arxiv.org/abs/2303.11437v1)|null|
 |**2023-03-20**|**Fluid-Glass-Jamming Rheology of Soft Active Brownian Particles**|Roland Wiese et.al.|[2303.11245v1](http://arxiv.org/abs/2303.11245v1)|null|
 |**2023-03-20**|**A Tensor Train Continuous Time Solver for Quantum Impurity Models**|A. Erpenbeck et.al.|[2303.11199v1](http://arxiv.org/abs/2303.11199v1)|null|
 |**2023-03-20**|**Spectroscopic Evidence for Dirac Nodal Surfaces and Nodal Rings in Superconductor NaAlSi**|Chunyao Song et.al.|[2303.11179v1](http://arxiv.org/abs/2303.11179v1)|null|
@@ -1939,6 +1950,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Kondo enhancement of current induced spin accumulation in a quantum dot**|V. N. Mantsevich et.al.|[2303.11778v1](http://arxiv.org/abs/2303.11778v1)|null|
+|**2023-03-21**|**Nonuniform magnetic domain-wall synapses enabled by population coding**|Ya Qiao et.al.|[2303.11572v1](http://arxiv.org/abs/2303.11572v1)|null|
 |**2023-03-17**|**A Hybrid 3D/2D Field Response Calculation for Liquid Argon Detectors with PCB Based Anode Plane**|S. Martynenko et.al.|[2303.10224v1](http://arxiv.org/abs/2303.10224v1)|null|
 |**2023-03-10**|**In-gap Nonlinear Spin Hall Current by Two-color Excitation in Single-layer WTe $_2$**|Pankaj Bhalla et.al.|[2303.06238v1](http://arxiv.org/abs/2303.06238v1)|null|
 |**2023-03-19**|**Efficient Spin-Orbit Torque in Antiferromagnetic Topological Insulator MnBi $_2$Te$_4$**|Junyu Tang et.al.|[2303.06181v2](http://arxiv.org/abs/2303.06181v2)|null|
@@ -1967,6 +1980,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**Topological monopole's gauge field induced anomalous Hall effect in artificial honeycomb lattice**|J. Guo et.al.|[2303.11506v1](http://arxiv.org/abs/2303.11506v1)|null|
 |**2023-03-21**|**Covariant derivatives of Berry-type quantities: Application to nonlinear transport**|Xiaoxiong Liu et.al.|[2303.10129v2](http://arxiv.org/abs/2303.10129v2)|null|
 |**2023-03-17**|**Scanning Tunneling Microscopy Study of Epitaxially Grown Fe3GeTe2 Layer on the Topological Insulator Bi2Te3**|Brad M. Goff et.al.|[2303.10113v1](http://arxiv.org/abs/2303.10113v1)|null|
 |**2023-03-17**|**Intrinsic and extrinsic anomalous transport properties of Heusler ferromagnets Fe $_2$CoAl and Fe$_2$ NiAl from first principles**|Xiuxian Yang et.al.|[2303.09812v1](http://arxiv.org/abs/2303.09812v1)|null|
