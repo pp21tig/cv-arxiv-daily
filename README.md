@@ -1097,6 +1097,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-22**|**Active particles with delayed attractions form quaking crystallites**|Pin-Chuan Chen et.al.|[2303.12780v1](http://arxiv.org/abs/2303.12780v1)|null|
+|**2023-03-22**|**System-specific parameter optimization for non-polarizable and polarizable force fields**|Xiaojuan Hu et.al.|[2303.12775v1](http://arxiv.org/abs/2303.12775v1)|null|
+|**2023-03-22**|**The origin of the density scaling exponent for polyatomic molecules and the estimation of its value from the liquid structure**|Filip Kaskosz et.al.|[2303.12546v1](http://arxiv.org/abs/2303.12546v1)|null|
+|**2023-03-22**|**Machine learning-informed structuro-elastoplasticity predicts ductility of disordered solids**|Hongyi Xiao et.al.|[2303.12486v1](http://arxiv.org/abs/2303.12486v1)|null|
+|**2023-03-22**|**Suppression of Richtmyer-Meshkov instability via special pairs of shocks and phase transitions**|W. J. Schill et.al.|[2303.12312v1](http://arxiv.org/abs/2303.12312v1)|null|
+|**2023-03-22**|**flippy: User friendly and open source framework for lipid membrane simulations**|George Dadunashvili et.al.|[2303.12305v1](http://arxiv.org/abs/2303.12305v1)|null|
+|**2023-03-21**|**Ultrasonic Study of Water Adsorbed in Nanoporous Glasses**|Jason Ogbebor et.al.|[2303.12193v1](http://arxiv.org/abs/2303.12193v1)|null|
+|**2023-03-21**|**Comment on "Absence of Off-Diagonal Long- Range Order in hcp He-4 Dislocation Cores"**|M. Boninsegni et.al.|[2303.12174v1](http://arxiv.org/abs/2303.12174v1)|null|
+|**2023-03-21**|**Viscoelastic Constitutive Artificial Neural Networks (vCANNs) $-$ a framework for data-driven anisotropic nonlinear finite viscoelasticity**|Kian P. Abdolazizi et.al.|[2303.12164v1](http://arxiv.org/abs/2303.12164v1)|null|
 |**2023-03-21**|**Tessellated granular metamaterials with tunable elastic moduli**|Nidhi Pashine et.al.|[2303.12070v1](http://arxiv.org/abs/2303.12070v1)|null|
 |**2023-03-21**|**Force Dipole Interactions in Tubular Fluid Membranes**|Samyak Jain et.al.|[2303.12061v1](http://arxiv.org/abs/2303.12061v1)|null|
 |**2023-03-21**|**Materials under XUV irradiation: effects of structure, size, and temperature**|Nikita Medvedev et.al.|[2303.12056v1](http://arxiv.org/abs/2303.12056v1)|null|
