@@ -1101,6 +1101,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Sign structure in the square-lattice $t$-$t^\prime$-$J$ model and numerical consequences**|Xin Lu et.al.|[2303.13498v1](http://arxiv.org/abs/2303.13498v1)|null|
+|**2023-03-23**|**Arrested on heating: controlling the motility of active droplets by temperature**|Prashanth Ramesh et.al.|[2303.13442v1](http://arxiv.org/abs/2303.13442v1)|null|
+|**2023-03-23**|**Polycrystalinity enhances stress build-up around ice**|Dominic Gerber et.al.|[2303.13428v1](http://arxiv.org/abs/2303.13428v1)|null|
+|**2023-03-23**|**Dynamics of active defects on the anisotropic surface of an ellipsoidal droplet**|Martina Clairand et.al.|[2303.13312v1](http://arxiv.org/abs/2303.13312v1)|null|
+|**2023-03-23**|**Lifting, loading, and buckling in conical shells**|Daniel Duffy et.al.|[2303.13306v1](http://arxiv.org/abs/2303.13306v1)|null|
+|**2023-03-23**|**Multiple magnetic transitions and complex magnetic structures in Fe $_2$SiSe$_4$ with the sawtooth lattice**|Feihao Pan et.al.|[2303.13224v1](http://arxiv.org/abs/2303.13224v1)|null|
+|**2023-03-23**|**Transiently delocalized states enhance hole mobility in organic molecular semiconductors**|Samuele Giannini et.al.|[2303.13163v1](http://arxiv.org/abs/2303.13163v1)|null|
+|**2023-03-23**|**Brownian yet non-Gaussian diffusion of a light particle in heavy gas: Lorentz gas based analysis**|Fumiaki Nakai et.al.|[2303.13119v1](http://arxiv.org/abs/2303.13119v1)|null|
+|**2023-03-23**|**Polymorphic phase transitions in bulk triglyceride mixtures**|Diana Cholakova et.al.|[2303.13094v1](http://arxiv.org/abs/2303.13094v1)|null|
+|**2023-03-23**|**Shear banding in monodisperse polymer melt**|Fan Peng et.al.|[2303.12978v1](http://arxiv.org/abs/2303.12978v1)|null|
+|**2023-03-23**|**Anharmonic theory of superconductivity and its applications to emerging quantum materials**|Chandan Setty et.al.|[2303.12977v1](http://arxiv.org/abs/2303.12977v1)|null|
+|**2023-03-22**|**Polymer Informatics Beyond Homopolymers**|Shivank S. Shukla et.al.|[2303.12938v1](http://arxiv.org/abs/2303.12938v1)|null|
+|**2023-03-22**|**Detecting low-energy quasilocalized excitations in computer glasses**|David Richard et.al.|[2303.12887v1](http://arxiv.org/abs/2303.12887v1)|null|
 |**2023-03-22**|**Active particles with delayed attractions form quaking crystallites**|Pin-Chuan Chen et.al.|[2303.12780v1](http://arxiv.org/abs/2303.12780v1)|null|
 |**2023-03-22**|**System-specific parameter optimization for non-polarizable and polarizable force fields**|Xiaojuan Hu et.al.|[2303.12775v1](http://arxiv.org/abs/2303.12775v1)|null|
 |**2023-03-22**|**The origin of the density scaling exponent for polyatomic molecules and the estimation of its value from the liquid structure**|Filip Kaskosz et.al.|[2303.12546v1](http://arxiv.org/abs/2303.12546v1)|null|
@@ -1873,6 +1886,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Probing C-I Bond Fission in the UV Photochemistry of 2-Iodothiophene with Core-to-Valence Transient Absorption Spectroscopy**|Benjamin W. Toulson et.al.|[2303.13467v1](http://arxiv.org/abs/2303.13467v1)|null|
 |**2023-03-16**|**Phototactic bioconvection in a forward scattering suspension illuminated by both diffuse and oblique collimated flux**|M. K. Panda et.al.|[2303.09127v1](http://arxiv.org/abs/2303.09127v1)|null|
 |**2023-03-15**|**Symmetry-protected difference between spin Hall and anomalous Hall effects of a periodically driven multiorbital metal**|Naoya Arakawa et.al.|[2303.08443v1](http://arxiv.org/abs/2303.08443v1)|null|
 |**2023-03-08**|**Light-Induced Transitions of Polar State and Domain Morphology in Photo-Ferroelectric Nanoparticles**|Eugene A. Eliseev et.al.|[2303.04904v1](http://arxiv.org/abs/2303.04904v1)|null|
@@ -1963,6 +1977,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-23**|**Antiferromagnetic insulatronics: spintronics in insulating 3d metal oxides with antiferromagnetic coupling**|H. Meer et.al.|[2303.13369v1](http://arxiv.org/abs/2303.13369v1)|null|
+|**2023-03-23**|**Mechanism of electrical switching of ultra-thin CoO/Pt bilayers**|Christin Schmitt et.al.|[2303.13308v1](http://arxiv.org/abs/2303.13308v1)|null|
 |**2023-03-21**|**Kondo enhancement of current induced spin accumulation in a quantum dot**|V. N. Mantsevich et.al.|[2303.11778v1](http://arxiv.org/abs/2303.11778v1)|null|
 |**2023-03-21**|**Nonuniform magnetic domain-wall synapses enabled by population coding**|Ya Qiao et.al.|[2303.11572v1](http://arxiv.org/abs/2303.11572v1)|null|
 |**2023-03-17**|**A Hybrid 3D/2D Field Response Calculation for Liquid Argon Detectors with PCB Based Anode Plane**|S. Martynenko et.al.|[2303.10224v1](http://arxiv.org/abs/2303.10224v1)|null|
