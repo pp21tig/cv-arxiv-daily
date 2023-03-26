@@ -1108,7 +1108,7 @@
 |**2023-03-23**|**Polymorphic phase transitions in bulk triglyceride mixtures**|Diana Cholakova et.al.|[2303.13094v1](http://arxiv.org/abs/2303.13094v1)|null|
 |**2023-03-23**|**Shear banding in monodisperse polymer melt**|Fan Peng et.al.|[2303.12978v1](http://arxiv.org/abs/2303.12978v1)|null|
 |**2023-03-23**|**Anharmonic theory of superconductivity and its applications to emerging quantum materials**|Chandan Setty et.al.|[2303.12977v1](http://arxiv.org/abs/2303.12977v1)|null|
-|**2023-03-22**|**Polymer Informatics Beyond Homopolymers**|Shivank S. Shukla et.al.|[2303.12938v1](http://arxiv.org/abs/2303.12938v1)|null|
+|**2023-03-22**|**Polymer Informatics Beyond Homopolymers**|Shivank S. Shukla et.al.|[2303.12938v1](http://arxiv.org/abs/2303.12938v1)|**[link](https://github.com/ramprasad-group/polymer_informatics_beyond_homopolymers)**|
 |**2023-03-22**|**Detecting low-energy quasilocalized excitations in computer glasses**|David Richard et.al.|[2303.12887v1](http://arxiv.org/abs/2303.12887v1)|null|
 |**2023-03-22**|**Active particles with delayed attractions form quaking crystallites**|Pin-Chuan Chen et.al.|[2303.12780v1](http://arxiv.org/abs/2303.12780v1)|null|
 |**2023-03-22**|**System-specific parameter optimization for non-polarizable and polarizable force fields**|Xiaojuan Hu et.al.|[2303.12775v1](http://arxiv.org/abs/2303.12775v1)|null|
