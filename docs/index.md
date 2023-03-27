@@ -1101,6 +1101,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**"Water to the ropes": a predictive model for the supercontraction stress of spider silks**|Vincenzo Fazio et.al.|[2303.14141v1](http://arxiv.org/abs/2303.14141v1)|null|
+|**2023-03-24**|**Unraveling RNA by Mechanical Unzipping**|Paolo Rissone et.al.|[2303.14065v1](http://arxiv.org/abs/2303.14065v1)|null|
+|**2023-03-24**|**Hydrodynamic Stability Criterion for Colloidal Gelation under Gravity**|Joost de Graaf et.al.|[2303.13908v1](http://arxiv.org/abs/2303.13908v1)|null|
+|**2023-03-24**|**Overcoming water diffusion limitations in hydrogels via microtubular graphene networks for soft actuators**|Margarethe Hauck et.al.|[2303.13878v1](http://arxiv.org/abs/2303.13878v1)|null|
+|**2023-03-23**|**Optimising nanoporous supercapacitors for heat-to-electricity conversion**|Mathijs Janssen et.al.|[2303.13671v1](http://arxiv.org/abs/2303.13671v1)|null|
+|**2023-03-23**|**Germain Curvature: The Case for Naming the Mean Curvature of a Surface after Sophie Germain**|Douglas P. Holmes et.al.|[2303.13615v1](http://arxiv.org/abs/2303.13615v1)|null|
 |**2023-03-23**|**Sign structure in the square-lattice $t$-$t^\prime$-$J$ model and numerical consequences**|Xin Lu et.al.|[2303.13498v1](http://arxiv.org/abs/2303.13498v1)|null|
 |**2023-03-23**|**Arrested on heating: controlling the motility of active droplets by temperature**|Prashanth Ramesh et.al.|[2303.13442v1](http://arxiv.org/abs/2303.13442v1)|null|
 |**2023-03-23**|**Polycrystalinity enhances stress build-up around ice**|Dominic Gerber et.al.|[2303.13428v1](http://arxiv.org/abs/2303.13428v1)|null|
@@ -1886,6 +1892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**Wave-Packet Surface Propagation for Light-Induced Molecular Dissociation**|Shengzhe Pan et.al.|[2303.13991v1](http://arxiv.org/abs/2303.13991v1)|null|
 |**2023-03-23**|**Probing C-I Bond Fission in the UV Photochemistry of 2-Iodothiophene with Core-to-Valence Transient Absorption Spectroscopy**|Benjamin W. Toulson et.al.|[2303.13467v1](http://arxiv.org/abs/2303.13467v1)|null|
 |**2023-03-16**|**Phototactic bioconvection in a forward scattering suspension illuminated by both diffuse and oblique collimated flux**|M. K. Panda et.al.|[2303.09127v1](http://arxiv.org/abs/2303.09127v1)|null|
 |**2023-03-15**|**Symmetry-protected difference between spin Hall and anomalous Hall effects of a periodically driven multiorbital metal**|Naoya Arakawa et.al.|[2303.08443v1](http://arxiv.org/abs/2303.08443v1)|null|
@@ -1977,6 +1984,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**Charge-density-wave resistive switching and voltage oscillations in ternary chalcogenide BaTiS3**|Huandong Chen et.al.|[2303.14169v1](http://arxiv.org/abs/2303.14169v1)|null|
 |**2023-03-23**|**Antiferromagnetic insulatronics: spintronics in insulating 3d metal oxides with antiferromagnetic coupling**|H. Meer et.al.|[2303.13369v1](http://arxiv.org/abs/2303.13369v1)|null|
 |**2023-03-23**|**Mechanism of electrical switching of ultra-thin CoO/Pt bilayers**|Christin Schmitt et.al.|[2303.13308v1](http://arxiv.org/abs/2303.13308v1)|null|
 |**2023-03-21**|**Kondo enhancement of current induced spin accumulation in a quantum dot**|V. N. Mantsevich et.al.|[2303.11778v1](http://arxiv.org/abs/2303.11778v1)|null|
