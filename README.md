@@ -1097,6 +1097,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Is the Molecular Weight Dependence of the Glass Transition Temperature Caused by a Chain End Effect?**|William F. Drayer et.al.|[2303.15399v1](http://arxiv.org/abs/2303.15399v1)|null|
+|**2023-03-27**|**Strain control of exciton and trion spin-valley dynamics in monolayer transition metal dichalcogenides**|Zhao An et.al.|[2303.15325v1](http://arxiv.org/abs/2303.15325v1)|null|
+|**2023-03-27**|**Inertial effects in ultrafast spin dynamics**|Ritwik Mondal et.al.|[2303.15251v1](http://arxiv.org/abs/2303.15251v1)|null|
+|**2023-03-27**|**Orientational dynamics and rheology of active suspensions in weakly viscoelastic flows**|Akash Choudhary et.al.|[2303.15241v1](http://arxiv.org/abs/2303.15241v1)|null|
+|**2023-03-27**|**Mean first passage time of active fluctuating membrane with stochastic resetting**|Tapas Singha et.al.|[2303.15192v1](http://arxiv.org/abs/2303.15192v1)|null|
+|**2023-03-27**|**Remarks on compressible convection in Super-Earths**|Yanick Ricard et.al.|[2303.15153v1](http://arxiv.org/abs/2303.15153v1)|null|
+|**2023-03-26**|**Dielectric properties of aqueous electrolytes at the nanoscale**|Maximilian R. Becker et.al.|[2303.14846v1](http://arxiv.org/abs/2303.14846v1)|null|
+|**2023-03-26**|**A dynamical transition from localized to uniform scrambling in locally hyperbolic systems**|Mathias Steinhuber et.al.|[2303.14839v1](http://arxiv.org/abs/2303.14839v1)|null|
+|**2023-03-26**|**Optical Control Of Mass Ejection From Ferroelectric Liquid Droplets: A Possible Tool For The Actuation Of Complex Fluids**|Stefano Marni et.al.|[2303.14798v1](http://arxiv.org/abs/2303.14798v1)|null|
+|**2023-03-26**|**A macroscopic constitutive relation for isotropic-genesis, polydomain liquid crystal elastomers**|Victoria Lee et.al.|[2303.14783v1](http://arxiv.org/abs/2303.14783v1)|null|
+|**2023-03-26**|**Gauge Invariance and Anomalies in Condensed Matter Physics**|Jürg Fröhlich et.al.|[2303.14741v1](http://arxiv.org/abs/2303.14741v1)|null|
+|**2023-03-26**|**Directed Autonomous Motion and Chiral Separation of Self-Propelled Janus Particles in Convection Roll Arrays**|Poulami Bag et.al.|[2303.14698v1](http://arxiv.org/abs/2303.14698v1)|null|
+|**2023-03-26**|**Magnetic nanofibers for remotely triggered catalytic activity applied to the degradation of organic pollutants**|Jesús A. Fuentes-García et.al.|[2303.14650v1](http://arxiv.org/abs/2303.14650v1)|null|
+|**2023-03-26**|**Stability of multi-lamellar lipid tubules in excess water**|Tripta Bhatia et.al.|[2303.14631v1](http://arxiv.org/abs/2303.14631v1)|null|
+|**2023-03-25**|**Splay and polar order in a system of hard wedges: numerical confrontation with the Density Functional Theory**|Piotr Kubala et.al.|[2303.14528v1](http://arxiv.org/abs/2303.14528v1)|null|
+|**2023-03-25**|**Production of Porous Glass-foam Materials from Photovoltaic Panel Waste Glass**|Bui Khac Thach et.al.|[2303.14499v1](http://arxiv.org/abs/2303.14499v1)|null|
+|**2023-03-25**|**Synchronized Rotations in Chemotactic Active matter**|Pathma Eswaran et.al.|[2303.14489v1](http://arxiv.org/abs/2303.14489v1)|null|
+|**2023-03-24**|**Monte Carlo analysis of the contributions of long-lived positronium to the spectra of positron-impact-induced secondary electrons measured using an annihilation-gamma-triggered time-of-flight spectrometer**|S. Lotfimarangloo et.al.|[2303.14287v1](http://arxiv.org/abs/2303.14287v1)|null|
 |**2023-03-24**|**"Water to the ropes": a predictive model for the supercontraction stress of spider silks**|Vincenzo Fazio et.al.|[2303.14141v1](http://arxiv.org/abs/2303.14141v1)|null|
 |**2023-03-24**|**Unraveling RNA by Mechanical Unzipping**|Paolo Rissone et.al.|[2303.14065v1](http://arxiv.org/abs/2303.14065v1)|null|
 |**2023-03-24**|**Hydrodynamic Stability Criterion for Colloidal Gelation under Gravity**|Joost de Graaf et.al.|[2303.13908v1](http://arxiv.org/abs/2303.13908v1)|null|
@@ -1888,6 +1906,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Mechanisms for Long-Lived, Photo-Induced Superconductivity**|Sambuddha Chattopadhyay et.al.|[2303.15355v1](http://arxiv.org/abs/2303.15355v1)|null|
+|**2023-03-26**|**Symmetry analysis of light-induced magnetic interactions via Floquet engineering**|Ryota Yambe et.al.|[2303.14627v1](http://arxiv.org/abs/2303.14627v1)|null|
+|**2023-03-25**|**Inverted loss engineering in functional material covered waveguides**|Ayvaz I. Davletkhanov et.al.|[2303.14512v1](http://arxiv.org/abs/2303.14512v1)|null|
 |**2023-03-24**|**Wave-Packet Surface Propagation for Light-Induced Molecular Dissociation**|Shengzhe Pan et.al.|[2303.13991v1](http://arxiv.org/abs/2303.13991v1)|null|
 |**2023-03-23**|**Probing C-I Bond Fission in the UV Photochemistry of 2-Iodothiophene with Core-to-Valence Transient Absorption Spectroscopy**|Benjamin W. Toulson et.al.|[2303.13467v1](http://arxiv.org/abs/2303.13467v1)|null|
 |**2023-03-16**|**Phototactic bioconvection in a forward scattering suspension illuminated by both diffuse and oblique collimated flux**|M. K. Panda et.al.|[2303.09127v1](http://arxiv.org/abs/2303.09127v1)|null|
@@ -1980,6 +2001,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-26**|**Homochiral antiferromagnetic merons, antimerons and bimerons realized in synthetic antiferromagnets**|Mona Bhukta et.al.|[2303.14853v1](http://arxiv.org/abs/2303.14853v1)|null|
+|**2023-03-26**|**Strong lateral exchange coupling and current-induced switching in single-layer ferrimagnetic films with patterned compensation temperature**|Zhentao Liu et.al.|[2303.14809v1](http://arxiv.org/abs/2303.14809v1)|null|
+|**2023-03-25**|**Odd symmetry planar Hall effect: A method of detecting current-induced in-plane magnetization switching**|Raghvendra Posti et.al.|[2303.14431v1](http://arxiv.org/abs/2303.14431v1)|null|
 |**2023-03-24**|**Charge-density-wave resistive switching and voltage oscillations in ternary chalcogenide BaTiS3**|Huandong Chen et.al.|[2303.14169v1](http://arxiv.org/abs/2303.14169v1)|null|
 |**2023-03-23**|**Antiferromagnetic insulatronics: spintronics in insulating 3d metal oxides with antiferromagnetic coupling**|H. Meer et.al.|[2303.13369v1](http://arxiv.org/abs/2303.13369v1)|null|
 |**2023-03-23**|**Mechanism of electrical switching of ultra-thin CoO/Pt bilayers**|Christin Schmitt et.al.|[2303.13308v1](http://arxiv.org/abs/2303.13308v1)|null|
@@ -2013,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-25**|**Odd symmetry planar Hall effect: A method of detecting current-induced in-plane magnetization switching**|Raghvendra Posti et.al.|[2303.14431v1](http://arxiv.org/abs/2303.14431v1)|null|
 |**2023-03-20**|**Topological monopole's gauge field induced anomalous Hall effect in artificial honeycomb lattice**|J. Guo et.al.|[2303.11506v1](http://arxiv.org/abs/2303.11506v1)|null|
 |**2023-03-21**|**Covariant derivatives of Berry-type quantities: Application to nonlinear transport**|Xiaoxiong Liu et.al.|[2303.10129v2](http://arxiv.org/abs/2303.10129v2)|null|
 |**2023-03-17**|**Scanning Tunneling Microscopy Study of Epitaxially Grown Fe3GeTe2 Layer on the Topological Insulator Bi2Te3**|Brad M. Goff et.al.|[2303.10113v1](http://arxiv.org/abs/2303.10113v1)|null|
