@@ -1097,6 +1097,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Design principles for transporting vesicles with enclosed active particles**|Sarvesh Uplap et.al.|[2303.16095v1](http://arxiv.org/abs/2303.16095v1)|null|
+|**2023-03-28**|**Escape Kinetics of an Underdamped Colloidal Particle from a Cavity through Narrow Pores**|Shubhadip Nayak et.al.|[2303.16092v1](http://arxiv.org/abs/2303.16092v1)|null|
+|**2023-03-28**|**Generation of third-harmonic spin oscillation from strong spin precession induced by terahertz magnetic near fields**|Zhenya Zhang et.al.|[2303.16016v1](http://arxiv.org/abs/2303.16016v1)|null|
+|**2023-03-28**|**Continuous time crystal in an electron-nuclear spin system: stability and melting of periodic auto-oscillations**|A. Greilich et.al.|[2303.15989v1](http://arxiv.org/abs/2303.15989v1)|null|
+|**2023-03-28**|**Shear-thickening in presence of adhesive contact forces: the singularity of cornstarch**|Anais Gauthier et.al.|[2303.15915v1](http://arxiv.org/abs/2303.15915v1)|null|
+|**2023-03-28**|**Angle-dependent Magnetoresistance of an Ordered Bose Glass of Vortices in YBa $_{2}$Cu$_{3}$O$_{7-δ}$ Thin Films with a Periodic Pinning~Lattice**|Bernd Aichner et.al.|[2303.15912v1](http://arxiv.org/abs/2303.15912v1)|null|
+|**2023-03-28**|**Selectively embedding multiple spatially steered fibers in polymer composite parts made using vat photopolymerization**|Vivek Khatua et.al.|[2303.15813v1](http://arxiv.org/abs/2303.15813v1)|null|
+|**2023-03-28**|**The topological order in loop quantum gravity**|Jingbo Wang et.al.|[2303.15760v1](http://arxiv.org/abs/2303.15760v1)|null|
+|**2023-03-27**|**Shapes of magnetic monopoles in effective $SU(2)$ models**|Petr Beneš et.al.|[2303.15602v1](http://arxiv.org/abs/2303.15602v1)|null|
+|**2023-03-27**|**GlassNet: a multitask deep neural network for predicting many glass properties**|Daniel R. Cassar et.al.|[2303.15538v1](http://arxiv.org/abs/2303.15538v1)|null|
+|**2023-03-26**|**Non-planar snake gaits: from Stigmatic-starts to Sidewinding**|N. Charles et.al.|[2303.15482v1](http://arxiv.org/abs/2303.15482v1)|null|
 |**2023-03-27**|**Is the Molecular Weight Dependence of the Glass Transition Temperature Caused by a Chain End Effect?**|William F. Drayer et.al.|[2303.15399v1](http://arxiv.org/abs/2303.15399v1)|null|
 |**2023-03-27**|**Strain control of exciton and trion spin-valley dynamics in monolayer transition metal dichalcogenides**|Zhao An et.al.|[2303.15325v1](http://arxiv.org/abs/2303.15325v1)|null|
 |**2023-03-27**|**Inertial effects in ultrafast spin dynamics**|Ritwik Mondal et.al.|[2303.15251v1](http://arxiv.org/abs/2303.15251v1)|null|
