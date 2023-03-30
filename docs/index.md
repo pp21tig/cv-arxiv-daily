@@ -1101,6 +1101,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**Observation of fast sound in two-dimensional dusty plasma liquids**|Zhenyu Ge et.al.|[2303.16718v1](http://arxiv.org/abs/2303.16718v1)|null|
+|**2023-03-29**|**Force-Free and Autonomous Active Brownian Ratchets**|Constantin Rein et.al.|[2303.16672v1](http://arxiv.org/abs/2303.16672v1)|null|
+|**2023-03-29**|**Shear-induced reinforcement in boehmite gels: a rheo-X-ray-scattering study**|Iana Sudreau et.al.|[2303.16572v1](http://arxiv.org/abs/2303.16572v1)|null|
+|**2023-03-29**|**Photoemission Orbital Tomography for Excitons in Organic Molecules**|Christian S. Kern nd Andreas Windischbacher et.al.|[2303.16543v1](http://arxiv.org/abs/2303.16543v1)|null|
+|**2023-03-29**|**Quasiparticle transport in a two-dimensional boundary superfluid**|S. Autti et.al.|[2303.16518v1](http://arxiv.org/abs/2303.16518v1)|null|
+|**2023-03-29**|**A Comprehensive and Versatile Multimodal Deep Learning Approach for Predicting Diverse Properties of Advanced Materials**|Shun Muroga et.al.|[2303.16412v1](http://arxiv.org/abs/2303.16412v1)|null|
+|**2023-03-28**|**Quantum computing with trapped ions: a beginner's guide**|Francesco Bernardini et.al.|[2303.16358v1](http://arxiv.org/abs/2303.16358v1)|null|
+|**2023-03-28**|**Programming hydrogel adhesion with engineered polymer network topology**|Zhen Yang et.al.|[2303.16262v1](http://arxiv.org/abs/2303.16262v1)|null|
 |**2023-03-28**|**Design principles for transporting vesicles with enclosed active particles**|Sarvesh Uplap et.al.|[2303.16095v1](http://arxiv.org/abs/2303.16095v1)|null|
 |**2023-03-28**|**Escape Kinetics of an Underdamped Colloidal Particle from a Cavity through Narrow Pores**|Shubhadip Nayak et.al.|[2303.16092v1](http://arxiv.org/abs/2303.16092v1)|null|
 |**2023-03-28**|**Generation of third-harmonic spin oscillation from strong spin precession induced by terahertz magnetic near fields**|Zhenya Zhang et.al.|[2303.16016v1](http://arxiv.org/abs/2303.16016v1)|null|
@@ -2016,6 +2024,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**On the origin and elimination of cross coupling between tunneling current and excitation in scanning probe experiments that utilize the qPlus sensor**|Michael Schelchshorn et.al.|[2303.16850v1](http://arxiv.org/abs/2303.16850v1)|null|
+|**2023-03-29**|**Coarse-graining collective skyrmion dynamics in confined geometries**|Thomas Brian Winkler et.al.|[2303.16472v1](http://arxiv.org/abs/2303.16472v1)|null|
+|**2023-03-28**|**Analysis of ultrafast magnetization switching dynamics in exchange-coupled ferromagnet-ferrimagnet heterostructures**|Debanjan Polley et.al.|[2303.16294v1](http://arxiv.org/abs/2303.16294v1)|null|
 |**2023-03-26**|**Homochiral antiferromagnetic merons, antimerons and bimerons realized in synthetic antiferromagnets**|Mona Bhukta et.al.|[2303.14853v1](http://arxiv.org/abs/2303.14853v1)|null|
 |**2023-03-26**|**Strong lateral exchange coupling and current-induced switching in single-layer ferrimagnetic films with patterned compensation temperature**|Zhentao Liu et.al.|[2303.14809v1](http://arxiv.org/abs/2303.14809v1)|null|
 |**2023-03-25**|**Odd symmetry planar Hall effect: A method of detecting current-induced in-plane magnetization switching**|Raghvendra Posti et.al.|[2303.14431v1](http://arxiv.org/abs/2303.14431v1)|null|
