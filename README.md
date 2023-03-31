@@ -1097,7 +1097,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Topological Circular Dichroism in Chiral Multifold Semimetals**|Junyeong Ahn et.al.|[2303.17553v1](http://arxiv.org/abs/2303.17553v1)|null|
+|**2023-03-30**|**Weak-anchoring effects in a thin pinned ridge of nematic liquid crystal**|Joseph R. L. Cousins et.al.|[2303.17498v1](http://arxiv.org/abs/2303.17498v1)|null|
+|**2023-03-30**|**Ferrimagnetic Regulation of Weyl Fermions in a Noncentrosymmetric Magnetic Weyl Semimetal**|Cong Li et.al.|[2303.17302v1](http://arxiv.org/abs/2303.17302v1)|null|
+|**2023-03-30**|**Scaling properties of RNA as a randomly branching polymer**|Domen Vaupotič et.al.|[2303.17281v1](http://arxiv.org/abs/2303.17281v1)|null|
+|**2023-03-30**|**Viscous tubular-body theory for plane interfaces**|Lyndon Koens et.al.|[2303.17275v1](http://arxiv.org/abs/2303.17275v1)|null|
+|**2023-03-30**|**Microscopic derivation of nonlinear fluctuating hydrodynamics for crystalline solid**|Ken Hiura et.al.|[2303.17227v1](http://arxiv.org/abs/2303.17227v1)|null|
+|**2023-03-30**|**On the analogy between the restricted primitive model and capacitor circuits. Part II: A generalized Gibbs-Duhem consistent extension of the Pitzer-Debye-Hückel term with corrections for low and variable relative permittivity**|Andrés González de Castilla et.al.|[2303.17170v1](http://arxiv.org/abs/2303.17170v1)|null|
+|**2023-03-30**|**Self-replicating segregation patterns in horizontally vibrated binary mixture of granules**|Hiroyuki Ebata et.al.|[2303.17145v1](http://arxiv.org/abs/2303.17145v1)|null|
+|**2023-03-30**|**Superfluid $^3$ He-B Surface States in a Confined Geometry Probed by a Microelectromechanical Oscillator**|W. G. Jiang et.al.|[2303.17073v1](http://arxiv.org/abs/2303.17073v1)|null|
+|**2023-03-29**|**Unfolding the Toric Code Model with Emergent Qubits**|Brijesh Kumar et.al.|[2303.17044v1](http://arxiv.org/abs/2303.17044v1)|null|
+|**2023-03-29**|**Programming Correlated Magnetic States via Gate Controlled Moiré Geometry**|Eric Anderson et.al.|[2303.17038v1](http://arxiv.org/abs/2303.17038v1)|null|
+|**2023-03-29**|**Active Brownian Particles in Random and Porous Environments**|Fergus J. Moore et.al.|[2303.17022v1](http://arxiv.org/abs/2303.17022v1)|null|
+|**2023-03-29**|**Importance of Many Particle Correlations to the Collective Debye-Waller Factor in a Single-Particle Activated Dynamic Theory of the Glass Transition**|Ashesh Ghosh et.al.|[2303.16969v1](http://arxiv.org/abs/2303.16969v1)|null|
 |**2023-03-29**|**Observation of fast sound in two-dimensional dusty plasma liquids**|Zhenyu Ge et.al.|[2303.16718v1](http://arxiv.org/abs/2303.16718v1)|null|
+|**2023-03-29**|**Irreversible mesoscale fluctuations herald the emergence of dynamical phases**|Thomas Suchanek et.al.|[2303.16701v1](http://arxiv.org/abs/2303.16701v1)|null|
 |**2023-03-29**|**Force-Free and Autonomous Active Brownian Ratchets**|Constantin Rein et.al.|[2303.16672v1](http://arxiv.org/abs/2303.16672v1)|null|
 |**2023-03-29**|**Shear-induced reinforcement in boehmite gels: a rheo-X-ray-scattering study**|Iana Sudreau et.al.|[2303.16572v1](http://arxiv.org/abs/2303.16572v1)|null|
 |**2023-03-29**|**Photoemission Orbital Tomography for Excitons in Organic Molecules**|Christian S. Kern nd Andreas Windischbacher et.al.|[2303.16543v1](http://arxiv.org/abs/2303.16543v1)|null|
@@ -1925,6 +1939,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Light induced spiking of proteinoids**|Panagiotis Mougkogiannis et.al.|[2303.17563v1](http://arxiv.org/abs/2303.17563v1)|null|
+|**2023-03-29**|**Light induced decoupling of electronic and magnetic properties in manganites**|Henry Navarro et.al.|[2303.17049v1](http://arxiv.org/abs/2303.17049v1)|null|
 |**2023-03-27**|**Mechanisms for Long-Lived, Photo-Induced Superconductivity**|Sambuddha Chattopadhyay et.al.|[2303.15355v1](http://arxiv.org/abs/2303.15355v1)|null|
 |**2023-03-26**|**Symmetry analysis of light-induced magnetic interactions via Floquet engineering**|Ryota Yambe et.al.|[2303.14627v1](http://arxiv.org/abs/2303.14627v1)|null|
 |**2023-03-25**|**Inverted loss engineering in functional material covered waveguides**|Ayvaz I. Davletkhanov et.al.|[2303.14512v1](http://arxiv.org/abs/2303.14512v1)|null|
@@ -1993,6 +2009,7 @@
 |---|---|---|---|---|
 |**2023-02-28**|**Model-Free and Learning-Free Proprioceptive Humanoid Movement Control**|Boren Jiang et.al.|[2302.14249v1](http://arxiv.org/abs/2302.14249v1)|null|
 |**2023-02-27**|**Structural constraints on the emergence of oscillations in multi-population neural networks**|Jie Zang et.al.|[2302.14157v1](http://arxiv.org/abs/2302.14157v1)|null|
+|**2023-03-29**|**Efficient Multi-Cycle Folded Integer Multipliers**|Ahmad Houraniah et.al.|[2301.13332v2](http://arxiv.org/abs/2301.13332v2)|null|
 |**2022-12-20**|**Time-resolved THz Stark spectroscopy**|Bong Joo Kang et.al.|[2212.10333v1](http://arxiv.org/abs/2212.10333v1)|null|
 |**2022-12-14**|**Two-dimensional THz spectroscopy of nonlinear phononics in the topological insulator $\mathrm{MnBi}_2\mathrm{Te}_4$**|T. G. H. Blank et.al.|[2212.07532v1](http://arxiv.org/abs/2212.07532v1)|null|
 |**2023-02-24**|**Pandering in a Flexible Representative Democracy**|Xiaolin Sun et.al.|[2211.09986v2](http://arxiv.org/abs/2211.09986v2)|null|
@@ -2020,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Exact steady states of the impurity-doped XXZ spin chain coupled to dissipators**|Chihiro Matsui et.al.|[2303.17084v1](http://arxiv.org/abs/2303.17084v1)|null|
 |**2023-03-29**|**On the origin and elimination of cross coupling between tunneling current and excitation in scanning probe experiments that utilize the qPlus sensor**|Michael Schelchshorn et.al.|[2303.16850v1](http://arxiv.org/abs/2303.16850v1)|null|
 |**2023-03-29**|**Coarse-graining collective skyrmion dynamics in confined geometries**|Thomas Brian Winkler et.al.|[2303.16472v1](http://arxiv.org/abs/2303.16472v1)|null|
 |**2023-03-28**|**Analysis of ultrafast magnetization switching dynamics in exchange-coupled ferromagnet-ferrimagnet heterostructures**|Debanjan Polley et.al.|[2303.16294v1](http://arxiv.org/abs/2303.16294v1)|null|
