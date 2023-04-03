@@ -1097,6 +1097,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-31**|**Island Hopping of active colloids**|Venkata Manikantha Sai Ganesh Tanuku et.al.|[2303.18188v1](http://arxiv.org/abs/2303.18188v1)|null|
+|**2023-03-31**|**Theory of rheology and aging of protein condensates**|Ryota Takaki et.al.|[2303.18028v1](http://arxiv.org/abs/2303.18028v1)|null|
+|**2023-03-31**|**Impact of extended long-range electrostatics on the correlation of liquid-liquid equilibria in aqueous ionic liquid systems**|Hugo Marques et.al.|[2303.17831v1](http://arxiv.org/abs/2303.17831v1)|null|
+|**2023-03-31**|**Measuring response functions of active materials from data**|Mehdi Molaei et.al.|[2303.17785v1](http://arxiv.org/abs/2303.17785v1)|null|
+|**2023-03-30**|**Hydrodynamics of a relativistic charged fluid in the presence of a periodically modulated chemical potential**|Nicolas Chagnet et.al.|[2303.17685v1](http://arxiv.org/abs/2303.17685v1)|null|
+|**2023-03-30**|**On the equivocal nature of the mass absorption curves**|Pawel Rochowski et.al.|[2303.17681v1](http://arxiv.org/abs/2303.17681v1)|null|
+|**2023-03-30**|**Sequential epidemic spread between agglomerates of self-propelled agents in one dimension**|Pablo de Castro et.al.|[2303.17645v1](http://arxiv.org/abs/2303.17645v1)|null|
+|**2023-03-30**|**Balanced loss-gain induced chaos in a periodic Toda lattice**|Puspendu Roy et.al.|[2303.17639v1](http://arxiv.org/abs/2303.17639v1)|null|
 |**2023-03-30**|**Topological Circular Dichroism in Chiral Multifold Semimetals**|Junyeong Ahn et.al.|[2303.17553v1](http://arxiv.org/abs/2303.17553v1)|null|
 |**2023-03-30**|**Weak-anchoring effects in a thin pinned ridge of nematic liquid crystal**|Joseph R. L. Cousins et.al.|[2303.17498v1](http://arxiv.org/abs/2303.17498v1)|null|
 |**2023-03-30**|**Ferrimagnetic Regulation of Weyl Fermions in a Noncentrosymmetric Magnetic Weyl Semimetal**|Cong Li et.al.|[2303.17302v1](http://arxiv.org/abs/2303.17302v1)|null|
@@ -2007,6 +2015,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-31**|**Model-Free Reconstruction of Capacity Degradation Trajectory of Lithium-Ion Batteries Using Early Cycle Data**|Seongyoon Kim et.al.|[2303.18195v1](http://arxiv.org/abs/2303.18195v1)|null|
 |**2023-02-28**|**Model-Free and Learning-Free Proprioceptive Humanoid Movement Control**|Boren Jiang et.al.|[2302.14249v1](http://arxiv.org/abs/2302.14249v1)|null|
 |**2023-02-27**|**Structural constraints on the emergence of oscillations in multi-population neural networks**|Jie Zang et.al.|[2302.14157v1](http://arxiv.org/abs/2302.14157v1)|null|
 |**2023-03-29**|**Efficient Multi-Cycle Folded Integer Multipliers**|Ahmad Houraniah et.al.|[2301.13332v2](http://arxiv.org/abs/2301.13332v2)|null|
