@@ -1101,6 +1101,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Non-Fermi Liquids from Dipolar Symmetry Breaking**|Amogh Anakru et.al.|[2304.01181v1](http://arxiv.org/abs/2304.01181v1)|null|
+|**2023-04-03**|**Petermann factors and phase rigidities near exceptional points**|Jan Wiersig et.al.|[2304.00764v1](http://arxiv.org/abs/2304.00764v1)|null|
+|**2023-04-03**|**Nonrelativistic and nonmagnetic control of terahertz charge currents via electrical anisotropy in RuO2 and IrO2**|Sheng Zhang et.al.|[2304.00692v1](http://arxiv.org/abs/2304.00692v1)|null|
+|**2023-04-03**|**Bloch-type magnetic skyrmions in two-dimensional lattice**|Wenhui Du et.al.|[2304.00671v1](http://arxiv.org/abs/2304.00671v1)|null|
+|**2023-04-02**|**Analogous Black Holes in Type-III Dirac Semimetal Ni $_3$In$_2$X$_2$ (X = S, Se)**|Christopher Sims et.al.|[2304.00642v1](http://arxiv.org/abs/2304.00642v1)|null|
+|**2023-04-02**|**Improved data analysis for molecular dynamics in liquid CCl4**|Shinya Hosokawa et.al.|[2304.00462v1](http://arxiv.org/abs/2304.00462v1)|null|
+|**2023-04-02**|**Effective exponents for the diffusive coarsening of wet foams and analogous materials**|Douglas J. Durian et.al.|[2304.00415v1](http://arxiv.org/abs/2304.00415v1)|null|
+|**2023-04-01**|**Effects of Poly(styrene/pentafluorostyrene-block-vinylpyrrolidone) Amphiphilic Kinetic Hydrate Inhibitors on the Dynamic Viscosity of Methane Hydrate Systems at High-Pressure Driving Forces**|Chong Yang Du et.al.|[2304.00374v1](http://arxiv.org/abs/2304.00374v1)|null|
+|**2023-04-01**|**Rheology of active fluids**|Alfredo Lanzaro et.al.|[2304.00316v1](http://arxiv.org/abs/2304.00316v1)|null|
+|**2023-04-01**|**Modelling how curved active proteins and shear flow pattern cellular shape and motility**|Shubhadeep Sadhukhan et.al.|[2304.00300v1](http://arxiv.org/abs/2304.00300v1)|null|
+|**2023-04-01**|**Synthesis and EOS study of orthorhombic (Fe,Ni) $_{7}$(C,Si)$_{3}$ and its importance as a possible constituent of Earth's core**|Bishnupada Ghosh et.al.|[2304.00240v1](http://arxiv.org/abs/2304.00240v1)|null|
+|**2023-04-01**|**Pulsed $^{87}$ Rb vector magnetometer using a fast rotating field**|Tao Wang et.al.|[2304.00214v1](http://arxiv.org/abs/2304.00214v1)|null|
+|**2023-03-31**|**Normal forms, universal scaling functions, and extending the validity of the RG**|James P. Sethna et.al.|[2304.00105v1](http://arxiv.org/abs/2304.00105v1)|null|
+|**2023-03-31**|**Effects of Thermal Modification on the Flexure Properties, Fracture Energy, and Hardness of Western Hemlock**|Troy Nakagawa et.al.|[2304.00052v1](http://arxiv.org/abs/2304.00052v1)|null|
 |**2023-03-31**|**Island Hopping of active colloids**|Venkata Manikantha Sai Ganesh Tanuku et.al.|[2303.18188v1](http://arxiv.org/abs/2303.18188v1)|null|
 |**2023-03-31**|**Theory of rheology and aging of protein condensates**|Ryota Takaki et.al.|[2303.18028v1](http://arxiv.org/abs/2303.18028v1)|null|
 |**2023-03-31**|**Impact of extended long-range electrostatics on the correlation of liquid-liquid equilibria in aqueous ionic liquid systems**|Hugo Marques et.al.|[2303.17831v1](http://arxiv.org/abs/2303.17831v1)|null|
@@ -2050,6 +2064,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**Current-Induced Spin Accumulation and Magnetoresistance in Chiral Semimetals**|A. A. Burkov et.al.|[2304.00030v1](http://arxiv.org/abs/2304.00030v1)|null|
 |**2023-03-31**|**Exact steady states of the impurity-doped XXZ spin chain coupled to dissipators**|Chihiro Matsui et.al.|[2303.17084v2](http://arxiv.org/abs/2303.17084v2)|null|
 |**2023-03-29**|**On the origin and elimination of cross coupling between tunneling current and excitation in scanning probe experiments that utilize the qPlus sensor**|Michael Schelchshorn et.al.|[2303.16850v1](http://arxiv.org/abs/2303.16850v1)|null|
 |**2023-03-29**|**Coarse-graining collective skyrmion dynamics in confined geometries**|Thomas Brian Winkler et.al.|[2303.16472v1](http://arxiv.org/abs/2303.16472v1)|null|
@@ -2090,6 +2105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Charge-density wave fluctuation driven composite order in the layered Kagome Metals**|Alexei M. Tsvelik et.al.|[2304.01122v1](http://arxiv.org/abs/2304.01122v1)|null|
 |**2023-03-25**|**Odd symmetry planar Hall effect: A method of detecting current-induced in-plane magnetization switching**|Raghvendra Posti et.al.|[2303.14431v1](http://arxiv.org/abs/2303.14431v1)|null|
 |**2023-03-20**|**Topological monopole's gauge field induced anomalous Hall effect in artificial honeycomb lattice**|J. Guo et.al.|[2303.11506v1](http://arxiv.org/abs/2303.11506v1)|null|
 |**2023-03-21**|**Covariant derivatives of Berry-type quantities: Application to nonlinear transport**|Xiaoxiong Liu et.al.|[2303.10129v2](http://arxiv.org/abs/2303.10129v2)|null|
