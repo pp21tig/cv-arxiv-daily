@@ -24,6 +24,7 @@ layout: default
     <li><a href=#Intense-Terahertz>Intense Terahertz</a></li>
     <li><a href=#Electric-Field-Terahertz>Electric Field Terahertz</a></li>
     <li><a href=#AHE>AHE</a></li>
+    <li><a href=#INS>INS</a></li>
   </ol>
 </details>
 
@@ -2128,6 +2129,33 @@ layout: default
 |**2023-02-16**|**Large intrinsic anomalous Hall effect in both Nb $_{2}$FeB$_{2}$ and Ta$_{2}$FeB$_{2}$ with collinear antiferromagnetism**|Xiao-Yao Hou et.al.|[2302.08276v1](http://arxiv.org/abs/2302.08276v1)|null|
 |**2023-02-14**|**Direct evidence of terahertz emission arising from anomalous Hall effect**|V. Mottamchetty et.al.|[2302.07398v1](http://arxiv.org/abs/2302.07398v1)|null|
 |**2023-02-14**|**Pressure-tunable magnetic topological phases in magnetic topological insulator MnSb4Te7**|Lingling Gao et.al.|[2302.07113v1](http://arxiv.org/abs/2302.07113v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+
+## INS
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**Quantum Integrability vs Experiments: Correlation Functions and Dynamical Structure Factors**|M. Lencsés et.al.|[2303.16556v1](http://arxiv.org/abs/2303.16556v1)|null|
+|**2023-03-29**|**Continuous spin excitations in the three-dimensional frustrated magnet K2Ni2(SO4)3**|Weiliang Yao et.al.|[2303.16384v1](http://arxiv.org/abs/2303.16384v1)|null|
+|**2023-03-27**|**Refined Spin Wave Model and Multi-magnon Bound States in $Li_{2}CuO_{2}$**|Eli Zoghlin et.al.|[2303.15639v1](http://arxiv.org/abs/2303.15639v1)|null|
+|**2023-03-27**|**Static and dynamical magnetic properties of the extended Kitaev-Heisenberg model with spin vacancies**|Shaozhi Li et.al.|[2303.15526v1](http://arxiv.org/abs/2303.15526v1)|null|
+|**2023-03-22**|**Crystal field excitation in the chiral helimagnet YbNi $_3$Al$_9$**|Mitsuru Tsukagoshi et.al.|[2303.12661v1](http://arxiv.org/abs/2303.12661v1)|null|
+|**2023-03-21**|**Direct confirmation of long-range magnetic order and evidence for multipoles in Ce $_{2}$O$_{3}$**|Alexandra Cote et.al.|[2303.11878v1](http://arxiv.org/abs/2303.11878v1)|null|
+|**2023-03-17**|**Low-energy spin excitations in optimally doped CaFe $_{0.88}$Co$_{0.12}$ AsF superconductor studied with inelastic neutron scattering**|Mingwei Ma et.al.|[2303.09787v1](http://arxiv.org/abs/2303.09787v1)|null|
+|**2023-03-09**|**Collective magnetic state induced by charge disorder in the non-Kramers rare-earth pyrochlore Tb $_{2}$ScNbO$_{7}$**|Y. Alexanian et.al.|[2303.05483v1](http://arxiv.org/abs/2303.05483v1)|null|
+|**2023-03-08**|**Non-Conventional Critical Behavior and Q-dependent Electron-Phonon Coupling Induced Phonon Softening in the CDW Superconductor LaPt2Si2**|Elisabetta Nocerino et.al.|[2303.04499v1](http://arxiv.org/abs/2303.04499v1)|null|
+|**2023-03-19**|**Tetrahedral triple-Q ordering in the metallic triangular lattice antiferromagnet Co1/3TaS2**|Pyeongjae Park et.al.|[2303.03760v2](http://arxiv.org/abs/2303.03760v2)|null|
+|**2023-03-22**|**Coupling of magnetism and Dirac fermions in YbMnSb2**|Xiao Hu et.al.|[2303.02587v2](http://arxiv.org/abs/2303.02587v2)|null|
+|**2023-03-20**|**Orbital character of the spin-reorientation transition in TbMn $_6$Sn$_6$**|S. X. M. Riberolles et.al.|[2303.01613v2](http://arxiv.org/abs/2303.01613v2)|null|
+|**2023-02-20**|**Structure and dynamics of the negative thermal expansion material Cd(CN) $_2$ under pressure**|Chloe S. Coates et.al.|[2302.09963v1](http://arxiv.org/abs/2302.09963v1)|null|
+|**2023-02-14**|**Spin wave Hamiltonian and anomalous scattering in NiPS $_3$**|A. Scheie et.al.|[2302.07242v1](http://arxiv.org/abs/2302.07242v1)|null|
+|**2023-02-13**|**Raman scattering study of multimagnon (bi- and tri-magnon) excitations and rotonlike points in the distorted triangular lattice antiferromagnet**|Junli Li et.al.|[2302.06642v1](http://arxiv.org/abs/2302.06642v1)|null|
+|**2023-02-08**|**Phase transitions and spin dynamics of the quasi-one dimensional Ising-like antiferromagnet BaCo $_{2}$V$_{2}$O$_{8}$ in a longitudinal magnetic field**|Shintaro Takayoshi et.al.|[2302.03833v1](http://arxiv.org/abs/2302.03833v1)|null|
+|**2023-02-07**|**Zero-Point Motion of Liquid and Solid Hydrogen**|T. R. Prisk et.al.|[2302.03190v1](http://arxiv.org/abs/2302.03190v1)|null|
+|**2023-01-26**|**Cubic Double Perovskites Host Noncoplanar Spin Textures**|Joseph A. M. Paddison et.al.|[2301.11395v1](http://arxiv.org/abs/2301.11395v1)|null|
+|**2023-01-20**|**Inelastic neutron scattering study of crystalline electric field excitations in the caged compounds NdT2Zn20 (T = Co, Rh, and Ir)**|Rikako Yamamoto et.al.|[2301.08507v1](http://arxiv.org/abs/2301.08507v1)|null|
+|**2023-01-12**|**Spectroscopic signatures of fractionalization in octupolar quantum spin ice**|Félix Desrochers et.al.|[2301.05240v1](http://arxiv.org/abs/2301.05240v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
