@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Dispersion and Orientation patterns in nanorod-infused polymer melts**|Navid Afrasiabian et.al.|[2304.01957v1](http://arxiv.org/abs/2304.01957v1)|null|
+|**2023-04-04**|**Full quantum theory for magnon transport in two-sublattice magnetic insulators and magnon junctions**|TianYi Zhang et.al.|[2304.01930v1](http://arxiv.org/abs/2304.01930v1)|null|
+|**2023-04-04**|**Charge Regulation of Polyelectrolyte Gels: Swelling Transition**|Bin Zheng et.al.|[2304.01818v1](http://arxiv.org/abs/2304.01818v1)|null|
+|**2023-04-04**|**Obstructed atomic insulators: A rational strategy to reach two-dimensional quasi-particles**|Xianyong Ding et.al.|[2304.01713v1](http://arxiv.org/abs/2304.01713v1)|null|
+|**2023-04-04**|**Lateral transport of domains in anionic lipid bilayer membranes under DC electric fields: A coarse-grained molecular dynamics study**|Hiroaki Ito et.al.|[2304.01679v1](http://arxiv.org/abs/2304.01679v1)|null|
+|**2023-04-04**|**Generic symmetry-breaking motility in active fluids**|Ki-Won Kim et.al.|[2304.01645v1](http://arxiv.org/abs/2304.01645v1)|null|
+|**2023-04-04**|**Collective behaviors of isotropic phoretic microswimmers: from crystalline solids to active turbulence**|Qianhong Yang et.al.|[2304.01593v1](http://arxiv.org/abs/2304.01593v1)|null|
+|**2023-04-04**|**Irregularity of polymer domain boundaries in two dimensional polymer solution**|Lei Liu et.al.|[2304.01542v1](http://arxiv.org/abs/2304.01542v1)|null|
+|**2023-04-04**|**Topological Surface Magnetism and Neel Vector Control in a Magnetoelectric Antiferromagnet**|Kai Du et.al.|[2304.01513v1](http://arxiv.org/abs/2304.01513v1)|null|
+|**2023-04-04**|**Laplacian dynamics of convergent and divergent swarm behaviors**|Yang Tian et.al.|[2304.01495v1](http://arxiv.org/abs/2304.01495v1)|null|
+|**2023-04-04**|**Analytic and algebraic properties of dispersion relations (Bloch varieties) and Fermi surfaces. What is known and unknown**|Peter Kuchment et.al.|[2304.01478v1](http://arxiv.org/abs/2304.01478v1)|null|
+|**2023-04-04**|**Superconductivity in Ternary Scandium Tellurides with 3d, 4d, and 5d Transition Metals**|Yusaku Shinoda et.al.|[2304.01444v1](http://arxiv.org/abs/2304.01444v1)|null|
+|**2023-04-04**|**Chiral Skin Effect**|Xinran Ma et.al.|[2304.01422v1](http://arxiv.org/abs/2304.01422v1)|null|
+|**2023-04-03**|**Effect of Moisture Absorption on Curing of Wind Blades during Repair**|Sagar P. Shah et.al.|[2304.01375v1](http://arxiv.org/abs/2304.01375v1)|null|
+|**2023-04-03**|**Polymer networks which locally rotate to accommodate stresses, torques, and deformation**|Matthew Grasinger et.al.|[2304.01301v1](http://arxiv.org/abs/2304.01301v1)|null|
+|**2023-04-03**|**Twisting instabilities in elastic ribbons with inhomogeneous pre-stress: a macroscopic analog of thermodynamic phase transition**|Michael Gomez et.al.|[2304.01291v1](http://arxiv.org/abs/2304.01291v1)|null|
+|**2023-04-03**|**Dynamical phase transitions of information flow in random quantum circuits**|J. -Z. Zhuang et.al.|[2304.01256v1](http://arxiv.org/abs/2304.01256v1)|null|
 |**2023-04-03**|**Non-Fermi Liquids from Dipolar Symmetry Breaking**|Amogh Anakru et.al.|[2304.01181v1](http://arxiv.org/abs/2304.01181v1)|null|
 |**2023-04-03**|**Petermann factors and phase rigidities near exceptional points**|Jan Wiersig et.al.|[2304.00764v1](http://arxiv.org/abs/2304.00764v1)|null|
 |**2023-04-03**|**Nonrelativistic and nonmagnetic control of terahertz charge currents via electrical anisotropy in RuO2 and IrO2**|Sheng Zhang et.al.|[2304.00692v1](http://arxiv.org/abs/2304.00692v1)|null|
@@ -2065,6 +2082,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Topological superconductivity in doped magnetic moiré semiconductors**|Valentin Crépel et.al.|[2304.01631v1](http://arxiv.org/abs/2304.01631v1)|null|
 |**2023-03-31**|**Current-Induced Spin Accumulation and Magnetoresistance in Chiral Semimetals**|A. A. Burkov et.al.|[2304.00030v1](http://arxiv.org/abs/2304.00030v1)|null|
 |**2023-03-31**|**Exact steady states of the impurity-doped XXZ spin chain coupled to dissipators**|Chihiro Matsui et.al.|[2303.17084v2](http://arxiv.org/abs/2303.17084v2)|null|
 |**2023-03-29**|**On the origin and elimination of cross coupling between tunneling current and excitation in scanning probe experiments that utilize the qPlus sensor**|Michael Schelchshorn et.al.|[2303.16850v1](http://arxiv.org/abs/2303.16850v1)|null|
@@ -2136,6 +2154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Distinguishing thermodynamics and spectroscopy for octupolar U(1) spin liquid of Ce-pyrochlores**|Gang Chen et.al.|[2304.01892v1](http://arxiv.org/abs/2304.01892v1)|null|
 |**2023-03-29**|**Quantum Integrability vs Experiments: Correlation Functions and Dynamical Structure Factors**|M. Lencsés et.al.|[2303.16556v1](http://arxiv.org/abs/2303.16556v1)|null|
 |**2023-03-29**|**Continuous spin excitations in the three-dimensional frustrated magnet K2Ni2(SO4)3**|Weiliang Yao et.al.|[2303.16384v1](http://arxiv.org/abs/2303.16384v1)|null|
 |**2023-03-27**|**Refined Spin Wave Model and Multi-magnon Bound States in $Li_{2}CuO_{2}$**|Eli Zoghlin et.al.|[2303.15639v1](http://arxiv.org/abs/2303.15639v1)|null|
