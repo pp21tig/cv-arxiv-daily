@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Anisotropic plates with architected tendon network**|Md Shahjahan Hossain et.al.|[2304.02547v1](http://arxiv.org/abs/2304.02547v1)|null|
+|**2023-04-05**|**Elastocapillary menisci mediate interaction of neighboring structures at the surface of a compliant solid**|Lebo Molefe et.al.|[2304.02457v1](http://arxiv.org/abs/2304.02457v1)|null|
+|**2023-04-05**|**Dynamical theory of topological defects I: the multivalued solution of the diffusion equation**|Jacopo Romano et.al.|[2304.02348v1](http://arxiv.org/abs/2304.02348v1)|null|
+|**2023-04-05**|**Entropy mediated organization of E.coli chromosome in fast growth conditions**|Shreerang Pande et.al.|[2304.02275v1](http://arxiv.org/abs/2304.02275v1)|null|
+|**2023-04-05**|**Early-Stage Bifurcation of Crystallization in a Sphere**|Chrameh Fru Mbah et.al.|[2304.02215v1](http://arxiv.org/abs/2304.02215v1)|null|
+|**2023-04-05**|**Identifying topologically critical band from pinch-point singularities in spectroscopy**|Han Yan et.al.|[2304.02204v1](http://arxiv.org/abs/2304.02204v1)|null|
+|**2023-04-04**|**Surface roughness induced stress concentration**|B. N. J. Persson et.al.|[2304.02159v1](http://arxiv.org/abs/2304.02159v1)|null|
 |**2023-04-04**|**Dispersion and Orientation patterns in nanorod-infused polymer melts**|Navid Afrasiabian et.al.|[2304.01957v1](http://arxiv.org/abs/2304.01957v1)|null|
 |**2023-04-04**|**Full quantum theory for magnon transport in two-sublattice magnetic insulators and magnon junctions**|TianYi Zhang et.al.|[2304.01930v1](http://arxiv.org/abs/2304.01930v1)|null|
 |**2023-04-04**|**Charge Regulation of Polyelectrolyte Gels: Swelling Transition**|Bin Zheng et.al.|[2304.01818v1](http://arxiv.org/abs/2304.01818v1)|null|
@@ -2051,6 +2058,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Online Joint Assortment-Inventory Optimization under MNL Choices**|Yong Liang et.al.|[2304.02022v1](http://arxiv.org/abs/2304.02022v1)|null|
 |**2023-03-31**|**Model-Free Reconstruction of Capacity Degradation Trajectory of Lithium-Ion Batteries Using Early Cycle Data**|Seongyoon Kim et.al.|[2303.18195v1](http://arxiv.org/abs/2303.18195v1)|null|
 |**2023-02-28**|**Model-Free and Learning-Free Proprioceptive Humanoid Movement Control**|Boren Jiang et.al.|[2302.14249v1](http://arxiv.org/abs/2302.14249v1)|null|
 |**2023-02-27**|**Structural constraints on the emergence of oscillations in multi-population neural networks**|Jie Zang et.al.|[2302.14157v1](http://arxiv.org/abs/2302.14157v1)|null|
@@ -2154,6 +2162,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**High-energy spin waves in the spin-1 square-lattice antiferromagnet La $_2$NiO$_4$**|A. N. Petsch et.al.|[2304.02546v1](http://arxiv.org/abs/2304.02546v1)|null|
+|**2023-04-05**|**Pinch points and half moons encode Berry curvature**|Han Yan et.al.|[2304.02203v1](http://arxiv.org/abs/2304.02203v1)|null|
 |**2023-04-04**|**Distinguishing thermodynamics and spectroscopy for octupolar U(1) spin liquid of Ce-pyrochlores**|Gang Chen et.al.|[2304.01892v1](http://arxiv.org/abs/2304.01892v1)|null|
 |**2023-03-29**|**Quantum Integrability vs Experiments: Correlation Functions and Dynamical Structure Factors**|M. Lencsés et.al.|[2303.16556v1](http://arxiv.org/abs/2303.16556v1)|null|
 |**2023-03-29**|**Continuous spin excitations in the three-dimensional frustrated magnet K2Ni2(SO4)3**|Weiliang Yao et.al.|[2303.16384v1](http://arxiv.org/abs/2303.16384v1)|null|
