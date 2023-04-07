@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Symmetry and topology of hyperbolic Haldane models**|Anffany Chen et.al.|[2304.03273v1](http://arxiv.org/abs/2304.03273v1)|null|
+|**2023-04-06**|**Two-step nucleation in a binary mixture of Patchy Particles**|Camilla Beneduce et.al.|[2304.03213v1](http://arxiv.org/abs/2304.03213v1)|null|
+|**2023-04-06**|**Continuum model for extraction and retention in porous media**|André F. V. Matias et.al.|[2304.03161v1](http://arxiv.org/abs/2304.03161v1)|null|
+|**2023-04-06**|**A self-organizing robotic aggregate using solid and liquid-like collective states**|Baudouin Saintyves et.al.|[2304.03125v1](http://arxiv.org/abs/2304.03125v1)|null|
+|**2023-04-06**|**Molecular simulations of sliding on SDS surfactant films**|Johannes L. Hörmann et.al.|[2304.03043v1](http://arxiv.org/abs/2304.03043v1)|null|
+|**2023-04-06**|**Rheology of suspensions of flat elastic particles**|Jens Eggers et.al.|[2304.02980v1](http://arxiv.org/abs/2304.02980v1)|null|
+|**2023-04-06**|**Imaging Temperature and Thickness of Thin Planar Liquid Water Jets in Vacuum**|Tillmann Buttersack et.al.|[2304.02967v1](http://arxiv.org/abs/2304.02967v1)|null|
+|**2023-04-06**|**Cell-free layer of red blood cells in a constricted microfluidic channel under steady and time-dependent flow conditions**|Steffen M. Recktenwald et.al.|[2304.02919v1](http://arxiv.org/abs/2304.02919v1)|null|
+|**2023-04-05**|**A method for extracting effective interactions from Hi-C data with applications to interphase chromosomes and inverted nuclei**|Sucheol Shin et.al.|[2304.02795v1](http://arxiv.org/abs/2304.02795v1)|null|
+|**2023-04-05**|**Curvature-mediated Programming of Liquid Crystal Microflows**|Kamil Fedorowicz et.al.|[2304.02759v1](http://arxiv.org/abs/2304.02759v1)|null|
+|**2023-04-05**|**About the notion of eigenstates for $C^*$ -algebras and some application in Quantum Mechanics**|Giuseppe De Nittis et.al.|[2304.02685v1](http://arxiv.org/abs/2304.02685v1)|null|
 |**2023-04-05**|**Anisotropic plates with architected tendon network**|Md Shahjahan Hossain et.al.|[2304.02547v1](http://arxiv.org/abs/2304.02547v1)|null|
 |**2023-04-05**|**Elastocapillary menisci mediate interaction of neighboring structures at the surface of a compliant solid**|Lebo Molefe et.al.|[2304.02457v1](http://arxiv.org/abs/2304.02457v1)|null|
 |**2023-04-05**|**Dynamical theory of topological defects I: the multivalued solution of the diffusion equation**|Jacopo Romano et.al.|[2304.02348v1](http://arxiv.org/abs/2304.02348v1)|null|
@@ -1990,6 +2001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Electron Paramagnetic Resonance of $V_{N}-V_{Ga}$ complex in $BGaN$**|Jakub Kierdaszuk et.al.|[2304.03027v1](http://arxiv.org/abs/2304.03027v1)|null|
 |**2023-03-30**|**Light induced spiking of proteinoids**|Panagiotis Mougkogiannis et.al.|[2303.17563v1](http://arxiv.org/abs/2303.17563v1)|null|
 |**2023-03-29**|**Light induced decoupling of electronic and magnetic properties in manganites**|Henry Navarro et.al.|[2303.17049v1](http://arxiv.org/abs/2303.17049v1)|null|
 |**2023-03-27**|**Mechanisms for Long-Lived, Photo-Induced Superconductivity**|Sambuddha Chattopadhyay et.al.|[2303.15355v1](http://arxiv.org/abs/2303.15355v1)|null|
@@ -2090,6 +2102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**All-electrical operation of a Curie-switch at room temperature**|Vadym Iurchuk et.al.|[2304.03040v1](http://arxiv.org/abs/2304.03040v1)|null|
 |**2023-04-04**|**Topological superconductivity in doped magnetic moiré semiconductors**|Valentin Crépel et.al.|[2304.01631v1](http://arxiv.org/abs/2304.01631v1)|null|
 |**2023-03-31**|**Current-Induced Spin Accumulation and Magnetoresistance in Chiral Semimetals**|A. A. Burkov et.al.|[2304.00030v1](http://arxiv.org/abs/2304.00030v1)|null|
 |**2023-03-31**|**Exact steady states of the impurity-doped XXZ spin chain coupled to dissipators**|Chihiro Matsui et.al.|[2303.17084v2](http://arxiv.org/abs/2303.17084v2)|null|
@@ -2132,6 +2145,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Intrinsic Origin and Enhancement of Topological Responses in Ferrimagnetic Antiperovskite Mn4N**|Temuujin Bayaraa et.al.|[2304.02750v1](http://arxiv.org/abs/2304.02750v1)|null|
 |**2023-04-03**|**Charge-density wave fluctuation driven composite order in the layered Kagome Metals**|Alexei M. Tsvelik et.al.|[2304.01122v1](http://arxiv.org/abs/2304.01122v1)|null|
 |**2023-03-25**|**Odd symmetry planar Hall effect: A method of detecting current-induced in-plane magnetization switching**|Raghvendra Posti et.al.|[2303.14431v1](http://arxiv.org/abs/2303.14431v1)|null|
 |**2023-03-20**|**Topological monopole's gauge field induced anomalous Hall effect in artificial honeycomb lattice**|J. Guo et.al.|[2303.11506v1](http://arxiv.org/abs/2303.11506v1)|null|
