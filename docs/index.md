@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Three-dimensional active turbulence in microswimmer suspensions: simulations and modelling**|Antonio Gascó et.al.|[2304.03662v1](http://arxiv.org/abs/2304.03662v1)|null|
+|**2023-04-07**|**The boson peak in the vibrational spectra of glasses**|Avraham Moriel et.al.|[2304.03661v1](http://arxiv.org/abs/2304.03661v1)|null|
+|**2023-04-07**|**Humidity-induced glass transition of a polyelectrolyte brush creates switchable friction in air**|Stephen Merriman et.al.|[2304.03658v1](http://arxiv.org/abs/2304.03658v1)|null|
+|**2023-04-07**|**Noise-induced quenched disorder in dense active systems**|Guozheng Lin et.al.|[2304.03630v1](http://arxiv.org/abs/2304.03630v1)|null|
+|**2023-04-07**|**The effect of menisci on vortex streets on soap film flows**|Ildoo Kim et.al.|[2304.03629v1](http://arxiv.org/abs/2304.03629v1)|null|
+|**2023-04-07**|**Thermally driven elastic membranes are quasi-linear across all scales**|Chanania Steinbock et.al.|[2304.03603v1](http://arxiv.org/abs/2304.03603v1)|null|
+|**2023-04-06**|**Addressing the spin-valley flavors in moir'e mini-bands of MoS2**|Chithra H. Sharma et.al.|[2304.03316v1](http://arxiv.org/abs/2304.03316v1)|null|
+|**2023-04-06**|**Superfluid Edge Dislocation: Transverse Quantum Fluid**|Leo Radzihovsky et.al.|[2304.03309v1](http://arxiv.org/abs/2304.03309v1)|null|
+|**2023-04-06**|**Route to turbulence via oscillatory states in polar active fluid under confinement**|Sora Shiratani et.al.|[2304.03306v1](http://arxiv.org/abs/2304.03306v1)|null|
+|**2023-04-06**|**Spin-momentum Locking and Topological Vector Charge Response with Conserved Spin**|Yoonseok Hwang et.al.|[2304.03301v1](http://arxiv.org/abs/2304.03301v1)|null|
 |**2023-04-06**|**Symmetry and topology of hyperbolic Haldane models**|Anffany Chen et.al.|[2304.03273v1](http://arxiv.org/abs/2304.03273v1)|null|
 |**2023-04-06**|**Two-step nucleation in a binary mixture of Patchy Particles**|Camilla Beneduce et.al.|[2304.03213v1](http://arxiv.org/abs/2304.03213v1)|null|
 |**2023-04-06**|**Continuum model for extraction and retention in porous media**|André F. V. Matias et.al.|[2304.03161v1](http://arxiv.org/abs/2304.03161v1)|null|
