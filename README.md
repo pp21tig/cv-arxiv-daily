@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Low-Frequency Electronic Noise in the Aluminum Gallium Oxide Schottky Barrier Diodes**|Subhajit Ghosh et.al.|[2304.04744v1](http://arxiv.org/abs/2304.04744v1)|null|
+|**2023-04-10**|**Special Cosserat rods with rate-dependent evolving natural configurations**|K. R. Rajagopal et.al.|[2304.04633v1](http://arxiv.org/abs/2304.04633v1)|null|
+|**2023-04-10**|**Inverse design of artificial skins**|Zhiguang Liu et.al.|[2304.04609v1](http://arxiv.org/abs/2304.04609v1)|null|
+|**2023-04-10**|**Orientational transition in nanobridges of nematic liquid crystals in slit pores**|J. M. Romero-Enrique et.al.|[2304.04587v1](http://arxiv.org/abs/2304.04587v1)|null|
+|**2023-04-10**|**Magnetostriction in the magneto-sensitive elastomers with inhomogeneously magnetized particles: pairwise interaction approximation**|Dmytro Yaremchuk et.al.|[2304.04522v1](http://arxiv.org/abs/2304.04522v1)|null|
+|**2023-04-10**|**Interaction of in-plane Drude carrier with c-axis phonon in $\rm PdCoO_2$**|Dongmin Seo et.al.|[2304.04432v1](http://arxiv.org/abs/2304.04432v1)|null|
+|**2023-04-10**|**Odd elasticity in Hamiltonian formalism**|Yi-Heng Zhang et.al.|[2304.04405v1](http://arxiv.org/abs/2304.04405v1)|null|
+|**2023-04-09**|**Multiscale modeling of kinetic sluggishness in equiatomic NiCoCr and NiCoCrFeMn single-phase solid solutions**|Kamran Karimi et.al.|[2304.04255v1](http://arxiv.org/abs/2304.04255v1)|null|
+|**2023-04-09**|**Effect of confinement on the mechanics of a swelling hydrogel bead**|Chaitanya Joshi et.al.|[2304.04252v1](http://arxiv.org/abs/2304.04252v1)|null|
+|**2023-04-09**|**Quantum Mechanics Lecture Notes. Selected Chapters**|Shimon Levit et.al.|[2304.04247v1](http://arxiv.org/abs/2304.04247v1)|null|
+|**2023-04-09**|**Thermodynamic crossovers in supercritical fluids**|Xinyang Li et.al.|[2304.04244v1](http://arxiv.org/abs/2304.04244v1)|null|
+|**2023-04-09**|**Planck constants in quantum gravity**|G. E. Volovik et.al.|[2304.04235v1](http://arxiv.org/abs/2304.04235v1)|null|
+|**2023-04-09**|**Evaluating spintronics-compatible implementations of Ising machines**|Andrea Grimaldi et.al.|[2304.04177v1](http://arxiv.org/abs/2304.04177v1)|null|
+|**2023-04-08**|**Predicting Polymer Brush Behavior in Solvents using the Steepest-Entropy-Ascent Quantum Thermodynamic Framework**|Jared McDonald et.al.|[2304.04105v1](http://arxiv.org/abs/2304.04105v1)|null|
+|**2023-04-08**|**Spreading Law of Evaporative Droplets**|Zhenying Wang et.al.|[2304.04030v1](http://arxiv.org/abs/2304.04030v1)|null|
+|**2023-04-08**|**Morphological transitions of block copolymer micelles: implications for isoporous membrane ordering**|Nicolas Moreno et.al.|[2304.03900v1](http://arxiv.org/abs/2304.03900v1)|null|
+|**2023-04-07**|**Entropy-driven phase behavior of associative polymer networks**|Lorenzo Rovigatti et.al.|[2304.03842v1](http://arxiv.org/abs/2304.03842v1)|null|
 |**2023-04-07**|**Three-dimensional active turbulence in microswimmer suspensions: simulations and modelling**|Antonio Gascó et.al.|[2304.03662v1](http://arxiv.org/abs/2304.03662v1)|null|
 |**2023-04-07**|**The boson peak in the vibrational spectra of glasses**|Avraham Moriel et.al.|[2304.03661v1](http://arxiv.org/abs/2304.03661v1)|null|
 |**2023-04-07**|**Humidity-induced glass transition of a polyelectrolyte brush creates switchable friction in air**|Stephen Merriman et.al.|[2304.03658v1](http://arxiv.org/abs/2304.03658v1)|null|
@@ -2182,6 +2199,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-08**|**Capturing dynamical correlations using implicit neural representations**|Sathya Chitturi et.al.|[2304.03949v1](http://arxiv.org/abs/2304.03949v1)|**[link](https://github.com/slaclab/neural-representation-sqw)**|
 |**2023-04-05**|**High-energy spin waves in the spin-1 square-lattice antiferromagnet La $_2$NiO$_4$**|A. N. Petsch et.al.|[2304.02546v1](http://arxiv.org/abs/2304.02546v1)|null|
 |**2023-04-06**|**Pinch points and half moons encode Berry curvature**|Han Yan et.al.|[2304.02203v2](http://arxiv.org/abs/2304.02203v2)|null|
 |**2023-04-04**|**Distinguishing thermodynamics and spectroscopy for octupolar U(1) spin liquid of Ce-pyrochlores**|Gang Chen et.al.|[2304.01892v1](http://arxiv.org/abs/2304.01892v1)|null|
