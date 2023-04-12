@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Writing in Water**|Nadir Möller et.al.|[2304.05357v1](http://arxiv.org/abs/2304.05357v1)|null|
+|**2023-04-11**|**Non-relativistic limit for Higher Spin Fields and Planar Schroedinger Equation in 3D**|Abhijeet Dutta et.al.|[2304.05321v1](http://arxiv.org/abs/2304.05321v1)|null|
+|**2023-04-11**|**Limiting propulsion of ionic microswimmers**|Evgeny S. Asmolov et.al.|[2304.05300v1](http://arxiv.org/abs/2304.05300v1)|null|
+|**2023-04-11**|**Observation of orbital pumping**|Hiroki Hayashi et.al.|[2304.05266v1](http://arxiv.org/abs/2304.05266v1)|null|
+|**2023-04-11**|**Superadiabatic dynamical density functional study of Brownian hard-spheres in time-dependent external potentials**|S. M. Tschopp et.al.|[2304.05248v1](http://arxiv.org/abs/2304.05248v1)|null|
+|**2023-04-11**|**Modeling and design of heterogeneous hierarchical bioinspired spider web structures using generative deep learning and additive manufacturing**|Wei Lu et.al.|[2304.05137v1](http://arxiv.org/abs/2304.05137v1)|null|
+|**2023-04-11**|**Morphology and stability of droplets sliding on soft viscoelastic substrates**|Mathieu Oléron et.al.|[2304.04925v1](http://arxiv.org/abs/2304.04925v1)|null|
+|**2023-04-11**|**Sizable suppression of magnon Hall effect by magnon damping in Cr $_2$Ge$_2$Te$_6$**|Ysun Choi et.al.|[2304.04922v1](http://arxiv.org/abs/2304.04922v1)|null|
+|**2023-04-10**|**From Disks to Channels: Dynamics of Active Nematics Confined to an Annulus**|Chaitanya Joshi et.al.|[2304.04895v1](http://arxiv.org/abs/2304.04895v1)|null|
+|**2023-04-10**|**A large deformation model for quasi-static to high strain rate response of rate-stiffening soft polymers**|Aditya Konale et.al.|[2304.04892v1](http://arxiv.org/abs/2304.04892v1)|null|
+|**2023-04-10**|**Spin-phonon interactions and magnetoelectric coupling in Co $_4$$B_2$O$_9$ ($B$ = Nb, Ta)**|K. Park et.al.|[2304.04865v1](http://arxiv.org/abs/2304.04865v1)|null|
+|**2023-04-10**|**Model-free characterization of topological edge and corner states in mechanical networks**|Marcelo Guzman et.al.|[2304.04832v1](http://arxiv.org/abs/2304.04832v1)|null|
 |**2023-04-10**|**Low-Frequency Electronic Noise in the Aluminum Gallium Oxide Schottky Barrier Diodes**|Subhajit Ghosh et.al.|[2304.04744v1](http://arxiv.org/abs/2304.04744v1)|null|
 |**2023-04-10**|**Special Cosserat rods with rate-dependent evolving natural configurations**|K. R. Rajagopal et.al.|[2304.04633v1](http://arxiv.org/abs/2304.04633v1)|null|
 |**2023-04-10**|**Inverse design of artificial skins**|Zhiguang Liu et.al.|[2304.04609v1](http://arxiv.org/abs/2304.04609v1)|null|
@@ -2129,6 +2141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Excitation and voltage-gated modulation of single-mode dynamics in a planar nano-gap spin Hall nano-oscillator**|Lina Chen et.al.|[2304.05026v1](http://arxiv.org/abs/2304.05026v1)|null|
 |**2023-04-06**|**All-electrical operation of a Curie-switch at room temperature**|Vadym Iurchuk et.al.|[2304.03040v1](http://arxiv.org/abs/2304.03040v1)|null|
 |**2023-04-04**|**Topological superconductivity in doped magnetic moiré semiconductors**|Valentin Crépel et.al.|[2304.01631v1](http://arxiv.org/abs/2304.01631v1)|null|
 |**2023-03-31**|**Current-Induced Spin Accumulation and Magnetoresistance in Chiral Semimetals**|A. A. Burkov et.al.|[2304.00030v1](http://arxiv.org/abs/2304.00030v1)|null|
