@@ -1098,9 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Shortcut engineering of active matter: run-and-tumble particles**|Adam G. Frim et.al.|[2304.06023v1](http://arxiv.org/abs/2304.06023v1)|null|
+|**2023-04-12**|**A universal attractive interaction between filaments at the cell scale**|Anne-Florence Bitbol et.al.|[2304.06006v1](http://arxiv.org/abs/2304.06006v1)|null|
+|**2023-04-12**|**A variational Monte Carlo algorithm for lattice gauge theories with continuous gauge groups: a study of (2+1)-dimensional compact QED with dynamical fermions at finite density**|Julian Bender et.al.|[2304.05916v1](http://arxiv.org/abs/2304.05916v1)|null|
+|**2023-04-12**|**Nanocrystallites Modulate Intermolecular Interactions in Cryoprotected Protein Solutions**|Mariia Filianina et.al.|[2304.05802v1](http://arxiv.org/abs/2304.05802v1)|null|
+|**2023-04-12**|**Emergent helicity in free-standing semiflexible, charged polymers**|Debarshi Mitra et.al.|[2304.05633v1](http://arxiv.org/abs/2304.05633v1)|null|
+|**2023-04-12**|**Hydrodynamic aggregation of membrane inclusions due to non-Newtonian surface rheology**|Vishnu Vig et.al.|[2304.05621v1](http://arxiv.org/abs/2304.05621v1)|null|
+|**2023-04-12**|**Chiral photonic crystals from sphere packing**|Tao Liu et.al.|[2304.05558v1](http://arxiv.org/abs/2304.05558v1)|null|
+|**2023-04-12**|**Symmetry breaking and restoration on a fermionic quantum ring**|Joshua Cesca et.al.|[2304.05557v1](http://arxiv.org/abs/2304.05557v1)|null|
+|**2023-04-11**|**Understanding Creep in Vitrimers: Insights from Molecular Dynamics Simulations**|Gurmeet Singh et.al.|[2304.05518v1](http://arxiv.org/abs/2304.05518v1)|null|
+|**2023-04-11**|**Flocking in Binary Mixtures of Anti-aligning Self-propelled Particles**|Rüdiger Kürsten et.al.|[2304.05476v1](http://arxiv.org/abs/2304.05476v1)|null|
+|**2023-04-11**|**Fractional matter coupled to the emergent gauge field in a quantum spin ice**|Victor Porée et.al.|[2304.05452v1](http://arxiv.org/abs/2304.05452v1)|null|
+|**2023-04-11**|**Coupled Ferroelectricity and Superconductivity in Bilayer $T_d$-MoTe$_2$**|Apoorv Jindal et.al.|[2304.05443v1](http://arxiv.org/abs/2304.05443v1)|null|
 |**2023-04-11**|**Writing in Water**|Nadir Möller et.al.|[2304.05357v1](http://arxiv.org/abs/2304.05357v1)|null|
 |**2023-04-11**|**Non-relativistic limit for Higher Spin Fields and Planar Schroedinger Equation in 3D**|Abhijeet Dutta et.al.|[2304.05321v1](http://arxiv.org/abs/2304.05321v1)|null|
 |**2023-04-11**|**Limiting propulsion of ionic microswimmers**|Evgeny S. Asmolov et.al.|[2304.05300v1](http://arxiv.org/abs/2304.05300v1)|null|
+|**2023-04-11**|**Unveiling the non-Abelian statistics of $D(S_3)$ anyons via photonic simulation**|Suraj Goel et.al.|[2304.05286v1](http://arxiv.org/abs/2304.05286v1)|null|
 |**2023-04-11**|**Observation of orbital pumping**|Hiroki Hayashi et.al.|[2304.05266v1](http://arxiv.org/abs/2304.05266v1)|null|
 |**2023-04-11**|**Superadiabatic dynamical density functional study of Brownian hard-spheres in time-dependent external potentials**|S. M. Tschopp et.al.|[2304.05248v1](http://arxiv.org/abs/2304.05248v1)|null|
 |**2023-04-11**|**Modeling and design of heterogeneous hierarchical bioinspired spider web structures using generative deep learning and additive manufacturing**|Wei Lu et.al.|[2304.05137v1](http://arxiv.org/abs/2304.05137v1)|null|
@@ -2212,6 +2225,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Charge order driven by multiple-Q spin fluctuations in heavily electron-doped iron selenide superconductors**|Ziyuan Chen et.al.|[2304.05854v1](http://arxiv.org/abs/2304.05854v1)|null|
 |**2023-04-08**|**Capturing dynamical correlations using implicit neural representations**|Sathya Chitturi et.al.|[2304.03949v1](http://arxiv.org/abs/2304.03949v1)|**[link](https://github.com/slaclab/neural-representation-sqw)**|
 |**2023-04-05**|**High-energy spin waves in the spin-1 square-lattice antiferromagnet La $_2$NiO$_4$**|A. N. Petsch et.al.|[2304.02546v1](http://arxiv.org/abs/2304.02546v1)|null|
 |**2023-04-06**|**Pinch points and half moons encode Berry curvature**|Han Yan et.al.|[2304.02203v2](http://arxiv.org/abs/2304.02203v2)|null|
