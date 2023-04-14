@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Asymmetric Thermal Relaxation in Driven Systems: Rotations go Opposite Ways**|Cai Dieball et.al.|[2304.06702v1](http://arxiv.org/abs/2304.06702v1)|null|
+|**2023-04-13**|**Finite Temperature Dynamics of Spin Solitons with Applications in Thermocouples and Refrigerators**|Chaofan Gong et.al.|[2304.06608v1](http://arxiv.org/abs/2304.06608v1)|null|
+|**2023-04-13**|**Theoretical study of the competition between folding and contact interactions on the properties of polymers using self-avoid random walk algorithm**|R. J. Santos Neto et.al.|[2304.06535v1](http://arxiv.org/abs/2304.06535v1)|null|
+|**2023-04-13**|**Hidden magnetism uncovered in charge ordered bilayer kagome material ScV_6Sn_6**|Z. Guguchia et.al.|[2304.06436v1](http://arxiv.org/abs/2304.06436v1)|null|
+|**2023-04-13**|**Non-ideal reaction-diffusion systems: Multiple routes to instability**|Timur Aslyamov et.al.|[2304.06394v1](http://arxiv.org/abs/2304.06394v1)|null|
+|**2023-04-13**|**Design strategies for the self-assembly of polyhedral shells**|Diogo E. P. Pinto et.al.|[2304.06390v1](http://arxiv.org/abs/2304.06390v1)|null|
+|**2023-04-13**|**Target search of active particles in complex environments**|Luigi Zanovello et.al.|[2304.06357v1](http://arxiv.org/abs/2304.06357v1)|null|
+|**2023-04-13**|**Topologically controlled multiskyrmions in photonic gradient-index lenses**|Yijie Shen et.al.|[2304.06332v1](http://arxiv.org/abs/2304.06332v1)|null|
+|**2023-04-12**|**Dynamics of packed swarms: time-displaced correlators of two dimensional incompressible flocks**|Leiming Chen et.al.|[2304.06139v1](http://arxiv.org/abs/2304.06139v1)|null|
 |**2023-04-12**|**Shortcut engineering of active matter: run-and-tumble particles**|Adam G. Frim et.al.|[2304.06023v1](http://arxiv.org/abs/2304.06023v1)|null|
 |**2023-04-12**|**A universal attractive interaction between filaments at the cell scale**|Anne-Florence Bitbol et.al.|[2304.06006v1](http://arxiv.org/abs/2304.06006v1)|null|
 |**2023-04-12**|**A variational Monte Carlo algorithm for lattice gauge theories with continuous gauge groups: a study of (2+1)-dimensional compact QED with dynamical fermions at finite density**|Julian Bender et.al.|[2304.05916v1](http://arxiv.org/abs/2304.05916v1)|null|
@@ -2154,6 +2163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Optimum transport in systems with time-dependent drive and short-ranged interactions**|Deepsikha Das et.al.|[2304.06606v1](http://arxiv.org/abs/2304.06606v1)|null|
 |**2023-04-11**|**Excitation and voltage-gated modulation of single-mode dynamics in a planar nano-gap spin Hall nano-oscillator**|Lina Chen et.al.|[2304.05026v1](http://arxiv.org/abs/2304.05026v1)|null|
 |**2023-04-06**|**All-electrical operation of a Curie-switch at room temperature**|Vadym Iurchuk et.al.|[2304.03040v1](http://arxiv.org/abs/2304.03040v1)|null|
 |**2023-04-04**|**Topological superconductivity in doped magnetic moiré semiconductors**|Valentin Crépel et.al.|[2304.01631v1](http://arxiv.org/abs/2304.01631v1)|null|
@@ -2229,6 +2239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**High-fidelity dimer excitations using quantum hardware**|Norhan M. Eassa et.al.|[2304.06146v1](http://arxiv.org/abs/2304.06146v1)|null|
 |**2023-04-12**|**Charge order driven by multiple-Q spin fluctuations in heavily electron-doped iron selenide superconductors**|Ziyuan Chen et.al.|[2304.05854v1](http://arxiv.org/abs/2304.05854v1)|null|
 |**2023-04-08**|**Capturing dynamical correlations using implicit neural representations**|Sathya Chitturi et.al.|[2304.03949v1](http://arxiv.org/abs/2304.03949v1)|**[link](https://github.com/slaclab/neural-representation-sqw)**|
 |**2023-04-05**|**High-energy spin waves in the spin-1 square-lattice antiferromagnet La $_2$NiO$_4$**|A. N. Petsch et.al.|[2304.02546v1](http://arxiv.org/abs/2304.02546v1)|null|
