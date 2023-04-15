@@ -1107,7 +1107,7 @@ layout: default
 |**2023-04-13**|**Theoretical study of the competition between folding and contact interactions on the properties of polymers using self-avoid random walk algorithm**|R. J. Santos Neto et.al.|[2304.06535v1](http://arxiv.org/abs/2304.06535v1)|null|
 |**2023-04-13**|**Hidden magnetism uncovered in charge ordered bilayer kagome material ScV_6Sn_6**|Z. Guguchia et.al.|[2304.06436v1](http://arxiv.org/abs/2304.06436v1)|null|
 |**2023-04-13**|**Non-ideal reaction-diffusion systems: Multiple routes to instability**|Timur Aslyamov et.al.|[2304.06394v1](http://arxiv.org/abs/2304.06394v1)|null|
-|**2023-04-13**|**Design strategies for the self-assembly of polyhedral shells**|Diogo E. P. Pinto et.al.|[2304.06390v1](http://arxiv.org/abs/2304.06390v1)|null|
+|**2023-04-13**|**Design strategies for the self-assembly of polyhedral shells**|Diogo E. P. Pinto et.al.|[2304.06390v1](http://arxiv.org/abs/2304.06390v1)|**[link](https://github.com/deppinto/patchyparticles)**|
 |**2023-04-13**|**Target search of active particles in complex environments**|Luigi Zanovello et.al.|[2304.06357v1](http://arxiv.org/abs/2304.06357v1)|null|
 |**2023-04-13**|**Topologically controlled multiskyrmions in photonic gradient-index lenses**|Yijie Shen et.al.|[2304.06332v1](http://arxiv.org/abs/2304.06332v1)|null|
 |**2023-04-12**|**Dynamics of packed swarms: time-displaced correlators of two dimensional incompressible flocks**|Leiming Chen et.al.|[2304.06139v1](http://arxiv.org/abs/2304.06139v1)|null|
