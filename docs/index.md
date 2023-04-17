@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Generic elasticity of thermal, under-constrained systems**|Cheng-Tai Lee et.al.|[2304.07266v1](http://arxiv.org/abs/2304.07266v1)|null|
+|**2023-04-14**|**Partition sum of thermal, under-constrained systems**|Cheng-Tai Lee et.al.|[2304.07264v1](http://arxiv.org/abs/2304.07264v1)|null|
+|**2023-04-14**|**The ground state of the Kondo lattice**|Igor N. Karnaukhov et.al.|[2304.07233v1](http://arxiv.org/abs/2304.07233v1)|null|
+|**2023-04-14**|**Emergent SU(8) Dirac semimetal and novel proximate phases of spin-orbit coupled fermions on a honeycomb lattice**|Basudeb Mondal et.al.|[2304.07223v1](http://arxiv.org/abs/2304.07223v1)|null|
+|**2023-04-14**|**Escape from the Second Dimension: A Topological Distinction Between Edge and Screw Dislocations**|Paul G. Severino et.al.|[2304.07105v1](http://arxiv.org/abs/2304.07105v1)|null|
+|**2023-04-14**|**Characterization and Optimization of Fluorescent Organosilica Colloids for 3D Confocal Microscopy Prepared Under 'Zero-Flow'**|Ruth A. Crothers et.al.|[2304.07049v1](http://arxiv.org/abs/2304.07049v1)|null|
+|**2023-04-14**|**Spiking at the edge**|Colin Scheibner et.al.|[2304.06940v1](http://arxiv.org/abs/2304.06940v1)|null|
+|**2023-04-14**|**Energy-composition relations in $Ni_3(Al_{1-x}X_x)$ phases, relevant to precipitation in nickel superalloys**|Nikolai A. Zarkevich et.al.|[2304.06869v1](http://arxiv.org/abs/2304.06869v1)|null|
+|**2023-04-13**|**Energy landscape in NiCoCr-based middle-entropy alloys**|Nikolai A. Zarkevich et.al.|[2304.06852v1](http://arxiv.org/abs/2304.06852v1)|null|
+|**2023-04-13**|**Understanding the phase behavior of a proto-biomembrane**|John F. Nagle et.al.|[2304.06834v1](http://arxiv.org/abs/2304.06834v1)|null|
+|**2023-04-13**|**Geometric approach to nonequilibrium hasty shortcuts**|Supraja S. Chittari et.al.|[2304.06822v1](http://arxiv.org/abs/2304.06822v1)|null|
+|**2023-04-13**|**The Microscopic Ampère formulation for the electromagnetic force density in linear dielectrics**|Bruno Anghinoni et.al.|[2304.06784v1](http://arxiv.org/abs/2304.06784v1)|null|
+|**2023-04-13**|**Confined ionic liquids films under shear: The importance of the chemical nature of the solid surface**|Kalil Bernardino et.al.|[2304.06774v1](http://arxiv.org/abs/2304.06774v1)|null|
+|**2023-04-13**|**Active topological defect absorption by a curvature singularity**|Farzan Vafa et.al.|[2304.06739v1](http://arxiv.org/abs/2304.06739v1)|null|
 |**2023-04-13**|**Asymmetric Thermal Relaxation in Driven Systems: Rotations go Opposite Ways**|Cai Dieball et.al.|[2304.06702v1](http://arxiv.org/abs/2304.06702v1)|null|
 |**2023-04-13**|**Finite Temperature Dynamics of Spin Solitons with Applications in Thermocouples and Refrigerators**|Chaofan Gong et.al.|[2304.06608v1](http://arxiv.org/abs/2304.06608v1)|null|
 |**2023-04-13**|**Theoretical study of the competition between folding and contact interactions on the properties of polymers using self-avoid random walk algorithm**|R. J. Santos Neto et.al.|[2304.06535v1](http://arxiv.org/abs/2304.06535v1)|null|
@@ -2163,6 +2177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Magnetic winding and turbulence in ultra-hot Jupiters**|Clàudia Soriano-Guerrero et.al.|[2304.07066v1](http://arxiv.org/abs/2304.07066v1)|null|
 |**2023-04-13**|**Optimum transport in systems with time-dependent drive and short-ranged interactions**|Deepsikha Das et.al.|[2304.06606v1](http://arxiv.org/abs/2304.06606v1)|null|
 |**2023-04-11**|**Excitation and voltage-gated modulation of single-mode dynamics in a planar nano-gap spin Hall nano-oscillator**|Lina Chen et.al.|[2304.05026v1](http://arxiv.org/abs/2304.05026v1)|null|
 |**2023-04-06**|**All-electrical operation of a Curie-switch at room temperature**|Vadym Iurchuk et.al.|[2304.03040v1](http://arxiv.org/abs/2304.03040v1)|null|
