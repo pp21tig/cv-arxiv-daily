@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Effective electric field: quantifying the sensitivity of searches for new P,T-odd physics with EuCl $_3\cdot$6H$_2$ O**|Alexander O. Sushkov et.al.|[2304.08461v1](http://arxiv.org/abs/2304.08461v1)|null|
+|**2023-04-17**|**A Review on Octupolar Tensors**|Giuseppe Gaeta et.al.|[2304.08311v1](http://arxiv.org/abs/2304.08311v1)|null|
+|**2023-04-17**|**Skyrmion dynamics in moiré magnets**|Polina Shaban et.al.|[2304.08306v1](http://arxiv.org/abs/2304.08306v1)|null|
+|**2023-04-17**|**An asymptotically exact first-order shear deformation theory for functionally graded plates**|Khanh Chau Le et.al.|[2304.08274v1](http://arxiv.org/abs/2304.08274v1)|null|
+|**2023-04-17**|**Cell-free layer development and spatial organization of healthy and rigid red blood cells in a microfluidic bifurcation**|Yazdan Rashidi et.al.|[2304.08203v1](http://arxiv.org/abs/2304.08203v1)|null|
+|**2023-04-17**|**Strategies for deliveries of anti-cancer drugs from perspectives of a measurement theory and an adsorption theory**|Ken-ichi Amano et.al.|[2304.08194v1](http://arxiv.org/abs/2304.08194v1)|null|
+|**2023-04-17**|**Thermal signature of helical molecule: Beyond nearest-neighbor electron hopping**|Suparna Sarkar et.al.|[2304.08081v1](http://arxiv.org/abs/2304.08081v1)|null|
+|**2023-04-17**|**Does stress drop positively or negatively correlate with rupture speed?**|Shiqing Xu et.al.|[2304.08016v1](http://arxiv.org/abs/2304.08016v1)|null|
+|**2023-04-17**|**Light-responsive nematic colloids and colloidal crystals**|Devika Venkuzhy Sudhakaran et.al.|[2304.07992v1](http://arxiv.org/abs/2304.07992v1)|null|
+|**2023-04-17**|**Dielectric mismatch effects on polyelectrolyte solutions in electrified nanopores: Insights from mean-field theory**|Yu. A. Budkov et.al.|[2304.07985v1](http://arxiv.org/abs/2304.07985v1)|null|
+|**2023-04-16**|**Dynamics characterization of the glass formation of twist-bend liquid crystal dimers through dielectric studies**|M. Czarnecka et.al.|[2304.07904v1](http://arxiv.org/abs/2304.07904v1)|null|
+|**2023-04-16**|**Origin of filaments in finite-time in Newtonian and non-Newtonian thin-films**|Saksham Sharma et.al.|[2304.07902v1](http://arxiv.org/abs/2304.07902v1)|null|
+|**2023-04-16**|**An Artificial Neural Network-based Density Functional Approach for Adiabatic Energy Differences in Transition Metal Complexes**|Joao Paulo Almeida de Mendonca et.al.|[2304.07899v1](http://arxiv.org/abs/2304.07899v1)|null|
+|**2023-04-16**|**Observation of flat bands and Dirac-like bands in a weakly correlated semimetal YRu2Si2**|Anup Pradhan Sakhya et.al.|[2304.07871v1](http://arxiv.org/abs/2304.07871v1)|null|
+|**2023-04-16**|**Anomalous and Topological Hall Resistivity in Ta/CoFeB/MgO Magnetic Systems for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2304.07742v1](http://arxiv.org/abs/2304.07742v1)|null|
+|**2023-04-16**|**Active Bound States Arise From Transiently Nonreciprocal Pair Interactions**|Luca Cocconi et.al.|[2304.07738v1](http://arxiv.org/abs/2304.07738v1)|null|
+|**2023-04-16**|**Continuum theory of electrostatic-elastic coupling interactions in colloidal crystals**|Hao Wu et.al.|[2304.07700v1](http://arxiv.org/abs/2304.07700v1)|null|
+|**2023-04-16**|**Crystal Growth Rates from Molecular Liquids: The Kinetics of Entropy Loss**|Richard K Bowles et.al.|[2304.07677v1](http://arxiv.org/abs/2304.07677v1)|null|
+|**2023-04-15**|**Transport properties of the Menger sponge**|Clinton DeW. Van Siclen et.al.|[2304.07635v1](http://arxiv.org/abs/2304.07635v1)|null|
+|**2023-04-15**|**Leveraging Composition-Based Material Descriptors for Machine Learning Optimization**|Giovanni Trezza et.al.|[2304.07592v1](http://arxiv.org/abs/2304.07592v1)|null|
 |**2023-04-14**|**Generic elasticity of thermal, under-constrained systems**|Cheng-Tai Lee et.al.|[2304.07266v1](http://arxiv.org/abs/2304.07266v1)|null|
 |**2023-04-14**|**Partition sum of thermal, under-constrained systems**|Cheng-Tai Lee et.al.|[2304.07264v1](http://arxiv.org/abs/2304.07264v1)|null|
 |**2023-04-14**|**The ground state of the Kondo lattice**|Igor N. Karnaukhov et.al.|[2304.07233v1](http://arxiv.org/abs/2304.07233v1)|null|
@@ -2072,6 +2092,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Optically trapped Feshbach molecules of fermionic 161Dy and 40K**|E. Soave et.al.|[2304.07921v1](http://arxiv.org/abs/2304.07921v1)|null|
+|**2023-04-15**|**Quantum Control of Atom-Ion Charge Exchange via Light-induced Conical Intersections**|Hui Li et.al.|[2304.07571v1](http://arxiv.org/abs/2304.07571v1)|null|
 |**2023-04-06**|**Electron Paramagnetic Resonance of $V_{N}-V_{Ga}$ complex in $BGaN$**|Jakub Kierdaszuk et.al.|[2304.03027v1](http://arxiv.org/abs/2304.03027v1)|null|
 |**2023-03-30**|**Light induced spiking of proteinoids**|Panagiotis Mougkogiannis et.al.|[2303.17563v1](http://arxiv.org/abs/2303.17563v1)|null|
 |**2023-03-29**|**Light induced decoupling of electronic and magnetic properties in manganites**|Henry Navarro et.al.|[2303.17049v1](http://arxiv.org/abs/2303.17049v1)|null|
@@ -2219,6 +2241,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Emergent SU(3) magnons and thermal Hall effect in the antiferromagnetic skyrmion lattice**|Hikaru Takeda et.al.|[2304.08029v1](http://arxiv.org/abs/2304.08029v1)|null|
 |**2023-04-05**|**Intrinsic Origin and Enhancement of Topological Responses in Ferrimagnetic Antiperovskite Mn4N**|Temuujin Bayaraa et.al.|[2304.02750v1](http://arxiv.org/abs/2304.02750v1)|null|
 |**2023-04-08**|**Charge-density wave fluctuation driven composite order in the layered Kagome Metals**|Alexei M. Tsvelik et.al.|[2304.01122v2](http://arxiv.org/abs/2304.01122v2)|null|
 |**2023-03-25**|**Odd symmetry planar Hall effect: A method of detecting current-induced in-plane magnetization switching**|Raghvendra Posti et.al.|[2303.14431v1](http://arxiv.org/abs/2303.14431v1)|null|
@@ -2250,6 +2273,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Spin Fluctuations in Sr $_{1.8}$La$_{0.2}$RuO$_4$**|Zheng He et.al.|[2304.08214v1](http://arxiv.org/abs/2304.08214v1)|null|
 |**2023-04-12**|**High-fidelity dimer excitations using quantum hardware**|Norhan M. Eassa et.al.|[2304.06146v1](http://arxiv.org/abs/2304.06146v1)|null|
 |**2023-04-12**|**Charge order driven by multiple-Q spin fluctuations in heavily electron-doped iron selenide superconductors**|Ziyuan Chen et.al.|[2304.05854v1](http://arxiv.org/abs/2304.05854v1)|null|
 |**2023-04-08**|**Capturing dynamical correlations using implicit neural representations**|Sathya Chitturi et.al.|[2304.03949v1](http://arxiv.org/abs/2304.03949v1)|**[link](https://github.com/slaclab/neural-representation-sqw)**|
