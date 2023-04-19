@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Generating large disordered stealthy hyperuniform systems with ultra-high accuracy to determine their physical properties**|Peter K. Morse et.al.|[2304.09139v1](http://arxiv.org/abs/2304.09139v1)|null|
+|**2023-04-18**|**Surfing, sweeping, and assembly of particles by a moving liquid crystal phase boundary**|Tom Shneer et.al.|[2304.09118v1](http://arxiv.org/abs/2304.09118v1)|null|
+|**2023-04-18**|**Stable intermediate phase of secondary structures for semiflexible polymers**|Dilimulati Aierken et.al.|[2304.09054v1](http://arxiv.org/abs/2304.09054v1)|null|
+|**2023-04-18**|**Edge-selective extremal damping from topological heritage of dissipative Chern insulators**|Suraj S. Hegde et.al.|[2304.09040v1](http://arxiv.org/abs/2304.09040v1)|null|
+|**2023-04-18**|**Mode-coupling theory for mixtures of athermal self-propelled particles**|Vincent E. Debets et.al.|[2304.08936v1](http://arxiv.org/abs/2304.08936v1)|null|
+|**2023-04-18**|**Dynamics of Quincke Particles with Tunable Memory**|Yang Yang et.al.|[2304.08895v1](http://arxiv.org/abs/2304.08895v1)|null|
+|**2023-04-18**|**Spectroscopic Evidence for Interfacial Charge Separation and Recombination in Graphene-MoS2 Vertical Heterostructures**|Yuqing Zou et.al.|[2304.08724v1](http://arxiv.org/abs/2304.08724v1)|null|
+|**2023-04-18**|**Self-learning mechanical circuits**|Vishal P. Patil et.al.|[2304.08711v1](http://arxiv.org/abs/2304.08711v1)|null|
+|**2023-04-17**|**Irreversibility across a nonreciprocal ${\cal PT}$ -symmetry-breaking phase transition**|Henry Alston et.al.|[2304.08661v1](http://arxiv.org/abs/2304.08661v1)|null|
+|**2023-04-17**|**Neutron Spectroscopy and Computational Methods in investigation of Na ion Battery Materials: A Perspective**|Rastislav Turányi et.al.|[2304.08621v1](http://arxiv.org/abs/2304.08621v1)|null|
 |**2023-04-17**|**Effective electric field: quantifying the sensitivity of searches for new P,T-odd physics with EuCl $_3\cdot$6H$_2$ O**|Alexander O. Sushkov et.al.|[2304.08461v1](http://arxiv.org/abs/2304.08461v1)|null|
 |**2023-04-17**|**A Review on Octupolar Tensors**|Giuseppe Gaeta et.al.|[2304.08311v1](http://arxiv.org/abs/2304.08311v1)|null|
 |**2023-04-17**|**Skyrmion dynamics in moiré magnets**|Polina Shaban et.al.|[2304.08306v1](http://arxiv.org/abs/2304.08306v1)|null|
@@ -2195,6 +2205,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Stochastic spin-orbit-torque device as the STDP synapse for spiking neural networks**|Haotian Li et.al.|[2304.08856v1](http://arxiv.org/abs/2304.08856v1)|null|
 |**2023-04-14**|**Magnetic winding and turbulence in ultra-hot Jupiters**|Clàudia Soriano-Guerrero et.al.|[2304.07066v1](http://arxiv.org/abs/2304.07066v1)|null|
 |**2023-04-13**|**Optimum transport in systems with time-dependent drive and short-ranged interactions**|Deepsikha Das et.al.|[2304.06606v1](http://arxiv.org/abs/2304.06606v1)|null|
 |**2023-04-11**|**Excitation and voltage-gated modulation of single-mode dynamics in a planar nano-gap spin Hall nano-oscillator**|Lina Chen et.al.|[2304.05026v1](http://arxiv.org/abs/2304.05026v1)|null|
