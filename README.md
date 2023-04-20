@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Interacting quantum walk on a two-leg flux ladder: Emergence of re-entrant dynamics**|Mrinal Kanti Giri et.al.|[2304.09796v1](http://arxiv.org/abs/2304.09796v1)|null|
+|**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782v1](http://arxiv.org/abs/2304.09782v1)|null|
+|**2023-04-19**|**Atomic dynamics in fluids: Normal mode analysis revisited**|Jaeyun Moon et.al.|[2304.09778v1](http://arxiv.org/abs/2304.09778v1)|null|
+|**2023-04-19**|**Activated and quantum creep of the charge-density waves in magnetic field in {\it o}-TaS $_3$**|I. A. Cohn et.al.|[2304.09744v1](http://arxiv.org/abs/2304.09744v1)|null|
+|**2023-04-19**|**Memory-induced oscillations of a driven particle in a dissipative correlated medium**|Davide Venturelli et.al.|[2304.09684v1](http://arxiv.org/abs/2304.09684v1)|null|
+|**2023-04-19**|**Amorphous Solidification of a Supercooled Liquid in the Limit of Rapid Cooling**|Gang Sun et.al.|[2304.09544v1](http://arxiv.org/abs/2304.09544v1)|null|
+|**2023-04-19**|**Universality of Bose-Einstein Condensation and Quenched Formation Dynamics**|Nick P. Proukakis et.al.|[2304.09541v1](http://arxiv.org/abs/2304.09541v1)|null|
+|**2023-04-19**|**Optoelectronic manifestation of the orbital angular momentum driven by chiral hopping in helical Se chains**|Bumseop Kim et.al.|[2304.09364v1](http://arxiv.org/abs/2304.09364v1)|null|
+|**2023-04-18**|**Numerical investigation of mode failures in submerged granular columns**|Eduard Puig Montellà et.al.|[2304.09338v1](http://arxiv.org/abs/2304.09338v1)|null|
 |**2023-04-18**|**Generating large disordered stealthy hyperuniform systems with ultra-high accuracy to determine their physical properties**|Peter K. Morse et.al.|[2304.09139v1](http://arxiv.org/abs/2304.09139v1)|null|
 |**2023-04-18**|**Surfing, sweeping, and assembly of particles by a moving liquid crystal phase boundary**|Tom Shneer et.al.|[2304.09118v1](http://arxiv.org/abs/2304.09118v1)|null|
 |**2023-04-18**|**Stable intermediate phase of secondary structures for semiflexible polymers**|Dilimulati Aierken et.al.|[2304.09054v1](http://arxiv.org/abs/2304.09054v1)|null|
@@ -2102,6 +2111,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Imaging Light-Induced Migration of Dislocations in Halide Perovskites with 3D Nanoscale Strain Mapping**|Kieran W. P. Orr et.al.|[2304.09554v1](http://arxiv.org/abs/2304.09554v1)|null|
 |**2023-04-17**|**Optically trapped Feshbach molecules of fermionic 161Dy and 40K**|E. Soave et.al.|[2304.07921v1](http://arxiv.org/abs/2304.07921v1)|null|
 |**2023-04-18**|**Quantum Control of Atom-Ion Charge Exchange via Light-induced Conical Intersections**|Hui Li et.al.|[2304.07571v2](http://arxiv.org/abs/2304.07571v2)|null|
 |**2023-04-06**|**Electron Paramagnetic Resonance of $V_{N}-V_{Ga}$ complex in $BGaN$**|Jakub Kierdaszuk et.al.|[2304.03027v1](http://arxiv.org/abs/2304.03027v1)|null|
@@ -2205,6 +2215,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Current-induced bond rupture in single-molecule junctions: Effects of multiple electronic states and vibrational modes**|Yaling Ke et.al.|[2304.09467v1](http://arxiv.org/abs/2304.09467v1)|null|
+|**2023-04-19**|**Optoelectronic manifestation of the orbital angular momentum driven by chiral hopping in helical Se chains**|Bumseop Kim et.al.|[2304.09364v1](http://arxiv.org/abs/2304.09364v1)|null|
 |**2023-04-18**|**Stochastic spin-orbit-torque device as the STDP synapse for spiking neural networks**|Haotian Li et.al.|[2304.08856v1](http://arxiv.org/abs/2304.08856v1)|null|
 |**2023-04-14**|**Magnetic winding and turbulence in ultra-hot Jupiters**|Clàudia Soriano-Guerrero et.al.|[2304.07066v1](http://arxiv.org/abs/2304.07066v1)|null|
 |**2023-04-13**|**Optimum transport in systems with time-dependent drive and short-ranged interactions**|Deepsikha Das et.al.|[2304.06606v1](http://arxiv.org/abs/2304.06606v1)|null|
