@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Foundation of classical dynamical density functional theory: uniqueness of time-dependent density-potential mappings**|Michael Andreas Klatt et.al.|[2304.10526v1](http://arxiv.org/abs/2304.10526v1)|null|
+|**2023-04-20**|**Enhancement of the Magnetocaloric Effect in Geometrically Frustrated Cluster Spin Glass Systems**|F. M. Zimmer et.al.|[2304.10449v1](http://arxiv.org/abs/2304.10449v1)|null|
+|**2023-04-20**|**Pattern formation by non-dissipative arrest of turbulent cascades**|Xander M. de Wit et.al.|[2304.10444v1](http://arxiv.org/abs/2304.10444v1)|null|
+|**2023-04-20**|**Inkwell: Design and Validation of a Low-Cost Open Electricity-Free 3D Printed Device for Automated Thin Smearing of Whole Blood**|Jerome Nowak et.al.|[2304.10200v1](http://arxiv.org/abs/2304.10200v1)|null|
+|**2023-04-20**|**The Liquid--Hexatic Transition for Soft Disks**|Yoshihiko Nishikawa et.al.|[2304.10143v1](http://arxiv.org/abs/2304.10143v1)|null|
+|**2023-04-20**|**On the Theory of Solid-State Harmonic Generation Governed by Crystal Symmetry**|Chen Qian et.al.|[2304.10109v1](http://arxiv.org/abs/2304.10109v1)|null|
+|**2023-04-19**|**A minimal physical model for curvotaxis driven by curved protein complexes at the cell's leading edge**|Raj Kumar Sadhu et.al.|[2304.09934v1](http://arxiv.org/abs/2304.09934v1)|null|
+|**2023-04-19**|**Network effects lead to self-organization in metabolic cycles of self-repelling catalysts**|Vincent Ouazan-Reboul et.al.|[2304.09925v1](http://arxiv.org/abs/2304.09925v1)|null|
+|**2023-04-19**|**Label-free, in situ monitoring of viscoelastic properties of cellular monolayers via elastohydrodynamic phenomena**|Tianzheng Guo et.al.|[2304.09902v1](http://arxiv.org/abs/2304.09902v1)|null|
 |**2023-04-19**|**Interacting quantum walk on a two-leg flux ladder: Emergence of re-entrant dynamics**|Mrinal Kanti Giri et.al.|[2304.09796v1](http://arxiv.org/abs/2304.09796v1)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782v1](http://arxiv.org/abs/2304.09782v1)|null|
 |**2023-04-19**|**Atomic dynamics in fluids: Normal mode analysis revisited**|Jaeyun Moon et.al.|[2304.09778v1](http://arxiv.org/abs/2304.09778v1)|null|
@@ -2219,6 +2228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Quantized Hall current in topological nodal-line semimetal**|Po-Hsin Shih et.al.|[2304.10463v1](http://arxiv.org/abs/2304.10463v1)|null|
 |**2023-04-19**|**Current-induced bond rupture in single-molecule junctions: Effects of multiple electronic states and vibrational modes**|Yaling Ke et.al.|[2304.09467v1](http://arxiv.org/abs/2304.09467v1)|null|
 |**2023-04-19**|**Optoelectronic manifestation of the orbital angular momentum driven by chiral hopping in helical Se chains**|Bumseop Kim et.al.|[2304.09364v1](http://arxiv.org/abs/2304.09364v1)|null|
 |**2023-04-18**|**Stochastic spin-orbit-torque device as the STDP synapse for spiking neural networks**|Haotian Li et.al.|[2304.08856v1](http://arxiv.org/abs/2304.08856v1)|null|
