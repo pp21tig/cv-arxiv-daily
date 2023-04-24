@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Universal scaling function ansatz for finite-temperature jamming**|Andrea J. Liu et.al.|[2304.11152v1](http://arxiv.org/abs/2304.11152v1)|null|
+|**2023-04-21**|**Jamming, relaxation, and memory in a structureless glass former**|Patrick Charbonneau et.al.|[2304.11100v1](http://arxiv.org/abs/2304.11100v1)|null|
+|**2023-04-21**|**Self-consistent homogenization approach for polycrystals within second gradient elasticity**|Yury Solyaev et.al.|[2304.11074v1](http://arxiv.org/abs/2304.11074v1)|null|
+|**2023-04-21**|**Universal interface fluctuations in the contact process**|B. G. Barreales et.al.|[2304.10883v1](http://arxiv.org/abs/2304.10883v1)|null|
+|**2023-04-21**|**Exploiting the close-to-Dirac point shift of Fermi level in Sb2Te3/Bi2Te3 topological insulator heterostructure for spin-charge conversion**|E. Longo et.al.|[2304.10841v1](http://arxiv.org/abs/2304.10841v1)|null|
+|**2023-04-21**|**First-Principles Modeling of Equilibration Dynamics of Hyperthermal Products of Surface Reactions Using Scalable Neural Network Potential**|Qidong Lin et.al.|[2304.10812v1](http://arxiv.org/abs/2304.10812v1)|null|
+|**2023-04-21**|**Confined states and topological phases in two-dimensional quasicrystalline $π$ -flux model**|Rasoul Ghadimi et.al.|[2304.10699v1](http://arxiv.org/abs/2304.10699v1)|null|
+|**2023-04-20**|**Observation of self-oscillating supersonic flow across an acoustic horizon in two dimensions**|Hikaru Tamura et.al.|[2304.10667v1](http://arxiv.org/abs/2304.10667v1)|null|
 |**2023-04-20**|**Foundation of classical dynamical density functional theory: uniqueness of time-dependent density-potential mappings**|Michael Andreas Klatt et.al.|[2304.10526v1](http://arxiv.org/abs/2304.10526v1)|null|
 |**2023-04-20**|**Enhancement of the Magnetocaloric Effect in Geometrically Frustrated Cluster Spin Glass Systems**|F. M. Zimmer et.al.|[2304.10449v1](http://arxiv.org/abs/2304.10449v1)|null|
 |**2023-04-20**|**Pattern formation by non-dissipative arrest of turbulent cascades**|Xander M. de Wit et.al.|[2304.10444v1](http://arxiv.org/abs/2304.10444v1)|null|
@@ -2278,6 +2286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Revealing the higher-order spin nature of the Hall effect in non-collinear antiferromagnet $\mathrm{Mn_3Ni_{0.35}Cu_{0.65}N}$**|Adithya Rajan et.al.|[2304.10747v1](http://arxiv.org/abs/2304.10747v1)|null|
 |**2023-04-17**|**Emergent SU(3) magnons and thermal Hall effect in the antiferromagnetic skyrmion lattice**|Hikaru Takeda et.al.|[2304.08029v1](http://arxiv.org/abs/2304.08029v1)|null|
 |**2023-04-05**|**Intrinsic Origin and Enhancement of Topological Responses in Ferrimagnetic Antiperovskite Mn4N**|Temuujin Bayaraa et.al.|[2304.02750v1](http://arxiv.org/abs/2304.02750v1)|null|
 |**2023-04-08**|**Charge-density wave fluctuation driven composite order in the layered Kagome Metals**|Alexei M. Tsvelik et.al.|[2304.01122v2](http://arxiv.org/abs/2304.01122v2)|null|
