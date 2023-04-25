@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Time-Asymmetric Protocol Optimization for Efficient Free Energy Estimation**|Adrianne Zhong et.al.|[2304.12287v1](http://arxiv.org/abs/2304.12287v1)|null|
+|**2023-04-24**|**Inverse design of multishape metamaterials**|David M. J. Dykstra et.al.|[2304.12124v1](http://arxiv.org/abs/2304.12124v1)|null|
+|**2023-04-24**|**Machine learning modeling of the atomic structure and physical properties of alkali and alkaline-earth aluminosilicate glasses and melts**|Charles Le Losq et.al.|[2304.12123v1](http://arxiv.org/abs/2304.12123v1)|null|
+|**2023-04-24**|**From Feynman's ratchet to timecrystalline molecular motors**|Jianmei Wang et.al.|[2304.12118v1](http://arxiv.org/abs/2304.12118v1)|null|
+|**2023-04-24**|**EuCl $_3\cdot 6$H$_2$ O as the solid-state platform for searches for new P,T-odd physics**|Alexander O. Sushkov et.al.|[2304.12105v1](http://arxiv.org/abs/2304.12105v1)|null|
+|**2023-04-24**|**Data-driven rheological characterization of stress buildup and relaxation in thermal greases**|Pranay P. Nagrani et.al.|[2304.12104v1](http://arxiv.org/abs/2304.12104v1)|null|
+|**2023-04-24**|**Front propagation in ultrastable glasses is dynamically heterogeneous**|Cecilia Herrero et.al.|[2304.12039v1](http://arxiv.org/abs/2304.12039v1)|null|
+|**2023-04-24**|**X-ray nanotomography reveals formation of single diamonds by block copolymer self-assembly**|Kenza Djeghdi et.al.|[2304.12027v1](http://arxiv.org/abs/2304.12027v1)|null|
+|**2023-04-24**|**A Generalized Grand-Reaction Method for Modelling the Exchange of Weak (Polyprotic) Acids between a Solution and a Weak Polyelectrolyte Phase**|David Beyer et.al.|[2304.11967v1](http://arxiv.org/abs/2304.11967v1)|null|
+|**2023-04-23**|**Conformational landscape of long semiflexible linear and ring polymers near attractive surfaces**|Kamal Tripathi et.al.|[2304.11548v1](http://arxiv.org/abs/2304.11548v1)|null|
+|**2023-04-23**|**Hierarchical bubble size distributions in coarsening wet liquid foams**|Nicolo Galvani et.al.|[2304.11543v1](http://arxiv.org/abs/2304.11543v1)|null|
+|**2023-04-22**|**A machine learning method to characterize the crack length and position in high-density polyethylene using ultrasound**|Sijun Niu et.al.|[2304.11497v1](http://arxiv.org/abs/2304.11497v1)|null|
+|**2023-04-22**|**Phase biasing of a Josephson junction using Rashba-Edelstein effect**|Tapas Senapati et.al.|[2304.11457v1](http://arxiv.org/abs/2304.11457v1)|null|
+|**2023-04-22**|**Elastic Microphase Separation Produces Robust Bicontinuous Materials**|Carla Fernández-Rico et.al.|[2304.11419v1](http://arxiv.org/abs/2304.11419v1)|null|
+|**2023-04-22**|**Forecasting small scale dynamics of fluid turbulence using deep neural networks**|Dhawal Buaria et.al.|[2304.11317v1](http://arxiv.org/abs/2304.11317v1)|null|
+|**2023-04-21**|**The effect of loops on the mean square displacement of Rouse-model chromatin**|Tianyu Yuan et.al.|[2304.11266v1](http://arxiv.org/abs/2304.11266v1)|null|
+|**2023-04-21**|**Coarsening transitions of wet liquid foams under microgravity conditions**|Marina Pasquet et.al.|[2304.11206v1](http://arxiv.org/abs/2304.11206v1)|null|
+|**2023-04-21**|**Roles of packing fraction, microscopic friction and projectile spin in cratering by impact**|Douglas Daniel de Carvalho et.al.|[2304.11202v1](http://arxiv.org/abs/2304.11202v1)|null|
 |**2023-04-21**|**Universal scaling function ansatz for finite-temperature jamming**|Andrea J. Liu et.al.|[2304.11152v1](http://arxiv.org/abs/2304.11152v1)|null|
 |**2023-04-21**|**Jamming, relaxation, and memory in a structureless glass former**|Patrick Charbonneau et.al.|[2304.11100v1](http://arxiv.org/abs/2304.11100v1)|null|
 |**2023-04-21**|**Self-consistent homogenization approach for polycrystals within second gradient elasticity**|Yury Solyaev et.al.|[2304.11074v1](http://arxiv.org/abs/2304.11074v1)|null|
@@ -2132,6 +2150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Quantum Simulation of Polarized Light-induced Electron Transfer with A Trapped-ion Qutrit System**|Ke Sun et.al.|[2304.12247v1](http://arxiv.org/abs/2304.12247v1)|null|
 |**2023-04-19**|**Imaging Light-Induced Migration of Dislocations in Halide Perovskites with 3D Nanoscale Strain Mapping**|Kieran W. P. Orr et.al.|[2304.09554v1](http://arxiv.org/abs/2304.09554v1)|null|
 |**2023-04-17**|**Optically trapped Feshbach molecules of fermionic 161Dy and 40K**|E. Soave et.al.|[2304.07921v1](http://arxiv.org/abs/2304.07921v1)|null|
 |**2023-04-18**|**Quantum Control of Atom-Ion Charge Exchange via Light-induced Conical Intersections**|Hui Li et.al.|[2304.07571v2](http://arxiv.org/abs/2304.07571v2)|null|
@@ -2236,6 +2255,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-23**|**Diversity of Radial Spin Textures in Chiral Materials**|Daniel Gosálbez-Martínez et.al.|[2304.11650v1](http://arxiv.org/abs/2304.11650v1)|null|
 |**2023-04-20**|**Quantized Hall current in topological nodal-line semimetal**|Po-Hsin Shih et.al.|[2304.10463v1](http://arxiv.org/abs/2304.10463v1)|null|
 |**2023-04-19**|**Current-induced bond rupture in single-molecule junctions: Effects of multiple electronic states and vibrational modes**|Yaling Ke et.al.|[2304.09467v1](http://arxiv.org/abs/2304.09467v1)|null|
 |**2023-04-19**|**Optoelectronic manifestation of the orbital angular momentum driven by chiral hopping in helical Se chains**|Bumseop Kim et.al.|[2304.09364v1](http://arxiv.org/abs/2304.09364v1)|null|
@@ -2286,6 +2306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Gate-tunable ferromagnetism in a van der Waals magnetic semimetal**|Hideki Matsuoka et.al.|[2304.11890v1](http://arxiv.org/abs/2304.11890v1)|null|
 |**2023-04-21**|**Revealing the higher-order spin nature of the Hall effect in non-collinear antiferromagnet $\mathrm{Mn_3Ni_{0.35}Cu_{0.65}N}$**|Adithya Rajan et.al.|[2304.10747v1](http://arxiv.org/abs/2304.10747v1)|null|
 |**2023-04-17**|**Emergent SU(3) magnons and thermal Hall effect in the antiferromagnetic skyrmion lattice**|Hikaru Takeda et.al.|[2304.08029v1](http://arxiv.org/abs/2304.08029v1)|null|
 |**2023-04-05**|**Intrinsic Origin and Enhancement of Topological Responses in Ferrimagnetic Antiperovskite Mn4N**|Temuujin Bayaraa et.al.|[2304.02750v1](http://arxiv.org/abs/2304.02750v1)|null|
@@ -2319,6 +2340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-23**|**Quantum Spin Supersolid as a precursory Dirac Spin Liquid in a Triangular Lattice Antiferromagnet**|Haichen Jia et.al.|[2304.11716v1](http://arxiv.org/abs/2304.11716v1)|null|
 |**2023-04-17**|**Spin Fluctuations in Sr $_{1.8}$La$_{0.2}$RuO$_4$**|Zheng He et.al.|[2304.08214v1](http://arxiv.org/abs/2304.08214v1)|null|
 |**2023-04-12**|**High-fidelity dimer excitations using quantum hardware**|Norhan M. Eassa et.al.|[2304.06146v1](http://arxiv.org/abs/2304.06146v1)|null|
 |**2023-04-12**|**Charge order driven by multiple-Q spin fluctuations in heavily electron-doped iron selenide superconductors**|Ziyuan Chen et.al.|[2304.05854v1](http://arxiv.org/abs/2304.05854v1)|null|
