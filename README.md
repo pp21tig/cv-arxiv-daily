@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**Acousto-microfluidic Control of Liquid Crystals**|Gustavo A. Vasquez-Montoya et.al.|[2304.12996v1](http://arxiv.org/abs/2304.12996v1)|null|
+|**2023-04-25**|**Complex Memory Formation in Frictional Granular Media**|D. Candela et.al.|[2304.12981v1](http://arxiv.org/abs/2304.12981v1)|null|
+|**2023-04-25**|**Coarse grained model for skyrmion dynamics**|Tomás Alvim et.al.|[2304.12884v1](http://arxiv.org/abs/2304.12884v1)|null|
+|**2023-04-25**|**Asymmetries in triboelectric charging: generalizing mosaic models to different-material samples and sliding contacts**|Galien Grosjean et.al.|[2304.12861v1](http://arxiv.org/abs/2304.12861v1)|null|
+|**2023-04-25**|**Coherent Optical Spin Hall Transport for Spin-optronics at Room Temperature**|Ying Shi et.al.|[2304.12854v1](http://arxiv.org/abs/2304.12854v1)|null|
+|**2023-04-25**|**Thermophoretic motion of a charged single colloidal particle**|Daniel B. Mayer et.al.|[2304.12841v1](http://arxiv.org/abs/2304.12841v1)|null|
+|**2023-04-25**|**The effect of scatter of polymer chain length on strength**|Manyuan Tao et.al.|[2304.12815v1](http://arxiv.org/abs/2304.12815v1)|null|
+|**2023-04-25**|**Emergence of Directed Motion in a Crowded Suspension of Overdamped Particles**|Deborah Schwarcz et.al.|[2304.12724v1](http://arxiv.org/abs/2304.12724v1)|null|
+|**2023-04-25**|**Random organization and non-equilibrium hyperuniform fluids on a sphere**|Yusheng Lei et.al.|[2304.12720v1](http://arxiv.org/abs/2304.12720v1)|null|
+|**2023-04-25**|**Coherence of confined matter in lattice gauge theories at the mesoscopic scale**|Enrico C. Domanti et.al.|[2304.12713v1](http://arxiv.org/abs/2304.12713v1)|null|
+|**2023-04-25**|**Planar Hall effect and quasi-2D anisotropic superconductivity in topological candidate 1 $T$ -NbSeTe**|C. Patra et.al.|[2304.12619v1](http://arxiv.org/abs/2304.12619v1)|null|
+|**2023-04-25**|**High Harmonic Generation in Solids: Particle and Wave Perspectives**|Liang Li et.al.|[2304.12547v1](http://arxiv.org/abs/2304.12547v1)|null|
+|**2023-04-24**|**Equilibrium molecular dynamics evaluation of the solid-liquid friction coefficient: role of timescales**|Haruki Oga et.al.|[2304.12471v1](http://arxiv.org/abs/2304.12471v1)|null|
+|**2023-04-24**|**Mechanical criticality of fiber networks at a finite temperature**|Sadjad Arzash et.al.|[2304.12459v1](http://arxiv.org/abs/2304.12459v1)|null|
+|**2023-04-24**|**Modelling crystallization: When the normal growth velocity depends on the supersaturation**|V. V. Ivanov et.al.|[2304.12402v1](http://arxiv.org/abs/2304.12402v1)|null|
+|**2023-04-24**|**On elastic constants of zero-temperature amorphous solids**|Grzegorz Szamel et.al.|[2304.12374v1](http://arxiv.org/abs/2304.12374v1)|null|
 |**2023-04-24**|**Time-Asymmetric Protocol Optimization for Efficient Free Energy Estimation**|Adrianne Zhong et.al.|[2304.12287v1](http://arxiv.org/abs/2304.12287v1)|null|
 |**2023-04-24**|**Inverse design of multishape metamaterials**|David M. J. Dykstra et.al.|[2304.12124v1](http://arxiv.org/abs/2304.12124v1)|null|
 |**2023-04-24**|**Machine learning modeling of the atomic structure and physical properties of alkali and alkaline-earth aluminosilicate glasses and melts**|Charles Le Losq et.al.|[2304.12123v1](http://arxiv.org/abs/2304.12123v1)|null|
