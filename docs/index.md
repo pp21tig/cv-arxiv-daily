@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Elastic response of colloidal smectics: insights from microscopic theory**|H. H. Wensink et.al.|[2304.13701v1](http://arxiv.org/abs/2304.13701v1)|null|
+|**2023-04-26**|**Transient Pattern Formation in an Active Matter Contact Poisoning Model**|P. Forgacs et.al.|[2304.13686v1](http://arxiv.org/abs/2304.13686v1)|null|
+|**2023-04-26**|**Detecting and characterizing phase transitions in active matter using entropy**|Benjamin Sorkin et.al.|[2304.13679v1](http://arxiv.org/abs/2304.13679v1)|null|
+|**2023-04-26**|**Structural signatures of ultrastability in a deposited glassformer**|Fabio Leoni et.al.|[2304.13662v1](http://arxiv.org/abs/2304.13662v1)|null|
+|**2023-04-26**|**Trajectories of square lattice staircase polygons**|EJ Janse van Rensburg et.al.|[2304.13562v1](http://arxiv.org/abs/2304.13562v1)|null|
+|**2023-04-26**|**From ultra-fast growth to avalanche growth in devitrifying glasses**|Taiki Yanagishima et.al.|[2304.13483v1](http://arxiv.org/abs/2304.13483v1)|null|
+|**2023-04-26**|**Surface charge deposition by moving drops reduces contact angles**|Xiaomei Li et.al.|[2304.13461v1](http://arxiv.org/abs/2304.13461v1)|null|
+|**2023-04-26**|**A model of surface roughness effect on triboelectric charging of particles**|Simon Jantač et.al.|[2304.13441v1](http://arxiv.org/abs/2304.13441v1)|null|
+|**2023-04-26**|**Ionic blockade in a charged single-file water channel**|Shusong Zhang et.al.|[2304.13355v1](http://arxiv.org/abs/2304.13355v1)|null|
+|**2023-04-26**|**Ion steric effect induces giant enhancement of thermoelectric conversion in electrolyte-filled nanochannels**|Wenyao Zhang et.al.|[2304.13308v1](http://arxiv.org/abs/2304.13308v1)|null|
+|**2023-04-26**|**A general Dixmier trace formula for the density of states on open manifolds**|Eva-Maria Hekkelman et.al.|[2304.13272v1](http://arxiv.org/abs/2304.13272v1)|null|
+|**2023-04-25**|**Casimir-Polder interaction with Chern-Simons boundary layers**|Valery N. Marachevsky et.al.|[2304.13186v1](http://arxiv.org/abs/2304.13186v1)|null|
+|**2023-04-25**|**Optically induced symmetry breaking due to nonequilibrium steady state formation in charge density wave material 1T-TiSe2**|Harshvardhan Jog et.al.|[2304.13170v1](http://arxiv.org/abs/2304.13170v1)|null|
+|**2023-04-25**|**Novel phase transition at the Unruh temperature**|Georgy Yu. Prokhorov et.al.|[2304.13151v1](http://arxiv.org/abs/2304.13151v1)|null|
+|**2023-04-25**|**Hybrid nodal line semimetal states in anisotropic lattice materials**|Bikash Patra et.al.|[2304.13086v1](http://arxiv.org/abs/2304.13086v1)|null|
+|**2023-04-25**|**Quasi-static deformation of yield stress materials: homogeneous or localized?**|E. A. Jagla et.al.|[2304.13082v1](http://arxiv.org/abs/2304.13082v1)|null|
 |**2023-04-25**|**Acousto-microfluidic Control of Liquid Crystals**|Gustavo A. Vasquez-Montoya et.al.|[2304.12996v1](http://arxiv.org/abs/2304.12996v1)|null|
 |**2023-04-25**|**Complex Memory Formation in Frictional Granular Media**|D. Candela et.al.|[2304.12981v1](http://arxiv.org/abs/2304.12981v1)|null|
 |**2023-04-25**|**Coarse grained model for skyrmion dynamics**|Tomás Alvim et.al.|[2304.12884v1](http://arxiv.org/abs/2304.12884v1)|null|
@@ -2322,6 +2338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Robustness of the intrinsic anomalous Hall effect in Fe3GeTe2 to a uniaxial strain**|Mijin Lim et.al.|[2304.13309v1](http://arxiv.org/abs/2304.13309v1)|null|
 |**2023-04-24**|**Gate-tunable ferromagnetism in a van der Waals magnetic semimetal**|Hideki Matsuoka et.al.|[2304.11890v1](http://arxiv.org/abs/2304.11890v1)|null|
 |**2023-04-21**|**Revealing the higher-order spin nature of the Hall effect in non-collinear antiferromagnet $\mathrm{Mn_3Ni_{0.35}Cu_{0.65}N}$**|Adithya Rajan et.al.|[2304.10747v1](http://arxiv.org/abs/2304.10747v1)|null|
 |**2023-04-17**|**Emergent SU(3) magnons and thermal Hall effect in the antiferromagnetic skyrmion lattice**|Hikaru Takeda et.al.|[2304.08029v1](http://arxiv.org/abs/2304.08029v1)|null|
@@ -2356,6 +2373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Bond-dependent anisotropy and magnon breakdown in cobalt Kitaev triangular antiferromagnet**|Chaebin Kim et.al.|[2304.13236v1](http://arxiv.org/abs/2304.13236v1)|null|
 |**2023-04-23**|**Quantum Spin Supersolid as a precursory Dirac Spin Liquid in a Triangular Lattice Antiferromagnet**|Haichen Jia et.al.|[2304.11716v1](http://arxiv.org/abs/2304.11716v1)|null|
 |**2023-04-17**|**Spin Fluctuations in Sr $_{1.8}$La$_{0.2}$RuO$_4$**|Zheng He et.al.|[2304.08214v1](http://arxiv.org/abs/2304.08214v1)|null|
 |**2023-04-12**|**High-fidelity dimer excitations using quantum hardware**|Norhan M. Eassa et.al.|[2304.06146v1](http://arxiv.org/abs/2304.06146v1)|null|
