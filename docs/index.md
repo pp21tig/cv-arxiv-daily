@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-27**|**Torsion and Bistability of Double-Twist Elastomers**|Matthew P. Leighton et.al.|[2304.14349v1](http://arxiv.org/abs/2304.14349v1)|null|
+|**2023-04-27**|**Quantum oscillations in 2D electron gases with spin-orbit and Zeeman interactions**|Denis R. Candido et.al.|[2304.14327v1](http://arxiv.org/abs/2304.14327v1)|null|
+|**2023-04-27**|**Structural properties of hard-disk fluids under single-file confinement**|Ana M. Montero et.al.|[2304.14290v1](http://arxiv.org/abs/2304.14290v1)|null|
+|**2023-04-27**|**Does Spontaneous Symmetry Breaking Occur in Periodically Driven Low-Dimensional Non-Equilibrium Classical Systems?**|Harukuni Ikeda et.al.|[2304.14235v1](http://arxiv.org/abs/2304.14235v1)|null|
+|**2023-04-27**|**Bond polarizability as a probe of local crystal fields in hybrid lead-halide perovskites**|Yujing Wei et.al.|[2304.14198v1](http://arxiv.org/abs/2304.14198v1)|null|
+|**2023-04-27**|**Design of linear block copolymers and ABC star terpolymers that produce two length scales at phase separation**|Merin Joseph et.al.|[2304.14194v1](http://arxiv.org/abs/2304.14194v1)|null|
+|**2023-04-27**|**Analogue Hawking radiation in a two-level Weyl semimetal system**|Bijan Bagchi et.al.|[2304.14174v1](http://arxiv.org/abs/2304.14174v1)|null|
+|**2023-04-27**|**U(1) quasi-hydrodynamics: Schwinger-Keldysh effective field theory and holography**|Matteo Baggioli et.al.|[2304.14173v1](http://arxiv.org/abs/2304.14173v1)|null|
+|**2023-04-27**|**When physics meets chemistry at dynamic glass transition**|Haibao Lu et.al.|[2304.14147v1](http://arxiv.org/abs/2304.14147v1)|null|
+|**2023-04-27**|**Unsteady granular chute flows at high inertial numbers**|Satyabrata Patro et.al.|[2304.14060v1](http://arxiv.org/abs/2304.14060v1)|null|
+|**2023-04-27**|**Physics-informed Data-driven Discovery of Constitutive Models with Application to Strain-Rate-sensitive Soft Materials**|Kshitiz Upadhyay et.al.|[2304.13897v1](http://arxiv.org/abs/2304.13897v1)|null|
+|**2023-04-26**|**Kinetic temperature and pressure of an active Tonks gas**|Elijah Schiltz-Rouse et.al.|[2304.13858v1](http://arxiv.org/abs/2304.13858v1)|null|
+|**2023-04-26**|**Theoretical Puncture Mechanics of Soft Compressible Solids**|Stefano Fregonese et.al.|[2304.13838v1](http://arxiv.org/abs/2304.13838v1)|null|
+|**2023-04-26**|**Fluid-solid transitions in photonic crystals of soft, thermoresponsive microgels**|Marco Hildebrandt et.al.|[2304.13767v1](http://arxiv.org/abs/2304.13767v1)|null|
 |**2023-04-26**|**Elastic response of colloidal smectics: insights from microscopic theory**|H. H. Wensink et.al.|[2304.13701v1](http://arxiv.org/abs/2304.13701v1)|null|
 |**2023-04-26**|**Transient Pattern Formation in an Active Matter Contact Poisoning Model**|P. Forgacs et.al.|[2304.13686v1](http://arxiv.org/abs/2304.13686v1)|null|
 |**2023-04-26**|**Detecting and characterizing phase transitions in active matter using entropy**|Benjamin Sorkin et.al.|[2304.13679v1](http://arxiv.org/abs/2304.13679v1)|null|
