@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**High-resolution three-dimensional imaging of topological textures in single-diamond networks**|Dmitry Karpov et.al.|[2304.14819v1](http://arxiv.org/abs/2304.14819v1)|null|
+|**2023-04-28**|**Role of minimum adhesive wear particle size in third-body layer properties**|Son Pham-Ba et.al.|[2304.14783v1](http://arxiv.org/abs/2304.14783v1)|null|
+|**2023-04-28**|**Slippery and mobile hydrophobic electrokinetics: from single walls to nanochannels**|Olga I. Vinogradova et.al.|[2304.14756v1](http://arxiv.org/abs/2304.14756v1)|null|
+|**2023-04-28**|**Dissecting the experimental vibrational density of states of liquids using instantaneous normal mode theory**|Sha Jin et.al.|[2304.14609v1](http://arxiv.org/abs/2304.14609v1)|null|
+|**2023-04-27**|**AI-aided Geometric Design of Anti-infection Catheters**|Tingtao Zhou et.al.|[2304.14554v1](http://arxiv.org/abs/2304.14554v1)|null|
+|**2023-04-27**|**Marangoni instability in oblate droplets suspended on a circular frame**|M. A. Shishkin et.al.|[2304.14512v1](http://arxiv.org/abs/2304.14512v1)|null|
+|**2023-04-27**|**Coherent control of the translational and point group symmetries of crystals with light**|Guru Khalsa et.al.|[2304.14506v1](http://arxiv.org/abs/2304.14506v1)|null|
 |**2023-04-27**|**Torsion and Bistability of Double-Twist Elastomers**|Matthew P. Leighton et.al.|[2304.14349v1](http://arxiv.org/abs/2304.14349v1)|null|
 |**2023-04-27**|**Quantum oscillations in 2D electron gases with spin-orbit and Zeeman interactions**|Denis R. Candido et.al.|[2304.14327v1](http://arxiv.org/abs/2304.14327v1)|null|
 |**2023-04-27**|**Structural properties of hard-disk fluids under single-file confinement**|Ana M. Montero et.al.|[2304.14290v1](http://arxiv.org/abs/2304.14290v1)|null|
@@ -2196,6 +2203,7 @@
 |**2023-04-19**|**Imaging Light-Induced Migration of Dislocations in Halide Perovskites with 3D Nanoscale Strain Mapping**|Kieran W. P. Orr et.al.|[2304.09554v1](http://arxiv.org/abs/2304.09554v1)|null|
 |**2023-04-17**|**Optically trapped Feshbach molecules of fermionic 161Dy and 40K**|E. Soave et.al.|[2304.07921v1](http://arxiv.org/abs/2304.07921v1)|null|
 |**2023-04-18**|**Quantum Control of Atom-Ion Charge Exchange via Light-induced Conical Intersections**|Hui Li et.al.|[2304.07571v2](http://arxiv.org/abs/2304.07571v2)|null|
+|**2023-04-28**|**Acousto-Optic Modulation in Ambient Air**|Yannick Schrödel et.al.|[2304.06579v3](http://arxiv.org/abs/2304.06579v3)|null|
 |**2023-04-06**|**Electron Paramagnetic Resonance of $V_{N}-V_{Ga}$ complex in $BGaN$**|Jakub Kierdaszuk et.al.|[2304.03027v1](http://arxiv.org/abs/2304.03027v1)|null|
 |**2023-03-30**|**Light induced spiking of proteinoids**|Panagiotis Mougkogiannis et.al.|[2303.17563v1](http://arxiv.org/abs/2303.17563v1)|null|
 |**2023-03-29**|**Light induced decoupling of electronic and magnetic properties in manganites**|Henry Navarro et.al.|[2303.17049v1](http://arxiv.org/abs/2303.17049v1)|null|
