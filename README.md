@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Tube geometry controls protein cluster conformation and stability on the endoplasmic reticulum surface**|Liam T Kischuck et.al.|[2305.00971v1](http://arxiv.org/abs/2305.00971v1)|null|
+|**2023-05-01**|**Exploring regular and turbulent flow states in active nematic channel flow via Exact Coherent Structures and their invariant manifolds**|Caleb G. Wagner et.al.|[2305.00939v1](http://arxiv.org/abs/2305.00939v1)|null|
+|**2023-05-01**|**Deposition and alignment of fiber suspensions by dip coating**|Deok-Hoon Jeong et.al.|[2305.00899v1](http://arxiv.org/abs/2305.00899v1)|null|
+|**2023-05-01**|**A unified theory of strong coupling Bose polarons: From repulsive polarons to non-Gaussian many-body bound states**|Nader Mostaan et.al.|[2305.00835v1](http://arxiv.org/abs/2305.00835v1)|null|
+|**2023-05-01**|**The role of microscopic friction in statistics and scaling laws of avalanches**|Kuniyasu Saitoh et.al.|[2305.00782v1](http://arxiv.org/abs/2305.00782v1)|null|
+|**2023-05-01**|**Entropy production in the nonreciprocal Cahn-Hilliard model**|Thomas Suchanek et.al.|[2305.00744v1](http://arxiv.org/abs/2305.00744v1)|null|
+|**2023-05-01**|**Microrheology near jamming**|Yusuke Hara et.al.|[2305.00674v1](http://arxiv.org/abs/2305.00674v1)|null|
+|**2023-04-30**|**Random packing in three dimensions**|Chaoming Song et.al.|[2305.00531v1](http://arxiv.org/abs/2305.00531v1)|null|
+|**2023-04-29**|**Worm Blobs as Entangled Living Polymers: From Topological Active Matter to Flexible Soft Robot Collectives**|Antoine Deblais et.al.|[2305.00353v1](http://arxiv.org/abs/2305.00353v1)|null|
+|**2023-04-29**|**Dynamics and reversible control of the vortex Bloch-point vortex domain wall in short cylindrical magnetic nanowires**|Diego Caso et.al.|[2305.00346v1](http://arxiv.org/abs/2305.00346v1)|null|
+|**2023-04-29**|**Nanoscale creep mechanism of clay through MD modeling with hexagonal particles**|Zhe Zhang et.al.|[2305.00310v1](http://arxiv.org/abs/2305.00310v1)|null|
+|**2023-04-29**|**Softening of the Hertz indentation contact in nematic elastomers**|Ameneh Maghsoodi et.al.|[2305.00255v1](http://arxiv.org/abs/2305.00255v1)|null|
+|**2023-04-29**|**Kelvin waves, mutual friction, and fluctuations in the Gross-Pitaevskii model**|Giorgio Krstulovic et.al.|[2305.00236v1](http://arxiv.org/abs/2305.00236v1)|null|
+|**2023-04-29**|**Scaling Description of Dynamical Heterogeneity and Avalanches of Relaxation in Glass-Forming Liquids**|Ali Tahaei et.al.|[2305.00219v1](http://arxiv.org/abs/2305.00219v1)|null|
+|**2023-04-29**|**Electrical Tuning of Terahertz Plasmonic Crystal Phases**|P. Sai et.al.|[2305.00211v1](http://arxiv.org/abs/2305.00211v1)|null|
 |**2023-04-28**|**High-resolution three-dimensional imaging of topological textures in single-diamond networks**|Dmitry Karpov et.al.|[2304.14819v1](http://arxiv.org/abs/2304.14819v1)|null|
 |**2023-04-28**|**Role of minimum adhesive wear particle size in third-body layer properties**|Son Pham-Ba et.al.|[2304.14783v1](http://arxiv.org/abs/2304.14783v1)|null|
 |**2023-04-28**|**Slippery and mobile hydrophobic electrokinetics: from single walls to nanochannels**|Olga I. Vinogradova et.al.|[2304.14756v1](http://arxiv.org/abs/2304.14756v1)|null|
@@ -2356,6 +2371,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-29**|**Anomalous Hall effect and magnetic structure of the topological semimetal (Mn $_{0.78}$Fe$_{0.22}$)$_{3}$ Ge**|Venus Rai et.al.|[2305.00251v1](http://arxiv.org/abs/2305.00251v1)|null|
 |**2023-04-26**|**Robustness of the intrinsic anomalous Hall effect in Fe3GeTe2 to a uniaxial strain**|Mijin Lim et.al.|[2304.13309v1](http://arxiv.org/abs/2304.13309v1)|null|
 |**2023-04-24**|**Gate-tunable ferromagnetism in a van der Waals magnetic semimetal**|Hideki Matsuoka et.al.|[2304.11890v1](http://arxiv.org/abs/2304.11890v1)|null|
 |**2023-04-21**|**Revealing the higher-order spin nature of the Hall effect in non-collinear antiferromagnet $\mathrm{Mn_3Ni_{0.35}Cu_{0.65}N}$**|Adithya Rajan et.al.|[2304.10747v1](http://arxiv.org/abs/2304.10747v1)|null|
