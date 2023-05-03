@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**An intermediate phase between jammed and un-jammed amorphous solids**|Yuliang Jin et.al.|[2305.01394v1](http://arxiv.org/abs/2305.01394v1)|null|
+|**2023-05-02**|**Coalescence of bubbles in a viscoelastic liquid**|Alexandros T. Oratis et.al.|[2305.01363v1](http://arxiv.org/abs/2305.01363v1)|null|
+|**2023-05-02**|**"Shaking" Photons out of a Topological Material**|Mario G. Silveirinha et.al.|[2305.01292v1](http://arxiv.org/abs/2305.01292v1)|null|
+|**2023-05-02**|**Lipid exchange promotes fusion of model protocells**|Ziyan Fan et.al.|[2305.01271v1](http://arxiv.org/abs/2305.01271v1)|null|
+|**2023-05-02**|**Recent Applications of Dynamical Mean-Field Methods**|Leticia F. Cugliandolo et.al.|[2305.01229v1](http://arxiv.org/abs/2305.01229v1)|null|
+|**2023-05-02**|**Modeling of cardiac fibers as oriented liquid crystals**|Nicolás A. Barnafi et.al.|[2305.01199v1](http://arxiv.org/abs/2305.01199v1)|null|
+|**2023-05-02**|**A study on Poynting effect in brain white matter: A hyperelastic 3D micromechanical model**|Mohit Agarwal et.al.|[2305.01131v1](http://arxiv.org/abs/2305.01131v1)|null|
+|**2023-05-01**|**Enhanced phoretic self-propulsion of active colloids through surface charge asymmetry**|Ahis Shrestha et.al.|[2305.01102v1](http://arxiv.org/abs/2305.01102v1)|null|
+|**2023-05-01**|**Nonreciprocal interactions give rise to fast cilium synchronisation in finite systems**|David J. Hickey et.al.|[2305.01077v1](http://arxiv.org/abs/2305.01077v1)|null|
+|**2023-05-01**|**Toughening mechanisms and damage propagation in Architected-Interfaces**|Michelle L. S. Hedvard et.al.|[2305.01073v1](http://arxiv.org/abs/2305.01073v1)|null|
+|**2023-05-01**|**Activity-driven phase transition causes coherent flows of chromatin**|Iraj Eshghi et.al.|[2305.01052v1](http://arxiv.org/abs/2305.01052v1)|null|
+|**2023-05-01**|**Heavy-fermion strange metal and quantum spin liquid in a 4d-electron trimer lattice**|Hengdi Zhao et.al.|[2305.01033v1](http://arxiv.org/abs/2305.01033v1)|null|
 |**2023-05-01**|**Tube geometry controls protein cluster conformation and stability on the endoplasmic reticulum surface**|Liam T Kischuck et.al.|[2305.00971v1](http://arxiv.org/abs/2305.00971v1)|null|
 |**2023-05-01**|**Exploring regular and turbulent flow states in active nematic channel flow via Exact Coherent Structures and their invariant manifolds**|Caleb G. Wagner et.al.|[2305.00939v1](http://arxiv.org/abs/2305.00939v1)|null|
 |**2023-05-01**|**Deposition and alignment of fiber suspensions by dip coating**|Deok-Hoon Jeong et.al.|[2305.00899v1](http://arxiv.org/abs/2305.00899v1)|null|
