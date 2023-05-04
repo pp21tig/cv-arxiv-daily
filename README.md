@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**How charges separate when surfaces are dewetted**|Aaron D. Ratschow et.al.|[2305.02172v1](http://arxiv.org/abs/2305.02172v1)|null|
+|**2023-05-03**|**Ultra-delayed material failure via shear banding after straining an amorphous material**|Henry A. Lockwood et.al.|[2305.02144v1](http://arxiv.org/abs/2305.02144v1)|null|
+|**2023-05-03**|**Topotaxis of Active Particles Induced by Spatially Heterogeneous Sliding along Obstacles**|Zeinab Sadjadi et.al.|[2305.02055v1](http://arxiv.org/abs/2305.02055v1)|null|
+|**2023-05-03**|**Dynamic heterogeneity in polydisperse systems: A comparative study of the role of local structural order parameter and particle size**|Palak Patel et.al.|[2305.02043v1](http://arxiv.org/abs/2305.02043v1)|null|
+|**2023-05-03**|**Evolution of polygonal crack patterns in mud when subjected to repeated wetting-drying cycles**|Ruhul A I Haque et.al.|[2305.01991v1](http://arxiv.org/abs/2305.01991v1)|null|
+|**2023-05-03**|**Models of fractional viscous stresses for incompressible materials**|Harold Berjamin et.al.|[2305.01934v1](http://arxiv.org/abs/2305.01934v1)|null|
+|**2023-05-03**|**Tuning electrostatic interactions of colloidal particles at oil-water interfaces with organic salts**|Carolina van Baalen et.al.|[2305.01929v1](http://arxiv.org/abs/2305.01929v1)|null|
+|**2023-05-02**|**Paradoxical nature of negative mobility in the weak dissipation regime**|Mateusz Wiśniewski et.al.|[2305.01740v1](http://arxiv.org/abs/2305.01740v1)|null|
 |**2023-05-02**|**An intermediate phase between jammed and un-jammed amorphous solids**|Yuliang Jin et.al.|[2305.01394v1](http://arxiv.org/abs/2305.01394v1)|null|
 |**2023-05-02**|**Coalescence of bubbles in a viscoelastic liquid**|Alexandros T. Oratis et.al.|[2305.01363v1](http://arxiv.org/abs/2305.01363v1)|null|
 |**2023-05-02**|**"Shaking" Photons out of a Topological Material**|Mario G. Silveirinha et.al.|[2305.01292v1](http://arxiv.org/abs/2305.01292v1)|null|
@@ -2226,6 +2234,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Exciton and light induced ferromagnetism from doping a moiré Mott insulator**|Hui Yang et.al.|[2305.01702v1](http://arxiv.org/abs/2305.01702v1)|null|
 |**2023-04-24**|**Quantum Simulation of Polarized Light-induced Electron Transfer with A Trapped-ion Qutrit System**|Ke Sun et.al.|[2304.12247v1](http://arxiv.org/abs/2304.12247v1)|null|
 |**2023-04-19**|**Imaging Light-Induced Migration of Dislocations in Halide Perovskites with 3D Nanoscale Strain Mapping**|Kieran W. P. Orr et.al.|[2304.09554v1](http://arxiv.org/abs/2304.09554v1)|null|
 |**2023-04-17**|**Optically trapped Feshbach molecules of fermionic 161Dy and 40K**|E. Soave et.al.|[2304.07921v1](http://arxiv.org/abs/2304.07921v1)|null|
@@ -2383,6 +2392,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Large anomalous Hall effect at zero magnetic field and unusual domain switching in an orthorhombic antiferromagnetic material NbMnP**|Hisashi Kotegawa et.al.|[2305.02028v1](http://arxiv.org/abs/2305.02028v1)|null|
 |**2023-04-29**|**Anomalous Hall effect and magnetic structure of the topological semimetal (Mn $_{0.78}$Fe$_{0.22}$)$_{3}$ Ge**|Venus Rai et.al.|[2305.00251v1](http://arxiv.org/abs/2305.00251v1)|null|
 |**2023-04-26**|**Robustness of the intrinsic anomalous Hall effect in Fe3GeTe2 to a uniaxial strain**|Mijin Lim et.al.|[2304.13309v1](http://arxiv.org/abs/2304.13309v1)|null|
 |**2023-04-24**|**Gate-tunable ferromagnetism in a van der Waals magnetic semimetal**|Hideki Matsuoka et.al.|[2304.11890v1](http://arxiv.org/abs/2304.11890v1)|null|
@@ -2419,6 +2429,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**One- and two-particle correlation functions in the cluster perturbation theory for cuprates**|V. I. Kuz'min et.al.|[2305.01882v1](http://arxiv.org/abs/2305.01882v1)|null|
 |**2023-04-26**|**Bond-dependent anisotropy and magnon breakdown in cobalt Kitaev triangular antiferromagnet**|Chaebin Kim et.al.|[2304.13236v1](http://arxiv.org/abs/2304.13236v1)|null|
 |**2023-04-23**|**Quantum Spin Supersolid as a precursory Dirac Spin Liquid in a Triangular Lattice Antiferromagnet**|Haichen Jia et.al.|[2304.11716v1](http://arxiv.org/abs/2304.11716v1)|null|
 |**2023-04-17**|**Spin Fluctuations in Sr $_{1.8}$La$_{0.2}$RuO$_4$**|Zheng He et.al.|[2304.08214v1](http://arxiv.org/abs/2304.08214v1)|null|
