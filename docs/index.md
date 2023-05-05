@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Iron-based superconductors: teenage, complex, challenging**|Qimiao Si et.al.|[2305.03035v1](http://arxiv.org/abs/2305.03035v1)|null|
+|**2023-05-04**|**Mechanism of laser induced self-organized void array formation in Polydimethylsiloxane (PDMS)**|N. Naseri et.al.|[2305.02976v1](http://arxiv.org/abs/2305.02976v1)|null|
+|**2023-05-04**|**Dynamics of magnetoelastic robots in water-saturated granular beds**|Animesh Biswas et.al.|[2305.02903v1](http://arxiv.org/abs/2305.02903v1)|null|
+|**2023-05-04**|**Breaking the Reptation Trap: Escape Dynamics of Semi-Flexible Polymers in Crowded Networks**|Ahmad Reza Motezakker et.al.|[2305.02877v1](http://arxiv.org/abs/2305.02877v1)|null|
+|**2023-05-04**|**Superconductivity in Mo $_4$Ga$_{20}$ As with Endohedral Gallium Clusters**|Bin-Bin Ruan et.al.|[2305.02838v1](http://arxiv.org/abs/2305.02838v1)|null|
+|**2023-05-04**|**Phase Field Simulation of Liquid Filling on Grooved Surfaces for Complete, Partial and Pseudo-partial Wetting Cases**|Fandi Oktasendra et.al.|[2305.02779v1](http://arxiv.org/abs/2305.02779v1)|null|
+|**2023-05-04**|**Equivalent circuit and continuum modeling of the impedance of electrolyte-filled pores**|Christian Pedersen et.al.|[2305.02766v1](http://arxiv.org/abs/2305.02766v1)|**[link](https://github.com/christian-pedersen/fem-axisymmetric-poisson-nernst-planck)**|
+|**2023-05-04**|**A fresh look at the vibrational and thermodynamic properties of liquids within the soft potential model**|Haichen Xu et.al.|[2305.02524v1](http://arxiv.org/abs/2305.02524v1)|null|
+|**2023-05-04**|**Seeing the unseen in quantum Wigner molecularization in Moiré superlattices**|Constantine Yannouleas et.al.|[2305.02516v1](http://arxiv.org/abs/2305.02516v1)|null|
+|**2023-05-04**|**Interplay between topology and localization on superconducting circuits**|Xin Guan et.al.|[2305.02486v1](http://arxiv.org/abs/2305.02486v1)|null|
+|**2023-05-03**|**Colloidal Hard Spheres: Triumphs, Challenges and Mysteries**|C. Patrick Royall et.al.|[2305.02452v1](http://arxiv.org/abs/2305.02452v1)|null|
+|**2023-05-03**|**Model chromatin flows: numerical analysis of linear and nonlinear hydrodynamics inside a sphere**|Iraj Eshghi et.al.|[2305.02411v1](http://arxiv.org/abs/2305.02411v1)|null|
+|**2023-05-03**|**Replicating Higgs fields in Ising gauge theory: the registry order**|Aleksandar Bukva et.al.|[2305.02400v1](http://arxiv.org/abs/2305.02400v1)|null|
+|**2023-05-03**|**Bridging Heterogeneity Dictates the Microstructure and Yielding Response of Polymer-Linked Emulsions**|Daniel P. Keane et.al.|[2305.02395v1](http://arxiv.org/abs/2305.02395v1)|null|
+|**2023-05-03**|**Ion Transport Mechanisms in Pectin-containing EC-LiTFSI Electrolytes**|Sipra Mohapatra et.al.|[2305.02387v1](http://arxiv.org/abs/2305.02387v1)|null|
+|**2023-05-03**|**Exceptional points in single open acoustic resonator due to the symmetry breaking**|Vladimir Igoshin et.al.|[2305.02370v1](http://arxiv.org/abs/2305.02370v1)|null|
+|**2023-05-03**|**Absence of Mobility Edge in Short-range Uncorrelated Disordered Model: Coexistence of Localized and Extended States**|Adway Kumar Das et.al.|[2305.02351v1](http://arxiv.org/abs/2305.02351v1)|null|
+|**2023-05-03**|**Towards Hamiltonian Simulation with Decision Diagrams**|Aaron Sander et.al.|[2305.02337v1](http://arxiv.org/abs/2305.02337v1)|**[link](https://github.com/cda-tum/ddsim)**|
 |**2023-05-03**|**How charges separate when surfaces are dewetted**|Aaron D. Ratschow et.al.|[2305.02172v1](http://arxiv.org/abs/2305.02172v1)|null|
 |**2023-05-03**|**Ultra-delayed material failure via shear banding after straining an amorphous material**|Henry A. Lockwood et.al.|[2305.02144v1](http://arxiv.org/abs/2305.02144v1)|null|
 |**2023-05-03**|**Topotaxis of Active Particles Induced by Spatially Heterogeneous Sliding along Obstacles**|Zeinab Sadjadi et.al.|[2305.02055v1](http://arxiv.org/abs/2305.02055v1)|null|
@@ -2313,6 +2331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Effective rectification of THz electromagnetic fields in a ferrimagnetic iron garnet**|T. G. H. Blank et.al.|[2305.02971v1](http://arxiv.org/abs/2305.02971v1)|null|
 |**2023-04-04**|**Online Joint Assortment-Inventory Optimization under MNL Choices**|Yong Liang et.al.|[2304.02022v1](http://arxiv.org/abs/2304.02022v1)|null|
 |**2023-03-31**|**Model-Free Reconstruction of Capacity Degradation Trajectory of Lithium-Ion Batteries Using Early Cycle Data**|Seongyoon Kim et.al.|[2303.18195v1](http://arxiv.org/abs/2303.18195v1)|null|
 |**2023-02-28**|**Model-Free and Learning-Free Proprioceptive Humanoid Movement Control**|Boren Jiang et.al.|[2302.14249v1](http://arxiv.org/abs/2302.14249v1)|null|
@@ -2433,6 +2452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**An overview of the spin dynamics of antiferromagnetic Mn $_5$Si$_3$**|N. Biniskos et.al.|[2305.02409v1](http://arxiv.org/abs/2305.02409v1)|null|
 |**2023-05-03**|**One- and two-particle correlation functions in the cluster perturbation theory for cuprates**|V. I. Kuz'min et.al.|[2305.01882v1](http://arxiv.org/abs/2305.01882v1)|null|
 |**2023-04-26**|**Bond-dependent anisotropy and magnon breakdown in cobalt Kitaev triangular antiferromagnet**|Chaebin Kim et.al.|[2304.13236v1](http://arxiv.org/abs/2304.13236v1)|null|
 |**2023-04-23**|**Quantum Spin Supersolid as a precursory Dirac Spin Liquid in a Triangular Lattice Antiferromagnet**|Haichen Jia et.al.|[2304.11716v1](http://arxiv.org/abs/2304.11716v1)|null|
