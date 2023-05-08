@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**A Mechanistic Model of the Organization of Cell Shapes in Epithelial Tissues**|Kanaya Malakar et.al.|[2305.03672v1](http://arxiv.org/abs/2305.03672v1)|null|
+|**2023-05-05**|**An Introduction to Noncommutative Physics**|Shi-Dong Liang et.al.|[2305.03671v1](http://arxiv.org/abs/2305.03671v1)|null|
+|**2023-05-05**|**Particle-based model of active skyrmions**|Allison W. Teixeira et.al.|[2305.03670v1](http://arxiv.org/abs/2305.03670v1)|null|
+|**2023-05-05**|**Anisotropic run-and-tumble-turn dynamics**|Benjamin Loewe et.al.|[2305.03663v1](http://arxiv.org/abs/2305.03663v1)|null|
+|**2023-05-05**|**Filamentary superconductivity in systems with competing charge density waves**|Giulia Venditti et.al.|[2305.03404v1](http://arxiv.org/abs/2305.03404v1)|null|
+|**2023-05-05**|**Micromechanical measurements of local plastic events in granular materials**|Jie Zheng et.al.|[2305.03218v1](http://arxiv.org/abs/2305.03218v1)|null|
+|**2023-05-04**|**Theory and simulation of multiphase coexistence in biomolecular mixtures**|William M. Jacobs et.al.|[2305.03150v1](http://arxiv.org/abs/2305.03150v1)|null|
+|**2023-05-04**|**Understanding the Salt Effects on the Liquid-Liquid Phase Separation of Proteins**|Chao Duan et.al.|[2305.03109v1](http://arxiv.org/abs/2305.03109v1)|null|
+|**2023-05-04**|**$G_2$ Integrable Point Characterization via Isotropic Spin-3 Chains**|Chengshu Li et.al.|[2305.03072v1](http://arxiv.org/abs/2305.03072v1)|null|
 |**2023-05-04**|**Iron-based superconductors: teenage, complex, challenging**|Qimiao Si et.al.|[2305.03035v1](http://arxiv.org/abs/2305.03035v1)|null|
 |**2023-05-04**|**Mechanism of laser induced self-organized void array formation in Polydimethylsiloxane (PDMS)**|N. Naseri et.al.|[2305.02976v1](http://arxiv.org/abs/2305.02976v1)|null|
 |**2023-05-04**|**Dynamics of magnetoelastic robots in water-saturated granular beds**|Animesh Biswas et.al.|[2305.02903v1](http://arxiv.org/abs/2305.02903v1)|null|
@@ -2327,6 +2336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Nonlinear terahertz Néel spin-orbit torques in antiferromagnetic Mn $_2$ Au**|Yannic Behovits et.al.|[2305.03368v1](http://arxiv.org/abs/2305.03368v1)|null|
 |**2023-05-04**|**Effective rectification of THz electromagnetic fields in a ferrimagnetic iron garnet**|T. G. H. Blank et.al.|[2305.02971v1](http://arxiv.org/abs/2305.02971v1)|null|
 |**2023-04-04**|**Online Joint Assortment-Inventory Optimization under MNL Choices**|Yong Liang et.al.|[2304.02022v1](http://arxiv.org/abs/2304.02022v1)|null|
 |**2023-03-31**|**Model-Free Reconstruction of Capacity Degradation Trajectory of Lithium-Ion Batteries Using Early Cycle Data**|Seongyoon Kim et.al.|[2303.18195v1](http://arxiv.org/abs/2303.18195v1)|null|
@@ -2411,6 +2421,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**X-ray Magnetic Circular Dichroism in Altermagnetic $α$ -MnTe**|A. Hariki et.al.|[2305.03588v1](http://arxiv.org/abs/2305.03588v1)|null|
+|**2023-05-04**|**Experimental observation of spin glass state in highly disordered quaternary Heusler alloy FeRuMnGa**|Shuvankar Gupta et.al.|[2305.03093v1](http://arxiv.org/abs/2305.03093v1)|null|
 |**2023-05-03**|**Large anomalous Hall effect at zero magnetic field and unusual domain switching in an orthorhombic antiferromagnetic material NbMnP**|Hisashi Kotegawa et.al.|[2305.02028v1](http://arxiv.org/abs/2305.02028v1)|null|
 |**2023-04-29**|**Anomalous Hall effect and magnetic structure of the topological semimetal (Mn $_{0.78}$Fe$_{0.22}$)$_{3}$ Ge**|Venus Rai et.al.|[2305.00251v1](http://arxiv.org/abs/2305.00251v1)|null|
 |**2023-04-26**|**Robustness of the intrinsic anomalous Hall effect in Fe3GeTe2 to a uniaxial strain**|Mijin Lim et.al.|[2304.13309v1](http://arxiv.org/abs/2304.13309v1)|null|
