@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Fine-Tuning of Colloidal Polymer Crystals by Molecular Simulation**|Miguel Herranz et.al.|[2305.04902v1](http://arxiv.org/abs/2305.04902v1)|null|
+|**2023-05-08**|**A study of Bosonic and Fermionic Theories at Large Charge**|Ioannis Kalogerakis et.al.|[2305.04730v1](http://arxiv.org/abs/2305.04730v1)|null|
+|**2023-05-08**|**Zonal flows and reversals of cortically confined active suspensions**|J. S. Yodh et.al.|[2305.04708v1](http://arxiv.org/abs/2305.04708v1)|null|
+|**2023-05-08**|**Gravitational anomaly in antiferromagnetic topological Weyl semimetal NdAlSi**|Pardeep Kumar Tanwar et.al.|[2305.04650v1](http://arxiv.org/abs/2305.04650v1)|null|
+|**2023-05-08**|**Epithelial-substrate coupling strength regulates the landscape of the traction in cohesive monolayers: a parametric study and a revisit to "size effect"**|Tiankai Zhao et.al.|[2305.04645v1](http://arxiv.org/abs/2305.04645v1)|null|
+|**2023-05-08**|**Hot crystals of thermo-responsive particles with temperature dependent diameter in presence of a temperature gradient**|Rahul Karmakar et.al.|[2305.04521v1](http://arxiv.org/abs/2305.04521v1)|null|
+|**2023-05-07**|**Anisotropic-Isotropic Transition of Cages at the Glass Transition**|Huijun Zhang et.al.|[2305.04179v1](http://arxiv.org/abs/2305.04179v1)|null|
+|**2023-05-07**|**Hexagonal close-packed polar-skyrmion lattice in ultrathin ferroelectric PbTiO3 films**|Shuai Yuan et.al.|[2305.04169v1](http://arxiv.org/abs/2305.04169v1)|null|
+|**2023-05-06**|**Interactions enhance dispersion in fluctuating channels via emergent flows**|Yating Wang et.al.|[2305.04092v1](http://arxiv.org/abs/2305.04092v1)|null|
+|**2023-05-06**|**Zero mode-soliton duality and pKdV kinks in Boussinesq system for non-linear shallow water waves**|H. Blas et.al.|[2305.04037v1](http://arxiv.org/abs/2305.04037v1)|null|
+|**2023-05-06**|**Spontaneous rotation of active droplets in two and three dimensions**|Mehrana R. Nejad et.al.|[2305.04018v1](http://arxiv.org/abs/2305.04018v1)|null|
+|**2023-05-06**|**Topological properties and shape of proliferative and non-proliferative cell monolayers**|Daria S. Roshal et.al.|[2305.03990v1](http://arxiv.org/abs/2305.03990v1)|null|
+|**2023-05-06**|**Insights into the Structure and Ion Transport of Pectin-[BMIM][PF $_6$ ] Electrolytes**|Sipra Mohapatra et.al.|[2305.03959v1](http://arxiv.org/abs/2305.03959v1)|null|
+|**2023-05-06**|**Self-similar evolution of wave turbulence in Gross-Pitaevskii system**|Ying Zhu et.al.|[2305.03924v1](http://arxiv.org/abs/2305.03924v1)|null|
+|**2023-05-05**|**Understanding the swap Monte Carlo algorithm in a size-polydisperse model glassformer**|Niklas Küchler et.al.|[2305.03838v1](http://arxiv.org/abs/2305.03838v1)|null|
+|**2023-05-05**|**When does an active bath behave as an equilibrium one?**|Shubhendu Shekhar Khali et.al.|[2305.03830v1](http://arxiv.org/abs/2305.03830v1)|null|
+|**2023-05-05**|**Optically driven spin precession in polariton condensates**|Ivan Gnusov et.al.|[2305.03782v1](http://arxiv.org/abs/2305.03782v1)|null|
 |**2023-05-05**|**A Mechanistic Model of the Organization of Cell Shapes in Epithelial Tissues**|Kanaya Malakar et.al.|[2305.03672v1](http://arxiv.org/abs/2305.03672v1)|null|
 |**2023-05-05**|**An Introduction to Noncommutative Physics**|Shi-Dong Liang et.al.|[2305.03671v1](http://arxiv.org/abs/2305.03671v1)|null|
 |**2023-05-05**|**Particle-based model of active skyrmions**|Allison W. Teixeira et.al.|[2305.03670v1](http://arxiv.org/abs/2305.03670v1)|null|
@@ -2261,6 +2278,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Coherently amplified ultrafast imaging in a free-electron interferometer**|Tomer Bucher et.al.|[2305.04877v1](http://arxiv.org/abs/2305.04877v1)|null|
+|**2023-05-08**|**Controlling superconducting transistor by coherent light**|Guo-Jian Qiao et.al.|[2305.04442v1](http://arxiv.org/abs/2305.04442v1)|null|
 |**2023-05-02**|**Exciton and light induced ferromagnetism from doping a moiré Mott insulator**|Hui Yang et.al.|[2305.01702v1](http://arxiv.org/abs/2305.01702v1)|null|
 |**2023-04-24**|**Quantum Simulation of Polarized Light-induced Electron Transfer with A Trapped-ion Qutrit System**|Ke Sun et.al.|[2304.12247v1](http://arxiv.org/abs/2304.12247v1)|null|
 |**2023-04-19**|**Imaging Light-Induced Migration of Dislocations in Halide Perovskites with 3D Nanoscale Strain Mapping**|Kieran W. P. Orr et.al.|[2304.09554v1](http://arxiv.org/abs/2304.09554v1)|null|
@@ -2370,6 +2389,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-06**|**Field-Free Spin-Orbit Torque driven Switching of Perpendicular Magnetic Tunnel Junction through Bending Current**|Vaishnavi Kateel et.al.|[2305.03961v1](http://arxiv.org/abs/2305.03961v1)|null|
 |**2023-04-23**|**Diversity of Radial Spin Textures in Chiral Materials**|Daniel Gosálbez-Martínez et.al.|[2304.11650v1](http://arxiv.org/abs/2304.11650v1)|null|
 |**2023-04-20**|**Quantized Hall current in topological nodal-line semimetal**|Po-Hsin Shih et.al.|[2304.10463v1](http://arxiv.org/abs/2304.10463v1)|null|
 |**2023-04-19**|**Current-induced bond rupture in single-molecule junctions: Effects of multiple electronic states and vibrational modes**|Yaling Ke et.al.|[2304.09467v1](http://arxiv.org/abs/2304.09467v1)|null|
@@ -2421,6 +2441,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Charge density wave induced anomalous Hall effect in kagome ScV6Sn6**|Changjiang Yi et.al.|[2305.04683v1](http://arxiv.org/abs/2305.04683v1)|null|
 |**2023-05-05**|**X-ray Magnetic Circular Dichroism in Altermagnetic $α$ -MnTe**|A. Hariki et.al.|[2305.03588v1](http://arxiv.org/abs/2305.03588v1)|null|
 |**2023-05-04**|**Experimental observation of spin glass state in highly disordered quaternary Heusler alloy FeRuMnGa**|Shuvankar Gupta et.al.|[2305.03093v1](http://arxiv.org/abs/2305.03093v1)|null|
 |**2023-05-03**|**Large anomalous Hall effect at zero magnetic field and unusual domain switching in an orthorhombic antiferromagnetic material NbMnP**|Hisashi Kotegawa et.al.|[2305.02028v1](http://arxiv.org/abs/2305.02028v1)|null|
@@ -2460,6 +2481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Magnetic excitation spectrum and Hamiltonian of the quantum spin chain BaCuTe2O6**|A. Samartzis et.al.|[2305.03825v1](http://arxiv.org/abs/2305.03825v1)|null|
 |**2023-05-03**|**An overview of the spin dynamics of antiferromagnetic Mn $_5$Si$_3$**|N. Biniskos et.al.|[2305.02409v1](http://arxiv.org/abs/2305.02409v1)|null|
 |**2023-05-03**|**One- and two-particle correlation functions in the cluster perturbation theory for cuprates**|V. I. Kuz'min et.al.|[2305.01882v1](http://arxiv.org/abs/2305.01882v1)|null|
 |**2023-04-26**|**Bond-dependent anisotropy and magnon breakdown in cobalt Kitaev triangular antiferromagnet**|Chaebin Kim et.al.|[2304.13236v1](http://arxiv.org/abs/2304.13236v1)|null|
