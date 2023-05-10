@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Time-reversal and PT symmetry breaking in non-Hermitian field theories**|Thomas Suchanek et.al.|[2305.05633v1](http://arxiv.org/abs/2305.05633v1)|null|
+|**2023-05-09**|**Enhanced fluctuation in heterogeneous chromatic medium emerging by transient-linking activity**|Rakesh Das et.al.|[2305.05521v1](http://arxiv.org/abs/2305.05521v1)|null|
+|**2023-05-09**|**Interaction-motif-based classification of self-organizing metabolic cycles**|Vincent Ouazan-Reboul et.al.|[2305.05472v1](http://arxiv.org/abs/2305.05472v1)|null|
+|**2023-05-09**|**Influence of Shape on Heteroaggregation of Model Microplastics: A Simulation Study**|B. Ruşen Argun et.al.|[2305.05453v1](http://arxiv.org/abs/2305.05453v1)|null|
+|**2023-05-09**|**Glassy heat capacity from overdamped phasons and a hypothetical phason-induced superconductivity in incommensurate structures**|Cunyuan Jiang et.al.|[2305.05407v1](http://arxiv.org/abs/2305.05407v1)|null|
+|**2023-05-09**|**Activity Induced Diffusion Recovery in Crowded Colloidal Suspension**|Arnab Maiti et.al.|[2305.05397v1](http://arxiv.org/abs/2305.05397v1)|null|
+|**2023-05-09**|**Computer Simulations and Mode-Coupling Theory of Glass-Forming Confined Hard-Sphere Fluids**|Gerhard Jung et.al.|[2305.05312v1](http://arxiv.org/abs/2305.05312v1)|null|
+|**2023-05-09**|**Microscopic Theory of Nonlinear Hall Effect Induced by Electric Field and Temperature Gradient**|Terufumi Yamaguchi et.al.|[2305.05273v1](http://arxiv.org/abs/2305.05273v1)|null|
+|**2023-05-09**|**Electron energy loss and angular asymmetry induced by elastic scattering in helium droplets**|Jakob D. Asmussen et.al.|[2305.05269v1](http://arxiv.org/abs/2305.05269v1)|null|
+|**2023-05-09**|**Interfacial Stresses on Droplet Interface Bilayers Using Two Photon Fluorescence Lifetime Imaging Microscopy**|Yaoqi Huang et.al.|[2305.05151v1](http://arxiv.org/abs/2305.05151v1)|null|
+|**2023-05-07**|**Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins**|Markus J. Buehler et.al.|[2305.04934v1](http://arxiv.org/abs/2305.04934v1)|null|
 |**2023-05-08**|**Fine-Tuning of Colloidal Polymer Crystals by Molecular Simulation**|Miguel Herranz et.al.|[2305.04902v1](http://arxiv.org/abs/2305.04902v1)|null|
 |**2023-05-09**|**A study of Bosonic and Fermionic Theories at Large Charge**|Ioannis Kalogerakis et.al.|[2305.04730v2](http://arxiv.org/abs/2305.04730v2)|null|
 |**2023-05-08**|**Zonal flows and reversals of cortically confined active suspensions**|J. S. Yodh et.al.|[2305.04708v1](http://arxiv.org/abs/2305.04708v1)|null|
@@ -2485,6 +2496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Magnon dispersion in ferromagnetic SrRuO $_3$**|K. Jenni et.al.|[2305.05497v1](http://arxiv.org/abs/2305.05497v1)|null|
 |**2023-05-05**|**Magnetic excitation spectrum and Hamiltonian of the quantum spin chain BaCuTe2O6**|A. Samartzis et.al.|[2305.03825v1](http://arxiv.org/abs/2305.03825v1)|null|
 |**2023-05-03**|**An overview of the spin dynamics of antiferromagnetic Mn $_5$Si$_3$**|N. Biniskos et.al.|[2305.02409v1](http://arxiv.org/abs/2305.02409v1)|null|
 |**2023-05-03**|**One- and two-particle correlation functions in the cluster perturbation theory for cuprates**|V. I. Kuz'min et.al.|[2305.01882v1](http://arxiv.org/abs/2305.01882v1)|null|
