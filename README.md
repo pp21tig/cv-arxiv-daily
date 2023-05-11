@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Microscopic theory for hyperuniformity in two-dimensional chiral active fluid**|Yuta Kuroda et.al.|[2305.06298v1](http://arxiv.org/abs/2305.06298v1)|null|
+|**2023-05-10**|**Overcritical Fermi Superfluids**|A. F. Andreev et.al.|[2305.06229v1](http://arxiv.org/abs/2305.06229v1)|null|
+|**2023-05-10**|**Structural lubricity and fractures in liquid crystals**|Weichao Zheng et.al.|[2305.06191v1](http://arxiv.org/abs/2305.06191v1)|null|
+|**2023-05-10**|**On the origin of permeative flows in cholesteric liquid crystals**|Weichao Zheng et.al.|[2305.06189v1](http://arxiv.org/abs/2305.06189v1)|null|
+|**2023-05-10**|**Anchoring-mediated stick-slip winding of cholesteric liquid crystals**|Weichao Zheng et.al.|[2305.06187v1](http://arxiv.org/abs/2305.06187v1)|null|
+|**2023-05-10**|**Active hydraulics laws from frustration principles**|Camille Jorge et.al.|[2305.06078v1](http://arxiv.org/abs/2305.06078v1)|null|
+|**2023-05-10**|**The bigger the faster: non-monotonous translocation time of polymers across pores**|Emanuele Locatelli et.al.|[2305.06033v1](http://arxiv.org/abs/2305.06033v1)|null|
+|**2023-05-10**|**Simultaneous depletion and adsorption in polymer solutions near a solid wall**|Suzanne Lafon et.al.|[2305.05960v1](http://arxiv.org/abs/2305.05960v1)|null|
+|**2023-05-10**|**Inverse orbital Hall effect and orbitronic terahertz emission observed in the materials with weak spin-orbit coupling**|Ping Wang et.al.|[2305.05830v1](http://arxiv.org/abs/2305.05830v1)|null|
+|**2023-05-09**|**Noncentrosymmetric two-dimensional Weyl semimetals in porous Si/Ge structures**|Emmanuel V. C. Lopes et.al.|[2305.05756v1](http://arxiv.org/abs/2305.05756v1)|null|
 |**2023-05-09**|**Time-reversal and PT symmetry breaking in non-Hermitian field theories**|Thomas Suchanek et.al.|[2305.05633v1](http://arxiv.org/abs/2305.05633v1)|null|
 |**2023-05-09**|**Enhanced fluctuation in heterogeneous chromatic medium emerging by transient-linking activity**|Rakesh Das et.al.|[2305.05521v1](http://arxiv.org/abs/2305.05521v1)|null|
 |**2023-05-09**|**Interaction-motif-based classification of self-organizing metabolic cycles**|Vincent Ouazan-Reboul et.al.|[2305.05472v1](http://arxiv.org/abs/2305.05472v1)|null|
