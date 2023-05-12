@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Fault-tolerant quantum algorithm for symmetry-adapted perturbation theory**|Cristian L. Cortes et.al.|[2305.07009v1](http://arxiv.org/abs/2305.07009v1)|null|
+|**2023-05-11**|**Generalization of nonlinear Murnaghan elastic model for viscoelastic materials**|F. E. Garbuzov et.al.|[2305.06999v1](http://arxiv.org/abs/2305.06999v1)|null|
+|**2023-05-11**|**Neural Wave Functions for Superfluids**|Wan Tong Lou et.al.|[2305.06989v1](http://arxiv.org/abs/2305.06989v1)|null|
+|**2023-05-11**|**Quantum reaction-limited reaction-diffusion dynamics of annihilation processes**|Gabriele Perfetto et.al.|[2305.06944v1](http://arxiv.org/abs/2305.06944v1)|null|
+|**2023-05-11**|**Multiple Types of Unconventional Quasiparticles in Chiral Crystal CsBe $_2$F$_5$**|Xin-Yue Kang et.al.|[2305.06930v1](http://arxiv.org/abs/2305.06930v1)|null|
+|**2023-05-11**|**GHz sample excitation at the ALBA-PEEM**|Muhammad Waqas Khaliq et.al.|[2305.06866v1](http://arxiv.org/abs/2305.06866v1)|null|
+|**2023-05-11**|**Optically Driven Janus Micro Engine with Full Orbital Motion Control**|David Bronte Ciriza et.al.|[2305.06688v1](http://arxiv.org/abs/2305.06688v1)|null|
+|**2023-05-11**|**SPT phases for stacked system and mixed states in one dimension**|Hanyu Xue et.al.|[2305.06589v1](http://arxiv.org/abs/2305.06589v1)|null|
+|**2023-05-11**|**Structure-Dynamics Correlation in Metallic Glass Revealed by 5-Dimensional Scanning Transmission Electron Microscopy**|Katsuaki Nakazawa et.al.|[2305.06521v1](http://arxiv.org/abs/2305.06521v1)|null|
+|**2023-05-10**|**Inverse projection of axisymmetric orientation distributions**|Philipp A. Kloza et.al.|[2305.06433v1](http://arxiv.org/abs/2305.06433v1)|null|
 |**2023-05-10**|**Microscopic theory for hyperuniformity in two-dimensional chiral active fluid**|Yuta Kuroda et.al.|[2305.06298v1](http://arxiv.org/abs/2305.06298v1)|null|
 |**2023-05-10**|**Overcritical Fermi Superfluids**|A. F. Andreev et.al.|[2305.06229v1](http://arxiv.org/abs/2305.06229v1)|null|
 |**2023-05-10**|**Structural lubricity and fractures in liquid crystals**|Weichao Zheng et.al.|[2305.06191v1](http://arxiv.org/abs/2305.06191v1)|null|
@@ -2299,6 +2309,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Anticrossing of a plasmonic nanoresonator mode and a single quantum dot at room temperature**|Daniel Friedrich et.al.|[2305.06909v1](http://arxiv.org/abs/2305.06909v1)|null|
+|**2023-05-11**|**Photo-induced Non-collinear Interlayer RKKY Coupling in Bulk Rashba Semiconductors**|Mahmoud M. Asmar et.al.|[2305.06861v1](http://arxiv.org/abs/2305.06861v1)|null|
+|**2023-05-11**|**Non-thermal superconductivity in photo-doped multi-orbital Hubbard systems**|Sujay Ray et.al.|[2305.06760v1](http://arxiv.org/abs/2305.06760v1)|null|
 |**2023-05-08**|**Coherently amplified ultrafast imaging in a free-electron interferometer**|Tomer Bucher et.al.|[2305.04877v1](http://arxiv.org/abs/2305.04877v1)|null|
 |**2023-05-08**|**Controlling superconducting transistor by coherent light**|Guo-Jian Qiao et.al.|[2305.04442v1](http://arxiv.org/abs/2305.04442v1)|null|
 |**2023-05-02**|**Exciton and light induced ferromagnetism from doping a moiré Mott insulator**|Hui Yang et.al.|[2305.01702v1](http://arxiv.org/abs/2305.01702v1)|null|
