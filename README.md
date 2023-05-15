@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Local geometry and quantum geometric tensor of mixed states**|Xu-Yang Hou et.al.|[2305.07597v1](http://arxiv.org/abs/2305.07597v1)|null|
+|**2023-05-12**|**Anomalous near-equilibrium capillary rise**|Menghua Zhao et.al.|[2305.07420v1](http://arxiv.org/abs/2305.07420v1)|null|
+|**2023-05-12**|**Detecting high-dimensional entanglement in cold-atom quantum simulators**|Niklas Euler et.al.|[2305.07413v1](http://arxiv.org/abs/2305.07413v1)|null|
+|**2023-05-12**|**Frequency Dependent Dewetting of Thin Liquid Films Using External ac Electric Field**|Bidisha Bhatt et.al.|[2305.07387v1](http://arxiv.org/abs/2305.07387v1)|null|
+|**2023-05-12**|**A resource-efficient quantum-classical hybrid algorithm for energy gap evaluation**|Yongdan Yang et.al.|[2305.07382v1](http://arxiv.org/abs/2305.07382v1)|null|
+|**2023-05-12**|**Local measures of fluctuations in inhomogeneous liquids: Statistical mechanics and illustrative applications**|Tobias Eckert et.al.|[2305.07297v1](http://arxiv.org/abs/2305.07297v1)|null|
+|**2023-05-12**|**Dielectric Elastomer Actuator biased by Magnetorheological Elastomer with Permanent Magnet**|Jakub Bernat et.al.|[2305.07282v1](http://arxiv.org/abs/2305.07282v1)|null|
+|**2023-05-12**|**Spin-resolved electronic structure of ferromagnetic triple-layered ruthenate Sr $_4$Ru$_3$O$_{10}$**|Prosper Ngabonziza et.al.|[2305.07222v1](http://arxiv.org/abs/2305.07222v1)|null|
+|**2023-05-11**|**Pattern formation under mechanical stress in active biological networks confined inside evaporating droplets**|Vahid Nasirimarekani et.al.|[2305.07099v1](http://arxiv.org/abs/2305.07099v1)|null|
 |**2023-05-11**|**Fault-tolerant quantum algorithm for symmetry-adapted perturbation theory**|Cristian L. Cortes et.al.|[2305.07009v1](http://arxiv.org/abs/2305.07009v1)|null|
 |**2023-05-11**|**Generalization of nonlinear Murnaghan elastic model for viscoelastic materials**|F. E. Garbuzov et.al.|[2305.06999v1](http://arxiv.org/abs/2305.06999v1)|null|
 |**2023-05-11**|**Neural Wave Functions for Superfluids**|Wan Tong Lou et.al.|[2305.06989v1](http://arxiv.org/abs/2305.06989v1)|null|
@@ -2309,6 +2318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Light-induced insulator-metal transition in Sr $_2$IrO$_4$ reveals the nature of the insulating ground state**|Dongsung Choi et.al.|[2305.07619v1](http://arxiv.org/abs/2305.07619v1)|null|
 |**2023-05-11**|**Anticrossing of a plasmonic nanoresonator mode and a single quantum dot at room temperature**|Daniel Friedrich et.al.|[2305.06909v1](http://arxiv.org/abs/2305.06909v1)|null|
 |**2023-05-11**|**Photo-induced Non-collinear Interlayer RKKY Coupling in Bulk Rashba Semiconductors**|Mahmoud M. Asmar et.al.|[2305.06861v1](http://arxiv.org/abs/2305.06861v1)|null|
 |**2023-05-11**|**Non-thermal superconductivity in photo-doped multi-orbital Hubbard systems**|Sujay Ray et.al.|[2305.06760v1](http://arxiv.org/abs/2305.06760v1)|null|
