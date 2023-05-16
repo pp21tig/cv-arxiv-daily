@@ -1098,6 +1098,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**A finite element implementation of finite deformation surface and bulk poroelasticity**|Jaemin Kim et.al.|[2305.08805v1](http://arxiv.org/abs/2305.08805v1)|null|
+|**2023-05-15**|**Theory of electrolyte solutions in a slit charged pore: effects of structural interactions and specific adsorption of ions**|Victoria A. Vasileva et.al.|[2305.08717v1](http://arxiv.org/abs/2305.08717v1)|null|
+|**2023-05-15**|**Synthesis and physical properties of Ce $_2$Rh$_{3+δ}$Sb$_4$ single crystals**|Kangqiao Cheng et.al.|[2305.08669v1](http://arxiv.org/abs/2305.08669v1)|null|
+|**2023-05-15**|**Quantum Monte Carlo study of Doppler broadening of positron annihilation radiation in semiconductors and insulators**|Kristoffer Simula et.al.|[2305.08602v1](http://arxiv.org/abs/2305.08602v1)|null|
+|**2023-05-15**|**Prediction of the liquid-crystal phase behavior of hard right triangles from fourth-virial DFT theories**|Enrique Velasco et.al.|[2305.08545v1](http://arxiv.org/abs/2305.08545v1)|null|
+|**2023-05-15**|**Brillouin Klein space and half-turn space in three-dimensional acoustic crystals**|Zhenxiao Zhu et.al.|[2305.08450v1](http://arxiv.org/abs/2305.08450v1)|null|
+|**2023-05-15**|**Active adaptolates: motility-induced percolating structures with an adaptive packing geometry**|Aritra K. Mukhopadhyay et.al.|[2305.08438v1](http://arxiv.org/abs/2305.08438v1)|null|
+|**2023-05-15**|**Energy dissipation of a sphere rolling up a granular slope: slip and deformation of granular surface**|Takeshi Fukumoto et.al.|[2305.08430v1](http://arxiv.org/abs/2305.08430v1)|null|
+|**2023-05-15**|**Generalized Three-Sphere Microswimmers**|Kento Yasuda et.al.|[2305.08411v1](http://arxiv.org/abs/2305.08411v1)|null|
+|**2023-05-15**|**Integrated bioelectronic proton-gated logic elements utilizing nanoscale patterned Nafion**|J. G. Gluschke et.al.|[2305.08312v1](http://arxiv.org/abs/2305.08312v1)|null|
+|**2023-05-14**|**The distinguishable-particle lattice model of glasses in three dimensions**|Bo Li et.al.|[2305.08154v1](http://arxiv.org/abs/2305.08154v1)|null|
+|**2023-05-14**|**Group velocity and energy propagation in a dielectric medium supporting magnetic current**|Pedro D. S. Silva et.al.|[2305.08153v1](http://arxiv.org/abs/2305.08153v1)|null|
+|**2023-05-14**|**Quantum-Enhanced Metrology in Cavity Magnomechanics**|Qing-Kun Wan et.al.|[2305.08045v1](http://arxiv.org/abs/2305.08045v1)|null|
+|**2023-05-13**|**Disordering two-dimensional magnet-particle configurations using bidispersity**|K. Tsuchikusa et.al.|[2305.07821v1](http://arxiv.org/abs/2305.07821v1)|null|
+|**2023-05-12**|**On Ultrafast X-ray Methods for Magnetism**|Rajan Plumley et.al.|[2305.07787v1](http://arxiv.org/abs/2305.07787v1)|null|
+|**2023-05-12**|**Rationalizing Euclidean Assemblies of Hard Polyhedra from Tessellations in Curved Space**|Philipp W. A. Schönhöfer et.al.|[2305.07786v1](http://arxiv.org/abs/2305.07786v1)|null|
+|**2023-05-12**|**Entropic stress of grafted polymer chains in shear flow**|Jan Mees et.al.|[2305.07737v1](http://arxiv.org/abs/2305.07737v1)|null|
+|**2023-05-12**|**Chiral nematic and fluctuation-induced first-order phase transitions in AB-stacked kagome bilayers**|A. Zelenskiy et.al.|[2305.07726v1](http://arxiv.org/abs/2305.07726v1)|null|
+|**2023-05-12**|**Transport of particles through RO membrane in steady state condition**|Rahul Karmakar et.al.|[2305.07711v1](http://arxiv.org/abs/2305.07711v1)|null|
 |**2023-05-12**|**Local geometry and quantum geometric tensor of mixed states**|Xu-Yang Hou et.al.|[2305.07597v1](http://arxiv.org/abs/2305.07597v1)|null|
 |**2023-05-12**|**Anomalous near-equilibrium capillary rise**|Menghua Zhao et.al.|[2305.07420v1](http://arxiv.org/abs/2305.07420v1)|null|
 |**2023-05-12**|**Detecting high-dimensional entanglement in cold-atom quantum simulators**|Niklas Euler et.al.|[2305.07413v1](http://arxiv.org/abs/2305.07413v1)|null|
@@ -2318,6 +2337,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**A photo-mechanical coupling theory for photoisomerization hydrogel considering the distribution state of molecular chains**|Xinyu Liu et.al.|[2305.08370v1](http://arxiv.org/abs/2305.08370v1)|null|
 |**2023-05-12**|**Light-induced insulator-metal transition in Sr $_2$IrO$_4$ reveals the nature of the insulating ground state**|Dongsung Choi et.al.|[2305.07619v1](http://arxiv.org/abs/2305.07619v1)|null|
 |**2023-05-11**|**Anticrossing of a plasmonic nanoresonator mode and a single quantum dot at room temperature**|Daniel Friedrich et.al.|[2305.06909v1](http://arxiv.org/abs/2305.06909v1)|null|
 |**2023-05-11**|**Photo-induced Non-collinear Interlayer RKKY Coupling in Bulk Rashba Semiconductors**|Mahmoud M. Asmar et.al.|[2305.06861v1](http://arxiv.org/abs/2305.06861v1)|null|
@@ -2399,6 +2419,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Excitation and control of quantum well nanostructures by unipolar half-cycle attosecond pulses**|Rostislav Arkhipov et.al.|[2305.07800v1](http://arxiv.org/abs/2305.07800v1)|null|
 |**2023-05-05**|**Nonlinear terahertz Néel spin-orbit torques in antiferromagnetic Mn $_2$ Au**|Yannic Behovits et.al.|[2305.03368v1](http://arxiv.org/abs/2305.03368v1)|null|
 |**2023-05-04**|**Effective rectification of THz electromagnetic fields in a ferrimagnetic iron garnet**|T. G. H. Blank et.al.|[2305.02971v1](http://arxiv.org/abs/2305.02971v1)|null|
 |**2023-04-04**|**Online Joint Assortment-Inventory Optimization under MNL Choices**|Yong Liang et.al.|[2304.02022v1](http://arxiv.org/abs/2304.02022v1)|null|
@@ -2485,6 +2506,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Order parameter dynamics in Mn $_3$ Sn driven by DC and pulsed spin-orbit torques**|Ankit Shukla et.al.|[2305.08728v1](http://arxiv.org/abs/2305.08728v1)|null|
 |**2023-05-08**|**Charge density wave induced anomalous Hall effect in kagome ScV6Sn6**|Changjiang Yi et.al.|[2305.04683v1](http://arxiv.org/abs/2305.04683v1)|null|
 |**2023-05-05**|**X-ray Magnetic Circular Dichroism in Altermagnetic $α$ -MnTe**|A. Hariki et.al.|[2305.03588v1](http://arxiv.org/abs/2305.03588v1)|null|
 |**2023-05-04**|**Experimental observation of spin glass state in highly disordered quaternary Heusler alloy FeRuMnGa**|Shuvankar Gupta et.al.|[2305.03093v1](http://arxiv.org/abs/2305.03093v1)|null|
