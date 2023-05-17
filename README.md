@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Emergent structural correlations in dense liquids**|Ilian Pihlajamaa et.al.|[2305.09357v1](http://arxiv.org/abs/2305.09357v1)|null|
+|**2023-05-16**|**A geometric probabilistic approach to random packing of disks in a plane**|H. J. H. Brouwers et.al.|[2305.09320v1](http://arxiv.org/abs/2305.09320v1)|null|
+|**2023-05-16**|**Mechanism for giant enhancement of transport induced by active fluctuations**|Karol Białas et.al.|[2305.09283v1](http://arxiv.org/abs/2305.09283v1)|null|
+|**2023-05-16**|**Wang tiles enable combinatorial design and robot-assisted manufacturing of modular mechanical metamaterials**|Martin Doškář et.al.|[2305.09280v1](http://arxiv.org/abs/2305.09280v1)|null|
+|**2023-05-16**|**Diffusion of intruders in granular suspensions: Enskog theory and random walk interpretation**|Rubén Gómez González et.al.|[2305.09259v1](http://arxiv.org/abs/2305.09259v1)|null|
+|**2023-05-16**|**Non-Hermitian Casimir Effect of Magnons**|Kouki Nakata et.al.|[2305.09231v1](http://arxiv.org/abs/2305.09231v1)|null|
+|**2023-05-16**|**Activity-induced asymmetric dispersion in confined channels with constriction**|Armin Maleki et.al.|[2305.09162v1](http://arxiv.org/abs/2305.09162v1)|null|
+|**2023-05-16**|**Charge fluctuations in charge regulated systems: dependence on statistical ensemble**|Amin Bakhshandeh et.al.|[2305.09080v1](http://arxiv.org/abs/2305.09080v1)|null|
+|**2023-05-16**|**Magnon Hall effect in antiferromagnetic lattices**|P. G. de Oliveira et.al.|[2305.09077v1](http://arxiv.org/abs/2305.09077v1)|null|
+|**2023-05-15**|**First order phase transitions within Weyl type of materials at low temperatures**|Y. M. P. Gomes et.al.|[2305.09007v1](http://arxiv.org/abs/2305.09007v1)|null|
+|**2023-05-15**|**Exponential Integrators for Phase-Field Equations using Pseudo-spectral Methods: A Python Implementation**|Elvis do A. Soares et.al.|[2305.08998v1](http://arxiv.org/abs/2305.08998v1)|null|
+|**2023-05-15**|**Comment on "Simulations of ionization equilibria in weak polyelectrolyte solutions and gels" by J. Landsgesell, L. Nová, O. Rud, F. Uhlík, D. Sean, P. Hebbeker, C. Holm and P. Ko\v sovan, Soft Matter, 2019,15, 1155-1185**|Yan Levin et.al.|[2305.08965v1](http://arxiv.org/abs/2305.08965v1)|null|
+|**2023-05-15**|**The connection between nonzero density and spontaneous symmetry breaking for interacting scalars**|Alberto Nicolis et.al.|[2305.08896v1](http://arxiv.org/abs/2305.08896v1)|null|
 |**2023-05-15**|**A finite element implementation of finite deformation surface and bulk poroelasticity**|Jaemin Kim et.al.|[2305.08805v1](http://arxiv.org/abs/2305.08805v1)|null|
 |**2023-05-15**|**Theory of electrolyte solutions in a slit charged pore: effects of structural interactions and specific adsorption of ions**|Victoria A. Vasileva et.al.|[2305.08717v1](http://arxiv.org/abs/2305.08717v1)|null|
 |**2023-05-15**|**Synthesis and physical properties of Ce $_2$Rh$_{3+δ}$Sb$_4$ single crystals**|Kangqiao Cheng et.al.|[2305.08669v1](http://arxiv.org/abs/2305.08669v1)|null|
@@ -2506,6 +2519,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Ambient and high-pressure electrical transport and structural investigations of magnetic Weyl semimetal PrAlGe**|U. Dutta et.al.|[2305.09298v1](http://arxiv.org/abs/2305.09298v1)|null|
+|**2023-05-16**|**Unconventional anomalous Hall effect in epitaxially stabilized orthorhombic Ru $^{3+}$ perovskite thin films**|L. -F. Zhang et.al.|[2305.09201v1](http://arxiv.org/abs/2305.09201v1)|null|
+|**2023-05-16**|**Gate-tunable multiband transport in ZrTe5 thin devices**|Yonghe Liu et.al.|[2305.09119v1](http://arxiv.org/abs/2305.09119v1)|null|
+|**2023-05-16**|**Measurement of the Dzyaloshinskii-Moriya Interaction in Mn4N Films that Host Skyrmions**|Wei Zhou et.al.|[2305.09087v1](http://arxiv.org/abs/2305.09087v1)|null|
 |**2023-05-15**|**Order parameter dynamics in Mn $_3$ Sn driven by DC and pulsed spin-orbit torques**|Ankit Shukla et.al.|[2305.08728v1](http://arxiv.org/abs/2305.08728v1)|null|
 |**2023-05-08**|**Charge density wave induced anomalous Hall effect in kagome ScV6Sn6**|Changjiang Yi et.al.|[2305.04683v1](http://arxiv.org/abs/2305.04683v1)|null|
 |**2023-05-05**|**X-ray Magnetic Circular Dichroism in Altermagnetic $α$ -MnTe**|A. Hariki et.al.|[2305.03588v1](http://arxiv.org/abs/2305.03588v1)|null|
