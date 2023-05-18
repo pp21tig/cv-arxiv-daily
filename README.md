@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**Synthesis of stable cerium oxide nanoparticles coated with phosphonic acid-based functional polymers**|Ameni Dhouib et.al.|[2305.10179v1](http://arxiv.org/abs/2305.10179v1)|null|
+|**2023-05-17**|**Antibubbles enable tunable payload release with low-intensity ultrasound**|Nicolas Moreno-Gomez et.al.|[2305.10141v1](http://arxiv.org/abs/2305.10141v1)|null|
+|**2023-05-17**|**Formation of Tesseract Time Crystals on a Quantum Computer**|Christopher Sims et.al.|[2305.09872v1](http://arxiv.org/abs/2305.09872v1)|null|
+|**2023-05-16**|**On the universality class of the special adsorption point of two-dimensional lattice polymers**|Nathann T. Rodrigues et.al.|[2305.09803v1](http://arxiv.org/abs/2305.09803v1)|null|
+|**2023-05-16**|**Active-matter isomorphs in the size-polydisperse Ornstein-Uhlenbeck Lennard-Jones model**|Daniel Jespersen et.al.|[2305.09801v1](http://arxiv.org/abs/2305.09801v1)|null|
+|**2023-05-16**|**Ice Rule Breakdown and frustrated antiferrotoroidicity in an artificial colloidal Cairo ice**|Carolina Rodríguez-Gallo et.al.|[2305.09769v1](http://arxiv.org/abs/2305.09769v1)|null|
+|**2023-05-16**|**Mechanical complexity of living cells can be mapped onto simple homogeneous equivalents**|Sebastian Wohlrab et.al.|[2305.09755v1](http://arxiv.org/abs/2305.09755v1)|null|
 |**2023-05-16**|**Emergent structural correlations in dense liquids**|Ilian Pihlajamaa et.al.|[2305.09357v1](http://arxiv.org/abs/2305.09357v1)|null|
 |**2023-05-16**|**A geometric probabilistic approach to random packing of disks in a plane**|H. J. H. Brouwers et.al.|[2305.09320v1](http://arxiv.org/abs/2305.09320v1)|null|
 |**2023-05-16**|**Mechanism for giant enhancement of transport induced by active fluctuations**|Karol Białas et.al.|[2305.09283v1](http://arxiv.org/abs/2305.09283v1)|null|
@@ -2519,6 +2526,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Spin scattering and Hall effects in monolayer Fe3GeTe2**|Luyan Yu et.al.|[2305.09743v1](http://arxiv.org/abs/2305.09743v1)|null|
 |**2023-05-16**|**Ambient and high-pressure electrical transport and structural investigations of magnetic Weyl semimetal PrAlGe**|U. Dutta et.al.|[2305.09298v1](http://arxiv.org/abs/2305.09298v1)|null|
 |**2023-05-16**|**Unconventional anomalous Hall effect in epitaxially stabilized orthorhombic Ru $^{3+}$ perovskite thin films**|L. -F. Zhang et.al.|[2305.09201v1](http://arxiv.org/abs/2305.09201v1)|null|
 |**2023-05-16**|**Gate-tunable multiband transport in ZrTe5 thin devices**|Yonghe Liu et.al.|[2305.09119v1](http://arxiv.org/abs/2305.09119v1)|null|
