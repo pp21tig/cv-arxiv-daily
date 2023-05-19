@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Active matter under control: Insights from response theory**|Luke K. Davis et.al.|[2305.11078v1](http://arxiv.org/abs/2305.11078v1)|null|
+|**2023-05-18**|**Crossover from viscous fingering to fracturing in cohesive wet granular media: a photoporomechanics study**|Yue Meng et.al.|[2305.11037v1](http://arxiv.org/abs/2305.11037v1)|null|
+|**2023-05-18**|**Sizing multimodal suspensions with differential dynamic microscopy**|Joe J Bradley et.al.|[2305.11018v1](http://arxiv.org/abs/2305.11018v1)|null|
+|**2023-05-18**|**Curvature effects in interfacial acidity of amphiphilic vesicles**|Petch Khunpetch et.al.|[2305.10981v1](http://arxiv.org/abs/2305.10981v1)|null|
+|**2023-05-18**|**Extreme flow simulations reveal skeletal adaptations of deep-sea sponges**|Giacomo Falcucci et.al.|[2305.10901v1](http://arxiv.org/abs/2305.10901v1)|null|
+|**2023-05-18**|**Bidisperse ring polymers: topological glass to stacking**|Projesh Kumar Roy et.al.|[2305.10812v1](http://arxiv.org/abs/2305.10812v1)|null|
+|**2023-05-17**|**Quantum tunneling and level crossings in the squeeze-driven Kerr oscillator**|Miguel A. Prado Reynoso et.al.|[2305.10483v1](http://arxiv.org/abs/2305.10483v1)|null|
 |**2023-05-17**|**Synthesis of stable cerium oxide nanoparticles coated with phosphonic acid-based functional polymers**|Ameni Dhouib et.al.|[2305.10179v1](http://arxiv.org/abs/2305.10179v1)|null|
 |**2023-05-17**|**Antibubbles enable tunable payload release with low-intensity ultrasound**|Nicolas Moreno-Gomez et.al.|[2305.10141v1](http://arxiv.org/abs/2305.10141v1)|null|
 |**2023-05-17**|**Formation of Tesseract Time Crystals on a Quantum Computer**|Christopher Sims et.al.|[2305.09872v1](http://arxiv.org/abs/2305.09872v1)|null|
