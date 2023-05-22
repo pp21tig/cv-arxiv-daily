@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Learning Knots Beyond Topological Invariants**|Joseph Lahoud Sleiman et.al.|[2305.11722v1](http://arxiv.org/abs/2305.11722v1)|null|
+|**2023-05-19**|**On the validity of the bipolaron model for undoped and AlCl4- doped PEDOT**|Ben Craig et.al.|[2305.11720v1](http://arxiv.org/abs/2305.11720v1)|null|
+|**2023-05-19**|**Orientation distributions of vacuum-deposited organic emitters revealed by single-molecule microscopy**|Francisco Tenopala-Carmona et.al.|[2305.11572v1](http://arxiv.org/abs/2305.11572v1)|null|
+|**2023-05-19**|**Emergent room-temperature ferroelectricity in spark-plasma sintered DyCrO $_3$ and LaCrO$_3$**|Suryakanta Mishra et.al.|[2305.11546v1](http://arxiv.org/abs/2305.11546v1)|null|
+|**2023-05-19**|**Diffusiophoresis-Enhanced Turing Patterns**|Benjamin M. Alessio et.al.|[2305.11372v1](http://arxiv.org/abs/2305.11372v1)|null|
+|**2023-05-19**|**Estimating relaxation times from a single trajectory**|Takuma Akimoto et.al.|[2305.11357v1](http://arxiv.org/abs/2305.11357v1)|null|
+|**2023-05-19**|**Pyrovskite: A software package for the high throughput construction, analysis, and featurization of two- and three-dimensional perovskite systems**|Robert Stanton et.al.|[2305.11354v1](http://arxiv.org/abs/2305.11354v1)|null|
+|**2023-05-18**|**Nanoscale magnetic domains in polycrystalline Mn3Sn films imaged by a scanning single-spin magnetometer**|Senlei Li et.al.|[2305.11343v1](http://arxiv.org/abs/2305.11343v1)|null|
+|**2023-05-18**|**Kinetic Pathway and Micromechanics of Vesicle Fusion/Fission**|Luofu Liu et.al.|[2305.11270v1](http://arxiv.org/abs/2305.11270v1)|null|
+|**2023-05-18**|**Energy dissipation in high speed impact on granular media**|Manish Kumar Mandal et.al.|[2305.11269v1](http://arxiv.org/abs/2305.11269v1)|null|
+|**2023-05-18**|**Dipole Screening in Pure Shear Strain Protocols of Amorphous Solids**|Chandana Mondal et.al.|[2305.11253v1](http://arxiv.org/abs/2305.11253v1)|null|
 |**2023-05-18**|**Active matter under control: Insights from response theory**|Luke K. Davis et.al.|[2305.11078v1](http://arxiv.org/abs/2305.11078v1)|null|
 |**2023-05-18**|**Crossover from viscous fingering to fracturing in cohesive wet granular media: a photoporomechanics study**|Yue Meng et.al.|[2305.11037v1](http://arxiv.org/abs/2305.11037v1)|null|
 |**2023-05-18**|**Sizing multimodal suspensions with differential dynamic microscopy**|Joe J Bradley et.al.|[2305.11018v1](http://arxiv.org/abs/2305.11018v1)|null|
@@ -2364,6 +2375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Photocatalytic Properties of Anisotropic $β$-PtX$_2$ (X= S, Se) and Janus $β$ -PtSSe monolayers**|Pooja Jamdagni et.al.|[2305.11600v1](http://arxiv.org/abs/2305.11600v1)|null|
 |**2023-05-15**|**A photo-mechanical coupling theory for photoisomerization hydrogel considering the distribution state of molecular chains**|Xinyu Liu et.al.|[2305.08370v1](http://arxiv.org/abs/2305.08370v1)|null|
 |**2023-05-12**|**Light-induced insulator-metal transition in Sr $_2$IrO$_4$ reveals the nature of the insulating ground state**|Dongsung Choi et.al.|[2305.07619v1](http://arxiv.org/abs/2305.07619v1)|null|
 |**2023-05-11**|**Anticrossing of a plasmonic nanoresonator mode and a single quantum dot at room temperature**|Daniel Friedrich et.al.|[2305.06909v1](http://arxiv.org/abs/2305.06909v1)|null|
@@ -2533,6 +2545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Unraveling the magnetic structure of YbNiSn single crystal via crystal growth and neutron diffraction**|Hung-Cheng Wu et.al.|[2305.11542v1](http://arxiv.org/abs/2305.11542v1)|null|
 |**2023-05-16**|**Spin scattering and Hall effects in monolayer Fe3GeTe2**|Luyan Yu et.al.|[2305.09743v1](http://arxiv.org/abs/2305.09743v1)|null|
 |**2023-05-16**|**Ambient and high-pressure electrical transport and structural investigations of magnetic Weyl semimetal PrAlGe**|U. Dutta et.al.|[2305.09298v1](http://arxiv.org/abs/2305.09298v1)|null|
 |**2023-05-16**|**Unconventional anomalous Hall effect in epitaxially stabilized orthorhombic Ru $^{3+}$ perovskite thin films**|L. -F. Zhang et.al.|[2305.09201v1](http://arxiv.org/abs/2305.09201v1)|null|
