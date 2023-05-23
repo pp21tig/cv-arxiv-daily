@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**An FFT-based framework for predicting corrosion-driven damage in fractal porous media**|Mohit Pundir et.al.|[2305.13081v1](http://arxiv.org/abs/2305.13081v1)|null|
+|**2023-05-22**|**Interplay between finite thickness and chirality effects on the Casimir-Lifshitz torque with nematic cholesteric liquid crystals**|Wijnand Broer et.al.|[2305.13011v1](http://arxiv.org/abs/2305.13011v1)|null|
+|**2023-05-22**|**Quantifying `local softness' in a simple liquid**|Tamoghna Das et.al.|[2305.12931v1](http://arxiv.org/abs/2305.12931v1)|null|
+|**2023-05-22**|**What do the fast dynamics tell us about aggregation?**|Tamoghna Das et.al.|[2305.12915v1](http://arxiv.org/abs/2305.12915v1)|null|
+|**2023-05-22**|**Simulation study of integral equation theory for dipolar density interacting disks**|Elena Rufeil Fiori et.al.|[2305.12910v1](http://arxiv.org/abs/2305.12910v1)|null|
+|**2023-05-22**|**Thin Pyramidal Cones in Nematic Liquid Crystal**|Seyed Reza Seyednejad et.al.|[2305.12797v1](http://arxiv.org/abs/2305.12797v1)|null|
+|**2023-05-22**|**Epithelial layer fluidization by curvature-induced unjamming**|Margherita De Marzio et.al.|[2305.12667v1](http://arxiv.org/abs/2305.12667v1)|null|
+|**2023-05-21**|**Active dislocations and topological traps govern dynamics of spiraling filamentous cyanobacteria**|Xingting Gong et.al.|[2305.12572v1](http://arxiv.org/abs/2305.12572v1)|null|
+|**2023-05-21**|**Small-data global existence of solutions for the Pitaevskii model of superfluidity**|Juhi Jang et.al.|[2305.12496v1](http://arxiv.org/abs/2305.12496v1)|null|
+|**2023-05-20**|**Non-Abelian physics in light and sound**|Yi Yang et.al.|[2305.12206v1](http://arxiv.org/abs/2305.12206v1)|null|
+|**2023-05-20**|**Robust Myco-Composites as a Platform for Versatile Hybrid-Living Structural Materials**|Sabrina C. Shen et.al.|[2305.12151v1](http://arxiv.org/abs/2305.12151v1)|null|
+|**2023-05-19**|**Even spheres as joint spectra of matrix models**|Alexander Cerjan et.al.|[2305.12026v1](http://arxiv.org/abs/2305.12026v1)|null|
+|**2023-05-19**|**Cooperative rheological state-switching of enzymatically-driven composites of circular DNA and dextran**|Juexin Marfai et.al.|[2305.11987v1](http://arxiv.org/abs/2305.11987v1)|null|
 |**2023-05-19**|**Learning Knots Beyond Topological Invariants**|Joseph Lahoud Sleiman et.al.|[2305.11722v1](http://arxiv.org/abs/2305.11722v1)|null|
 |**2023-05-19**|**On the validity of the bipolaron model for undoped and AlCl4- doped PEDOT**|Ben Craig et.al.|[2305.11720v1](http://arxiv.org/abs/2305.11720v1)|null|
 |**2023-05-19**|**Orientation distributions of vacuum-deposited organic emitters revealed by single-molecule microscopy**|Francisco Tenopala-Carmona et.al.|[2305.11572v1](http://arxiv.org/abs/2305.11572v1)|null|
