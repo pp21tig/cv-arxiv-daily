@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Effect of speed fluctuations on the collective dynamics of active disks**|R. Kailasham et.al.|[2305.14340v1](http://arxiv.org/abs/2305.14340v1)|null|
+|**2023-05-23**|**Unbiasing time-dependent Variational Monte Carlo by projected quantum evolution**|Alessandro Sinibaldi et.al.|[2305.14294v1](http://arxiv.org/abs/2305.14294v1)|**[link](https://github.com/netket/netket_fidelity)**|
+|**2023-05-23**|**Combined funnel, concentrator, and particle valve functional element for magnetophoretic bead transport based on engineered magnetic domain patterns**|Rico Huhnstock et.al.|[2305.14278v1](http://arxiv.org/abs/2305.14278v1)|null|
+|**2023-05-23**|**Structure Formation of Amphiphilic Nanocubes at Rest and Under Shear**|Takahiro Yokoyama et.al.|[2305.14172v1](http://arxiv.org/abs/2305.14172v1)|null|
+|**2023-05-23**|**Event-Based Monte Carlo Method for Long-range Interacting Systems**|Zhijie Fan et.al.|[2305.14082v1](http://arxiv.org/abs/2305.14082v1)|null|
+|**2023-05-23**|**Generation of electric current by magnetic field at the boundary: quantum scale anomaly vs. semiclassical Meissner current**|M. N. Chernodub et.al.|[2305.14033v1](http://arxiv.org/abs/2305.14033v1)|null|
+|**2023-05-23**|**Scaling relations between viscosity and diffusivity in shear-thickening suspensions**|Abhinendra Singh et.al.|[2305.14030v1](http://arxiv.org/abs/2305.14030v1)|null|
+|**2023-05-23**|**Alignment interaction and band formation in assemblies of auto-chemorepulsive walkers**|Hugues Meyer et.al.|[2305.14011v1](http://arxiv.org/abs/2305.14011v1)|null|
+|**2023-05-23**|**Open system approach to Neutrino oscillations in a quantum walk framework**|Himanshu Sahu et.al.|[2305.13923v1](http://arxiv.org/abs/2305.13923v1)|null|
+|**2023-05-23**|**Hidden hierarchy in the rheology of dense suspensions**|Abhinendra Singh et.al.|[2305.13586v1](http://arxiv.org/abs/2305.13586v1)|null|
+|**2023-05-22**|**Swarmodroid 1.0: A Modular Bristle-Bot Platform for Robotic Active Matter Studies**|Alexey A. Dmitriev et.al.|[2305.13510v1](http://arxiv.org/abs/2305.13510v1)|null|
+|**2023-05-22**|**The local structure organization and dynamics in lithium borate ionic liquids using molecular dynamics simulation**|Volodymyr Koverga et.al.|[2305.13473v1](http://arxiv.org/abs/2305.13473v1)|null|
+|**2023-05-22**|**Anomalous tumbling of colloidal ellipsoids in Poiseuille flows**|Lauren E. Altman et.al.|[2305.13435v1](http://arxiv.org/abs/2305.13435v1)|null|
 |**2023-05-22**|**An FFT-based framework for predicting corrosion-driven damage in fractal porous media**|Mohit Pundir et.al.|[2305.13081v1](http://arxiv.org/abs/2305.13081v1)|null|
 |**2023-05-22**|**Interplay between finite thickness and chirality effects on the Casimir-Lifshitz torque with nematic cholesteric liquid crystals**|Wijnand Broer et.al.|[2305.13011v1](http://arxiv.org/abs/2305.13011v1)|null|
 |**2023-05-22**|**Quantifying `local softness' in a simple liquid**|Tamoghna Das et.al.|[2305.12931v1](http://arxiv.org/abs/2305.12931v1)|null|
@@ -2506,6 +2519,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Spontaneous spin selectivity and linear magnetoelectric effect in chiral molecules**|Kouta Kondou et.al.|[2305.13702v1](http://arxiv.org/abs/2305.13702v1)|null|
+|**2023-05-23**|**Current-driven motion of magnetic topological defects in ferromagnetic superconductors**|Se Kwon Kim et.al.|[2305.13564v1](http://arxiv.org/abs/2305.13564v1)|null|
 |**2023-05-06**|**Field-Free Spin-Orbit Torque driven Switching of Perpendicular Magnetic Tunnel Junction through Bending Current**|Vaishnavi Kateel et.al.|[2305.03961v1](http://arxiv.org/abs/2305.03961v1)|null|
 |**2023-04-23**|**Diversity of Radial Spin Textures in Chiral Materials**|Daniel Gosálbez-Martínez et.al.|[2304.11650v1](http://arxiv.org/abs/2304.11650v1)|null|
 |**2023-04-20**|**Quantized Hall current in topological nodal-line semimetal**|Po-Hsin Shih et.al.|[2304.10463v1](http://arxiv.org/abs/2304.10463v1)|null|
@@ -2558,6 +2573,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Superlattice Engineering of Topology in Massive Dirac Fermions**|Nishchay Suri et.al.|[2305.13522v1](http://arxiv.org/abs/2305.13522v1)|null|
 |**2023-05-19**|**Unraveling the magnetic structure of YbNiSn single crystal via crystal growth and neutron diffraction**|Hung-Cheng Wu et.al.|[2305.11542v1](http://arxiv.org/abs/2305.11542v1)|null|
 |**2023-05-16**|**Spin scattering and Hall effects in monolayer Fe3GeTe2**|Luyan Yu et.al.|[2305.09743v1](http://arxiv.org/abs/2305.09743v1)|null|
 |**2023-05-16**|**Ambient and high-pressure electrical transport and structural investigations of magnetic Weyl semimetal PrAlGe**|U. Dutta et.al.|[2305.09298v1](http://arxiv.org/abs/2305.09298v1)|null|
