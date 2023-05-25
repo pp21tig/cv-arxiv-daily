@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Clusters of microparticles in distilled water: a kaleidoscope of versions and paradoxes of nature (Review)**|Tatyana Yakhno et.al.|[2305.15384v1](http://arxiv.org/abs/2305.15384v1)|null|
+|**2023-05-24**|**Lorentz Reciprocal Theorem in Fluids with Odd Viscosity**|Yuto Hosaka et.al.|[2305.15379v1](http://arxiv.org/abs/2305.15379v1)|null|
+|**2023-05-24**|**Grafting heterogeneities rule water intrusion and extrusion in nanopores**|Sonia Cambiaso et.al.|[2305.15250v1](http://arxiv.org/abs/2305.15250v1)|null|
+|**2023-05-24**|**Topological defects reveal the plasticity of glasses**|Matteo Baggioli et.al.|[2305.15226v1](http://arxiv.org/abs/2305.15226v1)|null|
+|**2023-05-24**|**Defect turbulence in a dense suspension of polar, active swimmers**|Navdeep Rana et.al.|[2305.15197v1](http://arxiv.org/abs/2305.15197v1)|null|
+|**2023-05-24**|**An atomistically informed multiscale approach to the intrusion and extrusion of water in hydrophobic nanopores**|Gonçalo Paulo et.al.|[2305.15122v1](http://arxiv.org/abs/2305.15122v1)|null|
+|**2023-05-24**|**Experimental Verification of Many-Body Entanglement Using Thermodynamic Quantities**|Jitendra Joshi et.al.|[2305.15012v1](http://arxiv.org/abs/2305.15012v1)|null|
+|**2023-05-24**|**Photo-activated dynamic isomerization induced large density changes in liquid crystal polymers: A molecular dynamics study**|Akhil Reddy Peeketi et.al.|[2305.14990v1](http://arxiv.org/abs/2305.14990v1)|null|
+|**2023-05-24**|**Defect-Defect Interactions in the Buckling of Imperfect Spherical Shells**|Fani Derveni et.al.|[2305.14932v1](http://arxiv.org/abs/2305.14932v1)|null|
+|**2023-05-24**|**Topological Phases in Magnonics: A Review**|Fengjun Zhuo et.al.|[2305.14861v1](http://arxiv.org/abs/2305.14861v1)|null|
+|**2023-05-24**|**Phases of 4He and H2 adsorbed on a single carbon nanotube**|M. C. Gordillo et.al.|[2305.14774v1](http://arxiv.org/abs/2305.14774v1)|null|
+|**2023-05-24**|**Novel force field of [Bmim][Nf $_2$ T] and its tranferability in a mixture with water**|Raúl Fuentes-Azcatl et.al.|[2305.14769v1](http://arxiv.org/abs/2305.14769v1)|null|
+|**2023-05-24**|**Investigation of the atomic coordinates of CeNiC $_2$ under pressure: switching of the Ce-Ce first nearest neighbor direction**|Hanming Ma et.al.|[2305.14743v1](http://arxiv.org/abs/2305.14743v1)|null|
+|**2023-05-24**|**Scattering Evidence of Positional Charge Correlations in Polyelectrolyte Complexes**|Yan Fang et.al.|[2305.14697v1](http://arxiv.org/abs/2305.14697v1)|null|
+|**2023-05-24**|**Statistical mechanics of nanotubes**|Siddhartha Sarkar et.al.|[2305.14602v1](http://arxiv.org/abs/2305.14602v1)|null|
 |**2023-05-23**|**Effect of speed fluctuations on the collective dynamics of active disks**|R. Kailasham et.al.|[2305.14340v1](http://arxiv.org/abs/2305.14340v1)|null|
 |**2023-05-23**|**Unbiasing time-dependent Variational Monte Carlo by projected quantum evolution**|Alessandro Sinibaldi et.al.|[2305.14294v1](http://arxiv.org/abs/2305.14294v1)|**[link](https://github.com/netket/netket_fidelity)**|
 |**2023-05-23**|**Combined funnel, concentrator, and particle valve functional element for magnetophoretic bead transport based on engineered magnetic domain patterns**|Rico Huhnstock et.al.|[2305.14278v1](http://arxiv.org/abs/2305.14278v1)|null|
@@ -2401,6 +2416,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Photo-activated dynamic isomerization induced large density changes in liquid crystal polymers: A molecular dynamics study**|Akhil Reddy Peeketi et.al.|[2305.14990v1](http://arxiv.org/abs/2305.14990v1)|null|
 |**2023-05-19**|**Photocatalytic Properties of Anisotropic $β$-PtX$_2$ (X= S, Se) and Janus $β$ -PtSSe monolayers**|Pooja Jamdagni et.al.|[2305.11600v1](http://arxiv.org/abs/2305.11600v1)|null|
 |**2023-05-15**|**A photo-mechanical coupling theory for photoisomerization hydrogel considering the distribution state of molecular chains**|Xinyu Liu et.al.|[2305.08370v1](http://arxiv.org/abs/2305.08370v1)|null|
 |**2023-05-12**|**Light-induced insulator-metal transition in Sr $_2$IrO$_4$ reveals the nature of the insulating ground state**|Dongsung Choi et.al.|[2305.07619v1](http://arxiv.org/abs/2305.07619v1)|null|
@@ -2484,6 +2500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Imaging electron angular distributions to assess a full-power petawatt-class laser focus**|Smrithan Ravichandran et.al.|[2305.14581v1](http://arxiv.org/abs/2305.14581v1)|null|
 |**2023-05-12**|**Excitation and control of quantum well nanostructures by unipolar half-cycle attosecond pulses**|Rostislav Arkhipov et.al.|[2305.07800v1](http://arxiv.org/abs/2305.07800v1)|null|
 |**2023-05-05**|**Nonlinear terahertz Néel spin-orbit torques in antiferromagnetic Mn $_2$ Au**|Yannic Behovits et.al.|[2305.03368v1](http://arxiv.org/abs/2305.03368v1)|null|
 |**2023-05-04**|**Effective rectification of THz electromagnetic fields in a ferrimagnetic iron garnet**|T. G. H. Blank et.al.|[2305.02971v1](http://arxiv.org/abs/2305.02971v1)|null|
