@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Stochastic Thermodynamics of a Probe in a Fluctuating Correlated Field**|Davide Venturelli et.al.|[2305.16235v1](http://arxiv.org/abs/2305.16235v1)|null|
+|**2023-05-25**|**A Quantum Active Particle**|Yuanjian Zheng et.al.|[2305.16131v1](http://arxiv.org/abs/2305.16131v1)|null|
+|**2023-05-25**|**Sommerfeld expansion of electronic entropy in INFERNO-like average atom model**|Philippe Arnault et.al.|[2305.16077v1](http://arxiv.org/abs/2305.16077v1)|null|
+|**2023-05-25**|**Pressure driven Weyl-topological insulator phase transition in Weyl semimetal SrSi $_{2}$**|Aditya Shende et.al.|[2305.15980v1](http://arxiv.org/abs/2305.15980v1)|null|
+|**2023-05-25**|**Electronic structure and X-ray magnetic circular dichroism in the MAX phases T $_2$ AlC (T=Ti and Cr) from first principles**|L. V. Bekenov et.al.|[2305.15977v1](http://arxiv.org/abs/2305.15977v1)|null|
+|**2023-05-25**|**Development of a new force field for the family of primary aliphatic amines using the three steps systematic parameterization procedure**|H. Espinosa-Jiménez et.al.|[2305.15968v1](http://arxiv.org/abs/2305.15968v1)|null|
+|**2023-05-25**|**Spectral properties of a broadband far infrared photodetector with a new design of active region**|M. V. Tkach et.al.|[2305.15966v1](http://arxiv.org/abs/2305.15966v1)|null|
+|**2023-05-25**|**Electron energy spectrum of the spherical GaAs/Al $_x$Ga$_{1-x}$ As quantum dot with several impurities on the surface**|R. Ya. Leshko et.al.|[2305.15963v1](http://arxiv.org/abs/2305.15963v1)|null|
+|**2023-05-25**|**Dirac fermion spectrum of the fractional quantum Hall states**|I. N. Karnaukhov et.al.|[2305.15960v1](http://arxiv.org/abs/2305.15960v1)|null|
+|**2023-05-25**|**Computational study of structural, elastic, electronic, phonon dispersion relation and thermodynamic properties of orthorhombic CaZrS $_3$ for optoelectronic applications**|M. D. Kassa et.al.|[2305.15954v1](http://arxiv.org/abs/2305.15954v1)|null|
+|**2023-05-25**|**Viscosity of flexible and semiflexible ring melts -- molecular origins and flow-induced segregation**|Ranajay Datta et.al.|[2305.15886v1](http://arxiv.org/abs/2305.15886v1)|null|
+|**2023-05-25**|**Statistical theory of individual activity coefficients of electrolytes including multiple ionic charges**|W. Ebeling et.al.|[2305.15869v1](http://arxiv.org/abs/2305.15869v1)|null|
+|**2023-05-25**|**Random-anisotropy mixed-spin Ising on a triangular lattice**|E. S. de Santana et.al.|[2305.15866v1](http://arxiv.org/abs/2305.15866v1)|null|
+|**2023-05-25**|**On the swelling properties of pom-pom polymers: impact of backbone length**|K. Haydukivska et.al.|[2305.15860v1](http://arxiv.org/abs/2305.15860v1)|null|
+|**2023-05-25**|**Structure and properties of the films based on ternary transition metal borides: theory and experiment**|A. A. Onoprienko et.al.|[2305.15854v1](http://arxiv.org/abs/2305.15854v1)|null|
+|**2023-05-25**|**Determination of compressive stress in thin films using micro-machined buckled membranes**|C. Malhaire et.al.|[2305.15794v1](http://arxiv.org/abs/2305.15794v1)|null|
+|**2023-05-25**|**Ostwald ripening of aqueous microbubble solutions**|Sota Inoue et.al.|[2305.15716v1](http://arxiv.org/abs/2305.15716v1)|null|
+|**2023-05-25**|**Analytic theory of nonlinearly coupled electrokinetics in nanochannels**|Yuki Uematsu et.al.|[2305.15714v1](http://arxiv.org/abs/2305.15714v1)|null|
+|**2023-05-25**|**Unraveling the glass-like dynamic heterogeneity in ring polymer melts: From flexible to rigid chain stiffness**|Shota Goto et.al.|[2305.15711v1](http://arxiv.org/abs/2305.15711v1)|null|
+|**2023-05-25**|**Electrophoretic mobility of a water-in-oil droplet separately affected by the net charge and surface charge density**|Yuki Uematsu et.al.|[2305.15707v1](http://arxiv.org/abs/2305.15707v1)|null|
 |**2023-05-24**|**Clusters of microparticles in distilled water: a kaleidoscope of versions and paradoxes of nature (Review)**|Tatyana Yakhno et.al.|[2305.15384v1](http://arxiv.org/abs/2305.15384v1)|null|
 |**2023-05-24**|**Lorentz Reciprocal Theorem in Fluids with Odd Viscosity**|Yuto Hosaka et.al.|[2305.15379v1](http://arxiv.org/abs/2305.15379v1)|null|
 |**2023-05-24**|**Grafting heterogeneities rule water intrusion and extrusion in nanopores**|Sonia Cambiaso et.al.|[2305.15250v1](http://arxiv.org/abs/2305.15250v1)|null|
@@ -2536,6 +2556,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Energetic perspective on emergent inductance exhibited by magnetic textures in the pinned regime**|S. Furuta et.al.|[2305.16123v1](http://arxiv.org/abs/2305.16123v1)|null|
 |**2023-05-23**|**Spontaneous spin selectivity and linear magnetoelectric effect in chiral molecules**|Kouta Kondou et.al.|[2305.13702v1](http://arxiv.org/abs/2305.13702v1)|null|
 |**2023-05-23**|**Current-driven motion of magnetic topological defects in ferromagnetic superconductors**|Se Kwon Kim et.al.|[2305.13564v1](http://arxiv.org/abs/2305.13564v1)|null|
 |**2023-05-06**|**Field-Free Spin-Orbit Torque driven Switching of Perpendicular Magnetic Tunnel Junction through Bending Current**|Vaishnavi Kateel et.al.|[2305.03961v1](http://arxiv.org/abs/2305.03961v1)|null|
@@ -2590,6 +2611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Heesch Weyl Fermions in inadmissible chiral antiferromagnets**|Xue-Jian Gao et.al.|[2305.15876v1](http://arxiv.org/abs/2305.15876v1)|null|
 |**2023-05-22**|**Superlattice Engineering of Topology in Massive Dirac Fermions**|Nishchay Suri et.al.|[2305.13522v1](http://arxiv.org/abs/2305.13522v1)|null|
 |**2023-05-19**|**Unraveling the magnetic structure of YbNiSn single crystal via crystal growth and neutron diffraction**|Hung-Cheng Wu et.al.|[2305.11542v1](http://arxiv.org/abs/2305.11542v1)|null|
 |**2023-05-16**|**Spin scattering and Hall effects in monolayer Fe3GeTe2**|Luyan Yu et.al.|[2305.09743v1](http://arxiv.org/abs/2305.09743v1)|null|
@@ -2638,6 +2660,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Quantum Griffiths singularity in the stoichiometric heavy-fermion system CeRh $_4$Al$_{15}$**|Rajesh Tripathi et.al.|[2305.16110v1](http://arxiv.org/abs/2305.16110v1)|null|
 |**2023-05-09**|**Magnon dispersion in ferromagnetic SrRuO $_3$**|K. Jenni et.al.|[2305.05497v1](http://arxiv.org/abs/2305.05497v1)|null|
 |**2023-05-05**|**Magnetic excitation spectrum and Hamiltonian of the quantum spin chain BaCuTe2O6**|A. Samartzis et.al.|[2305.03825v1](http://arxiv.org/abs/2305.03825v1)|null|
 |**2023-05-03**|**An overview of the spin dynamics of antiferromagnetic Mn $_5$Si$_3$**|N. Biniskos et.al.|[2305.02409v1](http://arxiv.org/abs/2305.02409v1)|null|
