@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032v1](http://arxiv.org/abs/2305.17032v1)|null|
+|**2023-05-26**|**A Viscoelastic Model for Droplet Breakup in Dense Emulsions**|Joseph Peterson et.al.|[2305.16767v1](http://arxiv.org/abs/2305.16767v1)|null|
+|**2023-05-26**|**Quantum logical controlled-NOT gate in a lithium niobate-on-insulator photonic quantum walk**|Robert J. Chapman et.al.|[2305.16674v1](http://arxiv.org/abs/2305.16674v1)|null|
+|**2023-05-26**|**Experimental demonstration of robotic active matter micellization**|Anastasia A. Molodtsova et.al.|[2305.16659v1](http://arxiv.org/abs/2305.16659v1)|null|
+|**2023-05-26**|**The mechanism of the Silicon irradiation synergistic effect explained by multiscale simulations of Monte Carlo and excited-state first-principle calculations**|Zeng-hui Yang et.al.|[2305.16601v1](http://arxiv.org/abs/2305.16601v1)|null|
+|**2023-05-25**|**Pair-Variational Autoencoders (PairVAE) for Linking and Cross-Reconstruction of Characterization Data from Complementary Structural Characterization Techniques**|Shizhao Lu et.al.|[2305.16467v1](http://arxiv.org/abs/2305.16467v1)|null|
+|**2023-05-25**|**Bridgman formula for the thermal conductivity of atomic and molecular liquids**|Sergey Khrapak et.al.|[2305.16436v1](http://arxiv.org/abs/2305.16436v1)|null|
 |**2023-05-25**|**Stochastic Thermodynamics of a Probe in a Fluctuating Correlated Field**|Davide Venturelli et.al.|[2305.16235v1](http://arxiv.org/abs/2305.16235v1)|null|
 |**2023-05-25**|**A Quantum Active Particle**|Yuanjian Zheng et.al.|[2305.16131v1](http://arxiv.org/abs/2305.16131v1)|null|
 |**2023-05-25**|**Sommerfeld expansion of electronic entropy in INFERNO-like average atom model**|Philippe Arnault et.al.|[2305.16077v1](http://arxiv.org/abs/2305.16077v1)|null|
@@ -2660,6 +2667,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Dynamics of the antiferromagnetic spin ice phase in pyrochlore spinels**|Attila Szabó et.al.|[2305.16386v1](http://arxiv.org/abs/2305.16386v1)|null|
 |**2023-05-25**|**Quantum Griffiths singularity in the stoichiometric heavy-fermion system CeRh $_4$Al$_{15}$**|Rajesh Tripathi et.al.|[2305.16110v1](http://arxiv.org/abs/2305.16110v1)|null|
 |**2023-05-09**|**Magnon dispersion in ferromagnetic SrRuO $_3$**|K. Jenni et.al.|[2305.05497v1](http://arxiv.org/abs/2305.05497v1)|null|
 |**2023-05-05**|**Magnetic excitation spectrum and Hamiltonian of the quantum spin chain BaCuTe2O6**|A. Samartzis et.al.|[2305.03825v1](http://arxiv.org/abs/2305.03825v1)|null|
