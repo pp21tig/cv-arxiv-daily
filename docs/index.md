@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Wave Turbulence and thermalization in one-dimensional chains**|Miguel Onorato et.al.|[2305.18215v1](http://arxiv.org/abs/2305.18215v1)|null|
+|**2023-05-29**|**Different glassy characteristics are related to either caging or dynamical heterogeneity**|Puneet Pareek et.al.|[2305.18042v1](http://arxiv.org/abs/2305.18042v1)|null|
+|**2023-05-29**|**Quadratic Scaling Bosonic Path Integral Molecular Dynamics**|Yotam M. Y. Feldman et.al.|[2305.18025v1](http://arxiv.org/abs/2305.18025v1)|null|
+|**2023-05-29**|**Intertwined charge and pair density orders in a monolayer high-Tc iron-based superconductor**|Tianheng Wei et.al.|[2305.17991v1](http://arxiv.org/abs/2305.17991v1)|null|
+|**2023-05-29**|**A sheet-like structure in the proximity of compact DNA**|Garima Mishra et.al.|[2305.17952v1](http://arxiv.org/abs/2305.17952v1)|null|
+|**2023-05-29**|**Effect of Contact Inhibition Location on confined cellular organization**|Harshal Potdar et.al.|[2305.17936v1](http://arxiv.org/abs/2305.17936v1)|null|
+|**2023-05-29**|**Nonequilibrium steady-state of trapped active particles**|Naftali R. Smith et.al.|[2305.17905v1](http://arxiv.org/abs/2305.17905v1)|null|
+|**2023-05-28**|**Kohn-Sham computation and the bivariate view of density functional theory**|Paul E. Lammert et.al.|[2305.17795v1](http://arxiv.org/abs/2305.17795v1)|null|
+|**2023-05-28**|**Numerical explorations of solvent borne adhesives: A lattice-based approach to morphology formation**|Vi Cecilia Erik Kronberg et.al.|[2305.17790v1](http://arxiv.org/abs/2305.17790v1)|null|
+|**2023-05-28**|**Short review of interaction effects in graphene**|A. V. Kotikov et.al.|[2305.17736v1](http://arxiv.org/abs/2305.17736v1)|null|
+|**2023-05-28**|**Design, Actuation, and Functionalization of Untethered Soft Magnetic Robots with Life-Like Motions: A Review**|Jiaqi Miao et.al.|[2305.17734v1](http://arxiv.org/abs/2305.17734v1)|null|
+|**2023-05-28**|**Stochastic analysis of chemical reactions in multi-component interacting systems at criticality**|Reda Tiani et.al.|[2305.17726v1](http://arxiv.org/abs/2305.17726v1)|null|
+|**2023-05-28**|**Quantum Geometry of Non-Hermitian Topological Systems**|Chao Chen Ye et.al.|[2305.17675v1](http://arxiv.org/abs/2305.17675v1)|null|
+|**2023-05-28**|**Nonhermitian adiabatic perturbation theory of topological quantization of the average velocity of a magnetic skyrmion under thermal fluctuations**|Shan-Chang Tang et.al.|[2305.17606v1](http://arxiv.org/abs/2305.17606v1)|null|
+|**2023-05-27**|**Activity-Induced Annealing leads to Ductile-to-Brittle Transition in Amorphous Solids**|Rishabh Sharma et.al.|[2305.17545v1](http://arxiv.org/abs/2305.17545v1)|null|
+|**2023-05-27**|**Anomalous conductivity of $\mathcal{PT}$ -symmetric Fermi liquids**|Alexander Kruchkov et.al.|[2305.17450v1](http://arxiv.org/abs/2305.17450v1)|null|
+|**2023-05-27**|**Demonstration of geometric diabatic control of quantum states**|Kento Sasaki et.al.|[2305.17434v1](http://arxiv.org/abs/2305.17434v1)|null|
+|**2023-05-26**|**On the Nature of Memory and Rejuvenation in Glassy Systems**|J. Freedberg et.al.|[2305.17296v1](http://arxiv.org/abs/2305.17296v1)|null|
+|**2023-05-26**|**How to verify the precision of density-functional-theory implementations via reproducible and universal workflows**|Emanuele Bosoni et.al.|[2305.17274v1](http://arxiv.org/abs/2305.17274v1)|null|
+|**2023-05-26**|**A solvable model for graph state decoherence dynamics**|Jérôme Houdayer et.al.|[2305.17231v1](http://arxiv.org/abs/2305.17231v1)|null|
 |**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032v1](http://arxiv.org/abs/2305.17032v1)|null|
 |**2023-05-26**|**A Viscoelastic Model for Droplet Breakup in Dense Emulsions**|Joseph Peterson et.al.|[2305.16767v1](http://arxiv.org/abs/2305.16767v1)|null|
 |**2023-05-26**|**Quantum logical controlled-NOT gate in a lithium niobate-on-insulator photonic quantum walk**|Robert J. Chapman et.al.|[2305.16674v1](http://arxiv.org/abs/2305.16674v1)|null|
@@ -2447,6 +2467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|null|
 |**2023-05-24**|**Photo-activated dynamic isomerization induced large density changes in liquid crystal polymers: A molecular dynamics study**|Akhil Reddy Peeketi et.al.|[2305.14990v1](http://arxiv.org/abs/2305.14990v1)|null|
 |**2023-05-19**|**Photocatalytic Properties of Anisotropic $β$-PtX$_2$ (X= S, Se) and Janus $β$ -PtSSe monolayers**|Pooja Jamdagni et.al.|[2305.11600v1](http://arxiv.org/abs/2305.11600v1)|null|
 |**2023-05-15**|**A photo-mechanical coupling theory for photoisomerization hydrogel considering the distribution state of molecular chains**|Xinyu Liu et.al.|[2305.08370v1](http://arxiv.org/abs/2305.08370v1)|null|
