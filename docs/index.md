@@ -1102,6 +1102,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Topologically-forced electro-modulation of friction**|Yu Zhang et.al.|[2305.19178v1](http://arxiv.org/abs/2305.19178v1)|null|
+|**2023-05-30**|**VO2 Phase Change Electrodes in Li-ion Batteries**|Samuel Castro-Pardo et.al.|[2305.19002v1](http://arxiv.org/abs/2305.19002v1)|null|
+|**2023-05-30**|**High temperature decomposition and age hardening of single-phase wurtzite Ti $_{1-x}$Al$_{x}$ N thin films grown by cathodic arc deposition**|J. Salamania et.al.|[2305.18950v1](http://arxiv.org/abs/2305.18950v1)|null|
+|**2023-05-30**|**Second harmonic generation in anisotropic stratified media: A generalization of the Berreman method and its application to photonic materials**|J. Ortega et.al.|[2305.18894v1](http://arxiv.org/abs/2305.18894v1)|null|
+|**2023-05-30**|**Magnetic field regression using artificial neural networks for cold atom experiments**|Ziting Chen et.al.|[2305.18822v1](http://arxiv.org/abs/2305.18822v1)|null|
 |**2023-05-29**|**Wave Turbulence and thermalization in one-dimensional chains**|Miguel Onorato et.al.|[2305.18215v1](http://arxiv.org/abs/2305.18215v1)|null|
 |**2023-05-29**|**Different glassy characteristics are related to either caging or dynamical heterogeneity**|Puneet Pareek et.al.|[2305.18042v1](http://arxiv.org/abs/2305.18042v1)|null|
 |**2023-05-30**|**Quadratic Scaling Bosonic Path Integral Molecular Dynamics**|Yotam M. Y. Feldman et.al.|[2305.18025v2](http://arxiv.org/abs/2305.18025v2)|null|
@@ -2467,6 +2472,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Light-induced weak ferromagnetism through nonlinear magnonic rectification**|Tom Kahana et.al.|[2305.18656v1](http://arxiv.org/abs/2305.18656v1)|null|
 |**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|null|
 |**2023-05-24**|**Photo-activated dynamic isomerization induced large density changes in liquid crystal polymers: A molecular dynamics study**|Akhil Reddy Peeketi et.al.|[2305.14990v1](http://arxiv.org/abs/2305.14990v1)|null|
 |**2023-05-19**|**Photocatalytic Properties of Anisotropic $β$-PtX$_2$ (X= S, Se) and Janus $β$ -PtSSe monolayers**|Pooja Jamdagni et.al.|[2305.11600v1](http://arxiv.org/abs/2305.11600v1)|null|
@@ -2588,6 +2594,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Driving skyrmions in flow regime in synthetic ferrimagnets**|Sougata Mallick et.al.|[2305.19208v1](http://arxiv.org/abs/2305.19208v1)|null|
 |**2023-05-27**|**Energetic perspective on emergent inductance exhibited by magnetic textures in the pinned regime**|S. Furuta et.al.|[2305.16123v2](http://arxiv.org/abs/2305.16123v2)|null|
 |**2023-05-23**|**Spontaneous spin selectivity and linear magnetoelectric effect in chiral molecules**|Kouta Kondou et.al.|[2305.13702v1](http://arxiv.org/abs/2305.13702v1)|null|
 |**2023-05-23**|**Current-driven motion of magnetic topological defects in ferromagnetic superconductors**|Se Kwon Kim et.al.|[2305.13564v1](http://arxiv.org/abs/2305.13564v1)|null|
