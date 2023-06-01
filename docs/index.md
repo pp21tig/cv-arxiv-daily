@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Realization of U(1) Dirac Quantum Spin Liquid in YbZn2GaO5**|Sijie Xu et.al.|[2305.20040v1](http://arxiv.org/abs/2305.20040v1)|null|
+|**2023-05-31**|**The Physical State of Lunar Soil in the Permanently Shadowed Craters of the Moon**|Jacob N. Gamsky et.al.|[2305.20007v1](http://arxiv.org/abs/2305.20007v1)|null|
+|**2023-05-31**|**Structure of jammed ellipse packings with a wide range of aspect ratios**|Sebastian Rocks et.al.|[2305.19990v1](http://arxiv.org/abs/2305.19990v1)|null|
+|**2023-05-31**|**A model for the contraction kinetics of cytoskeletal gel slabs**|Matteo Ferraresso et.al.|[2305.19824v1](http://arxiv.org/abs/2305.19824v1)|null|
+|**2023-05-31**|**Compacting an assembly of soft balls far beyond the jammed state: insights from 3D imaging**|Jonathan Barés et.al.|[2305.19712v1](http://arxiv.org/abs/2305.19712v1)|null|
+|**2023-05-31**|**Correlation between Macroscopic and Microscopic Relaxation Dynamics of Water: Evidence for Two Liquid Forms**|Nguyen Q. Vinh et.al.|[2305.19560v1](http://arxiv.org/abs/2305.19560v1)|null|
+|**2023-05-31**|**Covariant description of the colloidal dynamics on curved manifolds**|Pavel Castro-Villarreal et.al.|[2305.19520v1](http://arxiv.org/abs/2305.19520v1)|null|
+|**2023-05-30**|**Bloch Oscillations, Landau-Zener Transition, and Topological Phase Evolution in a Pendula Array**|Izhar Neder et.al.|[2305.19387v1](http://arxiv.org/abs/2305.19387v1)|null|
 |**2023-05-30**|**Topologically-forced electro-modulation of friction**|Yu Zhang et.al.|[2305.19178v1](http://arxiv.org/abs/2305.19178v1)|null|
 |**2023-05-30**|**VO2 Phase Change Electrodes in Li-ion Batteries**|Samuel Castro-Pardo et.al.|[2305.19002v1](http://arxiv.org/abs/2305.19002v1)|null|
 |**2023-05-30**|**High temperature decomposition and age hardening of single-phase wurtzite Ti $_{1-x}$Al$_{x}$ N thin films grown by cathodic arc deposition**|J. Salamania et.al.|[2305.18950v1](http://arxiv.org/abs/2305.18950v1)|null|
@@ -2472,6 +2480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**On the photovoltaic effect asymmetry in ferroelectrics**|S. Semak et.al.|[2305.19771v1](http://arxiv.org/abs/2305.19771v1)|null|
 |**2023-05-29**|**Light-induced weak ferromagnetism through nonlinear magnonic rectification**|Tom Kahana et.al.|[2305.18656v1](http://arxiv.org/abs/2305.18656v1)|null|
 |**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|null|
 |**2023-05-24**|**Photo-activated dynamic isomerization induced large density changes in liquid crystal polymers: A molecular dynamics study**|Akhil Reddy Peeketi et.al.|[2305.14990v1](http://arxiv.org/abs/2305.14990v1)|null|
@@ -2699,6 +2708,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Realization of U(1) Dirac Quantum Spin Liquid in YbZn2GaO5**|Sijie Xu et.al.|[2305.20040v1](http://arxiv.org/abs/2305.20040v1)|null|
 |**2023-05-25**|**Dynamics of the antiferromagnetic spin ice phase in pyrochlore spinels**|Attila Szabó et.al.|[2305.16386v1](http://arxiv.org/abs/2305.16386v1)|null|
 |**2023-05-25**|**Quantum Griffiths singularity in the stoichiometric heavy-fermion system CeRh $_4$Al$_{15}$**|Rajesh Tripathi et.al.|[2305.16110v1](http://arxiv.org/abs/2305.16110v1)|null|
 |**2023-05-09**|**Magnon dispersion in ferromagnetic SrRuO $_3$**|K. Jenni et.al.|[2305.05497v1](http://arxiv.org/abs/2305.05497v1)|null|
