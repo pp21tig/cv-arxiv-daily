@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Remembrances of Michael E. Fisher**|David R. Nelson et.al.|[2306.00955v1](http://arxiv.org/abs/2306.00955v1)|null|
+|**2023-06-01**|**Dynamical correlations in simple disorder and complex disorder liquid**|Bernarda Lovrinčević et.al.|[2306.00913v1](http://arxiv.org/abs/2306.00913v1)|null|
+|**2023-06-01**|**Geometrically frustrated self-assembly of hyperbolic crystals from icosahedral nanoparticles**|Nan Cheng et.al.|[2306.00871v1](http://arxiv.org/abs/2306.00871v1)|null|
+|**2023-06-01**|**Collective modes and quantum effects in two-dimensional nanofluidic channels**|Baptiste Coquinot et.al.|[2306.00837v1](http://arxiv.org/abs/2306.00837v1)|null|
+|**2023-06-01**|**Shape Transitions in Network Model of Active Elastic Shells**|Ajoy Maji et.al.|[2306.00735v1](http://arxiv.org/abs/2306.00735v1)|null|
+|**2023-06-01**|**Singular travelling waves in soft viscoelastic solids of rate type**|Harold Berjamin et.al.|[2306.00719v1](http://arxiv.org/abs/2306.00719v1)|null|
+|**2023-06-01**|**Turning catalytically active pores into active pumps**|G. C. Antunes et.al.|[2306.00664v1](http://arxiv.org/abs/2306.00664v1)|null|
+|**2023-06-01**|**Aging on the edge of stability in disordered systems**|Dor Shohat et.al.|[2306.00567v1](http://arxiv.org/abs/2306.00567v1)|null|
+|**2023-06-01**|**Environmental Memory Boosts Group Formation of Clueless Individuals**|Cristóvão S. Dias et.al.|[2306.00516v1](http://arxiv.org/abs/2306.00516v1)|null|
+|**2023-06-01**|**Efficient VQE Approach for Accurate Simulations on the Kagome Lattice**|Jyothikamalesh S et.al.|[2306.00467v1](http://arxiv.org/abs/2306.00467v1)|null|
+|**2023-06-01**|**Interfacial Layers between Ion and Water Detected by Terahertz Spectroscopy**|Abhishek K. Singh et.al.|[2306.00339v1](http://arxiv.org/abs/2306.00339v1)|null|
+|**2023-06-01**|**Structure and Dynamics of Hybrid Colloid-Polyelectrolyte Coacervates: Insights from Molecular Simulations**|Boyuan Yu et.al.|[2306.00293v1](http://arxiv.org/abs/2306.00293v1)|null|
+|**2023-05-31**|**Thermocapillary migrating odd viscous droplets**|Aaveg Aggarwal et.al.|[2306.00224v1](http://arxiv.org/abs/2306.00224v1)|null|
+|**2023-05-31**|**Active surface flows accelerate the coarsening of lipid membrane domains**|Daniel P. Arnold et.al.|[2306.00218v1](http://arxiv.org/abs/2306.00218v1)|null|
+|**2023-05-31**|**Strain Anisotropy Driven Spontaneous Formation of Nanoscrolls from Two-Dimensional Janus Layers**|Mohammed Sayyad et.al.|[2306.00162v1](http://arxiv.org/abs/2306.00162v1)|null|
 |**2023-05-31**|**Realization of U(1) Dirac Quantum Spin Liquid in YbZn2GaO5**|Sijie Xu et.al.|[2305.20040v1](http://arxiv.org/abs/2305.20040v1)|null|
 |**2023-05-31**|**The Physical State of Lunar Soil in the Permanently Shadowed Craters of the Moon**|Jacob N. Gamsky et.al.|[2305.20007v1](http://arxiv.org/abs/2305.20007v1)|null|
 |**2023-05-31**|**Structure of jammed ellipse packings with a wide range of aspect ratios**|Sebastian Rocks et.al.|[2305.19990v1](http://arxiv.org/abs/2305.19990v1)|null|
@@ -2708,6 +2723,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Inelastic neutron scattering investigation of the crystal field excitations of NdCo $_5$**|F. de Almeida Passos et.al.|[2306.00821v1](http://arxiv.org/abs/2306.00821v1)|null|
 |**2023-05-31**|**Realization of U(1) Dirac Quantum Spin Liquid in YbZn2GaO5**|Sijie Xu et.al.|[2305.20040v1](http://arxiv.org/abs/2305.20040v1)|null|
 |**2023-05-25**|**Dynamics of the antiferromagnetic spin ice phase in pyrochlore spinels**|Attila Szabó et.al.|[2305.16386v1](http://arxiv.org/abs/2305.16386v1)|null|
 |**2023-05-25**|**Quantum Griffiths singularity in the stoichiometric heavy-fermion system CeRh $_4$Al$_{15}$**|Rajesh Tripathi et.al.|[2305.16110v1](http://arxiv.org/abs/2305.16110v1)|null|
