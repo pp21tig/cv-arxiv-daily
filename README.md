@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Statistical field theory for nonlinear elasticity of polymer networks with excluded volume interactions**|Pratik Khandagale et.al.|[2306.01701v1](http://arxiv.org/abs/2306.01701v1)|null|
+|**2023-06-02**|**Thrust force is tuned by the rigidity distribution in insect-inspired flapping wings**|Roméo Antier et.al.|[2306.01612v1](http://arxiv.org/abs/2306.01612v1)|null|
+|**2023-06-02**|**Glass transition temperature of thin polymer films**|Hsiao-Ping Hsu et.al.|[2306.01560v1](http://arxiv.org/abs/2306.01560v1)|null|
+|**2023-06-02**|**The segregation pattern in a rotating cylinder determined by size difference, density ratio, and the cylinder diameter**|Kurumi Kondo et.al.|[2306.01548v1](http://arxiv.org/abs/2306.01548v1)|null|
+|**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430v1](http://arxiv.org/abs/2306.01430v1)|null|
+|**2023-06-01**|**Physics-informed UNets for Discovering Hidden Elasticity in Heterogeneous Materials**|Ali Kamali et.al.|[2306.01204v1](http://arxiv.org/abs/2306.01204v1)|null|
+|**2023-06-01**|**Symmetry and stability of orientationally ordered collective motions of self-propelled, semiflexible filaments**|Madhuvanthi Guruprasad Athani et.al.|[2306.01180v1](http://arxiv.org/abs/2306.01180v1)|null|
+|**2023-06-01**|**Nanosecond electron imaging of transient electric fields and material response**|Thomas E Gage et.al.|[2306.01171v1](http://arxiv.org/abs/2306.01171v1)|null|
+|**2023-06-01**|**Shape-induced pairing of spheroidal squirmers**|Ruben Poehnl et.al.|[2306.01168v1](http://arxiv.org/abs/2306.01168v1)|null|
+|**2023-06-01**|**Metastability of Discrete-Symmetry Flocks**|Brieuc Benvegnen et.al.|[2306.01156v1](http://arxiv.org/abs/2306.01156v1)|null|
+|**2023-06-01**|**Precision magnetometry exploiting excited state quantum phase transitions**|Qian Wang et.al.|[2306.01126v1](http://arxiv.org/abs/2306.01126v1)|null|
+|**2023-06-01**|**Templated self-assembly of gold nanoparticles in smectic liquid crystals confined at 3D printed curved surfaces**|Mackenzie O'Keefe et.al.|[2306.01118v1](http://arxiv.org/abs/2306.01118v1)|null|
+|**2023-06-01**|**Further Analysis on the Mystery of the Surveyor III Dust Deposits**|John Lane et.al.|[2306.01087v1](http://arxiv.org/abs/2306.01087v1)|null|
+|**2023-06-01**|**Soil Test Apparatus for Lunar Surfaces**|Laila A. Rahmatian et.al.|[2306.01080v1](http://arxiv.org/abs/2306.01080v1)|null|
+|**2023-06-01**|**Vortex line entanglement in active Beltrami flows**|Nicolas Romeo et.al.|[2306.01062v1](http://arxiv.org/abs/2306.01062v1)|null|
 |**2023-06-01**|**Remembrances of Michael E. Fisher**|David R. Nelson et.al.|[2306.00955v1](http://arxiv.org/abs/2306.00955v1)|null|
 |**2023-06-01**|**Dynamical correlations in simple disorder and complex disorder liquid**|Bernarda Lovrinčević et.al.|[2306.00913v1](http://arxiv.org/abs/2306.00913v1)|null|
 |**2023-06-01**|**Geometrically frustrated self-assembly of hyperbolic crystals from icosahedral nanoparticles**|Nan Cheng et.al.|[2306.00871v1](http://arxiv.org/abs/2306.00871v1)|null|
@@ -2491,6 +2506,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Optical Limiter Based on PT-Symmetry Breaking of Reflectionless Modes**|F. Riboli et.al.|[2306.01132v1](http://arxiv.org/abs/2306.01132v1)|null|
 |**2023-05-31**|**On the photovoltaic effect asymmetry in ferroelectrics**|S. Semak et.al.|[2305.19771v1](http://arxiv.org/abs/2305.19771v1)|null|
 |**2023-05-29**|**Light-induced weak ferromagnetism through nonlinear magnonic rectification**|Tom Kahana et.al.|[2305.18656v1](http://arxiv.org/abs/2305.18656v1)|null|
 |**2023-05-29**|**Characterization and evasion of backscattered light in the squeezed-light enhanced gravitational wave interferometer GEO 600**|Fabio Bergamin et.al.|[2305.18284v1](http://arxiv.org/abs/2305.18284v1)|null|
