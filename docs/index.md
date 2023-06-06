@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Stockmayer supracolloidal magnetic polymers under the influence of an applied magnetic field and a shear flow**|Ivan S. Novikau et.al.|[2306.03005v1](http://arxiv.org/abs/2306.03005v1)|null|
+|**2023-06-05**|**Superhydrophobicity of Auxetic Metamaterials**|Glen McHale et.al.|[2306.02916v1](http://arxiv.org/abs/2306.02916v1)|null|
+|**2023-06-05**|**How does a hyperuniform fluid freeze?**|Yusheng Lei et.al.|[2306.02753v1](http://arxiv.org/abs/2306.02753v1)|null|
+|**2023-06-05**|**Note on Angular Momentum of Phonons in Chiral Crystals**|Akihito Kato et.al.|[2306.02678v1](http://arxiv.org/abs/2306.02678v1)|null|
+|**2023-06-05**|**Non-equilibrium dynamics of spin-lattice coupling**|Hiroki Ueda et.al.|[2306.02676v1](http://arxiv.org/abs/2306.02676v1)|null|
+|**2023-06-05**|**Formation and mechanics of fire ant rafts as an active self-healing membrane**|Chung-Hao Chen et.al.|[2306.02647v1](http://arxiv.org/abs/2306.02647v1)|null|
+|**2023-06-05**|**Medial packing, frustration and competing network phases in strongly-segregated block copolymers**|Michael S. Dimitriyev et.al.|[2306.02598v1](http://arxiv.org/abs/2306.02598v1)|null|
+|**2023-06-05**|**Electromotive force and magnetization process of a superconducting traveling-wave flux pump**|Wei Wang et.al.|[2306.02545v1](http://arxiv.org/abs/2306.02545v1)|null|
+|**2023-06-04**|**Topological phase transitions in a honeycomb ferromagnet with unequal Dzyaloshinskii-Moriya interactions**|Heng Zhu et.al.|[2306.02505v1](http://arxiv.org/abs/2306.02505v1)|null|
+|**2023-06-04**|**Onset of glassiness in two-dimensional ring polymers: interplay of stiffness and crowding**|Sayantan Ghosh et.al.|[2306.02403v1](http://arxiv.org/abs/2306.02403v1)|null|
+|**2023-06-04**|**Perturbation-induced granular fluidization as a model for remote earthquake triggering**|Kasra Farain et.al.|[2306.02353v1](http://arxiv.org/abs/2306.02353v1)|null|
+|**2023-06-04**|**New exact solutions for the evaporation flux density of a small droplet on a flat horizontal substrate with a contact angle in the range of 135-180 degrees**|Peter Lebedev-Stepanov et.al.|[2306.02322v1](http://arxiv.org/abs/2306.02322v1)|null|
+|**2023-06-04**|**The dynamics of unsteady frictional slip pulses**|Anna Pomyalov et.al.|[2306.02311v1](http://arxiv.org/abs/2306.02311v1)|null|
+|**2023-06-04**|**Theory of exciton-polariton condensation in gap-confined eigenmodes**|Davide Nigro ad Dario Gerace et.al.|[2306.02281v1](http://arxiv.org/abs/2306.02281v1)|null|
+|**2023-06-03**|**Mitigating Molecular Aggregation in Drug Discovery with Predictive Insights from Explainable AI**|Hunter Sturm et.al.|[2306.02206v1](http://arxiv.org/abs/2306.02206v1)|null|
+|**2023-06-03**|**Surface Passivation Method for Super-repellence of Aqueous Macromolecular Condensates**|Andrea Testa et.al.|[2306.02198v1](http://arxiv.org/abs/2306.02198v1)|null|
+|**2023-06-03**|**Multi-Level Variational Spectroscopy using a Programmable Quantum Simulator**|Zhikun Han et.al.|[2306.02110v1](http://arxiv.org/abs/2306.02110v1)|null|
+|**2023-06-03**|**Machine learning enabled experimental design and parameter estimation for ultrafast spin dynamics**|Zhantao Chen et.al.|[2306.02015v1](http://arxiv.org/abs/2306.02015v1)|null|
+|**2023-06-02**|**A phase-field chemo-mechanical model for corrosion-induced cracking in reinforced concrete**|E. Korec et.al.|[2306.01903v1](http://arxiv.org/abs/2306.01903v1)|null|
+|**2023-06-02**|**A fully ab initio approach to inelastic atom-surface scattering**|Michelle M. Kelley et.al.|[2306.01892v1](http://arxiv.org/abs/2306.01892v1)|null|
 |**2023-06-02**|**Statistical field theory for nonlinear elasticity of polymer networks with excluded volume interactions**|Pratik Khandagale et.al.|[2306.01701v1](http://arxiv.org/abs/2306.01701v1)|null|
 |**2023-06-02**|**Thrust force is tuned by the rigidity distribution in insect-inspired flapping wings**|Roméo Antier et.al.|[2306.01612v1](http://arxiv.org/abs/2306.01612v1)|null|
 |**2023-06-02**|**Glass transition temperature of thin polymer films**|Hsiao-Ping Hsu et.al.|[2306.01560v1](http://arxiv.org/abs/2306.01560v1)|null|
@@ -2690,6 +2710,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**Two types of zero Hall phenomena in few-layer MnBi $_2$Te$_4$**|Yaoxin Li et.al.|[2306.02046v1](http://arxiv.org/abs/2306.02046v1)|null|
+|**2023-06-03**|**Thickness-dependent, tunable anomalous Hall effect in hydrogen-reduced PdCoO $_2$ thin films**|Gaurab Rimal et.al.|[2306.01979v1](http://arxiv.org/abs/2306.01979v1)|null|
 |**2023-05-25**|**Heesch Weyl Fermions in inadmissible chiral antiferromagnets**|Xue-Jian Gao et.al.|[2305.15876v1](http://arxiv.org/abs/2305.15876v1)|null|
 |**2023-05-22**|**Superlattice Engineering of Topology in Massive Dirac Fermions**|Nishchay Suri et.al.|[2305.13522v1](http://arxiv.org/abs/2305.13522v1)|null|
 |**2023-05-19**|**Unraveling the magnetic structure of YbNiSn single crystal via crystal growth and neutron diffraction**|Hung-Cheng Wu et.al.|[2305.11542v1](http://arxiv.org/abs/2305.11542v1)|null|
@@ -2739,6 +2761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Excitations of quantum Ising chain CoNb2O6 in low transverse field: quantitative description of bound states stabilized by off-diagonal exchange and applied field**|Leonie Woodland et.al.|[2306.01948v1](http://arxiv.org/abs/2306.01948v1)|null|
 |**2023-06-01**|**Inelastic neutron scattering investigation of the crystal field excitations of NdCo $_5$**|F. de Almeida Passos et.al.|[2306.00821v1](http://arxiv.org/abs/2306.00821v1)|null|
 |**2023-05-31**|**Realization of U(1) Dirac Quantum Spin Liquid in YbZn2GaO5**|Sijie Xu et.al.|[2305.20040v1](http://arxiv.org/abs/2305.20040v1)|null|
 |**2023-05-25**|**Dynamics of the antiferromagnetic spin ice phase in pyrochlore spinels**|Attila Szabó et.al.|[2305.16386v1](http://arxiv.org/abs/2305.16386v1)|null|
