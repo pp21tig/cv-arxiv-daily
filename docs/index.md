@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Delocalization and Universality of the Fractional Quantum Hall Plateau-to-Plateau Transitions**|P. T. Madathil et.al.|[2306.03704v1](http://arxiv.org/abs/2306.03704v1)|null|
+|**2023-06-06**|**Active learning of the thermodynamics-dynamics tradeoff in protein condensates**|Yaxin An et.al.|[2306.03696v1](http://arxiv.org/abs/2306.03696v1)|null|
+|**2023-06-06**|**Dynamics of Ordered Active Columns: Flows, Twists, and Waves**|S. J. Kole et.al.|[2306.03695v1](http://arxiv.org/abs/2306.03695v1)|null|
+|**2023-06-06**|**A hard-sphere quasicrystal stabilized by configurational entropy**|Etienne Fayen et.al.|[2306.03549v1](http://arxiv.org/abs/2306.03549v1)|null|
+|**2023-06-06**|**Defect Solutions of the Non-reciprocal Cahn-Hilliard Model: Spirals and Targets**|Navdeep Rana et.al.|[2306.03513v1](http://arxiv.org/abs/2306.03513v1)|null|
+|**2023-06-06**|**Impact of bending stiffness on ground-state conformations for semiflexible polymers**|Dilimulati Aierken et.al.|[2306.03332v1](http://arxiv.org/abs/2306.03332v1)|null|
+|**2023-06-05**|**Bose-Einstein Condensation in Gap-Confined Exciton-Polariton States**|F. Riminucci et.al.|[2306.03309v1](http://arxiv.org/abs/2306.03309v1)|null|
+|**2023-06-05**|**Transporting Particles with Vortex Rings**|Van Gulinyan et.al.|[2306.03276v1](http://arxiv.org/abs/2306.03276v1)|null|
+|**2023-06-05**|**A theoretical model for power generation via liquid crystal elastomers**|L. Angela Mihai et.al.|[2306.03193v1](http://arxiv.org/abs/2306.03193v1)|null|
 |**2023-06-05**|**Stockmayer supracolloidal magnetic polymers under the influence of an applied magnetic field and a shear flow**|Ivan S. Novikau et.al.|[2306.03005v1](http://arxiv.org/abs/2306.03005v1)|null|
 |**2023-06-05**|**Superhydrophobicity of Auxetic Metamaterials**|Glen McHale et.al.|[2306.02916v1](http://arxiv.org/abs/2306.02916v1)|null|
 |**2023-06-05**|**How does a hyperuniform fluid freeze?**|Yusheng Lei et.al.|[2306.02753v1](http://arxiv.org/abs/2306.02753v1)|null|
@@ -2530,6 +2539,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Light-induced half-quantized Hall effect and Axion insulator**|Fang Qin et.al.|[2306.03187v1](http://arxiv.org/abs/2306.03187v1)|null|
 |**2023-06-01**|**Optical Limiter Based on PT-Symmetry Breaking of Reflectionless Modes**|F. Riboli et.al.|[2306.01132v1](http://arxiv.org/abs/2306.01132v1)|null|
 |**2023-05-31**|**On the photovoltaic effect asymmetry in ferroelectrics**|S. Semak et.al.|[2305.19771v1](http://arxiv.org/abs/2305.19771v1)|null|
 |**2023-05-29**|**Light-induced weak ferromagnetism through nonlinear magnonic rectification**|Tom Kahana et.al.|[2305.18656v1](http://arxiv.org/abs/2305.18656v1)|null|
@@ -2761,6 +2771,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Exchange renormalized crystal field excitation in a quantum Ising magnet KTmSe $_2$**|Shiyi Zheng et.al.|[2306.03544v1](http://arxiv.org/abs/2306.03544v1)|null|
 |**2023-06-02**|**Excitations of quantum Ising chain CoNb2O6 in low transverse field: quantitative description of bound states stabilized by off-diagonal exchange and applied field**|Leonie Woodland et.al.|[2306.01948v1](http://arxiv.org/abs/2306.01948v1)|null|
 |**2023-06-01**|**Inelastic neutron scattering investigation of the crystal field excitations of NdCo $_5$**|F. de Almeida Passos et.al.|[2306.00821v1](http://arxiv.org/abs/2306.00821v1)|null|
 |**2023-05-31**|**Realization of U(1) Dirac Quantum Spin Liquid in YbZn2GaO5**|Sijie Xu et.al.|[2305.20040v1](http://arxiv.org/abs/2305.20040v1)|null|
