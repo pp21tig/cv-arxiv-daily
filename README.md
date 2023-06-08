@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**A New Paradigm Unifying the Concepts in Particle Abrasion and Breakage**|Priya Tripathi et.al.|[2306.04635v1](http://arxiv.org/abs/2306.04635v1)|null|
+|**2023-06-07**|**Pressure-Induced Phase Transformations of Quasi-2D Sr $_3$Hf$_2$O$_7$**|M. C. B. Barbosa et.al.|[2306.04624v1](http://arxiv.org/abs/2306.04624v1)|null|
+|**2023-06-07**|**Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals**|Fernando Caballero et.al.|[2306.04526v1](http://arxiv.org/abs/2306.04526v1)|null|
+|**2023-06-07**|**Towards a Benchmark for Markov State Models: The Folding of HP35**|Daniel Nagel et.al.|[2306.04331v1](http://arxiv.org/abs/2306.04331v1)|null|
+|**2023-06-07**|**Robust magnetism against pressure in non-superconducting samples prepared from lutetium foil and H2/N2 gas mixture**|Jing Guo et.al.|[2306.04302v1](http://arxiv.org/abs/2306.04302v1)|null|
+|**2023-06-07**|**Thermal cycle and polaron formation in structured bosonic environments**|A. Riva et.al.|[2306.04248v1](http://arxiv.org/abs/2306.04248v1)|null|
+|**2023-06-07**|**A topologically stabilized metastable fluid in a system of cylindrically confined hard spheres**|Mahdi Zarif et.al.|[2306.04134v1](http://arxiv.org/abs/2306.04134v1)|null|
+|**2023-06-07**|**Size Dependence of the Bouncing Barrier in Protoplanetary Dust Growth**|Sota Arakawa et.al.|[2306.04070v1](http://arxiv.org/abs/2306.04070v1)|null|
+|**2023-06-06**|**Competing Relaxation Channels in Continuously Polydisperse Fluids: A Mode-Coupling Study**|Corentin C. L. Laudicina et.al.|[2306.03992v1](http://arxiv.org/abs/2306.03992v1)|null|
+|**2023-06-06**|**Differences in boundary behavior in the 3D vertex and Voronoi models**|Elizabeth Lawson-Keister et.al.|[2306.03987v1](http://arxiv.org/abs/2306.03987v1)|null|
+|**2023-06-06**|**Effects of local incompressibility on the rheology of composite biopolymer networks**|Anupama Gannavarapu et.al.|[2306.03952v1](http://arxiv.org/abs/2306.03952v1)|null|
+|**2023-06-06**|**Floquet time-crystals as sensors of AC fields**|Fernando Iemini et.al.|[2306.03927v1](http://arxiv.org/abs/2306.03927v1)|null|
 |**2023-06-06**|**Delocalization and Universality of the Fractional Quantum Hall Plateau-to-Plateau Transitions**|P. T. Madathil et.al.|[2306.03704v1](http://arxiv.org/abs/2306.03704v1)|null|
 |**2023-06-06**|**Active learning of the thermodynamics-dynamics tradeoff in protein condensates**|Yaxin An et.al.|[2306.03696v1](http://arxiv.org/abs/2306.03696v1)|null|
 |**2023-06-06**|**Dynamics of Ordered Active Columns: Flows, Twists, and Waves**|S. J. Kole et.al.|[2306.03695v1](http://arxiv.org/abs/2306.03695v1)|null|
@@ -2624,6 +2636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Efficient and scalable scheme for overcoming the pulse energy bottleneck of single-cycle laser sources**|Lu Xu et.al.|[2306.04417v1](http://arxiv.org/abs/2306.04417v1)|null|
 |**2023-05-23**|**Imaging electron angular distributions to assess a full-power petawatt-class laser focus**|Smrithan Ravichandran et.al.|[2305.14581v1](http://arxiv.org/abs/2305.14581v1)|null|
 |**2023-05-12**|**Excitation and control of quantum well nanostructures by unipolar half-cycle attosecond pulses**|Rostislav Arkhipov et.al.|[2305.07800v1](http://arxiv.org/abs/2305.07800v1)|null|
 |**2023-05-05**|**Nonlinear terahertz Néel spin-orbit torques in antiferromagnetic Mn $_2$ Au**|Yannic Behovits et.al.|[2305.03368v1](http://arxiv.org/abs/2305.03368v1)|null|
@@ -2716,6 +2729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**High temperature, gate-free quantum anomalous Hall effect with an active capping layer**|Hee Taek Yi et.al.|[2306.04552v1](http://arxiv.org/abs/2306.04552v1)|null|
 |**2023-06-03**|**Two types of zero Hall phenomena in few-layer MnBi $_2$Te$_4$**|Yaoxin Li et.al.|[2306.02046v1](http://arxiv.org/abs/2306.02046v1)|null|
 |**2023-06-03**|**Thickness-dependent, tunable anomalous Hall effect in hydrogen-reduced PdCoO $_2$ thin films**|Gaurab Rimal et.al.|[2306.01979v1](http://arxiv.org/abs/2306.01979v1)|null|
 |**2023-05-25**|**Heesch Weyl Fermions in inadmissible chiral antiferromagnets**|Xue-Jian Gao et.al.|[2305.15876v1](http://arxiv.org/abs/2305.15876v1)|null|
