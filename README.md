@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Asymmetric periodic boundary conditions for molecular dynamics and coarse-grained simulations of nucleic acids**|Radek Erban et.al.|[2306.05396v1](http://arxiv.org/abs/2306.05396v1)|null|
+|**2023-06-08**|**Line-graph qubit routing: from kagome to heavy-hex and more**|Joris Kattemölle et.al.|[2306.05385v1](http://arxiv.org/abs/2306.05385v1)|null|
+|**2023-06-08**|**Athermal quasistatic cavitation in amorphous solids: effect of random pinning**|Umang A. Dattani et.al.|[2306.05348v1](http://arxiv.org/abs/2306.05348v1)|null|
+|**2023-06-08**|**Spontaneous Self-Constraint in Active Nematic Flows**|Louise C. Head et.al.|[2306.05328v1](http://arxiv.org/abs/2306.05328v1)|null|
+|**2023-06-08**|**Integrated conversion and photodetection of virtual photons in an ultrastrongly coupled superconducting quantum circuit**|Luigi Giannelli et.al.|[2306.05200v1](http://arxiv.org/abs/2306.05200v1)|null|
+|**2023-06-08**|**Synergistic chemomechanical dynamics of feedback-controlled microreactors**|Sebastian Milster et.al.|[2306.05181v1](http://arxiv.org/abs/2306.05181v1)|null|
+|**2023-06-08**|**Temperature anomalies of oscillating diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2306.04977v1](http://arxiv.org/abs/2306.04977v1)|null|
+|**2023-06-08**|**Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian**|Haiyang Yu et.al.|[2306.04922v1](http://arxiv.org/abs/2306.04922v1)|**[link](https://github.com/divelab/AIRS)**|
+|**2023-06-08**|**Soft Matrix: Extracting Inherent Length Scales in Sheared Amorphous Solids**|Monoj Adhikari et.al.|[2306.04917v1](http://arxiv.org/abs/2306.04917v1)|null|
 |**2023-06-08**|**A New Paradigm Unifying the Concepts in Particle Abrasion and Breakage**|Priya Tripathi et.al.|[2306.04635v2](http://arxiv.org/abs/2306.04635v2)|null|
 |**2023-06-07**|**Pressure-Induced Phase Transformations of Quasi-2D Sr $_3$Hf$_2$O$_7$**|M. C. B. Barbosa et.al.|[2306.04624v1](http://arxiv.org/abs/2306.04624v1)|null|
 |**2023-06-07**|**Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals**|Fernando Caballero et.al.|[2306.04526v1](http://arxiv.org/abs/2306.04526v1)|null|
@@ -2729,6 +2738,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Epitaxial thin films of binary Eu-compounds close to a valence transition**|Sebastian Kölsch et.al.|[2306.05355v1](http://arxiv.org/abs/2306.05355v1)|null|
 |**2023-06-07**|**High temperature, gate-free quantum anomalous Hall effect with an active capping layer**|Hee Taek Yi et.al.|[2306.04552v1](http://arxiv.org/abs/2306.04552v1)|null|
 |**2023-06-03**|**Two types of zero Hall phenomena in few-layer MnBi $_2$Te$_4$**|Yaoxin Li et.al.|[2306.02046v1](http://arxiv.org/abs/2306.02046v1)|null|
 |**2023-06-03**|**Thickness-dependent, tunable anomalous Hall effect in hydrogen-reduced PdCoO $_2$ thin films**|Gaurab Rimal et.al.|[2306.01979v1](http://arxiv.org/abs/2306.01979v1)|null|
