@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Interplay Between Magnetic Frustration and Quantum Criticality in the Unconventional Ladder Antiferromagnet C9H18N2CuBr4**|Tao Hong et.al.|[2306.06021v1](http://arxiv.org/abs/2306.06021v1)|null|
+|**2023-06-09**|**Risk aversion promotes cooperation**|Jay Armas et.al.|[2306.05971v1](http://arxiv.org/abs/2306.05971v1)|null|
+|**2023-06-09**|**In search of a precursor for crystal nucleation of hard and charged colloids**|Marjolein de Jager et.al.|[2306.05886v1](http://arxiv.org/abs/2306.05886v1)|null|
+|**2023-06-09**|**Multiscale modeling of dislocations: Combining peridynamics with gradient elasticity**|Jonas Ritter et.al.|[2306.05782v1](http://arxiv.org/abs/2306.05782v1)|null|
+|**2023-06-09**|**General theory of the viscosity of liquids and solids from nonaffine particle motions**|Alessio Zaccone et.al.|[2306.05771v1](http://arxiv.org/abs/2306.05771v1)|null|
+|**2023-06-09**|**Seek Homogeneous Critical Ice Nucleus at Moderate Supercooling**|Maodong Li et.al.|[2306.05713v1](http://arxiv.org/abs/2306.05713v1)|null|
+|**2023-06-09**|**Active stop and go motion: a strategy to improve spatial exploration?**|Fernando Peruani et.al.|[2306.05647v1](http://arxiv.org/abs/2306.05647v1)|null|
+|**2023-06-09**|**Theoretical foundations of studying criticality in the brain**|Yang Tian et.al.|[2306.05635v1](http://arxiv.org/abs/2306.05635v1)|null|
+|**2023-06-08**|**Strain-stiffening elastomers fail from the edge**|Nan Xue et.al.|[2306.05575v1](http://arxiv.org/abs/2306.05575v1)|null|
+|**2023-06-08**|**Mean-field models for the chemical fueling of transient soft matter states**|Sven Pattloch et.al.|[2306.05504v1](http://arxiv.org/abs/2306.05504v1)|null|
 |**2023-06-08**|**Asymmetric periodic boundary conditions for molecular dynamics and coarse-grained simulations of nucleic acids**|Radek Erban et.al.|[2306.05396v1](http://arxiv.org/abs/2306.05396v1)|null|
 |**2023-06-08**|**Line-graph qubit routing: from kagome to heavy-hex and more**|Joris Kattemölle et.al.|[2306.05385v1](http://arxiv.org/abs/2306.05385v1)|**[link](https://github.com/kattemolle/LIGRAR)**|
 |**2023-06-08**|**Athermal quasistatic cavitation in amorphous solids: effect of random pinning**|Umang A. Dattani et.al.|[2306.05348v1](http://arxiv.org/abs/2306.05348v1)|null|
