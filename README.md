@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**An interpenetrating-network theory of cytoplasm**|Haiqian Yang et.al.|[2306.07256v1](http://arxiv.org/abs/2306.07256v1)|null|
+|**2023-06-12**|**The unusual glassy dynamics of confluent epithelial monolayer is nearly ideal for mode-coupling theory**|Satyam Pandey et.al.|[2306.07250v1](http://arxiv.org/abs/2306.07250v1)|null|
+|**2023-06-12**|**Direct Observation of the Translational Immobilization of Water Molecules Under Nanoscale Confinement**|Alec A. Beaton et.al.|[2306.07240v1](http://arxiv.org/abs/2306.07240v1)|null|
+|**2023-06-12**|**Geometric Localization of Waves on Thin Elastic Structures**|Manu Mannattil et.al.|[2306.07213v1](http://arxiv.org/abs/2306.07213v1)|**[link](https://github.com/manu-mannattil/glwtes)**|
+|**2023-06-12**|**Isolating the enhanced memory of a glassy system**|Travis R. Jalowiec et.al.|[2306.07177v1](http://arxiv.org/abs/2306.07177v1)|null|
+|**2023-06-12**|**Emerging mesoscale flows and chaotic advection in dense active matter**|Yann-Edwin Keta et.al.|[2306.07172v1](http://arxiv.org/abs/2306.07172v1)|null|
+|**2023-06-12**|**Odd elastohydrodynamics: non-reciprocal living material in a viscous fluid**|Kenta Ishimoto et.al.|[2306.07162v1](http://arxiv.org/abs/2306.07162v1)|null|
+|**2023-06-12**|**How reciprocity impacts ordering and phase separation in active nematics?**|Arpan Sinha et.al.|[2306.07153v1](http://arxiv.org/abs/2306.07153v1)|null|
+|**2023-06-12**|**$1/f$ noise from the trapping-detrapping process of individual charge carriers**|Aleksejus Kononovicius et.al.|[2306.07009v1](http://arxiv.org/abs/2306.07009v1)|null|
+|**2023-06-12**|**MultiCarroll dynamics**|P. -M. Zhang et.al.|[2306.07002v1](http://arxiv.org/abs/2306.07002v1)|null|
+|**2023-06-12**|**Arrhenius law for interacting diffusive systems**|Vishwajeet Kumar et.al.|[2306.06879v1](http://arxiv.org/abs/2306.06879v1)|null|
+|**2023-06-12**|**Restoration of non-Hermitian bulk-boundary correspondence by counterbalancing skin effect**|Yi-Xin Xiao et.al.|[2306.06837v1](http://arxiv.org/abs/2306.06837v1)|null|
+|**2023-06-11**|**Temperature Dependence of the Viscoelastic Properties of a Natural Gastropod Mucus by Brillouin Light Scattering Spectroscopy**|Dillon F. Hanlon et.al.|[2306.06807v1](http://arxiv.org/abs/2306.06807v1)|null|
+|**2023-06-11**|**Critical behavior in a chiral molecular model**|Pablo M. Piaggi et.al.|[2306.06746v1](http://arxiv.org/abs/2306.06746v1)|null|
+|**2023-06-11**|**Elasto-viscoplastic Spreading: from Plastocapillarity to Elastocapillarity**|Hugo L. Franc et.al.|[2306.06640v1](http://arxiv.org/abs/2306.06640v1)|null|
+|**2023-06-11**|**Programming tunable active dynamics in a self-propelled robot**|Somnath Paramanick et.al.|[2306.06609v1](http://arxiv.org/abs/2306.06609v1)|null|
+|**2023-06-11**|**Influence of slope angle on deposit morphology and propagation of laboratory landslides**|Yan-Bin Wu et.al.|[2306.06596v1](http://arxiv.org/abs/2306.06596v1)|null|
+|**2023-06-11**|**Dynamics of Polymer Ejection from a Nano-sphere**|Farzaneh Moazemi et.al.|[2306.06593v1](http://arxiv.org/abs/2306.06593v1)|null|
+|**2023-06-10**|**Inhomogeneous entropy production in active crystals with point imperfections**|Lorenzo Caprini et.al.|[2306.06400v1](http://arxiv.org/abs/2306.06400v1)|null|
+|**2023-06-09**|**Bandgaps of insulators from moment-functional based spectral density-functional theory**|Frank Freimuth et.al.|[2306.06259v1](http://arxiv.org/abs/2306.06259v1)|null|
 |**2023-06-09**|**Interplay Between Magnetic Frustration and Quantum Criticality in the Unconventional Ladder Antiferromagnet C9H18N2CuBr4**|Tao Hong et.al.|[2306.06021v1](http://arxiv.org/abs/2306.06021v1)|null|
 |**2023-06-09**|**Risk aversion promotes cooperation**|Jay Armas et.al.|[2306.05971v1](http://arxiv.org/abs/2306.05971v1)|null|
 |**2023-06-09**|**In search of a precursor for crystal nucleation of hard and charged colloids**|Marjolein de Jager et.al.|[2306.05886v1](http://arxiv.org/abs/2306.05886v1)|null|
@@ -2566,6 +2586,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Quantum Interference of Cavity Light Induced by a Single Atom in Double Well**|Yijia Zhou et.al.|[2306.07037v1](http://arxiv.org/abs/2306.07037v1)|null|
 |**2023-06-12**|**Light-induced half-quantized Hall effect and Axion insulator**|Fang Qin et.al.|[2306.03187v2](http://arxiv.org/abs/2306.03187v2)|null|
 |**2023-06-01**|**Optical Limiter Based on PT-Symmetry Breaking of Reflectionless Modes**|F. Riboli et.al.|[2306.01132v1](http://arxiv.org/abs/2306.01132v1)|null|
 |**2023-05-31**|**On the photovoltaic effect asymmetry in ferroelectrics**|S. Semak et.al.|[2305.19771v1](http://arxiv.org/abs/2305.19771v1)|null|
@@ -2692,6 +2713,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Unraveling the connection between high-order magnetic interactions and local-to-global spin Hamiltonian in non-collinear magnetic dimers**|Ramon Cardias et.al.|[2306.07222v1](http://arxiv.org/abs/2306.07222v1)|null|
+|**2023-06-10**|**The Central Role of Tilted Anisotropy for Field-Free Spin-Orbit Torque Switching of Perpendicular Magnetization**|Chen-Yu Hu et.al.|[2306.06357v1](http://arxiv.org/abs/2306.06357v1)|null|
 |**2023-06-01**|**Driving skyrmions in flow regime in synthetic ferrimagnets**|Sougata Mallick et.al.|[2305.19208v2](http://arxiv.org/abs/2305.19208v2)|null|
 |**2023-05-27**|**Energetic perspective on emergent inductance exhibited by magnetic textures in the pinned regime**|S. Furuta et.al.|[2305.16123v2](http://arxiv.org/abs/2305.16123v2)|null|
 |**2023-05-23**|**Spontaneous spin selectivity and linear magnetoelectric effect in chiral molecules**|Kouta Kondou et.al.|[2305.13702v1](http://arxiv.org/abs/2305.13702v1)|null|
