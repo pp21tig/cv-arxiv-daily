@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Linear Polycatenanes from Kinetoplast Edge Loops**|Josh Ragotskie et.al.|[2306.07907v1](http://arxiv.org/abs/2306.07907v1)|null|
+|**2023-06-13**|**Dynamical pattern formation without self-attraction in quorum-sensing active matter: the interplay between nonreciprocity and motility**|Yu Duan et.al.|[2306.07904v1](http://arxiv.org/abs/2306.07904v1)|null|
+|**2023-06-13**|**Light-induced melting of competing stripe orders without introducing superconductivity in La $_\mathbf{1.875}$Ba$_\mathbf{0.125}$CuO$_\mathbf{4}$**|S. J. Zhang et.al.|[2306.07869v1](http://arxiv.org/abs/2306.07869v1)|null|
+|**2023-06-13**|**Non-monotonic electrophoretic mobility of rod-like polyelectrolytes by multivalent coions in added salt**|Hossein Vahid et.al.|[2306.07860v1](http://arxiv.org/abs/2306.07860v1)|null|
+|**2023-06-13**|**Emergent Non-Local Combinatorial Design Rules for Multimodal Metamaterials**|Ryan van Mastrigt et.al.|[2306.07834v1](http://arxiv.org/abs/2306.07834v1)|null|
+|**2023-06-13**|**The main role of fractal-like nature of conformational space in subdiffusion in protein**|Luca Maggi et.al.|[2306.07825v1](http://arxiv.org/abs/2306.07825v1)|null|
+|**2023-06-13**|**Parallel Emergence of Rigidity and Collective Motion in a Family of Simulated Glass-Forming Polymer Fluids**|Xiaolei Xu et.al.|[2306.07759v1](http://arxiv.org/abs/2306.07759v1)|null|
+|**2023-06-13**|**Towards a better understanding of granular flows**|Vicente Garzó et.al.|[2306.07717v1](http://arxiv.org/abs/2306.07717v1)|null|
+|**2023-06-13**|**Statistical field theory of mechanical stresses in Coulomb fluids: beyond mean-field theory**|P. E. Brandyshev et.al.|[2306.07686v1](http://arxiv.org/abs/2306.07686v1)|null|
+|**2023-06-13**|**Liquid-Crystal-Based Controllable Attenuators Operating in the 1-4 Terahertz Band**|Aniela Dunn et.al.|[2306.07665v1](http://arxiv.org/abs/2306.07665v1)|null|
+|**2023-06-13**|**Ionic logic with highly asymmetric nanofluidic memristive switches**|Theo Emmerich et.al.|[2306.07617v1](http://arxiv.org/abs/2306.07617v1)|null|
+|**2023-06-13**|**Impact of coil-globule DNA transition in motile droplets of aqueous two-phase systems**|Tomohiro Furuki et.al.|[2306.07494v1](http://arxiv.org/abs/2306.07494v1)|null|
+|**2023-06-13**|**Backscattering-free edge states below all bands in two-dimensional auxetic media**|Wenting Cheng et.al.|[2306.07493v1](http://arxiv.org/abs/2306.07493v1)|null|
+|**2023-06-12**|**Splitting and Parallelizing of Quantum Convolutional Neural Networks for Learning Translationally Symmetric Data**|Koki Chinzei et.al.|[2306.07331v1](http://arxiv.org/abs/2306.07331v1)|null|
+|**2023-06-12**|**Strongly-Correlated Electron-Photon Systems**|Jacqueline Bloch et.al.|[2306.07313v1](http://arxiv.org/abs/2306.07313v1)|null|
 |**2023-06-12**|**An interpenetrating-network theory of cytoplasm**|Haiqian Yang et.al.|[2306.07256v1](http://arxiv.org/abs/2306.07256v1)|null|
 |**2023-06-12**|**The unusual glassy dynamics of confluent epithelial monolayer is nearly ideal for mode-coupling theory**|Satyam Pandey et.al.|[2306.07250v1](http://arxiv.org/abs/2306.07250v1)|null|
 |**2023-06-12**|**Direct Observation of the Translational Immobilization of Water Molecules Under Nanoscale Confinement**|Alec A. Beaton et.al.|[2306.07240v1](http://arxiv.org/abs/2306.07240v1)|null|
@@ -2590,6 +2605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Light-induced melting of competing stripe orders without introducing superconductivity in La $_\mathbf{1.875}$Ba$_\mathbf{0.125}$CuO$_\mathbf{4}$**|S. J. Zhang et.al.|[2306.07869v1](http://arxiv.org/abs/2306.07869v1)|null|
 |**2023-06-12**|**Quantum Interference of Cavity Light Induced by a Single Atom in Double Well**|Yijia Zhou et.al.|[2306.07037v1](http://arxiv.org/abs/2306.07037v1)|null|
 |**2023-06-12**|**Light-induced half-quantized Hall effect and Axion insulator**|Fang Qin et.al.|[2306.03187v2](http://arxiv.org/abs/2306.03187v2)|null|
 |**2023-06-01**|**Optical Limiter Based on PT-Symmetry Breaking of Reflectionless Modes**|F. Riboli et.al.|[2306.01132v1](http://arxiv.org/abs/2306.01132v1)|null|
@@ -2828,6 +2844,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Non-coplanar Long Wavelength Magnetism and Charge Order in the Kagome-based Weyl Semimetal Mn $_{3}$ Sn**|Y. Chen et.al.|[2306.07822v1](http://arxiv.org/abs/2306.07822v1)|null|
 |**2023-06-06**|**Exchange renormalized crystal field excitation in a quantum Ising magnet KTmSe $_2$**|Shiyi Zheng et.al.|[2306.03544v1](http://arxiv.org/abs/2306.03544v1)|null|
 |**2023-06-02**|**Excitations of quantum Ising chain CoNb2O6 in low transverse field: quantitative description of bound states stabilized by off-diagonal exchange and applied field**|Leonie Woodland et.al.|[2306.01948v1](http://arxiv.org/abs/2306.01948v1)|null|
 |**2023-06-01**|**Inelastic neutron scattering investigation of the crystal field excitations of NdCo $_5$**|F. de Almeida Passos et.al.|[2306.00821v1](http://arxiv.org/abs/2306.00821v1)|null|
