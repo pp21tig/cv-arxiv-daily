@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Quantum metric induced nonlinear anomalous Hall effect and nonreciprocal longitudinal response in a topological antiferromagnet**|Naizhou Wang et.al.|[2306.09285v1](http://arxiv.org/abs/2306.09285v1)|null|
+|**2023-06-15**|**Formulating Compressive Strength of Dust Aggregates from Low to High Volume Filling Factors with Numerical Simulations**|Misako Tatsuuma et.al.|[2306.09259v1](http://arxiv.org/abs/2306.09259v1)|null|
+|**2023-06-15**|**Instabilities in a growing system of active particles: scalar and vector systems**|Forouh Maleki et.al.|[2306.09173v1](http://arxiv.org/abs/2306.09173v1)|null|
+|**2023-06-15**|**Depinning transition of self-propelled particles**|Arthur V. Straube et.al.|[2306.09150v1](http://arxiv.org/abs/2306.09150v1)|null|
+|**2023-06-15**|**Physarum polycephalum: Smart network adaptation**|Mathieu Le Verge-Serandour et.al.|[2306.09063v1](http://arxiv.org/abs/2306.09063v1)|null|
+|**2023-06-15**|**Non-reciprocal pattern formation of conserved fields**|Fridtjof Brauns et.al.|[2306.08868v1](http://arxiv.org/abs/2306.08868v1)|null|
+|**2023-06-14**|**On the lack of influence of contact area on the solid-liquid lateral retention force**|Rafael de la Madrid et.al.|[2306.08689v1](http://arxiv.org/abs/2306.08689v1)|null|
+|**2023-06-14**|**Non-reciprocal Phase Separations with Non-conserved Order Parameters**|Maoji Liu et.al.|[2306.08534v1](http://arxiv.org/abs/2306.08534v1)|null|
+|**2023-06-14**|**Information Bottleneck in Peptide Conformation Determination by X-ray Absorption Spectroscopy**|Eemeli A. Eronen et.al.|[2306.08512v1](http://arxiv.org/abs/2306.08512v1)|null|
+|**2023-06-14**|**Non-linear physical aging of supercooled glycerol induced by large upward ideal temperature steps monitored through cooling experiments**|Marceau Hénot et.al.|[2306.08409v1](http://arxiv.org/abs/2306.08409v1)|null|
+|**2023-06-14**|**Autothermotaxis of volatile drops**|Pallav Kant et.al.|[2306.08408v1](http://arxiv.org/abs/2306.08408v1)|null|
+|**2023-06-14**|**Spontaneous Patterning of Binary Ligand Mixtures on CdSe Nanocrystals: from Random to Janus Packing**|Orian Elimelech et.al.|[2306.08372v1](http://arxiv.org/abs/2306.08372v1)|null|
+|**2023-06-14**|**How does the preparation strategy influence the gold cap of thermophoretic Janus swimmers and their propulsion?**|Franziska Braun et.al.|[2306.08333v1](http://arxiv.org/abs/2306.08333v1)|null|
+|**2023-06-14**|**Locality of contacts determines the subdiffusion exponents in polymeric models of chromatin**|E. Marchi et.al.|[2306.08301v1](http://arxiv.org/abs/2306.08301v1)|null|
+|**2023-06-14**|**Geometric and Dynamic Properties of Entangled Polymer Chains in Athermal Solvents: A Coarse-Grained Molecular Dynamics Study**|Jiayi Wang et.al.|[2306.08260v1](http://arxiv.org/abs/2306.08260v1)|null|
+|**2023-06-14**|**Eigenmodes of the Laplacian on Hyperbolic Lattices**|Eric Petermann et.al.|[2306.08248v1](http://arxiv.org/abs/2306.08248v1)|null|
+|**2023-06-14**|**Two-Dimensional Melting of two- and three-component mixtures**|Yan-Wei Li et.al.|[2306.08203v1](http://arxiv.org/abs/2306.08203v1)|null|
+|**2023-06-13**|**Entanglement in living systems**|Thomas C. Day et.al.|[2306.08070v1](http://arxiv.org/abs/2306.08070v1)|null|
 |**2023-06-13**|**Linear Polycatenanes from Kinetoplast Edge Loops**|Josh Ragotskie et.al.|[2306.07907v1](http://arxiv.org/abs/2306.07907v1)|null|
 |**2023-06-13**|**Dynamical pattern formation without self-attraction in quorum-sensing active matter: the interplay between nonreciprocity and motility**|Yu Duan et.al.|[2306.07904v1](http://arxiv.org/abs/2306.07904v1)|null|
 |**2023-06-13**|**Light-induced melting of competing stripe orders without introducing superconductivity in La $_\mathbf{1.875}$Ba$_\mathbf{0.125}$CuO$_\mathbf{4}$**|S. J. Zhang et.al.|[2306.07869v1](http://arxiv.org/abs/2306.07869v1)|null|
@@ -2791,6 +2809,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Quantum metric induced nonlinear anomalous Hall effect and nonreciprocal longitudinal response in a topological antiferromagnet**|Naizhou Wang et.al.|[2306.09285v1](http://arxiv.org/abs/2306.09285v1)|null|
+|**2023-06-14**|**Fermi Surface Evolution and Anomalous Hall Effect in an Ideal Type-II Weyl Semimetal**|Qianni Jiang et.al.|[2306.08339v1](http://arxiv.org/abs/2306.08339v1)|null|
+|**2023-06-14**|**Reentrant quantum spin Hall effect in the presence of an exchange field**|Xiaoyu Cheng et.al.|[2306.08225v1](http://arxiv.org/abs/2306.08225v1)|null|
 |**2023-06-08**|**Epitaxial thin films of binary Eu-compounds close to a valence transition**|Sebastian Kölsch et.al.|[2306.05355v1](http://arxiv.org/abs/2306.05355v1)|null|
 |**2023-06-07**|**High temperature, gate-free quantum anomalous Hall effect with an active capping layer**|Hee Taek Yi et.al.|[2306.04552v1](http://arxiv.org/abs/2306.04552v1)|null|
 |**2023-06-03**|**Two types of zero Hall phenomena in few-layer MnBi $_2$Te$_4$**|Yaoxin Li et.al.|[2306.02046v1](http://arxiv.org/abs/2306.02046v1)|null|
