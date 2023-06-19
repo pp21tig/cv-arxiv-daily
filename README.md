@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Self-Assembly of Core-Shell Hybrid Nanoparticles by Directional Crystallization of Grafted Polymers**|Afshin Nabiyan et.al.|[2306.09953v1](http://arxiv.org/abs/2306.09953v1)|null|
+|**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
+|**2023-06-16**|**Collapse transition of a Lennard Jones polymer**|Stefan Schnabel et.al.|[2306.09724v1](http://arxiv.org/abs/2306.09724v1)|null|
+|**2023-06-16**|**Dynamics of squirmers in explicitly modeled polymeric fluids**|Andreas Zöttl et.al.|[2306.09720v1](http://arxiv.org/abs/2306.09720v1)|null|
+|**2023-06-16**|**Role of topological charges in the nonlinear-optical response from Weyl semimetals**|Amar Bharti et.al.|[2306.09625v1](http://arxiv.org/abs/2306.09625v1)|null|
+|**2023-06-16**|**Solvable model of driven matter with pinning**|Gourab Kumar Sar et.al.|[2306.09589v1](http://arxiv.org/abs/2306.09589v1)|null|
+|**2023-06-16**|**Quantum metric nonlinear Hall effect in a topological antiferromagnet**|Anyuan Gao et.al.|[2306.09575v1](http://arxiv.org/abs/2306.09575v1)|null|
+|**2023-06-16**|**Nature of the 1/9-magnetization plateau in the spin-1/2 kagome Heisenberg antiferromagnet**|Da-zhi Fang et.al.|[2306.09563v1](http://arxiv.org/abs/2306.09563v1)|null|
+|**2023-06-15**|**Active particle in a harmonic trap driven by a resetting noise: an approach via Kesten variables**|Mathis Gueneau et.al.|[2306.09453v1](http://arxiv.org/abs/2306.09453v1)|null|
+|**2023-06-15**|**Numerical signatures of ultra-local criticality in a one dimensional Kondo lattice model**|Alexander Nikolaenko et.al.|[2306.09402v1](http://arxiv.org/abs/2306.09402v1)|null|
+|**2023-06-15**|**Why solvent response contributions to solvation free energies are compatible with Ben-Naim's theorem**|Leonard P. Heinz et.al.|[2306.09392v1](http://arxiv.org/abs/2306.09392v1)|null|
 |**2023-06-15**|**Quantum metric induced nonlinear anomalous Hall effect and nonreciprocal longitudinal response in a topological antiferromagnet**|Naizhou Wang et.al.|[2306.09285v1](http://arxiv.org/abs/2306.09285v1)|null|
 |**2023-06-15**|**Formulating Compressive Strength of Dust Aggregates from Low to High Volume Filling Factors with Numerical Simulations**|Misako Tatsuuma et.al.|[2306.09259v1](http://arxiv.org/abs/2306.09259v1)|null|
 |**2023-06-15**|**Instabilities in a growing system of active particles: scalar and vector systems**|Forouh Maleki et.al.|[2306.09173v1](http://arxiv.org/abs/2306.09173v1)|null|
@@ -2619,6 +2630,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Ultrafast switching of topological invariants by light-driven strain**|Tae Gwan Park et.al.|[2306.09766v1](http://arxiv.org/abs/2306.09766v1)|null|
 |**2023-06-13**|**Light-induced melting of competing stripe orders without introducing superconductivity in La $_\mathbf{1.875}$Ba$_\mathbf{0.125}$CuO$_\mathbf{4}$**|S. J. Zhang et.al.|[2306.07869v1](http://arxiv.org/abs/2306.07869v1)|null|
 |**2023-06-12**|**Quantum Interference of Cavity Light Induced by a Single Atom in Double Well**|Yijia Zhou et.al.|[2306.07037v1](http://arxiv.org/abs/2306.07037v1)|null|
 |**2023-06-12**|**Light-induced half-quantized Hall effect and Axion insulator**|Fang Qin et.al.|[2306.03187v2](http://arxiv.org/abs/2306.03187v2)|null|
@@ -2747,6 +2759,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Spin and orbital Hall currents detected via current induced magneto-optical Kerr effect in V and Pt**|Y. Marui et.al.|[2306.09585v1](http://arxiv.org/abs/2306.09585v1)|null|
 |**2023-06-12**|**Unraveling the connection between high-order magnetic interactions and local-to-global spin Hamiltonian in non-collinear magnetic dimers**|Ramon Cardias et.al.|[2306.07222v1](http://arxiv.org/abs/2306.07222v1)|null|
 |**2023-06-10**|**The Central Role of Tilted Anisotropy for Field-Free Spin-Orbit Torque Switching of Perpendicular Magnetization**|Chen-Yu Hu et.al.|[2306.06357v1](http://arxiv.org/abs/2306.06357v1)|null|
 |**2023-06-01**|**Driving skyrmions in flow regime in synthetic ferrimagnets**|Sougata Mallick et.al.|[2305.19208v2](http://arxiv.org/abs/2305.19208v2)|null|
@@ -2805,6 +2818,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Role of topological charges in the nonlinear-optical response from Weyl semimetals**|Amar Bharti et.al.|[2306.09625v1](http://arxiv.org/abs/2306.09625v1)|null|
+|**2023-06-16**|**Probing the Anomalous Hall Transport and Magnetic Reversal of Chiral-Lattice Antiferromagnet Co $_{1/3}$NbS$_2$**|Pingfan Gu et.al.|[2306.09616v1](http://arxiv.org/abs/2306.09616v1)|null|
+|**2023-06-16**|**Quantum metric nonlinear Hall effect in a topological antiferromagnet**|Anyuan Gao et.al.|[2306.09575v1](http://arxiv.org/abs/2306.09575v1)|null|
 |**2023-06-15**|**Quantum metric induced nonlinear anomalous Hall effect and nonreciprocal longitudinal response in a topological antiferromagnet**|Naizhou Wang et.al.|[2306.09285v1](http://arxiv.org/abs/2306.09285v1)|null|
 |**2023-06-14**|**Fermi Surface Evolution and Anomalous Hall Effect in an Ideal Type-II Weyl Semimetal**|Qianni Jiang et.al.|[2306.08339v1](http://arxiv.org/abs/2306.08339v1)|null|
 |**2023-06-14**|**Reentrant quantum spin Hall effect in the presence of an exchange field**|Xiaoyu Cheng et.al.|[2306.08225v1](http://arxiv.org/abs/2306.08225v1)|null|
@@ -2861,6 +2877,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Magnetic ground state and perturbations of the distorted kagome Ising metal TmAgGe**|C. B. Larsen et.al.|[2306.09867v1](http://arxiv.org/abs/2306.09867v1)|null|
+|**2023-06-16**|**Bose-Einstein condensation of a two-magnon bound state in a spin-one triangular lattice**|Jieming Sheng et.al.|[2306.09695v1](http://arxiv.org/abs/2306.09695v1)|null|
 |**2023-06-13**|**Non-coplanar Long Wavelength Magnetism and Charge Order in the Kagome-based Weyl Semimetal Mn $_{3}$ Sn**|Y. Chen et.al.|[2306.07822v1](http://arxiv.org/abs/2306.07822v1)|null|
 |**2023-06-06**|**Exchange renormalized crystal field excitation in a quantum Ising magnet KTmSe $_2$**|Shiyi Zheng et.al.|[2306.03544v1](http://arxiv.org/abs/2306.03544v1)|null|
 |**2023-06-02**|**Excitations of quantum Ising chain CoNb2O6 in low transverse field: quantitative description of bound states stabilized by off-diagonal exchange and applied field**|Leonie Woodland et.al.|[2306.01948v1](http://arxiv.org/abs/2306.01948v1)|null|
