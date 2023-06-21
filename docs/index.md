@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Hydrodynamic Lubrication in Colloidal Gels**|Kim William Torre et.al.|[2306.11716v1](http://arxiv.org/abs/2306.11716v1)|null|
+|**2023-06-20**|**Emergence of tip singularities in dissolution patterns**|Martin Chaigne et.al.|[2306.11676v1](http://arxiv.org/abs/2306.11676v1)|null|
+|**2023-06-20**|**Critical percolation in the ordering kinetics of twisted nematic phases**|Renan A. L. Almeida et.al.|[2306.11672v1](http://arxiv.org/abs/2306.11672v1)|null|
+|**2023-06-20**|**Energy-efficient superparamagnetic Ising machine and its application to traveling salesman problems**|Jia Si et.al.|[2306.11572v1](http://arxiv.org/abs/2306.11572v1)|null|
+|**2023-06-20**|**On morphological and functional complexity of proteinoid microspheres**|Saksham Sharma et.al.|[2306.11458v1](http://arxiv.org/abs/2306.11458v1)|null|
+|**2023-06-20**|**Stripes polymorphism and water-like anomaly in hard core-soft corona dumbbells**|T. P. O. Nogueira et.al.|[2306.11452v1](http://arxiv.org/abs/2306.11452v1)|null|
+|**2023-06-20**|**Tracer diffusion coefficients in a moderately dense granular suspension. Stability analysis and thermal diffusion segregation**|Rubén Gómez González et.al.|[2306.11384v1](http://arxiv.org/abs/2306.11384v1)|null|
+|**2023-06-20**|**Computational Microscopy beyond Perfect Lenses**|Xingyuan Lu et.al.|[2306.11283v1](http://arxiv.org/abs/2306.11283v1)|null|
+|**2023-06-20**|**Magnetic Exciton-Polariton with Strongly Coupled Atomic and Photonic Anisotropies**|Qiuyang Li et.al.|[2306.11265v1](http://arxiv.org/abs/2306.11265v1)|null|
+|**2023-06-20**|**Universal behavior in fragmenting brittle, isotropic solids across material properties**|Joel T. Clemmer et.al.|[2306.11228v1](http://arxiv.org/abs/2306.11228v1)|null|
+|**2023-06-19**|**Chiral active matter in external potentials**|Lorenzo Caprini et.al.|[2306.11133v1](http://arxiv.org/abs/2306.11133v1)|null|
+|**2023-06-19**|**Three-Body Interactions of Lipid Membrane-Deforming Colloidal Spheres**|Ali Azadbakht et.al.|[2306.10914v1](http://arxiv.org/abs/2306.10914v1)|null|
+|**2023-06-19**|**II. Geometrical framework for thinking about globular proteins: the power of poking**|Tatjana Škrbić et.al.|[2306.10867v1](http://arxiv.org/abs/2306.10867v1)|null|
+|**2023-06-19**|**Fertile metastability**|P. Pieranski et.al.|[2306.10859v1](http://arxiv.org/abs/2306.10859v1)|null|
+|**2023-06-19**|**A geometrical framework for thinking about proteins**|Jayanth R. Banavar et.al.|[2306.10853v1](http://arxiv.org/abs/2306.10853v1)|null|
+|**2023-06-19**|**Formation of liquid shells in active droplet systems**|Jonathan Bauermann et.al.|[2306.10852v1](http://arxiv.org/abs/2306.10852v1)|null|
+|**2023-06-19**|**Moving along an exceptional surface towards a higher-order exceptional point**|Jan Wiersig et.al.|[2306.10851v1](http://arxiv.org/abs/2306.10851v1)|null|
+|**2023-06-19**|**Observation of Wannier-Stark ladder beyond mobility edge in disorder-free mosaic lattices**|Jun Gao et.al.|[2306.10831v1](http://arxiv.org/abs/2306.10831v1)|null|
+|**2023-06-19**|**Active Ising Models of Flocking: A Field-Theoretic Approach**|Mattia Scandolo et.al.|[2306.10791v1](http://arxiv.org/abs/2306.10791v1)|null|
+|**2023-06-19**|**Flowing in Curved Space: Curvature Heterogeneity and Singular Perturbation to Darcy's Flows**|Stéphane Guillet et.al.|[2306.10781v1](http://arxiv.org/abs/2306.10781v1)|null|
 |**2023-06-16**|**Self-Assembly of Core-Shell Hybrid Nanoparticles by Directional Crystallization of Grafted Polymers**|Afshin Nabiyan et.al.|[2306.09953v1](http://arxiv.org/abs/2306.09953v1)|null|
 |**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
 |**2023-06-16**|**Collapse transition of a Lennard Jones polymer**|Stefan Schnabel et.al.|[2306.09724v1](http://arxiv.org/abs/2306.09724v1)|null|
@@ -2763,6 +2783,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Towards mutual synchronization of serially connected Spin Torque Oscillators based on magnetic tunnel junctions**|Piotr Rzeszut et.al.|[2306.11608v1](http://arxiv.org/abs/2306.11608v1)|null|
+|**2023-06-19**|**Magneto-Optical Detection of the Orbital Hall Effect in Chromium**|Igor Lyalin et.al.|[2306.10673v1](http://arxiv.org/abs/2306.10673v1)|null|
 |**2023-06-16**|**Spin and orbital Hall currents detected via current induced magneto-optical Kerr effect in V and Pt**|Y. Marui et.al.|[2306.09585v1](http://arxiv.org/abs/2306.09585v1)|null|
 |**2023-06-12**|**Unraveling the connection between high-order magnetic interactions and local-to-global spin Hamiltonian in non-collinear magnetic dimers**|Ramon Cardias et.al.|[2306.07222v1](http://arxiv.org/abs/2306.07222v1)|null|
 |**2023-06-10**|**The Central Role of Tilted Anisotropy for Field-Free Spin-Orbit Torque Switching of Perpendicular Magnetization**|Chen-Yu Hu et.al.|[2306.06357v1](http://arxiv.org/abs/2306.06357v1)|null|
@@ -2881,6 +2903,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Reconstructing the spatial structure of quantum correlations**|Allen Scheie et.al.|[2306.11723v1](http://arxiv.org/abs/2306.11723v1)|null|
+|**2023-06-20**|**In-plane anisotropy of the single- $q$ and multiple-$q$ ordered phases in the antiferromagnetic metal CeRh$_2$Si$_2$ unveiled by the bulk measurements under uniaxial stress and neutron scattering**|Hiraku Saito et.al.|[2306.11284v1](http://arxiv.org/abs/2306.11284v1)|null|
 |**2023-06-16**|**Magnetic ground state and perturbations of the distorted kagome Ising metal TmAgGe**|C. B. Larsen et.al.|[2306.09867v1](http://arxiv.org/abs/2306.09867v1)|null|
 |**2023-06-16**|**Bose-Einstein condensation of a two-magnon bound state in a spin-one triangular lattice**|Jieming Sheng et.al.|[2306.09695v1](http://arxiv.org/abs/2306.09695v1)|null|
 |**2023-06-13**|**Non-coplanar Long Wavelength Magnetism and Charge Order in the Kagome-based Weyl Semimetal Mn $_{3}$ Sn**|Y. Chen et.al.|[2306.07822v1](http://arxiv.org/abs/2306.07822v1)|null|
