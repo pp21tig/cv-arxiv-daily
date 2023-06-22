@@ -1098,6 +1098,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Hydrophobically gated memristive nanopores for neuromorphic computing**|Gonçalo Paulo et.al.|[2306.12187v1](http://arxiv.org/abs/2306.12187v1)|null|
+|**2023-06-21**|**The effect of direct electron beam patterning on the water uptake and ionic conductivity of Nafion thin films**|Ky V. Nguyen et.al.|[2306.12029v1](http://arxiv.org/abs/2306.12029v1)|null|
+|**2023-06-21**|**Effect of a hybrid transition moment on Stark-modulated photon echoes in Er $^{3+}$:Y$_2$SiO$_5$**|Rose L. Ahlefeldt et.al.|[2306.12007v1](http://arxiv.org/abs/2306.12007v1)|null|
+|**2023-06-21**|**Effective Medium Theory for Mechanical Phase Transitions of Fiber Networks**|Sihan Chen et.al.|[2306.11972v1](http://arxiv.org/abs/2306.11972v1)|null|
+|**2023-06-20**|**Quantum critical fans from critical lines at zero temperature**|Hui Yu et.al.|[2306.11902v1](http://arxiv.org/abs/2306.11902v1)|null|
+|**2023-06-20**|**Observation of microscopic confinement dynamics by a tunable topological $θ$ -angle**|Wei-Yong Zhang et.al.|[2306.11794v1](http://arxiv.org/abs/2306.11794v1)|null|
 |**2023-06-20**|**Hydrodynamic Lubrication in Colloidal Gels**|Kim William Torre et.al.|[2306.11716v1](http://arxiv.org/abs/2306.11716v1)|null|
 |**2023-06-20**|**Emergence of tip singularities in dissolution patterns**|Martin Chaigne et.al.|[2306.11676v1](http://arxiv.org/abs/2306.11676v1)|null|
 |**2023-06-20**|**Critical percolation in the ordering kinetics of twisted nematic phases**|Renan A. L. Almeida et.al.|[2306.11672v1](http://arxiv.org/abs/2306.11672v1)|null|
@@ -2840,6 +2846,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Optical study of three-dimensional Weyl semimetal Mn $_3$ Sn**|L. Y. Cao et.al.|[2306.12180v1](http://arxiv.org/abs/2306.12180v1)|null|
 |**2023-06-16**|**Role of topological charges in the nonlinear-optical response from Weyl semimetals**|Amar Bharti et.al.|[2306.09625v1](http://arxiv.org/abs/2306.09625v1)|null|
 |**2023-06-16**|**Probing the Anomalous Hall Transport and Magnetic Reversal of Chiral-Lattice Antiferromagnet Co $_{1/3}$NbS$_2$**|Pingfan Gu et.al.|[2306.09616v1](http://arxiv.org/abs/2306.09616v1)|null|
 |**2023-06-16**|**Quantum metric nonlinear Hall effect in a topological antiferromagnet**|Anyuan Gao et.al.|[2306.09575v1](http://arxiv.org/abs/2306.09575v1)|null|
