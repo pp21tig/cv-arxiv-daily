@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**A Taxonomy of Snow Crystal Growth Behaviors: 2. Quantifying the Nakaya Diagram**|Kenneth G. Libbrecht et.al.|[2306.13087v1](http://arxiv.org/abs/2306.13087v1)|null|
+|**2023-06-22**|**Topological defects at smectic interfaces as a potential tool for the biosensing of living microorganisms**|Vajra S. Badha et.al.|[2306.12989v1](http://arxiv.org/abs/2306.12989v1)|null|
+|**2023-06-22**|**Single-file transport of binary hard-sphere mixtures through periodic potentials**|David Voráč et.al.|[2306.12979v1](http://arxiv.org/abs/2306.12979v1)|null|
+|**2023-06-22**|**The Physical Effects of Learning**|Menachem Stern et.al.|[2306.12928v1](http://arxiv.org/abs/2306.12928v1)|null|
+|**2023-06-22**|**Nonlinear Mechanics of Remodeling**|Aditya Kumar et.al.|[2306.12880v1](http://arxiv.org/abs/2306.12880v1)|null|
+|**2023-06-22**|**Permeation dynamics of active swimmers through anisotropic porous walls**|Florian von Rüling et.al.|[2306.12866v1](http://arxiv.org/abs/2306.12866v1)|null|
+|**2023-06-22**|**Porous crystals in charged sphere suspensions by aggregate-driven phase separation**|Nina Lorenz et.al.|[2306.12748v1](http://arxiv.org/abs/2306.12748v1)|null|
+|**2023-06-22**|**Logarithmic or algebraic: roughening of a generalised Kardar-Parisi-Zhang equation**|Debayan Jana et.al.|[2306.12733v1](http://arxiv.org/abs/2306.12733v1)|null|
+|**2023-06-22**|**Active Brownian Particles in a Circular Disk with an Absorbing Boundary**|Francesco Di Trapani et.al.|[2306.12702v1](http://arxiv.org/abs/2306.12702v1)|null|
+|**2023-06-21**|**Loops are Geometric Catalysts for DNA Integration**|Cleis Battaglia et.al.|[2306.12558v1](http://arxiv.org/abs/2306.12558v1)|null|
+|**2023-06-21**|**Fractal dimensions of jammed packings with power-law particle size distributions in two and three dimensions**|Joseph M. Monti et.al.|[2306.12499v1](http://arxiv.org/abs/2306.12499v1)|null|
+|**2023-06-20**|**Thermodynamics of Information**|Juan M. R. Parrondo et.al.|[2306.12447v1](http://arxiv.org/abs/2306.12447v1)|null|
 |**2023-06-21**|**Hydrophobically gated memristive nanopores for neuromorphic computing**|Gonçalo Paulo et.al.|[2306.12187v1](http://arxiv.org/abs/2306.12187v1)|null|
 |**2023-06-21**|**The effect of direct electron beam patterning on the water uptake and ionic conductivity of Nafion thin films**|Ky V. Nguyen et.al.|[2306.12029v1](http://arxiv.org/abs/2306.12029v1)|null|
 |**2023-06-21**|**Effect of a hybrid transition moment on Stark-modulated photon echoes in Er $^{3+}$:Y$_2$SiO$_5$**|Rose L. Ahlefeldt et.al.|[2306.12007v1](http://arxiv.org/abs/2306.12007v1)|null|
