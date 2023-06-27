@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Fermionic Simulators for Enhanced Scalability of Variational Quantum Simulation**|Qingyu Li et.al.|[2306.14842v1](http://arxiv.org/abs/2306.14842v1)|null|
+|**2023-06-26**|**PECVD and PEALD on polymer substrates (Part II): Understanding and tuning of barrier and membrane properties of thin films**|Teresa de los Arcos et.al.|[2306.14797v1](http://arxiv.org/abs/2306.14797v1)|null|
+|**2023-06-26**|**dsDNA persistence length with divalent ions**|Manoel Manghi et.al.|[2306.14758v1](http://arxiv.org/abs/2306.14758v1)|null|
+|**2023-06-26**|**Shear Viscosity expression for Graphene system in Relaxation time approximation**|Cho Win Aung et.al.|[2306.14747v1](http://arxiv.org/abs/2306.14747v1)|null|
+|**2023-06-26**|**Repulsively bound magnon excitations of a spin-1/2 XXZ chain in a staggered transverse field**|Catalin-Mihai Halati et.al.|[2306.14742v1](http://arxiv.org/abs/2306.14742v1)|null|
+|**2023-06-26**|**Soap bubble lasers**|Zala Potočnik et.al.|[2306.14676v1](http://arxiv.org/abs/2306.14676v1)|null|
+|**2023-06-26**|**Dispersion of Multiferroic Nanoparticles in a Bent-Core Nematic Liquid Crystal: Experimental and Theoretical Study**|Dhananjoy Mandal et.al.|[2306.14623v1](http://arxiv.org/abs/2306.14623v1)|null|
+|**2023-06-26**|**Self-Assembly of Rhamnolipids Bioamphiphiles: Understanding Structure-Properties Relationship using Small-Angle X-Ray Scattering**|Niki Baccile et.al.|[2306.14612v1](http://arxiv.org/abs/2306.14612v1)|null|
+|**2023-06-26**|**To be or not to be polar: the ferroelectric and antiferroelectric nematic phases**|Ewan Cruickshank et.al.|[2306.14582v1](http://arxiv.org/abs/2306.14582v1)|null|
+|**2023-06-26**|**Instability and rupture of sheared viscous liquid nanofilms**|Vira Dhaliwal et.al.|[2306.14557v1](http://arxiv.org/abs/2306.14557v1)|null|
+|**2023-06-26**|**Josephson current flowing through a nontrivial geometry: The role of pairing fluctuations across the BCS-BEC crossover**|Verdiana Piselli et.al.|[2306.14494v1](http://arxiv.org/abs/2306.14494v1)|null|
+|**2023-06-26**|**Phase purity and surface morphology of high-Jc superconducting Bi2Sr2Ca1Cu2O8+δ thin films**|Sandra Keppert et.al.|[2306.14481v1](http://arxiv.org/abs/2306.14481v1)|null|
+|**2023-06-26**|**A Way of Determination of Axion Mass with Quantum Hall Effect**|Aiichi Iwazaki et.al.|[2306.14475v1](http://arxiv.org/abs/2306.14475v1)|null|
+|**2023-06-26**|**Quantum fluctuations lead to glassy electron dynamics in a good metal**|Shashank Kumar Ojha et.al.|[2306.14464v1](http://arxiv.org/abs/2306.14464v1)|null|
+|**2023-06-26**|**Oxygen Isotope Exchange Between Molten Silicate Spherules and Ambient Water Vapor with Nonzero Relative Velocity: Implication for Chondrule Formation Environment**|Sota Arakawa et.al.|[2306.14413v1](http://arxiv.org/abs/2306.14413v1)|null|
+|**2023-06-25**|**Time-reversal invariant topological skyrmion phases**|R. Flores-Calderon et.al.|[2306.14204v1](http://arxiv.org/abs/2306.14204v1)|null|
+|**2023-06-25**|**Andreev hidden spinor coordinates: Standard Model, gravity and $^3$ He**|G. E. Volovik et.al.|[2306.14174v1](http://arxiv.org/abs/2306.14174v1)|null|
+|**2023-06-24**|**Asymmetric rectified electric and concentration fields in multicomponent electrolytes with surface reactions**|Nathan Jarvey et.al.|[2306.14068v1](http://arxiv.org/abs/2306.14068v1)|null|
+|**2023-06-24**|**Enhancement of Carrier Mobility in Semiconductor Nanostructures by Carrier Distribution Engineering**|Binxi Liang et.al.|[2306.13921v1](http://arxiv.org/abs/2306.13921v1)|null|
+|**2023-06-24**|**Magnetic levitation and harmonic trapping of a milligram-scale Yttrium Iron Garnet sphere**|Maria Fuwa et.al.|[2306.13917v1](http://arxiv.org/abs/2306.13917v1)|null|
 |**2023-06-23**|**Vorticity and level-set variations of invariant current bound steady-state dissipation**|Hao De et.al.|[2306.13647v1](http://arxiv.org/abs/2306.13647v1)|null|
 |**2023-06-23**|**The size and shape of snowflake star polymers in dilute solutions: analytical and numerical approaches**|Khristine Haydukivska et.al.|[2306.13525v1](http://arxiv.org/abs/2306.13525v1)|null|
 |**2023-06-23**|**Differential scattering cross section of the non-Abelian Aharonov-Bohm effect in multiband systems**|Róbert Németh et.al.|[2306.13448v1](http://arxiv.org/abs/2306.13448v1)|null|
@@ -2687,6 +2707,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Comment on "Light-induced melting of competing stripe orders without introducing superconductivity in La $_{1.875}$Ba$_{0.125}$CuO$_4$ " (arXiv:2306.07869v1)**|D. Nicoletti et.al.|[2306.14438v1](http://arxiv.org/abs/2306.14438v1)|null|
 |**2023-06-23**|**Light-induced switching between singlet and triplet superconducting states**|Steven Gassner et.al.|[2306.13632v1](http://arxiv.org/abs/2306.13632v1)|null|
 |**2023-06-23**|**Neural 360 $^\circ$ Structured Light with Learned Metasurfaces**|Eunsue Choi et.al.|[2306.13361v1](http://arxiv.org/abs/2306.13361v1)|null|
 |**2023-06-16**|**Ultrafast switching of topological invariants by light-driven strain**|Tae Gwan Park et.al.|[2306.09766v1](http://arxiv.org/abs/2306.09766v1)|null|
@@ -2818,6 +2839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-25**|**Current-induced deterministic switching of van der Waals ferromagnet at room temperature**|Shivam N. Kajale et.al.|[2306.14355v1](http://arxiv.org/abs/2306.14355v1)|null|
 |**2023-06-23**|**Spin transport between polarized Fermi gases near the ferromagnetic phase transition**|Tingyu Zhang et.al.|[2306.13536v1](http://arxiv.org/abs/2306.13536v1)|null|
 |**2023-06-21**|**Towards mutual synchronization of serially connected Spin Torque Oscillators based on magnetic tunnel junctions**|Piotr Rzeszut et.al.|[2306.11608v2](http://arxiv.org/abs/2306.11608v2)|null|
 |**2023-06-19**|**Magneto-Optical Detection of the Orbital Hall Effect in Chromium**|Igor Lyalin et.al.|[2306.10673v1](http://arxiv.org/abs/2306.10673v1)|null|
@@ -2880,6 +2902,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Non-Hermitian chiral anomalies in interacting systems**|Sharareh Sayyad et.al.|[2306.14766v1](http://arxiv.org/abs/2306.14766v1)|null|
 |**2023-06-21**|**Optical study of three-dimensional Weyl semimetal Mn $_3$ Sn**|L. Y. Cao et.al.|[2306.12180v1](http://arxiv.org/abs/2306.12180v1)|null|
 |**2023-06-16**|**Role of topological charges in the nonlinear-optical response from Weyl semimetals**|Amar Bharti et.al.|[2306.09625v1](http://arxiv.org/abs/2306.09625v1)|null|
 |**2023-06-16**|**Probing the Anomalous Hall Transport and Magnetic Reversal of Chiral-Lattice Antiferromagnet Co $_{1/3}$NbS$_2$**|Pingfan Gu et.al.|[2306.09616v1](http://arxiv.org/abs/2306.09616v1)|null|
@@ -2940,6 +2963,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Magnetic ground states and excitations in Zn-doped averieite -- a family of oxide-based $S=1/2$ kagome antiferromagnets**|M. Georgopoulou et.al.|[2306.14739v1](http://arxiv.org/abs/2306.14739v1)|null|
 |**2023-06-22**|**Quantum Spin Ice Response to a Magnetic Field in the Dipole-Octupole Pyrochlore Ce $_2$Zr$_2$O$_7$**|E. M. Smith et.al.|[2306.13183v1](http://arxiv.org/abs/2306.13183v1)|null|
 |**2023-06-20**|**Reconstructing the spatial structure of quantum correlations**|Allen Scheie et.al.|[2306.11723v1](http://arxiv.org/abs/2306.11723v1)|null|
 |**2023-06-22**|**In-plane anisotropy of the single- $q$ and multiple-$q$ ordered phases in the antiferromagnetic metal CeRh$_2$Si$_2$ unveiled by the bulk measurements under uniaxial stress and neutron scattering**|Hiraku Saito et.al.|[2306.11284v2](http://arxiv.org/abs/2306.11284v2)|null|
