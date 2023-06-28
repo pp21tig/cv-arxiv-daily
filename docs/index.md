@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Compression and fracture of ordered and disordered droplet rafts**|Pablo Eduardo Illing et.al.|[2306.15645v1](http://arxiv.org/abs/2306.15645v1)|null|
+|**2023-06-27**|**Toward a unified description of the electrostatic assembly of microgels and nanoparticles**|Francesco Brasili et.al.|[2306.15617v1](http://arxiv.org/abs/2306.15617v1)|null|
+|**2023-06-27**|**Spontaneous Demixing of Binary Colloidal Flocks**|Samadarshi Maity et.al.|[2306.15614v1](http://arxiv.org/abs/2306.15614v1)|null|
+|**2023-06-27**|**The Radial Hedgehog Solution in the Landau-de Gennes Theory: Effects of the Bulk Potentials**|Sophie McLauchlan et.al.|[2306.15563v1](http://arxiv.org/abs/2306.15563v1)|null|
+|**2023-06-27**|**Adaptive discretization refinement for discrete models of coupled mechanics and mass transport in concrete**|Jan Mašek et.al.|[2306.15547v1](http://arxiv.org/abs/2306.15547v1)|null|
+|**2023-06-27**|**Miniaturized gas-solid fluidized beds**|Fernando David Cúñez Benalcázar et.al.|[2306.15463v1](http://arxiv.org/abs/2306.15463v1)|null|
+|**2023-06-27**|**EPIq : an open-source software for the calculation of electron-phonon interaction related properties**|Giovanni Marini et.al.|[2306.15462v1](http://arxiv.org/abs/2306.15462v1)|null|
+|**2023-06-27**|**Statistics of a 2D immersed granular gas magnetically forced in volume**|Jean-Baptiste Gorce et.al.|[2306.15456v1](http://arxiv.org/abs/2306.15456v1)|null|
+|**2023-06-27**|**Two-dimensional few-atom noble gas clusters in a graphene sandwich**|Manuel Längle et.al.|[2306.15436v1](http://arxiv.org/abs/2306.15436v1)|null|
+|**2023-06-27**|**Realizing efficient topological temporal pumping in electrical circuits**|Alexander Stegmaier et.al.|[2306.15434v1](http://arxiv.org/abs/2306.15434v1)|null|
+|**2023-06-27**|**Theory of active self-organization of dense nematic structures in actin gels**|Waleed Mirza et.al.|[2306.15352v1](http://arxiv.org/abs/2306.15352v1)|null|
+|**2023-06-27**|**Water-methanol mixture confined in a graphene slit-pore**|Roger Bellido-Peralta et.al.|[2306.15330v1](http://arxiv.org/abs/2306.15330v1)|null|
+|**2023-06-27**|**Towards Stirling engine using an optically confined particle subjected to asymmetric temperature profile**|Gokul Nalupurackal et.al.|[2306.15236v1](http://arxiv.org/abs/2306.15236v1)|null|
+|**2023-06-26**|**Growth-induced phase changes in swimming bacteria at finite liquid interfaces**|Blake Langeslay et.al.|[2306.15102v1](http://arxiv.org/abs/2306.15102v1)|null|
+|**2023-06-26**|**Anisotropic molecular diffusion in confinement II: A model for structurally complex particles applied to transport in thin ionic liquid films**|Kevin Höllring et.al.|[2306.15094v1](http://arxiv.org/abs/2306.15094v1)|null|
+|**2023-06-26**|**Comment on newly found Charge Density Waves in infinite layer Nickelates**|J. Pelliciari et.al.|[2306.15086v1](http://arxiv.org/abs/2306.15086v1)|null|
+|**2023-06-26**|**Emergent Kelvin waves in chiral active matter**|Anthony R. Poggioli et.al.|[2306.14984v1](http://arxiv.org/abs/2306.14984v1)|null|
+|**2023-06-26**|**Bosonization of Non-Fermi Liquids**|SangEun Han et.al.|[2306.14955v1](http://arxiv.org/abs/2306.14955v1)|null|
 |**2023-06-26**|**Fermionic Simulators for Enhanced Scalability of Variational Quantum Simulation**|Qingyu Li et.al.|[2306.14842v1](http://arxiv.org/abs/2306.14842v1)|null|
 |**2023-06-26**|**PECVD and PEALD on polymer substrates (Part II): Understanding and tuning of barrier and membrane properties of thin films**|Teresa de los Arcos et.al.|[2306.14797v1](http://arxiv.org/abs/2306.14797v1)|null|
 |**2023-06-26**|**dsDNA persistence length with divalent ions**|Manoel Manghi et.al.|[2306.14758v1](http://arxiv.org/abs/2306.14758v1)|null|
@@ -2711,6 +2729,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Measurement Accuracy in Silicon Photonic Ring Resonator Thermometers: Identifying and Mitigating Intrinsic Impairments**|Siegfried Janz et.al.|[2306.15643v1](http://arxiv.org/abs/2306.15643v1)|null|
 |**2023-06-26**|**Comment on "Light-induced melting of competing stripe orders without introducing superconductivity in La $_{1.875}$Ba$_{0.125}$CuO$_4$ " (arXiv:2306.07869v1)**|D. Nicoletti et.al.|[2306.14438v1](http://arxiv.org/abs/2306.14438v1)|null|
 |**2023-06-23**|**Light-induced switching between singlet and triplet superconducting states**|Steven Gassner et.al.|[2306.13632v1](http://arxiv.org/abs/2306.13632v1)|null|
 |**2023-06-27**|**Neural 360 $^\circ$ Structured Light with Learned Metasurfaces**|Eunsue Choi et.al.|[2306.13361v2](http://arxiv.org/abs/2306.13361v2)|null|
@@ -2843,6 +2862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
 |**2023-06-25**|**Current-induced deterministic switching of van der Waals ferromagnet at room temperature**|Shivam N. Kajale et.al.|[2306.14355v1](http://arxiv.org/abs/2306.14355v1)|null|
 |**2023-06-23**|**Spin transport between polarized Fermi gases near the ferromagnetic phase transition**|Tingyu Zhang et.al.|[2306.13536v1](http://arxiv.org/abs/2306.13536v1)|null|
 |**2023-06-21**|**Towards mutual synchronization of serially connected Spin Torque Oscillators based on magnetic tunnel junctions**|Piotr Rzeszut et.al.|[2306.11608v2](http://arxiv.org/abs/2306.11608v2)|null|
