@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Majorana-mediated thermoelectric transport in multiterminal junctions**|Raffael L. Klees et.al.|[2306.17845v1](http://arxiv.org/abs/2306.17845v1)|null|
+|**2023-06-30**|**A Twist On Active Membranes: Odd Mechanics, Spontaneous Flows and Shape Instabilities**|Sami C. Al-Izzi et.al.|[2306.17767v1](http://arxiv.org/abs/2306.17767v1)|null|
+|**2023-06-30**|**The dynamics of crack front waves in 3D material failure**|Sanhita Das et.al.|[2306.17763v1](http://arxiv.org/abs/2306.17763v1)|null|
+|**2023-06-30**|**Are 2D classical and quantum turbulence equivalent? Insights from velocity circulation statistics**|Nicolás P. Müller et.al.|[2306.17735v1](http://arxiv.org/abs/2306.17735v1)|null|
+|**2023-06-30**|**Anomalous Scaling for Hydrodynamic Lubrication of Conformal Surfaces**|James A. Richards et.al.|[2306.17696v1](http://arxiv.org/abs/2306.17696v1)|null|
+|**2023-06-30**|**Gap-Dependent Hydrodynamic Lubrication in Conformal Contacts**|James A. Richards et.al.|[2306.17694v1](http://arxiv.org/abs/2306.17694v1)|null|
+|**2023-06-30**|**Deciphering long-range order in active matter: Insights from swimming bacteria in quasi-2D and electrokinetic Janus particles**|Daiki Nishiguchi et.al.|[2306.17689v1](http://arxiv.org/abs/2306.17689v1)|null|
+|**2023-06-30**|**Data-driven dynamical coarse-graining for condensed matter systems**|Mauricio J. del Razo et.al.|[2306.17672v1](http://arxiv.org/abs/2306.17672v1)|null|
+|**2023-06-30**|**Simple measurement of silanol (OH) concentration in silanol-terminated silicone fluids**|Louis A. Bloomfield et.al.|[2306.17654v1](http://arxiv.org/abs/2306.17654v1)|null|
+|**2023-06-30**|**Phase separation in complex mixtures with many components: analytical expressions for spinodal and critical manifolds**|Arjen Bot et.al.|[2306.17600v1](http://arxiv.org/abs/2306.17600v1)|null|
+|**2023-06-30**|**Glassy relaxation in de Vries smectic liquid crystal consisting of bent-core molecules**|Vishnu Deo Mishra et.al.|[2306.17596v1](http://arxiv.org/abs/2306.17596v1)|null|
+|**2023-06-30**|**Analytical prediction of the temperature and the lifetime of an evaporating spherical droplet**|Marie Corpart et.al.|[2306.17534v1](http://arxiv.org/abs/2306.17534v1)|null|
+|**2023-06-30**|**MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems**|Markus J. Buehler et.al.|[2306.17525v1](http://arxiv.org/abs/2306.17525v1)|null|
+|**2023-06-30**|**Universal properties of repulsive self-propelled particles and attractive driven particles**|Hiroyoshi Nakano et.al.|[2306.17517v1](http://arxiv.org/abs/2306.17517v1)|null|
+|**2023-06-30**|**Symmetric Mass Generation of Kähler-Dirac Fermions from the Perspective of Symmetry-Protected Topological Phases**|Yuxuan Guo et.al.|[2306.17420v1](http://arxiv.org/abs/2306.17420v1)|null|
+|**2023-06-29**|**Photoluminescent cooling with incoherent light**|Sushrut Ghonge et.al.|[2306.17327v1](http://arxiv.org/abs/2306.17327v1)|null|
+|**2023-06-29**|**Orbital Hall effect and orbital edge states caused by s electrons**|Oliver Busch et.al.|[2306.17295v1](http://arxiv.org/abs/2306.17295v1)|null|
+|**2023-06-29**|**Microelectronic Morphogenesis: Progress towards Artificial Organisms**|John S. McCaskill et.al.|[2306.17288v1](http://arxiv.org/abs/2306.17288v1)|null|
+|**2023-06-29**|**A geometric method to determine chromonics' planar anchoring strength**|Silvia Paparini et.al.|[2306.17284v1](http://arxiv.org/abs/2306.17284v1)|null|
+|**2023-06-29**|**Evolution of local relaxed states and the modelling of viscoelastic fluids**|Muhanna A. H Alrashdi et.al.|[2306.17242v1](http://arxiv.org/abs/2306.17242v1)|null|
 |**2023-06-29**|**Optimization strategies developed on NiO for Heisenberg exchange coupling calculations using projector augmented wave based first-principles DFT+U+J**|Lórien MacEnulty et.al.|[2306.17148v1](http://arxiv.org/abs/2306.17148v1)|null|
 |**2023-06-29**|**Universal thermal response of the multiscale nanodomains formed in trans-anethol/ethanol/water surfactant-free microemulsion**|Mingbo Li et.al.|[2306.16936v1](http://arxiv.org/abs/2306.16936v1)|null|
 |**2023-06-29**|**Classical-Assisted Quantum Ground State Preparation with Tensor Network States and Monte Carlo Sampling**|Feng-Yu Le et.al.|[2306.16831v1](http://arxiv.org/abs/2306.16831v1)|null|
@@ -2747,6 +2767,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Robust quantum sensors with twisted-light fields induced optical transitions**|T. Zanon-Willette et.al.|[2306.17620v1](http://arxiv.org/abs/2306.17620v1)|null|
 |**2023-06-29**|**Driven-Dissipative Conductance in Nanojunction Arrays: Negative Conductance and Light-Induced Currents**|Felipe Recabal et.al.|[2306.16789v1](http://arxiv.org/abs/2306.16789v1)|null|
 |**2023-06-28**|**Optically stimulated electron paramagnetic resonance: simplicity, versatility, information content**|V. O. Kozlov et.al.|[2306.16204v1](http://arxiv.org/abs/2306.16204v1)|null|
 |**2023-06-28**|**Revealing Ultrafast Phonon Mediated Inter-Valley Scattering through Transient Absorption and High Harmonic Spectroscopies**|Kevin Lively et.al.|[2306.16010v1](http://arxiv.org/abs/2306.16010v1)|null|
