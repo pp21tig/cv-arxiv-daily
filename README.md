@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Spectral Theory of Non-Markovian Dissipative Phase Transitions**|Baptiste Debecker et.al.|[2307.01119v1](http://arxiv.org/abs/2307.01119v1)|null|
+|**2023-07-03**|**Buckling of a monolayer of plate-like particles trapped at a fluid-fluid interface**|Suriya Prakash et.al.|[2307.01087v1](http://arxiv.org/abs/2307.01087v1)|null|
+|**2023-07-03**|**A review of uranium-based thin films**|R. Springell et.al.|[2307.01018v1](http://arxiv.org/abs/2307.01018v1)|null|
+|**2023-07-03**|**Yielding transition of amorphous solids in the presence of aspherical impurities**|Anoop Mutneja et.al.|[2307.01002v1](http://arxiv.org/abs/2307.01002v1)|null|
+|**2023-07-03**|**Coordinated motion of epithelial layers on curved surfaces**|Lea Happel et.al.|[2307.00989v1](http://arxiv.org/abs/2307.00989v1)|null|
+|**2023-07-03**|**Dual formulation for constraint solutions of the multi-state Choquard equation**|Gershon Wolansky et.al.|[2307.00948v1](http://arxiv.org/abs/2307.00948v1)|null|
+|**2023-07-03**|**The deflection limit of slab-like topologically interlocked structures**|Silvan Ullmann et.al.|[2307.00918v1](http://arxiv.org/abs/2307.00918v1)|null|
+|**2023-07-03**|**Sommerfeld law in quantum vacuum**|G. E. Volovik et.al.|[2307.00860v1](http://arxiv.org/abs/2307.00860v1)|null|
+|**2023-07-03**|**Levitation by a dipole electric field**|Ping-Rui Tsai et.al.|[2307.00826v1](http://arxiv.org/abs/2307.00826v1)|null|
+|**2023-07-02**|**Orientational dynamics of anisotropic colloidal particles in a planar extensional flow**|Dinesh Kumar et.al.|[2307.00688v1](http://arxiv.org/abs/2307.00688v1)|null|
+|**2023-07-02**|**Ferromagnetic filament shapes in a rotating field reveal their magnetoelastic properties**|Andris P. Stikuts et.al.|[2307.00685v1](http://arxiv.org/abs/2307.00685v1)|null|
+|**2023-07-02**|**Acoustic propulsion of nano- and microcones: dependence on particle size, acoustic energy density, and sound frequency**|Johannes Voß et.al.|[2307.00681v1](http://arxiv.org/abs/2307.00681v1)|null|
+|**2023-07-02**|**Parameterized Density Functional Models for Block Copolymer Melts**|Sulin Wang et.al.|[2307.00659v1](http://arxiv.org/abs/2307.00659v1)|null|
+|**2023-07-02**|**Topological transformations of a nematic drop**|Runa Koizumi et.al.|[2307.00632v1](http://arxiv.org/abs/2307.00632v1)|null|
+|**2023-07-02**|**Low-energy tail of the spectral density for a particle interacting with a quantum phonon bath**|Donghwan Kim et.al.|[2307.00616v1](http://arxiv.org/abs/2307.00616v1)|null|
+|**2023-07-02**|**Nonequilibrium interfacial properties of chemically driven fluids**|Yongick Cho et.al.|[2307.00579v1](http://arxiv.org/abs/2307.00579v1)|null|
+|**2023-07-02**|**Theoretical Limits of Energy Extraction in Active Fluids**|Shahriar Shadkhoo et.al.|[2307.00489v1](http://arxiv.org/abs/2307.00489v1)|null|
+|**2023-07-01**|**Passive and active field theories for disease spreading**|Michael te Vrugt et.al.|[2307.00437v1](http://arxiv.org/abs/2307.00437v1)|null|
+|**2023-07-01**|**Modeling of uniflagellated bacterial locomotion in unbounded fluid and near a no-slip plane surface**|Vahid Nourian et.al.|[2307.00223v1](http://arxiv.org/abs/2307.00223v1)|null|
+|**2023-06-30**|**Accretion-Ablation Mechanics**|Satya Prakash Pradhan et.al.|[2307.00159v1](http://arxiv.org/abs/2307.00159v1)|null|
 |**2023-06-30**|**Majorana-mediated thermoelectric transport in multiterminal junctions**|Raffael L. Klees et.al.|[2306.17845v1](http://arxiv.org/abs/2306.17845v1)|null|
 |**2023-06-30**|**A Twist On Active Membranes: Odd Mechanics, Spontaneous Flows and Shape Instabilities**|Sami C. Al-Izzi et.al.|[2306.17767v1](http://arxiv.org/abs/2306.17767v1)|null|
 |**2023-06-30**|**The dynamics of crack front waves in 3D material failure**|Sanhita Das et.al.|[2306.17763v1](http://arxiv.org/abs/2306.17763v1)|null|
@@ -2968,6 +2988,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-02**|**Giant coercivity, resistivity upturn, and anomalous Hall effect in ferrimagnetic FeTb**|Lijun Zhu et.al.|[2307.00475v1](http://arxiv.org/abs/2307.00475v1)|null|
 |**2023-06-26**|**Non-Hermitian chiral anomalies in interacting systems**|Sharareh Sayyad et.al.|[2306.14766v1](http://arxiv.org/abs/2306.14766v1)|null|
 |**2023-06-21**|**Optical study of three-dimensional Weyl semimetal Mn $_3$ Sn**|L. Y. Cao et.al.|[2306.12180v1](http://arxiv.org/abs/2306.12180v1)|null|
 |**2023-06-16**|**Role of topological charges in the nonlinear-optical response from Weyl semimetals**|Amar Bharti et.al.|[2306.09625v1](http://arxiv.org/abs/2306.09625v1)|null|
