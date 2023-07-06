@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**On the heat capacity of quantum hard sphere fluid**|Sergei Stishov et.al.|[2307.02451v1](http://arxiv.org/abs/2307.02451v1)|null|
+|**2023-07-05**|**Geometric control of tilt transition dynamics in single-clamped thermalized elastic sheets**|Roberto Abril Valenzuela et.al.|[2307.02425v1](http://arxiv.org/abs/2307.02425v1)|null|
+|**2023-07-05**|**Quantum Fisher Information and multipartite entanglement in spin-1 chains**|Federico Dell'Anna et.al.|[2307.02407v1](http://arxiv.org/abs/2307.02407v1)|null|
+|**2023-07-05**|**Exciton transport in a germanium quantum dot ladder**|T. -K. Hsiao et.al.|[2307.02401v1](http://arxiv.org/abs/2307.02401v1)|null|
+|**2023-07-05**|**Local flow measurements around flexible filaments under rotating magnetic field**|Andris P. Stikuts et.al.|[2307.02228v1](http://arxiv.org/abs/2307.02228v1)|null|
+|**2023-07-05**|**What dictates soft clay-like Lithium superionic conductor formation from rigid-salts mixture**|Sunny Gupta et.al.|[2307.02016v1](http://arxiv.org/abs/2307.02016v1)|null|
+|**2023-07-04**|**Probing general relativistic spin-orbit coupling with gravitational waves from hierarchical triple systems**|Marius A. Oancea et.al.|[2307.01903v1](http://arxiv.org/abs/2307.01903v1)|null|
+|**2023-07-04**|**Polymer translocation driven by longitudinal and transversal time-dependent end-pulling forces**|Alejandro Sainz-Agost et.al.|[2307.01821v1](http://arxiv.org/abs/2307.01821v1)|null|
+|**2023-07-04**|**From stretched exponential to power-law: crossover of relaxation in a simple model**|Sukanta Mukherjee et.al.|[2307.01801v1](http://arxiv.org/abs/2307.01801v1)|null|
+|**2023-07-04**|**Properties of aqueous electrolyte solutions at carbon electrodes: effects of concentration and surface charge on solution structure, ion clustering and thermodynamics in the electric double layer**|Aaron R. Finney et.al.|[2307.01758v1](http://arxiv.org/abs/2307.01758v1)|null|
+|**2023-07-04**|**Spatial organization of slit-confined melts of ring polymers with non-conserved topology: A lattice Monte Carlo study**|Mattia Alberto Ubertini et.al.|[2307.01739v1](http://arxiv.org/abs/2307.01739v1)|null|
+|**2023-07-04**|**Billiards with Spatial Memory**|Thijs Albers et.al.|[2307.01734v1](http://arxiv.org/abs/2307.01734v1)|null|
+|**2023-07-04**|**Quasi-crystalline order in vibrated granular matter**|Andrea Plati et.al.|[2307.01643v1](http://arxiv.org/abs/2307.01643v1)|null|
+|**2023-07-04**|**OrthoBoXY: A Simple Way to Compute True Self-Diffusion Coefficients from MD Simulations with Periodic Boundary Conditions Without Prior Knowledge of the Viscosity**|Johanna Busch et.al.|[2307.01591v1](http://arxiv.org/abs/2307.01591v1)|null|
+|**2023-07-04**|**Percolation in Networks of Liquid Diodes**|Camilla Sammartino et.al.|[2307.01531v1](http://arxiv.org/abs/2307.01531v1)|null|
+|**2023-07-03**|**Extremely Persistent Dense Active Fluids**|Grzegorz Szamel et.al.|[2307.01298v1](http://arxiv.org/abs/2307.01298v1)|null|
+|**2023-07-03**|**Dynamical Projective Operatorial Approach (DPOA) for out-of-equilibrium systems and its application to TR-ARPES**|Amir Eskandari-asl et.al.|[2307.01244v1](http://arxiv.org/abs/2307.01244v1)|null|
 |**2023-07-03**|**Spectral Theory of Non-Markovian Dissipative Phase Transitions**|Baptiste Debecker et.al.|[2307.01119v1](http://arxiv.org/abs/2307.01119v1)|null|
 |**2023-07-03**|**Buckling of a monolayer of plate-like particles trapped at a fluid-fluid interface**|Suriya Prakash et.al.|[2307.01087v1](http://arxiv.org/abs/2307.01087v1)|null|
 |**2023-07-03**|**A review of uranium-based thin films**|R. Springell et.al.|[2307.01018v1](http://arxiv.org/abs/2307.01018v1)|null|
@@ -2787,6 +2804,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**First results of the Laser-Interferometric Detector for Axions (LIDA)**|Joscha Heinze et.al.|[2307.01365v1](http://arxiv.org/abs/2307.01365v1)|null|
 |**2023-06-30**|**Robust quantum sensors with twisted-light fields induced optical transitions**|T. Zanon-Willette et.al.|[2306.17620v1](http://arxiv.org/abs/2306.17620v1)|null|
 |**2023-06-29**|**Driven-Dissipative Conductance in Nanojunction Arrays: Negative Conductance and Light-Induced Currents**|Felipe Recabal et.al.|[2306.16789v1](http://arxiv.org/abs/2306.16789v1)|null|
 |**2023-06-28**|**Optically stimulated electron paramagnetic resonance: simplicity, versatility, information content**|V. O. Kozlov et.al.|[2306.16204v1](http://arxiv.org/abs/2306.16204v1)|null|
@@ -2924,6 +2942,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329v1](http://arxiv.org/abs/2307.01329v1)|null|
 |**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
 |**2023-06-25**|**Current-induced deterministic switching of van der Waals ferromagnet at room temperature**|Shivam N. Kajale et.al.|[2306.14355v1](http://arxiv.org/abs/2306.14355v1)|null|
 |**2023-06-23**|**Spin transport between polarized Fermi gases near the ferromagnetic phase transition**|Tingyu Zhang et.al.|[2306.13536v1](http://arxiv.org/abs/2306.13536v1)|null|
