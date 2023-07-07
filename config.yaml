@@ -17,10 +17,10 @@ keywords:
     "Terahertz":
         filters: ["terahertz","condensed matter","terahertz spectroscopy"]
     "Intense Terahertz":
-        filters: ["single cycle","ultrafast","terahertz"]
+        filters: ["intense terahertz","ultrafast","terahertz"]
     "Electric Field Terahertz":
         filters: ["current induce","current switching"]
     "AHE":
-        filters: ["anomalous Hall effect","light"]
+        filters: ["anomalous Hall effect"]
     "INS":
         filters: ["inelastic neutron scattering","magnetic"]
