@@ -8,13 +8,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#SLAM>SLAM</a></li>
-    <li><a href=#SFM>SFM</a></li>
-    <li><a href=#Visual-Localization>Visual Localization</a></li>
-    <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
-    <li><a href=#Image-Matching>Image Matching</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
-    <li><a href=#NaRF>NaRF</a></li>
     <li><a href=#Terahertz>Terahertz</a></li>
     <li><a href=#Light-induce>Light induce</a></li>
     <li><a href=#Intense-Terahertz>Intense Terahertz</a></li>
