@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Contiguous Patches of Translational Hydration Dynamics on the Surface of K-Ras**|Farhana Syed et.al.|[2307.03179v1](http://arxiv.org/abs/2307.03179v1)|null|
+|**2023-07-06**|**Thermal properties of athermal granular materials**|Kasra Farain et.al.|[2307.02999v1](http://arxiv.org/abs/2307.02999v1)|null|
+|**2023-07-06**|**Lecture Notes: Introduction to random unitary circuits and the measurement-induced entanglement phase transition**|Brian Skinner et.al.|[2307.02986v1](http://arxiv.org/abs/2307.02986v1)|null|
+|**2023-07-06**|**Sampling efficiency of transverse forces in dense liquids**|Federico Ghimenti et.al.|[2307.02840v1](http://arxiv.org/abs/2307.02840v1)|null|
+|**2023-07-06**|**Early stage of Erythrocyte Sedimentation Rate test: Fracture of a high-volume-fraction gel**|Thomas John et.al.|[2307.02815v1](http://arxiv.org/abs/2307.02815v1)|null|
+|**2023-07-06**|**How to steer active colloids up a vertical wall**|Adérito Fins Carreira et.al.|[2307.02810v1](http://arxiv.org/abs/2307.02810v1)|null|
+|**2023-07-05**|**Logical circuits in colloids**|Nic Roberts et.al.|[2307.02664v1](http://arxiv.org/abs/2307.02664v1)|null|
+|**2023-07-05**|**Flowering of Developable 2D Crystal Shapes in Closed, Fluid Membranes**|Hao Wan et.al.|[2307.02606v1](http://arxiv.org/abs/2307.02606v1)|null|
+|**2023-07-05**|**Active Dynamics of Linear Chains and Rings in Porous Media**|Ligesh Theeyancheri et.al.|[2307.02600v1](http://arxiv.org/abs/2307.02600v1)|null|
+|**2023-07-05**|**Deconfined quantum criticality lost**|Menghan Song et.al.|[2307.02547v1](http://arxiv.org/abs/2307.02547v1)|null|
+|**2023-07-05**|**Postmodern Fermi Liquids**|Umang Mehta et.al.|[2307.02536v1](http://arxiv.org/abs/2307.02536v1)|null|
+|**2023-07-05**|**Holographic models of non-Fermi liquid metals revisited: an effective field theory approach**|Dominic V. Else et.al.|[2307.02526v1](http://arxiv.org/abs/2307.02526v1)|null|
 |**2023-07-05**|**On the heat capacity of quantum hard sphere fluid**|Sergei Stishov et.al.|[2307.02451v1](http://arxiv.org/abs/2307.02451v1)|null|
 |**2023-07-05**|**Geometric control of tilt transition dynamics in single-clamped thermalized elastic sheets**|Roberto Abril Valenzuela et.al.|[2307.02425v1](http://arxiv.org/abs/2307.02425v1)|null|
 |**2023-07-05**|**Quantum Fisher Information and multipartite entanglement in spin-1 chains**|Federico Dell'Anna et.al.|[2307.02407v1](http://arxiv.org/abs/2307.02407v1)|null|
@@ -2804,6 +2816,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Future developments in ground-based gamma-ray astronomy**|Ulisses Barres de Almeida et.al.|[2307.02976v1](http://arxiv.org/abs/2307.02976v1)|null|
 |**2023-07-03**|**First results of the Laser-Interferometric Detector for Axions (LIDA)**|Joscha Heinze et.al.|[2307.01365v1](http://arxiv.org/abs/2307.01365v1)|null|
 |**2023-06-30**|**Robust quantum sensors with twisted-light fields induced optical transitions**|T. Zanon-Willette et.al.|[2306.17620v1](http://arxiv.org/abs/2306.17620v1)|null|
 |**2023-06-29**|**Driven-Dissipative Conductance in Nanojunction Arrays: Negative Conductance and Light-Induced Currents**|Felipe Recabal et.al.|[2306.16789v1](http://arxiv.org/abs/2306.16789v1)|null|
@@ -2905,6 +2918,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
+|**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
 |**2023-06-07**|**Efficient and scalable scheme for overcoming the pulse energy bottleneck of single-cycle laser sources**|Lu Xu et.al.|[2306.04417v1](http://arxiv.org/abs/2306.04417v1)|null|
 |**2023-05-23**|**Imaging electron angular distributions to assess a full-power petawatt-class laser focus**|Smrithan Ravichandran et.al.|[2305.14581v1](http://arxiv.org/abs/2305.14581v1)|null|
 |**2023-05-12**|**Excitation and control of quantum well nanostructures by unipolar half-cycle attosecond pulses**|Rostislav Arkhipov et.al.|[2305.07800v1](http://arxiv.org/abs/2305.07800v1)|null|
@@ -2918,23 +2933,41 @@
 |**2022-12-20**|**Time-resolved THz Stark spectroscopy**|Bong Joo Kang et.al.|[2212.10333v1](http://arxiv.org/abs/2212.10333v1)|null|
 |**2022-12-14**|**Two-dimensional THz spectroscopy of nonlinear phononics in the topological insulator $\mathrm{MnBi}_2\mathrm{Te}_4$**|T. G. H. Blank et.al.|[2212.07532v1](http://arxiv.org/abs/2212.07532v1)|null|
 |**2023-02-24**|**Pandering in a Flexible Representative Democracy**|Xiaolin Sun et.al.|[2211.09986v2](http://arxiv.org/abs/2211.09986v2)|null|
+|**2022-11-07**|**Efficient Generation of Intense Broadband Terahertz Pulses from Quartz**|Yuxuan Wei et.al.|[2211.03691v1](http://arxiv.org/abs/2211.03691v1)|null|
 |**2022-11-04**|**Dynamics of light-induced anomalous Hall effect in the three-dimensional Dirac semimetal Cd $_3$As$_2$**|Yuta Murotani et.al.|[2211.02229v1](http://arxiv.org/abs/2211.02229v1)|null|
+|**2022-10-27**|**Intense widely-controlled terahertz radiation from laser-driven wires**|N. Bukharskii et.al.|[2210.14166v2](http://arxiv.org/abs/2210.14166v2)|null|
 |**2022-11-11**|**Search for gravitational-wave bursts in the third Advanced LIGO-Virgo run with coherent WaveBurst enhanced by Machine Learning**|Marek J. Szczepańczyk et.al.|[2210.01754v2](http://arxiv.org/abs/2210.01754v2)|null|
 |**2022-09-12**|**The asymptotic emergence of the Second Law for a repeated charging process**|Marcin Łobejko et.al.|[2209.05339v1](http://arxiv.org/abs/2209.05339v1)|null|
 |**2022-08-30**|**Improved Scheduling of Morphing Edge Drawing**|Kazuo Misue et.al.|[2208.11305v2](http://arxiv.org/abs/2208.11305v2)|null|
 |**2022-12-12**|**Electro-Optical Sampling of Single-Cycle THz Fields with Single-Photon Detectors**|Taylor Shields et.al.|[2208.02103v2](http://arxiv.org/abs/2208.02103v2)|null|
+|**2022-08-02**|**Intense terahertz radiation via the transverse thermoelectric effect**|Petar Yordanov et.al.|[2208.01480v1](http://arxiv.org/abs/2208.01480v1)|null|
 |**2022-07-31**|**Generation of a single-cycle acoustic pulse: a scalable solution for transport in single-electron circuits**|Junliang Wang et.al.|[2208.00489v1](http://arxiv.org/abs/2208.00489v1)|null|
+|**2022-12-16**|**High-order nonlinear terahertz probing of the two-band superconductor MgB $_2$ : Third- and fifth-order harmonic generation**|C. Reinhoffer et.al.|[2207.12361v2](http://arxiv.org/abs/2207.12361v2)|null|
+|**2023-06-14**|**Terahertz field-driven magnon upconversion in an antiferromagnet**|Zhuquan Zhang et.al.|[2207.07103v2](http://arxiv.org/abs/2207.07103v2)|null|
 |**2022-06-10**|**Analytic continuation for giant gravitons**|Yosuke Imamura et.al.|[2205.14615v2](http://arxiv.org/abs/2205.14615v2)|null|
+|**2022-05-24**|**A two-dimensional space-time terahertz memory in bulk SrTiO3**|F. Blanchard et.al.|[2205.11696v1](http://arxiv.org/abs/2205.11696v1)|null|
 |**2022-10-07**|**Carrier-envelope phase controlled dynamics of relativistic electron beams in a laser-wakefield accelerator**|Lucas Rovige et.al.|[2205.08374v2](http://arxiv.org/abs/2205.08374v2)|null|
 |**2022-03-22**|**Generation of Super Intense Isolated Attosecond Pulses from Trapped Electrons in Metal Surfaces**|Younes Adnani et.al.|[2203.12061v1](http://arxiv.org/abs/2203.12061v1)|null|
 |**2022-04-04**|**Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes**|David Aasen et.al.|[2203.11137v2](http://arxiv.org/abs/2203.11137v2)|null|
+|**2022-03-07**|**Terahertz displacive excitation of a coherent Raman-active phonon in V $_2$O$_3$**|Flavio Giorgianni et.al.|[2203.03656v1](http://arxiv.org/abs/2203.03656v1)|null|
 |**2022-03-01**|**Atmospheric aerosol clearing by femtosecond filaments**|A. Goffin et.al.|[2203.00196v1](http://arxiv.org/abs/2203.00196v1)|null|
 |**2022-02-28**|**Out-of-plane nonlinear optical responses of superconducting cuprates detected by Terahertz pump-Terahertz probe spectroscopy**|S. J. Zhang et.al.|[2202.13858v1](http://arxiv.org/abs/2202.13858v1)|null|
 |**2022-04-25**|**Four-point functions with multi-cycle fields in symmetric orbifolds and the D1-D5 CFT**|Andre Alves Lima et.al.|[2202.12424v2](http://arxiv.org/abs/2202.12424v2)|null|
+|**2022-02-23**|**Spin canting in nonlinear terahertz magnon dynamics revealed by magnetorefractive probing in orthoferrite**|Takayuki Kurihara et.al.|[2202.11365v1](http://arxiv.org/abs/2202.11365v1)|null|
 |**2022-01-12**|**Carrier-envelope phase of a light bullet**|Elizaveta Zaloznaya et.al.|[2201.04357v1](http://arxiv.org/abs/2201.04357v1)|null|
 |**2022-01-22**|**ADRA: Extending Digital Computing-in-Memory with Asymmetric Dual-Row-Activation**|Akul Malhotra et.al.|[2201.01509v2](http://arxiv.org/abs/2201.01509v2)|null|
 |**2021-12-20**|**Ramond States of the D1-D5 CFT away from the free orbifold point**|Andre Alves Lima et.al.|[2112.10832v1](http://arxiv.org/abs/2112.10832v1)|null|
 |**2021-12-13**|**Process Tomography on a 7-Qubit Quantum Processor via Tensor Network Contraction Path Finding**|Aidan Dang et.al.|[2112.06364v1](http://arxiv.org/abs/2112.06364v1)|null|
+|**2021-09-10**|**Data Mining for Terahertz Generation Crystals**|Gabriel A. Valdivia-Berroeta et.al.|[2109.04929v1](http://arxiv.org/abs/2109.04929v1)|null|
+|**2021-06-11**|**Evidence for a quantum phase with macroscopic orbit-like quantum states similar to the current-carrying edging states in integer quantum Hall system**|Sergey A. Emelyanov et.al.|[2106.11016v1](http://arxiv.org/abs/2106.11016v1)|null|
+|**2021-08-19**|**Ultrafast electron dynamics in platinum and gold thin films driven by optical and terahertz fields**|Vivek Unikandanunni et.al.|[2106.10009v2](http://arxiv.org/abs/2106.10009v2)|null|
+|**2021-10-15**|**Terahertz pulse-driven collective mode in the nematic superconducting state of Ba $_{1-x}$K$_x$Fe$_2$As$_2$**|Romain Grasset et.al.|[2105.09159v2](http://arxiv.org/abs/2105.09159v2)|null|
+|**2023-06-17**|**Ultrafast Frustration-Breaking and Magnetophononic Driving of Singlet Excitations in a Quantum Magnet**|Flavio Giorgianni et.al.|[2101.01189v6](http://arxiv.org/abs/2101.01189v6)|null|
+|**2020-10-26**|**Nonlinear phononics in 2D SnTe: a ferroelectric material with phonon dynamical amplification of electric polarization**|Dongbin Shin et.al.|[2010.13646v1](http://arxiv.org/abs/2010.13646v1)|null|
+|**2020-10-22**|**3D-Printed Photocathodes for Resonant, Terahertz-Field-Driven Ultrafast Electron Emission**|Andrea Rovere et.al.|[2010.12098v1](http://arxiv.org/abs/2010.12098v1)|null|
+|**2020-09-03**|**Strong-Field Terahertz Control of Plasmon Induced Opacity in Photoexcited Metamaterial**|Ali Mousavian et.al.|[2009.01949v1](http://arxiv.org/abs/2009.01949v1)|null|
+|**2020-07-28**|**Terahertz Strong-Field Physics in Light-Emitting Diodes for Terahertz Detection and Imaging**|Chen Ouyang et.al.|[2007.14093v1](http://arxiv.org/abs/2007.14093v1)|null|
+|**2020-06-17**|**Lightwave Terahertz Quantum Manipulation of Non-equilibrium Superconductor Phases and their Collective Modes**|Martin Mootz et.al.|[2006.09151v2](http://arxiv.org/abs/2006.09151v2)|null|
 
 <p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
@@ -2942,6 +2975,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Spin and orbital Edelstein effect in a bilayer system with Rashba interaction**|Sergio Leiva M. et.al.|[2307.02872v1](http://arxiv.org/abs/2307.02872v1)|null|
 |**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329v1](http://arxiv.org/abs/2307.01329v1)|null|
 |**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
 |**2023-06-25**|**Current-induced deterministic switching of van der Waals ferromagnet at room temperature**|Shivam N. Kajale et.al.|[2306.14355v1](http://arxiv.org/abs/2306.14355v1)|null|
