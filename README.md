@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Counterion-controlled phase equilibria in a charge-regulated polymer solution**|Giulia L. Celora et.al.|[2307.03706v1](http://arxiv.org/abs/2307.03706v1)|null|
+|**2023-07-07**|**Effects of reduced gravity on the granular fluid-solid transition: underexplored forces can dominate soft matter behaviors**|Paul Sánchez et.al.|[2307.03673v1](http://arxiv.org/abs/2307.03673v1)|null|
+|**2023-07-07**|**Tilt-induced clustering of cell adhesion proteins**|Shao-Zhen Lin et.al.|[2307.03670v1](http://arxiv.org/abs/2307.03670v1)|null|
+|**2023-07-07**|**Parametrically driving a quantum oscillator into exceptionality**|C. A. Downing et.al.|[2307.03585v1](http://arxiv.org/abs/2307.03585v1)|null|
+|**2023-07-07**|**Phase Coexistence and Edge Currents in the Chiral Lennard-Jones Fluid**|Claudio B. Caporusso et.al.|[2307.03528v1](http://arxiv.org/abs/2307.03528v1)|null|
+|**2023-07-07**|**Simulation and experiment of gas diffusion in a granular bed**|Carsten Güttler et.al.|[2307.03514v1](http://arxiv.org/abs/2307.03514v1)|null|
+|**2023-07-07**|**Apparatus for simultaneous DLS-SANS investigations of dynamics and structure in soft matter**|Valentina Nigro et.al.|[2307.03511v1](http://arxiv.org/abs/2307.03511v1)|null|
+|**2023-07-07**|**Unveiling the anatomy of mode-coupling theory**|I. Pihlajamaa et.al.|[2307.03443v1](http://arxiv.org/abs/2307.03443v1)|null|
+|**2023-07-06**|**Anisotropy and Isotope Effect in Superconducting Solid Hydrogen**|Mehmet Dogan et.al.|[2307.03304v1](http://arxiv.org/abs/2307.03304v1)|null|
+|**2023-07-06**|**Demixing in binary mixtures with differential diffusivity at high density**|Erin McCarthy et.al.|[2307.03303v1](http://arxiv.org/abs/2307.03303v1)|null|
+|**2023-07-06**|**Adaptive projected variational quantum dynamics**|David Linteau et.al.|[2307.03229v1](http://arxiv.org/abs/2307.03229v1)|null|
 |**2023-07-06**|**Contiguous Patches of Translational Hydration Dynamics on the Surface of K-Ras**|Farhana Syed et.al.|[2307.03179v1](http://arxiv.org/abs/2307.03179v1)|null|
 |**2023-07-06**|**Thermal properties of athermal granular materials**|Kasra Farain et.al.|[2307.02999v1](http://arxiv.org/abs/2307.02999v1)|null|
 |**2023-07-06**|**Lecture Notes: Introduction to random unitary circuits and the measurement-induced entanglement phase transition**|Brian Skinner et.al.|[2307.02986v1](http://arxiv.org/abs/2307.02986v1)|null|
@@ -2816,6 +2827,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Orbitronics: Light-induced Orbit Currents in Terahertz Emission Experiments**|Yong Xu et.al.|[2307.03490v1](http://arxiv.org/abs/2307.03490v1)|null|
+|**2023-07-06**|**Plasmon-enhanced optical control of magnetism at the nanoscale via the inverse Faraday effect**|Sergii Parchenko et.al.|[2307.03326v1](http://arxiv.org/abs/2307.03326v1)|null|
+|**2023-07-06**|**Photoinduced Anomalous Supercurrent Hall Effect**|A. V. Parafilo et.al.|[2307.03314v1](http://arxiv.org/abs/2307.03314v1)|null|
 |**2023-07-06**|**Future developments in ground-based gamma-ray astronomy**|Ulisses Barres de Almeida et.al.|[2307.02976v1](http://arxiv.org/abs/2307.02976v1)|null|
 |**2023-07-03**|**First results of the Laser-Interferometric Detector for Axions (LIDA)**|Joscha Heinze et.al.|[2307.01365v1](http://arxiv.org/abs/2307.01365v1)|null|
 |**2023-06-30**|**Robust quantum sensors with twisted-light fields induced optical transitions**|T. Zanon-Willette et.al.|[2306.17620v1](http://arxiv.org/abs/2306.17620v1)|null|
@@ -3041,6 +3055,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Observation of the anomalous Hall effect in a layered polar semiconductor**|Seo-Jin Kim et.al.|[2307.03541v1](http://arxiv.org/abs/2307.03541v1)|null|
+|**2023-07-07**|**Anomalous Nernst effect in perpendicularly magnetised τ-MnAl thin films**|Daniel Scheffler et.al.|[2307.03458v1](http://arxiv.org/abs/2307.03458v1)|null|
 |**2023-07-02**|**Giant coercivity, resistivity upturn, and anomalous Hall effect in ferrimagnetic FeTb**|Lijun Zhu et.al.|[2307.00475v1](http://arxiv.org/abs/2307.00475v1)|null|
 |**2023-06-26**|**Non-Hermitian chiral anomalies in interacting systems**|Sharareh Sayyad et.al.|[2306.14766v1](http://arxiv.org/abs/2306.14766v1)|null|
 |**2023-06-21**|**Optical study of three-dimensional Weyl semimetal Mn $_3$ Sn**|L. Y. Cao et.al.|[2306.12180v1](http://arxiv.org/abs/2306.12180v1)|null|
