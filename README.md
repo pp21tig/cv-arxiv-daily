@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Information decomposition to identify relevant variation in complex systems with machine learning**|Kieran A. Murphy et.al.|[2307.04755v1](http://arxiv.org/abs/2307.04755v1)|null|
+|**2023-07-10**|**Ultrafast demagnetization in bulk nickel induced by X-ray photons tuned to Ni $M_{3}$ and $L_3$ absorption edges**|Konrad J. Kapcia et.al.|[2307.04671v1](http://arxiv.org/abs/2307.04671v1)|null|
+|**2023-07-10**|**Interaction between two overall neutral charged microscopically patterned surfaces**|Shiqi Zhou et.al.|[2307.04650v1](http://arxiv.org/abs/2307.04650v1)|null|
+|**2023-07-10**|**Surface magnon spectra of nodal loop semimetals**|Assem Alassaf et.al.|[2307.04620v1](http://arxiv.org/abs/2307.04620v1)|null|
+|**2023-07-10**|**Neural functional theory for inhomogeneous fluids: Fundamentals and applications**|Florian Sammüller et.al.|[2307.04539v1](http://arxiv.org/abs/2307.04539v1)|null|
+|**2023-07-10**|**Diffusion dynamics of star-shaped macromolecules in dilute solutions**|Prabeen Kumar Pattnayak et.al.|[2307.04363v1](http://arxiv.org/abs/2307.04363v1)|null|
+|**2023-07-09**|**Swimming Efficiently by Wrapping**|H. Gidituri et.al.|[2307.04243v1](http://arxiv.org/abs/2307.04243v1)|null|
+|**2023-07-09**|**A threshold model of plastic waste fragmentation: New insights into the distribution of microplastics in the ocean and its evolution over time**|Matthieu George et.al.|[2307.04162v1](http://arxiv.org/abs/2307.04162v1)|null|
+|**2023-07-09**|**Optimal face-to-face coupling for fast self-folding kirigami**|Maks Pecnik Bambic et.al.|[2307.04145v1](http://arxiv.org/abs/2307.04145v1)|null|
+|**2023-07-08**|**XTANT-3: X-ray-induced Thermal And Nonthermal Transitions in matter: theory, numerical details, user manual**|Nikita Medvedev et.al.|[2307.03953v1](http://arxiv.org/abs/2307.03953v1)|null|
+|**2023-07-08**|**Revealing intrinsic domains and fluctuations of moiré magnetism by a wide-field quantum microscope**|Mengqi Huang et.al.|[2307.03876v1](http://arxiv.org/abs/2307.03876v1)|null|
+|**2023-07-08**|**Why does dissolving salt in water decrease its dielectric permittivity**|Chunyi Zhang et.al.|[2307.03873v1](http://arxiv.org/abs/2307.03873v1)|null|
+|**2023-07-07**|**Spectroscopic evidence for topological band structure in FeTe $_{0.55}$Se$_{0.45}$**|Y. -F. Li et.al.|[2307.03861v1](http://arxiv.org/abs/2307.03861v1)|null|
+|**2023-07-07**|**Geometric Phases in Open Quantum Systems: Analysis and Applications**|Ludmila Viotti et.al.|[2307.03825v1](http://arxiv.org/abs/2307.03825v1)|null|
 |**2023-07-07**|**Counterion-controlled phase equilibria in a charge-regulated polymer solution**|Giulia L. Celora et.al.|[2307.03706v1](http://arxiv.org/abs/2307.03706v1)|null|
 |**2023-07-07**|**Effects of reduced gravity on the granular fluid-solid transition: underexplored forces can dominate soft matter behaviors**|Paul Sánchez et.al.|[2307.03673v1](http://arxiv.org/abs/2307.03673v1)|null|
 |**2023-07-07**|**Tilt-induced clustering of cell adhesion proteins**|Shao-Zhen Lin et.al.|[2307.03670v1](http://arxiv.org/abs/2307.03670v1)|null|
@@ -2827,6 +2841,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Ultrafast demagnetization in bulk nickel induced by X-ray photons tuned to Ni $M_{3}$ and $L_3$ absorption edges**|Konrad J. Kapcia et.al.|[2307.04671v1](http://arxiv.org/abs/2307.04671v1)|null|
+|**2023-07-10**|**Design and processing as ultrathin films of a sublimable Iron(II) spin crossover material exhibiting efficient and fast light-induced spin transition**|Miguel Gavara-Edo et.al.|[2307.04591v1](http://arxiv.org/abs/2307.04591v1)|null|
+|**2023-07-10**|**Strong transient magnetic fields induced by THz-driven plasmons in graphene disks**|Jeong Woo Han et.al.|[2307.04512v1](http://arxiv.org/abs/2307.04512v1)|null|
 |**2023-07-07**|**Orbitronics: Light-induced Orbit Currents in Terahertz Emission Experiments**|Yong Xu et.al.|[2307.03490v1](http://arxiv.org/abs/2307.03490v1)|null|
 |**2023-07-06**|**Plasmon-enhanced optical control of magnetism at the nanoscale via the inverse Faraday effect**|Sergii Parchenko et.al.|[2307.03326v1](http://arxiv.org/abs/2307.03326v1)|null|
 |**2023-07-06**|**Photoinduced Anomalous Supercurrent Hall Effect**|A. V. Parafilo et.al.|[2307.03314v1](http://arxiv.org/abs/2307.03314v1)|null|
@@ -3055,6 +3072,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-08**|**Robust anomalous Hall effect in ferromagnetic metal under high pressure**|Lingling Gao et.al.|[2307.03931v1](http://arxiv.org/abs/2307.03931v1)|null|
+|**2023-07-07**|**Double- $Q$ spin chirality stripes in the anomalous Hall antiferromagnet CoNb$_3$S$_6$**|Ben Zager et.al.|[2307.03776v1](http://arxiv.org/abs/2307.03776v1)|null|
 |**2023-07-07**|**Observation of the anomalous Hall effect in a layered polar semiconductor**|Seo-Jin Kim et.al.|[2307.03541v1](http://arxiv.org/abs/2307.03541v1)|null|
 |**2023-07-07**|**Anomalous Nernst effect in perpendicularly magnetised τ-MnAl thin films**|Daniel Scheffler et.al.|[2307.03458v1](http://arxiv.org/abs/2307.03458v1)|null|
 |**2023-07-02**|**Giant coercivity, resistivity upturn, and anomalous Hall effect in ferrimagnetic FeTb**|Lijun Zhu et.al.|[2307.00475v1](http://arxiv.org/abs/2307.00475v1)|null|
@@ -3119,6 +3138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Weak-Coupling Theory of Neutron Scattering as a Probe of Altermagnetism**|Thomas A. Maier et.al.|[2307.03793v1](http://arxiv.org/abs/2307.03793v1)|null|
 |**2023-06-26**|**Magnetic ground states and excitations in Zn-doped averieite -- a family of oxide-based $S=1/2$ kagome antiferromagnets**|M. Georgopoulou et.al.|[2306.14739v1](http://arxiv.org/abs/2306.14739v1)|null|
 |**2023-07-06**|**Quantum Spin Ice Response to a Magnetic Field in the Dipole-Octupole Pyrochlore Ce $_2$Zr$_2$O$_7$**|E. M. Smith et.al.|[2306.13183v3](http://arxiv.org/abs/2306.13183v3)|null|
 |**2023-06-20**|**Reconstructing the spatial structure of quantum correlations**|Allen Scheie et.al.|[2306.11723v1](http://arxiv.org/abs/2306.11723v1)|null|
