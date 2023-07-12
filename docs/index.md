@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Escape dynamics of a self-propelled nanorod from circular confinement with narrow openings**|Praveen Kumar et.al.|[2307.05460v1](http://arxiv.org/abs/2307.05460v1)|null|
+|**2023-07-11**|**Enhanced diffusion of tracer particles in non-reciprocal mixtures**|Anthony Benois et.al.|[2307.05408v1](http://arxiv.org/abs/2307.05408v1)|null|
+|**2023-07-10**|**Viscosity and diffusion in life processes and tuning of fundamental constants**|K Trachenko et.al.|[2307.05273v1](http://arxiv.org/abs/2307.05273v1)|null|
+|**2023-07-11**|**Tuna-step: Tunable Parallelized Step Emulsification for the Generation of Droplets with Dynamic Volume Control to 3D Print Functionally Graded Porous Materials**|Francesco Nalin et.al.|[2307.05259v1](http://arxiv.org/abs/2307.05259v1)|null|
+|**2023-07-10**|**How hybrid excitons suppress charge separation: ultrafast, but delayed**|Lukas Gierster et.al.|[2307.05257v1](http://arxiv.org/abs/2307.05257v1)|null|
+|**2023-07-11**|**Colloids in Two-Dimensional Active Nematics: Conformal Cogs and Controllable Spontaneous Rotation**|Alexander J. H. Houston et.al.|[2307.05247v1](http://arxiv.org/abs/2307.05247v1)|null|
+|**2023-07-11**|**Observation of reentrant metal-insulator transition in a random-dimer disordered SSH lattice**|Ze-Sheng Xu et.al.|[2307.05207v1](http://arxiv.org/abs/2307.05207v1)|null|
+|**2023-07-11**|**A simple model for self-propulsion of microdroplets in surfactant solution**|Swarnak Ray et.al.|[2307.05196v1](http://arxiv.org/abs/2307.05196v1)|null|
+|**2023-07-11**|**Viscous tweezers: controlling particles with viscosity**|Tali Khain et.al.|[2307.04948v1](http://arxiv.org/abs/2307.04948v1)|null|
+|**2023-07-10**|**Programmable XY-type couplings through parallel spin-dependent forces on the same trapped ion motional modes**|Nikhil Kotibhaskar et.al.|[2307.04922v1](http://arxiv.org/abs/2307.04922v1)|null|
+|**2023-07-10**|**Noise in the direction of motion determines the spatial distribution and proliferation of migrating cell collectives**|Jonathan E. Dawson et.al.|[2307.04894v1](http://arxiv.org/abs/2307.04894v1)|null|
+|**2023-07-10**|**Saturation and multifractality of Lagrangian and Eulerian scaling exponents in 3D turbulence**|Dhawal Buaria et.al.|[2307.04846v1](http://arxiv.org/abs/2307.04846v1)|null|
 |**2023-07-10**|**Information decomposition to identify relevant variation in complex systems with machine learning**|Kieran A. Murphy et.al.|[2307.04755v1](http://arxiv.org/abs/2307.04755v1)|null|
 |**2023-07-10**|**Ultrafast demagnetization in bulk nickel induced by X-ray photons tuned to Ni $M_{3}$ and $L_3$ absorption edges**|Konrad J. Kapcia et.al.|[2307.04671v1](http://arxiv.org/abs/2307.04671v1)|null|
 |**2023-07-10**|**Interaction between two overall neutral charged microscopically patterned surfaces**|Shiqi Zhou et.al.|[2307.04650v1](http://arxiv.org/abs/2307.04650v1)|null|
