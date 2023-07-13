@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Eigenvalue sensitivity from eigenstate geometry near and beyond arbitrary-order exceptional points**|Henning Schomerus et.al.|[2307.06289v1](http://arxiv.org/abs/2307.06289v1)|null|
+|**2023-07-12**|**Spintronics in 2D graphene-based van der Waals heterostructures**|David T. S. Perkins et.al.|[2307.06273v1](http://arxiv.org/abs/2307.06273v1)|null|
+|**2023-07-12**|**A thermodynamic band gap model for photoinduced phase segregation in mixed-halide perovskites**|Anthony Ruth et.al.|[2307.06268v1](http://arxiv.org/abs/2307.06268v1)|null|
+|**2023-07-12**|**One-dimensionally confined ammonia molecules: A theoretical study**|Maksym Druchok et.al.|[2307.06186v1](http://arxiv.org/abs/2307.06186v1)|null|
+|**2023-07-12**|**Theory of Elastic Microphase Separation**|Yicheng Qiang et.al.|[2307.06136v1](http://arxiv.org/abs/2307.06136v1)|null|
+|**2023-07-12**|**Stationary state of harmonic chains driven by boundary resetting**|Ritwick Sarkar et.al.|[2307.06127v1](http://arxiv.org/abs/2307.06127v1)|null|
+|**2023-07-12**|**Unsteady drag force on an immersed sphere oscillating near a wall**|Zaicheng Zhang et.al.|[2307.05991v1](http://arxiv.org/abs/2307.05991v1)|null|
+|**2023-07-12**|**Magnetic control of orientational order and intrinsic hydrodynamic instability in bacterial turbulence**|Kazusa Beppu et.al.|[2307.05951v1](http://arxiv.org/abs/2307.05951v1)|null|
+|**2023-07-12**|**Short-range expansion for the quantum many-body problem**|Ronen Weiss et.al.|[2307.05910v1](http://arxiv.org/abs/2307.05910v1)|null|
+|**2023-07-12**|**Photon-induced droplet-like bound states in one-dimensional qubit array**|J. Talukdar et.al.|[2307.05868v1](http://arxiv.org/abs/2307.05868v1)|null|
+|**2023-07-11**|**A Quasi Time-Reversible scheme based on density matrix extrapolation on the Grassmann manifold for Born-Oppenheimer Molecular Dynamics**|Federica Pes et.al.|[2307.05653v1](http://arxiv.org/abs/2307.05653v1)|null|
 |**2023-07-11**|**Escape dynamics of a self-propelled nanorod from circular confinement with narrow openings**|Praveen Kumar et.al.|[2307.05460v1](http://arxiv.org/abs/2307.05460v1)|null|
 |**2023-07-11**|**Enhanced diffusion of tracer particles in non-reciprocal mixtures**|Anthony Benois et.al.|[2307.05408v1](http://arxiv.org/abs/2307.05408v1)|null|
 |**2023-07-10**|**Viscosity and diffusion in life processes and tuning of fundamental constants**|K Trachenko et.al.|[2307.05273v1](http://arxiv.org/abs/2307.05273v1)|null|
@@ -3088,6 +3099,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Extrinsic Anomalous Hall effect in Mn Doped GeSnTe Semiconductors in the Bad Metal Hopping Regime**|A. Khaliq et.al.|[2307.06271v1](http://arxiv.org/abs/2307.06271v1)|null|
+|**2023-07-12**|**Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal**|Meng Wang et.al.|[2307.05990v1](http://arxiv.org/abs/2307.05990v1)|null|
 |**2023-07-08**|**Robust anomalous Hall effect in ferromagnetic metal under high pressure**|Lingling Gao et.al.|[2307.03931v1](http://arxiv.org/abs/2307.03931v1)|null|
 |**2023-07-07**|**Double- $Q$ spin chirality stripes in the anomalous Hall antiferromagnet CoNb$_3$S$_6$**|Ben Zager et.al.|[2307.03776v1](http://arxiv.org/abs/2307.03776v1)|null|
 |**2023-07-07**|**Observation of the anomalous Hall effect in a layered polar semiconductor**|Seo-Jin Kim et.al.|[2307.03541v1](http://arxiv.org/abs/2307.03541v1)|null|
@@ -3154,6 +3167,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Purely antiferromagnetic frustrated Heisenberg model in spin ladder compound BaFe $_2$Se$_3$**|Roll A. et.al.|[2307.06193v1](http://arxiv.org/abs/2307.06193v1)|null|
 |**2023-07-07**|**Weak-Coupling Theory of Neutron Scattering as a Probe of Altermagnetism**|Thomas A. Maier et.al.|[2307.03793v1](http://arxiv.org/abs/2307.03793v1)|null|
 |**2023-06-26**|**Magnetic ground states and excitations in Zn-doped averieite -- a family of oxide-based $S=1/2$ kagome antiferromagnets**|M. Georgopoulou et.al.|[2306.14739v1](http://arxiv.org/abs/2306.14739v1)|null|
 |**2023-07-06**|**Quantum Spin Ice Response to a Magnetic Field in the Dipole-Octupole Pyrochlore Ce $_2$Zr$_2$O$_7$**|E. M. Smith et.al.|[2306.13183v3](http://arxiv.org/abs/2306.13183v3)|null|
