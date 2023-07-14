@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms**|Chockalingam Senthilnathan et.al.|[2307.06927v1](http://arxiv.org/abs/2307.06927v1)|null|
+|**2023-07-13**|**Spectral analysis for elastica 3-dimensional dynamics in a shear flow**|Lujia Liu et.al.|[2307.06847v1](http://arxiv.org/abs/2307.06847v1)|null|
+|**2023-07-13**|**Manifestation of chiral magnetic current in Floquet-Weyl semimetals**|Tsung-Yu Chen et.al.|[2307.06735v1](http://arxiv.org/abs/2307.06735v1)|null|
+|**2023-07-13**|**Can exact scaling exponents be obtained using the renormalization group? Affirmative evidence from incompressible polar active fluids**|Patrick Jentsch et.al.|[2307.06725v1](http://arxiv.org/abs/2307.06725v1)|null|
+|**2023-07-13**|**Quantum Simulation of Boson-Related Hamiltonians: Techniques, Effective Hamiltonian Construction, and Error Analysis**|Bo Peng et.al.|[2307.06580v1](http://arxiv.org/abs/2307.06580v1)|null|
+|**2023-07-13**|**Topological Unwinding in an Exciton-Polariton Condensate Array**|Guitao Lyu et.al.|[2307.06550v1](http://arxiv.org/abs/2307.06550v1)|null|
+|**2023-07-13**|**A quantum Monte Carlo algorithm for arbitrary spin-1/2 Hamiltonians**|Lev Barash et.al.|[2307.06503v1](http://arxiv.org/abs/2307.06503v1)|null|
+|**2023-07-12**|**Random lasing in a solution of reflective colloidal particles: the effect of interfaces and inter-particle correlations**|Raffaela Cabriolu et.al.|[2307.06389v1](http://arxiv.org/abs/2307.06389v1)|null|
 |**2023-07-12**|**Eigenvalue sensitivity from eigenstate geometry near and beyond arbitrary-order exceptional points**|Henning Schomerus et.al.|[2307.06289v1](http://arxiv.org/abs/2307.06289v1)|null|
 |**2023-07-12**|**Spintronics in 2D graphene-based van der Waals heterostructures**|David T. S. Perkins et.al.|[2307.06273v1](http://arxiv.org/abs/2307.06273v1)|null|
 |**2023-07-12**|**A thermodynamic band gap model for photoinduced phase segregation in mixed-halide perovskites**|Anthony Ruth et.al.|[2307.06268v1](http://arxiv.org/abs/2307.06268v1)|null|
@@ -3029,6 +3037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Quasi-static magnetization dynamics in a compensated ferrimagnetic half-metal -- Mn $_2$Ru$_x$ Ga**|Ajay Jha et.al.|[2307.06403v1](http://arxiv.org/abs/2307.06403v1)|null|
 |**2023-07-06**|**Spin and orbital Edelstein effect in a bilayer system with Rashba interaction**|Sergio Leiva M. et.al.|[2307.02872v1](http://arxiv.org/abs/2307.02872v1)|null|
 |**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329v1](http://arxiv.org/abs/2307.01329v1)|null|
 |**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
@@ -3095,6 +3104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Quasi-static magnetization dynamics in a compensated ferrimagnetic half-metal -- Mn $_2$Ru$_x$ Ga**|Ajay Jha et.al.|[2307.06403v1](http://arxiv.org/abs/2307.06403v1)|null|
 |**2023-07-12**|**Extrinsic Anomalous Hall effect in Mn Doped GeSnTe Semiconductors in the Bad Metal Hopping Regime**|A. Khaliq et.al.|[2307.06271v1](http://arxiv.org/abs/2307.06271v1)|null|
 |**2023-07-12**|**Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal**|Meng Wang et.al.|[2307.05990v1](http://arxiv.org/abs/2307.05990v1)|null|
 |**2023-07-08**|**Robust anomalous Hall effect in ferromagnetic metal under high pressure**|Lingling Gao et.al.|[2307.03931v1](http://arxiv.org/abs/2307.03931v1)|null|
