@@ -1108,7 +1108,7 @@ layout: default
 |**2023-07-13**|**Can exact scaling exponents be obtained using the renormalization group? Affirmative evidence from incompressible polar active fluids**|Patrick Jentsch et.al.|[2307.06725v1](http://arxiv.org/abs/2307.06725v1)|null|
 |**2023-07-13**|**Quantum Simulation of Boson-Related Hamiltonians: Techniques, Effective Hamiltonian Construction, and Error Analysis**|Bo Peng et.al.|[2307.06580v1](http://arxiv.org/abs/2307.06580v1)|null|
 |**2023-07-13**|**Topological Unwinding in an Exciton-Polariton Condensate Array**|Guitao Lyu et.al.|[2307.06550v1](http://arxiv.org/abs/2307.06550v1)|null|
-|**2023-07-13**|**A quantum Monte Carlo algorithm for arbitrary spin-1/2 Hamiltonians**|Lev Barash et.al.|[2307.06503v1](http://arxiv.org/abs/2307.06503v1)|null|
+|**2023-07-13**|**A quantum Monte Carlo algorithm for arbitrary spin-1/2 Hamiltonians**|Lev Barash et.al.|[2307.06503v1](http://arxiv.org/abs/2307.06503v1)|**[link](https://github.com/levbarash/pmrqmc)**|
 |**2023-07-12**|**Random lasing in a solution of reflective colloidal particles: the effect of interfaces and inter-particle correlations**|Raffaela Cabriolu et.al.|[2307.06389v1](http://arxiv.org/abs/2307.06389v1)|null|
 |**2023-07-12**|**Eigenvalue sensitivity from eigenstate geometry near and beyond arbitrary-order exceptional points**|Henning Schomerus et.al.|[2307.06289v1](http://arxiv.org/abs/2307.06289v1)|null|
 |**2023-07-12**|**Spintronics in 2D graphene-based van der Waals heterostructures**|David T. S. Perkins et.al.|[2307.06273v1](http://arxiv.org/abs/2307.06273v1)|null|
