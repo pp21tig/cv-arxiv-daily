@@ -1098,6 +1098,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Community detection forecasts material failure in a sheared granular material**|Farnaz Fazelpour et.al.|[2307.07501v1](http://arxiv.org/abs/2307.07501v1)|null|
+|**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454v1](http://arxiv.org/abs/2307.07454v1)|null|
+|**2023-07-14**|**Energetic cost of microswimmer navigation: the role of body shape**|Lorenzo Piro et.al.|[2307.07301v1](http://arxiv.org/abs/2307.07301v1)|null|
+|**2023-07-14**|**Scaling law for a buckled elastic filament in a shear flow**|Pawel Sznajder et.al.|[2307.07215v1](http://arxiv.org/abs/2307.07215v1)|null|
+|**2023-07-14**|**Antiadiabatic Small Polaron Formation in the Charge Transfer Insulator ErFeO3**|Ye-Jin Kim et.al.|[2307.07143v1](http://arxiv.org/abs/2307.07143v1)|null|
+|**2023-07-13**|**Chiral kinematic theory and converse vortical effects**|Kai Chen et.al.|[2307.07064v1](http://arxiv.org/abs/2307.07064v1)|null|
 |**2023-07-13**|**A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms**|Chockalingam Senthilnathan et.al.|[2307.06927v1](http://arxiv.org/abs/2307.06927v1)|null|
 |**2023-07-13**|**Spectral analysis for elastica 3-dimensional dynamics in a shear flow**|Lujia Liu et.al.|[2307.06847v1](http://arxiv.org/abs/2307.06847v1)|null|
 |**2023-07-13**|**Manifestation of chiral magnetic current in Floquet-Weyl semimetals**|Tsung-Yu Chen et.al.|[2307.06735v1](http://arxiv.org/abs/2307.06735v1)|null|
@@ -1105,6 +1111,7 @@
 |**2023-07-13**|**Quantum Simulation of Boson-Related Hamiltonians: Techniques, Effective Hamiltonian Construction, and Error Analysis**|Bo Peng et.al.|[2307.06580v1](http://arxiv.org/abs/2307.06580v1)|null|
 |**2023-07-13**|**Topological Unwinding in an Exciton-Polariton Condensate Array**|Guitao Lyu et.al.|[2307.06550v1](http://arxiv.org/abs/2307.06550v1)|null|
 |**2023-07-13**|**A quantum Monte Carlo algorithm for arbitrary spin-1/2 Hamiltonians**|Lev Barash et.al.|[2307.06503v1](http://arxiv.org/abs/2307.06503v1)|**[link](https://github.com/levbarash/pmrqmc)**|
+|**2023-07-12**|**Emergent clustering due to informatic interactions in active matter**|Samudrajit Thapa et.al.|[2307.06459v1](http://arxiv.org/abs/2307.06459v1)|null|
 |**2023-07-12**|**Random lasing in a solution of reflective colloidal particles: the effect of interfaces and inter-particle correlations**|Raffaela Cabriolu et.al.|[2307.06389v1](http://arxiv.org/abs/2307.06389v1)|null|
 |**2023-07-12**|**Eigenvalue sensitivity from eigenstate geometry near and beyond arbitrary-order exceptional points**|Henning Schomerus et.al.|[2307.06289v1](http://arxiv.org/abs/2307.06289v1)|null|
 |**2023-07-12**|**Spintronics in 2D graphene-based van der Waals heterostructures**|David T. S. Perkins et.al.|[2307.06273v1](http://arxiv.org/abs/2307.06273v1)|null|
@@ -3104,6 +3111,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Giant geometry modulation on magnetic proximity effect observed in isomeric oxide heterostructures**|Meng Wang et.al.|[2307.07169v1](http://arxiv.org/abs/2307.07169v1)|null|
+|**2023-07-14**|**Photoinduced High-Chern-Number Quantum Anomalous Hall Effect from Higher-Order Topological Insulators**|Xiaolin Wan et.al.|[2307.07116v1](http://arxiv.org/abs/2307.07116v1)|null|
 |**2023-07-12**|**Quasi-static magnetization dynamics in a compensated ferrimagnetic half-metal -- Mn $_2$Ru$_x$ Ga**|Ajay Jha et.al.|[2307.06403v1](http://arxiv.org/abs/2307.06403v1)|null|
 |**2023-07-12**|**Extrinsic Anomalous Hall effect in Mn Doped GeSnTe Semiconductors in the Bad Metal Hopping Regime**|A. Khaliq et.al.|[2307.06271v1](http://arxiv.org/abs/2307.06271v1)|null|
 |**2023-07-12**|**Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal**|Meng Wang et.al.|[2307.05990v1](http://arxiv.org/abs/2307.05990v1)|null|
