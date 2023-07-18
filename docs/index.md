@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Experimental Realization of Anti-Unitary Wave-Chaotic Photonic Topological Insulator Graphs Showing Kramers Degeneracy and Symplectic Ensemble Statistics**|Shukai Ma et.al.|[2307.08622v1](http://arxiv.org/abs/2307.08622v1)|null|
+|**2023-07-17**|**Shear viscosity scaling of granular suspensions across dilute to dense regimes**|Zaohui Zhang et.al.|[2307.08275v1](http://arxiv.org/abs/2307.08275v1)|null|
+|**2023-07-17**|**An exact model for the transition to collective motion in nonreciprocal active matter**|David Martin et.al.|[2307.08251v1](http://arxiv.org/abs/2307.08251v1)|null|
+|**2023-07-17**|**Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-Bethe-Salpeter-Equation Approach**|Fujie Tang et.al.|[2307.08215v1](http://arxiv.org/abs/2307.08215v1)|null|
+|**2023-07-16**|**What is an anomaly?**|Daniel S. Freed et.al.|[2307.08147v1](http://arxiv.org/abs/2307.08147v1)|null|
+|**2023-07-16**|**Dynamic Coarse-Graining of Linear and Non-Linear Systems: Mori-Zwanzig Formalism and Beyond**|Bernd Jung et.al.|[2307.08143v1](http://arxiv.org/abs/2307.08143v1)|null|
+|**2023-07-16**|**Collective relaxation dynamics in a three-dimensional lattice glass model**|Yoshihiko Nishikawa et.al.|[2307.08110v1](http://arxiv.org/abs/2307.08110v1)|null|
+|**2023-07-16**|**Exploring the Nature of High-Order Cavity Polaritons under the Coupling-Decoupling Transition**|M. Godsi et.al.|[2307.08037v1](http://arxiv.org/abs/2307.08037v1)|null|
+|**2023-07-16**|**Electron-optics using negative refraction in two-dimensional inverted-band $pn$ junctions**|Yuhao Zhao et.al.|[2307.07913v1](http://arxiv.org/abs/2307.07913v1)|null|
+|**2023-07-15**|**Thawed Matrix method for computing Local Mechanical Properties of Amorphous Solids**|Jörg Rottler et.al.|[2307.07866v1](http://arxiv.org/abs/2307.07866v1)|null|
+|**2023-07-15**|**Non-Gaussian fluctuations of a probe coupled to a Gaussian field**|Vincent Démery et.al.|[2307.07721v1](http://arxiv.org/abs/2307.07721v1)|null|
 |**2023-07-14**|**Community detection forecasts material failure in a sheared granular material**|Farnaz Fazelpour et.al.|[2307.07501v1](http://arxiv.org/abs/2307.07501v1)|null|
 |**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454v1](http://arxiv.org/abs/2307.07454v1)|null|
 |**2023-07-14**|**Energetic cost of microswimmer navigation: the role of body shape**|Lorenzo Piro et.al.|[2307.07301v1](http://arxiv.org/abs/2307.07301v1)|null|
@@ -2883,6 +2894,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Trion resonance in polariton-electron scattering**|Sangeet S. Kumar et.al.|[2307.08244v1](http://arxiv.org/abs/2307.08244v1)|null|
 |**2023-07-10**|**Ultrafast demagnetization in bulk nickel induced by X-ray photons tuned to Ni $M_{3}$ and $L_3$ absorption edges**|Konrad J. Kapcia et.al.|[2307.04671v1](http://arxiv.org/abs/2307.04671v1)|null|
 |**2023-07-10**|**Design and processing as ultrathin films of a sublimable Iron(II) spin crossover material exhibiting efficient and fast light-induced spin transition**|Miguel Gavara-Edo et.al.|[2307.04591v1](http://arxiv.org/abs/2307.04591v1)|null|
 |**2023-07-10**|**Strong transient magnetic fields induced by THz-driven plasmons in graphene disks**|Jeong Woo Han et.al.|[2307.04512v1](http://arxiv.org/abs/2307.04512v1)|null|
@@ -3048,6 +3060,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Ultrafast Orbital Hall Effect in Metallic Nanoribbons**|Oliver Busch et.al.|[2307.08444v1](http://arxiv.org/abs/2307.08444v1)|null|
+|**2023-07-17**|**Electronic Noise of a Single Skyrmion**|Kang Wang et.al.|[2307.08194v1](http://arxiv.org/abs/2307.08194v1)|null|
 |**2023-07-12**|**Quasi-static magnetization dynamics in a compensated ferrimagnetic half-metal -- Mn $_2$Ru$_x$ Ga**|Ajay Jha et.al.|[2307.06403v1](http://arxiv.org/abs/2307.06403v1)|null|
 |**2023-07-06**|**Spin and orbital Edelstein effect in a bilayer system with Rashba interaction**|Sergio Leiva M. et.al.|[2307.02872v1](http://arxiv.org/abs/2307.02872v1)|null|
 |**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329v1](http://arxiv.org/abs/2307.01329v1)|null|
@@ -3115,6 +3129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-15**|**Planar Hall effect and Anisotropic Magnetoresistance in Thin Films of Chiral Antiferromagnet Mn3Sn**|Vinay Sharma et.al.|[2307.07795v1](http://arxiv.org/abs/2307.07795v1)|null|
 |**2023-07-14**|**Giant geometry modulation on magnetic proximity effect observed in isomeric oxide heterostructures**|Meng Wang et.al.|[2307.07169v1](http://arxiv.org/abs/2307.07169v1)|null|
 |**2023-07-14**|**Photoinduced High-Chern-Number Quantum Anomalous Hall Effect from Higher-Order Topological Insulators**|Xiaolin Wan et.al.|[2307.07116v1](http://arxiv.org/abs/2307.07116v1)|null|
 |**2023-07-12**|**Quasi-static magnetization dynamics in a compensated ferrimagnetic half-metal -- Mn $_2$Ru$_x$ Ga**|Ajay Jha et.al.|[2307.06403v1](http://arxiv.org/abs/2307.06403v1)|null|
