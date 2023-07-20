@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Variability estimation in a non-linear crack growth simulation model with controlled parameters using Designed Experiments testing**|Seungju Yeoa et.al.|[2307.10161v1](http://arxiv.org/abs/2307.10161v1)|null|
+|**2023-07-19**|**Depleting states dictate the ideal glass and physics of glass transition**|Anshul D. S. Parmar et.al.|[2307.10143v1](http://arxiv.org/abs/2307.10143v1)|null|
+|**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139v1](http://arxiv.org/abs/2307.10139v1)|null|
+|**2023-07-19**|**The impact of the interfacial Kapitza resistance on colloidal thermophoresis**|Juan D. Olarte-Plata et.al.|[2307.10138v1](http://arxiv.org/abs/2307.10138v1)|null|
+|**2023-07-19**|**Symmetrically pulsating bubbles swim in an anisotropic fluid by nematodynamics**|Sung-Jo Kim et.al.|[2307.10121v1](http://arxiv.org/abs/2307.10121v1)|null|
+|**2023-07-19**|**Some examples of quasiperiodic tilings obtained with a simple grid method**|Jean-François Sadoc et.al.|[2307.10118v1](http://arxiv.org/abs/2307.10118v1)|null|
+|**2023-07-19**|**Coexistence of defect morphologies in three dimensional active nematics**|Pasquale Digregorio et.al.|[2307.10103v1](http://arxiv.org/abs/2307.10103v1)|null|
+|**2023-07-19**|**Connecting the Branches of Multistable Non-Euclidean Origami by Crease Stretching**|Clark Addis et.al.|[2307.10071v1](http://arxiv.org/abs/2307.10071v1)|null|
+|**2023-07-19**|**Electrons in helical magnetic field: a new class of topological metals**|Yu. B. Kudasov et.al.|[2307.09884v1](http://arxiv.org/abs/2307.09884v1)|null|
+|**2023-07-19**|**Hyperbolic non-Abelian semimetal**|Tarun Tummuru et.al.|[2307.09876v1](http://arxiv.org/abs/2307.09876v1)|null|
+|**2023-07-19**|**Phantom-Chain Simulations for the Effect of Node Functionality on the Fracture of Star-Polymer Networks**|Yuichi Masubuchi et.al.|[2307.09832v1](http://arxiv.org/abs/2307.09832v1)|null|
+|**2023-07-19**|**Theory of anomalous Hall effect in transition-metal pentatelluride $\mathrm{ZrTe}_{5}$ and $\mathrm{HfTe}_{5}$**|Huan-Wen Wang et.al.|[2307.09708v1](http://arxiv.org/abs/2307.09708v1)|null|
+|**2023-07-18**|**Partially Saturated Granular Flow in a Rotating Drum: The Role of Cohesion**|Mingrui Dong et.al.|[2307.09682v1](http://arxiv.org/abs/2307.09682v1)|null|
+|**2023-07-18**|**Flat-band spin density wave in twisted bilayer materials**|Zhigang Song et.al.|[2307.09506v1](http://arxiv.org/abs/2307.09506v1)|null|
 |**2023-07-18**|**Tunable morphing of electroactive dielectric-elastomer balloons**|Yipin Su et.al.|[2307.09347v1](http://arxiv.org/abs/2307.09347v1)|null|
 |**2023-07-18**|**The effect of disorder on phases across two-dimensional thermal melting**|Prashanti Jami et.al.|[2307.09327v1](http://arxiv.org/abs/2307.09327v1)|null|
 |**2023-07-18**|**Confined granular gases under the influence of vibrating walls**|M. Mayo et.al.|[2307.09314v1](http://arxiv.org/abs/2307.09314v1)|null|
@@ -2909,6 +2923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Dynamical Onset of Light-Induced Unconventional Superconductivity -- a Yukawa-Sachdev-Ye-Kitaev study**|Lukas Grunwald et.al.|[2307.09935v1](http://arxiv.org/abs/2307.09935v1)|null|
 |**2023-07-17**|**Trion resonance in polariton-electron scattering**|Sangeet S. Kumar et.al.|[2307.08244v1](http://arxiv.org/abs/2307.08244v1)|null|
 |**2023-07-10**|**Ultrafast demagnetization in bulk nickel induced by X-ray photons tuned to Ni $M_{3}$ and $L_3$ absorption edges**|Konrad J. Kapcia et.al.|[2307.04671v1](http://arxiv.org/abs/2307.04671v1)|null|
 |**2023-07-10**|**Design and processing as ultrathin films of a sublimable Iron(II) spin crossover material exhibiting efficient and fast light-induced spin transition**|Miguel Gavara-Edo et.al.|[2307.04591v1](http://arxiv.org/abs/2307.04591v1)|null|
@@ -3144,6 +3159,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Observation of large intrinsic anomalous Hall conductivity in polycrystalline Mn3Sn films**|W. AfzaL et.al.|[2307.09808v1](http://arxiv.org/abs/2307.09808v1)|null|
+|**2023-07-19**|**Theory of anomalous Hall effect in transition-metal pentatelluride $\mathrm{ZrTe}_{5}$ and $\mathrm{HfTe}_{5}$**|Huan-Wen Wang et.al.|[2307.09708v1](http://arxiv.org/abs/2307.09708v1)|null|
 |**2023-07-15**|**Planar Hall effect and Anisotropic Magnetoresistance in Thin Films of Chiral Antiferromagnet Mn3Sn**|Vinay Sharma et.al.|[2307.07795v1](http://arxiv.org/abs/2307.07795v1)|null|
 |**2023-07-14**|**Giant geometry modulation on magnetic proximity effect observed in isomeric oxide heterostructures**|Meng Wang et.al.|[2307.07169v1](http://arxiv.org/abs/2307.07169v1)|null|
 |**2023-07-18**|**Photoinduced High-Chern-Number Quantum Anomalous Hall Effect from Higher-Order Topological Insulators**|Xiaolin Wan et.al.|[2307.07116v2](http://arxiv.org/abs/2307.07116v2)|null|
