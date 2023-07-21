@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Random insights into the complexity of two-dimensional tensor network calculations**|Sofia Gonzalez-Garcia et.al.|[2307.11053v1](http://arxiv.org/abs/2307.11053v1)|null|
+|**2023-07-20**|**Froude number scaling unifies impact trajectories into granular media across gravitational conditions**|Peter M. Miklavcic et.al.|[2307.10998v1](http://arxiv.org/abs/2307.10998v1)|null|
+|**2023-07-20**|**Enriched Computational Homogenization Schemes Applied to Pattern-Transforming Elastomeric Mechanical Metamaterials**|S. O. Sperling et.al.|[2307.10952v1](http://arxiv.org/abs/2307.10952v1)|null|
+|**2023-07-20**|**Perpendicular separations of a binary mixture under van der Waals confinement**|Kui Lin et.al.|[2307.10939v1](http://arxiv.org/abs/2307.10939v1)|null|
+|**2023-07-20**|**Designing a braille reader using the snap buckling of bistable magnetic shells**|Arefeh Abbasi et.al.|[2307.10933v1](http://arxiv.org/abs/2307.10933v1)|null|
+|**2023-07-20**|**Electrophoresis of ions and elecrolyte conductivity: from bulk to nanochannels**|Olga I. Vinogradova et.al.|[2307.10921v1](http://arxiv.org/abs/2307.10921v1)|null|
+|**2023-07-20**|**Effects of Monovalent and Divalent Cations on the Rheology of Entangled DNA**|Jennifer Harnett et.al.|[2307.10886v1](http://arxiv.org/abs/2307.10886v1)|null|
+|**2023-07-20**|**Dissipative systems fractionally coupled to a bath**|Audrique Vertessen et.al.|[2307.10795v1](http://arxiv.org/abs/2307.10795v1)|null|
+|**2023-07-20**|**Fluctuation-dominated Phase Ordering**|Mustansir Barma et.al.|[2307.10770v1](http://arxiv.org/abs/2307.10770v1)|null|
+|**2023-07-20**|**Morphology and dynamics of dense nanometric precursor lms of polymer melts**|Claire Schune et.al.|[2307.10681v1](http://arxiv.org/abs/2307.10681v1)|null|
+|**2023-07-20**|**Superconductivity in a van der Waals layered quasicrystal**|Yuki Tokumoto et.al.|[2307.10679v1](http://arxiv.org/abs/2307.10679v1)|null|
+|**2023-07-20**|**A bound on the free energy of tensionless membranes**|Francesco Serafin et.al.|[2307.10640v1](http://arxiv.org/abs/2307.10640v1)|null|
+|**2023-07-19**|**Pseudo-fermion functional renormalization group for spin models**|Tobias Müller et.al.|[2307.10359v1](http://arxiv.org/abs/2307.10359v1)|null|
 |**2023-07-19**|**Variability estimation in a non-linear crack growth simulation model with controlled parameters using Designed Experiments testing**|Seungju Yeoa et.al.|[2307.10161v1](http://arxiv.org/abs/2307.10161v1)|null|
 |**2023-07-19**|**Depleting states dictate the ideal glass and physics of glass transition**|Anshul D. S. Parmar et.al.|[2307.10143v1](http://arxiv.org/abs/2307.10143v1)|null|
 |**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139v1](http://arxiv.org/abs/2307.10139v1)|null|
@@ -2919,6 +2932,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-16**|**Light-assisted hierarchical fabrication of two-dimensional surfaces using DNA-functionalized semiconductor nanocrystal quantum dots**|Zeynep Senel et.al.|[2307.10241v1](http://arxiv.org/abs/2307.10241v1)|null|
 |**2023-07-19**|**Dynamical Onset of Light-Induced Unconventional Superconductivity -- a Yukawa-Sachdev-Ye-Kitaev study**|Lukas Grunwald et.al.|[2307.09935v1](http://arxiv.org/abs/2307.09935v1)|null|
 |**2023-07-17**|**Trion resonance in polariton-electron scattering**|Sangeet S. Kumar et.al.|[2307.08244v1](http://arxiv.org/abs/2307.08244v1)|null|
 |**2023-07-10**|**Ultrafast demagnetization in bulk nickel induced by X-ray photons tuned to Ni $M_{3}$ and $L_3$ absorption edges**|Konrad J. Kapcia et.al.|[2307.04671v1](http://arxiv.org/abs/2307.04671v1)|null|
@@ -3086,6 +3100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Fast Current Regulation and Persistent Current Maintenance of High-Temperature Superconducting Magnets with Contact Power Supply and Flux Pump**|Chenghuai Wu et.al.|[2307.10557v1](http://arxiv.org/abs/2307.10557v1)|null|
 |**2023-07-17**|**Ultrafast Orbital Hall Effect in Metallic Nanoribbons**|Oliver Busch et.al.|[2307.08444v1](http://arxiv.org/abs/2307.08444v1)|null|
 |**2023-07-17**|**Electronic Noise of a Single Skyrmion**|Kang Wang et.al.|[2307.08194v1](http://arxiv.org/abs/2307.08194v1)|null|
 |**2023-07-12**|**Quasi-static magnetization dynamics in a compensated ferrimagnetic half-metal -- Mn $_2$Ru$_x$ Ga**|Ajay Jha et.al.|[2307.06403v1](http://arxiv.org/abs/2307.06403v1)|null|
@@ -3229,6 +3244,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Lattice dynamics and spin excitations in the metal-organic framework [CH $_3$NH$_3$][Co(HCOO)$_3$ ]**|Lei Ding et.al.|[2307.10746v1](http://arxiv.org/abs/2307.10746v1)|null|
 |**2023-07-12**|**Purely antiferromagnetic frustrated Heisenberg model in spin ladder compound BaFe $_2$Se$_3$**|Roll A. et.al.|[2307.06193v1](http://arxiv.org/abs/2307.06193v1)|null|
 |**2023-07-07**|**Weak-Coupling Theory of Neutron Scattering as a Probe of Altermagnetism**|Thomas A. Maier et.al.|[2307.03793v1](http://arxiv.org/abs/2307.03793v1)|null|
 |**2023-06-26**|**Magnetic ground states and excitations in Zn-doped averieite -- a family of oxide-based $S=1/2$ kagome antiferromagnets**|M. Georgopoulou et.al.|[2306.14739v1](http://arxiv.org/abs/2306.14739v1)|null|
