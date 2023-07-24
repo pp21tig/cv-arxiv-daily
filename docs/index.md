@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**|Monika Angwani et.al.|[2307.11722v1](http://arxiv.org/abs/2307.11722v1)|null|
+|**2023-07-21**|**Strain stiffening universality in composite hydrogels and tissues**|Jake Song et.al.|[2307.11687v1](http://arxiv.org/abs/2307.11687v1)|null|
+|**2023-07-21**|**Soft and stiff normal modes in floppy colloidal square lattices**|Julio Melio et.al.|[2307.11664v1](http://arxiv.org/abs/2307.11664v1)|null|
+|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|null|
+|**2023-07-21**|**Probing active nematics with in-situ microfabricated elastic inclusions**|Ignasi Vélez-Cerón et.al.|[2307.11587v1](http://arxiv.org/abs/2307.11587v1)|null|
+|**2023-07-21**|**Optically Induced Avoided Crossing in Graphene**|Sören Buchenau et.al.|[2307.11562v1](http://arxiv.org/abs/2307.11562v1)|null|
+|**2023-07-21**|**Stochastic generation in a Josephson-like antiferromagnetic spin Hall oscillator driven by a pure AC current**|D. V. Slobodianiuk et.al.|[2307.11493v1](http://arxiv.org/abs/2307.11493v1)|null|
+|**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429v1](http://arxiv.org/abs/2307.11429v1)|null|
+|**2023-07-20**|**Vertical Ferroelectricity in Van der Waals Materials: Models and Devices**|Yuwen Zhang et.al.|[2307.11267v1](http://arxiv.org/abs/2307.11267v1)|null|
+|**2023-07-20**|**Collective Hall current in chiral active fluids: Coupling of phase and mass transport through traveling bands**|Frank Siebers et.al.|[2307.11115v1](http://arxiv.org/abs/2307.11115v1)|null|
+|**2023-07-20**|**Chiral Magnets from String Theory**|Yuki Amari et.al.|[2307.11113v1](http://arxiv.org/abs/2307.11113v1)|null|
 |**2023-07-20**|**Random insights into the complexity of two-dimensional tensor network calculations**|Sofia Gonzalez-Garcia et.al.|[2307.11053v1](http://arxiv.org/abs/2307.11053v1)|null|
 |**2023-07-20**|**Froude number scaling unifies impact trajectories into granular media across gravitational conditions**|Peter M. Miklavcic et.al.|[2307.10998v1](http://arxiv.org/abs/2307.10998v1)|null|
 |**2023-07-20**|**Enriched Computational Homogenization Schemes Applied to Pattern-Transforming Elastomeric Mechanical Metamaterials**|S. O. Sperling et.al.|[2307.10952v1](http://arxiv.org/abs/2307.10952v1)|null|
@@ -3104,6 +3115,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Sagnac interferometry for high-sensitivity optical measurements of spin-orbit torque**|Saba Karimeddiny et.al.|[2307.11624v1](http://arxiv.org/abs/2307.11624v1)|null|
+|**2023-07-21**|**Magnetic Proximity induced efficient charge-to-spin conversion in large area PtSe $_{2}$/Ni$_{80}$Fe$_{20}$ heterostructures**|Richa Mudgal et.al.|[2307.11524v1](http://arxiv.org/abs/2307.11524v1)|null|
 |**2023-07-20**|**Fast Current Regulation and Persistent Current Maintenance of High-Temperature Superconducting Magnets with Contact Power Supply and Flux Pump**|Chenghuai Wu et.al.|[2307.10557v1](http://arxiv.org/abs/2307.10557v1)|null|
 |**2023-07-17**|**Ultrafast Orbital Hall Effect in Metallic Nanoribbons**|Oliver Busch et.al.|[2307.08444v1](http://arxiv.org/abs/2307.08444v1)|null|
 |**2023-07-17**|**Electronic Noise of a Single Skyrmion**|Kang Wang et.al.|[2307.08194v1](http://arxiv.org/abs/2307.08194v1)|null|
@@ -3174,6 +3187,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Symmetry Analysis with Spin Crystallographic Groups: Disentangling Spin-Orbit-Free Effects in Emergent Electromagnetism**|Hikaru Watanabe et.al.|[2307.11560v1](http://arxiv.org/abs/2307.11560v1)|null|
 |**2023-07-19**|**Observation of large intrinsic anomalous Hall conductivity in polycrystalline Mn $_3$ Sn films**|W. AfzaL et.al.|[2307.09808v1](http://arxiv.org/abs/2307.09808v1)|null|
 |**2023-07-19**|**Theory of anomalous Hall effect in transition-metal pentatelluride $\mathrm{ZrTe}_{5}$ and $\mathrm{HfTe}_{5}$**|Huan-Wen Wang et.al.|[2307.09708v1](http://arxiv.org/abs/2307.09708v1)|null|
 |**2023-07-15**|**Planar Hall effect and Anisotropic Magnetoresistance in Thin Films of Chiral Antiferromagnet Mn3Sn**|Vinay Sharma et.al.|[2307.07795v1](http://arxiv.org/abs/2307.07795v1)|null|
@@ -3248,6 +3262,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429v1](http://arxiv.org/abs/2307.11429v1)|null|
 |**2023-07-20**|**Lattice dynamics and spin excitations in the metal-organic framework [CH $_3$NH$_3$][Co(HCOO)$_3$ ]**|Lei Ding et.al.|[2307.10746v1](http://arxiv.org/abs/2307.10746v1)|null|
 |**2023-07-12**|**Purely antiferromagnetic frustrated Heisenberg model in spin ladder compound BaFe $_2$Se$_3$**|Roll A. et.al.|[2307.06193v1](http://arxiv.org/abs/2307.06193v1)|null|
 |**2023-07-07**|**Weak-Coupling Theory of Neutron Scattering as a Probe of Altermagnetism**|Thomas A. Maier et.al.|[2307.03793v1](http://arxiv.org/abs/2307.03793v1)|null|
