@@ -1101,7 +1101,7 @@
 |**2023-07-21**|**Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**|Monika Angwani et.al.|[2307.11722v1](http://arxiv.org/abs/2307.11722v1)|null|
 |**2023-07-21**|**Strain stiffening universality in composite hydrogels and tissues**|Jake Song et.al.|[2307.11687v1](http://arxiv.org/abs/2307.11687v1)|null|
 |**2023-07-21**|**Soft and stiff normal modes in floppy colloidal square lattices**|Julio Melio et.al.|[2307.11664v1](http://arxiv.org/abs/2307.11664v1)|null|
-|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|null|
+|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|**[link](https://github.com/gabrielfernandezfernandez/spivae)**|
 |**2023-07-21**|**Probing active nematics with in-situ microfabricated elastic inclusions**|Ignasi Vélez-Cerón et.al.|[2307.11587v1](http://arxiv.org/abs/2307.11587v1)|null|
 |**2023-07-21**|**Optically Induced Avoided Crossing in Graphene**|Sören Buchenau et.al.|[2307.11562v1](http://arxiv.org/abs/2307.11562v1)|null|
 |**2023-07-21**|**Stochastic generation in a Josephson-like antiferromagnetic spin Hall oscillator driven by a pure AC current**|D. V. Slobodianiuk et.al.|[2307.11493v1](http://arxiv.org/abs/2307.11493v1)|null|
