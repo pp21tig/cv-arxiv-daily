@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Collective epithelial migration is mediated by the unbinding of hexatic defects**|Dimitrios Krommydas et.al.|[2307.12956v1](http://arxiv.org/abs/2307.12956v1)|null|
+|**2023-07-24**|**Modelling intermittent anomalous diffusion with switching fractional Brownian motion**|Michał Balcerek et.al.|[2307.12919v1](http://arxiv.org/abs/2307.12919v1)|null|
+|**2023-07-24**|**Flow states of two dimensional active gels driven by external shear**|Wan Luo et.al.|[2307.12910v1](http://arxiv.org/abs/2307.12910v1)|null|
+|**2023-07-24**|**Intruder in a two-dimensional granular system: statics and dynamics of force networks in an experimental system experiencing stick-slip dynamics**|R. Basak et.al.|[2307.12890v1](http://arxiv.org/abs/2307.12890v1)|null|
+|**2023-07-24**|**A quantitative theoretical model of the boson peak based on stringlet excitations**|Cunyuan Jiang et.al.|[2307.12839v1](http://arxiv.org/abs/2307.12839v1)|null|
+|**2023-07-24**|**Patterning of multicomponent elastic shells by Gaussian curvature**|Curt Waltmann et.al.|[2307.12834v1](http://arxiv.org/abs/2307.12834v1)|null|
+|**2023-07-24**|**Non-equilibrium memory effects: granular fluids and beyond**|A Patrón et.al.|[2307.12816v1](http://arxiv.org/abs/2307.12816v1)|null|
+|**2023-07-24**|**Unraveling Quantum Coherences Mediating Primary Charge Transfer Processes in Photosystem II Reaction Center**|Ajay Jha et.al.|[2307.12805v1](http://arxiv.org/abs/2307.12805v1)|null|
+|**2023-07-24**|**Residual stresses couple microscopic and macroscopic scales**|Sebastian Steinhäuser et.al.|[2307.12764v1](http://arxiv.org/abs/2307.12764v1)|null|
+|**2023-07-24**|**Impact of Ultrasound on the Motion of Compact Particles and Acousto-responsive Microgels**|Sebastian Stock et.al.|[2307.12696v1](http://arxiv.org/abs/2307.12696v1)|null|
+|**2023-07-24**|**An anti-maser for quantum-limited cooling of a microwave cavity**|Aharon Blank et.al.|[2307.12691v1](http://arxiv.org/abs/2307.12691v1)|null|
+|**2023-07-24**|**Protein sizing with Differential Dynamic Microscopy**|Chiara Guidolin et.al.|[2307.12608v1](http://arxiv.org/abs/2307.12608v1)|null|
+|**2023-07-24**|**Dynamics of a Passive Droplet in Active Turbulence**|Chamkor Singh et.al.|[2307.12589v1](http://arxiv.org/abs/2307.12589v1)|null|
+|**2023-07-24**|**Adaptive active Brownian particles searching for targets of unknown positions**|Harpreet Kaur et.al.|[2307.12578v1](http://arxiv.org/abs/2307.12578v1)|null|
+|**2023-07-24**|**General Predictive Framework for Droplet Detachment Force**|Muhammad Subkhi Sadullah et.al.|[2307.12527v1](http://arxiv.org/abs/2307.12527v1)|null|
+|**2023-07-24**|**Evolution of Free Volume Elements in Amorphous Polymers Undergoing Uniaxial Deformation: a Molecular Dynamics Simulation Study**|Brendan Wernisch et.al.|[2307.12460v1](http://arxiv.org/abs/2307.12460v1)|null|
+|**2023-07-23**|**Fluid fibres in true 3D ferroelectric liquids**|Alexander Jarosik et.al.|[2307.12412v1](http://arxiv.org/abs/2307.12412v1)|null|
+|**2023-07-23**|**Macroscopic Stochastic Thermodynamics**|Gianmaria Falasco et.al.|[2307.12406v1](http://arxiv.org/abs/2307.12406v1)|null|
+|**2023-07-23**|**Non-gapless excitation and zero-bias fast oscillations in the LDOS of surface superconducting states**|Liangyuan Chen et.al.|[2307.12372v1](http://arxiv.org/abs/2307.12372v1)|null|
+|**2023-07-23**|**Unravelling the Mechanics of Knitted Fabrics Through Hierarchical Geometric Representation**|Xiaoxiao Ding et.al.|[2307.12360v1](http://arxiv.org/abs/2307.12360v1)|null|
 |**2023-07-21**|**Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**|Monika Angwani et.al.|[2307.11722v1](http://arxiv.org/abs/2307.11722v1)|null|
 |**2023-07-21**|**Strain stiffening universality in composite hydrogels and tissues**|Jake Song et.al.|[2307.11687v1](http://arxiv.org/abs/2307.11687v1)|null|
 |**2023-07-21**|**Soft and stiff normal modes in floppy colloidal square lattices**|Julio Melio et.al.|[2307.11664v1](http://arxiv.org/abs/2307.11664v1)|null|
@@ -2947,6 +2967,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Light-Driven Nanoscale Vectorial Currents**|Jacob Pettine et.al.|[2307.11928v1](http://arxiv.org/abs/2307.11928v1)|null|
+|**2023-07-21**|**Illumination protocols for non-linear phononics in bismuth and antimony**|Anubhab Haldar et.al.|[2307.11854v1](http://arxiv.org/abs/2307.11854v1)|null|
 |**2023-07-16**|**Light-assisted hierarchical fabrication of two-dimensional surfaces using DNA-functionalized semiconductor nanocrystal quantum dots**|Zeynep Senel et.al.|[2307.10241v1](http://arxiv.org/abs/2307.10241v1)|null|
 |**2023-07-19**|**Dynamical Onset of Light-Induced Unconventional Superconductivity -- a Yukawa-Sachdev-Ye-Kitaev study**|Lukas Grunwald et.al.|[2307.09935v1](http://arxiv.org/abs/2307.09935v1)|null|
 |**2023-07-17**|**Trion resonance in polariton-electron scattering**|Sangeet S. Kumar et.al.|[2307.08244v1](http://arxiv.org/abs/2307.08244v1)|null|
@@ -3115,6 +3137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Weak production of $η$ mesons induced by $ν_μ(\barν_μ)$ at MicroBooNE energies**|A. Fatima et.al.|[2307.12686v1](http://arxiv.org/abs/2307.12686v1)|null|
 |**2023-07-21**|**Sagnac interferometry for high-sensitivity optical measurements of spin-orbit torque**|Saba Karimeddiny et.al.|[2307.11624v1](http://arxiv.org/abs/2307.11624v1)|null|
 |**2023-07-21**|**Magnetic Proximity induced efficient charge-to-spin conversion in large area PtSe $_{2}$/Ni$_{80}$Fe$_{20}$ heterostructures**|Richa Mudgal et.al.|[2307.11524v1](http://arxiv.org/abs/2307.11524v1)|null|
 |**2023-07-20**|**Fast Current Regulation and Persistent Current Maintenance of High-Temperature Superconducting Magnets with Contact Power Supply and Flux Pump**|Chenghuai Wu et.al.|[2307.10557v1](http://arxiv.org/abs/2307.10557v1)|null|
@@ -3187,6 +3210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-23**|**Ru doping induced spin frustration and enhancement of the room-temperature anomalous Hall effect in La2/3Sr1/3MnO3 films**|Enda Hua et.al.|[2307.12253v1](http://arxiv.org/abs/2307.12253v1)|null|
 |**2023-07-21**|**Symmetry Analysis with Spin Crystallographic Groups: Disentangling Spin-Orbit-Free Effects in Emergent Electromagnetism**|Hikaru Watanabe et.al.|[2307.11560v1](http://arxiv.org/abs/2307.11560v1)|null|
 |**2023-07-19**|**Observation of large intrinsic anomalous Hall conductivity in polycrystalline Mn $_3$ Sn films**|W. AfzaL et.al.|[2307.09808v1](http://arxiv.org/abs/2307.09808v1)|null|
 |**2023-07-19**|**Theory of anomalous Hall effect in transition-metal pentatelluride $\mathrm{ZrTe}_{5}$ and $\mathrm{HfTe}_{5}$**|Huan-Wen Wang et.al.|[2307.09708v1](http://arxiv.org/abs/2307.09708v1)|null|
@@ -3262,6 +3286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-22**|**Spinon continuum in the Heisenberg quantum chain compound Sr $_2$V$_3$O$_9$**|Shang Gao et.al.|[2307.12093v1](http://arxiv.org/abs/2307.12093v1)|null|
 |**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429v1](http://arxiv.org/abs/2307.11429v1)|null|
 |**2023-07-20**|**Lattice dynamics and spin excitations in the metal-organic framework [CH $_3$NH$_3$][Co(HCOO)$_3$ ]**|Lei Ding et.al.|[2307.10746v1](http://arxiv.org/abs/2307.10746v1)|null|
 |**2023-07-12**|**Purely antiferromagnetic frustrated Heisenberg model in spin ladder compound BaFe $_2$Se$_3$**|Roll A. et.al.|[2307.06193v1](http://arxiv.org/abs/2307.06193v1)|null|
