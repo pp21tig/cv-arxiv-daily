@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Topological solitonic macromolecules**|Hanqing Zhao et.al.|[2307.13666v1](http://arxiv.org/abs/2307.13666v1)|null|
+|**2023-07-25**|**Shape Programming in Entropic Tissues**|Carlos M. Duque et.al.|[2307.13506v1](http://arxiv.org/abs/2307.13506v1)|null|
+|**2023-07-25**|**Dissipation and recovery in collagen fibrils under cyclic loading: a molecular dynamics study**|Amir Suhail et.al.|[2307.13465v1](http://arxiv.org/abs/2307.13465v1)|null|
+|**2023-07-25**|**Transition from viscous fingers to foam during drainage in heterogeneous porous media**|Federico Lanza et.al.|[2307.13451v1](http://arxiv.org/abs/2307.13451v1)|null|
+|**2023-07-25**|**A high- $κ$ wide-gap layered dielectric for two-dimensional van der Waals heterostructures**|A. Söll et.al.|[2307.13431v1](http://arxiv.org/abs/2307.13431v1)|null|
+|**2023-07-25**|**Scaling of granular column collapses on inclined planes**|Teng Man et.al.|[2307.13384v1](http://arxiv.org/abs/2307.13384v1)|null|
+|**2023-07-25**|**Dissipative Chiral Channels, Ohmic Scaling and Half-integer Hall Conductivity from the Relativistic Quantum Hall Effect**|Humian Zhou et.al.|[2307.13326v1](http://arxiv.org/abs/2307.13326v1)|null|
+|**2023-07-25**|**Autonomous neural information processing by a dynamical memristor circuit**|Dániel Molnár et.al.|[2307.13320v1](http://arxiv.org/abs/2307.13320v1)|null|
+|**2023-07-25**|**Structural criterion for the onset of rigidity in a colloidal gel**|C. S. Dias et.al.|[2307.13315v1](http://arxiv.org/abs/2307.13315v1)|null|
+|**2023-07-25**|**Entropy production and collective excitations of crystals out of equilibrium: the concept of entropons**|Lorenzo Caprini et.al.|[2307.13306v1](http://arxiv.org/abs/2307.13306v1)|null|
+|**2023-07-25**|**Semi-analytical study of transient electroosmotic flow of Maxwell fluids in nanochannels grafted with a strong polyelectrolyte layer having layered distribution of charges**|Jun-Sik Sin et.al.|[2307.13283v1](http://arxiv.org/abs/2307.13283v1)|null|
+|**2023-07-25**|**Nonlinear Wavepacket Dynamics in Proximity to a Stationary Inflection Point**|Serena Landers et.al.|[2307.13274v1](http://arxiv.org/abs/2307.13274v1)|null|
+|**2023-07-25**|**The Structural Difference Between Strong and Fragile Liquids**|Gang Sun et.al.|[2307.13229v1](http://arxiv.org/abs/2307.13229v1)|null|
+|**2023-07-25**|**Urea nucleation in water: do long-range forces matter?**|Renjie Zhao et.al.|[2307.13189v1](http://arxiv.org/abs/2307.13189v1)|null|
+|**2023-07-24**|**Static wetting of a barrel-shaped droplet on a soft-layer-coated fiber**|Bo Xue Zheng et.al.|[2307.13140v1](http://arxiv.org/abs/2307.13140v1)|null|
 |**2023-07-25**|**Collective epithelial migration is mediated by the unbinding of hexatic defects**|Dimitrios Krommydas et.al.|[2307.12956v2](http://arxiv.org/abs/2307.12956v2)|null|
 |**2023-07-24**|**Modelling intermittent anomalous diffusion with switching fractional Brownian motion**|Michał Balcerek et.al.|[2307.12919v1](http://arxiv.org/abs/2307.12919v1)|null|
 |**2023-07-24**|**Flow states of two dimensional active gels driven by external shear**|Wan Luo et.al.|[2307.12910v1](http://arxiv.org/abs/2307.12910v1)|null|
