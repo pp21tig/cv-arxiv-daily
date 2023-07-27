@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Fluctuations in the active Dyson Brownian motion and the overdamped Calogero-Moser model**|Leo Touzo et.al.|[2307.14306v1](http://arxiv.org/abs/2307.14306v1)|null|
+|**2023-07-26**|**Socioeconomic agents as active matter in nonequilibrium Sakoda-Schelling models**|Ruben Zakine et.al.|[2307.14270v1](http://arxiv.org/abs/2307.14270v1)|null|
+|**2023-07-26**|**Why soft contacts are stickier when breaking than when making them**|Antoine Sanner et.al.|[2307.14233v1](http://arxiv.org/abs/2307.14233v1)|null|
+|**2023-07-26**|**Topological Insulators**|Yoichi Ando et.al.|[2307.14196v1](http://arxiv.org/abs/2307.14196v1)|null|
+|**2023-07-26**|**Lagrangian statistics of dense emulsions**|Ivan Girotto et.al.|[2307.14184v1](http://arxiv.org/abs/2307.14184v1)|null|
+|**2023-07-26**|**Violation of Bohigas-Giannoni-Schmit conjecture using an integrable many-body Floquet system**|Harshit Sharma et.al.|[2307.14122v1](http://arxiv.org/abs/2307.14122v1)|null|
+|**2023-07-26**|**Energy Spectrum Analysis on a Red Blood Cell Model**|Tetsuya Yamamoto et.al.|[2307.14029v1](http://arxiv.org/abs/2307.14029v1)|null|
+|**2023-07-25**|**Controlled tempering of lipid concentration and microbubble shrinkage as a possible mechanism for fine-tuning microbubble size and shell properties**|Intesar O. Zalloum et.al.|[2307.13836v1](http://arxiv.org/abs/2307.13836v1)|null|
+|**2023-07-25**|**Shell elasticity and viscosity of lipid-coated microbubbles are significantly altered in mediums of different ionic strength**|Amin Jafari Sojahrood et.al.|[2307.13827v1](http://arxiv.org/abs/2307.13827v1)|null|
+|**2023-07-25**|**Simulating the rheology of dense suspensions using pairwise formulation of contact, lubrication and Brownian forces**|Xuan Li et.al.|[2307.13802v1](http://arxiv.org/abs/2307.13802v1)|null|
 |**2023-07-25**|**Topological solitonic macromolecules**|Hanqing Zhao et.al.|[2307.13666v1](http://arxiv.org/abs/2307.13666v1)|null|
 |**2023-07-25**|**Shape Programming in Entropic Tissues**|Carlos M. Duque et.al.|[2307.13506v1](http://arxiv.org/abs/2307.13506v1)|null|
 |**2023-07-25**|**Dissipation and recovery in collagen fibrils under cyclic loading: a molecular dynamics study**|Amir Suhail et.al.|[2307.13465v1](http://arxiv.org/abs/2307.13465v1)|null|
@@ -3225,6 +3235,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Topological Insulators**|Yoichi Ando et.al.|[2307.14196v1](http://arxiv.org/abs/2307.14196v1)|null|
 |**2023-07-23**|**Ru doping induced spin frustration and enhancement of the room-temperature anomalous Hall effect in La2/3Sr1/3MnO3 films**|Enda Hua et.al.|[2307.12253v1](http://arxiv.org/abs/2307.12253v1)|null|
 |**2023-07-21**|**Symmetry Analysis with Spin Crystallographic Groups: Disentangling Spin-Orbit-Free Effects in Emergent Electromagnetism**|Hikaru Watanabe et.al.|[2307.11560v1](http://arxiv.org/abs/2307.11560v1)|null|
 |**2023-07-19**|**Observation of large intrinsic anomalous Hall conductivity in polycrystalline Mn $_3$ Sn films**|W. AfzaL et.al.|[2307.09808v1](http://arxiv.org/abs/2307.09808v1)|null|
