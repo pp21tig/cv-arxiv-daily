@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**Enhanced Activity Reduces the Duration of Intermittent Lévy Walks in Bacterial Turbulence**|G. Dhananjay et.al.|[2307.15035v1](http://arxiv.org/abs/2307.15035v1)|null|
+|**2023-07-27**|**Harnessing Synthetic Active Particles for Physical Reservoir Computing**|Xiangzun Wang et.al.|[2307.15010v1](http://arxiv.org/abs/2307.15010v1)|null|
+|**2023-07-27**|**PolyHoop: Soft particle and tissue dynamics with topological transitions**|Roman Vetter et.al.|[2307.15006v1](http://arxiv.org/abs/2307.15006v1)|null|
+|**2023-07-27**|**Learning locally dominant force balances in active particle systems**|Dominik Sturm et.al.|[2307.14970v1](http://arxiv.org/abs/2307.14970v1)|null|
+|**2023-07-27**|**Mechanism of pressure sensitive adhesion in nematic elastomers**|Hongye Guo et.al.|[2307.14968v1](http://arxiv.org/abs/2307.14968v1)|null|
+|**2023-07-27**|**The structure of disintegrating defect clusters in smectic C freely suspended films**|Ralf Stannarius et.al.|[2307.14937v1](http://arxiv.org/abs/2307.14937v1)|null|
+|**2023-07-27**|**Viscoelastic confinement induces periodic flow reversals in active nematics**|Francesco Mori et.al.|[2307.14919v1](http://arxiv.org/abs/2307.14919v1)|null|
+|**2023-07-27**|**Reduced stress propagation leads to increased mechanical failure resistance in auxetic materials**|Suzanne M. Fielding et.al.|[2307.14914v1](http://arxiv.org/abs/2307.14914v1)|null|
+|**2023-07-27**|**Ordering properties of anisotropic hard bodies in one-dimensional channels**|Ana M. Montero et.al.|[2307.14760v1](http://arxiv.org/abs/2307.14760v1)|null|
+|**2023-07-27**|**High-harmonic spectroscopy of strongly bound excitons in solids**|Simon Vendelbo Bylling Jensen et.al.|[2307.14693v1](http://arxiv.org/abs/2307.14693v1)|null|
+|**2023-07-27**|**An entropic effect essential for surface entrapment of bacteria**|Premkumar Leishangthem et.al.|[2307.14664v1](http://arxiv.org/abs/2307.14664v1)|null|
+|**2023-07-27**|**How do Cicadas Emerge Together? Thermophysical Aspects of Their Collective Decision-Making**|Raymond E. Goldstein et.al.|[2307.14646v1](http://arxiv.org/abs/2307.14646v1)|null|
+|**2023-07-27**|**Two dimensional lattice with an imaginary magnetic field**|Tomoki Ozawa et.al.|[2307.14635v1](http://arxiv.org/abs/2307.14635v1)|null|
+|**2023-07-27**|**Pair-distribution function of active Brownian spheres in three spatial dimensions: simulation results and analytical representation**|Stephan Bröker et.al.|[2307.14558v1](http://arxiv.org/abs/2307.14558v1)|null|
+|**2023-07-26**|**Reconstructing Thermal Quantum Quench Dynamics from Pure States**|Jason Saroni et.al.|[2307.14508v1](http://arxiv.org/abs/2307.14508v1)|null|
+|**2023-07-26**|**Viscosity and Stokes-Einstein relation in deeply supercooled water under pressure**|Alexandre Mussa et.al.|[2307.14479v1](http://arxiv.org/abs/2307.14479v1)|null|
 |**2023-07-26**|**Fluctuations in the active Dyson Brownian motion and the overdamped Calogero-Moser model**|Leo Touzo et.al.|[2307.14306v1](http://arxiv.org/abs/2307.14306v1)|null|
 |**2023-07-26**|**Socioeconomic agents as active matter in nonequilibrium Sakoda-Schelling models**|Ruben Zakine et.al.|[2307.14270v1](http://arxiv.org/abs/2307.14270v1)|null|
 |**2023-07-26**|**Why soft contacts are stickier when breaking than when making them**|Antoine Sanner et.al.|[2307.14233v1](http://arxiv.org/abs/2307.14233v1)|null|
@@ -3158,6 +3174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**Enhancing Gravity Currents Analysis through Physics-Informed Neural Networks: Insights from Experimental Observations**|Mickaël Delcey et.al.|[2307.14794v1](http://arxiv.org/abs/2307.14794v1)|null|
 |**2023-07-24**|**Weak production of $η$ mesons induced by $ν_μ(\barν_μ)$ at MicroBooNE energies**|A. Fatima et.al.|[2307.12686v1](http://arxiv.org/abs/2307.12686v1)|null|
 |**2023-07-21**|**Sagnac interferometry for high-sensitivity optical measurements of spin-orbit torque**|Saba Karimeddiny et.al.|[2307.11624v1](http://arxiv.org/abs/2307.11624v1)|null|
 |**2023-07-21**|**Magnetic Proximity induced efficient charge-to-spin conversion in large area PtSe $_{2}$/Ni$_{80}$Fe$_{20}$ heterostructures**|Richa Mudgal et.al.|[2307.11524v1](http://arxiv.org/abs/2307.11524v1)|null|
