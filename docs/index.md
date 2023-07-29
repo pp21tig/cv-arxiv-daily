@@ -1119,7 +1119,7 @@ layout: default
 |**2023-07-26**|**Reconstructing Thermal Quantum Quench Dynamics from Pure States**|Jason Saroni et.al.|[2307.14508v1](http://arxiv.org/abs/2307.14508v1)|null|
 |**2023-07-26**|**Viscosity and Stokes-Einstein relation in deeply supercooled water under pressure**|Alexandre Mussa et.al.|[2307.14479v1](http://arxiv.org/abs/2307.14479v1)|null|
 |**2023-07-26**|**Fluctuations in the active Dyson Brownian motion and the overdamped Calogero-Moser model**|Leo Touzo et.al.|[2307.14306v1](http://arxiv.org/abs/2307.14306v1)|null|
-|**2023-07-26**|**Socioeconomic agents as active matter in nonequilibrium Sakoda-Schelling models**|Ruben Zakine et.al.|[2307.14270v1](http://arxiv.org/abs/2307.14270v1)|null|
+|**2023-07-26**|**Socioeconomic agents as active matter in nonequilibrium Sakoda-Schelling models**|Ruben Zakine et.al.|[2307.14270v1](http://arxiv.org/abs/2307.14270v1)|**[link](https://github.com/rzakine/sakoda-schelling)**|
 |**2023-07-26**|**Why soft contacts are stickier when breaking than when making them**|Antoine Sanner et.al.|[2307.14233v1](http://arxiv.org/abs/2307.14233v1)|null|
 |**2023-07-26**|**Topological Insulators**|Yoichi Ando et.al.|[2307.14196v1](http://arxiv.org/abs/2307.14196v1)|null|
 |**2023-07-26**|**Lagrangian statistics of dense emulsions**|Ivan Girotto et.al.|[2307.14184v1](http://arxiv.org/abs/2307.14184v1)|null|
