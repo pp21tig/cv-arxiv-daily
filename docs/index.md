@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707v1](http://arxiv.org/abs/2307.15707v1)|null|
+|**2023-07-28**|**An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut**|Jun Takahashi et.al.|[2307.15688v1](http://arxiv.org/abs/2307.15688v1)|null|
+|**2023-07-28**|**Thomson problem in the disk**|Paolo Amore et.al.|[2307.15683v1](http://arxiv.org/abs/2307.15683v1)|null|
+|**2023-07-28**|**Long-Range Hydrophobic Attraction Between Graphene and Water/Oil Interfaces**|Avishi Abeywickrama et.al.|[2307.15658v1](http://arxiv.org/abs/2307.15658v1)|null|
+|**2023-07-28**|**Self-organized states of solutions of active ring polymers in bulk and under confinement**|Juan Pablo Miranda-López et.al.|[2307.15579v1](http://arxiv.org/abs/2307.15579v1)|null|
+|**2023-07-28**|**Understanding the Anomalous Diffusion of Water in Aqueous Electrolytes Using Machine Learned Potentials**|Nikhil V. S. Avula et.al.|[2307.15576v1](http://arxiv.org/abs/2307.15576v1)|null|
+|**2023-07-28**|**Collective dynamics and pair-distribution function of active Brownian ellipsoids**|Stephan Bröker et.al.|[2307.15535v1](http://arxiv.org/abs/2307.15535v1)|null|
+|**2023-07-28**|**Tunable topological phase transition in soft Rayleigh beam system with imperfect interfaces**|Tao Feng et.al.|[2307.15509v1](http://arxiv.org/abs/2307.15509v1)|null|
+|**2023-07-28**|**Remixing of a phase separated binary colloidal system with particles of different sizes in an external modulation**|Suravi Pal et.al.|[2307.15450v1](http://arxiv.org/abs/2307.15450v1)|null|
+|**2023-07-28**|**The First Direct Detection of Kirkwood Transitions in Concentrated Aqueous Electrolytes using Small Angle X-ray Scattering**|Mohammadhasan Dinpajooh et.al.|[2307.15265v1](http://arxiv.org/abs/2307.15265v1)|null|
+|**2023-07-27**|**Variational quantum simulation of U(1) lattice gauge theories with qudit systems**|Pavel P. Popov et.al.|[2307.15173v1](http://arxiv.org/abs/2307.15173v1)|null|
+|**2023-07-27**|**Percolation transitions in the binary mixture of active Brownian particles with different softness**|Monika Sanoria et.al.|[2307.15144v1](http://arxiv.org/abs/2307.15144v1)|null|
 |**2023-07-27**|**Enhanced Activity Reduces the Duration of Intermittent Lévy Walks in Bacterial Turbulence**|G. Dhananjay et.al.|[2307.15035v1](http://arxiv.org/abs/2307.15035v1)|null|
 |**2023-07-27**|**Harnessing Synthetic Active Particles for Physical Reservoir Computing**|Xiangzun Wang et.al.|[2307.15010v1](http://arxiv.org/abs/2307.15010v1)|null|
 |**2023-07-27**|**PolyHoop: Soft particle and tissue dynamics with topological transitions**|Roman Vetter et.al.|[2307.15006v1](http://arxiv.org/abs/2307.15006v1)|null|
@@ -3178,6 +3190,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Nonlinear optical diode effect in a magnetic Weyl semimetal**|Christian Tzschaschel et.al.|[2307.15603v1](http://arxiv.org/abs/2307.15603v1)|null|
+|**2023-07-28**|**Field-Free Switching in Symmetry Breaking Multilayers: The Critical Role of Interlayer Chiral Exchange**|Yung-Cheng Li et.al.|[2307.15258v1](http://arxiv.org/abs/2307.15258v1)|null|
 |**2023-07-27**|**Enhancing Gravity Currents Analysis through Physics-Informed Neural Networks: Insights from Experimental Observations**|Mickaël Delcey et.al.|[2307.14794v1](http://arxiv.org/abs/2307.14794v1)|null|
 |**2023-07-24**|**Weak production of $η$ mesons induced by $ν_μ(\barν_μ)$ at MicroBooNE energies**|A. Fatima et.al.|[2307.12686v1](http://arxiv.org/abs/2307.12686v1)|null|
 |**2023-07-21**|**Sagnac interferometry for high-sensitivity optical measurements of spin-orbit torque**|Saba Karimeddiny et.al.|[2307.11624v1](http://arxiv.org/abs/2307.11624v1)|null|
@@ -3252,6 +3266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Absence of the anomalous Hall effect in planar Hall experiments**|C. M. Wang et.al.|[2307.15420v1](http://arxiv.org/abs/2307.15420v1)|null|
 |**2023-07-26**|**Topological Insulators**|Yoichi Ando et.al.|[2307.14196v1](http://arxiv.org/abs/2307.14196v1)|null|
 |**2023-07-23**|**Ru doping induced spin frustration and enhancement of the room-temperature anomalous Hall effect in La2/3Sr1/3MnO3 films**|Enda Hua et.al.|[2307.12253v1](http://arxiv.org/abs/2307.12253v1)|null|
 |**2023-07-21**|**Symmetry Analysis with Spin Crystallographic Groups: Disentangling Spin-Orbit-Free Effects in Emergent Electromagnetism**|Hikaru Watanabe et.al.|[2307.11560v1](http://arxiv.org/abs/2307.11560v1)|null|
