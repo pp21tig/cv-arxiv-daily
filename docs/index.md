@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Topological $n$ -root Su-Schrieffer-Heeger model in a non-Hermitian photonic ring system**|David Viedma et.al.|[2307.16855v1](http://arxiv.org/abs/2307.16855v1)|null|
+|**2023-07-31**|**Nonlinearity-induced topological phase transition characterized by the nonlinear Chern number**|Kazuki Sone et.al.|[2307.16827v1](http://arxiv.org/abs/2307.16827v1)|null|
+|**2023-07-31**|**Understanding Dynamics in Coarse-Grained Models: III. Roles of Rotational Motion and Translation-Rotation Coupling in Coarse-Grained Dynamics**|Jaehyeok Jin et.al.|[2307.16747v1](http://arxiv.org/abs/2307.16747v1)|null|
+|**2023-07-31**|**Bioinspired multi-asymmetric magnetized surfaces for tailoring energy-free liquid manipulation and 3-DOF solid transportation**|Jiaqi Miao et.al.|[2307.16740v1](http://arxiv.org/abs/2307.16740v1)|null|
+|**2023-07-31**|**Rheology of Pseudomonas fluorescens biofilms: from experiments to predictive DPD mesoscopic modelling**|Jose Mart. n-Roca et.al.|[2307.16641v1](http://arxiv.org/abs/2307.16641v1)|null|
+|**2023-07-31**|**Fluid ferroelectric filaments**|Marcell Tibor Máthé et.al.|[2307.16588v1](http://arxiv.org/abs/2307.16588v1)|null|
+|**2023-07-31**|**Violation of the Wiedemann-Franz law in coupled thermal and power transport of optical waveguide arrays**|Meng Lian et.al.|[2307.16529v1](http://arxiv.org/abs/2307.16529v1)|null|
+|**2023-07-31**|**Erbium-based multifuncional compounds as molecular microkelvin-tunable driving-sensing units**|Jarosław Rybusiński et.al.|[2307.16476v1](http://arxiv.org/abs/2307.16476v1)|null|
+|**2023-07-31**|**Fine structures of Intrinsically Disordered Proteins**|Swarnadeep Seth et.al.|[2307.16383v1](http://arxiv.org/abs/2307.16383v1)|null|
+|**2023-07-31**|**Effects of Structural Inhomogeneity on Equilibration Processes in Langevin Dynamics**|Omid Mozafar et.al.|[2307.16367v1](http://arxiv.org/abs/2307.16367v1)|null|
+|**2023-07-30**|**Ion-beam-milled graphite nanoribbons as mesoscopic carbon-based polarizers**|Marcin Muszyński et.al.|[2307.16340v1](http://arxiv.org/abs/2307.16340v1)|null|
+|**2023-07-30**|**The Havriliak-Negami and Jurlewicz-Weron-Stanislavsky relaxation models revisited: memory functions based study**|K. Górska et.al.|[2307.16202v1](http://arxiv.org/abs/2307.16202v1)|null|
+|**2023-07-30**|**Minimal numerical ingredients describe chemical microswimmers's 3D motion**|Maximilian R. Bailey et.al.|[2307.16193v1](http://arxiv.org/abs/2307.16193v1)|null|
+|**2023-07-30**|**Designing thermoplasmonic polymersomes for photothermal therapy**|Valentino Barbieri et.al.|[2307.16165v1](http://arxiv.org/abs/2307.16165v1)|null|
+|**2023-07-30**|**Variational field theory of macroscopic forces in Coulomb fluids**|Yury A. Budkov et.al.|[2307.16156v1](http://arxiv.org/abs/2307.16156v1)|null|
+|**2023-07-30**|**A comprehensive survey on quantum computer usage: How many qubits are employed for what purposes?**|Tsubasa Ichikawa et.al.|[2307.16130v1](http://arxiv.org/abs/2307.16130v1)|null|
+|**2023-07-29**|**Interfacial cooling and heating, temperature discontinuity and inversion in evaporation and condensation**|Gang Chen et.al.|[2307.16043v1](http://arxiv.org/abs/2307.16043v1)|null|
+|**2023-07-29**|**Molecular-level relation between intra-particle glass transition temperature and stability of colloidal suspensions**|C. Anzvino et.al.|[2307.16004v1](http://arxiv.org/abs/2307.16004v1)|null|
+|**2023-07-29**|**Emergence of Rigidity Percolation in Flowing Granular Systems**|Hor Dashti et.al.|[2307.15978v1](http://arxiv.org/abs/2307.15978v1)|null|
+|**2023-07-29**|**Active and passive microrheology with large tracers in hard colloids**|Francisco Orts et.al.|[2307.15939v1](http://arxiv.org/abs/2307.15939v1)|null|
 |**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707v1](http://arxiv.org/abs/2307.15707v1)|null|
 |**2023-07-28**|**An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut**|Jun Takahashi et.al.|[2307.15688v1](http://arxiv.org/abs/2307.15688v1)|null|
 |**2023-07-28**|**Thomson problem in the disk**|Paolo Amore et.al.|[2307.15683v1](http://arxiv.org/abs/2307.15683v1)|null|
@@ -3020,6 +3040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Sub-Doppler laser cooling and magnetic trapping of natural-abundance fermionic potassium**|Mateusz Bocheński et.al.|[2307.16469v1](http://arxiv.org/abs/2307.16469v1)|null|
 |**2023-07-21**|**Light-Driven Nanoscale Vectorial Currents**|Jacob Pettine et.al.|[2307.11928v1](http://arxiv.org/abs/2307.11928v1)|null|
 |**2023-07-21**|**Illumination protocols for non-linear phononics in bismuth and antimony**|Anubhab Haldar et.al.|[2307.11854v1](http://arxiv.org/abs/2307.11854v1)|null|
 |**2023-07-16**|**Light-assisted hierarchical fabrication of two-dimensional surfaces using DNA-functionalized semiconductor nanocrystal quantum dots**|Zeynep Senel et.al.|[2307.10241v1](http://arxiv.org/abs/2307.10241v1)|null|
@@ -3266,6 +3287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Fourier transformation based analysis routine for intermixed longitudinal and transversal hysteretic data for the example of a magnetic topological insulator**|Erik Zimmermann et.al.|[2307.16450v1](http://arxiv.org/abs/2307.16450v1)|null|
 |**2023-07-28**|**Absence of the anomalous Hall effect in planar Hall experiments**|C. M. Wang et.al.|[2307.15420v1](http://arxiv.org/abs/2307.15420v1)|null|
 |**2023-07-26**|**Topological Insulators**|Yoichi Ando et.al.|[2307.14196v1](http://arxiv.org/abs/2307.14196v1)|null|
 |**2023-07-23**|**Ru doping induced spin frustration and enhancement of the room-temperature anomalous Hall effect in La2/3Sr1/3MnO3 films**|Enda Hua et.al.|[2307.12253v1](http://arxiv.org/abs/2307.12253v1)|null|
