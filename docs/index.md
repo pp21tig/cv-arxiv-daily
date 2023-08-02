@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Collective behavior of self-steering active particles with velocity alignment and visual perception**|Rajendra Singh Negi et.al.|[2308.00670v1](http://arxiv.org/abs/2308.00670v1)|null|
+|**2023-08-01**|**Note: Stokes-Einstein relation without hydrodynamic diameter in the TIP4P/Ice water model**|Sergay Khrapak et.al.|[2308.00653v1](http://arxiv.org/abs/2308.00653v1)|null|
+|**2023-08-01**|**On the transport of CO $_2$ through humidified facilitated transport membranes**|M. Logemann et.al.|[2308.00597v1](http://arxiv.org/abs/2308.00597v1)|null|
+|**2023-08-01**|**Hierarchical structured surfaces enhance the contact angle of the hydrophobic (meta-stable) state**|Iara Patrícia da Silva Ramos et.al.|[2308.00534v1](http://arxiv.org/abs/2308.00534v1)|null|
+|**2023-08-01**|**Phase Behaviour and Dynamics of Three-Dimensional Active Dumbbell Systems**|C. B. Caporusso et.al.|[2308.00532v1](http://arxiv.org/abs/2308.00532v1)|null|
+|**2023-08-01**|**Mean-field model for a mixture of biaxial nematogens and dipolar nanoparticles**|William G. C. Oropesa et.al.|[2308.00517v1](http://arxiv.org/abs/2308.00517v1)|null|
+|**2023-08-01**|**Local polar order controls mechanical stress and triggers layer formation in developing Myxococcus xanthus colonies**|Endao Han et.al.|[2308.00368v1](http://arxiv.org/abs/2308.00368v1)|null|
+|**2023-08-01**|**Orbital-free Density Functional Theory: differences and similarities between electronic and nuclear systems**|Gianluca Colo' et.al.|[2308.00357v1](http://arxiv.org/abs/2308.00357v1)|null|
+|**2023-08-01**|**Bottom-Up Approach to Explore Alpha-Amylase Assisted Membrane Remodelling**|Harshit Kumar et.al.|[2308.00339v1](http://arxiv.org/abs/2308.00339v1)|null|
+|**2023-08-01**|**Convection of mono-disperse particles in a highly filled rotating cylinder**|Shoichi Yoneta et.al.|[2308.00337v1](http://arxiv.org/abs/2308.00337v1)|null|
+|**2023-08-01**|**Performance benchmarking of an ultra-low vibration laboratory to host a commercial millikelvin scanning tunnelling microscope**|Yande Que et.al.|[2308.00333v1](http://arxiv.org/abs/2308.00333v1)|null|
+|**2023-08-01**|**H-wave -- A Python package for the Hartree-Fock approximation and the random phase approximation**|Tatsumi Aoyama et.al.|[2308.00324v1](http://arxiv.org/abs/2308.00324v1)|null|
+|**2023-08-01**|**Densitaxis: Active particle motion in density gradients**|Vaseem A. Shaik et.al.|[2308.00207v1](http://arxiv.org/abs/2308.00207v1)|null|
+|**2023-07-31**|**Testing theories of the glass transition with the same liquid, but many kinetic rules**|Cristina Gavazzoni et.al.|[2308.00196v1](http://arxiv.org/abs/2308.00196v1)|null|
+|**2023-07-31**|**Evidence of Pseudogravitational Distortions of the Fermi Surface Geometry in the Antiferromagnetic Metal FeRh**|Joseph Sklenar et.al.|[2308.00192v1](http://arxiv.org/abs/2308.00192v1)|null|
+|**2023-07-31**|**Soft matter physics of the ground beneath our feet**|Anne Voigtländer et.al.|[2308.00162v1](http://arxiv.org/abs/2308.00162v1)|null|
+|**2023-07-31**|**Pressure sensitivity in non-local flow behaviour of dense hydrogel particle suspensions**|Zohreh Farmani et.al.|[2308.00140v1](http://arxiv.org/abs/2308.00140v1)|null|
+|**2023-07-31**|**Nanocellulose-stabilized Pickering emulsions : fabrication, stabilization, and food applications**|Chuye Ji et.al.|[2308.00084v1](http://arxiv.org/abs/2308.00084v1)|null|
+|**2023-07-31**|**Challenges of variational quantum optimization with measurement shot noise**|Giuseppe Scriva et.al.|[2308.00044v1](http://arxiv.org/abs/2308.00044v1)|null|
 |**2023-07-31**|**Topological $n$ -root Su-Schrieffer-Heeger model in a non-Hermitian photonic ring system**|David Viedma et.al.|[2307.16855v1](http://arxiv.org/abs/2307.16855v1)|null|
 |**2023-07-31**|**Nonlinearity-induced topological phase transition characterized by the nonlinear Chern number**|Kazuki Sone et.al.|[2307.16827v1](http://arxiv.org/abs/2307.16827v1)|null|
 |**2023-07-31**|**Understanding Dynamics in Coarse-Grained Models: III. Roles of Rotational Motion and Translation-Rotation Coupling in Coarse-Grained Dynamics**|Jaehyeok Jin et.al.|[2307.16747v1](http://arxiv.org/abs/2307.16747v1)|null|
@@ -3211,6 +3230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Electrical detection and nucleation of a magnetic skyrmion in a magnetic tunnel junction observed via operando magnetic microscopy**|by J. Urrestarazu Larrañaga et.al.|[2308.00445v1](http://arxiv.org/abs/2308.00445v1)|null|
 |**2023-07-28**|**Nonlinear optical diode effect in a magnetic Weyl semimetal**|Christian Tzschaschel et.al.|[2307.15603v1](http://arxiv.org/abs/2307.15603v1)|null|
 |**2023-07-28**|**Field-Free Switching in Symmetry Breaking Multilayers: The Critical Role of Interlayer Chiral Exchange**|Yung-Cheng Li et.al.|[2307.15258v1](http://arxiv.org/abs/2307.15258v1)|null|
 |**2023-07-27**|**Enhancing Gravity Currents Analysis through Physics-Informed Neural Networks: Insights from Experimental Observations**|Mickaël Delcey et.al.|[2307.14794v1](http://arxiv.org/abs/2307.14794v1)|null|
@@ -3366,6 +3386,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Spin dynamics of the $E_8$ particles**|Xiao Wang et.al.|[2308.00249v1](http://arxiv.org/abs/2308.00249v1)|null|
 |**2023-07-25**|**Spinon continuum in the Heisenberg quantum chain compound Sr $_2$V$_3$O$_9$**|Shang Gao et.al.|[2307.12093v2](http://arxiv.org/abs/2307.12093v2)|null|
 |**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429v1](http://arxiv.org/abs/2307.11429v1)|null|
 |**2023-07-20**|**Lattice dynamics and spin excitations in the metal-organic framework [CH $_3$NH$_3$][Co(HCOO)$_3$ ]**|Lei Ding et.al.|[2307.10746v1](http://arxiv.org/abs/2307.10746v1)|null|
