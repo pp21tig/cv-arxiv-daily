@@ -1098,6 +1098,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Hidden Markov modeling of single particle diffusion with stochastic tethering**|Amit Federbush et.al.|[2308.01100v1](http://arxiv.org/abs/2308.01100v1)|null|
+|**2023-08-02**|**Searching for Majorana quasiparticles at vortex cores in iron-based superconductors**|Tadashi Machida et.al.|[2308.00930v1](http://arxiv.org/abs/2308.00930v1)|null|
+|**2023-08-01**|**Flexible hydrogels connecting adhesion and wetting**|A-Reum Kim et.al.|[2308.00803v1](http://arxiv.org/abs/2308.00803v1)|null|
 |**2023-08-01**|**Collective behavior of self-steering active particles with velocity alignment and visual perception**|Rajendra Singh Negi et.al.|[2308.00670v1](http://arxiv.org/abs/2308.00670v1)|null|
 |**2023-08-01**|**Note: Stokes-Einstein relation without hydrodynamic diameter in the TIP4P/Ice water model**|Sergay Khrapak et.al.|[2308.00653v1](http://arxiv.org/abs/2308.00653v1)|null|
 |**2023-08-01**|**On the transport of CO $_2$ through humidified facilitated transport membranes**|M. Logemann et.al.|[2308.00597v1](http://arxiv.org/abs/2308.00597v1)|null|
@@ -3055,6 +3058,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Light Driven Spontaneous Phonon Chirality and Magnetization in Paramagnets**|Yafei Ren et.al.|[2308.00933v1](http://arxiv.org/abs/2308.00933v1)|null|
 |**2023-07-31**|**Sub-Doppler laser cooling and magnetic trapping of natural-abundance fermionic potassium**|Mateusz Bocheński et.al.|[2307.16469v1](http://arxiv.org/abs/2307.16469v1)|null|
 |**2023-07-21**|**Light-Driven Nanoscale Vectorial Currents**|Jacob Pettine et.al.|[2307.11928v1](http://arxiv.org/abs/2307.11928v1)|null|
 |**2023-07-21**|**Illumination protocols for non-linear phononics in bismuth and antimony**|Anubhab Haldar et.al.|[2307.11854v1](http://arxiv.org/abs/2307.11854v1)|null|
@@ -3226,6 +3230,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Spin wave amplification through superradiance**|X. R. Wang et.al.|[2308.00962v1](http://arxiv.org/abs/2308.00962v1)|null|
+|**2023-08-01**|**Nonlinear Response of Diffusive Superconductors to $ac$ -electromagnetic Fields**|Pascal Derendorf et.al.|[2308.00838v1](http://arxiv.org/abs/2308.00838v1)|null|
 |**2023-08-01**|**Electrical detection and nucleation of a magnetic skyrmion in a magnetic tunnel junction observed via operando magnetic microscopy**|by J. Urrestarazu Larrañaga et.al.|[2308.00445v1](http://arxiv.org/abs/2308.00445v1)|null|
 |**2023-07-28**|**Nonlinear optical diode effect in a magnetic Weyl semimetal**|Christian Tzschaschel et.al.|[2307.15603v1](http://arxiv.org/abs/2307.15603v1)|null|
 |**2023-07-28**|**Field-Free Switching in Symmetry Breaking Multilayers: The Critical Role of Interlayer Chiral Exchange**|Yung-Cheng Li et.al.|[2307.15258v1](http://arxiv.org/abs/2307.15258v1)|null|
