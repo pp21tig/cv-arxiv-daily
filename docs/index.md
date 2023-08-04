@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Subsurface pulse, crater and ejecta asymmetry from oblique impacts into granular media**|Bingcheng Suo et.al.|[2308.01876v1](http://arxiv.org/abs/2308.01876v1)|null|
+|**2023-08-03**|**Dense Random Packing of Disks With a Power-Law Size Distribution in Thermodynamic Limit: Fractal-like Properties**|Alexander Yu. Cherny et.al.|[2308.01726v1](http://arxiv.org/abs/2308.01726v1)|null|
+|**2023-08-03**|**Collective behavior of active molecules: dynamic clusters, holes and active fractalytes**|Sebastian Fehlinger et.al.|[2308.01667v1](http://arxiv.org/abs/2308.01667v1)|null|
+|**2023-08-03**|**Clogging transition and anomalous transport in driven suspensions in a disordered medium**|Sergi G. Leyva et.al.|[2308.01631v1](http://arxiv.org/abs/2308.01631v1)|null|
+|**2023-08-02**|**Design of origami structures with curved tiles between the creases**|Huan Liu et.al.|[2308.01387v1](http://arxiv.org/abs/2308.01387v1)|null|
+|**2023-08-02**|**Fundamentals of the Oldroyd-B model revisited: Tensorial vs. vectorial theory**|Aaron Brunk et.al.|[2308.01326v1](http://arxiv.org/abs/2308.01326v1)|null|
 |**2023-08-02**|**Hidden Markov modeling of single particle diffusion with stochastic tethering**|Amit Federbush et.al.|[2308.01100v1](http://arxiv.org/abs/2308.01100v1)|null|
 |**2023-08-02**|**Searching for Majorana quasiparticles at vortex cores in iron-based superconductors**|Tadashi Machida et.al.|[2308.00930v1](http://arxiv.org/abs/2308.00930v1)|null|
 |**2023-08-01**|**Flexible hydrogels connecting adhesion and wetting**|A-Reum Kim et.al.|[2308.00803v1](http://arxiv.org/abs/2308.00803v1)|null|
