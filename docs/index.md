@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387v1](http://arxiv.org/abs/2308.02387v1)|null|
+|**2023-08-04**|**Elasticity-Controlled Jamming Criticality in Soft Composite Solids**|Yiqiu Zhao et.al.|[2308.02354v1](http://arxiv.org/abs/2308.02354v1)|null|
+|**2023-08-04**|**Thermodynamics of interacting systems: the role of the topology and collective effects**|Iago N. Mamede et.al.|[2308.02255v1](http://arxiv.org/abs/2308.02255v1)|null|
+|**2023-08-04**|**Ultrafast nonadiabatic phonon renormalization in photoexcited single-layer MoS $_2$**|Nina Girotto et.al.|[2308.02207v1](http://arxiv.org/abs/2308.02207v1)|null|
+|**2023-08-03**|**Microscopic Gyration with Dissipative Coupling**|Soham Dutta et.al.|[2308.02085v1](http://arxiv.org/abs/2308.02085v1)|null|
+|**2023-08-03**|**The correlated insulators of magic angle twisted bilayer graphene at zero and one quantum of magnetic flux: a tight-binding study**|Miguel Sánchez Sánchez et.al.|[2308.01997v1](http://arxiv.org/abs/2308.01997v1)|null|
+|**2023-08-03**|**Experimental observation of exceptional bound states in a classical circuit network**|Deyuan Zou et.al.|[2308.01970v1](http://arxiv.org/abs/2308.01970v1)|null|
+|**2023-08-03**|**Signature of Criticality in Angular Momentum Resolved Entanglement of Scalar Fields in $d>1$**|Mrinal Kanti Sarkar et.al.|[2308.01964v1](http://arxiv.org/abs/2308.01964v1)|null|
+|**2023-08-02**|**Mixing Twist-Bend and Ferroelectric nematic liquid crystals**|Abinash Barthakur et.al.|[2308.01934v1](http://arxiv.org/abs/2308.01934v1)|null|
 |**2023-08-03**|**Subsurface pulse, crater and ejecta asymmetry from oblique impacts into granular media**|Bingcheng Suo et.al.|[2308.01876v1](http://arxiv.org/abs/2308.01876v1)|**[link](https://github.com/urgranularlab/oblique_impact)**|
 |**2023-08-03**|**Dense Random Packing of Disks With a Power-Law Size Distribution in Thermodynamic Limit: Fractal-like Properties**|Alexander Yu. Cherny et.al.|[2308.01726v1](http://arxiv.org/abs/2308.01726v1)|null|
 |**2023-08-03**|**Collective behavior of active molecules: dynamic clusters, holes and active fractalytes**|Sebastian Fehlinger et.al.|[2308.01667v1](http://arxiv.org/abs/2308.01667v1)|null|
@@ -3240,6 +3249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Long-term Oscillations and Universal Behavior in Pulsed Electric Fields**|Leila Shahkarami et.al.|[2308.02218v1](http://arxiv.org/abs/2308.02218v1)|null|
 |**2023-08-02**|**Spin wave amplification through superradiance**|X. R. Wang et.al.|[2308.00962v1](http://arxiv.org/abs/2308.00962v1)|null|
 |**2023-08-01**|**Nonlinear Response of Diffusive Superconductors to $ac$ -electromagnetic Fields**|Pascal Derendorf et.al.|[2308.00838v1](http://arxiv.org/abs/2308.00838v1)|null|
 |**2023-08-01**|**Electrical detection and nucleation of a magnetic skyrmion in a magnetic tunnel junction observed via operando magnetic microscopy**|by J. Urrestarazu Larrañaga et.al.|[2308.00445v1](http://arxiv.org/abs/2308.00445v1)|null|
