@@ -1098,6 +1098,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Rearrangement of Granular Surfaces on Asteroids due to Thermal Cycling**|Danielle Bovie et.al.|[2308.03749v1](http://arxiv.org/abs/2308.03749v1)|null|
+|**2023-08-07**|**Static disorder in soft X-ray angle-resolved photoemission spectroscopy: theory and application to ion-bombarded InAs(110)**|Enrico Della Valle et.al.|[2308.03707v1](http://arxiv.org/abs/2308.03707v1)|null|
+|**2023-08-07**|**Acoustodynamic mass determination: Accounting for inertial effects in acoustic levitation of granular materials**|Mia C. Morrell et.al.|[2308.03682v1](http://arxiv.org/abs/2308.03682v1)|null|
+|**2023-08-07**|**Curvature screening in draped mechanical metamaterial sheet**|Sourav Roy et.al.|[2308.03630v1](http://arxiv.org/abs/2308.03630v1)|null|
+|**2023-08-07**|**Thermodynamic nature of irreversibility in active matter**|Lennart Dabelow et.al.|[2308.03625v1](http://arxiv.org/abs/2308.03625v1)|null|
+|**2023-08-07**|**Accumulation and depletion of E. coli in surfaces mediated by curvature**|Benjamín Pérez-Estay et.al.|[2308.03621v1](http://arxiv.org/abs/2308.03621v1)|null|
+|**2023-08-07**|**Dissolution-driven propulsion of floating solids**|Martin Chaigne et.al.|[2308.03592v1](http://arxiv.org/abs/2308.03592v1)|null|
+|**2023-08-07**|**Quasicrystalline Nanocrystal Superlattice with Partial Matching Rules**|Xingchen Ye et.al.|[2308.03551v1](http://arxiv.org/abs/2308.03551v1)|null|
+|**2023-08-07**|**Shear Thinning from Bond Orientation in Model Unentangled Bottlebrush Polymer Melts**|Utku Gürel et.al.|[2308.03522v1](http://arxiv.org/abs/2308.03522v1)|null|
+|**2023-08-07**|**Diffusion dynamics of overdamped active ellipsoidal particle in two dimensions**|Sudipta Mandal et.al.|[2308.03451v1](http://arxiv.org/abs/2308.03451v1)|null|
+|**2023-08-07**|**Electrostatic interactions between charge regulated spherical macroions**|Hu Ruixuan et.al.|[2308.03254v1](http://arxiv.org/abs/2308.03254v1)|null|
+|**2023-08-06**|**Vortex synchronization in dry active matter**|Felipe P. S. Junior et.al.|[2308.03197v1](http://arxiv.org/abs/2308.03197v1)|null|
+|**2023-08-06**|**A powered full quantum eigensolver for energy band structures**|Bozhi Wang et.al.|[2308.03134v1](http://arxiv.org/abs/2308.03134v1)|null|
+|**2023-08-06**|**Optomechanical Backreaction of Quantum Field Processes in Dynamical Casimir Effect**|Yu-Cun Xie et.al.|[2308.03129v1](http://arxiv.org/abs/2308.03129v1)|null|
+|**2023-08-05**|**Direct observation of phase transitions in Archimedean trunctated tetrahedrons under quasi-2D confinement**|David Doan et.al.|[2308.02943v1](http://arxiv.org/abs/2308.02943v1)|null|
+|**2023-08-05**|**A unified-field theory of genome organization and gene regulation**|Giuseppe Negro Massimiliano Semeraro Perter R Cook Davide Marenduzzo et.al.|[2308.02861v1](http://arxiv.org/abs/2308.02861v1)|null|
+|**2023-08-05**|**Shape-dependent friction scaling laws in twisted layered material interfaces**|Weidong Yan et.al.|[2308.02818v1](http://arxiv.org/abs/2308.02818v1)|null|
+|**2023-08-04**|**On Paradoxical Phenomena During Evaporation and Condensation between Two Parallel Plates**|Gang Chen et.al.|[2308.02661v1](http://arxiv.org/abs/2308.02661v1)|null|
+|**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657v1](http://arxiv.org/abs/2308.02657v1)|null|
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387v1](http://arxiv.org/abs/2308.02387v1)|null|
 |**2023-08-04**|**Elasticity-Controlled Jamming Criticality in Soft Composite Solids**|Yiqiu Zhao et.al.|[2308.02354v1](http://arxiv.org/abs/2308.02354v1)|null|
 |**2023-08-04**|**Thermodynamics of interacting systems: the role of the topology and collective effects**|Iago N. Mamede et.al.|[2308.02255v1](http://arxiv.org/abs/2308.02255v1)|null|
@@ -3073,6 +3092,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-06**|**Field theory description of the non-perturbative optical nonlinearity of epsilon-near-zero media**|Yaraslau Tamashevich et.al.|[2308.03181v1](http://arxiv.org/abs/2308.03181v1)|null|
 |**2023-08-02**|**Light Driven Spontaneous Phonon Chirality and Magnetization in Paramagnets**|Yafei Ren et.al.|[2308.00933v1](http://arxiv.org/abs/2308.00933v1)|null|
 |**2023-07-31**|**Sub-Doppler laser cooling and magnetic trapping of natural-abundance fermionic potassium**|Mateusz Bocheński et.al.|[2307.16469v1](http://arxiv.org/abs/2307.16469v1)|null|
 |**2023-07-21**|**Light-Driven Nanoscale Vectorial Currents**|Jacob Pettine et.al.|[2307.11928v1](http://arxiv.org/abs/2307.11928v1)|null|
@@ -3245,6 +3265,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-05**|**Modulating Spin Current Induced Effective Damping in $β-W/Py$ Heterostructures by a Systematic Variation in Resistivity of the Sputtered Deposited $β-W$ films**|Soumik Aon et.al.|[2308.02939v1](http://arxiv.org/abs/2308.02939v1)|null|
 |**2023-08-04**|**Long-term Oscillations and Universal Behavior in Pulsed Electric Fields**|Leila Shahkarami et.al.|[2308.02218v1](http://arxiv.org/abs/2308.02218v1)|null|
 |**2023-08-02**|**Spin wave amplification through superradiance**|X. R. Wang et.al.|[2308.00962v1](http://arxiv.org/abs/2308.00962v1)|null|
 |**2023-08-01**|**Nonlinear Response of Diffusive Superconductors to $ac$ -electromagnetic Fields**|Pascal Derendorf et.al.|[2308.00838v1](http://arxiv.org/abs/2308.00838v1)|null|
@@ -3325,6 +3346,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**How to enhance anomalous Hall effects in magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ ?**|Shivam Rathod et.al.|[2308.03483v1](http://arxiv.org/abs/2308.03483v1)|null|
+|**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657v1](http://arxiv.org/abs/2308.02657v1)|null|
 |**2023-07-31**|**Fourier transformation based analysis routine for intermixed longitudinal and transversal hysteretic data for the example of a magnetic topological insulator**|Erik Zimmermann et.al.|[2307.16450v1](http://arxiv.org/abs/2307.16450v1)|null|
 |**2023-07-28**|**Absence of the anomalous Hall effect in planar Hall experiments**|C. M. Wang et.al.|[2307.15420v1](http://arxiv.org/abs/2307.15420v1)|null|
 |**2023-07-26**|**Topological Insulators**|Yoichi Ando et.al.|[2307.14196v1](http://arxiv.org/abs/2307.14196v1)|null|
