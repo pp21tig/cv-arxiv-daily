@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Activity-induced ferromagnetism in one-dimensional quantum many-body systems**|Kazuaki Takasan et.al.|[2308.04382v1](http://arxiv.org/abs/2308.04382v1)|null|
+|**2023-08-08**|**Distinct elastic properties and their origins in glasses and gels**|Yinqiao Wang et.al.|[2308.04250v1](http://arxiv.org/abs/2308.04250v1)|null|
+|**2023-08-08**|**Anomalous large-scale collective motion in granular Brownian vibrators**|Yangrui Chen et.al.|[2308.04219v1](http://arxiv.org/abs/2308.04219v1)|null|
+|**2023-08-08**|**Stochastic energetics of a colloidal particle trapped in a viscoelastic bath**|Farshad Darabi et.al.|[2308.04148v1](http://arxiv.org/abs/2308.04148v1)|null|
+|**2023-08-08**|**Magnetic and charge orders on the triangular lattice: Extended Hubbard model with intersite Ising-like magnetic interactions in the atomic limit**|Konrad Jerzy Kapcia et.al.|[2308.04145v1](http://arxiv.org/abs/2308.04145v1)|null|
+|**2023-08-08**|**Constructing Custom Thermodynamics Using Deep Learning**|Xiaoli Chen et.al.|[2308.04119v1](http://arxiv.org/abs/2308.04119v1)|null|
+|**2023-08-08**|**Phase diagram of muonium hydride: when dimensionality matters**|Jieru Hu et.al.|[2308.04116v1](http://arxiv.org/abs/2308.04116v1)|null|
+|**2023-08-08**|**Shortcuts of freely relaxing systems using equilibrium physical observables**|Isidoro González-Adalid Pemartín et.al.|[2308.04094v1](http://arxiv.org/abs/2308.04094v1)|null|
+|**2023-08-07**|**Role of pressure in generation of intense velocity gradients in turbulent flows**|Dhawal Buaria et.al.|[2308.03902v1](http://arxiv.org/abs/2308.03902v1)|null|
+|**2023-08-07**|**Liouvillian Dynamics of the Open Schwinger Model: String Breaking and Kinetic Dissipation in a Thermal Medium**|Kyle Lee et.al.|[2308.03878v1](http://arxiv.org/abs/2308.03878v1)|null|
+|**2023-08-07**|**Hall Coefficient and Resistivity in the Doped Bilayer Hubbard Model**|Yin Shi et.al.|[2308.03862v1](http://arxiv.org/abs/2308.03862v1)|null|
 |**2023-08-07**|**Rearrangement of Granular Surfaces on Asteroids due to Thermal Cycling**|Danielle Bovie et.al.|[2308.03749v1](http://arxiv.org/abs/2308.03749v1)|null|
 |**2023-08-07**|**Static disorder in soft X-ray angle-resolved photoemission spectroscopy: theory and application to ion-bombarded InAs(110)**|Enrico Della Valle et.al.|[2308.03707v1](http://arxiv.org/abs/2308.03707v1)|null|
 |**2023-08-07**|**Acoustodynamic mass determination: Accounting for inertial effects in acoustic levitation of granular materials**|Mia C. Morrell et.al.|[2308.03682v1](http://arxiv.org/abs/2308.03682v1)|null|
@@ -3096,6 +3107,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Harnessing Artificial Intelligence To Reduce Phototoxicity in Live Imaging**|Estibaliz Gómez-de-Mariscal et.al.|[2308.04387v1](http://arxiv.org/abs/2308.04387v1)|null|
+|**2023-08-07**|**Chirality manipulation of ultrafast phase switchings in a correlated CDW-Weyl semimetal**|Bing Cheng et.al.|[2308.03895v1](http://arxiv.org/abs/2308.03895v1)|null|
 |**2023-08-06**|**Field theory description of the non-perturbative optical nonlinearity of epsilon-near-zero media**|Yaraslau Tamashevich et.al.|[2308.03181v1](http://arxiv.org/abs/2308.03181v1)|null|
 |**2023-08-02**|**Light Driven Spontaneous Phonon Chirality and Magnetization in Paramagnets**|Yafei Ren et.al.|[2308.00933v1](http://arxiv.org/abs/2308.00933v1)|null|
 |**2023-07-31**|**Sub-Doppler laser cooling and magnetic trapping of natural-abundance fermionic potassium**|Mateusz Bocheński et.al.|[2307.16469v1](http://arxiv.org/abs/2307.16469v1)|null|
