@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Motility induced phase separation of deformable cells**|Austin Hopkins et.al.|[2308.05088v1](http://arxiv.org/abs/2308.05088v1)|null|
+|**2023-08-09**|**Mechanical regularization**|Himangsu Bhaumik et.al.|[2308.05050v1](http://arxiv.org/abs/2308.05050v1)|null|
+|**2023-08-09**|**Rejuvenation and memory effects in active glasses induced by thermal and active cycling**|Giulia Janzen et.al.|[2308.04991v1](http://arxiv.org/abs/2308.04991v1)|null|
+|**2023-08-09**|**Towards the Distribution of a Class of Polycrystalline Materials with an Equilibrium Defect Structure by Grain Diameters: Temperature Behavior of the Yield Strength**|Alexander A. Reshetnyak et.al.|[2308.04984v1](http://arxiv.org/abs/2308.04984v1)|null|
+|**2023-08-09**|**Surface Tension Between Coexisting Phases of Active Brownian Particles**|Longfei Li et.al.|[2308.04917v1](http://arxiv.org/abs/2308.04917v1)|null|
+|**2023-08-09**|**Spontaneous motion of a passive fluid droplet in an active microchannel**|A. Tiribocchi et.al.|[2308.04902v1](http://arxiv.org/abs/2308.04902v1)|null|
+|**2023-08-09**|**Tuning the Stability of a Model Quasicrystal and its Approximants with a Periodic Substrate**|Nydia Roxana Varela-Rosales et.al.|[2308.04827v1](http://arxiv.org/abs/2308.04827v1)|null|
+|**2023-08-09**|**Signature of Parity Anomaly: Crossover from One Half to Integer Quantized Hall Conductance in a Finite Magnetic Field**|Huan-Wen Wang et.al.|[2308.04718v1](http://arxiv.org/abs/2308.04718v1)|null|
+|**2023-08-09**|**Collective deformation modes promote fibrous self-assembly in protein-like particles**|Hugo Le Roy et.al.|[2308.04698v1](http://arxiv.org/abs/2308.04698v1)|null|
+|**2023-08-09**|**Adsorption superlattice stabilized by elastic interactions in a soft porous crystal**|Kota Mitsumoto et.al.|[2308.04651v1](http://arxiv.org/abs/2308.04651v1)|null|
+|**2023-08-08**|**Canted Antiferromagnetism in Polar MnSiN $_2$ with High Néel Temperature**|Linus Kautzsch et.al.|[2308.04558v1](http://arxiv.org/abs/2308.04558v1)|null|
+|**2023-08-08**|**Effect of dynamics on anomalous thermal relaxations and information exchange**|Saikat Bera et.al.|[2308.04557v1](http://arxiv.org/abs/2308.04557v1)|null|
+|**2023-08-08**|**Evaporation of Active Drops: Dynamics of Punctured Drops and Particle Deposits of Ring Galaxy Patterns**|Ghansham Rajendrasingh Chandel et.al.|[2308.04554v1](http://arxiv.org/abs/2308.04554v1)|null|
+|**2023-08-08**|**Dispersion of run-and-tumble microswimmers through disordered media**|David Saintillan et.al.|[2308.04538v1](http://arxiv.org/abs/2308.04538v1)|null|
+|**2023-08-08**|**Independent characterization of the elastic and the mixing parts of hydrogel osmotic pressure**|Zefan Shao et.al.|[2308.04533v1](http://arxiv.org/abs/2308.04533v1)|null|
+|**2023-08-08**|**Magnetic Phases of Bilayer Quantum-Dot Hubbard Model Plaquettes**|Donovan Buterakos et.al.|[2308.04504v1](http://arxiv.org/abs/2308.04504v1)|null|
+|**2023-08-08**|**A tensor density measure of topological charge in three dimensional nematic phases**|Cody D. Schimming et.al.|[2308.04496v1](http://arxiv.org/abs/2308.04496v1)|null|
 |**2023-08-08**|**Activity-induced ferromagnetism in one-dimensional quantum many-body systems**|Kazuaki Takasan et.al.|[2308.04382v1](http://arxiv.org/abs/2308.04382v1)|null|
 |**2023-08-08**|**Distinct elastic properties and their origins in glasses and gels**|Yinqiao Wang et.al.|[2308.04250v1](http://arxiv.org/abs/2308.04250v1)|null|
 |**2023-08-08**|**Anomalous large-scale collective motion in granular Brownian vibrators**|Yangrui Chen et.al.|[2308.04219v1](http://arxiv.org/abs/2308.04219v1)|null|
