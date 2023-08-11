@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Fatigue behavior of Cu-Zr metallic glasses under cyclic loading**|Nikolai V. Priezjev et.al.|[2308.05674v1](http://arxiv.org/abs/2308.05674v1)|null|
+|**2023-08-10**|**Loss of memory of an elastic line on its way to limit cycles**|Elisabeth Agoritsas et.al.|[2308.05603v1](http://arxiv.org/abs/2308.05603v1)|null|
+|**2023-08-10**|**Algae-like Artificial Organic Phototactic Micro-swimmers**|Somnath Koley et.al.|[2308.05592v1](http://arxiv.org/abs/2308.05592v1)|null|
+|**2023-08-10**|**Active Darcy's Law**|Ryan R. Keogh et.al.|[2308.05462v1](http://arxiv.org/abs/2308.05462v1)|null|
+|**2023-08-10**|**Conventional Type-II Superconductivity in 2H-TaSeS**|K. Yadav et.al.|[2308.05377v1](http://arxiv.org/abs/2308.05377v1)|null|
+|**2023-08-10**|**Perovskite solar cells at radiative detailed balance limit**|Kashimul Hossain et.al.|[2308.05369v1](http://arxiv.org/abs/2308.05369v1)|null|
+|**2023-08-10**|**Topological invariants of complex energy plane in non-Hermitian systems**|Annan Fan et.al.|[2308.05329v1](http://arxiv.org/abs/2308.05329v1)|null|
+|**2023-08-09**|**Free particles beyond fermions and bosons**|Zhiyuan Wang et.al.|[2308.05203v1](http://arxiv.org/abs/2308.05203v1)|null|
+|**2023-08-09**|**Consistency of Scalar and Vector Effective Field Theories**|Victor Pozsgay et.al.|[2308.05172v1](http://arxiv.org/abs/2308.05172v1)|null|
 |**2023-08-09**|**Motility induced phase separation of deformable cells**|Austin Hopkins et.al.|[2308.05088v1](http://arxiv.org/abs/2308.05088v1)|null|
 |**2023-08-09**|**Mechanical regularization**|Himangsu Bhaumik et.al.|[2308.05050v1](http://arxiv.org/abs/2308.05050v1)|null|
 |**2023-08-09**|**Rejuvenation and memory effects in active glasses induced by thermal and active cycling**|Giulia Janzen et.al.|[2308.04991v1](http://arxiv.org/abs/2308.04991v1)|null|
@@ -3124,6 +3133,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Algae-like Artificial Organic Phototactic Micro-swimmers**|Somnath Koley et.al.|[2308.05592v1](http://arxiv.org/abs/2308.05592v1)|null|
+|**2023-08-09**|**Enhanced interfacial charge transfer by Z-scheme in defect-mediated ZnO-CdS nano-composite with rGO as a solid-state electron mediator for efficient photocatalytic applications**|Arun Murali et.al.|[2308.05211v1](http://arxiv.org/abs/2308.05211v1)|null|
 |**2023-08-08**|**Harnessing Artificial Intelligence To Reduce Phototoxicity in Live Imaging**|Estibaliz Gómez-de-Mariscal et.al.|[2308.04387v1](http://arxiv.org/abs/2308.04387v1)|null|
 |**2023-08-07**|**Chirality manipulation of ultrafast phase switchings in a correlated CDW-Weyl semimetal**|Bing Cheng et.al.|[2308.03895v1](http://arxiv.org/abs/2308.03895v1)|null|
 |**2023-08-06**|**Field theory description of the non-perturbative optical nonlinearity of epsilon-near-zero media**|Yaraslau Tamashevich et.al.|[2308.03181v1](http://arxiv.org/abs/2308.03181v1)|null|
