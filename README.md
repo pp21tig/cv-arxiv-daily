@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Capillary imbibition in a diverging flexible channel**|Mouad Boudina et.al.|[2308.06257v1](http://arxiv.org/abs/2308.06257v1)|null|
+|**2023-08-11**|**Stability of the non-Hermitian skin effect**|Habib Ammari et.al.|[2308.06124v1](http://arxiv.org/abs/2308.06124v1)|null|
+|**2023-08-11**|**Are nucleation bubbles in a liquid all independent?**|Joël Puibasset et.al.|[2308.06122v1](http://arxiv.org/abs/2308.06122v1)|null|
+|**2023-08-11**|**Non-equilibrium phase transitions in active rank diffusions**|Léo Touzo et.al.|[2308.06118v1](http://arxiv.org/abs/2308.06118v1)|null|
+|**2023-08-11**|**Enhanced optical conductivity and many-body effects in strongly-driven photo-excited semi-metallic graphite**|T. P. H. Sidiropoulos et.al.|[2308.06067v1](http://arxiv.org/abs/2308.06067v1)|null|
+|**2023-08-11**|**The Rheology of Granular Mixtures with Varying Size, Density, Particle Friction and Flow Geometry**|Eric C. P Breard et.al.|[2308.06062v1](http://arxiv.org/abs/2308.06062v1)|null|
+|**2023-08-11**|**Proximitization: Opportunities for Manipulating Correlations in Hybrid Organic / 2D Materials**|Joohyung Park et.al.|[2308.05886v1](http://arxiv.org/abs/2308.05886v1)|null|
+|**2023-08-10**|**Correlated electrons tunneling through pseudo Fermi arcs in hyperbolic Fermi surfaces of topological materials**|Elena Derunova et.al.|[2308.05788v1](http://arxiv.org/abs/2308.05788v1)|null|
+|**2023-08-10**|**Current percolation model for the special resistivity behavior observed in Cu-doped Apatite**|Qiang Hou et.al.|[2308.05778v1](http://arxiv.org/abs/2308.05778v1)|null|
 |**2023-08-10**|**Fatigue behavior of Cu-Zr metallic glasses under cyclic loading**|Nikolai V. Priezjev et.al.|[2308.05674v1](http://arxiv.org/abs/2308.05674v1)|null|
 |**2023-08-10**|**Loss of memory of an elastic line on its way to limit cycles**|Elisabeth Agoritsas et.al.|[2308.05603v1](http://arxiv.org/abs/2308.05603v1)|null|
 |**2023-08-10**|**Algae-like Artificial Organic Phototactic Micro-swimmers**|Somnath Koley et.al.|[2308.05592v1](http://arxiv.org/abs/2308.05592v1)|null|
@@ -3306,6 +3315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Nature of the current-induced insulator-to-metal transition in Ca $_2$RuO$_4$ as revealed by transport-ARPES**|Cissy T Suen et.al.|[2308.05803v1](http://arxiv.org/abs/2308.05803v1)|null|
 |**2023-08-05**|**Modulating Spin Current Induced Effective Damping in $β-W/Py$ Heterostructures by a Systematic Variation in Resistivity of the Sputtered Deposited $β-W$ films**|Soumik Aon et.al.|[2308.02939v1](http://arxiv.org/abs/2308.02939v1)|null|
 |**2023-08-04**|**Long-term Oscillations and Universal Behavior in Pulsed Electric Fields**|Leila Shahkarami et.al.|[2308.02218v1](http://arxiv.org/abs/2308.02218v1)|null|
 |**2023-08-02**|**Spin wave amplification through superradiance**|X. R. Wang et.al.|[2308.00962v1](http://arxiv.org/abs/2308.00962v1)|null|
@@ -3387,6 +3397,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963v1](http://arxiv.org/abs/2308.05963v1)|null|
+|**2023-08-10**|**Correlated electrons tunneling through pseudo Fermi arcs in hyperbolic Fermi surfaces of topological materials**|Elena Derunova et.al.|[2308.05788v1](http://arxiv.org/abs/2308.05788v1)|null|
 |**2023-08-07**|**How to enhance anomalous Hall effects in magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ ?**|Shivam Rathod et.al.|[2308.03483v1](http://arxiv.org/abs/2308.03483v1)|null|
 |**2023-08-04**|**Observation of Fractionally Quantized Anomalous Hall Effect**|Heonjoon Park et.al.|[2308.02657v1](http://arxiv.org/abs/2308.02657v1)|null|
 |**2023-07-31**|**Fourier transformation based analysis routine for intermixed longitudinal and transversal hysteretic data for the example of a magnetic topological insulator**|Erik Zimmermann et.al.|[2307.16450v1](http://arxiv.org/abs/2307.16450v1)|null|
