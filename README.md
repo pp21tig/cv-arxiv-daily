@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Characterizing Different Motility Induced Regimes in Active Matter with Machine Learning and Noise**|D. McDermott et.al.|[2308.07296v1](http://arxiv.org/abs/2308.07296v1)|null|
+|**2023-08-14**|**Optically induced delocalization of electrons bound by attractive potentials**|O. V. Kibis et.al.|[2308.07191v1](http://arxiv.org/abs/2308.07191v1)|null|
+|**2023-08-14**|**Stochastic effects on solution landscapes for nematic liquid crystals**|James Luke Dalby et.al.|[2308.07045v1](http://arxiv.org/abs/2308.07045v1)|null|
+|**2023-08-14**|**Thermal stability and secondary aggregation of self-limiting, geometrically-frustrated assemblies: Chain assembly of incommensurate polybricks**|Michael Wang et.al.|[2308.06892v1](http://arxiv.org/abs/2308.06892v1)|null|
+|**2023-08-13**|**Colloidal Directional Structures at a Nematic Liquid Crystal-Air Interface**|Nan Wang et.al.|[2308.06865v1](http://arxiv.org/abs/2308.06865v1)|null|
+|**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860v1](http://arxiv.org/abs/2308.06860v1)|null|
+|**2023-08-13**|**Conformal order and Poincar $\rm{\acute{e}}$ -Klein mapping underlying electrostatics-driven inhomogeneity in tethered membranes**|Honghui Sun et.al.|[2308.06857v1](http://arxiv.org/abs/2308.06857v1)|null|
+|**2023-08-13**|**Ubiquitous preferential water adsorption to electrodes in water/1-propanol mixtures detected by electrochemical impedance spectroscopy**|Haruto Iwasaki et.al.|[2308.06752v1](http://arxiv.org/abs/2308.06752v1)|null|
+|**2023-08-12**|**On the Experimental Evidence for Possible Superconductivity in LK99**|H. Singh et.al.|[2308.06589v1](http://arxiv.org/abs/2308.06589v1)|null|
+|**2023-08-12**|**Experimental Study of Granular Clogging in Two-Dimensional Hopper**|Shuyang Zhang et.al.|[2308.06584v1](http://arxiv.org/abs/2308.06584v1)|null|
+|**2023-08-12**|**Joe Vinen and transverse force on vortex**|Edouard Sonin et.al.|[2308.06514v1](http://arxiv.org/abs/2308.06514v1)|null|
+|**2023-08-12**|**Accelerating Relaxation Dynamics in Open Quantum System with Liouvillian Skin Effect**|Zeqing Wang et.al.|[2308.06504v1](http://arxiv.org/abs/2308.06504v1)|null|
+|**2023-08-12**|**A Proposed Quantum Hamiltonian Encoding Framework for Time Evolution Operator Design of Potential Energy Function**|Mostafizur Rahaman Laskar et.al.|[2308.06491v1](http://arxiv.org/abs/2308.06491v1)|null|
+|**2023-08-11**|**Spontaneous crumpling of active spherical shells**|M. C. Gandikota et.al.|[2308.06416v1](http://arxiv.org/abs/2308.06416v1)|null|
+|**2023-08-11**|**Transcending the MAX phases concept of nanolaminated early transition metal carbides/nitrides -- the ZIA phases**|M. A. Tunes et.al.|[2308.06408v1](http://arxiv.org/abs/2308.06408v1)|null|
+|**2023-08-11**|**How should a small country respond to climate change?**|A. D. J. Haymet et.al.|[2308.06355v1](http://arxiv.org/abs/2308.06355v1)|null|
+|**2023-08-11**|**Aspects of the microscopic structure of curcumin solutions with water-dimethylsulfoxide solvent. Molecular dynamics computer simulation study**|T. Patsahan et.al.|[2308.06353v1](http://arxiv.org/abs/2308.06353v1)|null|
+|**2023-08-11**|**On the existence of a second branch of transverse collective excitations in liquid metals**|J. -F. Wax et.al.|[2308.06350v1](http://arxiv.org/abs/2308.06350v1)|null|
+|**2023-08-11**|**Proportional correlation between heat capacity and thermal expansion of atomic, molecular crystals and carbon nanostructures**|M. S. Barabashko et.al.|[2308.06346v1](http://arxiv.org/abs/2308.06346v1)|null|
+|**2023-08-11**|**An ab initio study of the static, dynamic and electronic properties of some liquid 5d transition metals near melting**|D. J. González et.al.|[2308.06344v1](http://arxiv.org/abs/2308.06344v1)|null|
 |**2023-08-11**|**Capillary imbibition in a diverging flexible channel**|Mouad Boudina et.al.|[2308.06257v1](http://arxiv.org/abs/2308.06257v1)|null|
 |**2023-08-11**|**Stability of the non-Hermitian skin effect**|Habib Ammari et.al.|[2308.06124v1](http://arxiv.org/abs/2308.06124v1)|null|
 |**2023-08-11**|**Are nucleation bubbles in a liquid all independent?**|Joël Puibasset et.al.|[2308.06122v1](http://arxiv.org/abs/2308.06122v1)|null|
@@ -3138,6 +3158,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**Ultrafast light-induced long range antiferromagnetic correlations in paramagnets**|Lorenzo Amato et.al.|[2308.06758v1](http://arxiv.org/abs/2308.06758v1)|null|
 |**2023-08-10**|**Algae-like Artificial Organic Phototactic Micro-swimmers**|Somnath Koley et.al.|[2308.05592v1](http://arxiv.org/abs/2308.05592v1)|null|
 |**2023-08-09**|**Enhanced interfacial charge transfer by Z-scheme in defect-mediated ZnO-CdS nano-composite with rGO as a solid-state electron mediator for efficient photocatalytic applications**|Arun Murali et.al.|[2308.05211v1](http://arxiv.org/abs/2308.05211v1)|null|
 |**2023-08-08**|**Harnessing Artificial Intelligence To Reduce Phototoxicity in Live Imaging**|Estibaliz Gómez-de-Mariscal et.al.|[2308.04387v1](http://arxiv.org/abs/2308.04387v1)|null|
@@ -3397,6 +3418,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-12**|**In-plane Hall effect in rutile oxide films induced by the Lorentz force**|Yongwei Cui et.al.|[2308.06651v1](http://arxiv.org/abs/2308.06651v1)|null|
 |**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963v1](http://arxiv.org/abs/2308.05963v1)|null|
 |**2023-08-10**|**Correlated electrons tunneling through pseudo Fermi arcs in hyperbolic Fermi surfaces of topological materials**|Elena Derunova et.al.|[2308.05788v1](http://arxiv.org/abs/2308.05788v1)|null|
 |**2023-08-07**|**How to enhance anomalous Hall effects in magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ ?**|Shivam Rathod et.al.|[2308.03483v1](http://arxiv.org/abs/2308.03483v1)|null|
@@ -3480,6 +3502,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**On (not) deriving the entropy of barocaloric phase transitions from crystallography and neutron spectroscopy**|Anthony E. Phillips et.al.|[2308.07080v1](http://arxiv.org/abs/2308.07080v1)|null|
 |**2023-08-01**|**Spin dynamics of the $E_8$ particles**|Xiao Wang et.al.|[2308.00249v1](http://arxiv.org/abs/2308.00249v1)|null|
 |**2023-07-25**|**Spinon continuum in the Heisenberg quantum chain compound Sr $_2$V$_3$O$_9$**|Shang Gao et.al.|[2307.12093v2](http://arxiv.org/abs/2307.12093v2)|null|
 |**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429v1](http://arxiv.org/abs/2307.11429v1)|null|
