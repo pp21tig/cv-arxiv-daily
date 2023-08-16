@@ -1098,6 +1098,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Building a "trap model" of glassy dynamics from a local structural predictor of rearrangements**|Sean A. Ridout et.al.|[2308.07913v1](http://arxiv.org/abs/2308.07913v1)|null|
+|**2023-08-15**|**Curvature-induced clustering of cell adhesion proteins**|Shao-Zhen Lin et.al.|[2308.07639v1](http://arxiv.org/abs/2308.07639v1)|null|
+|**2023-08-15**|**Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex**|Ruixue Zhu et.al.|[2308.07583v1](http://arxiv.org/abs/2308.07583v1)|null|
+|**2023-08-15**|**On the dynamical kernels of fermionic equations of motion in strongly-correlated media**|Elena Litvinova et.al.|[2308.07574v1](http://arxiv.org/abs/2308.07574v1)|null|
 |**2023-08-14**|**Characterizing Different Motility Induced Regimes in Active Matter with Machine Learning and Noise**|D. McDermott et.al.|[2308.07296v1](http://arxiv.org/abs/2308.07296v1)|null|
 |**2023-08-14**|**Optically induced delocalization of electrons bound by attractive potentials**|O. V. Kibis et.al.|[2308.07191v1](http://arxiv.org/abs/2308.07191v1)|null|
 |**2023-08-14**|**Stochastic effects on solution landscapes for nematic liquid crystals**|James Luke Dalby et.al.|[2308.07045v1](http://arxiv.org/abs/2308.07045v1)|null|
@@ -1105,6 +1109,7 @@
 |**2023-08-13**|**Colloidal Directional Structures at a Nematic Liquid Crystal-Air Interface**|Nan Wang et.al.|[2308.06865v1](http://arxiv.org/abs/2308.06865v1)|null|
 |**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860v1](http://arxiv.org/abs/2308.06860v1)|null|
 |**2023-08-13**|**Conformal order and Poincar $\rm{\acute{e}}$ -Klein mapping underlying electrostatics-driven inhomogeneity in tethered membranes**|Honghui Sun et.al.|[2308.06857v1](http://arxiv.org/abs/2308.06857v1)|null|
+|**2023-08-13**|**Optimal strategies for kiiking: active pumping to invert a swing**|Petur Bryde et.al.|[2308.06818v1](http://arxiv.org/abs/2308.06818v1)|null|
 |**2023-08-13**|**Ubiquitous preferential water adsorption to electrodes in water/1-propanol mixtures detected by electrochemical impedance spectroscopy**|Haruto Iwasaki et.al.|[2308.06752v1](http://arxiv.org/abs/2308.06752v1)|null|
 |**2023-08-12**|**On the Experimental Evidence for Possible Superconductivity in LK99**|H. Singh et.al.|[2308.06589v1](http://arxiv.org/abs/2308.06589v1)|null|
 |**2023-08-12**|**Experimental Study of Granular Clogging in Two-Dimensional Hopper**|Shuyang Zhang et.al.|[2308.06584v1](http://arxiv.org/abs/2308.06584v1)|null|
@@ -3336,6 +3341,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Current-induced magnetization switching in a magnetic topological insulator heterostructure**|Erik Zimmermann et.al.|[2308.07657v1](http://arxiv.org/abs/2308.07657v1)|null|
 |**2023-08-10**|**Nature of the current-induced insulator-to-metal transition in Ca $_2$RuO$_4$ as revealed by transport-ARPES**|Cissy T Suen et.al.|[2308.05803v1](http://arxiv.org/abs/2308.05803v1)|null|
 |**2023-08-05**|**Modulating Spin Current Induced Effective Damping in $β-W/Py$ Heterostructures by a Systematic Variation in Resistivity of the Sputtered Deposited $β-W$ films**|Soumik Aon et.al.|[2308.02939v1](http://arxiv.org/abs/2308.02939v1)|null|
 |**2023-08-04**|**Long-term Oscillations and Universal Behavior in Pulsed Electric Fields**|Leila Shahkarami et.al.|[2308.02218v1](http://arxiv.org/abs/2308.02218v1)|null|
@@ -3418,6 +3424,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488v1](http://arxiv.org/abs/2308.07488v1)|null|
 |**2023-08-12**|**In-plane Hall effect in rutile oxide films induced by the Lorentz force**|Yongwei Cui et.al.|[2308.06651v1](http://arxiv.org/abs/2308.06651v1)|null|
 |**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963v1](http://arxiv.org/abs/2308.05963v1)|null|
 |**2023-08-10**|**Correlated electrons tunneling through pseudo Fermi arcs in hyperbolic Fermi surfaces of topological materials**|Elena Derunova et.al.|[2308.05788v1](http://arxiv.org/abs/2308.05788v1)|null|
@@ -3502,6 +3509,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Tuning the confinement potential between spinons in the Ising chain CoNb2O6 using longitudinal fields and quantitative determination of the microscopic Hamiltonian**|Leonie Woodland et.al.|[2308.07699v1](http://arxiv.org/abs/2308.07699v1)|null|
 |**2023-08-14**|**On (not) deriving the entropy of barocaloric phase transitions from crystallography and neutron spectroscopy**|Anthony E. Phillips et.al.|[2308.07080v1](http://arxiv.org/abs/2308.07080v1)|null|
 |**2023-08-01**|**Spin dynamics of the $E_8$ particles**|Xiao Wang et.al.|[2308.00249v1](http://arxiv.org/abs/2308.00249v1)|null|
 |**2023-07-25**|**Spinon continuum in the Heisenberg quantum chain compound Sr $_2$V$_3$O$_9$**|Shang Gao et.al.|[2307.12093v2](http://arxiv.org/abs/2307.12093v2)|null|
