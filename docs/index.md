@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Theory of Capillary Tension and Interfacial Dynamics of Motility-Induced Phases**|Luke Langford et.al.|[2308.08531v1](http://arxiv.org/abs/2308.08531v1)|null|
+|**2023-08-16**|**On fusogenicity of positively charged phased-separated lipid vesicles: experiments and computational simulations**|Yifei Wang et.al.|[2308.08425v1](http://arxiv.org/abs/2308.08425v1)|null|
+|**2023-08-16**|**Bacteria Through Obstacles: Unifying Fluxes, Entropy Production, and Extractable Work in Living Active Matter**|Satyam Anand et.al.|[2308.08421v1](http://arxiv.org/abs/2308.08421v1)|null|
+|**2023-08-16**|**Scaling description of frictionless dense suspensions under inhomogeneous flow**|Bhanu Prasad Bhowmik et.al.|[2308.08402v1](http://arxiv.org/abs/2308.08402v1)|null|
+|**2023-08-16**|**Equilibration between Translational and Rotational Modes in Molecular Dynamics Simulations of Rigid Water Requires a Smaller Integration Time-Step Than Often Used**|Dilipkumar N. Asthagiri et.al.|[2308.08383v1](http://arxiv.org/abs/2308.08383v1)|null|
+|**2023-08-16**|**Extensional Viscosity of Immiscible Polymers Multinanolayer Films: Signature of the Interphase**|Anna Dmochowska et.al.|[2308.08243v1](http://arxiv.org/abs/2308.08243v1)|null|
+|**2023-08-16**|**Accelerated Design of Block Copolymers: An Unbiased Exploration Strategy via Fusion of Molecular Dynamics Simulations and Machine Learning**|Jan Michael Y. Carrillo et.al.|[2308.08226v1](http://arxiv.org/abs/2308.08226v1)|null|
+|**2023-08-16**|**Correlated flat bands in the paramagnetic phase of triangular antiferromagnets Na $_2$BaX(PO$_4$)$_2$ (X = Mn, Co, Ni)**|Cong Hu et.al.|[2308.08149v1](http://arxiv.org/abs/2308.08149v1)|null|
+|**2023-08-15**|**Tunable topological magnon-polaron states and anomalous Hall phenomena in two-dimensional ferromagnetic insulators**|Jostein N. Kløgetvedt et.al.|[2308.08048v1](http://arxiv.org/abs/2308.08048v1)|null|
 |**2023-08-15**|**Building a "trap model" of glassy dynamics from a local structural predictor of rearrangements**|Sean A. Ridout et.al.|[2308.07913v1](http://arxiv.org/abs/2308.07913v1)|null|
 |**2023-08-15**|**Curvature-induced clustering of cell adhesion proteins**|Shao-Zhen Lin et.al.|[2308.07639v1](http://arxiv.org/abs/2308.07639v1)|null|
 |**2023-08-15**|**Atomic-Scale Tracking Phase Transition Dynamics of Berezinskii-Kosterlitz-Thouless Polar Vortex-Antivortex**|Ruixue Zhu et.al.|[2308.07583v1](http://arxiv.org/abs/2308.07583v1)|null|
@@ -3428,6 +3437,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Interplay between altermagnetism and nonsymmorphic symmetries generating large anomalous Hall conductivity by semi-Dirac points induced anticrossings**|Amar Fakhredine et.al.|[2308.08416v1](http://arxiv.org/abs/2308.08416v1)|null|
+|**2023-08-16**|**Promoting $p$-based Hall effects by $p$-$d$-$f$ hybridization in Gd-based dichalcogenides**|Mahmoud Zeer et.al.|[2308.08207v1](http://arxiv.org/abs/2308.08207v1)|null|
 |**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488v1](http://arxiv.org/abs/2308.07488v1)|null|
 |**2023-08-12**|**In-plane Hall effect in rutile oxide films induced by the Lorentz force**|Yongwei Cui et.al.|[2308.06651v1](http://arxiv.org/abs/2308.06651v1)|null|
 |**2023-08-11**|**Metallic Quantized Anomalous Hall Effect without Chiral Edge States**|Kai-Zhi Bai et.al.|[2308.05963v1](http://arxiv.org/abs/2308.05963v1)|null|
