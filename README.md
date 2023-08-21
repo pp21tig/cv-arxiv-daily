@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Topological Elasticity in Physical Gels with Limited Valence**|Giorgia Palombo et.al.|[2308.09689v1](http://arxiv.org/abs/2308.09689v1)|null|
+|**2023-08-18**|**Dissipative effects in odd viscous Stokes flow around a single sphere**|Jeffrey C. Everts et.al.|[2308.09574v1](http://arxiv.org/abs/2308.09574v1)|null|
+|**2023-08-18**|**Two Kinetically Different Supercooled Liquids -- Potential Energy Landscape Perspective**|B. Zhang et.al.|[2308.09572v1](http://arxiv.org/abs/2308.09572v1)|null|
+|**2023-08-18**|**Eulerian framework for contact between solids represented as phase fields**|Flavio Lorez et.al.|[2308.09524v1](http://arxiv.org/abs/2308.09524v1)|null|
+|**2023-08-18**|**Predicting Properties of Oxide Glasses Using Informed Neural Networks**|Gregor Maier et.al.|[2308.09492v1](http://arxiv.org/abs/2308.09492v1)|null|
+|**2023-08-18**|**A Single-Input State-Switching Building Block Harnessing Internal Instabilities**|Malte A. ten Wolde et.al.|[2308.09409v1](http://arxiv.org/abs/2308.09409v1)|null|
+|**2023-08-18**|**The conformational phase diagram of charged polymers in the presence of attractive bridging crowders**|Kamal Tripathi et.al.|[2308.09328v1](http://arxiv.org/abs/2308.09328v1)|null|
+|**2023-08-18**|**Transonic and supershear crack propagation driven by geometric nonlinearities**|Mohit Pundir et.al.|[2308.09315v1](http://arxiv.org/abs/2308.09315v1)|null|
+|**2023-08-17**|**Hydrodynamics of Multicomponent Vesicles Under Strong Confinement**|Ashley Gannon et.al.|[2308.09010v1](http://arxiv.org/abs/2308.09010v1)|null|
+|**2023-08-17**|**Yielding to percolation: a universal scale**|Emad Chaparian et.al.|[2308.08913v1](http://arxiv.org/abs/2308.08913v1)|null|
+|**2023-08-17**|**A Bottom-up Approach to Constructing Symmetric Variational Quantum Circuits**|Babatunde M. Ayeni et.al.|[2308.08912v1](http://arxiv.org/abs/2308.08912v1)|null|
+|**2023-08-17**|**From a vortex gas to a vortex crystal in instability-driven two-dimensional turbulence**|A. van Kan et.al.|[2308.08789v1](http://arxiv.org/abs/2308.08789v1)|null|
+|**2023-08-17**|**Is the glassy dynamics same in 2D as in 3D? The Adam Gibbs relation test**|Santu Nath et.al.|[2308.08743v1](http://arxiv.org/abs/2308.08743v1)|null|
+|**2023-08-16**|**Effective Action for Dissipative and Nonholonomic Systems**|Afshin Besharat et.al.|[2308.08695v1](http://arxiv.org/abs/2308.08695v1)|null|
+|**2023-08-16**|**Maximally mixing active nematics**|Kevin A. Mitchell et.al.|[2308.08657v1](http://arxiv.org/abs/2308.08657v1)|null|
+|**2023-08-16**|**Universal Fluctuations of Local Measurement in Low-Dimensional Systems**|Omer Granek et.al.|[2308.08595v1](http://arxiv.org/abs/2308.08595v1)|null|
 |**2023-08-16**|**Theory of Capillary Tension and Interfacial Dynamics of Motility-Induced Phases**|Luke Langford et.al.|[2308.08531v1](http://arxiv.org/abs/2308.08531v1)|null|
 |**2023-08-16**|**On fusogenicity of positively charged phased-separated lipid vesicles: experiments and computational simulations**|Yifei Wang et.al.|[2308.08425v1](http://arxiv.org/abs/2308.08425v1)|null|
 |**2023-08-16**|**Bacteria Through Obstacles: Unifying Fluxes, Entropy Production, and Extractable Work in Living Active Matter**|Satyam Anand et.al.|[2308.08421v1](http://arxiv.org/abs/2308.08421v1)|null|
@@ -3172,6 +3188,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-17**|**Transient Ellipsometry Measurements of the Specular Inverse Faraday Effect in Transition Metals**|Víctor H. Ortiz et.al.|[2308.09150v1](http://arxiv.org/abs/2308.09150v1)|null|
 |**2023-08-13**|**Ultrafast light-induced long range antiferromagnetic correlations in paramagnets**|Lorenzo Amato et.al.|[2308.06758v1](http://arxiv.org/abs/2308.06758v1)|null|
 |**2023-08-10**|**Algae-like Artificial Organic Phototactic Micro-swimmers**|Somnath Koley et.al.|[2308.05592v1](http://arxiv.org/abs/2308.05592v1)|null|
 |**2023-08-09**|**Enhanced interfacial charge transfer by Z-scheme in defect-mediated ZnO-CdS nano-composite with rGO as a solid-state electron mediator for efficient photocatalytic applications**|Arun Murali et.al.|[2308.05211v1](http://arxiv.org/abs/2308.05211v1)|null|
@@ -3433,6 +3450,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Maximally Localized Wannier Orbitals, Interaction Models and Fractional Quantum Anomalous Hall Effect in Twisted Bilayer MoTe2**|Cheng Xu et.al.|[2308.09697v1](http://arxiv.org/abs/2308.09697v1)|null|
+|**2023-08-18**|**Anomalous Hall effect induced by Berry curvature in topological nodal-line van der Waals ferromagnet Fe $_4$GeTe$_2$**|Satyabrata Bera et.al.|[2308.09695v1](http://arxiv.org/abs/2308.09695v1)|null|
+|**2023-08-18**|**Critical enhancement of the spin Hall effect by spin fluctuations**|Satoshi Okamoto et.al.|[2308.09636v1](http://arxiv.org/abs/2308.09636v1)|null|
+|**2023-08-17**|**Barrier and finite size effects on the extension of topological surface-states into magnetic insulators**|Eirik Holm Fyhn et.al.|[2308.09128v1](http://arxiv.org/abs/2308.09128v1)|null|
 |**2023-08-16**|**Interplay between altermagnetism and nonsymmorphic symmetries generating large anomalous Hall conductivity by semi-Dirac points induced anticrossings**|Amar Fakhredine et.al.|[2308.08416v1](http://arxiv.org/abs/2308.08416v1)|null|
 |**2023-08-16**|**Promoting $p$-based Hall effects by $p$-$d$-$f$ hybridization in Gd-based dichalcogenides**|Mahmoud Zeer et.al.|[2308.08207v1](http://arxiv.org/abs/2308.08207v1)|null|
 |**2023-08-14**|**Gate-tunable antiferromagnetic Chern insulator in twisted bilayer transition metal dichalcogenides**|Xiaoyu Liu et.al.|[2308.07488v1](http://arxiv.org/abs/2308.07488v1)|null|
@@ -3520,6 +3541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Spin-wave dispersion and magnon chirality in multiferroic TbMnO3**|S. Holbein et.al.|[2308.09407v1](http://arxiv.org/abs/2308.09407v1)|null|
 |**2023-08-15**|**Tuning the confinement potential between spinons in the Ising chain CoNb2O6 using longitudinal fields and quantitative determination of the microscopic Hamiltonian**|Leonie Woodland et.al.|[2308.07699v1](http://arxiv.org/abs/2308.07699v1)|null|
 |**2023-08-14**|**On (not) deriving the entropy of barocaloric phase transitions from crystallography and neutron spectroscopy**|Anthony E. Phillips et.al.|[2308.07080v1](http://arxiv.org/abs/2308.07080v1)|null|
 |**2023-08-01**|**Spin dynamics of the $E_8$ particles**|Xiao Wang et.al.|[2308.00249v1](http://arxiv.org/abs/2308.00249v1)|null|
