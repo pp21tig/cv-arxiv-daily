@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Similarity solutions in elastohydrodynamic bouncing**|Vincent Bertin et.al.|[2308.10754v1](http://arxiv.org/abs/2308.10754v1)|null|
+|**2023-08-21**|**Controllable Weyl nodes and Fermi arcs in a light-irradiated carbon allotrope**|Ruoning Ji et.al.|[2308.10723v1](http://arxiv.org/abs/2308.10723v1)|null|
+|**2023-08-21**|**Altermagnetic lifting of Kramers spin degeneracy**|J. Krempaský et.al.|[2308.10681v1](http://arxiv.org/abs/2308.10681v1)|null|
+|**2023-08-21**|**Active crystallization from power functional theory**|Sophie Hermann et.al.|[2308.10614v1](http://arxiv.org/abs/2308.10614v1)|null|
+|**2023-08-21**|**Effect of viscoelastic fluid on the lift force in lubricated contacts**|Shiyuan Hu et.al.|[2308.10400v1](http://arxiv.org/abs/2308.10400v1)|null|
+|**2023-08-20**|**Kinetics Of Vapor-Liquid Phase Separation Under Gravity**|Daniya Davis et.al.|[2308.10295v1](http://arxiv.org/abs/2308.10295v1)|null|
+|**2023-08-20**|**On the incremental equations in surface elasticity**|Xiang Yu et.al.|[2308.10233v1](http://arxiv.org/abs/2308.10233v1)|null|
+|**2023-08-20**|**Scaling Perspectives of Underscreening in Concentrated Electrolyte Solutions**|Samuel Safran et.al.|[2308.10189v1](http://arxiv.org/abs/2308.10189v1)|null|
+|**2023-08-20**|**Molecular Dynamics Simulation of Apolipoprotein E3 Lipid Nanodiscs**|Patrick Allen et.al.|[2308.10164v1](http://arxiv.org/abs/2308.10164v1)|null|
+|**2023-08-19**|**Poisson quadrature method of moments for 2D kinetic equations with velocity of constant magnitude**|Yihong Chen et.al.|[2308.10083v1](http://arxiv.org/abs/2308.10083v1)|null|
+|**2023-08-19**|**Designing highly efficient lock-and-key interactions in anisotropic active particles**|Solenn Riedel et.al.|[2308.09992v1](http://arxiv.org/abs/2308.09992v1)|null|
+|**2023-08-19**|**Stochastic resonance in a model of a periodically driven DNA : Multiple transitions, scaling and sequence dependence**|Ramu Kumar Yadav et.al.|[2308.09914v1](http://arxiv.org/abs/2308.09914v1)|null|
+|**2023-08-19**|**Tunneling time and Faraday/Kerr effects in $\mathcal{PT}$ -symmetric systems**|Vladimir Gasparian et.al.|[2308.09901v1](http://arxiv.org/abs/2308.09901v1)|null|
+|**2023-08-19**|**Explainability and Transferability of Machine Learning Models for Predicting the Glass Transition Temperature of Polymers**|Agrim Babbar et.al.|[2308.09898v1](http://arxiv.org/abs/2308.09898v1)|null|
+|**2023-08-18**|**Topologically Protected Vortex Knots in an Experimentally Realizable System**|Hermanni Rajamäki et.al.|[2308.09825v1](http://arxiv.org/abs/2308.09825v1)|null|
+|**2023-08-18**|**Velocity-gauge real-time time-dependent density functional tight-binding for large-scale condensed matter systems**|Qiang Xu et.al.|[2308.09782v1](http://arxiv.org/abs/2308.09782v1)|null|
 |**2023-08-18**|**Topological Elasticity in Physical Gels with Limited Valence**|Giorgia Palombo et.al.|[2308.09689v1](http://arxiv.org/abs/2308.09689v1)|null|
 |**2023-08-18**|**Dissipative effects in odd viscous Stokes flow around a single sphere**|Jeffrey C. Everts et.al.|[2308.09574v1](http://arxiv.org/abs/2308.09574v1)|null|
 |**2023-08-18**|**Two Kinetically Different Supercooled Liquids -- Potential Energy Landscape Perspective**|B. Zhang et.al.|[2308.09572v1](http://arxiv.org/abs/2308.09572v1)|null|
@@ -3188,6 +3204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-20**|**Electron Imaging of Nanoscale Charge Distributions Induced by Femtosecond Light Pulses**|Jonathan T. Weber et.al.|[2308.10272v1](http://arxiv.org/abs/2308.10272v1)|null|
 |**2023-08-17**|**Transient Ellipsometry Measurements of the Specular Inverse Faraday Effect in Transition Metals**|Víctor H. Ortiz et.al.|[2308.09150v1](http://arxiv.org/abs/2308.09150v1)|null|
 |**2023-08-13**|**Ultrafast light-induced long range antiferromagnetic correlations in paramagnets**|Lorenzo Amato et.al.|[2308.06758v1](http://arxiv.org/abs/2308.06758v1)|null|
 |**2023-08-10**|**Algae-like Artificial Organic Phototactic Micro-swimmers**|Somnath Koley et.al.|[2308.05592v1](http://arxiv.org/abs/2308.05592v1)|null|
@@ -3197,6 +3214,7 @@
 |**2023-08-06**|**Field theory description of the non-perturbative optical nonlinearity of epsilon-near-zero media**|Yaraslau Tamashevich et.al.|[2308.03181v1](http://arxiv.org/abs/2308.03181v1)|null|
 |**2023-08-02**|**Light Driven Spontaneous Phonon Chirality and Magnetization in Paramagnets**|Yafei Ren et.al.|[2308.00933v1](http://arxiv.org/abs/2308.00933v1)|null|
 |**2023-07-31**|**Sub-Doppler laser cooling and magnetic trapping of natural-abundance fermionic potassium**|Mateusz Bocheński et.al.|[2307.16469v1](http://arxiv.org/abs/2307.16469v1)|null|
+|**2023-08-18**|**Light-induced polar nematicity in antiferromagnetic Cr2O3**|Xinshu Zhang et.al.|[2307.11956v2](http://arxiv.org/abs/2307.11956v2)|null|
 |**2023-07-21**|**Light-Driven Nanoscale Vectorial Currents**|Jacob Pettine et.al.|[2307.11928v1](http://arxiv.org/abs/2307.11928v1)|null|
 |**2023-07-21**|**Illumination protocols for non-linear phononics in bismuth and antimony**|Anubhab Haldar et.al.|[2307.11854v1](http://arxiv.org/abs/2307.11854v1)|null|
 |**2023-07-16**|**Light-assisted hierarchical fabrication of two-dimensional surfaces using DNA-functionalized semiconductor nanocrystal quantum dots**|Zeynep Senel et.al.|[2307.10241v1](http://arxiv.org/abs/2307.10241v1)|null|
@@ -3450,6 +3468,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Toward a global phase diagram of the fractional quantum anomalous Hall effect**|Aidan P. Reddy et.al.|[2308.10406v1](http://arxiv.org/abs/2308.10406v1)|null|
+|**2023-08-20**|**Room temperature magnetic phase transition in an electrically-tuned van der Waals ferromagnet**|Cheng Tan et.al.|[2308.10324v1](http://arxiv.org/abs/2308.10324v1)|null|
 |**2023-08-18**|**Maximally Localized Wannier Orbitals, Interaction Models and Fractional Quantum Anomalous Hall Effect in Twisted Bilayer MoTe2**|Cheng Xu et.al.|[2308.09697v1](http://arxiv.org/abs/2308.09697v1)|null|
 |**2023-08-18**|**Anomalous Hall effect induced by Berry curvature in topological nodal-line van der Waals ferromagnet Fe $_4$GeTe$_2$**|Satyabrata Bera et.al.|[2308.09695v1](http://arxiv.org/abs/2308.09695v1)|null|
 |**2023-08-18**|**Critical enhancement of the spin Hall effect by spin fluctuations**|Satoshi Okamoto et.al.|[2308.09636v1](http://arxiv.org/abs/2308.09636v1)|null|
