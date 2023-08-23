@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Ligand-Induced Incompatible Curvatures Control Ultrathin Nanoplatelet Polymorphism and Chirality**|Debora Monego et.al.|[2308.11505v1](http://arxiv.org/abs/2308.11505v1)|null|
+|**2023-08-22**|**On Slow Dynamic Elasticity at short times**|SangMin Lee et.al.|[2308.11475v1](http://arxiv.org/abs/2308.11475v1)|null|
+|**2023-08-22**|**Response functions of many-body condensed matter systems**|Marcello Porta et.al.|[2308.11282v1](http://arxiv.org/abs/2308.11282v1)|null|
+|**2023-08-22**|**Collective Flows Drive Cavitation in Spinner Monolayers**|Zaiyi Shen et.al.|[2308.11280v1](http://arxiv.org/abs/2308.11280v1)|null|
+|**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183v1](http://arxiv.org/abs/2308.11183v1)|null|
+|**2023-08-22**|**Predicting Pair Correlation Functions of Glasses using Machine Learning**|Kumar Ayush et.al.|[2308.11151v1](http://arxiv.org/abs/2308.11151v1)|null|
+|**2023-08-21**|**Stress representations for tensor basis neural networks: alternative formulations to Finger-Rivlin-Ericksen**|Jan N. Fuhg et.al.|[2308.11080v1](http://arxiv.org/abs/2308.11080v1)|null|
 |**2023-08-21**|**Similarity solutions in elastohydrodynamic bouncing**|Vincent Bertin et.al.|[2308.10754v1](http://arxiv.org/abs/2308.10754v1)|null|
 |**2023-08-21**|**Controllable Weyl nodes and Fermi arcs in a light-irradiated carbon allotrope**|Ruoning Ji et.al.|[2308.10723v1](http://arxiv.org/abs/2308.10723v1)|null|
 |**2023-08-21**|**Altermagnetic lifting of Kramers spin degeneracy**|J. Krempaský et.al.|[2308.10681v1](http://arxiv.org/abs/2308.10681v1)|null|
@@ -3389,6 +3396,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Observation of Current-induced Nonlinear Spin Polarization in Pt-Py Bilayers**|Toshiyuki Kodama et.al.|[2308.11156v1](http://arxiv.org/abs/2308.11156v1)|null|
 |**2023-08-15**|**Current-induced magnetization switching in a magnetic topological insulator heterostructure**|Erik Zimmermann et.al.|[2308.07657v1](http://arxiv.org/abs/2308.07657v1)|null|
 |**2023-08-15**|**Nature of the current-induced insulator-to-metal transition in Ca $_2$RuO$_4$ as revealed by transport-ARPES**|Cissy T Suen et.al.|[2308.05803v2](http://arxiv.org/abs/2308.05803v2)|null|
 |**2023-08-05**|**Modulating Spin Current Induced Effective Damping in $β-W/Py$ Heterostructures by a Systematic Variation in Resistivity of the Sputtered Deposited $β-W$ films**|Soumik Aon et.al.|[2308.02939v1](http://arxiv.org/abs/2308.02939v1)|null|
@@ -3472,6 +3480,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Altermagnetic Orbital Chern Insulator in Twisted MoTe $_{2}$**|Feng-Ren Fan et.al.|[2308.11454v1](http://arxiv.org/abs/2308.11454v1)|null|
+|**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183v1](http://arxiv.org/abs/2308.11183v1)|null|
 |**2023-08-21**|**Toward a global phase diagram of the fractional quantum anomalous Hall effect**|Aidan P. Reddy et.al.|[2308.10406v1](http://arxiv.org/abs/2308.10406v1)|null|
 |**2023-08-20**|**Room temperature magnetic phase transition in an electrically-tuned van der Waals ferromagnet**|Cheng Tan et.al.|[2308.10324v1](http://arxiv.org/abs/2308.10324v1)|null|
 |**2023-08-18**|**Maximally Localized Wannier Orbitals, Interaction Models and Fractional Quantum Anomalous Hall Effect in Twisted Bilayer MoTe2**|Cheng Xu et.al.|[2308.09697v1](http://arxiv.org/abs/2308.09697v1)|null|
