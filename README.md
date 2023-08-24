@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Modeling Heat Capacity of Supercritical Fluids: A Phonon Theory Approach**|Yu Liu et.al.|[2308.12186v1](http://arxiv.org/abs/2308.12186v1)|null|
+|**2023-08-23**|**Computational Modeling of Coupled Interactions of Fluid Membranes with Embedded Filaments**|Basant Lal Sharma et.al.|[2308.12104v1](http://arxiv.org/abs/2308.12104v1)|null|
+|**2023-08-23**|**Hyperforce balance via thermal Noether invariance of any observable**|Silas Robitschko et.al.|[2308.12098v1](http://arxiv.org/abs/2308.12098v1)|null|
+|**2023-08-23**|**Scalable Quantum Ground State Preparation of the Heisenberg Model: A Variational Quantum Eigensolver Approach**|Jinao Wang et.al.|[2308.12020v1](http://arxiv.org/abs/2308.12020v1)|null|
+|**2023-08-23**|**Purification Dynamics in a Continuous-time Hybrid Quantum Circuit Model**|Sebastian Leontica et.al.|[2308.12003v1](http://arxiv.org/abs/2308.12003v1)|null|
+|**2023-08-23**|**Dynamics of pinned quantized vortices in superfluid $^4$ He in a microelectromechanical oscillator**|Tomo Nakagawa et.al.|[2308.11942v1](http://arxiv.org/abs/2308.11942v1)|null|
+|**2023-08-22**|**Backflow Corrections of Green's Functions: Benchmarks on the Two-dimensional Fermi-Hubbard-type Model**|Yu-Tong Zhou et.al.|[2308.11823v1](http://arxiv.org/abs/2308.11823v1)|null|
 |**2023-08-22**|**Ligand-Induced Incompatible Curvatures Control Ultrathin Nanoplatelet Polymorphism and Chirality**|Debora Monego et.al.|[2308.11505v1](http://arxiv.org/abs/2308.11505v1)|null|
 |**2023-08-22**|**On Slow Dynamic Elasticity at short times**|SangMin Lee et.al.|[2308.11475v1](http://arxiv.org/abs/2308.11475v1)|null|
 |**2023-08-22**|**Response functions of many-body condensed matter systems**|Marcello Porta et.al.|[2308.11282v1](http://arxiv.org/abs/2308.11282v1)|null|
@@ -3571,6 +3578,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Dynamics of K $_2$Ni$_2$(SO$_4$)$_3$ governed by proximity to a 3D spin liquid model**|M. G. Gonzalez et.al.|[2308.11746v1](http://arxiv.org/abs/2308.11746v1)|null|
+|**2023-08-22**|**Short-range magnetic correlations in quasicrystalline i-Tb-Cd**|P. Das et.al.|[2308.11680v1](http://arxiv.org/abs/2308.11680v1)|null|
 |**2023-08-18**|**Spin-wave dispersion and magnon chirality in multiferroic TbMnO3**|S. Holbein et.al.|[2308.09407v1](http://arxiv.org/abs/2308.09407v1)|null|
 |**2023-08-15**|**Tuning the confinement potential between spinons in the Ising chain CoNb2O6 using longitudinal fields and quantitative determination of the microscopic Hamiltonian**|Leonie Woodland et.al.|[2308.07699v1](http://arxiv.org/abs/2308.07699v1)|null|
 |**2023-08-14**|**On (not) deriving the entropy of barocaloric phase transitions from crystallography and neutron spectroscopy**|Anthony E. Phillips et.al.|[2308.07080v1](http://arxiv.org/abs/2308.07080v1)|null|
