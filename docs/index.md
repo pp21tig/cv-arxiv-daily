@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Mean field elastic moduli of a three-dimensional cell-based vertex model**|Kyungeun Kim et.al.|[2308.12892v1](http://arxiv.org/abs/2308.12892v1)|null|
+|**2023-08-24**|**Granular convergence as an iterated local map**|Anna Movsheva et.al.|[2308.12849v1](http://arxiv.org/abs/2308.12849v1)|null|
+|**2023-08-24**|**PyMembrane: A flexible framework for efficient simulations of elastic and liquid membranes**|D. A. Matoz-Fernandez et.al.|[2308.12754v1](http://arxiv.org/abs/2308.12754v1)|null|
+|**2023-08-24**|**Dual residence time for droplet to coalesce with liquid surface**|Ting-Heng Hsieh et.al.|[2308.12695v1](http://arxiv.org/abs/2308.12695v1)|null|
+|**2023-08-24**|**Influence of Antireflection Si coatings on the Damage Threshold of fused silica upon irradiation with Mid-IR femtosecond laser pulses**|George D. Tsibidis et.al.|[2308.12687v1](http://arxiv.org/abs/2308.12687v1)|null|
+|**2023-08-24**|**$P-v$ criticalities, phase transitions and geometrothermodynamics of charged AdS black holes from Kaniadakis statistics**|Giuseppe Gaetano Luciano et.al.|[2308.12669v1](http://arxiv.org/abs/2308.12669v1)|null|
+|**2023-08-24**|**Steady vs. Dynamic Contributions of Different Doped Conducting Polymers in the Principal Components of an Electronic Nose's Response**|Wiem Haj Ammar et.al.|[2308.12623v1](http://arxiv.org/abs/2308.12623v1)|null|
+|**2023-08-24**|**Modeling for heterogeneous oxidative aging of polymers using coarse-grained molecular dynamics**|Takato Ishida et.al.|[2308.12620v1](http://arxiv.org/abs/2308.12620v1)|null|
+|**2023-08-24**|**Thermodynamic Bifurcations of Boiling in Solid-State Nanopores**|Soumyadeep Paul et.al.|[2308.12597v1](http://arxiv.org/abs/2308.12597v1)|null|
+|**2023-08-24**|**Viscoelastic phenotyping of red blood cells**|M. Gironella-Torrent et.al.|[2308.12582v1](http://arxiv.org/abs/2308.12582v1)|null|
+|**2023-08-24**|**Nonlinearity tunes crack dynamics in soft materials**|Fucheng Tian et.al.|[2308.12487v1](http://arxiv.org/abs/2308.12487v1)|null|
+|**2023-08-23**|**First-principles demonstration of Roman surface topological multiferroicity**|Ziwen Wang et.al.|[2308.12467v1](http://arxiv.org/abs/2308.12467v1)|null|
+|**2023-08-23**|**Self-induced Bose glass phase in quantum cluster quasicrystals**|Matheus Grossklags et.al.|[2308.12434v1](http://arxiv.org/abs/2308.12434v1)|null|
+|**2023-08-23**|**Ultrastrong photon-photon coupling**|Fuyang Tay et.al.|[2308.12427v1](http://arxiv.org/abs/2308.12427v1)|null|
 |**2023-08-23**|**Modeling Heat Capacity of Supercritical Fluids: A Phonon Theory Approach**|Yu Liu et.al.|[2308.12186v1](http://arxiv.org/abs/2308.12186v1)|null|
 |**2023-08-23**|**Computational Modeling of Coupled Interactions of Fluid Membranes with Embedded Filaments**|Basant Lal Sharma et.al.|[2308.12104v1](http://arxiv.org/abs/2308.12104v1)|null|
 |**2023-08-23**|**Hyperforce balance via thermal Noether invariance of any observable**|Silas Robitschko et.al.|[2308.12098v1](http://arxiv.org/abs/2308.12098v1)|null|
@@ -3487,6 +3501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Nearly-room-temperature ferromagnetism and tunable anomalous Hall effect in atomically thin Fe4CoGeTe2**|Shaohua Yan et.al.|[2308.12765v1](http://arxiv.org/abs/2308.12765v1)|null|
 |**2023-08-22**|**Altermagnetic Orbital Chern Insulator in Twisted MoTe $_{2}$**|Feng-Ren Fan et.al.|[2308.11454v1](http://arxiv.org/abs/2308.11454v1)|null|
 |**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183v1](http://arxiv.org/abs/2308.11183v1)|null|
 |**2023-08-21**|**Toward a global phase diagram of the fractional quantum anomalous Hall effect**|Aidan P. Reddy et.al.|[2308.10406v1](http://arxiv.org/abs/2308.10406v1)|null|
