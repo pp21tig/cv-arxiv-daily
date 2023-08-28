@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Symmetry-group-protected microfluidics for multiplexed stress-free manipulations**|Jeremias Gonzalez et.al.|[2308.13464v1](http://arxiv.org/abs/2308.13464v1)|null|
+|**2023-08-25**|**Structural and Microscopic Relaxation Processes in Liquid Hydrogen Fluoride**|R. Angelini et.al.|[2308.13419v1](http://arxiv.org/abs/2308.13419v1)|null|
+|**2023-08-25**|**Adiabatic Shortcuts Completion in Quantum Field Theory: Annihilation of Created Particles**|Nicolás F. Del Grosso et.al.|[2308.13397v1](http://arxiv.org/abs/2308.13397v1)|null|
+|**2023-08-25**|**Separation of interacting active particles in an asymmetric channel**|Ankit Gupta et.al.|[2308.13390v1](http://arxiv.org/abs/2308.13390v1)|null|
+|**2023-08-25**|**Pure measure of bending for soft plates**|Epifanio G. Virga et.al.|[2308.13378v1](http://arxiv.org/abs/2308.13378v1)|null|
+|**2023-08-25**|**Optically Detected Magnetic Resonance of Nitrogen-Vacancy Centers in Diamond under Weak Laser Excitation**|Yong-Hong Yu et.al.|[2308.13351v1](http://arxiv.org/abs/2308.13351v1)|null|
+|**2023-08-25**|**Is the topological surface state floating on top of a thick lead layer? The case of the Pb/Bi2Se3 interface**|Oreste De Luca et.al.|[2308.13316v1](http://arxiv.org/abs/2308.13316v1)|null|
+|**2023-08-25**|**Flexo-electricity of the dowser texture**|Pawel Pieranski et.al.|[2308.13226v1](http://arxiv.org/abs/2308.13226v1)|null|
+|**2023-08-24**|**Elastic shakedown and roughness evolution in repeated elastic-plastic contact**|Lucas Frérot et.al.|[2308.13060v1](http://arxiv.org/abs/2308.13060v1)|null|
+|**2023-08-24**|**Complex motion of steerable vesicular robots filled with active colloidal rods**|Sophie Y. Lee et.al.|[2308.13059v1](http://arxiv.org/abs/2308.13059v1)|null|
+|**2023-08-24**|**Hydrogen bonding dynamics and supramolecular dynamics of monohydroxy alcohols**|Shinian Cheng et.al.|[2308.13013v1](http://arxiv.org/abs/2308.13013v1)|null|
 |**2023-08-24**|**Mean field elastic moduli of a three-dimensional cell-based vertex model**|Kyungeun Kim et.al.|[2308.12892v1](http://arxiv.org/abs/2308.12892v1)|null|
 |**2023-08-24**|**Granular convergence as an iterated local map**|Anna Movsheva et.al.|[2308.12849v1](http://arxiv.org/abs/2308.12849v1)|null|
 |**2023-08-24**|**PyMembrane: A flexible framework for efficient simulations of elastic and liquid membranes**|D. A. Matoz-Fernandez et.al.|[2308.12754v1](http://arxiv.org/abs/2308.12754v1)|null|
