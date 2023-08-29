@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Loss of Detailed Balance in Equilibrium due to Partial Quantum Decoherence: A Quantum Graph Analogue**|Lei Chen et.al.|[2308.14712v1](http://arxiv.org/abs/2308.14712v1)|null|
+|**2023-08-28**|**Towards rational design of power-law rheology via DNA nanostar networks**|Nathaniel Conrad et.al.|[2308.14699v1](http://arxiv.org/abs/2308.14699v1)|null|
+|**2023-08-28**|**Large strain micromechanics of thermoplastic elastomers with random microstructures**|Hansohl Cho et.al.|[2308.14607v1](http://arxiv.org/abs/2308.14607v1)|null|
+|**2023-08-28**|**Two-dimensional weak topological insulators and superconductors**|Yuanjun Jin et.al.|[2308.14564v1](http://arxiv.org/abs/2308.14564v1)|null|
+|**2023-08-28**|**Spreading of a viscoelastic drop on a solid substrate**|Peyman Rostami et.al.|[2308.14515v1](http://arxiv.org/abs/2308.14515v1)|null|
+|**2023-08-28**|**Deep learning-based computational method for soft matter dynamics: Deep Onsager-Machlup method**|Zhihao Li et.al.|[2308.14513v1](http://arxiv.org/abs/2308.14513v1)|null|
+|**2023-08-28**|**Aging behavior of the localization length in a colloidal glass**|R. Angelini et.al.|[2308.14472v1](http://arxiv.org/abs/2308.14472v1)|null|
+|**2023-08-28**|**Structural and microscopic relaxations in a colloidal glass**|Flavio Augusto de Melo Marques et.al.|[2308.14447v1](http://arxiv.org/abs/2308.14447v1)|null|
+|**2023-08-28**|**Dichotomic Aging Behaviour in a Colloidal Glass**|Roberta Angelini et.al.|[2308.14425v1](http://arxiv.org/abs/2308.14425v1)|null|
+|**2023-08-27**|**Soft glassy materials with tunable extensibility**|Samya Sen et.al.|[2308.14223v1](http://arxiv.org/abs/2308.14223v1)|null|
+|**2023-08-27**|**Scaling regimes for wormlike chains confined to cylindrical surfaces under tension**|Greg Morrison et.al.|[2308.14162v1](http://arxiv.org/abs/2308.14162v1)|null|
+|**2023-08-27**|**Viscoelastic active diffusion governed by nonequilibrium fractional Langevin equations: underdamped dynamics and ergodicity breaking**|Sungmin Joo et.al.|[2308.14041v1](http://arxiv.org/abs/2308.14041v1)|null|
+|**2023-08-27**|**Biocompatible wearable touch panel based on ionically conductive organic hydrogels with anti-freezing, anti-dehydration, self-healing, and underwater adhesion properties**|Zhenglin Chen et.al.|[2308.14006v1](http://arxiv.org/abs/2308.14006v1)|null|
+|**2023-08-26**|**Exact current blockade maps of dsDNA bound motifs driven through a solitary nanopore using electrokinetic Brownian dynamics**|Swarnadeep Seth et.al.|[2308.13931v1](http://arxiv.org/abs/2308.13931v1)|null|
+|**2023-08-26**|**Hellmann Feynman Theorem in Non-Hermitian system**|Gaurav Hajong et.al.|[2308.13914v1](http://arxiv.org/abs/2308.13914v1)|null|
+|**2023-08-26**|**Activity Induced Enhanced Diffusion of a Polymer in Poor Solvent**|Suman Majumder et.al.|[2308.13856v1](http://arxiv.org/abs/2308.13856v1)|null|
+|**2023-08-26**|**Entropic Timescales of Dynamic Heterogeneity in Supercooled Liquid**|Vinay Vaibhav et.al.|[2308.13720v1](http://arxiv.org/abs/2308.13720v1)|null|
+|**2023-08-25**|**Thermal conductivity of Barium Bismuthate at low temperatures**|A. Henriques et.al.|[2308.13681v1](http://arxiv.org/abs/2308.13681v1)|null|
+|**2023-08-25**|**Deformation Decomposition versus Energy Decomposition for Chemo- and Poro- Mechanics**|Janel Chua et.al.|[2308.13644v1](http://arxiv.org/abs/2308.13644v1)|null|
 |**2023-08-25**|**Symmetry-group-protected microfluidics for multiplexed stress-free manipulations**|Jeremias Gonzalez et.al.|[2308.13464v1](http://arxiv.org/abs/2308.13464v1)|null|
 |**2023-08-25**|**Structural and Microscopic Relaxation Processes in Liquid Hydrogen Fluoride**|R. Angelini et.al.|[2308.13419v1](http://arxiv.org/abs/2308.13419v1)|null|
 |**2023-08-25**|**Adiabatic Shortcuts Completion in Quantum Field Theory: Annihilation of Created Particles**|Nicolás F. Del Grosso et.al.|[2308.13397v1](http://arxiv.org/abs/2308.13397v1)|null|
@@ -3428,6 +3447,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-26**|**Non-equilibrium spin polarisation via interfacial exchange-field spin filtering**|Prasanta Muduli et.al.|[2308.13855v1](http://arxiv.org/abs/2308.13855v1)|null|
 |**2023-08-22**|**Observation of Current-induced Nonlinear Spin Polarization in Pt-Py Bilayers**|Toshiyuki Kodama et.al.|[2308.11156v1](http://arxiv.org/abs/2308.11156v1)|null|
 |**2023-08-15**|**Current-induced magnetization switching in a magnetic topological insulator heterostructure**|Erik Zimmermann et.al.|[2308.07657v1](http://arxiv.org/abs/2308.07657v1)|null|
 |**2023-08-15**|**Nature of the current-induced insulator-to-metal transition in Ca $_2$RuO$_4$ as revealed by transport-ARPES**|Cissy T Suen et.al.|[2308.05803v2](http://arxiv.org/abs/2308.05803v2)|null|
@@ -3512,6 +3532,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-26**|**Magnetism and berry phase manipulation in an emergent structure of perovskite ruthenate by (111) strain engineering**|Zhaoqing Ding et.al.|[2308.13825v1](http://arxiv.org/abs/2308.13825v1)|null|
+|**2023-08-25**|**Tuning the Curie temperature of a 2D magnet/topological insulator heterostructure to above room temperature by epitaxial growth**|Wenyi Zhou et.al.|[2308.13620v1](http://arxiv.org/abs/2308.13620v1)|null|
 |**2023-08-24**|**Nearly-room-temperature ferromagnetism and tunable anomalous Hall effect in atomically thin Fe4CoGeTe2**|Shaohua Yan et.al.|[2308.12765v1](http://arxiv.org/abs/2308.12765v1)|null|
 |**2023-08-22**|**Altermagnetic Orbital Chern Insulator in Twisted MoTe $_{2}$**|Feng-Ren Fan et.al.|[2308.11454v1](http://arxiv.org/abs/2308.11454v1)|null|
 |**2023-08-22**|**Tuning of Electrical, Magnetic, and Topological Properties of Magnetic Weyl Semimetal Mn $_{3+x}$ Ge by Fe doping**|Susanta Ghosh et.al.|[2308.11183v1](http://arxiv.org/abs/2308.11183v1)|null|
