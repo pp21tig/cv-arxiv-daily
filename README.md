@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Nonequilibrium glass transitions in the spherical $p$ -spin model with antisymmetric interactions**|Chiu Fan Lee et.al.|[2308.15424v1](http://arxiv.org/abs/2308.15424v1)|null|
+|**2023-08-29**|**A density functional theory approach to interpret elastowetting of hydrogels**|Priyam Chakraborty et.al.|[2308.15412v1](http://arxiv.org/abs/2308.15412v1)|null|
+|**2023-08-29**|**Theory of liquids: from excitations to thermodynamics**|K. Trachenko et.al.|[2308.15205v1](http://arxiv.org/abs/2308.15205v1)|null|
+|**2023-08-29**|**Non-equilibrium cluster-cluster aggregation in the presence of anchoring sites**|Renaud Baillou et.al.|[2308.15162v1](http://arxiv.org/abs/2308.15162v1)|null|
+|**2023-08-29**|**Precipitation induced filament pattern of injected fluid controlled by structured cell**|Shunsuke Tanaka et.al.|[2308.15086v1](http://arxiv.org/abs/2308.15086v1)|null|
+|**2023-08-29**|**Viscoelastic materials are most energy efficient when loaded and unloaded at equal rates**|Lucien Tsai et.al.|[2308.14955v1](http://arxiv.org/abs/2308.14955v1)|null|
+|**2023-08-28**|**Aggregation and structural phase transitions of semiflexible polymer bundles: a braided circuit topology approach**|Jonas Berx et.al.|[2308.14883v1](http://arxiv.org/abs/2308.14883v1)|null|
+|**2023-08-28**|**Probing Inhomogeneous Cuprate Superconductivity by Terahertz Josephson Echo Spectroscopy**|Albert Liu et.al.|[2308.14849v1](http://arxiv.org/abs/2308.14849v1)|null|
 |**2023-08-28**|**Loss of Detailed Balance in Equilibrium due to Partial Quantum Decoherence: A Quantum Graph Analogue**|Lei Chen et.al.|[2308.14712v1](http://arxiv.org/abs/2308.14712v1)|null|
 |**2023-08-28**|**Towards rational design of power-law rheology via DNA nanostar networks**|Nathaniel Conrad et.al.|[2308.14699v1](http://arxiv.org/abs/2308.14699v1)|null|
 |**2023-08-28**|**Large strain micromechanics of thermoplastic elastomers with random microstructures**|Hansohl Cho et.al.|[2308.14607v1](http://arxiv.org/abs/2308.14607v1)|null|
@@ -3528,6 +3536,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343v1](http://arxiv.org/abs/2308.15343v1)|null|
+|**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977v1](http://arxiv.org/abs/2308.14977v1)|null|
+|**2023-08-28**|**Large anomalous Hall effect in single crystals of the kagome Weyl ferromagnet Fe $_3$ Sn**|Bishnu P. Belbase et.al.|[2308.14826v1](http://arxiv.org/abs/2308.14826v1)|null|
 |**2023-08-26**|**Magnetism and berry phase manipulation in an emergent structure of perovskite ruthenate by (111) strain engineering**|Zhaoqing Ding et.al.|[2308.13825v1](http://arxiv.org/abs/2308.13825v1)|null|
 |**2023-08-25**|**Tuning the Curie temperature of a 2D magnet/topological insulator heterostructure to above room temperature by epitaxial growth**|Wenyi Zhou et.al.|[2308.13620v1](http://arxiv.org/abs/2308.13620v1)|null|
 |**2023-08-24**|**Nearly-room-temperature ferromagnetism and tunable anomalous Hall effect in atomically thin Fe4CoGeTe2**|Shaohua Yan et.al.|[2308.12765v1](http://arxiv.org/abs/2308.12765v1)|null|
