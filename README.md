@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Computer Simulation of Carbonization and Graphitization of Coal**|C. Ugwumadu et.al.|[2308.16091v1](http://arxiv.org/abs/2308.16091v1)|null|
+|**2023-08-30**|**Substrate geometry affects population dynamics in a bacterial biofilm**|Witold Postek et.al.|[2308.16046v1](http://arxiv.org/abs/2308.16046v1)|null|
+|**2023-08-30**|**Memory-induced alignment of colloidal dumbbells**|Karthika Krishna Kumar et.al.|[2308.16023v1](http://arxiv.org/abs/2308.16023v1)|null|
+|**2023-08-30**|**Interfacial fluid rheology of soft particles**|Maximilian M. Schmidt et.al.|[2308.15933v1](http://arxiv.org/abs/2308.15933v1)|null|
+|**2023-08-30**|**Stochastic Thermodynamics of Thermophoresis**|Mingnan Ding et.al.|[2308.15764v1](http://arxiv.org/abs/2308.15764v1)|null|
+|**2023-08-30**|**Form factor of local operators in the generalized algebraic Bethe ansatz**|G. Kulkarni et.al.|[2308.15748v1](http://arxiv.org/abs/2308.15748v1)|null|
+|**2023-08-30**|**Microscopic Green's function approach for generalized Dirac Hamiltonians**|Jeyson Támara-Isaza et.al.|[2308.15685v1](http://arxiv.org/abs/2308.15685v1)|null|
+|**2023-08-29**|**Chiral fluid membranes with orientational order and multiple edges**|Lijie Ding et.al.|[2308.15526v1](http://arxiv.org/abs/2308.15526v1)|null|
 |**2023-08-29**|**Nonequilibrium glass transitions in the spherical $p$ -spin model with antisymmetric interactions**|Chiu Fan Lee et.al.|[2308.15424v1](http://arxiv.org/abs/2308.15424v1)|null|
 |**2023-08-29**|**A density functional theory approach to interpret elastowetting of hydrogels**|Priyam Chakraborty et.al.|[2308.15412v1](http://arxiv.org/abs/2308.15412v1)|null|
 |**2023-08-29**|**Theory of liquids: from excitations to thermodynamics**|K. Trachenko et.al.|[2308.15205v1](http://arxiv.org/abs/2308.15205v1)|null|
