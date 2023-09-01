@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Natural Quantum Monte Carlo Computation of Excited States**|David Pfau et.al.|[2308.16848v1](http://arxiv.org/abs/2308.16848v1)|null|
+|**2023-08-31**|**Motor crosslinking augments elasticity in active nematics**|Steven A. Redford et.al.|[2308.16831v1](http://arxiv.org/abs/2308.16831v1)|null|
+|**2023-08-31**|**A predictive model for fluid-saturated, brittle granular materials during high-velocity impact events**|Aaron S. Baumgarten et.al.|[2308.16811v1](http://arxiv.org/abs/2308.16811v1)|null|
+|**2023-08-31**|**A comparison between the FENE-P and sPTT constitutive models in Large Amplitude Oscillatory Shear (LAOS)**|Thomas P John et.al.|[2308.16790v1](http://arxiv.org/abs/2308.16790v1)|null|
+|**2023-08-31**|**Interlayer vibrational hybrid normal mode enabling molecular chiral phonons**|Hanen Hamdi et.al.|[2308.16779v1](http://arxiv.org/abs/2308.16779v1)|null|
+|**2023-08-31**|**Scalable Substrate Development for Aqueous Biological Samples for Atom Probe Tomography**|Eric V. Woods et.al.|[2308.16672v1](http://arxiv.org/abs/2308.16672v1)|null|
+|**2023-08-31**|**Gyrophilia: Harnessing Centrifugal and Euler Forces for Tunable Buckling of a Rotating Elastica**|Eduardo Gutierrez-Prieto et.al.|[2308.16667v1](http://arxiv.org/abs/2308.16667v1)|null|
+|**2023-08-31**|**Circle packing in arbitrary domains**|Paolo Amore et.al.|[2308.16523v1](http://arxiv.org/abs/2308.16523v1)|null|
+|**2023-08-31**|**Reentrant phase behavior in systems with density-induced tunneling**|A. Krzywicka T. P. Polak et.al.|[2308.16423v1](http://arxiv.org/abs/2308.16423v1)|null|
+|**2023-08-30**|**Charge Asymmetry Suppresses Coarsening Dynamics in Polyelectrolyte Complex Coacervation**|Shensheng Chen et.al.|[2308.16334v1](http://arxiv.org/abs/2308.16334v1)|null|
 |**2023-08-30**|**Computer Simulation of Carbonization and Graphitization of Coal**|C. Ugwumadu et.al.|[2308.16091v1](http://arxiv.org/abs/2308.16091v1)|null|
 |**2023-08-30**|**Substrate geometry affects population dynamics in a bacterial biofilm**|Witold Postek et.al.|[2308.16046v1](http://arxiv.org/abs/2308.16046v1)|null|
 |**2023-08-30**|**Memory-induced alignment of colloidal dumbbells**|Karthika Krishna Kumar et.al.|[2308.16023v1](http://arxiv.org/abs/2308.16023v1)|null|
@@ -3649,6 +3659,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Post-experiment coincidence counting method for coincidence detection techniques**|Dezhong Cao et.al.|[2308.16746v1](http://arxiv.org/abs/2308.16746v1)|null|
 |**2023-08-22**|**Dynamics of K $_2$Ni$_2$(SO$_4$)$_3$ governed by proximity to a 3D spin liquid model**|M. G. Gonzalez et.al.|[2308.11746v1](http://arxiv.org/abs/2308.11746v1)|null|
 |**2023-08-22**|**Short-range magnetic correlations in quasicrystalline i-Tb-Cd**|P. Das et.al.|[2308.11680v1](http://arxiv.org/abs/2308.11680v1)|null|
 |**2023-08-18**|**Spin-wave dispersion and magnon chirality in multiferroic TbMnO3**|S. Holbein et.al.|[2308.09407v1](http://arxiv.org/abs/2308.09407v1)|null|
