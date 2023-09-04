@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**PolyGET: Accelerating Polymer Simulations by Accurate and Generalizable Forcefield with Equivariant Transformer**|Rui Feng et.al.|[2309.00585v1](http://arxiv.org/abs/2309.00585v1)|null|
+|**2023-09-01**|**Modulating Hierarchical Self-Assembly In Thermoresponsive Intrinsically Disordered Proteins Through High-Temperature Incubation Time**|Vaishali Sethi et.al.|[2309.00582v1](http://arxiv.org/abs/2309.00582v1)|null|
+|**2023-09-01**|**Escaping kinetic traps using non-reciprocal interactions**|Saeed Osat et.al.|[2309.00562v1](http://arxiv.org/abs/2309.00562v1)|null|
+|**2023-09-01**|**How heat propagates in `non-Fermi liquid' $^3$ He**|Kamran Behnia et.al.|[2309.00502v1](http://arxiv.org/abs/2309.00502v1)|null|
+|**2023-09-01**|**A Retrofit Sensing Strategy for Soft Fluidic Robots**|Shibo Zou et.al.|[2309.00473v1](http://arxiv.org/abs/2309.00473v1)|null|
+|**2023-09-01**|**Ordering kinetics and steady states of XY-model with ferromagnetic and nematic interaction**|Partha Sarathi Mondal et.al.|[2309.00455v1](http://arxiv.org/abs/2309.00455v1)|null|
+|**2023-09-01**|**The manifold rheology of fluidized granular media**|Olfa D'Angelo et.al.|[2309.00413v1](http://arxiv.org/abs/2309.00413v1)|null|
+|**2023-09-01**|**Topological and nontopological degeneracies in generalized string-net models**|Anna Ritz-Zwilling et.al.|[2309.00343v1](http://arxiv.org/abs/2309.00343v1)|null|
+|**2023-09-01**|**Rethinking Ductility -- A Study Into the Size-Affected Fracture of Polymers**|Zainab S. Patel et.al.|[2309.00279v1](http://arxiv.org/abs/2309.00279v1)|null|
+|**2023-08-31**|**From Flow to Jamming: Lattice Gas Automaton Simulations in Granular Materials**|M. Gaber et.al.|[2309.00165v1](http://arxiv.org/abs/2309.00165v1)|null|
+|**2023-08-31**|**Notes on a non-thermal fluctuation-dissipation relation in quantum Brownian motion**|Xinyi Chen-Lin et.al.|[2309.00151v1](http://arxiv.org/abs/2309.00151v1)|null|
+|**2023-08-31**|**Conformation and dynamics of partially active linear polymers**|Marin Vatin et.al.|[2309.00122v1](http://arxiv.org/abs/2309.00122v1)|null|
+|**2023-08-31**|**Bellybutton: Accessible and Customizable Deep-Learning Image Segmentation**|Sam Dillavou et.al.|[2309.00058v1](http://arxiv.org/abs/2309.00058v1)|null|
 |**2023-08-31**|**Natural Quantum Monte Carlo Computation of Excited States**|David Pfau et.al.|[2308.16848v1](http://arxiv.org/abs/2308.16848v1)|null|
 |**2023-08-31**|**Motor crosslinking augments elasticity in active nematics**|Steven A. Redford et.al.|[2308.16831v1](http://arxiv.org/abs/2308.16831v1)|**[link](https://github.com/gardel-lab/responsefunction)**|
 |**2023-08-31**|**A predictive model for fluid-saturated, brittle granular materials during high-velocity impact events**|Aaron S. Baumgarten et.al.|[2308.16811v1](http://arxiv.org/abs/2308.16811v1)|null|
@@ -3288,6 +3301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Phonon-Dressed Third-Harmonic Generation in Diamond**|Jiaoyang Zheng et.al.|[2309.00167v1](http://arxiv.org/abs/2309.00167v1)|null|
 |**2023-08-20**|**Electron Imaging of Nanoscale Charge Distributions Induced by Femtosecond Light Pulses**|Jonathan T. Weber et.al.|[2308.10272v1](http://arxiv.org/abs/2308.10272v1)|null|
 |**2023-08-17**|**Transient Ellipsometry Measurements of the Specular Inverse Faraday Effect in Transition Metals**|Víctor H. Ortiz et.al.|[2308.09150v1](http://arxiv.org/abs/2308.09150v1)|null|
 |**2023-08-13**|**Ultrafast light-induced long range antiferromagnetic correlations in paramagnets**|Lorenzo Amato et.al.|[2308.06758v1](http://arxiv.org/abs/2308.06758v1)|null|
@@ -3554,6 +3568,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Saturation of the anomalous Hall effect at high magnetic fields in altermagnetic RuO2**|Teresa Tschirner et.al.|[2309.00568v1](http://arxiv.org/abs/2309.00568v1)|null|
 |**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343v2](http://arxiv.org/abs/2308.15343v2)|null|
 |**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977v1](http://arxiv.org/abs/2308.14977v1)|null|
 |**2023-08-28**|**Large anomalous Hall effect in single crystals of the kagome Weyl ferromagnet Fe $_3$ Sn**|Bishnu P. Belbase et.al.|[2308.14826v1](http://arxiv.org/abs/2308.14826v1)|null|
