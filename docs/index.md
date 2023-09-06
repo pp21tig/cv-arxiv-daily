@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Probing defect induced room temperature ferromagnetism in CVD grown MoO3 flakes: A correlation with electronic structure and first principle-based calculations**|Sharmistha Dey et.al.|[2309.02277v1](http://arxiv.org/abs/2309.02277v1)|null|
+|**2023-09-05**|**Cooling of a granular gas mixture in microgravity**|Dmitry Puzyrev et.al.|[2309.02143v1](http://arxiv.org/abs/2309.02143v1)|null|
+|**2023-09-05**|**Non-diffusive dynamics in a colloidal glass: aging versus rejuvenation**|Roberta Angelini et.al.|[2309.02104v1](http://arxiv.org/abs/2309.02104v1)|null|
+|**2023-09-05**|**Rapid droplet leads the Liquid-Infused Slippery Surfaces more slippery**|Kun Li et.al.|[2309.02038v1](http://arxiv.org/abs/2309.02038v1)|null|
+|**2023-09-04**|**Nonequilibrium capillary self-assembly**|Stuart J. Thomson et.al.|[2309.01668v1](http://arxiv.org/abs/2309.01668v1)|null|
+|**2023-09-04**|**Evolution of Maximum Bending Strain on Poisson's Ratio Distribution**|Yang Li et.al.|[2309.01642v1](http://arxiv.org/abs/2309.01642v1)|null|
+|**2023-09-04**|**Sublimation of silicene and thin silicon films: a view from molecular dynamics simulation**|Yu. D. Fomin et.al.|[2309.01521v1](http://arxiv.org/abs/2309.01521v1)|null|
+|**2023-09-04**|**Curvature sensing of curvature-inducing proteins with internal structure**|Hiroshi Noguchi et.al.|[2309.01518v1](http://arxiv.org/abs/2309.01518v1)|null|
+|**2023-09-04**|**Shear flow of non-Brownian rod-sphere mixtures near jamming**|C. Anzivino et.al.|[2309.01508v1](http://arxiv.org/abs/2309.01508v1)|null|
+|**2023-09-04**|**Collective and non-collective molecular dynamics in a ferroelectric nematic liquid crystal studied by broadband dielectric spectroscopy**|Aitor Erkoreka et.al.|[2309.01497v1](http://arxiv.org/abs/2309.01497v1)|null|
+|**2023-09-04**|**Acoustic realization of projective mirror Chern insulators**|Tianzi Li et.al.|[2309.01484v1](http://arxiv.org/abs/2309.01484v1)|null|
+|**2023-09-04**|**Conceptualizing flexible papers using cellulose model surfaces and polymer particles**|Cassia Lux et.al.|[2309.01470v1](http://arxiv.org/abs/2309.01470v1)|null|
+|**2023-09-04**|**Energy Spectrum Theory of Incommensurate Systems**|Zhe He et.al.|[2309.01367v1](http://arxiv.org/abs/2309.01367v1)|null|
+|**2023-09-03**|**Advances in machine-learning-based sampling motivated by lattice quantum chromodynamics**|Kyle Cranmer et.al.|[2309.01156v1](http://arxiv.org/abs/2309.01156v1)|null|
+|**2023-09-03**|**Energy bands in a three dimension simple cubic lattice of contact potential**|Yi-Cai Zhang et.al.|[2309.01145v1](http://arxiv.org/abs/2309.01145v1)|null|
+|**2023-09-03**|**Geometry, mechanics and actuation of intrinsically curved folds**|Fan Feng et.al.|[2309.01088v1](http://arxiv.org/abs/2309.01088v1)|null|
+|**2023-09-03**|**A solid-state high harmonic generation spectrometer with cryogenic cooling**|Finn Kohrell et.al.|[2309.01049v1](http://arxiv.org/abs/2309.01049v1)|null|
+|**2023-09-02**|**Modeling single-molecule stretching experiments using statistical thermodynamics**|Michael R. Buche et.al.|[2309.01009v1](http://arxiv.org/abs/2309.01009v1)|**[link](https://github.com/sandialabs/Polymers)**|
+|**2023-09-02**|**Effect of cholesterol on the mechanical stability of gel-phase phospholipid bilayers studied by AFM force spectroscopy**|Salome Mielke et.al.|[2309.00935v1](http://arxiv.org/abs/2309.00935v1)|null|
+|**2023-09-02**|**A path integral approximation of conditional probability densities with application to stochastic elastic rods**|Giulio Corazza et.al.|[2309.00863v1](http://arxiv.org/abs/2309.00863v1)|null|
 |**2023-09-01**|**PolyGET: Accelerating Polymer Simulations by Accurate and Generalizable Forcefield with Equivariant Transformer**|Rui Feng et.al.|[2309.00585v1](http://arxiv.org/abs/2309.00585v1)|null|
 |**2023-09-01**|**Modulating Hierarchical Self-Assembly In Thermoresponsive Intrinsically Disordered Proteins Through High-Temperature Incubation Time**|Vaishali Sethi et.al.|[2309.00582v1](http://arxiv.org/abs/2309.00582v1)|null|
 |**2023-09-01**|**Escaping kinetic traps using non-reciprocal interactions**|Saeed Osat et.al.|[2309.00562v1](http://arxiv.org/abs/2309.00562v1)|null|
@@ -3487,6 +3507,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-03**|**Direct visualization of electric current induced dipoles of atomic impurities**|Yaowu Liu et.al.|[2309.01182v1](http://arxiv.org/abs/2309.01182v1)|null|
 |**2023-08-26**|**Non-equilibrium spin polarisation via interfacial exchange-field spin filtering**|Prasanta Muduli et.al.|[2308.13855v1](http://arxiv.org/abs/2308.13855v1)|null|
 |**2023-08-22**|**Observation of Current-induced Nonlinear Spin Polarization in Pt-Py Bilayers**|Toshiyuki Kodama et.al.|[2308.11156v1](http://arxiv.org/abs/2308.11156v1)|null|
 |**2023-08-15**|**Current-induced magnetization switching in a magnetic topological insulator heterostructure**|Erik Zimmermann et.al.|[2308.07657v1](http://arxiv.org/abs/2308.07657v1)|null|
@@ -3572,6 +3593,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-02**|**Room-Temperature Anomalous Hall Effect in Graphene in Interfacial Magnetic Proximity with EuO Grown by Topotactic Reduction**|Satakshi Pandey et.al.|[2309.00892v1](http://arxiv.org/abs/2309.00892v1)|null|
 |**2023-09-01**|**Saturation of the anomalous Hall effect at high magnetic fields in altermagnetic RuO2**|Teresa Tschirner et.al.|[2309.00568v1](http://arxiv.org/abs/2309.00568v1)|null|
 |**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343v2](http://arxiv.org/abs/2308.15343v2)|null|
 |**2023-08-29**|**Efficient thermo-spin conversion in van der Waals ferromagnet FeGaTe**|Shuhan Liu et.al.|[2308.14977v1](http://arxiv.org/abs/2308.14977v1)|null|
@@ -3674,6 +3696,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-02**|**Diffuse Inelastic Neutron Scattering from Anharmonic Vibrations in Cuprite**|C. N. Saunders et.al.|[2309.00780v1](http://arxiv.org/abs/2309.00780v1)|null|
 |**2023-08-31**|**Post-experiment coincidence counting method for coincidence detection techniques**|Dezhong Cao et.al.|[2308.16746v1](http://arxiv.org/abs/2308.16746v1)|null|
 |**2023-08-22**|**Dynamics of K $_2$Ni$_2$(SO$_4$)$_3$ governed by proximity to a 3D spin liquid model**|M. G. Gonzalez et.al.|[2308.11746v1](http://arxiv.org/abs/2308.11746v1)|null|
 |**2023-08-22**|**Short-range magnetic correlations in quasicrystalline i-Tb-Cd**|P. Das et.al.|[2308.11680v1](http://arxiv.org/abs/2308.11680v1)|null|
