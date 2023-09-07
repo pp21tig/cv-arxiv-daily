@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Harmonic chain far from equilibrium: single-file diffusion, long-range order, and hyperuniformity**|Harukuni Ikeda et.al.|[2309.03155v1](http://arxiv.org/abs/2309.03155v1)|null|
+|**2023-09-06**|**Majorana fermions and quantum information with fractional topology and disorder**|Ephraim Bernhardt et.al.|[2309.03127v1](http://arxiv.org/abs/2309.03127v1)|null|
+|**2023-09-06**|**The Faraday effect and phase transition in the CH 3 NH 3 PbI 3 halide perovskite single crystal**|Anastasia A. Shumitskaya et.al.|[2309.03125v1](http://arxiv.org/abs/2309.03125v1)|null|
+|**2023-09-06**|**Quantifying the limits of controllability for the nitrogen-vacancy electron spin defect**|Paul Kairys et.al.|[2309.03120v1](http://arxiv.org/abs/2309.03120v1)|null|
+|**2023-09-06**|**Hydrodynamics of passive and active rods in a temperature gradient**|Anweshika Pattanayak et.al.|[2309.03062v1](http://arxiv.org/abs/2309.03062v1)|null|
+|**2023-09-06**|**In-plane dominant anisotropy stochastic magnetic tunnel junction for probabilistic computing: A Fokker-Planck study**|Chee Kwan Gan et.al.|[2309.03056v1](http://arxiv.org/abs/2309.03056v1)|null|
+|**2023-09-06**|**Topology of Bi $_2$Se$_3$ nanosheets**|Lucas Maisel Licerán et.al.|[2309.02792v1](http://arxiv.org/abs/2309.02792v1)|null|
+|**2023-09-06**|**Stochastic nucleosome disassembly mediated by remodelers and histone fragmentation**|Xiangting Li et.al.|[2309.02736v1](http://arxiv.org/abs/2309.02736v1)|null|
+|**2023-09-05**|**Transverse Quantum Fluids**|Anatoly Kuklov et.al.|[2309.02501v1](http://arxiv.org/abs/2309.02501v1)|null|
+|**2023-09-05**|**Cosmological Implications of Kalb-Ramond-Like-Particles**|Christian Capanelli et.al.|[2309.02485v1](http://arxiv.org/abs/2309.02485v1)|null|
+|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v1](http://arxiv.org/abs/2309.02468v1)|null|
 |**2023-09-05**|**Probing defect induced room temperature ferromagnetism in CVD grown MoO3 flakes: A correlation with electronic structure and first principle-based calculations**|Sharmistha Dey et.al.|[2309.02277v1](http://arxiv.org/abs/2309.02277v1)|null|
 |**2023-09-05**|**Cooling of a granular gas mixture in microgravity**|Dmitry Puzyrev et.al.|[2309.02143v1](http://arxiv.org/abs/2309.02143v1)|null|
 |**2023-09-05**|**Non-diffusive dynamics in a colloidal glass: aging versus rejuvenation**|Roberta Angelini et.al.|[2309.02104v1](http://arxiv.org/abs/2309.02104v1)|null|
