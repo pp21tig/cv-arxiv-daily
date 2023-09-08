@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**The $(2+δ)$ -dimensional theory of the electromechanics of lipid membranes: II. Balance laws**|Yannick A. D. Omar et.al.|[2309.03863v1](http://arxiv.org/abs/2309.03863v1)|null|
+|**2023-09-07**|**Hyperbolic lattices and two-dimensional Yang-Mills theory**|G. Shankar et.al.|[2309.03857v1](http://arxiv.org/abs/2309.03857v1)|null|
+|**2023-09-07**|**Temporal defects and topological transitions in parametric oscillations: theory and experiments**|Benjamin Apffel et.al.|[2309.03733v1](http://arxiv.org/abs/2309.03733v1)|null|
+|**2023-09-07**|**Higher-order topological phases in crystalline and non-crystalline systems: a review**|Yan-Bin Yang et.al.|[2309.03688v1](http://arxiv.org/abs/2309.03688v1)|null|
+|**2023-09-07**|**Fluctuations, uncertainty relations, and the geometry of quantum state manifolds**|Balázs Hetényi et.al.|[2309.03621v1](http://arxiv.org/abs/2309.03621v1)|null|
+|**2023-09-07**|**Introduction to Molecular-Scale Understanding of Surface Tension**|Yasutaka Yamaguchi et.al.|[2309.03448v1](http://arxiv.org/abs/2309.03448v1)|null|
+|**2023-09-06**|**Comment on "Two-component density functional theory study of quantized muons in solids"**|Mohammad Goli et.al.|[2309.03345v1](http://arxiv.org/abs/2309.03345v1)|null|
+|**2023-09-06**|**Nonrelativistic Dirac fermions on the torus**|Jeremías Aguilera-Damia et.al.|[2309.03302v1](http://arxiv.org/abs/2309.03302v1)|null|
 |**2023-09-06**|**Harmonic chain far from equilibrium: single-file diffusion, long-range order, and hyperuniformity**|Harukuni Ikeda et.al.|[2309.03155v1](http://arxiv.org/abs/2309.03155v1)|null|
 |**2023-09-06**|**Majorana fermions and quantum information with fractional topology and disorder**|Ephraim Bernhardt et.al.|[2309.03127v1](http://arxiv.org/abs/2309.03127v1)|null|
 |**2023-09-06**|**The Faraday effect and phase transition in the CH 3 NH 3 PbI 3 halide perovskite single crystal**|Anastasia A. Shumitskaya et.al.|[2309.03125v1](http://arxiv.org/abs/2309.03125v1)|null|
