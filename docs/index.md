@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Sequences of dislocation reactions and helicity transformations in tubular crystals**|Andrei Zakharov et.al.|[2309.04417v1](http://arxiv.org/abs/2309.04417v1)|null|
+|**2023-09-08**|**The role of tumbling in bacterial scattering at convex obstacles**|Theresa Jakuszeit et.al.|[2309.04326v1](http://arxiv.org/abs/2309.04326v1)|null|
+|**2023-09-08**|**Glassy phases of the Gaussian Core Model**|Vittoria Sposini et.al.|[2309.04323v1](http://arxiv.org/abs/2309.04323v1)|null|
+|**2023-09-08**|**Universal diffusion of dendrimers in a semidilute solution of linear polymers**|Silpa Mariya et.al.|[2309.04290v1](http://arxiv.org/abs/2309.04290v1)|null|
+|**2023-09-08**|**Extreme Spontaneous Deformations of Active Crystals**|Xia-qing Shi et.al.|[2309.04212v1](http://arxiv.org/abs/2309.04212v1)|null|
+|**2023-09-08**|**Pair-Interactions of Self-Propelled SiO2-Pt Janus Colloids**|Karnika Singh et.al.|[2309.04165v1](http://arxiv.org/abs/2309.04165v1)|null|
+|**2023-09-08**|**Statistical models for nucleic acids**|Marco Zoli et.al.|[2309.04163v1](http://arxiv.org/abs/2309.04163v1)|null|
+|**2023-09-08**|**Shape-Morphing Dynamics of Soft Compliant Membranes for Drag and Turbulence Modulation**|Varghese Mathai et.al.|[2309.04136v1](http://arxiv.org/abs/2309.04136v1)|null|
+|**2023-09-07**|**Nonlinear Lifshitz Photon Theory in Condensed Matter Systems**|Yi-Hsien Du et.al.|[2309.03946v1](http://arxiv.org/abs/2309.03946v1)|null|
+|**2023-09-07**|**Comment on "Spin and spin current -- From fundamentals to recent progress", by Sadamichi Maekawa et al, arXiv: 2211.02241v3**|Mikhail I. Dyakonov et.al.|[2309.03929v1](http://arxiv.org/abs/2309.03929v1)|null|
 |**2023-09-07**|**The $(2+δ)$ -dimensional theory of the electromechanics of lipid membranes: II. Balance laws**|Yannick A. D. Omar et.al.|[2309.03863v1](http://arxiv.org/abs/2309.03863v1)|null|
 |**2023-09-07**|**Hyperbolic lattices and two-dimensional Yang-Mills theory**|G. Shankar et.al.|[2309.03857v1](http://arxiv.org/abs/2309.03857v1)|null|
 |**2023-09-07**|**Temporal defects and topological transitions in parametric oscillations: theory and experiments**|Benjamin Apffel et.al.|[2309.03733v1](http://arxiv.org/abs/2309.03733v1)|null|
@@ -3526,6 +3536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Terahertz emission from silicon carbide nanostructures**|N. T. Bagraev et.al.|[2309.03927v1](http://arxiv.org/abs/2309.03927v1)|null|
 |**2023-09-03**|**Direct visualization of electric current induced dipoles of atomic impurities**|Yaowu Liu et.al.|[2309.01182v1](http://arxiv.org/abs/2309.01182v1)|null|
 |**2023-08-26**|**Non-equilibrium spin polarisation via interfacial exchange-field spin filtering**|Prasanta Muduli et.al.|[2308.13855v1](http://arxiv.org/abs/2308.13855v1)|null|
 |**2023-08-22**|**Observation of Current-induced Nonlinear Spin Polarization in Pt-Py Bilayers**|Toshiyuki Kodama et.al.|[2308.11156v1](http://arxiv.org/abs/2308.11156v1)|null|
@@ -3612,6 +3623,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Disorder in the non-linear anomalous Hall effect of $\mathcal{P}\mathcal{T}$ -symmetric Dirac fermions**|Rhonald Burgos Atencia et.al.|[2309.03947v1](http://arxiv.org/abs/2309.03947v1)|null|
 |**2023-09-02**|**Room-Temperature Anomalous Hall Effect in Graphene in Interfacial Magnetic Proximity with EuO Grown by Topotactic Reduction**|Satakshi Pandey et.al.|[2309.00892v1](http://arxiv.org/abs/2309.00892v1)|null|
 |**2023-09-01**|**Saturation of the anomalous Hall effect at high magnetic fields in altermagnetic RuO2**|Teresa Tschirner et.al.|[2309.00568v1](http://arxiv.org/abs/2309.00568v1)|null|
 |**2023-08-30**|**Switchable in-plane anomalous Hall effect by magnetization orientation in monolayer $\mathrm{Mn}_{3}\mathrm{Si}_{2}\mathrm{Te}_{6}$**|Ding Li et.al.|[2308.15343v2](http://arxiv.org/abs/2308.15343v2)|null|
