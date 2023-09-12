@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Introduction to the special issue dedicated to Michael J. Duff FRS on the occasion of his 70th birthday**|L. Borsten et.al.|[2309.05565v1](http://arxiv.org/abs/2309.05565v1)|null|
+|**2023-09-11**|**Topological phase transition and tunable surface states in YBi**|Ramesh Kumar et.al.|[2309.05553v1](http://arxiv.org/abs/2309.05553v1)|null|
+|**2023-09-11**|**Topological transitions in dissipatively coupled Su-Schrieffer-Heeger models**|Jayakrishnan M. P. Nair et.al.|[2309.05479v1](http://arxiv.org/abs/2309.05479v1)|null|
+|**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401v1](http://arxiv.org/abs/2309.05401v1)|null|
+|**2023-09-11**|**The role of molecular structure on the microscopic thermodynamics: unveiling with Femtosecond Optical Tweezers**|Ajitesh Singh et.al.|[2309.05385v1](http://arxiv.org/abs/2309.05385v1)|null|
+|**2023-09-11**|**In situ monitoring of block copolymer self-assembly through controlled dialysis with light and neutron scattering detection**|Martin Fauquignon et.al.|[2309.05333v1](http://arxiv.org/abs/2309.05333v1)|null|
+|**2023-09-10**|**Diffusio-phoretic fast swelling of chemically responsive hydrogels**|Chinmay Katke et.al.|[2309.05165v1](http://arxiv.org/abs/2309.05165v1)|null|
+|**2023-09-10**|**Pattern formation of phase-separated lipid domains in bilayer membranes**|Qiwei Yu et.al.|[2309.05160v1](http://arxiv.org/abs/2309.05160v1)|null|
+|**2023-09-10**|**Thermodynamic Limits of Electronic Systems**|David Gontier et.al.|[2309.05118v1](http://arxiv.org/abs/2309.05118v1)|null|
+|**2023-09-10**|**Critical-like gelation dynamics in cellulose nanocrystal suspensions**|Lise Morlet-Decarnin et.al.|[2309.05116v1](http://arxiv.org/abs/2309.05116v1)|null|
+|**2023-09-10**|**Inertial self-propelled particles in anisotropic environments**|Alexander R. Sprenger et.al.|[2309.04942v1](http://arxiv.org/abs/2309.04942v1)|null|
+|**2023-09-10**|**Thermotropic reentrant isotropy and antiferroelectricity in the ferroelectric nematic material RM734**|Xi Chen et.al.|[2309.04935v1](http://arxiv.org/abs/2309.04935v1)|null|
+|**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818v1](http://arxiv.org/abs/2309.04818v1)|null|
+|**2023-09-08**|**Measurement of the magnetic octupole susceptibility of PrV2Al20**|Linda Ye et.al.|[2309.04633v1](http://arxiv.org/abs/2309.04633v1)|null|
+|**2023-09-08**|**Limits of economy and fidelity for programmable assembly of size-controlled triply-periodic polyhedra**|Carlos M. Duque et.al.|[2309.04632v1](http://arxiv.org/abs/2309.04632v1)|null|
+|**2023-09-08**|**Fluid-driven slow slip and earthquake nucleation on a slip-weakening circular fault**|Alexis Sáez et.al.|[2309.04567v1](http://arxiv.org/abs/2309.04567v1)|null|
+|**2023-09-08**|**Flatband slows down polariton dynamics in strongly coupled cavities**|Yesenia A García Jomaso et.al.|[2309.04544v1](http://arxiv.org/abs/2309.04544v1)|null|
 |**2023-09-08**|**Sequences of dislocation reactions and helicity transformations in tubular crystals**|Andrei Zakharov et.al.|[2309.04417v1](http://arxiv.org/abs/2309.04417v1)|null|
 |**2023-09-08**|**The role of tumbling in bacterial scattering at convex obstacles**|Theresa Jakuszeit et.al.|[2309.04326v1](http://arxiv.org/abs/2309.04326v1)|null|
 |**2023-09-08**|**Glassy phases of the Gaussian Core Model**|Vittoria Sposini et.al.|[2309.04323v1](http://arxiv.org/abs/2309.04323v1)|null|
@@ -3475,6 +3492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Melting of excitonic insulator phase by an intense terahertz pulse in Ta $_2$NiSe$_5$**|Naoki Takamura et.al.|[2309.05286v1](http://arxiv.org/abs/2309.05286v1)|null|
 |**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
 |**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
 |**2023-06-07**|**Efficient and scalable scheme for overcoming the pulse energy bottleneck of single-cycle laser sources**|Lu Xu et.al.|[2306.04417v1](http://arxiv.org/abs/2306.04417v1)|null|
@@ -3532,6 +3550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-10**|**Resonant excitation of vortex gyrotropic mode via surface acoustic waves**|A. Koujok et.al.|[2309.04987v1](http://arxiv.org/abs/2309.04987v1)|null|
 |**2023-09-07**|**Terahertz emission from silicon carbide nanostructures**|N. T. Bagraev et.al.|[2309.03927v1](http://arxiv.org/abs/2309.03927v1)|null|
 |**2023-09-03**|**Direct visualization of electric current induced dipoles of atomic impurities**|Yaowu Liu et.al.|[2309.01182v1](http://arxiv.org/abs/2309.01182v1)|null|
 |**2023-08-26**|**Non-equilibrium spin polarisation via interfacial exchange-field spin filtering**|Prasanta Muduli et.al.|[2308.13855v1](http://arxiv.org/abs/2308.13855v1)|null|
@@ -3619,6 +3638,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656v1](http://arxiv.org/abs/2309.05656v1)|null|
+|**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401v1](http://arxiv.org/abs/2309.05401v1)|null|
 |**2023-09-07**|**Disorder in the non-linear anomalous Hall effect of $\mathcal{P}\mathcal{T}$ -symmetric Dirac fermions**|Rhonald Burgos Atencia et.al.|[2309.03947v1](http://arxiv.org/abs/2309.03947v1)|null|
 |**2023-09-02**|**Room-Temperature Anomalous Hall Effect in Graphene in Interfacial Magnetic Proximity with EuO Grown by Topotactic Reduction**|Satakshi Pandey et.al.|[2309.00892v1](http://arxiv.org/abs/2309.00892v1)|null|
 |**2023-09-01**|**Saturation of the anomalous Hall effect at high magnetic fields in altermagnetic RuO2**|Teresa Tschirner et.al.|[2309.00568v1](http://arxiv.org/abs/2309.00568v1)|null|
