@@ -1098,9 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Geometric semimetals**|Yu-Ping Lin et.al.|[2309.06442v1](http://arxiv.org/abs/2309.06442v1)|null|
+|**2023-09-12**|**Bifurcations and nonlinear dynamics of the follower force model for active filaments**|Bethany Clarke et.al.|[2309.06294v1](http://arxiv.org/abs/2309.06294v1)|null|
+|**2023-09-12**|**Lévy distributed fluctuations in the living cell cortex**|Shankar Sivarajan et.al.|[2309.06226v1](http://arxiv.org/abs/2309.06226v1)|null|
+|**2023-09-12**|**Brute-force nucleation rates of hard spheres compared with rare-event methods and classical nucleation theory**|Willem Gispen et.al.|[2309.06216v1](http://arxiv.org/abs/2309.06216v1)|null|
+|**2023-09-12**|**Quantum Simulation of the Bosonic Kitaev Chain**|J. H. Busnaina et.al.|[2309.06178v1](http://arxiv.org/abs/2309.06178v1)|null|
+|**2023-09-12**|**Perturbative Expansion in Reciprocal Space: Bridging Microscopic and Mesoscopic Descriptions of Molecular Interactions**|Jaehyeok Jin et.al.|[2309.05957v1](http://arxiv.org/abs/2309.05957v1)|null|
+|**2023-09-12**|**The drag of a filament moving in a supported spherical bilayer**|Wenzheng Shi et.al.|[2309.05928v1](http://arxiv.org/abs/2309.05928v1)|null|
+|**2023-09-11**|**Purely anharmonic charge-density wave in the 2D Dirac semimetal SnP**|Martin Gutierrez-Amigo et.al.|[2309.05847v1](http://arxiv.org/abs/2309.05847v1)|null|
 |**2023-09-11**|**Introduction to the special issue dedicated to Michael J. Duff FRS on the occasion of his 70th birthday**|L. Borsten et.al.|[2309.05565v1](http://arxiv.org/abs/2309.05565v1)|null|
 |**2023-09-11**|**Topological phase transition and tunable surface states in YBi**|Ramesh Kumar et.al.|[2309.05553v1](http://arxiv.org/abs/2309.05553v1)|null|
 |**2023-09-11**|**Topological transitions in dissipatively coupled Su-Schrieffer-Heeger models**|Jayakrishnan M. P. Nair et.al.|[2309.05479v1](http://arxiv.org/abs/2309.05479v1)|null|
+|**2023-09-11**|**General theory for plane extensible elastica with arbitrary undeformed shape**|Alessandro Taloni et.al.|[2309.05431v1](http://arxiv.org/abs/2309.05431v1)|null|
 |**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401v1](http://arxiv.org/abs/2309.05401v1)|null|
 |**2023-09-11**|**The role of molecular structure on the microscopic thermodynamics: unveiling with Femtosecond Optical Tweezers**|Ajitesh Singh et.al.|[2309.05385v1](http://arxiv.org/abs/2309.05385v1)|null|
 |**2023-09-11**|**In situ monitoring of block copolymer self-assembly through controlled dialysis with light and neutron scattering detection**|Martin Fauquignon et.al.|[2309.05333v1](http://arxiv.org/abs/2309.05333v1)|null|
@@ -3367,6 +3376,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Photoinduced transition from quasi-2D Ruddlesden-Popper to 3D halide perovskites for optical writing multicolor and light-erasable images**|Sergey S. Anoshkin et.al.|[2309.06344v1](http://arxiv.org/abs/2309.06344v1)|null|
 |**2023-08-31**|**Phonon-Dressed Third-Harmonic Generation in Diamond**|Jiaoyang Zheng et.al.|[2309.00167v1](http://arxiv.org/abs/2309.00167v1)|null|
 |**2023-08-20**|**Electron Imaging of Nanoscale Charge Distributions Induced by Femtosecond Light Pulses**|Jonathan T. Weber et.al.|[2308.10272v1](http://arxiv.org/abs/2308.10272v1)|null|
 |**2023-08-17**|**Transient Ellipsometry Measurements of the Specular Inverse Faraday Effect in Transition Metals**|Víctor H. Ortiz et.al.|[2308.09150v1](http://arxiv.org/abs/2308.09150v1)|null|
@@ -3638,6 +3648,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision**|I. A. Ado et.al.|[2309.06416v1](http://arxiv.org/abs/2309.06416v1)|null|
 |**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656v1](http://arxiv.org/abs/2309.05656v1)|null|
 |**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401v1](http://arxiv.org/abs/2309.05401v1)|null|
 |**2023-09-07**|**Disorder in the non-linear anomalous Hall effect of $\mathcal{P}\mathcal{T}$ -symmetric Dirac fermions**|Rhonald Burgos Atencia et.al.|[2309.03947v1](http://arxiv.org/abs/2309.03947v1)|null|
