@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Real-time quantum dynamics of thermal states with neural thermofields**|Jannes Nys et.al.|[2309.07063v1](http://arxiv.org/abs/2309.07063v1)|null|
+|**2023-09-13**|**Dynamic control of self-assembly of quasicrystalline structures through reinforcement learning**|Uyen Tu Lieu et.al.|[2309.06869v1](http://arxiv.org/abs/2309.06869v1)|null|
+|**2023-09-13**|**Phantom chain simulations for the effect of stoichiometry on the fracture of star-polymer networks**|Yuichi Masubuchi et.al.|[2309.06827v1](http://arxiv.org/abs/2309.06827v1)|null|
+|**2023-09-13**|**Computing solubility and thermodynamics properties of H2O2 in water**|Tijin H. G. Saji et.al.|[2309.06796v1](http://arxiv.org/abs/2309.06796v1)|null|
+|**2023-09-13**|**A quorum sensing active matter in a confined geometry**|Yuxin Zhou et.al.|[2309.06749v1](http://arxiv.org/abs/2309.06749v1)|null|
+|**2023-09-13**|**Simultaneous thermoosmotic and thermoelectric responses in nanoconfined electrolyte solutions: Effects of nanopore structures and membrane properties**|Wenyao Zhang et.al.|[2309.06654v1](http://arxiv.org/abs/2309.06654v1)|null|
+|**2023-09-12**|**In-plane structure of the electric double layer in the primitive model using classical density functional theory**|Peter Cats et.al.|[2309.06542v1](http://arxiv.org/abs/2309.06542v1)|null|
 |**2023-09-12**|**Geometric semimetals**|Yu-Ping Lin et.al.|[2309.06442v1](http://arxiv.org/abs/2309.06442v1)|null|
 |**2023-09-12**|**Bifurcations and nonlinear dynamics of the follower force model for active filaments**|Bethany Clarke et.al.|[2309.06294v1](http://arxiv.org/abs/2309.06294v1)|null|
 |**2023-09-12**|**Lévy distributed fluctuations in the living cell cortex**|Shankar Sivarajan et.al.|[2309.06226v1](http://arxiv.org/abs/2309.06226v1)|null|
@@ -3502,6 +3509,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Anharmonic coherent dynamics of the soft phonon mode of a PbTe crystal**|A. A. Melnikov et.al.|[2309.06549v1](http://arxiv.org/abs/2309.06549v1)|null|
 |**2023-09-11**|**Melting of excitonic insulator phase by an intense terahertz pulse in Ta $_2$NiSe$_5$**|Naoki Takamura et.al.|[2309.05286v1](http://arxiv.org/abs/2309.05286v1)|null|
 |**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
 |**2023-06-16**|**Broadband spintronic detection of the absolute field strength of terahertz electromagnetic pulses**|A. L. Chekhov et.al.|[2306.09734v1](http://arxiv.org/abs/2306.09734v1)|null|
@@ -3648,6 +3656,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Anomalous Hall effect and magnetoresistance in micro-ribbons of the magnetic Weyl semimetal candidate PrRhC2**|Mickey Martini et.al.|[2309.06963v1](http://arxiv.org/abs/2309.06963v1)|null|
 |**2023-09-12**|**Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision**|I. A. Ado et.al.|[2309.06416v1](http://arxiv.org/abs/2309.06416v1)|null|
 |**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656v1](http://arxiv.org/abs/2309.05656v1)|null|
 |**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401v1](http://arxiv.org/abs/2309.05401v1)|null|
