@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Vortex Lattices in Active Nematics with Periodic Obstacle Arrays**|Cody D. Schimming et.al.|[2309.07886v1](http://arxiv.org/abs/2309.07886v1)|null|
+|**2023-09-14**|**Overhead-constrained circuit knitting for variational quantum dynamics**|Gian Gentinetta et.al.|[2309.07857v1](http://arxiv.org/abs/2309.07857v1)|null|
+|**2023-09-14**|**Water, not salt, causes most of the Seebeck effect of nonisothermal aqueous electrolytes**|Ole Nickel et.al.|[2309.07853v1](http://arxiv.org/abs/2309.07853v1)|null|
+|**2023-09-14**|**Predicting the mechanical properties of spring networks**|Doron Grossman et.al.|[2309.07844v1](http://arxiv.org/abs/2309.07844v1)|null|
+|**2023-09-14**|**$\texttt{ChisholmD.wl}$ - Automated rational approximant for bi-variate series**|Souvik Bera et.al.|[2309.07687v1](http://arxiv.org/abs/2309.07687v1)|null|
+|**2023-09-14**|**Phase shift rule with the optimal parameter selection**|L. A. Markovich et.al.|[2309.07655v1](http://arxiv.org/abs/2309.07655v1)|null|
+|**2023-09-14**|**Persistence in Active Turbulence**|Amal Manoharan et.al.|[2309.07567v1](http://arxiv.org/abs/2309.07567v1)|null|
+|**2023-09-14**|**Theoretical study on spintronic and optical property prediction of doped magnetic Borophene**|S. Koley et.al.|[2309.07546v1](http://arxiv.org/abs/2309.07546v1)|null|
+|**2023-09-14**|**Intercalation in 2H-TaSe 2 for modulation of electronic properties and electrochemical energy storage**|S. Koley et.al.|[2309.07543v1](http://arxiv.org/abs/2309.07543v1)|null|
+|**2023-09-14**|**Conformational isomerization dynamics in solvent violates both the Stokes-Einstein relation and Kramers' theory**|Benjamin A. Dalton et.al.|[2309.07521v1](http://arxiv.org/abs/2309.07521v1)|null|
+|**2023-09-13**|**A mechanically-derived contact model for adhesive elastic-perfectly plastic particles. Part II: Contact under high compaction--adding a bulk elastic response**|William Zunker et.al.|[2309.07317v1](http://arxiv.org/abs/2309.07317v1)|null|
+|**2023-09-13**|**A mechanically-derived contact model for adhesive elastic-perfectly plastic particles. Part I: Utilizing the method of dimensionality reduction**|William Zunker et.al.|[2309.07300v1](http://arxiv.org/abs/2309.07300v1)|null|
+|**2023-09-13**|**High Capacity Noisy Unruh--DeWitt Quantum Channels with Bosonic Dephasing**|Eric Aspling et.al.|[2309.07218v1](http://arxiv.org/abs/2309.07218v1)|null|
 |**2023-09-13**|**Real-time quantum dynamics of thermal states with neural thermofields**|Jannes Nys et.al.|[2309.07063v1](http://arxiv.org/abs/2309.07063v1)|null|
 |**2023-09-13**|**Dynamic control of self-assembly of quasicrystalline structures through reinforcement learning**|Uyen Tu Lieu et.al.|[2309.06869v1](http://arxiv.org/abs/2309.06869v1)|null|
 |**2023-09-13**|**Phantom chain simulations for the effect of stoichiometry on the fracture of star-polymer networks**|Yuichi Masubuchi et.al.|[2309.06827v1](http://arxiv.org/abs/2309.06827v1)|null|
@@ -3387,6 +3400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Diamond Surface Functionalization via Visible Light-Driven C-H Activation for Nanoscale Quantum Sensing**|Lila V. H. Rodgers et.al.|[2309.07354v1](http://arxiv.org/abs/2309.07354v1)|null|
 |**2023-09-12**|**Photoinduced transition from quasi-2D Ruddlesden-Popper to 3D halide perovskites for optical writing multicolor and light-erasable images**|Sergey S. Anoshkin et.al.|[2309.06344v1](http://arxiv.org/abs/2309.06344v1)|null|
 |**2023-08-31**|**Phonon-Dressed Third-Harmonic Generation in Diamond**|Jiaoyang Zheng et.al.|[2309.00167v1](http://arxiv.org/abs/2309.00167v1)|null|
 |**2023-08-20**|**Electron Imaging of Nanoscale Charge Distributions Induced by Femtosecond Light Pulses**|Jonathan T. Weber et.al.|[2308.10272v1](http://arxiv.org/abs/2308.10272v1)|null|
