@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Simulating Neutral Atom Quantum Systems with Tensor Network States**|James Allen et.al.|[2309.08572v1](http://arxiv.org/abs/2309.08572v1)|null|
+|**2023-09-15**|**Deep-learning-powered data analysis in plankton ecology**|Harshith Bachimanchi et.al.|[2309.08500v1](http://arxiv.org/abs/2309.08500v1)|**[link](https://github.com/softmatterlab/deep-learning-in-plankton-ecology)**|
+|**2023-09-15**|**Isotropic active colloids: explicit vs. implicit descriptions of propulsion mechanisms**|Jeanne Decayeux et.al.|[2309.08455v1](http://arxiv.org/abs/2309.08455v1)|null|
+|**2023-09-15**|**Beware of CaBER: filament thinning rheometry doesn't give `the' relaxation time of polymer solutions**|Antoine Gaillard et.al.|[2309.08440v1](http://arxiv.org/abs/2309.08440v1)|null|
+|**2023-09-15**|**Spontaneous Unidirectional Loop Extrusion Emerges from Symmetry Breaking of SMC Extension**|Andrea Bonato et.al.|[2309.08371v1](http://arxiv.org/abs/2309.08371v1)|null|
+|**2023-09-15**|**Direction selection of metachronal waves in hydrodynamic coordination of cilia**|Rachel R. Bennett et.al.|[2309.08274v1](http://arxiv.org/abs/2309.08274v1)|null|
+|**2023-09-15**|**Odd thermoelasticity**|Martin Ostoja-Starzewski et.al.|[2309.08262v1](http://arxiv.org/abs/2309.08262v1)|null|
+|**2023-09-15**|**Control of Static Friction by Designing Grooves on Friction Surface**|Wataru Iwashita et.al.|[2309.08111v1](http://arxiv.org/abs/2309.08111v1)|null|
+|**2023-09-14**|**HeLIOS: The Superfluid Helium Ultralight Dark Matter Detector**|M. Hirschel et.al.|[2309.07995v1](http://arxiv.org/abs/2309.07995v1)|null|
+|**2023-09-14**|**Crystallization and refluidization in very-narrow fluidized beds**|Vinícius Pereira da Silva Oliveira et.al.|[2309.07976v1](http://arxiv.org/abs/2309.07976v1)|null|
 |**2023-09-14**|**Vortex Lattices in Active Nematics with Periodic Obstacle Arrays**|Cody D. Schimming et.al.|[2309.07886v1](http://arxiv.org/abs/2309.07886v1)|null|
 |**2023-09-14**|**Overhead-constrained circuit knitting for variational quantum dynamics**|Gian Gentinetta et.al.|[2309.07857v1](http://arxiv.org/abs/2309.07857v1)|**[link](https://github.com/gentinettagian/circuit-cutting-pvqd)**|
 |**2023-09-14**|**Water, not salt, causes most of the Seebeck effect of nonisothermal aqueous electrolytes**|Ole Nickel et.al.|[2309.07853v1](http://arxiv.org/abs/2309.07853v1)|null|
