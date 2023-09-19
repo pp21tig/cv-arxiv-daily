@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Stationary particle currents in sedimenting active matter wetting a wall**|Matthieu Mangeat et.al.|[2309.09714v1](http://arxiv.org/abs/2309.09714v1)|null|
+|**2023-09-18**|**Interface stabilization in adhesion caused by elastohydrodynamic deformation**|Preetika Karnal et.al.|[2309.09704v1](http://arxiv.org/abs/2309.09704v1)|null|
+|**2023-09-18**|**Non-Hermitian physics and topological phenomena in convective thermal metamaterials**|Zhoufei Liu et.al.|[2309.09681v1](http://arxiv.org/abs/2309.09681v1)|null|
+|**2023-09-18**|**Nonlinear dynamics and magneto-elasticity of nanodrums near the phase transition**|Makars Šiškins et.al.|[2309.09672v1](http://arxiv.org/abs/2309.09672v1)|null|
+|**2023-09-18**|**Stability of Taylor-Couette Flow with Odd Viscosity**|Guangle Du et.al.|[2309.09594v1](http://arxiv.org/abs/2309.09594v1)|null|
+|**2023-09-18**|**Surface directed spinodal decomposition of fluids confined in cylindrical pore**|Daniya Davis et.al.|[2309.09511v1](http://arxiv.org/abs/2309.09511v1)|null|
+|**2023-09-18**|**Thermodynamics of imbibition in capillaries of double conical structures-Hourglass, diamond, and sawtooth shaped capillaries-**|Masao Iwamatsu et.al.|[2309.09468v1](http://arxiv.org/abs/2309.09468v1)|null|
+|**2023-09-17**|**"Smoking gun" signatures of topological milestones in trivial materials by measurement fine-tuning and data postselection**|S. M. Frolov et.al.|[2309.09368v1](http://arxiv.org/abs/2309.09368v1)|null|
+|**2023-09-17**|**Many-body interactions between contracting living cells**|Roman Golkov et.al.|[2309.09353v1](http://arxiv.org/abs/2309.09353v1)|null|
+|**2023-09-17**|**Frenetic steering: nonequilibrium-enabled navigation**|Bram Lefebvre et.al.|[2309.09227v1](http://arxiv.org/abs/2309.09227v1)|null|
+|**2023-09-17**|**Generalized Finsler geometry and the anisotropic tearing of skin**|John D. Clayton et.al.|[2309.09161v1](http://arxiv.org/abs/2309.09161v1)|null|
+|**2023-09-17**|**Probing the Viscoelastic Properties of Aqueous Protein Solutions using Molecular Dynamics Simulations**|Dillon F. Hanlon et.al.|[2309.09119v1](http://arxiv.org/abs/2309.09119v1)|null|
+|**2023-09-16**|**The connection between polymer collapse and the onset of jamming**|Alex T. Grigas et.al.|[2309.09065v1](http://arxiv.org/abs/2309.09065v1)|null|
+|**2023-09-16**|**On the formation of metallic glass**|Jian Guo Wang et.al.|[2309.09062v1](http://arxiv.org/abs/2309.09062v1)|null|
+|**2023-09-16**|**Colossal linear magnetoelectricity in polar magnet Fe2Mo3O8**|Yuting Chang et.al.|[2309.08974v1](http://arxiv.org/abs/2309.08974v1)|null|
+|**2023-09-16**|**Equation of State of Charged Rod Dispersions**|Remco Tuinier et.al.|[2309.08940v1](http://arxiv.org/abs/2309.08940v1)|null|
+|**2023-09-16**|**Active Jamming at Criticality**|Shalabh K. Anand et.al.|[2309.08935v1](http://arxiv.org/abs/2309.08935v1)|null|
+|**2023-09-15**|**Breakdown of sound in superfluid helium**|Marc D. Nichitiu et.al.|[2309.08790v1](http://arxiv.org/abs/2309.08790v1)|null|
+|**2023-09-15**|**BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials**|Rachel K. Luu et.al.|[2309.08788v1](http://arxiv.org/abs/2309.08788v1)|null|
+|**2023-09-15**|**Scaling regimes and fluctuations of observables in computer glasses approaching the unjamming transition**|Julia A. Giannini et.al.|[2309.08784v1](http://arxiv.org/abs/2309.08784v1)|null|
 |**2023-09-15**|**Simulating Neutral Atom Quantum Systems with Tensor Network States**|James Allen et.al.|[2309.08572v1](http://arxiv.org/abs/2309.08572v1)|null|
 |**2023-09-15**|**Deep-learning-powered data analysis in plankton ecology**|Harshith Bachimanchi et.al.|[2309.08500v1](http://arxiv.org/abs/2309.08500v1)|**[link](https://github.com/softmatterlab/deep-learning-in-plankton-ecology)**|
 |**2023-09-15**|**Isotropic active colloids: explicit vs. implicit descriptions of propulsion mechanisms**|Jeanne Decayeux et.al.|[2309.08455v1](http://arxiv.org/abs/2309.08455v1)|null|
@@ -3596,6 +3616,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Flat interior singularities for area almost-minimizing currents**|Max Goering et.al.|[2309.09634v1](http://arxiv.org/abs/2309.09634v1)|null|
 |**2023-09-10**|**Resonant excitation of vortex gyrotropic mode via surface acoustic waves**|A. Koujok et.al.|[2309.04987v1](http://arxiv.org/abs/2309.04987v1)|null|
 |**2023-09-07**|**Terahertz emission from silicon carbide nanostructures**|N. T. Bagraev et.al.|[2309.03927v1](http://arxiv.org/abs/2309.03927v1)|null|
 |**2023-09-03**|**Direct visualization of electric current induced dipoles of atomic impurities**|Yaowu Liu et.al.|[2309.01182v1](http://arxiv.org/abs/2309.01182v1)|null|
@@ -3684,6 +3705,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-16**|**Electronic and Topological Properties of a Topological Insulator Thin Film Sandwiched between Ferromagnetic Insulators**|Piotr Pigoń et.al.|[2309.09014v1](http://arxiv.org/abs/2309.09014v1)|null|
+|**2023-09-16**|**Investigation of the Anomalous and Topological Hall Effects in Layered Monoclinic Ferromagnet Cr $_{2.76}$Te$_4$**|Shubham Purwar et.al.|[2309.08898v1](http://arxiv.org/abs/2309.08898v1)|null|
 |**2023-09-13**|**Anomalous Hall effect and magnetoresistance in micro-ribbons of the magnetic Weyl semimetal candidate PrRhC2**|Mickey Martini et.al.|[2309.06963v1](http://arxiv.org/abs/2309.06963v1)|null|
 |**2023-09-12**|**Kubo formula for dc conductivity in the presence of spin-orbit coupling: a revision**|I. A. Ado et.al.|[2309.06416v1](http://arxiv.org/abs/2309.06416v1)|null|
 |**2023-09-11**|**Atomistic Control in Molecular Beam Epitaxy Growth of Intrinsic Magnetic Topological Insulator MnBi2Te4**|Hyunsue Kim et.al.|[2309.05656v1](http://arxiv.org/abs/2309.05656v1)|null|
