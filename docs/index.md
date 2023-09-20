@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Integer Factorization by Quantum Measurements**|Giuseppe Mussardo et.al.|[2309.10757v1](http://arxiv.org/abs/2309.10757v1)|null|
+|**2023-09-19**|**Encoding Robust and Fast Memories in Bulk and Nanoscale Amorphous Solids**|Monoj Adhikari et.al.|[2309.10682v1](http://arxiv.org/abs/2309.10682v1)|null|
+|**2023-09-19**|**Morse fluids in the immediate vicinity of the critical point: Calculation of thermodynamic coefficients**|I. V. Pylyuk et.al.|[2309.10659v1](http://arxiv.org/abs/2309.10659v1)|null|
+|**2023-09-19**|**Electronic Properties of 2D Bilayer Antimony Oxide**|Stefan Wolff et.al.|[2309.10653v1](http://arxiv.org/abs/2309.10653v1)|null|
+|**2023-09-19**|**Optimum optical designs for diffraction-limited terahertz spectroscopy and imaging systems using off-axis parabolic mirrors**|Nishtha Chopra et.al.|[2309.10647v1](http://arxiv.org/abs/2309.10647v1)|null|
+|**2023-09-19**|**On the shear-thinning of alkanes**|Hongyu Gao et.al.|[2309.10627v1](http://arxiv.org/abs/2309.10627v1)|null|
+|**2023-09-19**|**Measuring the Loschmidt amplitude for finite-energy properties of the Fermi-Hubbard model on an ion-trap quantum computer**|Kévin Hémery et.al.|[2309.10552v1](http://arxiv.org/abs/2309.10552v1)|null|
+|**2023-09-19**|**Computation of 3D Band Structure and Density of States (DOS) of 14 Face Centered Cubic (FCC) Crystals using Pseudopotentials**|Mirza Akbar Ali et.al.|[2309.10459v1](http://arxiv.org/abs/2309.10459v1)|null|
+|**2023-09-19**|**A density-fitting implementation of the density-based basis-set correction method**|Andreas Heßelmann et.al.|[2309.10390v1](http://arxiv.org/abs/2309.10390v1)|null|
+|**2023-09-19**|**Evaporation-induced temperature gradient in a foam column**|François Boulogne et.al.|[2309.10362v1](http://arxiv.org/abs/2309.10362v1)|null|
+|**2023-09-19**|**Theory of Nonequilibrium Symmetry-Breaking Coexistence and Active Crystallization**|Daniel Evans et.al.|[2309.10341v1](http://arxiv.org/abs/2309.10341v1)|null|
+|**2023-09-18**|**Quantum benefit of the quantum equation of motion for the strongly coupled many-body problem**|Manqoba Q. Hlatshwayo et.al.|[2309.10179v1](http://arxiv.org/abs/2309.10179v1)|null|
+|**2023-09-18**|**Local Hamiltonian Problem with succinct ground state is MA-Complete**|Jiaqing Jiang et.al.|[2309.10155v1](http://arxiv.org/abs/2309.10155v1)|null|
 |**2023-09-18**|**Stationary particle currents in sedimenting active matter wetting a wall**|Matthieu Mangeat et.al.|[2309.09714v1](http://arxiv.org/abs/2309.09714v1)|null|
 |**2023-09-18**|**Interface stabilization in adhesion caused by elastohydrodynamic deformation**|Preetika Karnal et.al.|[2309.09704v1](http://arxiv.org/abs/2309.09704v1)|null|
 |**2023-09-19**|**Non-Hermitian physics and topological phenomena in convective thermal metamaterials**|Zhoufei Liu et.al.|[2309.09681v2](http://arxiv.org/abs/2309.09681v2)|null|
@@ -3705,6 +3718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Impact of strain on the SOT-driven dynamics of thin film Mn $_3$ Sn**|Ankit Shukla et.al.|[2309.10246v1](http://arxiv.org/abs/2309.10246v1)|null|
 |**2023-09-16**|**Electronic and Topological Properties of a Topological Insulator Thin Film Sandwiched between Ferromagnetic Insulators**|Piotr Pigoń et.al.|[2309.09014v1](http://arxiv.org/abs/2309.09014v1)|null|
 |**2023-09-16**|**Investigation of the Anomalous and Topological Hall Effects in Layered Monoclinic Ferromagnet Cr $_{2.76}$Te$_4$**|Shubham Purwar et.al.|[2309.08898v1](http://arxiv.org/abs/2309.08898v1)|null|
 |**2023-09-13**|**Anomalous Hall effect and magnetoresistance in micro-ribbons of the magnetic Weyl semimetal candidate PrRhC2**|Mickey Martini et.al.|[2309.06963v1](http://arxiv.org/abs/2309.06963v1)|null|
