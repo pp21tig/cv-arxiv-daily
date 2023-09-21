@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438v1](http://arxiv.org/abs/2309.11438v1)|null|
+|**2023-09-20**|**The decoupled DFT- $\frac{1}{2}$ method for defect excitation energies**|Joshua Claes et.al.|[2309.11435v1](http://arxiv.org/abs/2309.11435v1)|null|
+|**2023-09-20**|**Creases and cusps in growing soft matter**|Martine Ben Amar et.al.|[2309.11412v1](http://arxiv.org/abs/2309.11412v1)|null|
+|**2023-09-20**|**Orientational dynamics in supercooled glycerol computed from MD simulations: self and cross contributions**|Marceau Hénot et.al.|[2309.11369v1](http://arxiv.org/abs/2309.11369v1)|null|
+|**2023-09-20**|**Energetics of twisted elastic filament pairs**|Julien Chopin et.al.|[2309.11344v1](http://arxiv.org/abs/2309.11344v1)|null|
+|**2023-09-20**|**Quantifying nematic order in evaporation-driven self-assembly of Halloysite nanotubes: Nematic islands and critical aspect ratio**|Arun Dadwal et.al.|[2309.11323v1](http://arxiv.org/abs/2309.11323v1)|null|
+|**2023-09-20**|**Thermoosmosis of a near-critical binary fluid mixture: a general formulation and universal flow direction**|Youhei Fujitani et.al.|[2309.11211v1](http://arxiv.org/abs/2309.11211v1)|null|
+|**2023-09-20**|**Universal direction in thermoosmosis of a near-critical binary fluid mixture**|Shunsuke Yabunaka et.al.|[2309.11208v1](http://arxiv.org/abs/2309.11208v1)|null|
+|**2023-09-20**|**Coalescence of sessile polymer droplets: A molecular dynamics study**|Soheil Arbabi et.al.|[2309.11171v1](http://arxiv.org/abs/2309.11171v1)|null|
+|**2023-09-20**|**Gauge Theories of Josephson Junction Arrays: Why Disorder Is Irrelevant for the Electric Response of Disordered Superconducting Films**|Carlo A. Trugenberger et.al.|[2309.11098v1](http://arxiv.org/abs/2309.11098v1)|null|
+|**2023-09-20**|**Hydrodynamics is Needed to Explain Propulsion in Chemophoretic Colloidal Rafts**|Dolachai Boniface et.al.|[2309.11084v1](http://arxiv.org/abs/2309.11084v1)|null|
+|**2023-09-19**|**Concentration Dependence of Elastic and Viscoelastic Properties of Aqueous Solutions of Ficoll and Bovine Serum Albumin by Brillouin Light Scattering Spectroscopy**|Stephen J. Spencer et.al.|[2309.10967v1](http://arxiv.org/abs/2309.10967v1)|null|
+|**2023-09-19**|**Motility Induced Phase Separation and Frustration in Active Matter Swarmalators**|B. Adorjani et.al.|[2309.10937v1](http://arxiv.org/abs/2309.10937v1)|null|
+|**2023-09-19**|**Phototactic bioconvection with the effect of oblique collimated flux at forward scattering algae suspension in rotating medium**|S. K. Rajput et.al.|[2309.10914v1](http://arxiv.org/abs/2309.10914v1)|null|
+|**2023-09-19**|**Extrinsic and intrinsic effects setting viscosity in life processes: implications for fundamental physical constants**|K. Trachenko et.al.|[2309.10863v1](http://arxiv.org/abs/2309.10863v1)|null|
 |**2023-09-19**|**Integer Factorization by Quantum Measurements**|Giuseppe Mussardo et.al.|[2309.10757v1](http://arxiv.org/abs/2309.10757v1)|null|
 |**2023-09-19**|**Encoding Robust and Fast Memories in Bulk and Nanoscale Amorphous Solids**|Monoj Adhikari et.al.|[2309.10682v1](http://arxiv.org/abs/2309.10682v1)|null|
 |**2023-09-19**|**Morse fluids in the immediate vicinity of the critical point: Calculation of thermodynamic coefficients**|I. V. Pylyuk et.al.|[2309.10659v1](http://arxiv.org/abs/2309.10659v1)|null|
@@ -3443,6 +3458,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Floquet engineering of black phosphorus upon below-gap pumping**|Shaohua Zhou et.al.|[2309.11339v1](http://arxiv.org/abs/2309.11339v1)|null|
+|**2023-09-20**|**Optically driven spin-alignment precession**|A. A. Fomin et.al.|[2309.11123v1](http://arxiv.org/abs/2309.11123v1)|null|
 |**2023-09-13**|**Diamond Surface Functionalization via Visible Light-Driven C-H Activation for Nanoscale Quantum Sensing**|Lila V. H. Rodgers et.al.|[2309.07354v1](http://arxiv.org/abs/2309.07354v1)|null|
 |**2023-09-12**|**Photoinduced transition from quasi-2D Ruddlesden-Popper to 3D halide perovskites for optical writing multicolor and light-erasable images**|Sergey S. Anoshkin et.al.|[2309.06344v1](http://arxiv.org/abs/2309.06344v1)|null|
 |**2023-08-31**|**Phonon-Dressed Third-Harmonic Generation in Diamond**|Jiaoyang Zheng et.al.|[2309.00167v1](http://arxiv.org/abs/2309.00167v1)|null|
@@ -3629,6 +3646,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Generalized Kohn-Sham Approach for the Electronic Band Structure of Spin-Orbit Coupled Materials**|Jacques K. Desmarais et.al.|[2309.11158v1](http://arxiv.org/abs/2309.11158v1)|null|
 |**2023-09-18**|**Flat interior singularities for area almost-minimizing currents**|Max Goering et.al.|[2309.09634v1](http://arxiv.org/abs/2309.09634v1)|null|
 |**2023-09-10**|**Resonant excitation of vortex gyrotropic mode via surface acoustic waves**|A. Koujok et.al.|[2309.04987v1](http://arxiv.org/abs/2309.04987v1)|null|
 |**2023-09-07**|**Terahertz emission from silicon carbide nanostructures**|N. T. Bagraev et.al.|[2309.03927v1](http://arxiv.org/abs/2309.03927v1)|null|
