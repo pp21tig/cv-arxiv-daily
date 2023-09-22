@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Conformations, correlations, and instabilities of a flexible fiber in an active fluid**|Scott Weady et.al.|[2309.12225v1](http://arxiv.org/abs/2309.12225v1)|null|
+|**2023-09-21**|**Towards a minimal description of dynamical correlation in metals**|Marco Vanzini et.al.|[2309.12144v1](http://arxiv.org/abs/2309.12144v1)|null|
+|**2023-09-21**|**Persistent current-carrying state of charge quasuparticles in $np$ -ribbon featuring single Dirac cone**|Anatoly M. Kadigrobov et.al.|[2309.12084v1](http://arxiv.org/abs/2309.12084v1)|null|
+|**2023-09-21**|**Pair Production in time-dependent Electric field at Finite times**|Deepak et.al.|[2309.12079v1](http://arxiv.org/abs/2309.12079v1)|null|
+|**2023-09-21**|**Rotational and translational drags of a Janus particle close to a wall and a lipid membrane**|Vaibhav Sharma et.al.|[2309.11909v1](http://arxiv.org/abs/2309.11909v1)|null|
+|**2023-09-21**|**Tuning brittleness in multi-component metallic glasses through chemical disorder aging**|Kamran Karimi et.al.|[2309.11867v1](http://arxiv.org/abs/2309.11867v1)|null|
+|**2023-09-21**|**Sieving and clogging in PEG-PEGDA hydrogel membranes**|Malak Alaa Eddine et.al.|[2309.11807v1](http://arxiv.org/abs/2309.11807v1)|null|
+|**2023-09-20**|**Evidence of thermodynamic driving forces in the contact charging of insulating polymers**|Hang Zhang et.al.|[2309.11605v1](http://arxiv.org/abs/2309.11605v1)|null|
 |**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438v1](http://arxiv.org/abs/2309.11438v1)|null|
 |**2023-09-20**|**The decoupled DFT- $\frac{1}{2}$ method for defect excitation energies**|Joshua Claes et.al.|[2309.11435v1](http://arxiv.org/abs/2309.11435v1)|null|
 |**2023-09-20**|**Creases and cusps in growing soft matter**|Martine Ben Amar et.al.|[2309.11412v1](http://arxiv.org/abs/2309.11412v1)|null|
@@ -3454,6 +3462,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Giant photon-drag-induced ultrafast photocurrent in diamond for nonlinear photonics**|Xinyi Xue et.al.|[2309.11938v1](http://arxiv.org/abs/2309.11938v1)|null|
+|**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891v1](http://arxiv.org/abs/2309.11891v1)|null|
 |**2023-09-20**|**Floquet engineering of black phosphorus upon below-gap pumping**|Shaohua Zhou et.al.|[2309.11339v1](http://arxiv.org/abs/2309.11339v1)|null|
 |**2023-09-20**|**Optically driven spin-alignment precession**|A. A. Fomin et.al.|[2309.11123v1](http://arxiv.org/abs/2309.11123v1)|null|
 |**2023-09-13**|**Diamond Surface Functionalization via Visible Light-Driven C-H Activation for Nanoscale Quantum Sensing**|Lila V. H. Rodgers et.al.|[2309.07354v1](http://arxiv.org/abs/2309.07354v1)|null|
@@ -3843,6 +3853,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**A fast approximate method for variable-width broadening of spectra**|Jessica Farmer et.al.|[2309.12135v1](http://arxiv.org/abs/2309.12135v1)|null|
 |**2023-09-02**|**Diffuse Inelastic Neutron Scattering from Anharmonic Vibrations in Cuprite**|C. N. Saunders et.al.|[2309.00780v1](http://arxiv.org/abs/2309.00780v1)|null|
 |**2023-08-31**|**Post-experiment coincidence counting method for coincidence detection techniques**|Dezhong Cao et.al.|[2308.16746v1](http://arxiv.org/abs/2308.16746v1)|null|
 |**2023-08-22**|**Dynamics of K $_2$Ni$_2$(SO$_4$)$_3$ governed by proximity to a 3D spin liquid model**|M. G. Gonzalez et.al.|[2308.11746v1](http://arxiv.org/abs/2308.11746v1)|null|
