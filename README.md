@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Deep learning probability flows and entropy production rates in active matter**|Nicholas M. Boffi et.al.|[2309.12991v1](http://arxiv.org/abs/2309.12991v1)|null|
+|**2023-09-22**|**Gate Electrodes Enable Tunable Nanofluidic Particle Traps**|Philippe M. Nicollier et.al.|[2309.12975v1](http://arxiv.org/abs/2309.12975v1)|null|
+|**2023-09-22**|**Unraveling Medium-Range Order and Melting Mechanism of ZIF-4 under High Temperature**|Zuhao Shi et.al.|[2309.12946v1](http://arxiv.org/abs/2309.12946v1)|null|
+|**2023-09-22**|**Rheological Investigation of The Network Structure in Mixed Gels of Kappa and Iota Carrageenan**|Tulika Bhattacharyya et.al.|[2309.12896v1](http://arxiv.org/abs/2309.12896v1)|null|
+|**2023-09-22**|**The role of the nucleus for cell mechanics: an elastic phase field approach**|Robert Chojowski et.al.|[2309.12777v1](http://arxiv.org/abs/2309.12777v1)|null|
+|**2023-09-22**|**Emergence Of Directional Rotation In Optothermally Activated Colloidal System**|Rahul Chand et.al.|[2309.12740v1](http://arxiv.org/abs/2309.12740v1)|null|
+|**2023-09-22**|**Small-Angle X-ray Scattering Unveils the Internal Structure of Lipid Nanoparticles**|Francesco Spinozzi et.al.|[2309.12679v1](http://arxiv.org/abs/2309.12679v1)|null|
+|**2023-09-22**|**Coalescence of immiscible sessile droplets on a partial wetting surface**|Huadan Xu et.al.|[2309.12561v1](http://arxiv.org/abs/2309.12561v1)|null|
+|**2023-09-21**|**Run-and-tumble oscillator: moment analysis of stationary distributions**|Derek Frydel et.al.|[2309.12537v1](http://arxiv.org/abs/2309.12537v1)|null|
 |**2023-09-21**|**Conformations, correlations, and instabilities of a flexible fiber in an active fluid**|Scott Weady et.al.|[2309.12225v1](http://arxiv.org/abs/2309.12225v1)|null|
 |**2023-09-21**|**Towards a minimal description of dynamical correlation in metals**|Marco Vanzini et.al.|[2309.12144v1](http://arxiv.org/abs/2309.12144v1)|null|
 |**2023-09-21**|**Persistent current-carrying state of charge quasuparticles in $np$ -ribbon featuring single Dirac cone**|Anatoly M. Kadigrobov et.al.|[2309.12084v1](http://arxiv.org/abs/2309.12084v1)|null|
@@ -3462,6 +3471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Observation of light driven band structure via multi-band high harmonic spectroscopy**|Ayelet J. Uzan-Narovlansky et.al.|[2309.13003v1](http://arxiv.org/abs/2309.13003v1)|null|
 |**2023-09-21**|**Giant photon-drag-induced ultrafast photocurrent in diamond for nonlinear photonics**|Xinyi Xue et.al.|[2309.11938v1](http://arxiv.org/abs/2309.11938v1)|null|
 |**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891v1](http://arxiv.org/abs/2309.11891v1)|null|
 |**2023-09-20**|**Floquet engineering of black phosphorus upon below-gap pumping**|Shaohua Zhou et.al.|[2309.11339v1](http://arxiv.org/abs/2309.11339v1)|null|
