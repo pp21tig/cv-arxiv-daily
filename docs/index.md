@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268v1](http://arxiv.org/abs/2309.14268v1)|null|
+|**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260v1](http://arxiv.org/abs/2309.14260v1)|null|
+|**2023-09-25**|**Confinement twists achiral liquid crystals and causes chiral liquid crystals to twist in the opposite direction**|Jungmyung Kim et.al.|[2309.14242v1](http://arxiv.org/abs/2309.14242v1)|null|
+|**2023-09-25**|**Room-temperature ferroelectric nematic liquid crystal showing a large and divergent density**|Charles Parton-Barr et.al.|[2309.14161v1](http://arxiv.org/abs/2309.14161v1)|null|
+|**2023-09-25**|**Non-equilibrium steady states of electrolyte interfaces**|Markus Bier et.al.|[2309.14126v1](http://arxiv.org/abs/2309.14126v1)|null|
+|**2023-09-25**|**Point torque representations of ciliary flows**|Siluvai Antony Selvan et.al.|[2309.14051v1](http://arxiv.org/abs/2309.14051v1)|null|
+|**2023-09-25**|**Calculating the Circular Dichroism of Chiral Halide Perovskites: A Tight-Binding Approach**|Sofia Apergi et.al.|[2309.14002v1](http://arxiv.org/abs/2309.14002v1)|null|
+|**2023-09-25**|**A discrete model for layered growth**|Davide Renzi et.al.|[2309.14001v1](http://arxiv.org/abs/2309.14001v1)|null|
+|**2023-09-25**|**Cerium oxide catalyzed disproportionation of hydrogen peroxide: a closer look at the reaction intermediate**|Giusy Finocchiaro et.al.|[2309.13981v1](http://arxiv.org/abs/2309.13981v1)|null|
+|**2023-09-24**|**Analytical calculation of the critical temperature and estimation of the critical region size for a fluid model**|I. V. Pylyuk et.al.|[2309.13735v1](http://arxiv.org/abs/2309.13735v1)|null|
+|**2023-09-24**|**Efficient multipole representation for matter-wave optics**|Jan Teske et.al.|[2309.13732v1](http://arxiv.org/abs/2309.13732v1)|null|
+|**2023-09-24**|**Predicting failure locations in model end-linked polymer networks**|Han Zhang et.al.|[2309.13723v1](http://arxiv.org/abs/2309.13723v1)|null|
+|**2023-09-24**|**Effects of surface roughness and top layer thickness on the performance of Fabry-Perot cavities and responsive open resonators based on distributed Bragg reflectors**|Konstantinos Papatryfonos et.al.|[2309.13649v1](http://arxiv.org/abs/2309.13649v1)|null|
+|**2023-09-24**|**Unraveling the Effect of Circularly Polarized Light on Reciprocal Media: Breaking Time Reversal Symmetry with Non-Maxwellian Magnetic-esque Fields**|R. Merlin et.al.|[2309.13622v1](http://arxiv.org/abs/2309.13622v1)|null|
+|**2023-09-24**|**The Eshelby problem in amorphous solids**|H. George E. Hentschel et.al.|[2309.13603v1](http://arxiv.org/abs/2309.13603v1)|null|
+|**2023-09-24**|**Self-Tuning Hamiltonian Monte Carlo for Accelerated Sampling**|Henrik Christiansen et.al.|[2309.13593v1](http://arxiv.org/abs/2309.13593v1)|null|
+|**2023-09-23**|**Suppression of stacking order with doping in 1T-TaS $_{2-x}$Se$_x$**|Sharon S. Philip et.al.|[2309.13460v1](http://arxiv.org/abs/2309.13460v1)|null|
+|**2023-09-23**|**Complete integrability and equilibrium thermodynamics of biaxial nematic systems with discrete orientational degrees of freedom**|Giovanni De Matteis et.al.|[2309.13293v1](http://arxiv.org/abs/2309.13293v1)|null|
+|**2023-09-23**|**General model for segregation forces in flowing granular mixtures**|Yifei Duan et.al.|[2309.13273v1](http://arxiv.org/abs/2309.13273v1)|null|
+|**2023-09-23**|**Theory of polygonal phases self-assembled from T-shaped liquid crystalline polymers**|Zhijuan He et.al.|[2309.13262v1](http://arxiv.org/abs/2309.13262v1)|null|
 |**2023-09-22**|**Deep learning probability flows and entropy production rates in active matter**|Nicholas M. Boffi et.al.|[2309.12991v1](http://arxiv.org/abs/2309.12991v1)|null|
 |**2023-09-22**|**Gate Electrodes Enable Tunable Nanofluidic Particle Traps**|Philippe M. Nicollier et.al.|[2309.12975v1](http://arxiv.org/abs/2309.12975v1)|null|
 |**2023-09-22**|**Unraveling Medium-Range Order and Melting Mechanism of ZIF-4 under High Temperature**|Zuhao Shi et.al.|[2309.12946v1](http://arxiv.org/abs/2309.12946v1)|null|
@@ -3475,6 +3495,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Measuring the quantum state of photoelectrons**|Hugo Laurell et.al.|[2309.13945v1](http://arxiv.org/abs/2309.13945v1)|null|
+|**2023-09-23**|**All-optical seeding of a light-induced phase transition with correlated disorder**|Allan S. Johnson et.al.|[2309.13275v1](http://arxiv.org/abs/2309.13275v1)|null|
 |**2023-09-22**|**Observation of light driven band structure via multi-band high harmonic spectroscopy**|Ayelet J. Uzan-Narovlansky et.al.|[2309.13003v1](http://arxiv.org/abs/2309.13003v1)|null|
 |**2023-09-21**|**Giant photon-drag-induced ultrafast photocurrent in diamond for nonlinear photonics**|Xinyi Xue et.al.|[2309.11938v1](http://arxiv.org/abs/2309.11938v1)|null|
 |**2023-09-21**|**Heart Rate Detection Using an Event Camera**|Aniket Jagtap et.al.|[2309.11891v1](http://arxiv.org/abs/2309.11891v1)|null|
@@ -3666,6 +3688,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Second-order optical response of superconductors induced by supercurrent injection**|Linghao Huang et.al.|[2309.14077v1](http://arxiv.org/abs/2309.14077v1)|null|
 |**2023-09-20**|**Generalized Kohn-Sham Approach for the Electronic Band Structure of Spin-Orbit Coupled Materials**|Jacques K. Desmarais et.al.|[2309.11158v1](http://arxiv.org/abs/2309.11158v1)|null|
 |**2023-09-18**|**Flat interior singularities for area almost-minimizing currents**|Max Goering et.al.|[2309.09634v1](http://arxiv.org/abs/2309.09634v1)|null|
 |**2023-09-10**|**Resonant excitation of vortex gyrotropic mode via surface acoustic waves**|A. Koujok et.al.|[2309.04987v1](http://arxiv.org/abs/2309.04987v1)|null|
@@ -3756,6 +3779,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140v1](http://arxiv.org/abs/2309.14140v1)|null|
+|**2023-09-25**|**All-electrical detection of the spin-charge conversion in nanodevices based on SrTiO3 two-dimensional electron gases**|Fernando Gallego et.al.|[2309.13992v1](http://arxiv.org/abs/2309.13992v1)|null|
 |**2023-09-19**|**Impact of strain on the SOT-driven dynamics of thin film Mn $_3$ Sn**|Ankit Shukla et.al.|[2309.10246v1](http://arxiv.org/abs/2309.10246v1)|null|
 |**2023-09-16**|**Electronic and Topological Properties of a Topological Insulator Thin Film Sandwiched between Ferromagnetic Insulators**|Piotr Pigoń et.al.|[2309.09014v1](http://arxiv.org/abs/2309.09014v1)|null|
 |**2023-09-16**|**Investigation of the Anomalous and Topological Hall Effects in Layered Monoclinic Ferromagnet Cr $_{2.76}$Te$_4$**|Shubham Purwar et.al.|[2309.08898v1](http://arxiv.org/abs/2309.08898v1)|null|
