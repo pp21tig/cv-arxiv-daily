@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Bacteria colonies modify their shear and compressive mechanical properties in response to different growth substrates**|Jakub A. Kochanowski et.al.|[2309.15057v1](http://arxiv.org/abs/2309.15057v1)|null|
+|**2023-09-26**|**Unveiling the Phase Diagram and Reaction Paths of the Active Model B with the Deep Minimum Action Method**|Ruben Zakine et.al.|[2309.15033v1](http://arxiv.org/abs/2309.15033v1)|null|
+|**2023-09-26**|**Contact angle hysteresis at the nanoscale**|Viktor Mandrolko et.al.|[2309.14986v1](http://arxiv.org/abs/2309.14986v1)|null|
+|**2023-09-26**|**Experimental Study of the Nematic Transition in Granular Spherocylinder Packings under Tapping**|Haitao Yu et.al.|[2309.14943v1](http://arxiv.org/abs/2309.14943v1)|null|
+|**2023-09-26**|**The non-equilibrium solvent response force: What happens if you push a Brownian particle**|Fabian Koch et.al.|[2309.14873v1](http://arxiv.org/abs/2309.14873v1)|null|
+|**2023-09-26**|**Aerodynamic bag breakup of a polymeric droplet**|Navin Kumar Chandra et.al.|[2309.14729v1](http://arxiv.org/abs/2309.14729v1)|null|
+|**2023-09-26**|**Micro-Macro Modeling of Polymeric Fluids and Shear-Induced Microscopic Behaviors**|Xuelian Bao et.al.|[2309.14661v1](http://arxiv.org/abs/2309.14661v1)|null|
+|**2023-09-26**|**Deep Charge: A Deep Learning Model of Electron Density from One-Shot Density Functional Theory Calculation**|Taoyuze Lv et.al.|[2309.14638v1](http://arxiv.org/abs/2309.14638v1)|null|
+|**2023-09-25**|**Diffusion and interaction effects on molecular release from collapsed microgels**|Adri Escañuela-Copado et.al.|[2309.14536v1](http://arxiv.org/abs/2309.14536v1)|null|
+|**2023-09-25**|**Geometric frustration of hard-disk packings on cones**|Jessica H. Sun et.al.|[2309.14446v1](http://arxiv.org/abs/2309.14446v1)|null|
+|**2023-09-25**|**The Bethe Ansatz as a Quantum Circuit**|Roberto Ruiz et.al.|[2309.14430v1](http://arxiv.org/abs/2309.14430v1)|null|
 |**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268v1](http://arxiv.org/abs/2309.14268v1)|null|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260v1](http://arxiv.org/abs/2309.14260v1)|null|
 |**2023-09-25**|**Confinement twists achiral liquid crystals and causes chiral liquid crystals to twist in the opposite direction**|Jungmyung Kim et.al.|[2309.14242v1](http://arxiv.org/abs/2309.14242v1)|null|
@@ -3775,6 +3786,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448v1](http://arxiv.org/abs/2309.14448v1)|null|
 |**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140v1](http://arxiv.org/abs/2309.14140v1)|null|
 |**2023-09-25**|**All-electrical detection of the spin-charge conversion in nanodevices based on SrTiO3 two-dimensional electron gases**|Fernando Gallego et.al.|[2309.13992v1](http://arxiv.org/abs/2309.13992v1)|null|
 |**2023-09-19**|**Impact of strain on the SOT-driven dynamics of thin film Mn $_3$ Sn**|Ankit Shukla et.al.|[2309.10246v1](http://arxiv.org/abs/2309.10246v1)|null|
