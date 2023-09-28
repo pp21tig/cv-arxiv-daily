@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Insights into bubble droplet interactions in evaporating polymeric droplets**|Gannena K S Raghuram et.al.|[2309.15605v1](http://arxiv.org/abs/2309.15605v1)|null|
+|**2023-09-27**|**Structural properties of cyclic polyelectrolytes in dilute good solvent**|Andrzej Grzyb et.al.|[2309.15543v1](http://arxiv.org/abs/2309.15543v1)|null|
+|**2023-09-27**|**Atomistic simulations of thermodynamic properties of liquid gallium from first principles**|Hongyu Wu et.al.|[2309.15350v1](http://arxiv.org/abs/2309.15350v1)|null|
+|**2023-09-26**|**Applications of the Peach-Koehler Force in Liquid Crystals**|Cheng Long et.al.|[2309.15315v1](http://arxiv.org/abs/2309.15315v1)|null|
+|**2023-09-26**|**Quantum Monte Carlo pair orbital wave functions for periodic systems towards the thermodynamical limit: ground states, excitations and spinors**|Lubos Mitas et.al.|[2309.15262v1](http://arxiv.org/abs/2309.15262v1)|null|
+|**2023-09-26**|**Transformation of polar nematic phases in the presence of electric field**|A. V. Emelyanenko et.al.|[2309.15250v1](http://arxiv.org/abs/2309.15250v1)|null|
+|**2023-09-26**|**Active actions: effective field theory for active nematics**|Michael J. Landry et.al.|[2309.15142v1](http://arxiv.org/abs/2309.15142v1)|null|
 |**2023-09-26**|**Bacteria colonies modify their shear and compressive mechanical properties in response to different growth substrates**|Jakub A. Kochanowski et.al.|[2309.15057v1](http://arxiv.org/abs/2309.15057v1)|null|
 |**2023-09-26**|**Unveiling the Phase Diagram and Reaction Paths of the Active Model B with the Deep Minimum Action Method**|Ruben Zakine et.al.|[2309.15033v1](http://arxiv.org/abs/2309.15033v1)|null|
 |**2023-09-27**|**Contact angle hysteresis at the nanoscale**|Viktor Mandrolko et.al.|[2309.14986v2](http://arxiv.org/abs/2309.14986v2)|null|
@@ -3790,6 +3797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Engineering the in-plane anomalous hall effect in Cd $_3$As$_2$ thin films**|Wangqian Miao et.al.|[2309.15457v1](http://arxiv.org/abs/2309.15457v1)|null|
 |**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448v1](http://arxiv.org/abs/2309.14448v1)|null|
 |**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140v1](http://arxiv.org/abs/2309.14140v1)|null|
 |**2023-09-25**|**All-electrical detection of the spin-charge conversion in nanodevices based on SrTiO3 two-dimensional electron gases**|Fernando Gallego et.al.|[2309.13992v1](http://arxiv.org/abs/2309.13992v1)|null|
