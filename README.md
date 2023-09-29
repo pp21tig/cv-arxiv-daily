@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Geometric phase for nonlinear oscillators from perturbative renormalization group**|D. A. Khromov et.al.|[2309.16587v1](http://arxiv.org/abs/2309.16587v1)|null|
+|**2023-09-28**|**Local stability of spheres via the convex hull and the radical Voronoi diagram**|Peter K. Morse et.al.|[2309.16484v1](http://arxiv.org/abs/2309.16484v1)|null|
+|**2023-09-28**|**Two-point spectroscopy of Fibonacci topoelectrical circuits**|Selma Franca et.al.|[2309.16432v1](http://arxiv.org/abs/2309.16432v1)|null|
+|**2023-09-28**|**Influence of Dopamine Methacrylamide on swelling behaviour and nanomechanical properties of PNIPAM microgels**|Sandra Forg et.al.|[2309.16229v1](http://arxiv.org/abs/2309.16229v1)|null|
+|**2023-09-28**|**Solving the Bethe-Salpeter Equation in Real Frequencies at Finite Temperature**|I. S. Tupitsyn et.al.|[2309.16124v1](http://arxiv.org/abs/2309.16124v1)|null|
+|**2023-09-28**|**Non-equilibrium molecular dynamics of steady-state fluid transport through a 2D membrane driven by a concentration gradient**|Daniel J. Rankin et.al.|[2309.16103v1](http://arxiv.org/abs/2309.16103v1)|null|
+|**2023-09-27**|**Analytic regularity of strong solutions for the complexified stochastic non-linear Poisson Boltzmann Equation**|Brian Choi et.al.|[2309.16068v1](http://arxiv.org/abs/2309.16068v1)|null|
+|**2023-09-27**|**Linear and non-linear infrared response of one-dimensional vibrational Holstein polarons in the anti-adiabatic limit: optical and acoustical phonon models**|Cyril Falvo et.al.|[2309.16001v1](http://arxiv.org/abs/2309.16001v1)|null|
+|**2023-09-27**|**Drastic reduction of dynamic liquid-solid friction in supercooled glycerol**|Mathieu Lizée et.al.|[2309.15957v1](http://arxiv.org/abs/2309.15957v1)|null|
+|**2023-09-27**|**Symmetry-specific characterization of bond orientation order in DNA-assembled nanoparticle lattices**|Jack A. Logan et.al.|[2309.15939v1](http://arxiv.org/abs/2309.15939v1)|null|
 |**2023-09-27**|**Insights into bubble droplet interactions in evaporating polymeric droplets**|Gannena K S Raghuram et.al.|[2309.15605v1](http://arxiv.org/abs/2309.15605v1)|null|
 |**2023-09-27**|**Structural properties of cyclic polyelectrolytes in dilute good solvent**|Andrzej Grzyb et.al.|[2309.15543v1](http://arxiv.org/abs/2309.15543v1)|null|
 |**2023-09-27**|**Atomistic simulations of thermodynamic properties of liquid gallium from first principles**|Hongyu Wu et.al.|[2309.15350v1](http://arxiv.org/abs/2309.15350v1)|null|
@@ -3702,6 +3712,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Quantifying orbital Rashba effect via harmonic Hall torque measurements in transition-metal|Cu|Oxide structures**|S. Krishnia et.al.|[2309.15987v1](http://arxiv.org/abs/2309.15987v1)|null|
 |**2023-09-25**|**Second-order optical response of superconductors induced by supercurrent injection**|Linghao Huang et.al.|[2309.14077v1](http://arxiv.org/abs/2309.14077v1)|null|
 |**2023-09-20**|**Generalized Kohn-Sham Approach for the Electronic Band Structure of Spin-Orbit Coupled Materials**|Jacques K. Desmarais et.al.|[2309.11158v1](http://arxiv.org/abs/2309.11158v1)|null|
 |**2023-09-18**|**Flat interior singularities for area almost-minimizing currents**|Max Goering et.al.|[2309.09634v1](http://arxiv.org/abs/2309.09634v1)|null|
