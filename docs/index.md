@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Local Changes in Protein Filament Properties Drive Large-Scale Membrane Transformations Involved in Endosome Tethering and Fusion**|Ashesh Ghosh et.al.|[2309.17434v1](http://arxiv.org/abs/2309.17434v1)|null|
+|**2023-09-29**|**Two-fluid model analysis of the terahertz conductivity of YBaCuO samples: optimally doped, underdoped and overdoped cases**|Michal Šindler et.al.|[2309.17408v1](http://arxiv.org/abs/2309.17408v1)|null|
+|**2023-09-29**|**Hydrodynamic resistance of a yeast clog**|Térence Desclaux et.al.|[2309.17137v1](http://arxiv.org/abs/2309.17137v1)|null|
+|**2023-09-29**|**A comparison of different Fourier transform procedures for analysis of diffraction data from noble gas fluids**|John E. Proctor et.al.|[2309.17135v1](http://arxiv.org/abs/2309.17135v1)|null|
+|**2023-09-29**|**Optical manipulation of sessile droplets of nematic liquid crystalline materials on the surface of a photovoltaic crystal**|R. Karapinar et.al.|[2309.17021v1](http://arxiv.org/abs/2309.17021v1)|null|
+|**2023-09-29**|**A slime mold inspired local adaptive mechanism for flow networks**|Vidyesh Rao Anisetti et.al.|[2309.16988v1](http://arxiv.org/abs/2309.16988v1)|null|
+|**2023-09-29**|**Evidence for an odd-parity nematic phase above the charge density wave transition in kagome metal CsV $_3$Sb$_5$**|T. Asaba et.al.|[2309.16985v1](http://arxiv.org/abs/2309.16985v1)|null|
+|**2023-09-28**|**Solution landscapes of ferronematics in microfluidic channels**|James Dalby et.al.|[2309.16841v1](http://arxiv.org/abs/2309.16841v1)|null|
+|**2023-09-28**|**Nonminimal planar electrodynamics modified by higher-derivative terms**|Letícia Lisboa-Santos et.al.|[2309.16839v1](http://arxiv.org/abs/2309.16839v1)|null|
+|**2023-09-28**|**Surface plasmon-polaritons in graphene, embedded into medium with gain and losses**|O. A. Zhernovnykova et.al.|[2309.16787v1](http://arxiv.org/abs/2309.16787v1)|null|
 |**2023-09-28**|**Geometric phase for nonlinear oscillators from perturbative renormalization group**|D. A. Khromov et.al.|[2309.16587v1](http://arxiv.org/abs/2309.16587v1)|null|
 |**2023-09-28**|**Local stability of spheres via the convex hull and the radical Voronoi diagram**|Peter K. Morse et.al.|[2309.16484v1](http://arxiv.org/abs/2309.16484v1)|null|
 |**2023-09-28**|**Two-point spectroscopy of Fibonacci topoelectrical circuits**|Selma Franca et.al.|[2309.16432v1](http://arxiv.org/abs/2309.16432v1)|null|
@@ -3808,6 +3818,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436v1](http://arxiv.org/abs/2309.17436v1)|null|
 |**2023-09-27**|**Engineering the in-plane anomalous hall effect in Cd $_3$As$_2$ thin films**|Wangqian Miao et.al.|[2309.15457v1](http://arxiv.org/abs/2309.15457v1)|null|
 |**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448v1](http://arxiv.org/abs/2309.14448v1)|null|
 |**2023-09-25**|**Magnetic States and Electronic Properties of Manganese-Based Intermetallic Compounds Mn $_2$YAl and Mn$_3$ Z (Y = V, Cr, Fe, Co, Ni; Z = Al, Ge, Sn, Si, Pt)**|V. V. Marchenkov et.al.|[2309.14140v1](http://arxiv.org/abs/2309.14140v1)|null|
