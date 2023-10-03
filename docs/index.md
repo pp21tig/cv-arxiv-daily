@@ -1104,6 +1104,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-29**|**Local Changes in Protein Filament Properties Drive Large-Scale Membrane Transformations Involved in Endosome Tethering and Fusion**|Ashesh Ghosh et.al.|[2309.17434v1](http://arxiv.org/abs/2309.17434v1)|null|
 |**2023-09-29**|**Two-fluid model analysis of the terahertz conductivity of YBaCuO samples: optimally doped, underdoped and overdoped cases**|Michal Šindler et.al.|[2309.17408v1](http://arxiv.org/abs/2309.17408v1)|null|
+|**2023-09-29**|**Topological interfaces crossed by defects and textures of continuous and discrete point group symmetries in spin-2 Bose-Einstein condensates**|Giuseppe Baio et.al.|[2309.17394v1](http://arxiv.org/abs/2309.17394v1)|null|
 |**2023-09-29**|**Hydrodynamic resistance of a yeast clog**|Térence Desclaux et.al.|[2309.17137v1](http://arxiv.org/abs/2309.17137v1)|null|
 |**2023-09-29**|**A comparison of different Fourier transform procedures for analysis of diffraction data from noble gas fluids**|John E. Proctor et.al.|[2309.17135v1](http://arxiv.org/abs/2309.17135v1)|null|
 |**2023-09-29**|**Optical manipulation of sessile droplets of nematic liquid crystalline materials on the surface of a photovoltaic crystal**|R. Karapinar et.al.|[2309.17021v1](http://arxiv.org/abs/2309.17021v1)|null|
