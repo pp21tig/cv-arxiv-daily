@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Flow Driven Oil Recovery Enhanced with Structural Disjoining Pressure**|Shane Laibach et.al.|[2310.02131v1](http://arxiv.org/abs/2310.02131v1)|null|
+|**2023-10-03**|**Minimalist Neural Networks training for phase classification in diluted-Ising models**|G. L. Garcia Pavioni et.al.|[2310.02122v1](http://arxiv.org/abs/2310.02122v1)|null|
+|**2023-10-03**|**Hidden Comet-Tails of Marine Snow Impede Ocean-based Carbon Sequestration**|Rahul Chajwa et.al.|[2310.01982v1](http://arxiv.org/abs/2310.01982v1)|null|
+|**2023-10-03**|**Particle pinning as a method to manipulate marginal stability**|Kumpei Shiraishi et.al.|[2310.01919v1](http://arxiv.org/abs/2310.01919v1)|null|
+|**2023-10-03**|**Pressure drop non-linearities in Fused Filament Fabrication**|Sietse de Vries et.al.|[2310.01901v1](http://arxiv.org/abs/2310.01901v1)|null|
+|**2023-10-03**|**Active Caustics**|Rahul Chajwa et.al.|[2310.01829v1](http://arxiv.org/abs/2310.01829v1)|null|
+|**2023-10-03**|**Charge Transport Through DNA with Energy-Dependent Decoherence**|Hashem Mohammad et.al.|[2310.01789v1](http://arxiv.org/abs/2310.01789v1)|null|
+|**2023-10-03**|**Active motion of tangentially-driven polymers in periodic array of obstacles**|Mohammad Fazelzadeh et.al.|[2310.01716v1](http://arxiv.org/abs/2310.01716v1)|null|
+|**2023-10-02**|**Dividing active particles in nonuniform nutrient environments**|Till Welker et.al.|[2310.01645v1](http://arxiv.org/abs/2310.01645v1)|null|
+|**2023-10-02**|**Patchy landscapes promote stability of small groups**|Gianni Jacucci et.al.|[2310.01620v1](http://arxiv.org/abs/2310.01620v1)|null|
+|**2023-10-02**|**Consistency of the Thomas-Fermi Potential from First Principles for Condensed Matter Systems**|Gionni Marchetti et.al.|[2310.01600v1](http://arxiv.org/abs/2310.01600v1)|null|
+|**2023-10-02**|**Gate-voltage switching of non-reciprocal transport in oxide-based Rashba interfaces**|Julien Bréhin et.al.|[2310.01598v1](http://arxiv.org/abs/2310.01598v1)|null|
+|**2023-10-02**|**Titration in Canonical and Grand-Canonical Ensembles**|Amin Bakhshandeh et.al.|[2310.01579v1](http://arxiv.org/abs/2310.01579v1)|null|
+|**2023-10-02**|**Microhydrodynamics of an autophoretic particle near a plane interface**|Günther Turk et.al.|[2310.01572v1](http://arxiv.org/abs/2310.01572v1)|null|
+|**2023-10-02**|**Mechanical Forces Quench Frontal Polymerization: Experiments and Theory**|Xuanhe Li et.al.|[2310.01559v1](http://arxiv.org/abs/2310.01559v1)|null|
+|**2023-10-02**|**Auxiliary Field Quantum Monte Carlo for Nuclear Physics on the Lattice**|Ryan Curry et.al.|[2310.01504v1](http://arxiv.org/abs/2310.01504v1)|null|
+|**2023-10-02**|**Cartan media: geometric continuum mechanics in homogeneous spaces**|Lukas Kikuchi et.al.|[2310.01388v1](http://arxiv.org/abs/2310.01388v1)|null|
+|**2023-10-02**|**SPLENDAQ: A Detector-Agnostic Data Acquisition System for Small-Scale Physics Experiments**|S. L. Watkins et.al.|[2310.01279v1](http://arxiv.org/abs/2310.01279v1)|null|
+|**2023-10-02**|**Emergent reprogrammable mechanical memory in soft rods network via friction tuning**|Harsh Jain et.al.|[2310.01115v1](http://arxiv.org/abs/2310.01115v1)|null|
+|**2023-10-02**|**Anomalous Hall transport by optically injected isospin degree of freedom in Dirac semimetal thin film**|Yuta Murotani et.al.|[2310.01093v1](http://arxiv.org/abs/2310.01093v1)|null|
 |**2023-09-29**|**Local Changes in Protein Filament Properties Drive Large-Scale Membrane Transformations Involved in Endosome Tethering and Fusion**|Ashesh Ghosh et.al.|[2309.17434v1](http://arxiv.org/abs/2309.17434v1)|null|
 |**2023-09-29**|**Two-fluid model analysis of the terahertz conductivity of YBaCuO samples: optimally doped, underdoped and overdoped cases**|Michal Šindler et.al.|[2309.17408v1](http://arxiv.org/abs/2309.17408v1)|null|
 |**2023-09-29**|**Topological interfaces crossed by defects and textures of continuous and discrete point group symmetries in spin-2 Bose-Einstein condensates**|Giuseppe Baio et.al.|[2309.17394v1](http://arxiv.org/abs/2309.17394v1)|null|
@@ -3530,6 +3550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**Anomalous Hall transport by optically injected isospin degree of freedom in Dirac semimetal thin film**|Yuta Murotani et.al.|[2310.01093v1](http://arxiv.org/abs/2310.01093v1)|null|
 |**2023-09-25**|**Measuring the quantum state of photoelectrons**|Hugo Laurell et.al.|[2309.13945v1](http://arxiv.org/abs/2309.13945v1)|null|
 |**2023-09-23**|**All-optical seeding of a light-induced phase transition with correlated disorder**|Allan S. Johnson et.al.|[2309.13275v1](http://arxiv.org/abs/2309.13275v1)|null|
 |**2023-09-22**|**Observation of light driven band structure via multi-band high harmonic spectroscopy**|Ayelet J. Uzan-Narovlansky et.al.|[2309.13003v1](http://arxiv.org/abs/2309.13003v1)|null|
@@ -3815,6 +3836,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052v1](http://arxiv.org/abs/2310.02052v1)|null|
+|**2023-10-02**|**Control of the magnetic anisotropy in multi-repeat Pt/Co/Al heterostructures using magneto-ionic gating**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.01623v1](http://arxiv.org/abs/2310.01623v1)|null|
+|**2023-10-01**|**Effect of Spin Fluctuations on Magnetoresistance and Anomalous Hall Effect in the Chiral Magnet Co8Zn8Mn4**|P. Saha et.al.|[2310.00739v1](http://arxiv.org/abs/2310.00739v1)|null|
 |**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436v1](http://arxiv.org/abs/2309.17436v1)|null|
 |**2023-09-27**|**Engineering the in-plane anomalous hall effect in Cd $_3$As$_2$ thin films**|Wangqian Miao et.al.|[2309.15457v1](http://arxiv.org/abs/2309.15457v1)|null|
 |**2023-09-25**|**Quantum-geometry-induced anomalous Hall effect in non-unitary superconductors and application to Sr $_2$RuO$_4$**|Jia-Long Zhang et.al.|[2309.14448v1](http://arxiv.org/abs/2309.14448v1)|null|
@@ -3931,6 +3955,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**Magnetic properties of the quasi-one-dimensional S = 1 spin chain antiferromagnet BaNiTe2O7**|Xiyu Chen et.al.|[2310.00853v1](http://arxiv.org/abs/2310.00853v1)|null|
 |**2023-09-21**|**A fast approximate method for variable-width broadening of spectra**|Jessica Farmer et.al.|[2309.12135v1](http://arxiv.org/abs/2309.12135v1)|null|
 |**2023-09-02**|**Diffuse Inelastic Neutron Scattering from Anharmonic Vibrations in Cuprite**|C. N. Saunders et.al.|[2309.00780v1](http://arxiv.org/abs/2309.00780v1)|null|
 |**2023-08-31**|**Post-experiment coincidence counting method for coincidence detection techniques**|Dezhong Cao et.al.|[2308.16746v1](http://arxiv.org/abs/2308.16746v1)|null|
