@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**The nature of non-phononic excitations in disordered systems**|Walter Schirmacher et.al.|[2310.02983v1](http://arxiv.org/abs/2310.02983v1)|null|
+|**2023-10-04**|**Giant Activity-Induced Stress Plateau in Entangled Polymer Solutions**|Davide Breoni et.al.|[2310.02929v1](http://arxiv.org/abs/2310.02929v1)|null|
+|**2023-10-04**|**Droplet tilings in precessive fields: hysteresis, elastic defects, and annealing**|Anton Molina et.al.|[2310.02841v1](http://arxiv.org/abs/2310.02841v1)|null|
+|**2023-10-04**|**Nonlinear terahertz polarizability of electrons solvated in a polar liquid**|Matthias Runge et.al.|[2310.02689v1](http://arxiv.org/abs/2310.02689v1)|null|
+|**2023-10-04**|**Force renormalization for probes immersed in an active bath**|Jeanine Shea et.al.|[2310.02683v1](http://arxiv.org/abs/2310.02683v1)|null|
+|**2023-10-04**|**Retardation Effects in Atom-Wall Interactions**|T. Das et.al.|[2310.02667v1](http://arxiv.org/abs/2310.02667v1)|null|
+|**2023-10-04**|**A Molecular Theory for Liquid Crystal Elastomers: Nematic Ordering, Shape Deformation and Mechanical Response**|Luofu Liu et.al.|[2310.02636v1](http://arxiv.org/abs/2310.02636v1)|null|
+|**2023-10-04**|**Low-energy electrodynamics of infinite-layer nickelates: evidence for d-wave superconductivity in the dirty limit**|Bing Cheng et.al.|[2310.02586v1](http://arxiv.org/abs/2310.02586v1)|null|
+|**2023-10-04**|**Unidirectional Superconductivity and Diode Effect Induced by Dissipation**|Akito Daido et.al.|[2310.02539v1](http://arxiv.org/abs/2310.02539v1)|null|
+|**2023-10-04**|**Quantitative bounds to propagation of quantum correlations in many-body systems**|Davide Girolami et.al.|[2310.02501v1](http://arxiv.org/abs/2310.02501v1)|null|
+|**2023-10-03**|**Estimating viscoelastic, soft material properties using a modified Rayleigh cavitation bubble collapse time**|Jin Yang et.al.|[2310.02475v1](http://arxiv.org/abs/2310.02475v1)|null|
+|**2023-10-03**|**The Effects of Ionic Strength on the Morphology, Scattering, and Mechanical Response of Neurofilament-derived Protein Brushes**|Takashi J. Yokokura et.al.|[2310.02463v1](http://arxiv.org/abs/2310.02463v1)|null|
+|**2023-10-03**|**Chain trajectories, domain shapes and terminal boundaries in block copolymers**|Benjamin R. Greenvall et.al.|[2310.02460v1](http://arxiv.org/abs/2310.02460v1)|null|
+|**2023-10-03**|**Controlling the size and adhesion of DNA droplets using surface-active DNA molecules**|Daqian Gao et.al.|[2310.02425v1](http://arxiv.org/abs/2310.02425v1)|null|
+|**2023-10-03**|**Control of particle transport driven by active noise: strategy of amplification via a periodic potential**|Karol Białas et.al.|[2310.02419v1](http://arxiv.org/abs/2310.02419v1)|null|
+|**2023-10-03**|**Crosslinker energy landscape effects on dynamic mechanical properties of ideal polymer hydrogels**|Eesha Khare et.al.|[2310.02400v1](http://arxiv.org/abs/2310.02400v1)|null|
+|**2023-10-03**|**Quantifying errors of the electron-proton/muon correlation functionals through the Kohn-Sham inversion of a two-component model system**|Nahid Sadat Riyahi et.al.|[2310.02397v1](http://arxiv.org/abs/2310.02397v1)|null|
+|**2023-10-03**|**Dynamical deconfinement transition driven by density of excitations**|Nishan Ranabhat et.al.|[2310.02320v1](http://arxiv.org/abs/2310.02320v1)|null|
 |**2023-10-03**|**Flow Driven Oil Recovery Enhanced with Structural Disjoining Pressure**|Shane Laibach et.al.|[2310.02131v1](http://arxiv.org/abs/2310.02131v1)|null|
 |**2023-10-03**|**Minimalist Neural Networks training for phase classification in diluted-Ising models**|G. L. Garcia Pavioni et.al.|[2310.02122v1](http://arxiv.org/abs/2310.02122v1)|null|
 |**2023-10-03**|**Hidden Comet-Tails of Marine Snow Impede Ocean-based Carbon Sequestration**|Rahul Chajwa et.al.|[2310.01982v1](http://arxiv.org/abs/2310.01982v1)|null|
@@ -3836,6 +3854,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009v1](http://arxiv.org/abs/2310.03009v1)|null|
 |**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052v1](http://arxiv.org/abs/2310.02052v1)|null|
 |**2023-10-02**|**Control of the magnetic anisotropy in multi-repeat Pt/Co/Al heterostructures using magneto-ionic gating**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.01623v1](http://arxiv.org/abs/2310.01623v1)|null|
 |**2023-10-01**|**Effect of Spin Fluctuations on Magnetoresistance and Anomalous Hall Effect in the Chiral Magnet Co8Zn8Mn4**|P. Saha et.al.|[2310.00739v1](http://arxiv.org/abs/2310.00739v1)|null|
