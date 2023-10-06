@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Role of plasticity in the universal scaling of shear thickening dense suspensions**|Sachidananda Barik et.al.|[2310.03730v1](http://arxiv.org/abs/2310.03730v1)|null|
+|**2023-10-05**|**Mobility, response and transport in non-equilibrium coarse-grained models**|Gerhard Jung et.al.|[2310.03565v1](http://arxiv.org/abs/2310.03565v1)|null|
+|**2023-10-05**|**Auxetic Granular Metamaterials**|Daan Haver et.al.|[2310.03547v1](http://arxiv.org/abs/2310.03547v1)|null|
+|**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537v1](http://arxiv.org/abs/2310.03537v1)|null|
+|**2023-10-05**|**Auxetic polymer networks: The role of crosslinking, density and disorder**|Andrea Ninarello et.al.|[2310.03488v1](http://arxiv.org/abs/2310.03488v1)|null|
+|**2023-10-05**|**Spontaneous interstitial (anti)merons in D $_{2d}$ symmetric Mn-Pt(Pd)-Sn-In system**|Bimalesh Giri et.al.|[2310.03427v1](http://arxiv.org/abs/2310.03427v1)|null|
+|**2023-10-05**|**Noise-Induced Phase Separation and Local Entropy Production Rate in Scalar Field Theories Driven by Persistent Noise**|Matteo Paoluzzi et.al.|[2310.03423v1](http://arxiv.org/abs/2310.03423v1)|null|
+|**2023-10-05**|**Eukaryotic swimming cells are shaped by hydrodynamic constraints**|Maciej Lisicki et.al.|[2310.03345v1](http://arxiv.org/abs/2310.03345v1)|null|
+|**2023-10-05**|**Biorthogonal Majorana zero modes, extended waves in continuum of bound states and non-Hermitian Toda soliton-fermion duality**|Harold Blas et.al.|[2310.03215v1](http://arxiv.org/abs/2310.03215v1)|null|
+|**2023-10-04**|**Photonic molecule approach to multi-orbital topology**|Maxim Mazanov et.al.|[2310.03160v1](http://arxiv.org/abs/2310.03160v1)|null|
+|**2023-10-04**|**Optical penetration depth and periodic motion of a photomechanical strip**|Ameneh Maghsoodi et.al.|[2310.03134v1](http://arxiv.org/abs/2310.03134v1)|null|
+|**2023-10-04**|**Universal Hyperuniformity in Active Field Theories**|Yuanjian Zheng et.al.|[2310.03107v1](http://arxiv.org/abs/2310.03107v1)|null|
+|**2023-10-04**|**Direct Measurement of Mode-resolved Electron-Phonon Coupling with Two-Dimensional Spectroscopy**|Sheng Qu et.al.|[2310.03072v1](http://arxiv.org/abs/2310.03072v1)|null|
 |**2023-10-04**|**The nature of non-phononic excitations in disordered systems**|Walter Schirmacher et.al.|[2310.02983v1](http://arxiv.org/abs/2310.02983v1)|null|
 |**2023-10-04**|**Giant Activity-Induced Stress Plateau in Entangled Polymer Solutions**|Davide Breoni et.al.|[2310.02929v1](http://arxiv.org/abs/2310.02929v1)|null|
 |**2023-10-04**|**Droplet tilings in precessive fields: hysteresis, elastic defects, and annealing**|Anton Molina et.al.|[2310.02841v1](http://arxiv.org/abs/2310.02841v1)|null|
@@ -3568,6 +3581,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Optical penetration depth and periodic motion of a photomechanical strip**|Ameneh Maghsoodi et.al.|[2310.03134v1](http://arxiv.org/abs/2310.03134v1)|null|
+|**2023-10-04**|**Direct Measurement of Mode-resolved Electron-Phonon Coupling with Two-Dimensional Spectroscopy**|Sheng Qu et.al.|[2310.03072v1](http://arxiv.org/abs/2310.03072v1)|null|
 |**2023-10-02**|**Anomalous Hall transport by optically injected isospin degree of freedom in Dirac semimetal thin film**|Yuta Murotani et.al.|[2310.01093v1](http://arxiv.org/abs/2310.01093v1)|null|
 |**2023-09-25**|**Measuring the quantum state of photoelectrons**|Hugo Laurell et.al.|[2309.13945v1](http://arxiv.org/abs/2309.13945v1)|null|
 |**2023-09-23**|**All-optical seeding of a light-induced phase transition with correlated disorder**|Allan S. Johnson et.al.|[2309.13275v1](http://arxiv.org/abs/2309.13275v1)|null|
@@ -3854,6 +3869,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576v1](http://arxiv.org/abs/2310.03576v1)|null|
 |**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009v1](http://arxiv.org/abs/2310.03009v1)|null|
 |**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052v1](http://arxiv.org/abs/2310.02052v1)|null|
 |**2023-10-02**|**Control of the magnetic anisotropy in multi-repeat Pt/Co/Al heterostructures using magneto-ionic gating**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.01623v1](http://arxiv.org/abs/2310.01623v1)|null|
