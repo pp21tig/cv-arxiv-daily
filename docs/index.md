@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Epitaxial Y1Ba2Cu3O7 thin films on CeO2 buffer layers on sapphire substrates**|M. W. Denhoff et.al.|[2310.04375v1](http://arxiv.org/abs/2310.04375v1)|null|
+|**2023-10-06**|**Computation of viscoelastic shear shock waves using finite volume schemes with artificial compressibility**|Harold Berjamin et.al.|[2310.04355v1](http://arxiv.org/abs/2310.04355v1)|null|
+|**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320v1](http://arxiv.org/abs/2310.04320v1)|null|
+|**2023-10-06**|**Physics-constrained symbolic model discovery for polyconvex incompressible hyperelastic materials**|Bahador Bahmani et.al.|[2310.04286v1](http://arxiv.org/abs/2310.04286v1)|null|
+|**2023-10-06**|**Mechanically-driven Stem Cell Separation in Tissues caused by Proliferating Daughter Cells**|Johannes C. Krämer et.al.|[2310.04272v1](http://arxiv.org/abs/2310.04272v1)|null|
+|**2023-10-06**|**High-yield atmospheric water capture via bioinspired material segregation**|Yiwei Gao et.al.|[2310.04254v1](http://arxiv.org/abs/2310.04254v1)|null|
+|**2023-10-06**|**Robustness of steady state and stochastic cyclicity in generalized coalescence-fragmentation models**|Brennen T. Fagan et.al.|[2310.04226v1](http://arxiv.org/abs/2310.04226v1)|null|
+|**2023-10-06**|**Electronic structure of MoS $_2$ revisited: a comprehensive assessment of $G_0W_0$ calculations**|Ronaldo Rodrigues Pela et.al.|[2310.04198v1](http://arxiv.org/abs/2310.04198v1)|null|
+|**2023-10-06**|**Active Control of Polariton-Enabled Long-Range Energy Transfer**|A. Cargioli et.al.|[2310.04121v1](http://arxiv.org/abs/2310.04121v1)|null|
+|**2023-10-05**|**Serrated plastic flow in slowly-deforming complex concentrated alloys: universal signatures of dislocation avalanches**|Kamran Karimi et.al.|[2310.03828v1](http://arxiv.org/abs/2310.03828v1)|null|
 |**2023-10-05**|**Role of plasticity in the universal scaling of shear thickening dense suspensions**|Sachidananda Barik et.al.|[2310.03730v1](http://arxiv.org/abs/2310.03730v1)|null|
 |**2023-10-05**|**Mobility, response and transport in non-equilibrium coarse-grained models**|Gerhard Jung et.al.|[2310.03565v1](http://arxiv.org/abs/2310.03565v1)|null|
 |**2023-10-05**|**Auxetic Granular Metamaterials**|Daan Haver et.al.|[2310.03547v1](http://arxiv.org/abs/2310.03547v1)|null|
@@ -3585,6 +3595,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Multi-Dimensional Coherent Spectroscopy of Light-Driven States and their Collective Modes in Multi-Band Superconductors**|Martin Mootz et.al.|[2310.03950v1](http://arxiv.org/abs/2310.03950v1)|null|
 |**2023-10-04**|**Optical penetration depth and periodic motion of a photomechanical strip**|Ameneh Maghsoodi et.al.|[2310.03134v1](http://arxiv.org/abs/2310.03134v1)|null|
 |**2023-10-04**|**Direct Measurement of Mode-resolved Electron-Phonon Coupling with Two-Dimensional Spectroscopy**|Sheng Qu et.al.|[2310.03072v1](http://arxiv.org/abs/2310.03072v1)|null|
 |**2023-10-02**|**Anomalous Hall transport by optically injected isospin degree of freedom in Dirac semimetal thin film**|Yuta Murotani et.al.|[2310.01093v1](http://arxiv.org/abs/2310.01093v1)|null|
