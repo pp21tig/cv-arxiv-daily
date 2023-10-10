@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Cross-Component Energy Transfer in Superfluid Helium-4**|Piotr Z. Stasiak et.al.|[2310.05826v1](http://arxiv.org/abs/2310.05826v1)|null|
+|**2023-10-09**|**Heat-induced liquid hovering in liquid--gas coexistence under gravity**|Akira Yoshida et.al.|[2310.05817v1](http://arxiv.org/abs/2310.05817v1)|null|
+|**2023-10-09**|**Strong terahertz third-harmonic generation by kinetic heavy quasiparticles in CaRuO $_3$**|C. Reinhoffer et.al.|[2310.05760v1](http://arxiv.org/abs/2310.05760v1)|null|
+|**2023-10-09**|**Desalination Performance of Nano porous Mos $_2$ Membrane on Different Salts of Saline Water: A Molecular Dynamics Study**|A K M Monjur Morshed et.al.|[2310.05729v1](http://arxiv.org/abs/2310.05729v1)|null|
+|**2023-10-09**|**Mode-Shell correspondence, a unifying theory in topological physics -- Part I: Chiral number of zero-modes**|Lucien Jezequel et.al.|[2310.05656v1](http://arxiv.org/abs/2310.05656v1)|null|
+|**2023-10-09**|**Bath-induced spin inertia**|Mario Gaspar Quarenta et.al.|[2310.05621v1](http://arxiv.org/abs/2310.05621v1)|null|
+|**2023-10-09**|**Neural network variational Monte Carlo for positronic chemistry**|G. Cassella et.al.|[2310.05607v1](http://arxiv.org/abs/2310.05607v1)|null|
+|**2023-10-09**|**Optimal encoding of two dissipative interacting qubits**|G. Di Bello et.al.|[2310.05561v1](http://arxiv.org/abs/2310.05561v1)|null|
+|**2023-10-09**|**Collective motion in a sheet of microswimmers**|Dóra Bárdfalvy et.al.|[2310.05554v1](http://arxiv.org/abs/2310.05554v1)|null|
+|**2023-10-09**|**Janus helices: From fully attractive to hard helices**|Laura Dal Compare et.al.|[2310.05545v1](http://arxiv.org/abs/2310.05545v1)|null|
+|**2023-10-09**|**Avalanche properties at the yielding transition: from externally deformed glasses to active systems**|Carlos Villarroel et.al.|[2310.05441v1](http://arxiv.org/abs/2310.05441v1)|null|
+|**2023-10-09**|**Electromagnetically driven flow in unsupported electrolyte layers: lubrication theory and linear stability of annular flow**|Andrey Pototsky et.al.|[2310.05329v1](http://arxiv.org/abs/2310.05329v1)|null|
+|**2023-10-08**|**Realization of multiple topological states and topological phase transitions in (4,0) carbon nanotube derivatives**|Yan Gao et.al.|[2310.05233v1](http://arxiv.org/abs/2310.05233v1)|null|
+|**2023-10-08**|**Fine particle percolation in a sheared granular bed**|Song Gao et.al.|[2310.05232v1](http://arxiv.org/abs/2310.05232v1)|null|
+|**2023-10-08**|**Phase behaviour of semiflexible lattice polymers in poor-solvent solution: mean-field theory and Monte Carlo simulations**|Davide Marcato et.al.|[2310.05211v1](http://arxiv.org/abs/2310.05211v1)|null|
+|**2023-10-08**|**Clustering in quasi-two-dimensional dispersions of Brownian particles with competitive interactions: Phase diagram and structural properties**|Zihan Tan et.al.|[2310.05197v1](http://arxiv.org/abs/2310.05197v1)|null|
+|**2023-10-08**|**Shear-Induced Phase Behavior and Topological Defects in Two-Dimensional Crystals**|Federico Ghimenti et.al.|[2310.05094v1](http://arxiv.org/abs/2310.05094v1)|null|
+|**2023-10-08**|**Characterizing Aqueous Foams by In-situ Viscosity Measurement in a Foam Column**|Wei Yu et.al.|[2310.05081v1](http://arxiv.org/abs/2310.05081v1)|null|
+|**2023-10-08**|**Excitable dynamics driven by mechanical feedback in biological tissues**|Fernanda Pérez-Verdugo et.al.|[2310.04950v1](http://arxiv.org/abs/2310.04950v1)|null|
+|**2023-10-07**|**Coulomb interaction-driven entanglement of electrons on helium**|Niyaz R. Beysengulov et.al.|[2310.04927v1](http://arxiv.org/abs/2310.04927v1)|null|
 |**2023-10-06**|**Epitaxial Y1Ba2Cu3O7 thin films on CeO2 buffer layers on sapphire substrates**|M. W. Denhoff et.al.|[2310.04375v1](http://arxiv.org/abs/2310.04375v1)|null|
 |**2023-10-06**|**Computation of viscoelastic shear shock waves using finite volume schemes with artificial compressibility**|Harold Berjamin et.al.|[2310.04355v1](http://arxiv.org/abs/2310.04355v1)|null|
 |**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320v1](http://arxiv.org/abs/2310.04320v1)|null|
@@ -3788,6 +3808,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**Orbital diffusion, polarization and swapping in centrosymmetric metals**|Aurélien Manchon et.al.|[2310.04763v1](http://arxiv.org/abs/2310.04763v1)|null|
 |**2023-09-27**|**Quantifying orbital Rashba effect via harmonic Hall torque measurements in transition-metal|Cu|Oxide structures**|S. Krishnia et.al.|[2309.15987v1](http://arxiv.org/abs/2309.15987v1)|null|
 |**2023-09-30**|**Second-order optical response of superconductors induced by supercurrent injection**|Linghao Huang et.al.|[2309.14077v2](http://arxiv.org/abs/2309.14077v2)|null|
 |**2023-09-20**|**Generalized Kohn-Sham Approach for the Electronic Band Structure of Spin-Orbit Coupled Materials**|Jacques K. Desmarais et.al.|[2309.11158v1](http://arxiv.org/abs/2309.11158v1)|null|
@@ -3880,6 +3901,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Surface ferromagnetism in rhombohedral heptalayer graphene moire superlattice**|Wenqiang Zhou et.al.|[2310.05319v1](http://arxiv.org/abs/2310.05319v1)|null|
+|**2023-10-07**|**Anomalous charge transport upon quantum melting of chiral spin order**|Y. Fujishiro et.al.|[2310.04823v1](http://arxiv.org/abs/2310.04823v1)|null|
 |**2023-10-06**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576v2](http://arxiv.org/abs/2310.03576v2)|null|
 |**2023-10-04**|**Electronic structure evolution of the magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$ with hole and electron doping**|Himanshu Lohani et.al.|[2310.03009v1](http://arxiv.org/abs/2310.03009v1)|null|
 |**2023-10-03**|**Berry's phase and quantum mechanical formulation of anomalous Hall effect**|Kazuo Fujikawa et.al.|[2310.02052v1](http://arxiv.org/abs/2310.02052v1)|null|
