@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Milestoning estimators of dissipation in systems observed at a coarse resolution: When ignorance is truly bliss**|Kristian Blom et.al.|[2310.06833v1](http://arxiv.org/abs/2310.06833v1)|null|
+|**2023-10-10**|**The Relational Interpretations on soft matter as intermediate asymptoitcs**|Hirokazu Maruoka et.al.|[2310.06799v1](http://arxiv.org/abs/2310.06799v1)|null|
+|**2023-10-10**|**Evanescent-field assisted photon collection from quantum emitters under a solid immersion lens**|S G Bishop et.al.|[2310.06772v1](http://arxiv.org/abs/2310.06772v1)|null|
+|**2023-10-10**|**Divergence of critical fluctuations on approaching catastrophic phase inversion in turbulent emulsions**|Lei Yi et.al.|[2310.06735v1](http://arxiv.org/abs/2310.06735v1)|null|
+|**2023-10-10**|**Finite difference method in prolate spheroidal coordinates for freely suspended spheroidal particles in linear flows of viscous and viscoelastic fluids**|Arjun Sharma et.al.|[2310.06665v1](http://arxiv.org/abs/2310.06665v1)|null|
+|**2023-10-10**|**Chiral Active Particles are Sensitive Reporter to Environmental Geometry**|Chung Wing Chan et.al.|[2310.06662v1](http://arxiv.org/abs/2310.06662v1)|null|
+|**2023-10-10**|**Emergent Facilitation and Glassy Dynamics in Supercooled Liquids**|Muhammad R. Hasyim et.al.|[2310.06584v1](http://arxiv.org/abs/2310.06584v1)|null|
+|**2023-10-10**|**Quantifying the performances of SU-8 microfluidic devices: high liquid water tightness, long-term stability, and vacuum compatibility**|Said Pashayev et.al.|[2310.06472v1](http://arxiv.org/abs/2310.06472v1)|null|
+|**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406v1](http://arxiv.org/abs/2310.06406v1)|null|
+|**2023-10-10**|**Elevated temperature effects (T > 100 $\unicode{x2103}$ ) on the interfacial water and microstructure swelling of Na-montmorillonite**|Wei Qiang Chen et.al.|[2310.06377v1](http://arxiv.org/abs/2310.06377v1)|null|
+|**2023-10-10**|**Yield Stress Fluids Solidifying in Capillary Imbibition**|Hanul Kim et.al.|[2310.06304v1](http://arxiv.org/abs/2310.06304v1)|**[link](https://github.com/hanull15/capillary_ysf)**|
+|**2023-10-09**|**Field-controlled dynamics of skyrmions and monopoles**|Jung-Shen B. Tai et.al.|[2310.06154v1](http://arxiv.org/abs/2310.06154v1)|null|
+|**2023-10-09**|**Critical phenomena of RNA-like polymers -- a synopsis**|R. Dengler et.al.|[2310.06126v1](http://arxiv.org/abs/2310.06126v1)|null|
+|**2023-10-09**|**Theory and modeling of molecular modes in the NMR relaxation of fluids**|Thiago J. Pinheiro dos Santos et.al.|[2310.06106v1](http://arxiv.org/abs/2310.06106v1)|null|
+|**2023-10-09**|**Periodic orbits, pair nucleation, and unbinding of active nematic defects on cones**|Farzan Vafa et.al.|[2310.06022v1](http://arxiv.org/abs/2310.06022v1)|null|
 |**2023-10-09**|**Cross-Component Energy Transfer in Superfluid Helium-4**|Piotr Z. Stasiak et.al.|[2310.05826v1](http://arxiv.org/abs/2310.05826v1)|null|
 |**2023-10-09**|**Heat-induced liquid hovering in liquid--gas coexistence under gravity**|Akira Yoshida et.al.|[2310.05817v1](http://arxiv.org/abs/2310.05817v1)|null|
 |**2023-10-09**|**Strong terahertz third-harmonic generation by kinetic heavy quasiparticles in CaRuO $_3$**|C. Reinhoffer et.al.|[2310.05760v1](http://arxiv.org/abs/2310.05760v1)|null|
@@ -3611,6 +3626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Flying doughnut terahertz pulses generated from semiconductor currents**|Kamalesh Jana et.al.|[2310.06262v1](http://arxiv.org/abs/2310.06262v1)|null|
 |**2023-10-09**|**Multi-Dimensional Coherent Spectroscopy of Light-Driven States and their Collective Modes in Multi-Band Superconductors**|Martin Mootz et.al.|[2310.03950v2](http://arxiv.org/abs/2310.03950v2)|null|
 |**2023-10-04**|**Optical penetration depth and periodic motion of a photomechanical strip**|Ameneh Maghsoodi et.al.|[2310.03134v1](http://arxiv.org/abs/2310.03134v1)|null|
 |**2023-10-04**|**Direct Measurement of Mode-resolved Electron-Phonon Coupling with Two-Dimensional Spectroscopy**|Sheng Qu et.al.|[2310.03072v1](http://arxiv.org/abs/2310.03072v1)|null|
@@ -3808,6 +3824,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Non-relativistic torque and Edelstein effect in noncollinear magnets**|Rafael González-Hernández et.al.|[2310.06499v1](http://arxiv.org/abs/2310.06499v1)|null|
+|**2023-10-10**|**Circulating Current Induced Electromagnetic Torque Generation in Electric Machines with Delta Windings**|Prerit Pramod et.al.|[2310.06469v1](http://arxiv.org/abs/2310.06469v1)|null|
 |**2023-10-07**|**Orbital diffusion, polarization and swapping in centrosymmetric metals**|Aurélien Manchon et.al.|[2310.04763v1](http://arxiv.org/abs/2310.04763v1)|null|
 |**2023-09-27**|**Quantifying orbital Rashba effect via harmonic Hall torque measurements in transition-metal|Cu|Oxide structures**|S. Krishnia et.al.|[2309.15987v1](http://arxiv.org/abs/2309.15987v1)|null|
 |**2023-09-30**|**Second-order optical response of superconductors induced by supercurrent injection**|Linghao Huang et.al.|[2309.14077v2](http://arxiv.org/abs/2309.14077v2)|null|
