@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Viscoelastic increase of detachment stress of a rigid punch from adhesive soft viscoelastic layers**|Ali Maghami et.al.|[2310.07597v1](http://arxiv.org/abs/2310.07597v1)|null|
+|**2023-10-11**|**Synthesis of achiral rod-shaped triazolic molecules and investigation of their striped texture and propeller-patterned nematic droplets**|Souria Benalloua et.al.|[2310.07586v1](http://arxiv.org/abs/2310.07586v1)|null|
+|**2023-10-11**|**Metastable elastocapillary systems with negative compressibility**|Davide Caprini et.al.|[2310.07580v1](http://arxiv.org/abs/2310.07580v1)|null|
+|**2023-10-11**|**Boiling peak heat flux for steady inhomogeneous heat transfer in superfluid $^4$ He**|Sosuke Inui et.al.|[2310.07546v1](http://arxiv.org/abs/2310.07546v1)|null|
+|**2023-10-11**|**Partial and complete wetting of droplets of active Brownian particles**|Francesco Turci et.al.|[2310.07531v1](http://arxiv.org/abs/2310.07531v1)|null|
+|**2023-10-11**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409v1](http://arxiv.org/abs/2310.07409v1)|null|
+|**2023-10-11**|**Adsorption of fragrance capsules onto cellulose nano- and micro-cellulose fibers in presence of guar biopolymers**|Evdokia K. Oikonomou et.al.|[2310.07303v1](http://arxiv.org/abs/2310.07303v1)|null|
+|**2023-10-11**|**The Ubiquity of Diffusiophoresis: Exploring Human Population Dynamics While Including Concentration Gradient-Driven Advection**|Benjamin M. Alessio et.al.|[2310.07185v1](http://arxiv.org/abs/2310.07185v1)|null|
+|**2023-10-11**|**Many-body Chern insulator in the Kondo lattice model on a triangular lattice**|Kota Ido et.al.|[2310.07094v1](http://arxiv.org/abs/2310.07094v1)|null|
+|**2023-10-10**|**Many-Body Dissipative Particle Dynamics with the MARTINI "Lego'' approach**|Luis H. Carnevale et.al.|[2310.06883v1](http://arxiv.org/abs/2310.06883v1)|null|
 |**2023-10-11**|**Milestoning estimators of dissipation in systems observed at a coarse resolution: When ignorance is truly bliss**|Kristian Blom et.al.|[2310.06833v2](http://arxiv.org/abs/2310.06833v2)|null|
 |**2023-10-10**|**The Relational Interpretations on soft matter as intermediate asymptoitcs**|Hirokazu Maruoka et.al.|[2310.06799v1](http://arxiv.org/abs/2310.06799v1)|null|
 |**2023-10-10**|**Evanescent-field assisted photon collection from quantum emitters under a solid immersion lens**|S G Bishop et.al.|[2310.06772v1](http://arxiv.org/abs/2310.06772v1)|null|
@@ -3923,6 +3933,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140v1](http://arxiv.org/abs/2310.07140v1)|null|
 |**2023-10-09**|**Surface ferromagnetism in rhombohedral heptalayer graphene moire superlattice**|Wenqiang Zhou et.al.|[2310.05319v1](http://arxiv.org/abs/2310.05319v1)|null|
 |**2023-10-07**|**Anomalous charge transport upon quantum melting of chiral spin order**|Y. Fujishiro et.al.|[2310.04823v1](http://arxiv.org/abs/2310.04823v1)|null|
 |**2023-10-06**|**Anomalous Hall effect by chiral spin textures in two-dimensional Luttinger model**|Ryunosuke Terasawa et.al.|[2310.03576v2](http://arxiv.org/abs/2310.03576v2)|null|
