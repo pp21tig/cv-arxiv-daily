@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Neural network approach to quasiparticle dispersions in doped antiferromagnets**|Hannah Lange et.al.|[2310.08578v1](http://arxiv.org/abs/2310.08578v1)|null|
+|**2023-10-12**|**Plasmon dispersion and Landau damping in the nonlinear quantum regime**|F. Haas et.al.|[2310.08544v1](http://arxiv.org/abs/2310.08544v1)|null|
+|**2023-10-12**|**Curved-crease origami for morphing metamaterials**|Asma Karami et.al.|[2310.08520v1](http://arxiv.org/abs/2310.08520v1)|null|
+|**2023-10-12**|**Willis elasticity from microcontinuum field theories: Asymptotics, microstructure-property relationships, and cloaking**|Hussein Nassar et.al.|[2310.08463v1](http://arxiv.org/abs/2310.08463v1)|null|
+|**2023-10-12**|**Time-resolved Broadband Spectroscopy of Coherent Lattice Dynamics in a Rashba Material**|Peter Fischer et.al.|[2310.08411v1](http://arxiv.org/abs/2310.08411v1)|null|
+|**2023-10-12**|**Giant thermoelectric response of confined electrolytes with thermally activated charge carrier generation**|Rajkumar Sarma et.al.|[2310.08402v1](http://arxiv.org/abs/2310.08402v1)|null|
+|**2023-10-12**|**Physical phase field model for phagocytosis**|Benjamin Winkler et.al.|[2310.08321v1](http://arxiv.org/abs/2310.08321v1)|null|
+|**2023-10-12**|**The carnivorous plant Genlisea harnesses active particle dynamics to prey on microfauna**|José Martín-Roca et.al.|[2310.08216v1](http://arxiv.org/abs/2310.08216v1)|null|
+|**2023-10-12**|**${\it Fibrotaxis}$ : gradient-free, spontaneous and controllable droplet motion on soft solids**|Sthavishtha R. Bhopalam et.al.|[2310.08113v1](http://arxiv.org/abs/2310.08113v1)|null|
+|**2023-10-12**|**Inverse problems in elastohydrodynamics**|Kaare H. Jensen et.al.|[2310.08077v1](http://arxiv.org/abs/2310.08077v1)|null|
+|**2023-10-12**|**Lattice real-time simulations with learned optimal kernels**|Daniel Alvestad et.al.|[2310.08053v1](http://arxiv.org/abs/2310.08053v1)|null|
+|**2023-10-12**|**Giant Acceleration of Diffusion in Soft Matter Potential**|Yu Lu et.al.|[2310.08003v1](http://arxiv.org/abs/2310.08003v1)|null|
+|**2023-10-12**|**Multistability for Nematic Liquid Crystals in Cuboids with Degenerate Planar Boundary Conditions**|Baoming Shi et.al.|[2310.07982v1](http://arxiv.org/abs/2310.07982v1)|null|
+|**2023-10-12**|**Charge-Driven Liquid-Crystalline Behavior of Ligand-Functionalized Nanorods in Apolar Solvent**|Jeongmo Kim et.al.|[2310.07959v1](http://arxiv.org/abs/2310.07959v1)|null|
+|**2023-10-11**|**Rheological signatures of a glass-glass transition in an aging colloidal clay**|Roberta Angelini et.al.|[2310.07910v1](http://arxiv.org/abs/2310.07910v1)|null|
+|**2023-10-11**|**Generalized black branes in AdS/CMT and holographic superconductors**|Roldao da Rocha et.al.|[2310.07860v1](http://arxiv.org/abs/2310.07860v1)|null|
+|**2023-10-11**|**Towards a complete mean-field theory for the ductile and brittle yielding of amorphous solids: beyond the paradigm of the Ising model in a random field**|Jack T. Parley et.al.|[2310.07843v1](http://arxiv.org/abs/2310.07843v1)|null|
+|**2023-10-11**|**Charge Separation at Interfaces of Phase-Separated Coacervates**|Arghya Majee et.al.|[2310.07835v1](http://arxiv.org/abs/2310.07835v1)|null|
 |**2023-10-11**|**Viscoelastic increase of detachment stress of a rigid punch from adhesive soft viscoelastic layers**|Ali Maghami et.al.|[2310.07597v1](http://arxiv.org/abs/2310.07597v1)|null|
 |**2023-10-11**|**Synthesis of achiral rod-shaped triazolic molecules and investigation of their striped texture and propeller-patterned nematic droplets**|Souria Benalloua et.al.|[2310.07586v1](http://arxiv.org/abs/2310.07586v1)|null|
 |**2023-10-11**|**Metastable elastocapillary systems with negative compressibility**|Davide Caprini et.al.|[2310.07580v1](http://arxiv.org/abs/2310.07580v1)|null|
@@ -3640,6 +3658,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Light-Induced Nonthermal Phase Transition to the Topological Crystalline Insulator State in SnSe**|Stefano Mocatti et.al.|[2310.08341v1](http://arxiv.org/abs/2310.08341v1)|null|
+|**2023-10-12**|**Gate-controlled suppression of light-driven proton transport through graphene electrodes**|S. Huang et.al.|[2310.08105v1](http://arxiv.org/abs/2310.08105v1)|null|
 |**2023-10-10**|**Flying doughnut terahertz pulses generated from semiconductor currents**|Kamalesh Jana et.al.|[2310.06262v1](http://arxiv.org/abs/2310.06262v1)|null|
 |**2023-10-09**|**Multi-Dimensional Coherent Spectroscopy of Light-Driven States and their Collective Modes in Multi-Band Superconductors**|Martin Mootz et.al.|[2310.03950v2](http://arxiv.org/abs/2310.03950v2)|null|
 |**2023-10-04**|**Optical penetration depth and periodic motion of a photomechanical strip**|Ameneh Maghsoodi et.al.|[2310.03134v1](http://arxiv.org/abs/2310.03134v1)|null|
