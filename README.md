@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Driven transport of active particles through arrays of symmetric obstacles**|Shubhadip Nayak et.al.|[2310.09272v1](http://arxiv.org/abs/2310.09272v1)|null|
+|**2023-10-13**|**A Bouquet for Apollonius: Focal Conics in Sessile Cholesteric Droplets**|Randall D. Kamien et.al.|[2310.09212v1](http://arxiv.org/abs/2310.09212v1)|null|
+|**2023-10-13**|**Adiabatic perturbation theory for two-component systems with one heavy component**|Ryan Requist et.al.|[2310.09189v1](http://arxiv.org/abs/2310.09189v1)|null|
+|**2023-10-13**|**An explicit evolution from Néel to striped antiferromagnetic states in the spin-1/2 $J_{1}$-$J_{2}$ Heisenberg model on the square lattice**|Yun-Tong Yang et.al.|[2310.09174v1](http://arxiv.org/abs/2310.09174v1)|null|
+|**2023-10-13**|**Optimal chirality enhances long-range fluctuation-induced interactions in active fluids**|Hashem Fatemi et.al.|[2310.08973v1](http://arxiv.org/abs/2310.08973v1)|null|
+|**2023-10-13**|**Multi-point distribution for Gaussian non-equilibrium non-Markovian observables**|Roland R Netz et.al.|[2310.08886v1](http://arxiv.org/abs/2310.08886v1)|null|
+|**2023-10-12**|**Pump Pulse Bandwidth-Activated Nonlinear Phononic Coupling in CdWO $_4$**|Megan F. Biggs et.al.|[2310.08747v1](http://arxiv.org/abs/2310.08747v1)|null|
+|**2023-10-12**|**Comment on pressure driven flow of superfluid $^4$ He through a nanopipe (Botimer and Taborek 2016)**|Phil Attard et.al.|[2310.08736v1](http://arxiv.org/abs/2310.08736v1)|null|
+|**2023-10-12**|**Space-time symmetry and parametric resonance in dynamic mechanical systems**|Abhijeet Melkani et.al.|[2310.08734v1](http://arxiv.org/abs/2310.08734v1)|null|
+|**2023-10-12**|**Free-space and near-wall dynamics of a flexible sheet sedimenting in Stokes flow**|Yijiang Yu et.al.|[2310.08722v1](http://arxiv.org/abs/2310.08722v1)|null|
+|**2023-10-12**|**Probe particles in odd active viscoelastic fluids: how activity and dissipation determine linear stability**|Charlie Duclut et.al.|[2310.08640v1](http://arxiv.org/abs/2310.08640v1)|null|
 |**2023-10-12**|**Neural network approach to quasiparticle dispersions in doped antiferromagnets**|Hannah Lange et.al.|[2310.08578v1](http://arxiv.org/abs/2310.08578v1)|null|
 |**2023-10-12**|**Plasmon dispersion and Landau damping in the nonlinear quantum regime**|F. Haas et.al.|[2310.08544v1](http://arxiv.org/abs/2310.08544v1)|null|
 |**2023-10-12**|**Curved-crease origami for morphing metamaterials**|Asma Karami et.al.|[2310.08520v1](http://arxiv.org/abs/2310.08520v1)|null|
@@ -3854,6 +3865,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Limitations of mean-field approximations in describing shift-current and injection-current in materials**|Shunsuke A. Sato et.al.|[2310.08875v1](http://arxiv.org/abs/2310.08875v1)|null|
 |**2023-10-10**|**Non-relativistic torque and Edelstein effect in noncollinear magnets**|Rafael González-Hernández et.al.|[2310.06499v1](http://arxiv.org/abs/2310.06499v1)|null|
 |**2023-10-10**|**Circulating Current Induced Electromagnetic Torque Generation in Electric Machines with Delta Windings**|Prerit Pramod et.al.|[2310.06469v1](http://arxiv.org/abs/2310.06469v1)|null|
 |**2023-10-07**|**Orbital diffusion, polarization and swapping in centrosymmetric metals**|Aurélien Manchon et.al.|[2310.04763v1](http://arxiv.org/abs/2310.04763v1)|null|
@@ -3949,6 +3961,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134v1](http://arxiv.org/abs/2310.09134v1)|null|
 |**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140v1](http://arxiv.org/abs/2310.07140v1)|null|
 |**2023-10-09**|**Surface ferromagnetism in rhombohedral heptalayer graphene moire superlattice**|Wenqiang Zhou et.al.|[2310.05319v1](http://arxiv.org/abs/2310.05319v1)|null|
 |**2023-10-07**|**Anomalous charge transport upon quantum melting of chiral spin order**|Y. Fujishiro et.al.|[2310.04823v1](http://arxiv.org/abs/2310.04823v1)|null|
@@ -4073,6 +4086,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Phonon thermal transport in UO $_2$ via self-consistent perturbation theory**|Shuxiang Zhou et.al.|[2310.09282v1](http://arxiv.org/abs/2310.09282v1)|null|
+|**2023-10-13**|**Magnetic structure, excitations and field induced transitions in the honeycomb lattice $\rm{Er_2Si_2O_7}$**|M. Islam et.al.|[2310.09268v1](http://arxiv.org/abs/2310.09268v1)|null|
 |**2023-10-02**|**Magnetic properties of the quasi-one-dimensional S = 1 spin chain antiferromagnet BaNiTe2O7**|Xiyu Chen et.al.|[2310.00853v1](http://arxiv.org/abs/2310.00853v1)|null|
 |**2023-09-21**|**A fast approximate method for variable-width broadening of spectra**|Jessica Farmer et.al.|[2309.12135v1](http://arxiv.org/abs/2309.12135v1)|null|
 |**2023-09-02**|**Diffuse Inelastic Neutron Scattering from Anharmonic Vibrations in Cuprite**|C. N. Saunders et.al.|[2309.00780v1](http://arxiv.org/abs/2309.00780v1)|null|
