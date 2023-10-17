@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Electronic Transport and Fermi Surface Topology of Zintl phase Dirac Semimetal SrZn2Ge2**|M. K. Hooda et.al.|[2310.10621v1](http://arxiv.org/abs/2310.10621v1)|null|
+|**2023-10-16**|**A geometry-originated universal relation for arbitrary convex hard particles**|Yuheng Yang et.al.|[2310.10551v1](http://arxiv.org/abs/2310.10551v1)|null|
+|**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437v1](http://arxiv.org/abs/2310.10437v1)|null|
+|**2023-10-16**|**Magnetic contrast layers with functional SiO2 coatings for soft matter studies with polarised neutron reflectometry**|Olga Dikaia et.al.|[2310.10340v1](http://arxiv.org/abs/2310.10340v1)|null|
+|**2023-10-16**|**Structure and properties of lead silicate glasses**|Daniel Caurant et.al.|[2310.10323v1](http://arxiv.org/abs/2310.10323v1)|null|
+|**2023-10-16**|**Room temperature nonvolatile optical control of polar order in a charge density wave**|QM Liu et.al.|[2310.10293v1](http://arxiv.org/abs/2310.10293v1)|null|
+|**2023-10-16**|**Majorana Fermion Mean-Field Theories of Kitaev Quantum Spin Liquids**|Shahnam Ghanbari Saheli et.al.|[2310.10230v1](http://arxiv.org/abs/2310.10230v1)|null|
+|**2023-10-16**|**Active Colloidal Loops and Knots**|Panayiota Katsamba et.al.|[2310.10217v1](http://arxiv.org/abs/2310.10217v1)|null|
+|**2023-10-16**|**Multiflagellate Swimming Controlled by Interflagella Hydrodynamic Interactions**|Shiyuan Hu et.al.|[2310.10189v1](http://arxiv.org/abs/2310.10189v1)|null|
+|**2023-10-16**|**Digital Microfluidics? How Magnetically Driven Orientation of Pillars Influences Droplet Positioning**|Blandine Bolteau et.al.|[2310.10116v1](http://arxiv.org/abs/2310.10116v1)|null|
+|**2023-10-16**|**Gravitational wave analogues in spin nematics and cold atoms**|Leilee Chojnacki et.al.|[2310.10078v1](http://arxiv.org/abs/2310.10078v1)|null|
+|**2023-10-16**|**Defect-induced helicity-dependent terahertz emission in Dirac semimetal PtTe2 thin films**|Zhongqiang Chen et.al.|[2310.09989v1](http://arxiv.org/abs/2310.09989v1)|null|
+|**2023-10-15**|**Anisotropic short-range attractions precisely model branched erythrocyte aggregates**|Megha Yadav et.al.|[2310.09976v1](http://arxiv.org/abs/2310.09976v1)|null|
+|**2023-10-15**|**Odd mechanical screening in disordered solids]{Odd mechanical screening in disordered solids**|Yael Cohen et.al.|[2310.09942v1](http://arxiv.org/abs/2310.09942v1)|null|
+|**2023-10-15**|**Laboratory glass transition in granular gases and non-linear molecular fluids**|A. Patrón et.al.|[2310.09914v1](http://arxiv.org/abs/2310.09914v1)|null|
+|**2023-10-15**|**Memory switching due to thermal noise in amorphous solids subject to cyclic shear**|Debjyoti Majumdar et.al.|[2310.09869v1](http://arxiv.org/abs/2310.09869v1)|null|
+|**2023-10-15**|**Scale Separation of Shear-induced Criticality in Glasses**|Norihiro Oyama et.al.|[2310.09785v1](http://arxiv.org/abs/2310.09785v1)|null|
+|**2023-10-14**|**Reduced probability densities of long-lived metastable states as those of distributed thermal systems: possible experimental implications for supercooled fluids**|Zohar Nussinov et.al.|[2310.09641v1](http://arxiv.org/abs/2310.09641v1)|null|
+|**2023-10-14**|**Projective Spacetime Symmetry of Spacetime Crystals**|Zheng Zhang et.al.|[2310.09577v1](http://arxiv.org/abs/2310.09577v1)|null|
+|**2023-10-14**|**Confinement-induced drift in Marangoni-driven transport of surfactant: a Lagrangian perspective**|Richard Mcnair et.al.|[2310.09559v1](http://arxiv.org/abs/2310.09559v1)|null|
 |**2023-10-13**|**Driven transport of active particles through arrays of symmetric obstacles**|Shubhadip Nayak et.al.|[2310.09272v1](http://arxiv.org/abs/2310.09272v1)|null|
 |**2023-10-13**|**A Bouquet for Apollonius: Focal Conics in Sessile Cholesteric Droplets**|Randall D. Kamien et.al.|[2310.09212v1](http://arxiv.org/abs/2310.09212v1)|null|
 |**2023-10-13**|**Adiabatic perturbation theory for two-component systems with one heavy component**|Ryan Requist et.al.|[2310.09189v1](http://arxiv.org/abs/2310.09189v1)|null|
@@ -3865,6 +3885,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Coherence-enhanced thermodynamic performance in periodically driven thermoelectric heat engines**|Jincheng Lu et.al.|[2310.10465v1](http://arxiv.org/abs/2310.10465v1)|null|
+|**2023-10-13**|**Supercurrent-induced spin switching via indirect exchange interaction**|Chi Sun et.al.|[2310.09324v1](http://arxiv.org/abs/2310.09324v1)|null|
 |**2023-10-13**|**Limitations of mean-field approximations in describing shift-current and injection-current in materials**|Shunsuke A. Sato et.al.|[2310.08875v1](http://arxiv.org/abs/2310.08875v1)|null|
 |**2023-10-10**|**Non-relativistic torque and Edelstein effect in noncollinear magnets**|Rafael González-Hernández et.al.|[2310.06499v1](http://arxiv.org/abs/2310.06499v1)|null|
 |**2023-10-10**|**Circulating Current Induced Electromagnetic Torque Generation in Electric Machines with Delta Windings**|Prerit Pramod et.al.|[2310.06469v1](http://arxiv.org/abs/2310.06469v1)|null|
@@ -3961,6 +3983,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562v1](http://arxiv.org/abs/2310.10562v1)|null|
+|**2023-10-13**|**Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi**|Yuxiang Gao et.al.|[2310.09364v1](http://arxiv.org/abs/2310.09364v1)|null|
 |**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134v1](http://arxiv.org/abs/2310.09134v1)|null|
 |**2023-10-11**|**Absence of topological Hall effect in Fe $_x$Rh$_{100-x}$ epitaxial films: revisiting their phase diagram**|Xiaoyan Zhu et.al.|[2310.07140v1](http://arxiv.org/abs/2310.07140v1)|null|
 |**2023-10-09**|**Surface ferromagnetism in rhombohedral heptalayer graphene moire superlattice**|Wenqiang Zhou et.al.|[2310.05319v1](http://arxiv.org/abs/2310.05319v1)|null|
@@ -4086,6 +4110,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Implementation of a laser-neutron pump-probe capability at HYSPEC**|Chengyun Hua et.al.|[2310.10540v1](http://arxiv.org/abs/2310.10540v1)|null|
+|**2023-10-15**|**Heterogeneous anomalous transport in cellular and molecular biology**|Thomas A. Waigh et.al.|[2310.09950v1](http://arxiv.org/abs/2310.09950v1)|null|
 |**2023-10-13**|**Phonon thermal transport in UO $_2$ via self-consistent perturbation theory**|Shuxiang Zhou et.al.|[2310.09282v1](http://arxiv.org/abs/2310.09282v1)|null|
 |**2023-10-13**|**Magnetic structure, excitations and field induced transitions in the honeycomb lattice $\rm{Er_2Si_2O_7}$**|M. Islam et.al.|[2310.09268v1](http://arxiv.org/abs/2310.09268v1)|null|
 |**2023-10-02**|**Magnetic properties of the quasi-one-dimensional S = 1 spin chain antiferromagnet BaNiTe2O7**|Xiyu Chen et.al.|[2310.00853v1](http://arxiv.org/abs/2310.00853v1)|null|
