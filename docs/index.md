@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Elastodynamics of a soft strip subject to a large deformation**|Alexandre Delory et.al.|[2310.11396v1](http://arxiv.org/abs/2310.11396v1)|null|
+|**2023-10-17**|**Quantum Computing Simulation of a Mixed Spin-Boson Hamiltonian and Its Performance for a Cavity Quantum Electrodynamics Problem**|Maria Tudorovskaya et.al.|[2310.11342v1](http://arxiv.org/abs/2310.11342v1)|null|
+|**2023-10-17**|**QUEST-DMC superfluid $^3$ He detector for sub-GeV dark matter**|S. Autti et.al.|[2310.11304v1](http://arxiv.org/abs/2310.11304v1)|null|
+|**2023-10-17**|**Thermodynamic cost of finite-time stochastic resetting**|Kristian Stølevik Olsen et.al.|[2310.11267v1](http://arxiv.org/abs/2310.11267v1)|null|
+|**2023-10-17**|**Effect of Counterion Size on Polyelectrolyte Conformations and Thermodynamics**|Souradeep Ghosh et.al.|[2310.11250v1](http://arxiv.org/abs/2310.11250v1)|null|
+|**2023-10-17**|**Influence of the Graft Length on Nanocomposite Structure and Interfacial Dynamics**|Anne-Caroline Genix et.al.|[2310.11201v1](http://arxiv.org/abs/2310.11201v1)|null|
+|**2023-10-17**|**Viscoelastic wetting: Cox-Voinov theory with normal stress effects**|Minkush Kansal et.al.|[2310.11114v1](http://arxiv.org/abs/2310.11114v1)|null|
+|**2023-10-17**|**Inverse design of a pyrochlore lattice of DNA origami through model-driven experiments**|Hao Liu et.al.|[2310.10995v1](http://arxiv.org/abs/2310.10995v1)|**[link](https://github.com/lorenzo-rovigatti/oxdna)**|
+|**2023-10-16**|**Basal force fluctuations and granular rheology: Linking macroscopic descriptions of granular flows to bed forces with implications for monitoring signals**|P. J. Zrelak et.al.|[2310.10871v1](http://arxiv.org/abs/2310.10871v1)|null|
+|**2023-10-16**|**Direct observation of small scale capillary wave turbulence using high speed digital holographic microscopy**|William Connacher et.al.|[2310.10840v1](http://arxiv.org/abs/2310.10840v1)|null|
+|**2023-10-16**|**Elucidating the Role of Filament Turnover in Cortical Flow using Simulations and Representation Learning**|Yuqing Qiu et.al.|[2310.10819v1](http://arxiv.org/abs/2310.10819v1)|null|
 |**2023-10-16**|**Electronic Transport and Fermi Surface Topology of Zintl phase Dirac Semimetal SrZn2Ge2**|M. K. Hooda et.al.|[2310.10621v1](http://arxiv.org/abs/2310.10621v1)|null|
 |**2023-10-16**|**A geometry-originated universal relation for arbitrary convex hard particles**|Yuheng Yang et.al.|[2310.10551v1](http://arxiv.org/abs/2310.10551v1)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437v1](http://arxiv.org/abs/2310.10437v1)|null|
@@ -3689,6 +3700,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Optical Regulation of Chiral-Induced Spin Selectivity**|Wei Liu et.al.|[2310.10929v1](http://arxiv.org/abs/2310.10929v1)|null|
 |**2023-10-12**|**Light-Induced Nonthermal Phase Transition to the Topological Crystalline Insulator State in SnSe**|Stefano Mocatti et.al.|[2310.08341v1](http://arxiv.org/abs/2310.08341v1)|null|
 |**2023-10-12**|**Gate-controlled suppression of light-driven proton transport through graphene electrodes**|S. Huang et.al.|[2310.08105v1](http://arxiv.org/abs/2310.08105v1)|null|
 |**2023-10-10**|**Flying doughnut terahertz pulses generated from semiconductor currents**|Kamalesh Jana et.al.|[2310.06262v1](http://arxiv.org/abs/2310.06262v1)|null|
@@ -3987,6 +3999,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378v1](http://arxiv.org/abs/2310.11378v1)|null|
 |**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562v1](http://arxiv.org/abs/2310.10562v1)|null|
 |**2023-10-13**|**Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi**|Yuxiang Gao et.al.|[2310.09364v1](http://arxiv.org/abs/2310.09364v1)|null|
 |**2023-10-13**|**Coexistence of Anomalous Hall Effect and Weak Net Magnetization in Collinear Antiferromagnet MnTe**|K. P. Kluczyk et.al.|[2310.09134v1](http://arxiv.org/abs/2310.09134v1)|null|
