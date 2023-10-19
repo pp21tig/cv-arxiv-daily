@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Accessing ultrafast spin-transport dynamics in copper using broadband terahertz spectroscopy**|Jiří Jechumtál et.al.|[2310.12082v1](http://arxiv.org/abs/2310.12082v1)|null|
+|**2023-10-18**|**Two-Dimensional Noble Metal Chalcogenides in the Frustrated Snub-Square Lattice**|Hai-Chen Wang et.al.|[2310.12048v1](http://arxiv.org/abs/2310.12048v1)|null|
+|**2023-10-18**|**A soft departure from jamming: the compaction of deformable granular matter under high pressures**|Joel T. Clemmer et.al.|[2310.12009v1](http://arxiv.org/abs/2310.12009v1)|null|
+|**2023-10-18**|**Highly indistinguishable single photons from droplet-etched GaAs quantum dots integrated in single-mode waveguides and beamsplitters**|Florian Hornung et.al.|[2310.11899v1](http://arxiv.org/abs/2310.11899v1)|null|
+|**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743v1](http://arxiv.org/abs/2310.11743v1)|null|
+|**2023-10-18**|**Dirac quantum spin liquid emerging in a kagome-lattice antiferromagnet**|Zhenyuan Zeng et.al.|[2310.11646v1](http://arxiv.org/abs/2310.11646v1)|null|
+|**2023-10-18**|**Towards a Topological Classification of Nonadiabaticity in Chemical Reactions**|Christopher Daggett et.al.|[2310.11633v1](http://arxiv.org/abs/2310.11633v1)|null|
+|**2023-10-17**|**Improving Interface Physics Understanding in High-Frequency Cryogenic Normal Conducting Cavities**|Gerard Lawler et.al.|[2310.11578v1](http://arxiv.org/abs/2310.11578v1)|null|
+|**2023-10-17**|**Cut it out: Out-of-plane stresses in cell sheet folding of Volvox embryos**|Pierre A. Haas et.al.|[2310.11517v1](http://arxiv.org/abs/2310.11517v1)|null|
+|**2023-10-17**|**Approximate Expressions for the Capillary Force and the Surface Area of a Liquid Bridge between Identical Spheres**|Meysam Bagheri et.al.|[2310.11485v1](http://arxiv.org/abs/2310.11485v1)|null|
 |**2023-10-18**|**Elastodynamics of a soft strip subject to a large deformation**|Alexandre Delory et.al.|[2310.11396v2](http://arxiv.org/abs/2310.11396v2)|null|
 |**2023-10-17**|**Quantum Computing Simulation of a Mixed Spin-Boson Hamiltonian and Its Performance for a Cavity Quantum Electrodynamics Problem**|Maria Tudorovskaya et.al.|[2310.11342v1](http://arxiv.org/abs/2310.11342v1)|null|
 |**2023-10-17**|**QUEST-DMC superfluid $^3$ He detector for sub-GeV dark matter**|S. Autti et.al.|[2310.11304v1](http://arxiv.org/abs/2310.11304v1)|null|
@@ -3696,6 +3706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Quantum control of ro-vibrational dynamics and application to light-induced molecular chirality**|Monika Leibscher et.al.|[2310.11570v1](http://arxiv.org/abs/2310.11570v1)|null|
 |**2023-10-17**|**Optical Regulation of Chiral-Induced Spin Selectivity**|Wei Liu et.al.|[2310.10929v1](http://arxiv.org/abs/2310.10929v1)|null|
 |**2023-10-12**|**Light-Induced Nonthermal Phase Transition to the Topological Crystalline Insulator State in SnSe**|Stefano Mocatti et.al.|[2310.08341v1](http://arxiv.org/abs/2310.08341v1)|null|
 |**2023-10-12**|**Gate-controlled suppression of light-driven proton transport through graphene electrodes**|S. Huang et.al.|[2310.08105v1](http://arxiv.org/abs/2310.08105v1)|null|
@@ -3897,6 +3908,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Disordered Mott insulators in strong electric fields**|Tommaso Maria Mazzocchi et.al.|[2310.11833v1](http://arxiv.org/abs/2310.11833v1)|null|
 |**2023-10-16**|**Coherence-enhanced thermodynamic performance in periodically driven thermoelectric heat engines**|Jincheng Lu et.al.|[2310.10465v1](http://arxiv.org/abs/2310.10465v1)|null|
 |**2023-10-13**|**Supercurrent-induced spin switching via indirect exchange interaction**|Chi Sun et.al.|[2310.09324v1](http://arxiv.org/abs/2310.09324v1)|null|
 |**2023-10-13**|**Limitations of mean-field approximations in describing shift-current and injection-current in materials**|Shunsuke A. Sato et.al.|[2310.08875v1](http://arxiv.org/abs/2310.08875v1)|null|
@@ -4123,6 +4135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**A new inelastic neutron spectrometer HODACA**|Hodaka Kikuchi et.al.|[2310.11463v1](http://arxiv.org/abs/2310.11463v1)|null|
 |**2023-10-16**|**Implementation of a laser-neutron pump-probe capability at HYSPEC**|Chengyun Hua et.al.|[2310.10540v1](http://arxiv.org/abs/2310.10540v1)|null|
 |**2023-10-15**|**Heterogeneous anomalous transport in cellular and molecular biology**|Thomas A. Waigh et.al.|[2310.09950v1](http://arxiv.org/abs/2310.09950v1)|null|
 |**2023-10-13**|**Phonon thermal transport in UO $_2$ via self-consistent perturbation theory**|Shuxiang Zhou et.al.|[2310.09282v1](http://arxiv.org/abs/2310.09282v1)|null|
