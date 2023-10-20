@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Active Solids: Rigid Body Motion and Shape-changing Mechanisms**|Claudio Hernández-López et.al.|[2310.12879v1](http://arxiv.org/abs/2310.12879v1)|null|
+|**2023-10-19**|**On the contact conditions for the density and charge profiles in the theory of electrical double layer: From planar to spherical and cylindrical geometry**|Myroslav Holovko et.al.|[2310.12783v1](http://arxiv.org/abs/2310.12783v1)|null|
+|**2023-10-19**|**Nonequilibrium Probability Currents in Optically-Driven Colloidal Suspensions**|Samudrajit Thapa et.al.|[2310.12718v1](http://arxiv.org/abs/2310.12718v1)|null|
+|**2023-10-19**|**A Novel Ferroelectric Rashba Semiconductor**|Gauthier Krizman et.al.|[2310.12641v1](http://arxiv.org/abs/2310.12641v1)|null|
+|**2023-10-19**|**Cortex-driven cytoplasmic flows in elongated cells: fluid mechanics and application to nuclear transport in Drosophila embryos**|Pyae Hein Htet et.al.|[2310.12586v1](http://arxiv.org/abs/2310.12586v1)|null|
+|**2023-10-19**|**Accurate, fast and generalisable first principles simulation of aqueous lithium chloride**|Junji Zhang et.al.|[2310.12535v1](http://arxiv.org/abs/2310.12535v1)|null|
+|**2023-10-19**|**Phases of 4He and H2 adsorbed on doped graphene**|M. C. Gordillo et.al.|[2310.12514v1](http://arxiv.org/abs/2310.12514v1)|null|
+|**2023-10-19**|**Comparison of empirical and particle force-based density segregation models**|Soniya Kumawat et.al.|[2310.12502v1](http://arxiv.org/abs/2310.12502v1)|null|
+|**2023-10-19**|**A Machine Learning Approach to Robustly Determine Orientation Fields and Analyze Defects in Active Nematics**|Yunrui Li et.al.|[2310.12449v1](http://arxiv.org/abs/2310.12449v1)|null|
+|**2023-10-18**|**Field theory for mechanical criticality in disordered fiber networks**|Sihan Chen et.al.|[2310.12383v1](http://arxiv.org/abs/2310.12383v1)|null|
+|**2023-10-18**|**Simple and accurate expressions for radial distribution functions of hard disk and hard sphere fluids**|Hongqin Liu et.al.|[2310.12297v1](http://arxiv.org/abs/2310.12297v1)|null|
+|**2023-10-18**|**Generalized time-reversal symmetry and effective theories for nonequilibrium matter**|Xiaoyang Huang et.al.|[2310.12233v1](http://arxiv.org/abs/2310.12233v1)|null|
+|**2023-10-18**|**Probing Confinement Through Dynamical Quantum Phase Transitions: From Quantum Spin Models to Lattice Gauge Theories**|Jesse Osborne et.al.|[2310.12210v1](http://arxiv.org/abs/2310.12210v1)|null|
+|**2023-10-18**|**Cold-atom quantum simulators of gauge theories**|Jad C. Halimeh et.al.|[2310.12201v1](http://arxiv.org/abs/2310.12201v1)|null|
 |**2023-10-18**|**Accessing ultrafast spin-transport dynamics in copper using broadband terahertz spectroscopy**|Jiří Jechumtál et.al.|[2310.12082v1](http://arxiv.org/abs/2310.12082v1)|null|
 |**2023-10-18**|**Two-Dimensional Noble Metal Chalcogenides in the Frustrated Snub-Square Lattice**|Hai-Chen Wang et.al.|[2310.12048v1](http://arxiv.org/abs/2310.12048v1)|null|
 |**2023-10-18**|**A soft departure from jamming: the compaction of deformable granular matter under high pressures**|Joel T. Clemmer et.al.|[2310.12009v1](http://arxiv.org/abs/2310.12009v1)|null|
@@ -3912,6 +3926,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Plasmon Fizeau drag in 3D Dirac and Weyl semimetals**|Morgan G. Blevins et.al.|[2310.12938v1](http://arxiv.org/abs/2310.12938v1)|null|
+|**2023-10-19**|**Efficient non-collinear antiferromagnetic state switching induced by orbital Hall effect in chromium**|Hang Xie et.al.|[2310.12695v1](http://arxiv.org/abs/2310.12695v1)|null|
 |**2023-10-18**|**Disordered Mott insulators in strong electric fields**|Tommaso Maria Mazzocchi et.al.|[2310.11833v1](http://arxiv.org/abs/2310.11833v1)|null|
 |**2023-10-16**|**Coherence-enhanced thermodynamic performance in periodically driven thermoelectric heat engines**|Jincheng Lu et.al.|[2310.10465v1](http://arxiv.org/abs/2310.10465v1)|null|
 |**2023-10-13**|**Supercurrent-induced spin switching via indirect exchange interaction**|Chi Sun et.al.|[2310.09324v1](http://arxiv.org/abs/2310.09324v1)|null|
@@ -4011,6 +4027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**|Li-Qiao Xia et.al.|[2310.12204v1](http://arxiv.org/abs/2310.12204v1)|null|
 |**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378v1](http://arxiv.org/abs/2310.11378v1)|null|
 |**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562v1](http://arxiv.org/abs/2310.10562v1)|null|
 |**2023-10-13**|**Anomalous Hall effect in the antiferromagnetic Weyl semimetal SmAlSi**|Yuxiang Gao et.al.|[2310.09364v1](http://arxiv.org/abs/2310.09364v1)|null|
