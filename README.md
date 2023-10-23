@@ -1098,6 +1098,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Interplay between magnetic order and electronic band structure in ultrathin GdGe $_2$ metalloxene films**|Andrey V. Matetskiy et.al.|[2310.13652v1](http://arxiv.org/abs/2310.13652v1)|null|
+|**2023-10-20**|**Influence of roughness on the dynamical properties of granular gases**|Alberto Megías et.al.|[2310.13642v1](http://arxiv.org/abs/2310.13642v1)|null|
+|**2023-10-20**|**Statistical and dynamical properties of polarised crowd**|Pratikshya Jena et.al.|[2310.13609v1](http://arxiv.org/abs/2310.13609v1)|null|
+|**2023-10-20**|**Single-Molecule Morphology of Topologically Digested Olympic Networks**|Saminathan Ramakrishnan et.al.|[2310.13399v1](http://arxiv.org/abs/2310.13399v1)|null|
+|**2023-10-20**|**Diffusive dynamics of a model protein chain in solution**|Margarita Colberg et.al.|[2310.13223v1](http://arxiv.org/abs/2310.13223v1)|null|
+|**2023-10-19**|**$O(N)$ smectic $σ$ -model**|Tzu-Chi Hsieh et.al.|[2310.13046v1](http://arxiv.org/abs/2310.13046v1)|null|
 |**2023-10-19**|**Active Solids: Rigid Body Motion and Shape-changing Mechanisms**|Claudio Hernández-López et.al.|[2310.12879v1](http://arxiv.org/abs/2310.12879v1)|null|
 |**2023-10-19**|**On the contact conditions for the density and charge profiles in the theory of electrical double layer: From planar to spherical and cylindrical geometry**|Myroslav Holovko et.al.|[2310.12783v1](http://arxiv.org/abs/2310.12783v1)|null|
 |**2023-10-19**|**Nonequilibrium Probability Currents in Optically-Driven Colloidal Suspensions**|Samudrajit Thapa et.al.|[2310.12718v1](http://arxiv.org/abs/2310.12718v1)|null|
@@ -3720,6 +3726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Learning complexity to guide light-induced self-organized nanopatterns**|Eduardo Brandao et.al.|[2310.13453v1](http://arxiv.org/abs/2310.13453v1)|null|
 |**2023-10-17**|**Quantum control of ro-vibrational dynamics and application to light-induced molecular chirality**|Monika Leibscher et.al.|[2310.11570v1](http://arxiv.org/abs/2310.11570v1)|null|
 |**2023-10-17**|**Optical Regulation of Chiral-Induced Spin Selectivity**|Wei Liu et.al.|[2310.10929v1](http://arxiv.org/abs/2310.10929v1)|null|
 |**2023-10-12**|**Light-Induced Nonthermal Phase Transition to the Topological Crystalline Insulator State in SnSe**|Stefano Mocatti et.al.|[2310.08341v1](http://arxiv.org/abs/2310.08341v1)|null|
