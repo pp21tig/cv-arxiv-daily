@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Experimental signatures of quantum and topological states in frustrated magnetism**|J. Khatua et.al.|[2310.15071v1](http://arxiv.org/abs/2310.15071v1)|null|
+|**2023-10-23**|**A Dimensionally-Reduced Nonlinear Elasticity Model for Liquid Crystal Elastomer Strips with Transverse Curvature**|Kevin LoGrande et.al.|[2310.14980v1](http://arxiv.org/abs/2310.14980v1)|null|
+|**2023-10-23**|**Feature Spectrum Topology**|Baokai Wang et.al.|[2310.14832v1](http://arxiv.org/abs/2310.14832v1)|null|
+|**2023-10-23**|**Microscopic theory for nonequilibrium correlation functions in dense active fluids**|Vincent E. Debets et.al.|[2310.14812v1](http://arxiv.org/abs/2310.14812v1)|null|
+|**2023-10-23**|**Measuring the bending rigidity of microbial glucolipid (biosurfactant) bioamphiphile self-assembled structures by neutron spin-echo (NSE): interdigitated vesicles, lamellae and fibers**|Niki Baccile et.al.|[2310.14730v1](http://arxiv.org/abs/2310.14730v1)|null|
+|**2023-10-23**|**Aqueous self-assembly of a wide range of sophorolipid and glucolipid microbial bioamphiphiles (biosurfactants): considerations on the structure-properties relationship**|Niki Baccile et.al.|[2310.14727v1](http://arxiv.org/abs/2310.14727v1)|null|
+|**2023-10-23**|**On the absence of structure factors in concentrated colloidal suspensions and nanocomposites**|Anne-Caroline Genix et.al.|[2310.14682v1](http://arxiv.org/abs/2310.14682v1)|null|
+|**2023-10-23**|**How Tuning Interfaces Impacts the Dynamics and Structure of Polymer Nanocomposites Simultaneously**|Anne-Caroline Genix et.al.|[2310.14680v1](http://arxiv.org/abs/2310.14680v1)|null|
+|**2023-10-22**|**Activity-driven emulsification of phase-separating binary mixtures**|Javier Diaz et.al.|[2310.14376v1](http://arxiv.org/abs/2310.14376v1)|null|
+|**2023-10-22**|**Pulsating with discrete symmetry**|Alessandro Manacorda et.al.|[2310.14370v1](http://arxiv.org/abs/2310.14370v1)|null|
+|**2023-10-22**|**Characterizing the heterogeneity of membrane liquid-ordered domains**|Tanmoy Sarkar et.al.|[2310.14316v1](http://arxiv.org/abs/2310.14316v1)|null|
+|**2023-10-21**|**Localization renormalization and quantum Hall systems**|Bartholomew Andrews et.al.|[2310.14074v1](http://arxiv.org/abs/2310.14074v1)|null|
+|**2023-10-21**|**DEM simulation of the powder application in powder bed fusion**|Vasileios Angelidakis et.al.|[2310.14031v1](http://arxiv.org/abs/2310.14031v1)|null|
+|**2023-10-21**|**Gauge waves generation and detection in Aharonov-Bohm electrodynamics**|F. Minotti et.al.|[2310.13968v1](http://arxiv.org/abs/2310.13968v1)|null|
+|**2023-10-21**|**Advances in Complex Oxide Quantum Materials Through New Approaches to Molecular Beam Epitaxy**|Gaurab Rimal et.al.|[2310.13902v1](http://arxiv.org/abs/2310.13902v1)|null|
+|**2023-10-20**|**Morphological Study of Granular-Granular Impact Craters through Time-of-Flight Cameras: from Concept to Automation in Python**|F. Corrales-Machín et.al.|[2310.13834v1](http://arxiv.org/abs/2310.13834v1)|null|
+|**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741v1](http://arxiv.org/abs/2310.13741v1)|null|
 |**2023-10-20**|**Interplay between magnetic order and electronic band structure in ultrathin GdGe $_2$ metalloxene films**|Andrey V. Matetskiy et.al.|[2310.13652v1](http://arxiv.org/abs/2310.13652v1)|null|
 |**2023-10-20**|**Influence of roughness on the dynamical properties of granular gases**|Alberto Megías et.al.|[2310.13642v1](http://arxiv.org/abs/2310.13642v1)|null|
 |**2023-10-20**|**Statistical and dynamical properties of polarised crowd**|Pratikshya Jena et.al.|[2310.13609v1](http://arxiv.org/abs/2310.13609v1)|null|
@@ -4034,6 +4051,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-22**|**Investigation of the mechanism of the anomalous Hall effects in Cr2Te3/(BiSb)2(TeSe)3 heterostructure**|Seong Won Cho et.al.|[2310.14259v1](http://arxiv.org/abs/2310.14259v1)|null|
 |**2023-10-18**|**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**|Li-Qiao Xia et.al.|[2310.12204v1](http://arxiv.org/abs/2310.12204v1)|null|
 |**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378v1](http://arxiv.org/abs/2310.11378v1)|null|
 |**2023-10-16**|**Trompe L'oeil Ferromagnetism: magnetic point group analysis**|Sang-Wook Cheong et.al.|[2310.10562v1](http://arxiv.org/abs/2310.10562v1)|null|
