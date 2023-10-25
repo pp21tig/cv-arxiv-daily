@@ -1098,8 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Holographic $a$ -functions and Boomerang RG Flows**|Elena Cáceres et.al.|[2310.15983v1](http://arxiv.org/abs/2310.15983v1)|null|
+|**2023-10-24**|**Frictional weakening of a granular sheared layer due to viscous rolling revealed by Discrete Element Modeling**|Alexandre Sac--Morane et.al.|[2310.15945v1](http://arxiv.org/abs/2310.15945v1)|null|
+|**2023-10-24**|**Elementary excitations in the hybrid Bose-Fermi system induced by circularly polarized light in a two-dimensional gas of charge carriers with different masses**|V. M. Kovalev et.al.|[2310.15864v1](http://arxiv.org/abs/2310.15864v1)|null|
+|**2023-10-24**|**Designing superselectivity in linker-mediated multivalent nanoparticle adsorption**|Xiuyang Xia et.al.|[2310.15834v1](http://arxiv.org/abs/2310.15834v1)|null|
+|**2023-10-24**|**Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data**|Michaël Liefsoens et.al.|[2310.15701v1](http://arxiv.org/abs/2310.15701v1)|null|
+|**2023-10-24**|**Strain-driven switching between antiferromagnetic states in frustrated antiferromagnet UO2 probed by exchange bias effect**|E. A. Tereshina-Chitrova et.al.|[2310.15696v1](http://arxiv.org/abs/2310.15696v1)|null|
+|**2023-10-24**|**Honeybee-like collective decision making in a kilobot swarm**|David March et.al.|[2310.15592v1](http://arxiv.org/abs/2310.15592v1)|null|
+|**2023-10-24**|**Unveiling low THz Dynamics of Liquid Crystals: Identification of Intermolecular Interaction among Intramolecular Modes**|Patrick Friebel et.al.|[2310.15567v1](http://arxiv.org/abs/2310.15567v1)|null|
+|**2023-10-23**|**Entropy production and thermodynamic inference for stochastic microswimmers**|Michalis Chatzittofi et.al.|[2310.15311v1](http://arxiv.org/abs/2310.15311v1)|null|
+|**2023-10-23**|**Molecular modelling of odd viscoelastic fluids**|Paweł Matus et.al.|[2310.15251v1](http://arxiv.org/abs/2310.15251v1)|null|
+|**2023-10-23**|**Electric Fields in Liquid Water Irradiated with Protons at Ultrahigh Dose Rates**|F. Gobet et.al.|[2310.15249v1](http://arxiv.org/abs/2310.15249v1)|null|
 |**2023-10-23**|**Experimental signatures of quantum and topological states in frustrated magnetism**|J. Khatua et.al.|[2310.15071v1](http://arxiv.org/abs/2310.15071v1)|null|
 |**2023-10-23**|**A Dimensionally-Reduced Nonlinear Elasticity Model for Liquid Crystal Elastomer Strips with Transverse Curvature**|Kevin LoGrande et.al.|[2310.14980v1](http://arxiv.org/abs/2310.14980v1)|null|
+|**2023-10-23**|**Robustness of stress focusing in soft lattices under topology-switching deformation**|Caleb Widstrand et.al.|[2310.14972v1](http://arxiv.org/abs/2310.14972v1)|null|
 |**2023-10-23**|**Feature Spectrum Topology**|Baokai Wang et.al.|[2310.14832v1](http://arxiv.org/abs/2310.14832v1)|null|
 |**2023-10-23**|**Microscopic theory for nonequilibrium correlation functions in dense active fluids**|Vincent E. Debets et.al.|[2310.14812v1](http://arxiv.org/abs/2310.14812v1)|null|
 |**2023-10-23**|**Measuring the bending rigidity of microbial glucolipid (biosurfactant) bioamphiphile self-assembled structures by neutron spin-echo (NSE): interdigitated vesicles, lamellae and fibers**|Niki Baccile et.al.|[2310.14730v1](http://arxiv.org/abs/2310.14730v1)|null|
@@ -3743,6 +3755,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Elementary excitations in the hybrid Bose-Fermi system induced by circularly polarized light in a two-dimensional gas of charge carriers with different masses**|V. M. Kovalev et.al.|[2310.15864v1](http://arxiv.org/abs/2310.15864v1)|null|
+|**2023-10-23**|**A Theoretical Perspective on the Photochemistry of Boron-Nitrogen Lewis Adducts**|Emanuele Marsili et.al.|[2310.15268v1](http://arxiv.org/abs/2310.15268v1)|null|
 |**2023-10-20**|**Learning complexity to guide light-induced self-organized nanopatterns**|Eduardo Brandao et.al.|[2310.13453v1](http://arxiv.org/abs/2310.13453v1)|null|
 |**2023-10-17**|**Quantum control of ro-vibrational dynamics and application to light-induced molecular chirality**|Monika Leibscher et.al.|[2310.11570v1](http://arxiv.org/abs/2310.11570v1)|null|
 |**2023-10-17**|**Optical Regulation of Chiral-Induced Spin Selectivity**|Wei Liu et.al.|[2310.10929v1](http://arxiv.org/abs/2310.10929v1)|null|
@@ -3946,6 +3960,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Improved Dual-Output Step-Down Soft-Switching Current-Fed Push-Pull DC-DC Converter**|Minoo Mohebbifar et.al.|[2310.15434v1](http://arxiv.org/abs/2310.15434v1)|null|
 |**2023-10-19**|**Plasmon Fizeau drag in 3D Dirac and Weyl semimetals**|Morgan G. Blevins et.al.|[2310.12938v1](http://arxiv.org/abs/2310.12938v1)|null|
 |**2023-10-19**|**Efficient non-collinear antiferromagnetic state switching induced by orbital Hall effect in chromium**|Hang Xie et.al.|[2310.12695v1](http://arxiv.org/abs/2310.12695v1)|null|
 |**2023-10-18**|**Disordered Mott insulators in strong electric fields**|Tommaso Maria Mazzocchi et.al.|[2310.11833v1](http://arxiv.org/abs/2310.11833v1)|null|
@@ -4177,6 +4192,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Role of crystal field ground state in the classical spin-liquid behavior of a quasi-one dimensional spin-chain system Sr3NiPtO6**|V. K. Anand et.al.|[2310.15821v1](http://arxiv.org/abs/2310.15821v1)|null|
 |**2023-10-12**|**A new inelastic neutron spectrometer HODACA**|Hodaka Kikuchi et.al.|[2310.11463v1](http://arxiv.org/abs/2310.11463v1)|null|
 |**2023-10-16**|**Implementation of a laser-neutron pump-probe capability at HYSPEC**|Chengyun Hua et.al.|[2310.10540v1](http://arxiv.org/abs/2310.10540v1)|null|
 |**2023-10-15**|**Heterogeneous anomalous transport in cellular and molecular biology**|Thomas A. Waigh et.al.|[2310.09950v1](http://arxiv.org/abs/2310.09950v1)|null|
