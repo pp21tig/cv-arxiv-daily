@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Magnetic elastomers as specific soft actuators -- predicting particular modes of deformation from selected configurations of magnetizable inclusions**|Lukas Fischer et.al.|[2310.16833v1](http://arxiv.org/abs/2310.16833v1)|null|
+|**2023-10-25**|**Generally applicable physics-based equation of state for liquids**|G. E. Proctor et.al.|[2310.16821v1](http://arxiv.org/abs/2310.16821v1)|null|
+|**2023-10-25**|**Motility-induced clustering of active particles under soft confinement**|Timo Knippenberg et.al.|[2310.16814v1](http://arxiv.org/abs/2310.16814v1)|null|
+|**2023-10-25**|**Role of cilia activity and surrounding viscous fluid on properties of metachronal waves**|Supravat Dey et.al.|[2310.16770v1](http://arxiv.org/abs/2310.16770v1)|null|
+|**2023-10-25**|**Significance of Elastic Coupling for Stresses and Leakage in Frictional Contacts**|Christian Müller et.al.|[2310.16692v1](http://arxiv.org/abs/2310.16692v1)|null|
+|**2023-10-25**|**Fracton infrared triangle**|Alfredo Pérez et.al.|[2310.16683v1](http://arxiv.org/abs/2310.16683v1)|null|
+|**2023-10-25**|**Competing Gauge Fields and Entropically-Driven Spin Liquid to Spin Liquid Transition in non-Kramers Pyrochlores**|Daniel Lozano-Gómez et.al.|[2310.16682v1](http://arxiv.org/abs/2310.16682v1)|null|
+|**2023-10-25**|**Acoustic Monitoring of Inelastic Compaction in Porous Granular Materials**|Vincent Canel et.al.|[2310.16615v1](http://arxiv.org/abs/2310.16615v1)|null|
+|**2023-10-25**|**Pressure-induced non-monotonic crossover of steady relaxation dynamics in a metallic glass**|Xin Zhang et.al.|[2310.16454v1](http://arxiv.org/abs/2310.16454v1)|null|
+|**2023-10-25**|**Rotatum of Light**|Ahmed H. Dorrah et.al.|[2310.16317v1](http://arxiv.org/abs/2310.16317v1)|null|
+|**2023-10-25**|**Magnetic-field-induced electronic instability of Weyl-like fermions in compressed black phosphorus**|Lixuan Zheng et.al.|[2310.16311v1](http://arxiv.org/abs/2310.16311v1)|null|
+|**2023-10-25**|**Phantom chain simulations for fracture of polymer networks created from star polymer mixtures of different functionalities**|Yuichi Masubuchi et.al.|[2310.16282v1](http://arxiv.org/abs/2310.16282v1)|null|
+|**2023-10-24**|**Mass-based separation of active Brownian particles in an asymmetric channel**|Narender Khatri et.al.|[2310.16204v1](http://arxiv.org/abs/2310.16204v1)|null|
+|**2023-10-24**|**Effects of the size and concentration of depleting agents on the stabilization of the double-helix structure and DNA condensation: a single molecule force spectroscopy study**|R. M. de Oliveira et.al.|[2310.16198v1](http://arxiv.org/abs/2310.16198v1)|null|
+|**2023-10-24**|**Breaking of a floating particle raft by water waves**|Louis Saddier et.al.|[2310.16188v1](http://arxiv.org/abs/2310.16188v1)|null|
+|**2023-10-24**|**Granular packing simulation protocols: tap, press and relax**|A. P. Santos et.al.|[2310.16114v1](http://arxiv.org/abs/2310.16114v1)|null|
 |**2023-10-24**|**Holographic $a$ -functions and Boomerang RG Flows**|Elena Cáceres et.al.|[2310.15983v1](http://arxiv.org/abs/2310.15983v1)|null|
 |**2023-10-24**|**Frictional weakening of a granular sheared layer due to viscous rolling revealed by Discrete Element Modeling**|Alexandre Sac--Morane et.al.|[2310.15945v1](http://arxiv.org/abs/2310.15945v1)|null|
 |**2023-10-24**|**Elementary excitations in the hybrid Bose-Fermi system induced by circularly polarized light in a two-dimensional gas of charge carriers with different masses**|V. M. Kovalev et.al.|[2310.15864v1](http://arxiv.org/abs/2310.15864v1)|null|
