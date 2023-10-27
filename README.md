@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Phase Separation, Edge Currents, and Hall Effect for Active Matter with Magnus Dynamics**|B. Adorjani et.al.|[2310.17587v1](http://arxiv.org/abs/2310.17587v1)|null|
+|**2023-10-26**|**Fluid dynamics alters liquid-liquid phase separation in confined aqueous two-phase systems**|Eric W. Hester et.al.|[2310.17580v1](http://arxiv.org/abs/2310.17580v1)|null|
+|**2023-10-26**|**Trading particle shape with fluid symmetry: on the mobility matrix in 3D chiral fluids**|Tali Khain et.al.|[2310.17528v1](http://arxiv.org/abs/2310.17528v1)|null|
+|**2023-10-26**|**Buckling mediated by mobile localized elastic excitations**|R. S. Hutton et.al.|[2310.17478v1](http://arxiv.org/abs/2310.17478v1)|null|
+|**2023-10-26**|**Power-law intermittency in the gradient-induced self-propulsion of colloidal swimmers**|Nick Oikonomeas-Koppasis et.al.|[2310.17384v1](http://arxiv.org/abs/2310.17384v1)|null|
+|**2023-10-26**|**Experimental determination of the glass transition temperature in a very narrow temperature range by Temperature Modulated Optical Refractometry**|Andreas Klingler et.al.|[2310.17352v1](http://arxiv.org/abs/2310.17352v1)|null|
+|**2023-10-26**|**Higgs and Nambu-Goldstone modes in condensed matter physics**|Naoto Tsuji et.al.|[2310.17148v1](http://arxiv.org/abs/2310.17148v1)|null|
+|**2023-10-26**|**Unusual phase transition in 1D localization and its observability in optics**|S. I. Bozhevolnyi et.al.|[2310.17108v1](http://arxiv.org/abs/2310.17108v1)|null|
+|**2023-10-26**|**Effective field theory of particle mixing**|Shuyang Cao et.al.|[2310.17070v1](http://arxiv.org/abs/2310.17070v1)|null|
+|**2023-10-25**|**Ultrasound-propelled nano- and microspinners**|Johannes Voß et.al.|[2310.17018v1](http://arxiv.org/abs/2310.17018v1)|null|
+|**2023-10-25**|**Direct numerical analysis of dynamic facilitation in glass-forming liquids**|Cecilia Herrero et.al.|[2310.16935v1](http://arxiv.org/abs/2310.16935v1)|null|
 |**2023-10-25**|**Magnetic elastomers as specific soft actuators -- predicting particular modes of deformation from selected configurations of magnetizable inclusions**|Lukas Fischer et.al.|[2310.16833v1](http://arxiv.org/abs/2310.16833v1)|null|
 |**2023-10-25**|**Generally applicable physics-based equation of state for liquids**|G. E. Proctor et.al.|[2310.16821v1](http://arxiv.org/abs/2310.16821v1)|null|
 |**2023-10-25**|**Motility-induced clustering of active particles under soft confinement**|Timo Knippenberg et.al.|[2310.16814v1](http://arxiv.org/abs/2310.16814v1)|null|
@@ -3771,6 +3782,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Photo-induced electronic and spin topological phase transitions in monolayer bismuth**|Bo Peng et.al.|[2310.16886v1](http://arxiv.org/abs/2310.16886v1)|null|
 |**2023-10-24**|**Elementary excitations in the hybrid Bose-Fermi system induced by circularly polarized light in a two-dimensional gas of charge carriers with different masses**|V. M. Kovalev et.al.|[2310.15864v1](http://arxiv.org/abs/2310.15864v1)|null|
 |**2023-10-23**|**A Theoretical Perspective on the Photochemistry of Boron-Nitrogen Lewis Adducts**|Emanuele Marsili et.al.|[2310.15268v1](http://arxiv.org/abs/2310.15268v1)|null|
 |**2023-10-20**|**Learning complexity to guide light-induced self-organized nanopatterns**|Eduardo Brandao et.al.|[2310.13453v1](http://arxiv.org/abs/2310.13453v1)|null|
@@ -4078,6 +4090,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483v1](http://arxiv.org/abs/2310.17483v1)|null|
+|**2023-10-25**|**Phase Change Induced Magnetic Switching through Metal-insulator Transition in VO2/TbFeCo Films**|Chung T. Ma et.al.|[2310.17045v1](http://arxiv.org/abs/2310.17045v1)|null|
+|**2023-10-25**|**Anisotropic magnetotransport realized in doped hematite**|E. F. Galindez-Ruales et.al.|[2310.16907v1](http://arxiv.org/abs/2310.16907v1)|null|
 |**2023-10-22**|**Investigation of the mechanism of the anomalous Hall effects in Cr2Te3/(BiSb)2(TeSe)3 heterostructure**|Seong Won Cho et.al.|[2310.14259v1](http://arxiv.org/abs/2310.14259v1)|null|
 |**2023-10-18**|**Helical trilayer graphene: a moiré platform for strongly-interacting topological bands**|Li-Qiao Xia et.al.|[2310.12204v1](http://arxiv.org/abs/2310.12204v1)|null|
 |**2023-10-17**|**Extremely large anomalous Hall conductivity and unusual axial diamagnetism in a quasi-1D Dirac material La $_3$MgBi$_5$**|Zhe-Kai Yi et.al.|[2310.11378v1](http://arxiv.org/abs/2310.11378v1)|null|
