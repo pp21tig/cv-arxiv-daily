@@ -1098,6 +1098,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Nanostructured Superconductors**|Wolfgang Lang et.al.|[2310.18232v1](http://arxiv.org/abs/2310.18232v1)|null|
+|**2023-10-27**|**Bound states and point interactions of the one-dimensional pseudospin-one Hamiltonian**|A. V. Zolotaryuk et.al.|[2310.17934v1](http://arxiv.org/abs/2310.17934v1)|null|
+|**2023-10-27**|**Periodic jumps in binary lattices with a static force**|Liwei Duan et.al.|[2310.17873v1](http://arxiv.org/abs/2310.17873v1)|null|
+|**2023-10-26**|**Bidisperse beds sheared by viscous fluids: Grain segregation and bed hardening**|Jaime Oswaldo Gonzalez Maya et.al.|[2310.17782v1](http://arxiv.org/abs/2310.17782v1)|null|
+|**2023-10-26**|**Microscopic origin of tunable assembly forces in chiral active environments**|Clay H. Batton et.al.|[2310.17763v1](http://arxiv.org/abs/2310.17763v1)|null|
+|**2023-10-26**|**Diffusive-hydrodynamic transition in the anomalous Hall effect**|D. S. Zohrabyan et.al.|[2310.17738v1](http://arxiv.org/abs/2310.17738v1)|null|
 |**2023-10-26**|**Phase Separation, Edge Currents, and Hall Effect for Active Matter with Magnus Dynamics**|B. Adorjani et.al.|[2310.17587v1](http://arxiv.org/abs/2310.17587v1)|null|
 |**2023-10-26**|**Fluid dynamics alters liquid-liquid phase separation in confined aqueous two-phase systems**|Eric W. Hester et.al.|[2310.17580v1](http://arxiv.org/abs/2310.17580v1)|**[link](https://github.com/ericwhester/multiphase-fluids-code)**|
 |**2023-10-26**|**Trading particle shape with fluid symmetry: on the mobility matrix in 3D chiral fluids**|Tali Khain et.al.|[2310.17528v1](http://arxiv.org/abs/2310.17528v1)|null|
@@ -4090,6 +4096,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Diffusive-hydrodynamic transition in the anomalous Hall effect**|D. S. Zohrabyan et.al.|[2310.17738v1](http://arxiv.org/abs/2310.17738v1)|null|
 |**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483v1](http://arxiv.org/abs/2310.17483v1)|null|
 |**2023-10-25**|**Phase Change Induced Magnetic Switching through Metal-insulator Transition in VO2/TbFeCo Films**|Chung T. Ma et.al.|[2310.17045v1](http://arxiv.org/abs/2310.17045v1)|null|
 |**2023-10-25**|**Anisotropic magnetotransport realized in doped hematite**|E. F. Galindez-Ruales et.al.|[2310.16907v1](http://arxiv.org/abs/2310.16907v1)|null|
