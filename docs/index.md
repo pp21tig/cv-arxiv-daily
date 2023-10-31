@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Suppressed terahertz dynamics of water confined in nanometer gaps**|Hyosim Yang et.al.|[2310.19236v1](http://arxiv.org/abs/2310.19236v1)|null|
+|**2023-10-29**|**Trions in monolayer transition metal dichalcogenides within the hyperspherical harmonics method**|Roman Ya. Kezerashvili et.al.|[2310.19196v1](http://arxiv.org/abs/2310.19196v1)|null|
+|**2023-10-29**|**Accelerated Bayesian Inference for Molecular Simulations using Local Gaussian Process Surrogate Models**|B. L. Shanks et.al.|[2310.19108v1](http://arxiv.org/abs/2310.19108v1)|null|
+|**2023-10-29**|**Area law for the maximally mixed ground state in degenerate 1D gapped systems**|Itai Arad et.al.|[2310.19028v1](http://arxiv.org/abs/2310.19028v1)|null|
+|**2023-10-29**|**Microscopic theory of a Janus motor in a non-equilibrium fluid: Surface hydrodynamics and boundary conditions**|Bryan Robertson et.al.|[2310.19004v1](http://arxiv.org/abs/2310.19004v1)|null|
+|**2023-10-29**|**Macroscopic emulation of microscopic magnetic particle system**|Viesturs Spūlis et.al.|[2310.18892v1](http://arxiv.org/abs/2310.18892v1)|null|
+|**2023-10-28**|**Liquid Hopfield model: retrieval and localization in heterogeneous liquid mixtures**|Rodrigo Braz Teixeira et.al.|[2310.18853v1](http://arxiv.org/abs/2310.18853v1)|null|
+|**2023-10-28**|**The nonlinear elastic response of bicontinuous rubber blends**|Fabio Sozio et.al.|[2310.18808v1](http://arxiv.org/abs/2310.18808v1)|null|
+|**2023-10-28**|**Active spheroids in viscosity gradients**|Jiahao Gong et.al.|[2310.18806v1](http://arxiv.org/abs/2310.18806v1)|null|
+|**2023-10-28**|**Hierarchical assembly is more robust than egalitarian assembly in synthetic capsids**|Wei-Shao Wei et.al.|[2310.18790v1](http://arxiv.org/abs/2310.18790v1)|null|
+|**2023-10-28**|**Hopping and crawling DNA-coated colloids**|Jeana Aojie Zheng et.al.|[2310.18785v1](http://arxiv.org/abs/2310.18785v1)|null|
+|**2023-10-28**|**Jamming modulates coalescence dynamics of shear-thickening colloidal droplets**|M. V. R. Sudheer et.al.|[2310.18707v1](http://arxiv.org/abs/2310.18707v1)|null|
+|**2023-10-28**|**Defect-influenced particle advection in highly confined liquid crystal flows**|Magdalena Lesniewska et.al.|[2310.18667v1](http://arxiv.org/abs/2310.18667v1)|null|
+|**2023-10-28**|**Mode-locked GaN waveguide polariton laser**|M. Gromovyi et.al.|[2310.18661v1](http://arxiv.org/abs/2310.18661v1)|null|
+|**2023-10-28**|**Making the cut: end effects and the benefits of slicing**|Bharath Antarvedi Goda et.al.|[2310.18595v1](http://arxiv.org/abs/2310.18595v1)|null|
+|**2023-10-28**|**Quantum Interactions in Topological R166 Kagome Magnet**|Xitong Xu et.al.|[2310.18559v1](http://arxiv.org/abs/2310.18559v1)|null|
+|**2023-10-28**|**Einstein-de Haas torque as a discrete spectroscopic probe allows nanomechanical measurement of a magnetic resonance**|K. R. Fast et.al.|[2310.18546v1](http://arxiv.org/abs/2310.18546v1)|null|
+|**2023-10-27**|**Threshold Switching in CdTe Photovoltaics**|Suman Devkota et.al.|[2310.18487v1](http://arxiv.org/abs/2310.18487v1)|null|
+|**2023-10-27**|**Central role of filler-polymer interplay in nonlinear reinforcement of elastomeric nanocomposites**|Pierre Kawak et.al.|[2310.18433v1](http://arxiv.org/abs/2310.18433v1)|null|
 |**2023-10-27**|**Nanostructured Superconductors**|Wolfgang Lang et.al.|[2310.18232v1](http://arxiv.org/abs/2310.18232v1)|null|
 |**2023-10-27**|**Bound states and point interactions of the one-dimensional pseudospin-one Hamiltonian**|A. V. Zolotaryuk et.al.|[2310.17934v1](http://arxiv.org/abs/2310.17934v1)|null|
 |**2023-10-27**|**Periodic jumps in binary lattices with a static force**|Liwei Duan et.al.|[2310.17873v1](http://arxiv.org/abs/2310.17873v1)|null|
@@ -3998,6 +4017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**A 0.21-ps FOM Capacitor-Less Analog LDO with Dual-Range Load Current for Biomedical Applications**|Yasemin Engur et.al.|[2310.18998v1](http://arxiv.org/abs/2310.18998v1)|null|
+|**2023-10-28**|**Atomistic Processes of high-temperature plastic deformation of nanoscale body-centered cubic tungsten**|Sixue Zheng et.al.|[2310.18764v1](http://arxiv.org/abs/2310.18764v1)|null|
 |**2023-10-24**|**Improved Dual-Output Step-Down Soft-Switching Current-Fed Push-Pull DC-DC Converter**|Minoo Mohebbifar et.al.|[2310.15434v1](http://arxiv.org/abs/2310.15434v1)|null|
 |**2023-10-19**|**Plasmon Fizeau drag in 3D Dirac and Weyl semimetals**|Morgan G. Blevins et.al.|[2310.12938v1](http://arxiv.org/abs/2310.12938v1)|null|
 |**2023-10-19**|**Efficient non-collinear antiferromagnetic state switching induced by orbital Hall effect in chromium**|Hang Xie et.al.|[2310.12695v1](http://arxiv.org/abs/2310.12695v1)|null|
