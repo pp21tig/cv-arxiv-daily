@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Leading-logarithmic approximation by one-loop renormalization group within Matsubara formalism**|Jan Diekmann et.al.|[2310.20648v1](http://arxiv.org/abs/2310.20648v1)|null|
+|**2023-10-31**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642v1](http://arxiv.org/abs/2310.20642v1)|null|
+|**2023-10-31**|**On the structure-viscoelasticity relationship of a dually crosslinked reversible polymer network**|Mounika Gosika et.al.|[2310.20553v1](http://arxiv.org/abs/2310.20553v1)|null|
+|**2023-10-31**|**Intercellular Friction and Motility Drive Orientational Order in Cell Monolayers**|Michael Chiang et.al.|[2310.20465v1](http://arxiv.org/abs/2310.20465v1)|null|
+|**2023-10-31**|**Inducing Stratification of Colloidal Mixtures with a Mixed Binary Solvent**|Binghan Liu et.al.|[2310.20464v1](http://arxiv.org/abs/2310.20464v1)|null|
+|**2023-10-31**|**Theory of melting lines**|K. Trachenko et.al.|[2310.20261v1](http://arxiv.org/abs/2310.20261v1)|null|
+|**2023-10-31**|**Dynamic heterogeneity at the experimental glass transition predicted by transferable machine learning**|Gerhard Jung et.al.|[2310.20252v1](http://arxiv.org/abs/2310.20252v1)|null|
+|**2023-10-31**|**Quantum Integrability and Chaos in periodic Toda Lattice with Balanced Loss-Gain**|Supriyo Ghosh et.al.|[2310.20217v1](http://arxiv.org/abs/2310.20217v1)|null|
+|**2023-10-31**|**Gibbs state sampling via cluster expansions**|Norhan M. Eassa et.al.|[2310.20129v1](http://arxiv.org/abs/2310.20129v1)|null|
+|**2023-10-31**|**Efficient Full-frequency GW Calculations using a Lanczos Method**|Weiwei Gao et.al.|[2310.20103v1](http://arxiv.org/abs/2310.20103v1)|null|
+|**2023-10-31**|**My model, it has three layers: a reduced model of the smectic transition in two dimensions**|David A. King et.al.|[2310.20094v1](http://arxiv.org/abs/2310.20094v1)|null|
+|**2023-10-30**|**Vortices in Andreev-Bashkin Superfluids**|L. A. Melnikovsky et.al.|[2310.20016v1](http://arxiv.org/abs/2310.20016v1)|null|
+|**2023-10-30**|**Active-parameter polydispersity in the 2d ABP Yukawa model**|Shibu Saw et.al.|[2310.20015v1](http://arxiv.org/abs/2310.20015v1)|null|
+|**2023-10-30**|**Connection between partial pressure, volatility, and the Soret effect elucidated using simulations of non-ideal liquid mixtures**|Brandon Fields et.al.|[2310.20005v1](http://arxiv.org/abs/2310.20005v1)|null|
+|**2023-10-30**|**Dynamic, viscoelasticity-driven shape change of elastomer bilayers**|Wenya Shu et.al.|[2310.19954v1](http://arxiv.org/abs/2310.19954v1)|null|
+|**2023-10-30**|**Universal Correlations as Fingerprints of Transverse Quantum Fluids**|Anatoly Kuklov et.al.|[2310.19875v1](http://arxiv.org/abs/2310.19875v1)|null|
+|**2023-10-30**|**Steering droplets on substrates with plane-wave wettability patterns and deformations**|Josua Grawitter et.al.|[2310.19851v1](http://arxiv.org/abs/2310.19851v1)|null|
+|**2023-10-30**|**Strong in-plane magnetic anisotropy (Co0.15Fe0.85)5GeTe2/graphene van der Waals heterostructure spin-valve at room temperature**|Roselle Ngaloy et.al.|[2310.19618v1](http://arxiv.org/abs/2310.19618v1)|null|
+|**2023-10-30**|**Emergent memory from tapping collisions in active granular matter**|Lorenzo Caprini et.al.|[2310.19566v1](http://arxiv.org/abs/2310.19566v1)|null|
+|**2023-10-30**|**Effective interaction between guest charges immersed in 2D jellium**|Ladislav Šamaj et.al.|[2310.19517v1](http://arxiv.org/abs/2310.19517v1)|null|
 |**2023-10-30**|**Suppressed terahertz dynamics of water confined in nanometer gaps**|Hyosim Yang et.al.|[2310.19236v1](http://arxiv.org/abs/2310.19236v1)|null|
 |**2023-10-29**|**Trions in monolayer transition metal dichalcogenides within the hyperspherical harmonics method**|Roman Ya. Kezerashvili et.al.|[2310.19196v1](http://arxiv.org/abs/2310.19196v1)|null|
 |**2023-10-29**|**Accelerated Bayesian Inference for Molecular Simulations using Local Gaussian Process Surrogate Models**|B. L. Shanks et.al.|[2310.19108v1](http://arxiv.org/abs/2310.19108v1)|null|
@@ -4121,6 +4141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Tight-binding theory of spin-spin interactions, Curie temperatures, and quantum Hall effects in topological (Hg,Cr)Te in comparison to non-topological (Zn,Cr)Te, and (Ga,Mn)N**|Cezary Śliwa et.al.|[2310.19856v1](http://arxiv.org/abs/2310.19856v1)|null|
 |**2023-10-26**|**Diffusive-hydrodynamic transition in the anomalous Hall effect**|D. S. Zohrabyan et.al.|[2310.17738v1](http://arxiv.org/abs/2310.17738v1)|null|
 |**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483v1](http://arxiv.org/abs/2310.17483v1)|null|
 |**2023-10-25**|**Phase Change Induced Magnetic Switching through Metal-insulator Transition in VO2/TbFeCo Films**|Chung T. Ma et.al.|[2310.17045v1](http://arxiv.org/abs/2310.17045v1)|null|
@@ -4255,6 +4276,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Quantum to classical crossover in generalized spin systems -- the temperature-dependent spin dynamics of FeI $_2$**|D. Dahlbom et.al.|[2310.19905v1](http://arxiv.org/abs/2310.19905v1)|null|
 |**2023-10-24**|**Role of crystal field ground state in the classical spin-liquid behavior of a quasi-one dimensional spin-chain system Sr3NiPtO6**|V. K. Anand et.al.|[2310.15821v1](http://arxiv.org/abs/2310.15821v1)|null|
 |**2023-10-12**|**A new inelastic neutron spectrometer HODACA**|Hodaka Kikuchi et.al.|[2310.11463v1](http://arxiv.org/abs/2310.11463v1)|null|
 |**2023-10-16**|**Implementation of a laser-neutron pump-probe capability at HYSPEC**|Chengyun Hua et.al.|[2310.10540v1](http://arxiv.org/abs/2310.10540v1)|null|
