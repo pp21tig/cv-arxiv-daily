@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Phase separation dependent active motion of Janus lipid vesicles**|Vivien Willems et.al.|[2311.00685v1](http://arxiv.org/abs/2311.00685v1)|null|
+|**2023-11-01**|**Dipole-dipole correlations in the nematic phases of symmetric cyanobiphenyl dimers and their binary mixtures with 5CB**|Evangelia E. Zavvou et.al.|[2311.00675v1](http://arxiv.org/abs/2311.00675v1)|null|
+|**2023-11-01**|**The Countoscope: Measuring Self and Collective Dynamics without Trajectories**|Eleanor K. R. Mackay et.al.|[2311.00647v1](http://arxiv.org/abs/2311.00647v1)|null|
+|**2023-11-01**|**2D high temperature superconductor integration in contact printed circuit boards**|Christian N. Saggau et.al.|[2311.00602v1](http://arxiv.org/abs/2311.00602v1)|null|
+|**2023-11-01**|**Electric Fields Near Undulating Dielectric Membranes**|Nicholas Pogharian et.al.|[2311.00570v1](http://arxiv.org/abs/2311.00570v1)|null|
+|**2023-11-01**|**Machine Learning Without a Processor: Emergent Learning in a Nonlinear Electronic Metamaterial**|Sam Dillavou et.al.|[2311.00537v1](http://arxiv.org/abs/2311.00537v1)|null|
+|**2023-11-01**|**A unifying Rayleigh-Plesset-type equation for bubbles in viscoelastic media**|Alexandros T. Oratis et.al.|[2311.00484v1](http://arxiv.org/abs/2311.00484v1)|null|
+|**2023-11-01**|**Universal symmetry of optimal control at the microscale**|Sarah A. M. Loos et.al.|[2311.00470v1](http://arxiv.org/abs/2311.00470v1)|null|
+|**2023-11-01**|**Nucleation patterns of polymer crystals analyzed by machine learning models**|Atmika Bhardwaj et.al.|[2311.00454v1](http://arxiv.org/abs/2311.00454v1)|null|
+|**2023-11-01**|**Universality of the angled shear wave identity in soft viscous solids**|Harold Berjamin et.al.|[2311.00414v1](http://arxiv.org/abs/2311.00414v1)|null|
+|**2023-11-01**|**Elasticity, plasticity and screening in amorphous solids: a short review**|Avanish Kumar et.al.|[2311.00395v1](http://arxiv.org/abs/2311.00395v1)|null|
+|**2023-11-01**|**Mapping electrostatic potential in electrolyte solution**|Bo Huang et.al.|[2311.00387v1](http://arxiv.org/abs/2311.00387v1)|null|
+|**2023-11-01**|**Predicting Ion Sequestration in Charged Polymers with the Steepest-Entropy-Ascent Quantum Thermodynamic Framework**|Jared McDonald et.al.|[2311.00299v1](http://arxiv.org/abs/2311.00299v1)|null|
+|**2023-10-31**|**Experimental Demonstration of Coupled Learning in Elastic Networks**|Lauren E. Altman et.al.|[2311.00170v1](http://arxiv.org/abs/2311.00170v1)|null|
+|**2023-10-31**|**Aspects of Non-Relativistic Quantum Field Theories**|Stefano Baiguera et.al.|[2311.00027v1](http://arxiv.org/abs/2311.00027v1)|null|
 |**2023-10-31**|**Leading-logarithmic approximation by one-loop renormalization group within Matsubara formalism**|Jan Diekmann et.al.|[2310.20648v1](http://arxiv.org/abs/2310.20648v1)|null|
 |**2023-10-31**|**Mathematical results on the chiral model of twisted bilayer graphene (with an appendix by Mengxuan Yang and Zhongkai Tao)**|Maciej Zworski et.al.|[2310.20642v1](http://arxiv.org/abs/2310.20642v1)|null|
 |**2023-10-31**|**On the structure-viscoelasticity relationship of a dually crosslinked reversible polymer network**|Mounika Gosika et.al.|[2310.20553v1](http://arxiv.org/abs/2310.20553v1)|null|
@@ -4033,6 +4048,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Iterated Perturbation Theory for Mott Insulators in a Static Electric Field with Optical Phonons**|Tommaso Maria Mazzocchi et.al.|[2311.00617v1](http://arxiv.org/abs/2311.00617v1)|null|
 |**2023-10-29**|**A 0.21-ps FOM Capacitor-Less Analog LDO with Dual-Range Load Current for Biomedical Applications**|Yasemin Engur et.al.|[2310.18998v1](http://arxiv.org/abs/2310.18998v1)|null|
 |**2023-10-28**|**Atomistic Processes of high-temperature plastic deformation of nanoscale body-centered cubic tungsten**|Sixue Zheng et.al.|[2310.18764v1](http://arxiv.org/abs/2310.18764v1)|null|
 |**2023-10-24**|**Improved Dual-Output Step-Down Soft-Switching Current-Fed Push-Pull DC-DC Converter**|Minoo Mohebbifar et.al.|[2310.15434v1](http://arxiv.org/abs/2310.15434v1)|null|
@@ -4137,6 +4153,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683v1](http://arxiv.org/abs/2311.00683v1)|null|
+|**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247v1](http://arxiv.org/abs/2311.00247v1)|null|
 |**2023-10-30**|**Tight-binding theory of spin-spin interactions, Curie temperatures, and quantum Hall effects in topological (Hg,Cr)Te in comparison to non-topological (Zn,Cr)Te, and (Ga,Mn)N**|Cezary Śliwa et.al.|[2310.19856v1](http://arxiv.org/abs/2310.19856v1)|null|
 |**2023-10-26**|**Diffusive-hydrodynamic transition in the anomalous Hall effect**|D. S. Zohrabyan et.al.|[2310.17738v1](http://arxiv.org/abs/2310.17738v1)|null|
 |**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483v1](http://arxiv.org/abs/2310.17483v1)|null|
@@ -4272,6 +4290,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Large Energy Shifts of Crystal-field Excitations in Erbium Orthoferrite Driven by Internal Magnetic Fields**|Guochu Deng et.al.|[2311.00478v1](http://arxiv.org/abs/2311.00478v1)|null|
+|**2023-10-31**|**Experimental Evidence for Non-spherical Magnetic Form Factor in Ru $^{3+}$**|Colin L. Sarkis et.al.|[2311.00078v1](http://arxiv.org/abs/2311.00078v1)|null|
 |**2023-10-30**|**Quantum to classical crossover in generalized spin systems -- the temperature-dependent spin dynamics of FeI $_2$**|D. Dahlbom et.al.|[2310.19905v1](http://arxiv.org/abs/2310.19905v1)|null|
 |**2023-10-24**|**Role of crystal field ground state in the classical spin-liquid behavior of a quasi-one dimensional spin-chain system Sr3NiPtO6**|V. K. Anand et.al.|[2310.15821v1](http://arxiv.org/abs/2310.15821v1)|null|
 |**2023-10-12**|**A new inelastic neutron spectrometer HODACA**|Hodaka Kikuchi et.al.|[2310.11463v1](http://arxiv.org/abs/2310.11463v1)|null|
