@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Elongated particles discharged with a conveyor belt in a two-dimensional silo**|Bo Fan et.al.|[2311.01411v1](http://arxiv.org/abs/2311.01411v1)|null|
+|**2023-11-02**|**Absence of barren plateaus in finite local-depth circuits with long-range entanglement**|Hao-Kai Zhang et.al.|[2311.01393v1](http://arxiv.org/abs/2311.01393v1)|null|
+|**2023-11-02**|**Economical routes to size-specific assembly of self-closing structures**|Thomas E. Videbæk et.al.|[2311.01383v1](http://arxiv.org/abs/2311.01383v1)|null|
+|**2023-11-02**|**Intrinsic water transport in moisture-capturing hydrogels**|Gustav Graeber et.al.|[2311.01239v1](http://arxiv.org/abs/2311.01239v1)|null|
+|**2023-11-02**|**Transformable Super-Isostatic Crystals Self-Assembled from Segment Colloidal Rods**|Ji-Dong Hu et.al.|[2311.01160v1](http://arxiv.org/abs/2311.01160v1)|null|
+|**2023-11-02**|**On Micropolar Elastic Foundations**|Adrianos E. F. Athanasiadis et.al.|[2311.01136v1](http://arxiv.org/abs/2311.01136v1)|null|
+|**2023-11-02**|**Superconducting Properties of Topological Semimetal 1 $T$ -RhSeTe**|C. Patra et.al.|[2311.01019v1](http://arxiv.org/abs/2311.01019v1)|null|
+|**2023-11-02**|**Effect of Confinement and Topology: 2-TIPS vs MIPS**|Nayana Venkatareddy et.al.|[2311.00929v1](http://arxiv.org/abs/2311.00929v1)|null|
+|**2023-11-02**|**Floquet engineering in the presence of optically excited carriers**|Mitchell A. Conway et.al.|[2311.00916v1](http://arxiv.org/abs/2311.00916v1)|null|
+|**2023-11-01**|**Crater Depth Prediction in Granular Collisions: A Uniaxial Compression Model**|F. Corrales-Machín et.al.|[2311.00898v1](http://arxiv.org/abs/2311.00898v1)|null|
+|**2023-11-01**|**Non-Stokesian dynamics of magnetic helical nanoswimmers under confinement**|Alireza Fazeli et.al.|[2311.00839v1](http://arxiv.org/abs/2311.00839v1)|null|
+|**2023-11-01**|**"Tattered" membrane**|Pierre Le Doussal et.al.|[2311.00752v1](http://arxiv.org/abs/2311.00752v1)|null|
 |**2023-11-01**|**Phase separation dependent active motion of Janus lipid vesicles**|Vivien Willems et.al.|[2311.00685v1](http://arxiv.org/abs/2311.00685v1)|null|
 |**2023-11-01**|**Dipole-dipole correlations in the nematic phases of symmetric cyanobiphenyl dimers and their binary mixtures with 5CB**|Evangelia E. Zavvou et.al.|[2311.00675v1](http://arxiv.org/abs/2311.00675v1)|null|
 |**2023-11-01**|**The Countoscope: Measuring Self and Collective Dynamics without Trajectories**|Eleanor K. R. Mackay et.al.|[2311.00647v1](http://arxiv.org/abs/2311.00647v1)|null|
@@ -4028,7 +4040,7 @@ layout: default
 |**2022-04-04**|**Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes**|David Aasen et.al.|[2203.11137v2](http://arxiv.org/abs/2203.11137v2)|null|
 |**2022-03-07**|**Terahertz displacive excitation of a coherent Raman-active phonon in V $_2$O$_3$**|Flavio Giorgianni et.al.|[2203.03656v1](http://arxiv.org/abs/2203.03656v1)|null|
 |**2022-03-01**|**Atmospheric aerosol clearing by femtosecond filaments**|A. Goffin et.al.|[2203.00196v1](http://arxiv.org/abs/2203.00196v1)|null|
-|**2022-02-28**|**Out-of-plane nonlinear optical responses of superconducting cuprates detected by Terahertz pump-Terahertz probe spectroscopy**|S. J. Zhang et.al.|[2202.13858v1](http://arxiv.org/abs/2202.13858v1)|null|
+|**2023-11-02**|**Revealing the frequency-dependent oscillations in the nonlinear terahertz response induced by the Josephson current**|Sijie Zhang et.al.|[2202.13858v2](http://arxiv.org/abs/2202.13858v2)|null|
 |**2022-04-25**|**Four-point functions with multi-cycle fields in symmetric orbifolds and the D1-D5 CFT**|Andre Alves Lima et.al.|[2202.12424v2](http://arxiv.org/abs/2202.12424v2)|null|
 |**2022-02-23**|**Spin canting in nonlinear terahertz magnon dynamics revealed by magnetorefractive probing in orthoferrite**|Takayuki Kurihara et.al.|[2202.11365v1](http://arxiv.org/abs/2202.11365v1)|null|
 |**2022-01-12**|**Carrier-envelope phase of a light bullet**|Elizaveta Zaloznaya et.al.|[2201.04357v1](http://arxiv.org/abs/2201.04357v1)|null|
@@ -4052,6 +4064,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Biases from spectral leakage in remote sensing of near-surface currents**|Stefan Weichert et.al.|[2311.01265v1](http://arxiv.org/abs/2311.01265v1)|null|
 |**2023-11-01**|**Iterated Perturbation Theory for Mott Insulators in a Static Electric Field with Optical Phonons**|Tommaso Maria Mazzocchi et.al.|[2311.00617v1](http://arxiv.org/abs/2311.00617v1)|null|
 |**2023-10-29**|**A 0.21-ps FOM Capacitor-Less Analog LDO with Dual-Range Load Current for Biomedical Applications**|Yasemin Engur et.al.|[2310.18998v1](http://arxiv.org/abs/2310.18998v1)|null|
 |**2023-10-28**|**Atomistic Processes of high-temperature plastic deformation of nanoscale body-centered cubic tungsten**|Sixue Zheng et.al.|[2310.18764v1](http://arxiv.org/abs/2310.18764v1)|null|
