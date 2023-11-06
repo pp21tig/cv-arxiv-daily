@@ -1102,6 +1102,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Combining scattering experiments and colloid theory to characterize charge effects in concentrated antibody solutions**|Alessandro Gulotta et.al.|[2311.01986v1](http://arxiv.org/abs/2311.01986v1)|null|
+|**2023-11-03**|**Emergence of odd elasticity in a microswimmer using deep reinforcement learning**|Li-Shing Lin et.al.|[2311.01973v1](http://arxiv.org/abs/2311.01973v1)|null|
+|**2023-11-03**|**From a distance: Shuttleworth revisited**|Stefanie Heyden et.al.|[2311.01896v1](http://arxiv.org/abs/2311.01896v1)|null|
+|**2023-11-02**|**Projective symmetries of three-dimensional TQFTs**|Jackson Van Dyke et.al.|[2311.01637v1](http://arxiv.org/abs/2311.01637v1)|null|
 |**2023-11-02**|**Elongated particles discharged with a conveyor belt in a two-dimensional silo**|Bo Fan et.al.|[2311.01411v1](http://arxiv.org/abs/2311.01411v1)|null|
 |**2023-11-02**|**Absence of barren plateaus in finite local-depth circuits with long-range entanglement**|Hao-Kai Zhang et.al.|[2311.01393v1](http://arxiv.org/abs/2311.01393v1)|null|
 |**2023-11-02**|**Economical routes to size-specific assembly of self-closing structures**|Thomas E. Videbæk et.al.|[2311.01383v1](http://arxiv.org/abs/2311.01383v1)|null|
