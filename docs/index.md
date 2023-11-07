@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Superconductivity in the pressurized nickelate La $_3$Ni$_2$O$_7$ in the vicinity of a BEC-BCS crossover**|Henning Schlömer et.al.|[2311.03349v1](http://arxiv.org/abs/2311.03349v1)|null|
+|**2023-11-06**|**nNxB: a new coarse-grained model for RNA and DNA nanotechnology**|F. Tosti Guerra et.al.|[2311.03317v1](http://arxiv.org/abs/2311.03317v1)|null|
+|**2023-11-06**|**Quasi long-ranged order in two-dimensional active liquid crystals**|Livio Nicola Carenza et.al.|[2311.03276v1](http://arxiv.org/abs/2311.03276v1)|null|
+|**2023-11-06**|**Metachronal coordination at the mesoscale**|Sebastian Ziegler et.al.|[2311.03269v1](http://arxiv.org/abs/2311.03269v1)|null|
+|**2023-11-06**|**Sustainable, low-cost sorbents based on calcium chloride-loaded polyacrylamide hydrogels**|Levi Hoogendoorn et.al.|[2311.03218v1](http://arxiv.org/abs/2311.03218v1)|null|
+|**2023-11-06**|**Quasi one-dimensional organic conductors: from Fröhlich conductivity and Peierls insulating state to magnetically-mediated superconductivity, a retrospective**|Denis Jerome et.al.|[2311.03104v1](http://arxiv.org/abs/2311.03104v1)|null|
+|**2023-11-06**|**Suppression of water vapor condensation by glycerol droplets on hydrophobic surfaces**|Zhan-Long Wang et.al.|[2311.03068v1](http://arxiv.org/abs/2311.03068v1)|null|
+|**2023-11-06**|**Topological phase of many-body non-Hermitian systems**|Kui Cao et.al.|[2311.03043v1](http://arxiv.org/abs/2311.03043v1)|null|
+|**2023-11-06**|**Collisions enhance tracer diffusivity in an active Janus bath**|Maximilian Bailey et.al.|[2311.03022v1](http://arxiv.org/abs/2311.03022v1)|null|
+|**2023-11-06**|**Inertia & viscosity dictate drop impact forces**|Vatsal Sanjay et.al.|[2311.03012v1](http://arxiv.org/abs/2311.03012v1)|null|
+|**2023-11-06**|**A bond swap algorithm for simulating dynamically crosslinked polymers**|Peilin Rao et.al.|[2311.02983v1](http://arxiv.org/abs/2311.02983v1)|null|
+|**2023-11-06**|**Self-Driven Configurational Dynamics in Frustrated Spring-Mass Systems**|Ori Saporta-Katz et.al.|[2311.02982v1](http://arxiv.org/abs/2311.02982v1)|null|
+|**2023-11-06**|**Light-scattering reconstruction of transparent shapes using neural networks**|Tymoteusz Miara et.al.|[2311.02970v1](http://arxiv.org/abs/2311.02970v1)|null|
+|**2023-11-06**|**Trajectory Extending Kinetic Monte Carlo Simulations to Evaluate Pure and Gas Mixture Diffusivities through a Dense Polymeric Membrane**|Subhadeep Dasgupta et.al.|[2311.02878v1](http://arxiv.org/abs/2311.02878v1)|**[link](https://github.com/PKMLab/tekmc)**|
+|**2023-11-06**|**Shear zones in granular mixtures of hard and soft particles with high and low friction**|Aditya Pratap Singh et.al.|[2311.02875v1](http://arxiv.org/abs/2311.02875v1)|null|
+|**2023-11-05**|**Remark on the Entropy Production of Adaptive Run-and-Tumble Chemotaxis**|Minh D. N. Nguyen et.al.|[2311.02735v1](http://arxiv.org/abs/2311.02735v1)|null|
+|**2023-11-05**|**Recent progress in cartilage lubrication**|Weifeng Lin et.al.|[2311.02681v1](http://arxiv.org/abs/2311.02681v1)|null|
+|**2023-11-05**|**Separating micrometer-sized particles utilizing a dusty plasma ratchet**|Zhi-min Cai et.al.|[2311.02553v1](http://arxiv.org/abs/2311.02553v1)|null|
+|**2023-11-04**|**Molecular dynamics simulation of the coalescence of surfactant-laden droplets**|Soheil Arbabi et.al.|[2311.02417v1](http://arxiv.org/abs/2311.02417v1)|null|
+|**2023-11-04**|**Antidurotaxis Droplet Motion onto Gradient Brush Substrates**|Russell Kajouri et.al.|[2311.02412v1](http://arxiv.org/abs/2311.02412v1)|null|
 |**2023-11-03**|**Combining scattering experiments and colloid theory to characterize charge effects in concentrated antibody solutions**|Alessandro Gulotta et.al.|[2311.01986v1](http://arxiv.org/abs/2311.01986v1)|null|
 |**2023-11-03**|**Emergence of odd elasticity in a microswimmer using deep reinforcement learning**|Li-Shing Lin et.al.|[2311.01973v1](http://arxiv.org/abs/2311.01973v1)|null|
 |**2023-11-03**|**From a distance: Shuttleworth revisited**|Stefanie Heyden et.al.|[2311.01896v1](http://arxiv.org/abs/2311.01896v1)|null|
@@ -3862,6 +3882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
 |**2023-10-25**|**Photo-induced electronic and spin topological phase transitions in monolayer bismuth**|Bo Peng et.al.|[2310.16886v1](http://arxiv.org/abs/2310.16886v1)|null|
 |**2023-10-24**|**Elementary excitations in the hybrid Bose-Fermi system induced by circularly polarized light in a two-dimensional gas of charge carriers with different masses**|V. M. Kovalev et.al.|[2310.15864v1](http://arxiv.org/abs/2310.15864v1)|null|
 |**2023-10-23**|**A Theoretical Perspective on the Photochemistry of Boron-Nitrogen Lewis Adducts**|Emanuele Marsili et.al.|[2310.15268v1](http://arxiv.org/abs/2310.15268v1)|null|
@@ -4068,6 +4089,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Current-induced spin polarization in chiral Tellurium: a first-principles quantum transport study**|Reena Gupta et.al.|[2311.03219v1](http://arxiv.org/abs/2311.03219v1)|null|
 |**2023-11-02**|**Biases from spectral leakage in remote sensing of near-surface currents**|Stefan Weichert et.al.|[2311.01265v1](http://arxiv.org/abs/2311.01265v1)|null|
 |**2023-11-01**|**Iterated Perturbation Theory for Mott Insulators in a Static Electric Field with Optical Phonons**|Tommaso Maria Mazzocchi et.al.|[2311.00617v1](http://arxiv.org/abs/2311.00617v1)|null|
 |**2023-10-29**|**A 0.21-ps FOM Capacitor-Less Analog LDO with Dual-Range Load Current for Biomedical Applications**|Yasemin Engur et.al.|[2310.18998v1](http://arxiv.org/abs/2310.18998v1)|null|
