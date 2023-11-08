@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
+|**2023-11-07**|**SPIRAL: An Efficient Algorithm for the Integration of the Equation of Rotational Motion**|Carlos Andrés del Valle et.al.|[2311.04106v1](http://arxiv.org/abs/2311.04106v1)|null|
+|**2023-11-07**|**A Unifying Model for the Rheological Behavior of Hygro-responsive Materials**|Júlio Amando de Barros et.al.|[2311.04013v1](http://arxiv.org/abs/2311.04013v1)|null|
+|**2023-11-07**|**Stability of chiral crystal phase and breakdown of cholesteric phase in mixtures of active-passive chiral rods**|Jayeeta Chattopadhyay et.al.|[2311.03994v1](http://arxiv.org/abs/2311.03994v1)|null|
+|**2023-11-07**|**Inhibition of water vapor condensation by dipropylene glycol droplets on hydrophobic surfaces via vapor sink strategy**|Zhan-Long Wang et.al.|[2311.03930v1](http://arxiv.org/abs/2311.03930v1)|null|
+|**2023-11-07**|**Sensitivity of solid phase stability to the interparticle potential range: studies of a new Lennard-Jones like model**|Olivia S. Moro et.al.|[2311.03925v1](http://arxiv.org/abs/2311.03925v1)|null|
+|**2023-11-07**|**Hydrodynamic efficiency limit on a Marangoni surfer**|Abdallah Daddi-Moussa-Ider et.al.|[2311.03878v1](http://arxiv.org/abs/2311.03878v1)|null|
+|**2023-11-07**|**Active smectics on a sphere**|Michael Nestler et.al.|[2311.03836v1](http://arxiv.org/abs/2311.03836v1)|null|
+|**2023-11-07**|**A midsurface elasticity model for a thin, nonlinear, gradient elastic plate**|C. Rodriguez et.al.|[2311.03674v1](http://arxiv.org/abs/2311.03674v1)|null|
+|**2023-11-06**|**Use Adaptive Fast Function Approximator in Motor-Filament Binding Kinetics**|Zihan Zhang et.al.|[2311.03602v1](http://arxiv.org/abs/2311.03602v1)|null|
+|**2023-11-06**|**Interface-templated crystal growth in sodium dodecyl sulfate solutions with NaCl**|Anna Kharlamova et.al.|[2311.03544v1](http://arxiv.org/abs/2311.03544v1)|null|
+|**2023-11-06**|**Chiral magnetic phases in Moire bilayers of magnetic dipoles**|Ignacio Tapia et.al.|[2311.03519v1](http://arxiv.org/abs/2311.03519v1)|null|
+|**2023-11-06**|**Homogeneous crystallization in four-dimensional Lennard-Jones liquids**|Robert S. Hoy et.al.|[2311.03465v1](http://arxiv.org/abs/2311.03465v1)|null|
 |**2023-11-06**|**Superconductivity in the pressurized nickelate La $_3$Ni$_2$O$_7$ in the vicinity of a BEC-BCS crossover**|Henning Schlömer et.al.|[2311.03349v1](http://arxiv.org/abs/2311.03349v1)|null|
 |**2023-11-06**|**nNxB: a new coarse-grained model for RNA and DNA nanotechnology**|F. Tosti Guerra et.al.|[2311.03317v1](http://arxiv.org/abs/2311.03317v1)|null|
 |**2023-11-06**|**Quasi long-ranged order in two-dimensional active liquid crystals**|Livio Nicola Carenza et.al.|[2311.03276v1](http://arxiv.org/abs/2311.03276v1)|null|
@@ -3882,6 +3895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
 |**2023-10-25**|**Photo-induced electronic and spin topological phase transitions in monolayer bismuth**|Bo Peng et.al.|[2310.16886v1](http://arxiv.org/abs/2310.16886v1)|null|
 |**2023-10-24**|**Elementary excitations in the hybrid Bose-Fermi system induced by circularly polarized light in a two-dimensional gas of charge carriers with different masses**|V. M. Kovalev et.al.|[2310.15864v1](http://arxiv.org/abs/2310.15864v1)|null|
@@ -4196,6 +4210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217v1](http://arxiv.org/abs/2311.04217v1)|null|
 |**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683v1](http://arxiv.org/abs/2311.00683v1)|null|
 |**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247v1](http://arxiv.org/abs/2311.00247v1)|null|
 |**2023-10-30**|**Tight-binding theory of spin-spin interactions, Curie temperatures, and quantum Hall effects in topological (Hg,Cr)Te in comparison to non-topological (Zn,Cr)Te, and (Ga,Mn)N**|Cezary Śliwa et.al.|[2310.19856v1](http://arxiv.org/abs/2310.19856v1)|null|
@@ -4333,6 +4348,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Spatial Correlation at the Boson Peak Frequency in Amorphous Materials**|X. Y. Li et.al.|[2311.03466v1](http://arxiv.org/abs/2311.03466v1)|null|
 |**2023-11-01**|**Large Energy Shifts of Crystal-field Excitations in Erbium Orthoferrite Driven by Internal Magnetic Fields**|Guochu Deng et.al.|[2311.00478v1](http://arxiv.org/abs/2311.00478v1)|null|
 |**2023-10-31**|**Experimental Evidence for Non-spherical Magnetic Form Factor in Ru $^{3+}$**|Colin L. Sarkis et.al.|[2311.00078v1](http://arxiv.org/abs/2311.00078v1)|null|
 |**2023-10-30**|**Quantum to classical crossover in generalized spin systems -- the temperature-dependent spin dynamics of FeI $_2$**|D. Dahlbom et.al.|[2310.19905v1](http://arxiv.org/abs/2310.19905v1)|**[link](https://github.com/sunnysuite/sunnycontributed)**|
