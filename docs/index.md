@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Spatially twisted liquid-crystal devices**|Alicia Sit et.al.|[2311.04773v1](http://arxiv.org/abs/2311.04773v1)|null|
+|**2023-11-08**|**Molecular Rotors for In Situ Viscosity Mapping during Evaporation of Confined Fluid Mixtures**|Florence Gibouin et.al.|[2311.04728v1](http://arxiv.org/abs/2311.04728v1)|null|
+|**2023-11-08**|**Mechanical strain induced topological phase changes of few layer ZrTe $_5$**|Zoltán Tajkov et.al.|[2311.04721v1](http://arxiv.org/abs/2311.04721v1)|null|
+|**2023-11-08**|**Noise-Induced Collective Actuation in Active Solids**|Paul Baconnier et.al.|[2311.04669v1](http://arxiv.org/abs/2311.04669v1)|null|
+|**2023-11-08**|**Non-Hermitian Aubry-André-Harper model with short- and long-range p-wave pairing**|Shaina Gandhi et.al.|[2311.04605v1](http://arxiv.org/abs/2311.04605v1)|null|
+|**2023-11-08**|**Structure and polymerization of liquid sulfur across the $λ$ -transition**|Manyi Yang et.al.|[2311.04572v1](http://arxiv.org/abs/2311.04572v1)|null|
+|**2023-11-08**|**Motion of microswimmers in cylindrical microchannels**|Florian A. Overberg et.al.|[2311.04525v1](http://arxiv.org/abs/2311.04525v1)|null|
+|**2023-11-08**|**Cytoplasmic stirring by active carpets**|Brato Chakrabarti et.al.|[2311.04452v1](http://arxiv.org/abs/2311.04452v1)|null|
+|**2023-11-07**|**Complex flow profiles in microscopic active crystals**|Abraham Mauleon-Amieva et.al.|[2311.04288v1](http://arxiv.org/abs/2311.04288v1)|null|
+|**2023-11-07**|**Counterdiabatic optimized driving in quantum phase sensitive models**|Francesco Pio Barone et.al.|[2311.04282v1](http://arxiv.org/abs/2311.04282v1)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-07**|**SPIRAL: An Efficient Algorithm for the Integration of the Equation of Rotational Motion**|Carlos Andrés del Valle et.al.|[2311.04106v1](http://arxiv.org/abs/2311.04106v1)|null|
 |**2023-11-07**|**A Unifying Model for the Rheological Behavior of Hygro-responsive Materials**|Júlio Amando de Barros et.al.|[2311.04013v1](http://arxiv.org/abs/2311.04013v1)|null|
@@ -3895,6 +3905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v1](http://arxiv.org/abs/2311.04460v1)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
 |**2023-10-25**|**Photo-induced electronic and spin topological phase transitions in monolayer bismuth**|Bo Peng et.al.|[2310.16886v1](http://arxiv.org/abs/2310.16886v1)|null|
@@ -4103,11 +4114,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Cryogenic resonant amplifier for electron-on-helium image charge readout**|Mikhail Belianchikov et.al.|[2311.04437v1](http://arxiv.org/abs/2311.04437v1)|null|
 |**2023-11-06**|**Current-induced spin polarization in chiral Tellurium: a first-principles quantum transport study**|Reena Gupta et.al.|[2311.03219v1](http://arxiv.org/abs/2311.03219v1)|null|
 |**2023-11-02**|**Biases from spectral leakage in remote sensing of near-surface currents**|Stefan Weichert et.al.|[2311.01265v1](http://arxiv.org/abs/2311.01265v1)|null|
 |**2023-11-01**|**Iterated Perturbation Theory for Mott Insulators in a Static Electric Field with Optical Phonons**|Tommaso Maria Mazzocchi et.al.|[2311.00617v1](http://arxiv.org/abs/2311.00617v1)|null|
 |**2023-10-29**|**A 0.21-ps FOM Capacitor-Less Analog LDO with Dual-Range Load Current for Biomedical Applications**|Yasemin Engur et.al.|[2310.18998v1](http://arxiv.org/abs/2310.18998v1)|null|
-|**2023-10-28**|**Atomistic Processes of high-temperature plastic deformation of nanoscale body-centered cubic tungsten**|Sixue Zheng et.al.|[2310.18764v1](http://arxiv.org/abs/2310.18764v1)|null|
+|**2023-11-08**|**Atomistic Processes of high-temperature plastic deformation of nanoscale body-centered cubic tungsten**|Sixue Zheng et.al.|[2310.18764v2](http://arxiv.org/abs/2310.18764v2)|null|
 |**2023-10-24**|**Improved Dual-Output Step-Down Soft-Switching Current-Fed Push-Pull DC-DC Converter**|Minoo Mohebbifar et.al.|[2310.15434v1](http://arxiv.org/abs/2310.15434v1)|null|
 |**2023-10-19**|**Plasmon Fizeau drag in 3D Dirac and Weyl semimetals**|Morgan G. Blevins et.al.|[2310.12938v1](http://arxiv.org/abs/2310.12938v1)|null|
 |**2023-10-19**|**Efficient non-collinear antiferromagnetic state switching induced by orbital Hall effect in chromium**|Hang Xie et.al.|[2310.12695v1](http://arxiv.org/abs/2310.12695v1)|null|
@@ -4210,6 +4222,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890v1](http://arxiv.org/abs/2311.04890v1)|null|
+|**2023-11-08**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418v1](http://arxiv.org/abs/2311.04418v1)|**[link](https://github.com/zfgao66/mataltmag)**|
 |**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217v1](http://arxiv.org/abs/2311.04217v1)|null|
 |**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683v1](http://arxiv.org/abs/2311.00683v1)|null|
 |**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247v1](http://arxiv.org/abs/2311.00247v1)|null|
