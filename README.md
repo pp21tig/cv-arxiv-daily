@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**The non-reciprocal Ising model**|Yael Avni et.al.|[2311.05471v1](http://arxiv.org/abs/2311.05471v1)|null|
+|**2023-11-09**|**Skyrmion-Excited Spin Wave Fractal Network**|Nan Tang et.al.|[2311.05469v1](http://arxiv.org/abs/2311.05469v1)|null|
+|**2023-11-09**|**Parametrization of the Charge-Carrier Mobility in Organic Disordered Semiconductors. APAE against EGDM**|S. D. Baranovskii et.al.|[2311.05406v1](http://arxiv.org/abs/2311.05406v1)|null|
+|**2023-11-09**|**Non-Markovian and Collective Search Strategies**|Hugues Meyer et.al.|[2311.05403v1](http://arxiv.org/abs/2311.05403v1)|null|
+|**2023-11-09**|**Spontaneous pattern formation in monolayers of binary mixtures with competing interactions**|O. Patsahan et.al.|[2311.05386v1](http://arxiv.org/abs/2311.05386v1)|null|
+|**2023-11-09**|**Non-Gaussian displacements in active transport on a carpet of motile cells**|Robert Großmann et.al.|[2311.05377v1](http://arxiv.org/abs/2311.05377v1)|null|
+|**2023-11-09**|**Undulations of smectic A layers in achiral liquid crystals manifested as stripe textures**|Natalia Podoliak et.al.|[2311.05365v1](http://arxiv.org/abs/2311.05365v1)|null|
+|**2023-11-09**|**Liquid phase fast electron tomography unravels the true 3D structure of colloidal assemblies**|Daniel Arenas Esteban et.al.|[2311.05309v1](http://arxiv.org/abs/2311.05309v1)|null|
+|**2023-11-09**|**Controlling the rheo-electric properties of graphite/carbon black suspensions by 'flow-switching'**|Thomas Larsen et.al.|[2311.05302v1](http://arxiv.org/abs/2311.05302v1)|null|
+|**2023-11-09**|**Perfecting Liquid-State Theories with Machine Intelligence**|Jianzhong Wu et.al.|[2311.05167v1](http://arxiv.org/abs/2311.05167v1)|null|
+|**2023-11-09**|**The impact of polymer rheology on the extrusion flow in fused filament fabrication**|Tomás Schuller et.al.|[2311.05158v1](http://arxiv.org/abs/2311.05158v1)|null|
+|**2023-11-08**|**Electron liquids in solids: hydrodynamic description inspired by ideas of Radii Gurzhi**|A. N. Kalinenko et.al.|[2311.05057v1](http://arxiv.org/abs/2311.05057v1)|null|
+|**2023-11-08**|**Undulatory swimming in viscoelastic fluids under confinement**|D. Gagnon et.al.|[2311.05027v1](http://arxiv.org/abs/2311.05027v1)|null|
 |**2023-11-08**|**Spatially twisted liquid-crystal devices**|Alicia Sit et.al.|[2311.04773v1](http://arxiv.org/abs/2311.04773v1)|null|
 |**2023-11-08**|**Molecular Rotors for In Situ Viscosity Mapping during Evaporation of Confined Fluid Mixtures**|Florence Gibouin et.al.|[2311.04728v1](http://arxiv.org/abs/2311.04728v1)|null|
 |**2023-11-08**|**Mechanical strain induced topological phase changes of few layer ZrTe $_5$**|Zoltán Tajkov et.al.|[2311.04721v1](http://arxiv.org/abs/2311.04721v1)|null|
@@ -3901,6 +3914,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v1](http://arxiv.org/abs/2311.05507v1)|null|
 |**2023-11-08**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v1](http://arxiv.org/abs/2311.04460v1)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
@@ -4218,6 +4232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970v1](http://arxiv.org/abs/2311.04970v1)|null|
 |**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890v1](http://arxiv.org/abs/2311.04890v1)|null|
 |**2023-11-08**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418v1](http://arxiv.org/abs/2311.04418v1)|**[link](https://github.com/zfgao66/mataltmag)**|
 |**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217v1](http://arxiv.org/abs/2311.04217v1)|null|
