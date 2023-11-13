@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Stochastic kinetic theory applied to coarse-grained polymer model**|Shangren Zhu et.al.|[2311.06091v1](http://arxiv.org/abs/2311.06091v1)|null|
+|**2023-11-10**|**Spontaneous Vibrations and Stochastic Resonance of Short Oligomeric Springs**|Alexey M. Astakhov et.al.|[2311.06016v1](http://arxiv.org/abs/2311.06016v1)|null|
+|**2023-11-10**|**Spontaneous synchronization of two bistable pyridine-furan nanosprings connected by an oligomeric bridge**|Anastasia A. Markina et.al.|[2311.06011v1](http://arxiv.org/abs/2311.06011v1)|null|
+|**2023-11-10**|**Intramolecular and water mediated tautomerism of solvated glycine**|Pengchao Zhang et.al.|[2311.05917v1](http://arxiv.org/abs/2311.05917v1)|null|
+|**2023-11-10**|**Spatial distribution of reduced density of hard spheres near a hard-sphere dimer: Results from three-dimensional Ornstein-Zernike equations coupled with several different closures and from grand canonical Monte Carlo simulation**|Mika Matsuo et.al.|[2311.05893v1](http://arxiv.org/abs/2311.05893v1)|null|
+|**2023-11-10**|**Anisotropy of shear relaxation in primitive chain network simulations for entangled polymers confined between flat walls**|Yuichi Masubuchi et.al.|[2311.05886v1](http://arxiv.org/abs/2311.05886v1)|null|
+|**2023-11-10**|**Exact WKB analysis for adiabatic discrete-level Hamiltonians**|Takayuki Suzuki et.al.|[2311.05871v1](http://arxiv.org/abs/2311.05871v1)|null|
+|**2023-11-09**|**Brillouin light scattering studies of aqueous E. coli cell lysate: Viscoelastic properties of a multimacromolecular solution**|D. F. Hanlon et.al.|[2311.05761v1](http://arxiv.org/abs/2311.05761v1)|null|
+|**2023-11-09**|**Confinement induced three-dimensional trajectories of microswimmers in rectangular channels**|Byjesh N. Radhakrishnan et.al.|[2311.05757v1](http://arxiv.org/abs/2311.05757v1)|null|
+|**2023-11-09**|**Single-Atom Control of Arsenic Incorporation in Silicon for High-Yield Artificial Lattice Fabrication**|Taylor J. Z. Stock et.al.|[2311.05752v1](http://arxiv.org/abs/2311.05752v1)|null|
+|**2023-11-09**|**Propulsion of a chiral microswimmer in viscoelastic fluids**|Takuya Kobayashi et.al.|[2311.05718v1](http://arxiv.org/abs/2311.05718v1)|null|
+|**2023-11-09**|**Rheology of bidisperse non-Brownian suspensions**|Abhinendra Singh et.al.|[2311.05696v1](http://arxiv.org/abs/2311.05696v1)|null|
 |**2023-11-09**|**The non-reciprocal Ising model**|Yael Avni et.al.|[2311.05471v1](http://arxiv.org/abs/2311.05471v1)|null|
 |**2023-11-09**|**Skyrmion-Excited Spin Wave Fractal Network**|Nan Tang et.al.|[2311.05469v1](http://arxiv.org/abs/2311.05469v1)|null|
 |**2023-11-09**|**Parametrization of the Charge-Carrier Mobility in Organic Disordered Semiconductors. APAE against EGDM**|S. D. Baranovskii et.al.|[2311.05406v1](http://arxiv.org/abs/2311.05406v1)|null|
@@ -3914,7 +3926,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-09**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v1](http://arxiv.org/abs/2311.05507v1)|null|
+|**2023-11-10**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v2](http://arxiv.org/abs/2311.05507v2)|null|
 |**2023-11-08**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v1](http://arxiv.org/abs/2311.04460v1)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
