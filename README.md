@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Non-affinity of liquid networks and bicontinuous mesophases**|Michael S. Dimitriyev et.al.|[2311.07544v1](http://arxiv.org/abs/2311.07544v1)|null|
+|**2023-11-13**|**Provably Efficient Learning of Phases of Matter via Dissipative Evolutions**|Emilio Onorati et.al.|[2311.07506v1](http://arxiv.org/abs/2311.07506v1)|null|
+|**2023-11-13**|**Biaxial nematic order in fundamental measure theory**|Anouar El Moumane et.al.|[2311.07500v1](http://arxiv.org/abs/2311.07500v1)|null|
+|**2023-11-13**|**Temperature effects in topological insulators of transition metal dichalcogenide monolayers**|Siyu Chen et.al.|[2311.07473v1](http://arxiv.org/abs/2311.07473v1)|null|
+|**2023-11-13**|**Harnessing elastic instabilities for enhanced mixing and reaction kinetics in porous media**|Christopher A. Browne et.al.|[2311.07431v1](http://arxiv.org/abs/2311.07431v1)|null|
+|**2023-11-13**|**Quantum Phase Transition in $\rm CeCoIn_5$ : Experimental Facts and Theory**|V. R. Shaginyan et.al.|[2311.07428v1](http://arxiv.org/abs/2311.07428v1)|null|
+|**2023-11-13**|**Translocation of a daughter vesicle in a model system of self-reproducing vesicles**|Manit Klawtanong et.al.|[2311.07401v1](http://arxiv.org/abs/2311.07401v1)|null|
+|**2023-11-13**|**Drops on polymer brushes -- advances in thin-film modelling of adaptive substrates**|Simon Hartmann et.al.|[2311.07307v1](http://arxiv.org/abs/2311.07307v1)|null|
+|**2023-11-13**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v1](http://arxiv.org/abs/2311.07252v1)|null|
+|**2023-11-13**|**Pulsed interactions unify reaction-diffusion and spatial nonlocal models for biological pattern formation**|Eduardo H. Colombo et.al.|[2311.07135v1](http://arxiv.org/abs/2311.07135v1)|null|
+|**2023-11-13**|**When Like Destabilizes Like: Inverted Solvent Effects in Apolar Nanoparticle Dispersions**|Debora Monego et.al.|[2311.07030v1](http://arxiv.org/abs/2311.07030v1)|null|
+|**2023-11-12**|**Hyperuniformity of Maximally Random Jammed Packings of Hyperspheres Across Spatial Dimensions**|Charles Emmett Maher et.al.|[2311.06970v1](http://arxiv.org/abs/2311.06970v1)|null|
+|**2023-11-12**|**Optimal mean first-passage time of a run-and-tumble particle in a one-dimensional confining potential**|Mathis Gueneau et.al.|[2311.06923v1](http://arxiv.org/abs/2311.06923v1)|null|
+|**2023-11-12**|**Correlated disorder in entropic crystals**|Sumitava Kundu et.al.|[2311.06799v1](http://arxiv.org/abs/2311.06799v1)|null|
+|**2023-11-12**|**Emergent collective motion of self-propelled condensate droplets**|Marcus Lin et.al.|[2311.06775v1](http://arxiv.org/abs/2311.06775v1)|null|
+|**2023-11-12**|**Mechanical Metamaterials Fabricated from Self-assembly: A Perspective**|Hanxun Jin et.al.|[2311.06734v1](http://arxiv.org/abs/2311.06734v1)|null|
+|**2023-11-11**|**Delays-induced Phase Transitions in Active Matter**|Fatemeh Pakpour et.al.|[2311.06627v1](http://arxiv.org/abs/2311.06627v1)|null|
+|**2023-11-11**|**MASKE: A kinetic simulator of coupled chemo-mechanical processes driving microstructural evolution**|Enrico Masoero et.al.|[2311.06533v1](http://arxiv.org/abs/2311.06533v1)|null|
+|**2023-11-10**|**Structure of liquid--vapor interfaces: perspectives from liquid state theory, large-scale simulations, and potential grazing-incidence X-ray diffraction**|Felix Höfling et.al.|[2311.06425v1](http://arxiv.org/abs/2311.06425v1)|null|
+|**2023-11-10**|**Acid-induced gelation of carboxymethylcellulose solutions**|Gauthier Legrand et.al.|[2311.06410v1](http://arxiv.org/abs/2311.06410v1)|null|
 |**2023-11-10**|**Stochastic kinetic theory applied to coarse-grained polymer model**|Shangren Zhu et.al.|[2311.06091v1](http://arxiv.org/abs/2311.06091v1)|null|
 |**2023-11-10**|**Spontaneous Vibrations and Stochastic Resonance of Short Oligomeric Springs**|Alexey M. Astakhov et.al.|[2311.06016v1](http://arxiv.org/abs/2311.06016v1)|null|
 |**2023-11-10**|**Spontaneous synchronization of two bistable pyridine-furan nanosprings connected by an oligomeric bridge**|Anastasia A. Markina et.al.|[2311.06011v1](http://arxiv.org/abs/2311.06011v1)|null|
@@ -3926,6 +3946,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
+|**2023-11-13**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v1](http://arxiv.org/abs/2311.07252v1)|null|
 |**2023-11-10**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v2](http://arxiv.org/abs/2311.05507v2)|null|
 |**2023-11-08**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v1](http://arxiv.org/abs/2311.04460v1)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
@@ -4244,9 +4266,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183v1](http://arxiv.org/abs/2311.07183v1)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970v1](http://arxiv.org/abs/2311.04970v1)|null|
 |**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890v1](http://arxiv.org/abs/2311.04890v1)|null|
-|**2023-11-08**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418v1](http://arxiv.org/abs/2311.04418v1)|**[link](https://github.com/zfgao66/mataltmag)**|
+|**2023-11-13**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418v2](http://arxiv.org/abs/2311.04418v2)|**[link](https://github.com/zfgao66/mataltmag)**|
 |**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217v1](http://arxiv.org/abs/2311.04217v1)|null|
 |**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683v1](http://arxiv.org/abs/2311.00683v1)|null|
 |**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247v1](http://arxiv.org/abs/2311.00247v1)|null|
