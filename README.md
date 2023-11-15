@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Mott insulating negative thermal expansion perovskite TiF3**|Donal Sheets et.al.|[2311.08382v1](http://arxiv.org/abs/2311.08382v1)|null|
+|**2023-11-14**|**Magnetic dynamics driven integer and fractional high harmonic generation arising from highly nonlinear instantaneous energy levels**|O. Ly et.al.|[2311.08368v1](http://arxiv.org/abs/2311.08368v1)|null|
+|**2023-11-14**|**Fast Dynamics of Vortices in Superconductors**|Oleksandr V. Dobrovolskiy et.al.|[2311.08281v1](http://arxiv.org/abs/2311.08281v1)|null|
+|**2023-11-14**|**Optimising non-Newtonian fluids for impact protection of laminates**|James A. Richards et.al.|[2311.08280v1](http://arxiv.org/abs/2311.08280v1)|null|
+|**2023-11-14**|**Softness Matters: Effects of Compression on the Behavior of Adsorbed Microgels at Interfaces**|Yuri Gerelli et.al.|[2311.08222v1](http://arxiv.org/abs/2311.08222v1)|null|
+|**2023-11-14**|**The GōMartini approach: Revisiting the concept of contact maps and the modelling of protein complexes**|Luis F. Cofas-Vargas et.al.|[2311.08174v1](http://arxiv.org/abs/2311.08174v1)|null|
+|**2023-11-14**|**Modeling ionic flow between small targets: insights from diffusion and electro-diffusion theory**|Frédéric Paquin-Lefebvre et.al.|[2311.08169v1](http://arxiv.org/abs/2311.08169v1)|null|
+|**2023-11-14**|**Berry curvature induced giant intrinsic spin-orbit torque in single layer magnetic Weyl semimetal thin films**|Lakhan Bainsla et.al.|[2311.08145v1](http://arxiv.org/abs/2311.08145v1)|null|
+|**2023-11-14**|**Salt effects on the mechanical properties of ionic conductive polymer: a molecular dynamics study**|Harish Gudla et.al.|[2311.08144v1](http://arxiv.org/abs/2311.08144v1)|null|
+|**2023-11-14**|**About the quantum-kinetic derivation of boundary conditions for quasiparticle Boltzmann equations at interfaces**|F. X. Bronold et.al.|[2311.08122v1](http://arxiv.org/abs/2311.08122v1)|null|
+|**2023-11-14**|**A structural determinant of the behavior of water at hydration and nanoconfinement conditions**|Nicolás A. Loubet et.al.|[2311.08087v1](http://arxiv.org/abs/2311.08087v1)|null|
+|**2023-11-14**|**Creating equilibrium glassy states via random particle bonding**|Misaki Ozawa et.al.|[2311.08079v1](http://arxiv.org/abs/2311.08079v1)|null|
+|**2023-11-14**|**The optimal resolution level of a protein is an emergent property of its structure and dynamics**|Raffaele Fiorentini et.al.|[2311.08076v1](http://arxiv.org/abs/2311.08076v1)|null|
+|**2023-11-14**|**Engineering of a Low-Entropy Quantum Simulator for Strongly Correlated Electrons Using SU( $\mathcal{N}$ )-Symmetric Cold Atom Mixtures**|Daisuke Yamamoto et.al.|[2311.08014v1](http://arxiv.org/abs/2311.08014v1)|null|
+|**2023-11-14**|**Dynamical theory of topological defects II: Universal aspects of defect motion**|Jacopo Romano et.al.|[2311.07970v1](http://arxiv.org/abs/2311.07970v1)|null|
+|**2023-11-14**|**Two-dimensional non-Hermitian skin effect in an ultracold Fermi gas**|Entong Zhao et.al.|[2311.07931v1](http://arxiv.org/abs/2311.07931v1)|null|
+|**2023-11-13**|**Polyurea-Graphene Nanocomposites -- the Influence of Hard-Segment Content and Nanoparticle Loading on Mechanical Properties**|Demetrios A. Tzelepis et.al.|[2311.07721v1](http://arxiv.org/abs/2311.07721v1)|null|
+|**2023-11-13**|**Coarse-grained modelling of DNA-RNA hybrids**|Eryk J. Ratajczyk et.al.|[2311.07709v1](http://arxiv.org/abs/2311.07709v1)|null|
 |**2023-11-13**|**Non-affinity of liquid networks and bicontinuous mesophases**|Michael S. Dimitriyev et.al.|[2311.07544v1](http://arxiv.org/abs/2311.07544v1)|null|
 |**2023-11-13**|**Provably Efficient Learning of Phases of Matter via Dissipative Evolutions**|Emilio Onorati et.al.|[2311.07506v1](http://arxiv.org/abs/2311.07506v1)|null|
 |**2023-11-13**|**Biaxial nematic order in fundamental measure theory**|Anouar El Moumane et.al.|[2311.07500v1](http://arxiv.org/abs/2311.07500v1)|null|
@@ -4408,6 +4426,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Nematic superconductivity from selective orbital pairing in Ba(Fe1-xMx)2As2 (M = Co, Ni) single crystals**|Mason Klemm et.al.|[2311.07697v1](http://arxiv.org/abs/2311.07697v1)|null|
 |**2023-11-06**|**Spatial Correlation at the Boson Peak Frequency in Amorphous Materials**|X. Y. Li et.al.|[2311.03466v1](http://arxiv.org/abs/2311.03466v1)|null|
 |**2023-11-01**|**Large Energy Shifts of Crystal-field Excitations in Erbium Orthoferrite Driven by Internal Magnetic Fields**|Guochu Deng et.al.|[2311.00478v1](http://arxiv.org/abs/2311.00478v1)|null|
 |**2023-10-31**|**Experimental Evidence for Non-spherical Magnetic Form Factor in Ru $^{3+}$**|Colin L. Sarkis et.al.|[2311.00078v1](http://arxiv.org/abs/2311.00078v1)|null|
@@ -4417,7 +4436,7 @@
 |**2023-10-16**|**Implementation of a laser-neutron pump-probe capability at HYSPEC**|Chengyun Hua et.al.|[2310.10540v1](http://arxiv.org/abs/2310.10540v1)|null|
 |**2023-10-15**|**Heterogeneous anomalous transport in cellular and molecular biology**|Thomas A. Waigh et.al.|[2310.09950v1](http://arxiv.org/abs/2310.09950v1)|null|
 |**2023-10-13**|**Phonon thermal transport in UO $_2$ via self-consistent perturbation theory**|Shuxiang Zhou et.al.|[2310.09282v1](http://arxiv.org/abs/2310.09282v1)|null|
-|**2023-10-18**|**Magnetic structure, excitations and field induced transitions in the honeycomb lattice $\rm{Er_2Si_2O_7}$**|M. Islam et.al.|[2310.09268v2](http://arxiv.org/abs/2310.09268v2)|null|
+|**2023-11-14**|**Magnetic structure, excitations and field induced transitions in the honeycomb lattice $\rm{Er_2Si_2O_7}$**|M. Islam et.al.|[2310.09268v3](http://arxiv.org/abs/2310.09268v3)|null|
 |**2023-10-02**|**Magnetic properties of the quasi-one-dimensional S = 1 spin chain antiferromagnet BaNiTe2O7**|Xiyu Chen et.al.|[2310.00853v1](http://arxiv.org/abs/2310.00853v1)|null|
 |**2023-09-21**|**A fast approximate method for variable-width broadening of spectra**|Jessica Farmer et.al.|[2309.12135v1](http://arxiv.org/abs/2309.12135v1)|null|
 |**2023-09-02**|**Diffuse Inelastic Neutron Scattering from Anharmonic Vibrations in Cuprite**|C. N. Saunders et.al.|[2309.00780v1](http://arxiv.org/abs/2309.00780v1)|null|
