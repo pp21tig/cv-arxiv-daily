@@ -1102,8 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Thermal noise calibration of functionalized cantilevers for force microscopy: effects of the colloidal probe position**|Aubin Archambault et.al.|[2311.09167v1](http://arxiv.org/abs/2311.09167v1)|null|
+|**2023-11-15**|**Scale-free chaos in the 2D harmonically confined Vicsek model**|R. González-Albaladejo et.al.|[2311.09135v1](http://arxiv.org/abs/2311.09135v1)|null|
+|**2023-11-15**|**Transient nucleation driven by solvent evaporation**|R. de Bruijn et.al.|[2311.09126v1](http://arxiv.org/abs/2311.09126v1)|null|
+|**2023-11-15**|**Rheology of dense suspensions of ideally conductive particles in an electric field**|Siamak Mirfendereski et.al.|[2311.09121v1](http://arxiv.org/abs/2311.09121v1)|null|
+|**2023-11-15**|**Electroneutrality breakdown for electrolytes embedded in varying-section nanopores**|P. Malgaretti et.al.|[2311.09113v1](http://arxiv.org/abs/2311.09113v1)|null|
+|**2023-11-15**|**Caging and fluid deformations in dense bidisperse suspensions**|Virgile Thiévenaz et.al.|[2311.09112v1](http://arxiv.org/abs/2311.09112v1)|null|
+|**2023-11-15**|**Soliton approximation in continuum models of leader-follower behavior**|F. Terragni et.al.|[2311.09080v1](http://arxiv.org/abs/2311.09080v1)|null|
+|**2023-11-15**|**Analysis of sum-of-squares relaxations for the quantum rotor model**|Sujit Rao et.al.|[2311.09010v1](http://arxiv.org/abs/2311.09010v1)|null|
+|**2023-11-15**|**Effective water/water contact angle at the base of an impinging jet**|Théophile Gaichies et.al.|[2311.08841v1](http://arxiv.org/abs/2311.08841v1)|null|
+|**2023-11-15**|**Topological Domain-Wall States Hosting Quantized Polarization and Majorana Zero Modes Without Bulk Boundary Correspondence**|Sang-Hoon Han et.al.|[2311.08771v1](http://arxiv.org/abs/2311.08771v1)|null|
+|**2023-11-15**|**Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability**|Yujie Jiang et.al.|[2311.08751v1](http://arxiv.org/abs/2311.08751v1)|null|
+|**2023-11-15**|**Programmable 2D nano-switches and nano-capsules enclosing zeptoliter liquid volumes**|Nathan Ronceray et.al.|[2311.08748v1](http://arxiv.org/abs/2311.08748v1)|null|
+|**2023-11-14**|**Reciprocal Asymptotically Decoupled Hamiltonian for Cavity Quantum Electrodynamics**|Michael A. D. Taylor et.al.|[2311.08531v1](http://arxiv.org/abs/2311.08531v1)|null|
 |**2023-11-14**|**Mott insulating negative thermal expansion perovskite TiF3**|Donal Sheets et.al.|[2311.08382v1](http://arxiv.org/abs/2311.08382v1)|null|
-|**2023-11-14**|**Magnetic dynamics driven integer and fractional high harmonic generation arising from highly nonlinear instantaneous energy levels**|O. Ly et.al.|[2311.08368v1](http://arxiv.org/abs/2311.08368v1)|null|
+|**2023-11-15**|**Magnetic dynamics driven integer and fractional high harmonic generation arising from highly nonlinear instantaneous energy levels**|O. Ly et.al.|[2311.08368v2](http://arxiv.org/abs/2311.08368v2)|null|
 |**2023-11-14**|**Fast Dynamics of Vortices in Superconductors**|Oleksandr V. Dobrovolskiy et.al.|[2311.08281v1](http://arxiv.org/abs/2311.08281v1)|null|
 |**2023-11-14**|**Optimising non-Newtonian fluids for impact protection of laminates**|James A. Richards et.al.|[2311.08280v1](http://arxiv.org/abs/2311.08280v1)|null|
 |**2023-11-14**|**Softness Matters: Effects of Compression on the Behavior of Adsorbed Microgels at Interfaces**|Yuri Gerelli et.al.|[2311.08222v1](http://arxiv.org/abs/2311.08222v1)|null|
@@ -3968,6 +3981,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers**|Mingrui Xu et.al.|[2311.08518v1](http://arxiv.org/abs/2311.08518v1)|null|
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
 |**2023-11-13**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v1](http://arxiv.org/abs/2311.07252v1)|null|
 |**2023-11-10**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v2](http://arxiv.org/abs/2311.05507v2)|null|
@@ -4180,6 +4194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Strongly pinned skyrmionic bubbles and higher-order nonlinear Hall resistances at the interface of Pt/FeSi bilayer**|T. Hori et.al.|[2311.08730v1](http://arxiv.org/abs/2311.08730v1)|null|
 |**2023-11-08**|**Cryogenic resonant amplifier for electron-on-helium image charge readout**|Mikhail Belianchikov et.al.|[2311.04437v1](http://arxiv.org/abs/2311.04437v1)|null|
 |**2023-11-06**|**Current-induced spin polarization in chiral Tellurium: a first-principles quantum transport study**|Reena Gupta et.al.|[2311.03219v1](http://arxiv.org/abs/2311.03219v1)|null|
 |**2023-11-02**|**Biases from spectral leakage in remote sensing of near-surface currents**|Stefan Weichert et.al.|[2311.01265v1](http://arxiv.org/abs/2311.01265v1)|null|
