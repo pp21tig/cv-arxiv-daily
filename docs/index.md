@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Topological Gap Opening without Symmetry Breaking from Dynamical Quantum Correlations**|Francesca Paoletti et.al.|[2311.10024v1](http://arxiv.org/abs/2311.10024v1)|null|
+|**2023-11-16**|**Dynamic Clustering of Active Rings**|Ligesh Theeyancheri et.al.|[2311.10007v1](http://arxiv.org/abs/2311.10007v1)|null|
+|**2023-11-16**|**Sol-gel transition by evaporation in porous media**|Romane Le Dizès Castell et.al.|[2311.09990v1](http://arxiv.org/abs/2311.09990v1)|null|
+|**2023-11-16**|**Fluid-mediated impact of soft solids**|Jacopo Bilotto et.al.|[2311.09953v1](http://arxiv.org/abs/2311.09953v1)|null|
+|**2023-11-16**|**Connecting microscopic and mesoscopic mechanics in model structural glasses**|David Richard et.al.|[2311.09917v1](http://arxiv.org/abs/2311.09917v1)|null|
+|**2023-11-16**|**On some elusive aspects of databases hindering AI based discovery: A case study on superconducting materials**|Giovanni Trezza et.al.|[2311.09891v1](http://arxiv.org/abs/2311.09891v1)|null|
+|**2023-11-16**|**Droplet Size Distribution in Emulsions**|Manon L'Estimé et.al.|[2311.09813v1](http://arxiv.org/abs/2311.09813v1)|null|
+|**2023-11-16**|**Surface tension and wetting at free surfaces in Smoothed Particle Hydrodynamics**|Michael Blank et.al.|[2311.09640v1](http://arxiv.org/abs/2311.09640v1)|null|
+|**2023-11-16**|**An experimental study of flow near an advancing contact line: a rigorous test of theoretical models**|Charul Gupta et.al.|[2311.09560v1](http://arxiv.org/abs/2311.09560v1)|null|
+|**2023-11-16**|**Linear-scale simulations of quench dynamics**|Niaz Ali Khan et.al.|[2311.09556v1](http://arxiv.org/abs/2311.09556v1)|null|
+|**2023-11-16**|**Universal Hyperuniform Organization of Cellular Structures in Leaf Vein Networks**|Yuan Liu et.al.|[2311.09551v1](http://arxiv.org/abs/2311.09551v1)|null|
+|**2023-11-16**|**Heterogeneity and Low-Frequency Vibrations in Bidisperse Sphere Packings**|Yusuke Hara et.al.|[2311.09509v1](http://arxiv.org/abs/2311.09509v1)|null|
+|**2023-11-16**|**Atoms as Words: A Novel Approach to Deciphering Material Properties using NLP-inspired Machine Learning on Crystallographic Information Files (CIFs)**|Lalit Yadav et.al.|[2311.09508v1](http://arxiv.org/abs/2311.09508v1)|null|
+|**2023-11-16**|**Frozen Cheerios effect: Particle-particle interaction induced by an advancing solidification front**|Jochem G. Meijer et.al.|[2311.09477v1](http://arxiv.org/abs/2311.09477v1)|null|
+|**2023-11-15**|**Enhanced hydrodynamic diffusion in dense binary active suspensions**|Zhouyang Ge et.al.|[2311.09448v1](http://arxiv.org/abs/2311.09448v1)|null|
+|**2023-11-15**|**Rotational dynamics, ionic conductivity, and glass formation in a ZnCl2-based deep eutectic solvent**|A. Schulz et.al.|[2311.09360v1](http://arxiv.org/abs/2311.09360v1)|null|
+|**2023-11-15**|**Dimensional reduction from magnetic field in moiré superlattices**|Nisarga Paul et.al.|[2311.09323v1](http://arxiv.org/abs/2311.09323v1)|null|
+|**2023-11-15**|**Unified physical framework for stretched-exponential, compressed-exponential, and logarithmic relaxation phenomena in glassy polymers**|Valeriy V. Ginzburg et.al.|[2311.09321v1](http://arxiv.org/abs/2311.09321v1)|null|
+|**2023-11-15**|**Force-induced desorption of copolymeric comb polymers**|EJ Janse van Rensburg et.al.|[2311.09320v1](http://arxiv.org/abs/2311.09320v1)|null|
+|**2023-11-15**|**Chirality-induced emergent spin-orbit coupling in topological atomic lattices**|Jonah S. Peter et.al.|[2311.09303v1](http://arxiv.org/abs/2311.09303v1)|null|
 |**2023-11-15**|**Thermal noise calibration of functionalized cantilevers for force microscopy: effects of the colloidal probe position**|Aubin Archambault et.al.|[2311.09167v1](http://arxiv.org/abs/2311.09167v1)|null|
 |**2023-11-15**|**Scale-free chaos in the 2D harmonically confined Vicsek model**|R. González-Albaladejo et.al.|[2311.09135v1](http://arxiv.org/abs/2311.09135v1)|null|
 |**2023-11-15**|**Transient nucleation driven by solvent evaporation**|R. de Bruijn et.al.|[2311.09126v1](http://arxiv.org/abs/2311.09126v1)|null|
@@ -3981,6 +4001,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Light-induced ideal Weyl semimetal in HgTe via nonlinear phononics**|Dongbin Shin et.al.|[2311.09583v1](http://arxiv.org/abs/2311.09583v1)|null|
 |**2023-11-14**|**Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers**|Mingrui Xu et.al.|[2311.08518v1](http://arxiv.org/abs/2311.08518v1)|null|
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
 |**2023-11-13**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v1](http://arxiv.org/abs/2311.07252v1)|null|
