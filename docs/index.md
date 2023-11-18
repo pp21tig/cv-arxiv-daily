@@ -1107,7 +1107,7 @@ layout: default
 |**2023-11-16**|**Sol-gel transition by evaporation in porous media**|Romane Le Dizès Castell et.al.|[2311.09990v1](http://arxiv.org/abs/2311.09990v1)|null|
 |**2023-11-16**|**Fluid-mediated impact of soft solids**|Jacopo Bilotto et.al.|[2311.09953v1](http://arxiv.org/abs/2311.09953v1)|null|
 |**2023-11-16**|**Connecting microscopic and mesoscopic mechanics in model structural glasses**|David Richard et.al.|[2311.09917v1](http://arxiv.org/abs/2311.09917v1)|null|
-|**2023-11-16**|**On some elusive aspects of databases hindering AI based discovery: A case study on superconducting materials**|Giovanni Trezza et.al.|[2311.09891v1](http://arxiv.org/abs/2311.09891v1)|null|
+|**2023-11-16**|**On some elusive aspects of databases hindering AI based discovery: A case study on superconducting materials**|Giovanni Trezza et.al.|[2311.09891v1](http://arxiv.org/abs/2311.09891v1)|**[link](https://github.com/giotre/LK-99)**|
 |**2023-11-16**|**Droplet Size Distribution in Emulsions**|Manon L'Estimé et.al.|[2311.09813v1](http://arxiv.org/abs/2311.09813v1)|null|
 |**2023-11-16**|**Surface tension and wetting at free surfaces in Smoothed Particle Hydrodynamics**|Michael Blank et.al.|[2311.09640v1](http://arxiv.org/abs/2311.09640v1)|null|
 |**2023-11-16**|**An experimental study of flow near an advancing contact line: a rigorous test of theoretical models**|Charul Gupta et.al.|[2311.09560v1](http://arxiv.org/abs/2311.09560v1)|null|
