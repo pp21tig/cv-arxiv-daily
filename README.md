@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Phononic dynamical axion in magnetic Dirac insulators**|M. Nabil Y. Lhachemi et.al.|[2311.10674v1](http://arxiv.org/abs/2311.10674v1)|null|
+|**2023-11-17**|**Bacterial diffusion in disordered media, by forgetting the media**|Henry H. Mattingly et.al.|[2311.10612v1](http://arxiv.org/abs/2311.10612v1)|null|
+|**2023-11-17**|**Searching for activated transitions in complex magnetic systems**|H. Bocquet et.al.|[2311.10584v1](http://arxiv.org/abs/2311.10584v1)|null|
+|**2023-11-17**|**Machine Learning Assisted Characterization of Labyrinthine Pattern Transitions**|Kotaro Shimizu et.al.|[2311.10558v1](http://arxiv.org/abs/2311.10558v1)|null|
+|**2023-11-17**|**First-principles investigation of the magnetoelectric properties of Ba $_7$Mn$_4$O$_{15}$**|Urmimala Dey et.al.|[2311.10555v1](http://arxiv.org/abs/2311.10555v1)|null|
+|**2023-11-17**|**Kerr-type nonlinear baths enhance cooling in quantum refrigerators**|Tanaya Ray et.al.|[2311.10499v1](http://arxiv.org/abs/2311.10499v1)|null|
+|**2023-11-17**|**Testing the Renormalization of the von Klitzing Constant by Cavity Vacuum Fields**|Josefine Enkner et.al.|[2311.10462v1](http://arxiv.org/abs/2311.10462v1)|null|
+|**2023-11-17**|**The influence of Gaussian pinning on the melting scenario of a two-dimensional soft-disk system: First-Order versus Continuous Transition**|Yu. D. Fomin et.al.|[2311.10444v1](http://arxiv.org/abs/2311.10444v1)|null|
+|**2023-11-17**|**Interfacial instabilities in confined displacements involving non-Newtonian fluids**|Vaibhav Raj Singh Parmar et.al.|[2311.10391v1](http://arxiv.org/abs/2311.10391v1)|null|
+|**2023-11-17**|**Elimination of the confrontation between theory and experiment in flexoelectric Bi2GeO5**|Yuying Cao et.al.|[2311.10364v1](http://arxiv.org/abs/2311.10364v1)|null|
+|**2023-11-17**|**Effective diffusion of a tracer in active bath: a path-integral approach**|Mengkai Feng et.al.|[2311.10325v1](http://arxiv.org/abs/2311.10325v1)|null|
+|**2023-11-16**|**High-order Harmonic Generation in Thermotropic Liquid Crystals**|Andrea Annunziata et.al.|[2311.10211v1](http://arxiv.org/abs/2311.10211v1)|null|
+|**2023-11-16**|**An analytical investigation into solute transport and sorption via intra-particle diffusion in the dual-porosity limit**|Lucy C. Auton et.al.|[2311.10161v1](http://arxiv.org/abs/2311.10161v1)|null|
+|**2023-11-16**|**Robust non-ergodicity of ground state in the $β$ ensemble**|Adway Kumar Das et.al.|[2311.10150v1](http://arxiv.org/abs/2311.10150v1)|null|
 |**2023-11-16**|**Topological Gap Opening without Symmetry Breaking from Dynamical Quantum Correlations**|Francesca Paoletti et.al.|[2311.10024v1](http://arxiv.org/abs/2311.10024v1)|null|
 |**2023-11-16**|**Dynamic Clustering of Active Rings**|Ligesh Theeyancheri et.al.|[2311.10007v1](http://arxiv.org/abs/2311.10007v1)|null|
 |**2023-11-16**|**Sol-gel transition by evaporation in porous media**|Romane Le Dizès Castell et.al.|[2311.09990v1](http://arxiv.org/abs/2311.09990v1)|null|
@@ -4152,6 +4166,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286v1](http://arxiv.org/abs/2311.10286v1)|null|
 |**2023-09-12**|**Anharmonic coherent dynamics of the soft phonon mode of a PbTe crystal**|A. A. Melnikov et.al.|[2309.06549v1](http://arxiv.org/abs/2309.06549v1)|null|
 |**2023-09-11**|**Melting of excitonic insulator phase by an intense terahertz pulse in Ta $_2$NiSe$_5$**|Naoki Takamura et.al.|[2309.05286v1](http://arxiv.org/abs/2309.05286v1)|null|
 |**2023-06-27**|**Nonlinear intensity dependence of ratchet currents induced by terahertz laser radiation in bilayer graphene with asymmetric periodic grating gates**|Erwin Mönch et.al.|[2306.15405v1](http://arxiv.org/abs/2306.15405v1)|null|
@@ -4211,6 +4226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Fluctuation-induced currents in suspended graphene nanoribbons: Adiabatic quantum pumping approach**|Federico D. Ribetto et.al.|[2311.10560v1](http://arxiv.org/abs/2311.10560v1)|null|
 |**2023-11-15**|**Strongly pinned skyrmionic bubbles and higher-order nonlinear Hall resistances at the interface of Pt/FeSi bilayer**|T. Hori et.al.|[2311.08730v1](http://arxiv.org/abs/2311.08730v1)|null|
 |**2023-11-08**|**Cryogenic resonant amplifier for electron-on-helium image charge readout**|Mikhail Belianchikov et.al.|[2311.04437v1](http://arxiv.org/abs/2311.04437v1)|null|
 |**2023-11-06**|**Current-induced spin polarization in chiral Tellurium: a first-principles quantum transport study**|Reena Gupta et.al.|[2311.03219v1](http://arxiv.org/abs/2311.03219v1)|null|
@@ -4462,6 +4478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Magnetic field-induced phases and spin Hamiltonian in Cs2CoBr4**|Magnetic field-induced phases et.al.|[2311.10535v1](http://arxiv.org/abs/2311.10535v1)|null|
 |**2023-11-13**|**Nematic superconductivity from selective orbital pairing in Ba(Fe1-xMx)2As2 (M = Co, Ni) single crystals**|Mason Klemm et.al.|[2311.07697v1](http://arxiv.org/abs/2311.07697v1)|null|
 |**2023-11-06**|**Spatial Correlation at the Boson Peak Frequency in Amorphous Materials**|X. Y. Li et.al.|[2311.03466v1](http://arxiv.org/abs/2311.03466v1)|null|
 |**2023-11-01**|**Large Energy Shifts of Crystal-field Excitations in Erbium Orthoferrite Driven by Internal Magnetic Fields**|Guochu Deng et.al.|[2311.00478v1](http://arxiv.org/abs/2311.00478v1)|null|
