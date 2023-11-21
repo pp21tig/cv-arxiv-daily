@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**An on-chip platform for multi-degree-of-freedom control of two-dimensional quantum and nonlinear materials**|Haoning Tang et.al.|[2311.12030v1](http://arxiv.org/abs/2311.12030v1)|null|
+|**2023-11-20**|**The allosteric lever: towards a principle of specific allosteric response**|Maximilian Vossel et.al.|[2311.12025v1](http://arxiv.org/abs/2311.12025v1)|null|
+|**2023-11-20**|**Extreme heterogeneity in the microrheology of lamellar surfactant gels analyzed with neural networks**|Owen Watts Moore et.al.|[2311.11941v1](http://arxiv.org/abs/2311.11941v1)|null|
+|**2023-11-20**|**Point Processes and the Statistics of Cellular Neighborhoods in Simple Multicellular Organisms**|Anand Srinivasan et.al.|[2311.11939v1](http://arxiv.org/abs/2311.11939v1)|null|
+|**2023-11-20**|**Characteristic features of self-avoiding active Brownian polymers under linear shear flow**|Arindam Panda et.al.|[2311.11885v1](http://arxiv.org/abs/2311.11885v1)|null|
+|**2023-11-20**|**Optimal escapes in active matter**|Luca Angelani et.al.|[2311.11873v1](http://arxiv.org/abs/2311.11873v1)|null|
+|**2023-11-20**|**Correlation-induced viscous dissipation in concentrated electrolytes**|Paul Robin et.al.|[2311.11784v1](http://arxiv.org/abs/2311.11784v1)|null|
+|**2023-11-20**|**Remarks on Statistical mechanics of a moving system**|Jinwu Ye et.al.|[2311.11767v1](http://arxiv.org/abs/2311.11767v1)|null|
+|**2023-11-20**|**A silicone-based slippery polymer coating with humidity-dependent nanoscale topography**|M. Callau et.al.|[2311.11750v1](http://arxiv.org/abs/2311.11750v1)|null|
+|**2023-11-20**|**Electrical control of magnetism by electric field and current-induced torques**|Albert Fert et.al.|[2311.11724v1](http://arxiv.org/abs/2311.11724v1)|null|
+|**2023-11-20**|**When correlations exceed system size: finite-size scaling in free boundary conditions above the upper critical dimension**|Yulian Honchar et.al.|[2311.11721v1](http://arxiv.org/abs/2311.11721v1)|null|
+|**2023-11-20**|**Nano-particle motion in monolithic silica column using single-particle tracking method**|Yusaku Abe et.al.|[2311.11706v1](http://arxiv.org/abs/2311.11706v1)|null|
+|**2023-11-20**|**Quenched disorder and instability control dynamic fracture in three dimensions**|Yuri Lubomirsky et.al.|[2311.11692v1](http://arxiv.org/abs/2311.11692v1)|null|
+|**2023-11-20**|**A Hands-On Guide to Shear Force Mixing of Single-Walled Carbon Nanotubes with Conjugated Polymers**|Sebastian Lindenthal et.al.|[2311.11654v1](http://arxiv.org/abs/2311.11654v1)|null|
+|**2023-11-20**|**Thermal Hall effects due to topological spin fluctuations in YMnO $_3$**|Ha-Leem Kim et.al.|[2311.11527v1](http://arxiv.org/abs/2311.11527v1)|null|
+|**2023-11-20**|**Indentation of an elastic arch on a frictional substrate: Pinning, unfolding and snapping**|Keisuke Yoshida et.al.|[2311.11504v1](http://arxiv.org/abs/2311.11504v1)|null|
+|**2023-11-19**|**Quasi-boson approximation yields accurate correlation energy in the 2D electron gas**|Tobias M. R. Wolf et.al.|[2311.11449v1](http://arxiv.org/abs/2311.11449v1)|null|
+|**2023-11-19**|**Microbes in porous environments: From active interactions to emergent feedback**|Chenyu Jin et.al.|[2311.11440v1](http://arxiv.org/abs/2311.11440v1)|null|
+|**2023-11-19**|**Adsorption isotherm and mechanism of $\mathrm{Ca^{2+}}$ binding to polyelectrolyte**|Sriteja Mantha et.al.|[2311.11404v1](http://arxiv.org/abs/2311.11404v1)|null|
+|**2023-11-19**|**Secondary-Structure Phase Formation for Semifelxible Polymers by Bifurcation in Hyperphase Space**|Dilimulati Aierken et.al.|[2311.11395v1](http://arxiv.org/abs/2311.11395v1)|null|
 |**2023-11-17**|**Phononic dynamical axion in magnetic Dirac insulators**|M. Nabil Y. Lhachemi et.al.|[2311.10674v1](http://arxiv.org/abs/2311.10674v1)|null|
 |**2023-11-17**|**Bacterial diffusion in disordered media, by forgetting the media**|Henry H. Mattingly et.al.|[2311.10612v1](http://arxiv.org/abs/2311.10612v1)|null|
 |**2023-11-17**|**Searching for activated transitions in complex magnetic systems**|H. Bocquet et.al.|[2311.10584v1](http://arxiv.org/abs/2311.10584v1)|null|
@@ -4230,6 +4250,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Electrical control of magnetism by electric field and current-induced torques**|Albert Fert et.al.|[2311.11724v1](http://arxiv.org/abs/2311.11724v1)|null|
 |**2023-11-17**|**Fluctuation-induced currents in suspended graphene nanoribbons: Adiabatic quantum pumping approach**|Federico D. Ribetto et.al.|[2311.10560v1](http://arxiv.org/abs/2311.10560v1)|null|
 |**2023-11-15**|**Strongly pinned skyrmionic bubbles and higher-order nonlinear Hall resistances at the interface of Pt/FeSi bilayer**|T. Hori et.al.|[2311.08730v1](http://arxiv.org/abs/2311.08730v1)|null|
 |**2023-11-08**|**Cryogenic resonant amplifier for electron-on-helium image charge readout**|Mikhail Belianchikov et.al.|[2311.04437v1](http://arxiv.org/abs/2311.04437v1)|null|
@@ -4340,6 +4361,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891v1](http://arxiv.org/abs/2311.10891v1)|null|
 |**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183v1](http://arxiv.org/abs/2311.07183v1)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970v1](http://arxiv.org/abs/2311.04970v1)|null|
 |**2023-11-08**|**d-Wave Hall effect and linear magnetoconductivity in metallic collinear antiferromagnets**|Dmitrii L. Vorobev et.al.|[2311.04890v1](http://arxiv.org/abs/2311.04890v1)|null|
@@ -4501,7 +4523,7 @@ layout: default
 |**2023-08-22**|**Dynamics of K $_2$Ni$_2$(SO$_4$)$_3$ governed by proximity to a 3D spin liquid model**|M. G. Gonzalez et.al.|[2308.11746v1](http://arxiv.org/abs/2308.11746v1)|null|
 |**2023-08-22**|**Short-range magnetic correlations in quasicrystalline i-Tb-Cd**|P. Das et.al.|[2308.11680v1](http://arxiv.org/abs/2308.11680v1)|null|
 |**2023-08-18**|**Spin-wave dispersion and magnon chirality in multiferroic TbMnO3**|S. Holbein et.al.|[2308.09407v1](http://arxiv.org/abs/2308.09407v1)|null|
-|**2023-08-15**|**Tuning the confinement potential between spinons in the Ising chain CoNb2O6 using longitudinal fields and quantitative determination of the microscopic Hamiltonian**|Leonie Woodland et.al.|[2308.07699v1](http://arxiv.org/abs/2308.07699v1)|null|
+|**2023-11-20**|**Tuning the confinement potential between spinons in the Ising chain CoNb2O6 using longitudinal fields and quantitative determination of the microscopic Hamiltonian**|Leonie Woodland et.al.|[2308.07699v2](http://arxiv.org/abs/2308.07699v2)|null|
 |**2023-08-14**|**On (not) deriving the entropy of barocaloric phase transitions from crystallography and neutron spectroscopy**|Anthony E. Phillips et.al.|[2308.07080v1](http://arxiv.org/abs/2308.07080v1)|null|
 |**2023-08-01**|**Spin dynamics of the $E_8$ particles**|Xiao Wang et.al.|[2308.00249v1](http://arxiv.org/abs/2308.00249v1)|null|
 |**2023-07-25**|**Spinon continuum in the Heisenberg quantum chain compound Sr $_2$V$_3$O$_9$**|Shang Gao et.al.|[2307.12093v2](http://arxiv.org/abs/2307.12093v2)|null|
