@@ -1098,13 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**On the emergence of memory in equilibrium versus non-equilibrium systems**|Xizhu Zhao et.al.|[2311.12788v1](http://arxiv.org/abs/2311.12788v1)|null|
+|**2023-11-21**|**Adiabatic observables and Berry curvatures in insulators and metals**|Raffaele Resta et.al.|[2311.12729v1](http://arxiv.org/abs/2311.12729v1)|null|
+|**2023-11-21**|**Two-dimensional symmetry-protected topological phases and transitions in open quantum systems**|Yuxuan Guo et.al.|[2311.12619v1](http://arxiv.org/abs/2311.12619v1)|null|
+|**2023-11-21**|**Weyl semimetal from non-inertial observers**|Wen-Bin Pan et.al.|[2311.12600v1](http://arxiv.org/abs/2311.12600v1)|null|
+|**2023-11-21**|**Emergent descriptions at large charge: A foray into the structure of conformal field theories and beyond**|Rafael Moser et.al.|[2311.12492v1](http://arxiv.org/abs/2311.12492v1)|null|
+|**2023-11-21**|**Electronic heat conductivity in a two-temperature state**|Nikita Medvedev et.al.|[2311.12458v1](http://arxiv.org/abs/2311.12458v1)|null|
+|**2023-11-21**|**Layer-Locked Anomalous Valley Hall Effect in Two-Dimensional A-Type Tetragonal Antiferromagnetic Insulator**|San-Dong Guo et.al.|[2311.12441v1](http://arxiv.org/abs/2311.12441v1)|null|
+|**2023-11-21**|**Hierarchical Framework for Predicting Entropies in Bottom-Up Coarse-Grained Models**|Jaehyeok Jin et.al.|[2311.12353v1](http://arxiv.org/abs/2311.12353v1)|null|
+|**2023-11-21**|**Deciphering Non-Gaussianity of Diffusion Based on the Evolution of Diffusivity**|Haolan Xu et.al.|[2311.12317v1](http://arxiv.org/abs/2311.12317v1)|null|
+|**2023-11-20**|**Hydrogen-induced tunable remanent polarization in a perovskite nickelate**|Yifan Yuan et.al.|[2311.12200v1](http://arxiv.org/abs/2311.12200v1)|null|
+|**2023-11-20**|**Simultaneous and independent topological control of identical microparticles in non-periodic energy landscapes**|N. C. X. Stuhlmüller et.al.|[2311.12165v1](http://arxiv.org/abs/2311.12165v1)|null|
 |**2023-11-20**|**An on-chip platform for multi-degree-of-freedom control of two-dimensional quantum and nonlinear materials**|Haoning Tang et.al.|[2311.12030v1](http://arxiv.org/abs/2311.12030v1)|null|
 |**2023-11-20**|**The allosteric lever: towards a principle of specific allosteric response**|Maximilian Vossel et.al.|[2311.12025v1](http://arxiv.org/abs/2311.12025v1)|null|
 |**2023-11-20**|**Extreme heterogeneity in the microrheology of lamellar surfactant gels analyzed with neural networks**|Owen Watts Moore et.al.|[2311.11941v1](http://arxiv.org/abs/2311.11941v1)|null|
 |**2023-11-20**|**Point Processes and the Statistics of Cellular Neighborhoods in Simple Multicellular Organisms**|Anand Srinivasan et.al.|[2311.11939v1](http://arxiv.org/abs/2311.11939v1)|null|
 |**2023-11-20**|**Characteristic features of self-avoiding active Brownian polymers under linear shear flow**|Arindam Panda et.al.|[2311.11885v1](http://arxiv.org/abs/2311.11885v1)|null|
 |**2023-11-20**|**Optimal escapes in active matter**|Luca Angelani et.al.|[2311.11873v1](http://arxiv.org/abs/2311.11873v1)|null|
-|**2023-11-20**|**Correlation-induced viscous dissipation in concentrated electrolytes**|Paul Robin et.al.|[2311.11784v1](http://arxiv.org/abs/2311.11784v1)|null|
+|**2023-11-21**|**Correlation-induced viscous dissipation in concentrated electrolytes**|Paul Robin et.al.|[2311.11784v2](http://arxiv.org/abs/2311.11784v2)|null|
 |**2023-11-20**|**Remarks on Statistical mechanics of a moving system**|Jinwu Ye et.al.|[2311.11767v1](http://arxiv.org/abs/2311.11767v1)|null|
 |**2023-11-20**|**A silicone-based slippery polymer coating with humidity-dependent nanoscale topography**|M. Callau et.al.|[2311.11750v1](http://arxiv.org/abs/2311.11750v1)|null|
 |**2023-11-20**|**Electrical control of magnetism by electric field and current-induced torques**|Albert Fert et.al.|[2311.11724v1](http://arxiv.org/abs/2311.11724v1)|null|
@@ -4246,6 +4257,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Room-temperature continuous-wave pumped exciton polariton condensation in a perovskite microcavity**|Jiepeng Song et.al.|[2311.12381v1](http://arxiv.org/abs/2311.12381v1)|null|
 |**2023-11-20**|**Electrical control of magnetism by electric field and current-induced torques**|Albert Fert et.al.|[2311.11724v1](http://arxiv.org/abs/2311.11724v1)|null|
 |**2023-11-17**|**Fluctuation-induced currents in suspended graphene nanoribbons: Adiabatic quantum pumping approach**|Federico D. Ribetto et.al.|[2311.10560v1](http://arxiv.org/abs/2311.10560v1)|null|
 |**2023-11-15**|**Strongly pinned skyrmionic bubbles and higher-order nonlinear Hall resistances at the interface of Pt/FeSi bilayer**|T. Hori et.al.|[2311.08730v1](http://arxiv.org/abs/2311.08730v1)|null|
