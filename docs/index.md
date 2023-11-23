@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Condensed Matter Systems Exposed to Radiation: Multiscale Theory, Simulations, and Experiment**|Andrey V. Solov'yov et.al.|[2311.13402v1](http://arxiv.org/abs/2311.13402v1)|null|
+|**2023-11-22**|**Directed Evolution of Microorganisms for Engineered Living Materials**|Julie M. Laurent et.al.|[2311.13342v1](http://arxiv.org/abs/2311.13342v1)|null|
+|**2023-11-22**|**Liquid-solid friction on crystalline surfaces: a perspective**|Mathieu Lizée et.al.|[2311.13311v1](http://arxiv.org/abs/2311.13311v1)|null|
+|**2023-11-22**|**Buildup and dephasing of Floquet-Bloch bands on subcycle time scales**|S. Ito et.al.|[2311.13309v1](http://arxiv.org/abs/2311.13309v1)|null|
+|**2023-11-22**|**Thermal Fluctuations For a Three-Beads Swimmer**|R. Ferretta et.al.|[2311.13302v1](http://arxiv.org/abs/2311.13302v1)|null|
+|**2023-11-22**|**Colloidal diffusiophoresis in crossed electrolyte gradients: experimental demonstration of an 'action at a distance' effect predicted by the Nernst-Planck equations**|Ian Williams et.al.|[2311.13287v1](http://arxiv.org/abs/2311.13287v1)|null|
+|**2023-11-22**|**Stability of nanoparticle laden aerosol liquid droplets**|A. J. Archer et.al.|[2311.13236v1](http://arxiv.org/abs/2311.13236v1)|null|
+|**2023-11-22**|**Reshaping and Enzymatic Activity allow Viruses to move through the Mucus**|Falko Ziebert et.al.|[2311.13203v1](http://arxiv.org/abs/2311.13203v1)|null|
+|**2023-11-22**|**Broadband dielectric studies in linseed oil: Supercriticality and the New Insight into Melting/Freezing Discontinuous Transition**|Aleksandra Drozd-Rzoska et.al.|[2311.13197v1](http://arxiv.org/abs/2311.13197v1)|null|
+|**2023-11-22**|**Fractonic Quantum Quench in Dipole-constrained Bosons**|Yun-Tak Oh et.al.|[2311.13156v1](http://arxiv.org/abs/2311.13156v1)|null|
+|**2023-11-22**|**Extensibility governs the flow-induced alignment of polymers and rod-like colloids**|Vincenzo Calabrese et.al.|[2311.13093v1](http://arxiv.org/abs/2311.13093v1)|null|
+|**2023-11-21**|**The Penrose Tiling is a Quantum Error-Correcting Code**|Zhi Li et.al.|[2311.13040v1](http://arxiv.org/abs/2311.13040v1)|null|
+|**2023-11-21**|**Deformation Dynamics of Nanopores upon Water Imbibition**|Juan Sanchez et.al.|[2311.13025v1](http://arxiv.org/abs/2311.13025v1)|null|
 |**2023-11-21**|**On the emergence of memory in equilibrium versus non-equilibrium systems**|Xizhu Zhao et.al.|[2311.12788v1](http://arxiv.org/abs/2311.12788v1)|null|
 |**2023-11-21**|**Adiabatic observables and Berry curvatures in insulators and metals**|Raffaele Resta et.al.|[2311.12729v1](http://arxiv.org/abs/2311.12729v1)|null|
 |**2023-11-21**|**Two-dimensional symmetry-protected topological phases and transitions in open quantum systems**|Yuxuan Guo et.al.|[2311.12619v1](http://arxiv.org/abs/2311.12619v1)|null|
@@ -4046,6 +4059,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Spin-orbit interaction driven terahertz nonlinear dynamics in transition metals**|Ruslan Salikhov et.al.|[2311.13272v1](http://arxiv.org/abs/2311.13272v1)|null|
 |**2023-11-16**|**Light-induced ideal Weyl semimetal in HgTe via nonlinear phononics**|Dongbin Shin et.al.|[2311.09583v1](http://arxiv.org/abs/2311.09583v1)|null|
 |**2023-11-14**|**Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers**|Mingrui Xu et.al.|[2311.08518v1](http://arxiv.org/abs/2311.08518v1)|null|
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
@@ -4373,6 +4387,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe $_5$**|Dong Xing et.al.|[2311.13346v1](http://arxiv.org/abs/2311.13346v1)|null|
 |**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891v1](http://arxiv.org/abs/2311.10891v1)|null|
 |**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183v1](http://arxiv.org/abs/2311.07183v1)|null|
 |**2023-11-08**|**Theory of topological exciton insulators and condensates in flat Chern bands**|Hong-Yi Xie et.al.|[2311.04970v1](http://arxiv.org/abs/2311.04970v1)|null|
@@ -4516,6 +4531,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
+|**2023-11-22**|**Quantum spin dynamics due to strong Kitaev interactions in the triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13146v1](http://arxiv.org/abs/2311.13146v1)|null|
+|**2023-11-22**|**Stripe magnetic order and field-induced quantum criticality in the perfect triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13143v1](http://arxiv.org/abs/2311.13143v1)|null|
 |**2023-11-17**|**Magnetic field-induced phases and spin Hamiltonian in Cs2CoBr4**|Magnetic field-induced phases et.al.|[2311.10535v1](http://arxiv.org/abs/2311.10535v1)|null|
 |**2023-11-13**|**Nematic superconductivity from selective orbital pairing in Ba(Fe1-xMx)2As2 (M = Co, Ni) single crystals**|Mason Klemm et.al.|[2311.07697v1](http://arxiv.org/abs/2311.07697v1)|null|
 |**2023-11-06**|**Spatial Correlation at the Boson Peak Frequency in Amorphous Materials**|X. Y. Li et.al.|[2311.03466v1](http://arxiv.org/abs/2311.03466v1)|null|
