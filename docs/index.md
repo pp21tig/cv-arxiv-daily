@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640v1](http://arxiv.org/abs/2311.14640v1)|null|
+|**2023-11-24**|**Depletion-induced crystallization of anisotropic triblock colloids**|Fabrizio Camerin et.al.|[2311.14478v1](http://arxiv.org/abs/2311.14478v1)|null|
+|**2023-11-24**|**Solid-that-flows picture of glass-forming liquids**|Jeppe C. Dyre et.al.|[2311.14460v1](http://arxiv.org/abs/2311.14460v1)|null|
+|**2023-11-24**|**Long-standing heterogeneity in shear-thickening suspension subjected to swirling excitation**|Li-Xin Shi et.al.|[2311.14408v1](http://arxiv.org/abs/2311.14408v1)|null|
+|**2023-11-24**|**Evaporation of Colloidal Suspension Droplets over Oil-infused Slippery Surfaces**|Sumita Sahoo et.al.|[2311.14406v1](http://arxiv.org/abs/2311.14406v1)|null|
+|**2023-11-23**|**Stationary shapes of axisymmetric vesicles beyond lowest-energy configurations**|Rodrigo B. Reboucas et.al.|[2311.14193v1](http://arxiv.org/abs/2311.14193v1)|null|
+|**2023-11-23**|**Rheology of moderated dilute suspensions of star colloids: the shape factor**|F. Balboa Usabiaga et.al.|[2311.14166v1](http://arxiv.org/abs/2311.14166v1)|null|
+|**2023-11-23**|**Exciting high-frequency short-wavelength spin waves using high harmonics of a magnonic cavity mode**|Nikhil Kumar et.al.|[2311.14143v1](http://arxiv.org/abs/2311.14143v1)|null|
+|**2023-11-23**|**Flux enhanced localization and reentrant delocalization in the quantum walk of interacting bosons on two-leg ladder**|Mrinal Kanti Giri et.al.|[2311.14117v1](http://arxiv.org/abs/2311.14117v1)|null|
+|**2023-11-23**|**Charge transport in chiral solids as a possible tool in search of dark matter signals**|Marek Rogatko et.al.|[2311.13926v1](http://arxiv.org/abs/2311.13926v1)|null|
+|**2023-11-23**|**Optimized Self-Similar Borel Summation**|S. Gluzman et.al.|[2311.13913v1](http://arxiv.org/abs/2311.13913v1)|null|
+|**2023-11-23**|**The influence of an outer bath on the dewetting of an ultrathin liquid film**|A. Martinez-Calvo et.al.|[2311.13855v1](http://arxiv.org/abs/2311.13855v1)|null|
+|**2023-11-23**|**Hydrodynamically Induced Aggregation in Two-Dimensional Active Systems**|Roee Bashan et.al.|[2311.13851v1](http://arxiv.org/abs/2311.13851v1)|null|
+|**2023-11-23**|**Linear stability of ultrathin spherical coatings**|D. Moreno-Boza et.al.|[2311.13849v1](http://arxiv.org/abs/2311.13849v1)|null|
+|**2023-11-23**|**Non-axisymmetric modes in ultrathin annular liquid films coating a cylindrical fibre**|D. Moreno-Boza et.al.|[2311.13837v1](http://arxiv.org/abs/2311.13837v1)|null|
+|**2023-11-23**|**Nanosecond kinetics of phase separation in binary fluid studied by a combination of Laser-induced temperature jump and Forster Resonant Excitation Transfer probing**|Alexei Goun et.al.|[2311.13796v1](http://arxiv.org/abs/2311.13796v1)|null|
+|**2023-11-23**|**A Drude-Lorentz dielectric in the presence of a magnetic current density**|Pedro D. S. Silva et.al.|[2311.13783v1](http://arxiv.org/abs/2311.13783v1)|null|
+|**2023-11-23**|**Dynamics and rheology of 2D colloidal crystals with active anisotropic impurities**|Jacob John et.al.|[2311.13773v1](http://arxiv.org/abs/2311.13773v1)|null|
+|**2023-11-23**|**Abaqus implementation of a large family of finite viscoelasticity models**|Victor Lefèvre et.al.|[2311.13751v1](http://arxiv.org/abs/2311.13751v1)|null|
 |**2023-11-22**|**Condensed Matter Systems Exposed to Radiation: Multiscale Theory, Simulations, and Experiment**|Andrey V. Solov'yov et.al.|[2311.13402v1](http://arxiv.org/abs/2311.13402v1)|null|
 |**2023-11-22**|**Directed Evolution of Microorganisms for Engineered Living Materials**|Julie M. Laurent et.al.|[2311.13342v1](http://arxiv.org/abs/2311.13342v1)|null|
 |**2023-11-22**|**Liquid-solid friction on crystalline surfaces: a perspective**|Mathieu Lizée et.al.|[2311.13311v1](http://arxiv.org/abs/2311.13311v1)|null|
@@ -4059,6 +4078,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Mesoscopic ultrafast nonlinear optics -- The emergence of multimode quantum non-Gaussian physics**|Ryotatsu Yanagimoto et.al.|[2311.13775v1](http://arxiv.org/abs/2311.13775v1)|null|
+|**2023-11-22**|**Floquet Engineering of a Diatomic Molecule Through a Bichromatic Radiation Field**|Edgar Barriga et.al.|[2311.13697v1](http://arxiv.org/abs/2311.13697v1)|null|
 |**2023-11-22**|**Spin-orbit interaction driven terahertz nonlinear dynamics in transition metals**|Ruslan Salikhov et.al.|[2311.13272v1](http://arxiv.org/abs/2311.13272v1)|null|
 |**2023-11-16**|**Light-induced ideal Weyl semimetal in HgTe via nonlinear phononics**|Dongbin Shin et.al.|[2311.09583v1](http://arxiv.org/abs/2311.09583v1)|null|
 |**2023-11-14**|**Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers**|Mingrui Xu et.al.|[2311.08518v1](http://arxiv.org/abs/2311.08518v1)|null|
@@ -4387,6 +4408,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626v1](http://arxiv.org/abs/2311.14626v1)|null|
+|**2023-11-24**|**Even-in-magnetic-field part of transverse resistivity as a probe of magnetic order**|Antonin Badura et.al.|[2311.14498v1](http://arxiv.org/abs/2311.14498v1)|null|
+|**2023-11-24**|**Multiple superconducting phases driven by pressure in the topological insulator GeSb4Te7**|W. Zhou et.al.|[2311.14472v1](http://arxiv.org/abs/2311.14472v1)|null|
+|**2023-11-24**|**Theory of fractional Chern insulator states in pentalayer graphene moiré superlattice**|Zhongqing Guo et.al.|[2311.14368v1](http://arxiv.org/abs/2311.14368v1)|null|
 |**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe $_5$**|Dong Xing et.al.|[2311.13346v1](http://arxiv.org/abs/2311.13346v1)|null|
 |**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891v1](http://arxiv.org/abs/2311.10891v1)|null|
 |**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183v1](http://arxiv.org/abs/2311.07183v1)|null|
@@ -4532,8 +4557,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
-|**2023-11-22**|**Quantum spin dynamics due to strong Kitaev interactions in the triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13146v1](http://arxiv.org/abs/2311.13146v1)|null|
-|**2023-11-22**|**Stripe magnetic order and field-induced quantum criticality in the perfect triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13143v1](http://arxiv.org/abs/2311.13143v1)|null|
+|**2023-11-23**|**Quantum spin dynamics due to strong Kitaev interactions in the triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13146v2](http://arxiv.org/abs/2311.13146v2)|null|
+|**2023-11-23**|**Stripe magnetic order and field-induced quantum criticality in the perfect triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13143v2](http://arxiv.org/abs/2311.13143v2)|null|
 |**2023-11-17**|**Magnetic field-induced phases and spin Hamiltonian in Cs2CoBr4**|Magnetic field-induced phases et.al.|[2311.10535v1](http://arxiv.org/abs/2311.10535v1)|null|
 |**2023-11-13**|**Nematic superconductivity from selective orbital pairing in Ba(Fe1-xMx)2As2 (M = Co, Ni) single crystals**|Mason Klemm et.al.|[2311.07697v1](http://arxiv.org/abs/2311.07697v1)|null|
 |**2023-11-06**|**Spatial Correlation at the Boson Peak Frequency in Amorphous Materials**|X. Y. Li et.al.|[2311.03466v1](http://arxiv.org/abs/2311.03466v1)|null|
