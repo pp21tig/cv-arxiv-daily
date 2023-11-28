@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Effects of salinity on flows of dense colloidal suspensions**|Marc Lagoin et.al.|[2311.16055v1](http://arxiv.org/abs/2311.16055v1)|null|
+|**2023-11-27**|**Droplet control based on pinning and substrate wettability**|Panagiotis E. Theodorakis et.al.|[2311.15882v1](http://arxiv.org/abs/2311.15882v1)|null|
+|**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
+|**2023-11-27**|**Work distribution of a colloid in an elongational flow field and under Ornstein-Uhlenbeck noise**|Debasish Saha et.al.|[2311.15768v1](http://arxiv.org/abs/2311.15768v1)|null|
+|**2023-11-27**|**Tabular Two-Dimensional Correlation Analysis for Multifaceted Characterization Data**|Shun Muroga et.al.|[2311.15703v1](http://arxiv.org/abs/2311.15703v1)|null|
+|**2023-11-27**|**Motility-induced coexistence of a hot liquid and a cold gas**|Lukas Hecht et.al.|[2311.15638v1](http://arxiv.org/abs/2311.15638v1)|null|
+|**2023-11-27**|**Versatile non-diffracting beams generator based on free lens modulation**|Xue Yun et.al.|[2311.15589v1](http://arxiv.org/abs/2311.15589v1)|null|
+|**2023-11-27**|**Versatile manipulation of low-refractive-index particles using customized optical building blocks**|Minru He et.al.|[2311.15588v1](http://arxiv.org/abs/2311.15588v1)|null|
+|**2023-11-27**|**Chemical Potential of a Flexible Polymer Liquid in a Coarse-Grained Representation**|Mohammadhasan Dinpajooh et.al.|[2311.15481v1](http://arxiv.org/abs/2311.15481v1)|null|
+|**2023-11-26**|**Buckling instability in a chain of sticky bubbles**|Carmen L. Lee et.al.|[2311.15452v1](http://arxiv.org/abs/2311.15452v1)|null|
+|**2023-11-26**|**Exact transport coefficients from the inelastic rough Maxwell model of a granular gas**|Andrés Santos et.al.|[2311.15440v1](http://arxiv.org/abs/2311.15440v1)|null|
+|**2023-11-25**|**Diffusion in multicomponent granular mixtures**|Anna Bodrova et.al.|[2311.15139v1](http://arxiv.org/abs/2311.15139v1)|null|
+|**2023-11-25**|**Rheology of suspensions of non-Brownian soft spheres across the jamming and viscous-to-inertial transitions**|Franco Tapia et.al.|[2311.15107v1](http://arxiv.org/abs/2311.15107v1)|null|
+|**2023-11-25**|**General $O(D)$ -equivariant fuzzy hyperspheres via confining potentials and energy cutoffs**|Gaetano Fiore et.al.|[2311.15086v1](http://arxiv.org/abs/2311.15086v1)|null|
+|**2023-11-25**|**Biomimetic non-ergodic aging by dynamic-to-covalent transitions in physical hydrogels**|Samya Sen et.al.|[2311.15067v1](http://arxiv.org/abs/2311.15067v1)|null|
+|**2023-11-25**|**A composite ansatz for the calculation of dynamical structure factor**|Yupei Zhang et.al.|[2311.15008v1](http://arxiv.org/abs/2311.15008v1)|null|
+|**2023-11-25**|**Nonequilibrium hyperuniform states in active turbulence**|Rainer Backofen et.al.|[2311.14959v1](http://arxiv.org/abs/2311.14959v1)|null|
+|**2023-11-25**|**Programmable high-dimensional Hamiltonian in a photonic waveguide array**|Yang Yang et.al.|[2311.14951v1](http://arxiv.org/abs/2311.14951v1)|null|
+|**2023-11-25**|**Modelling Bi-specific Antibodies in Aqueous Solution**|Taras Hvozd et.al.|[2311.14929v1](http://arxiv.org/abs/2311.14929v1)|null|
+|**2023-11-24**|**Phase Behavior of the Patchy Colloids Confined in the Patchy Porous Media**|Yurij V. Kalyuzhnyi et.al.|[2311.14866v1](http://arxiv.org/abs/2311.14866v1)|null|
 |**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640v1](http://arxiv.org/abs/2311.14640v1)|null|
 |**2023-11-24**|**Depletion-induced crystallization of anisotropic triblock colloids**|Fabrizio Camerin et.al.|[2311.14478v1](http://arxiv.org/abs/2311.14478v1)|null|
 |**2023-11-24**|**Solid-that-flows picture of glass-forming liquids**|Jeppe C. Dyre et.al.|[2311.14460v1](http://arxiv.org/abs/2311.14460v1)|null|
@@ -4078,6 +4098,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Placement of Biological Membrane Patches in a Nanofluidic Gap with Control over Position and Orientation**|Francesca Ruggeri et.al.|[2311.14779v1](http://arxiv.org/abs/2311.14779v1)|null|
+|**2023-11-24**|**Light--absorbed orbital angular momentum in the linear response regime**|Philippe Scheid et.al.|[2311.14774v1](http://arxiv.org/abs/2311.14774v1)|null|
 |**2023-11-23**|**Mesoscopic ultrafast nonlinear optics -- The emergence of multimode quantum non-Gaussian physics**|Ryotatsu Yanagimoto et.al.|[2311.13775v1](http://arxiv.org/abs/2311.13775v1)|null|
 |**2023-11-22**|**Floquet Engineering of a Diatomic Molecule Through a Bichromatic Radiation Field**|Edgar Barriga et.al.|[2311.13697v1](http://arxiv.org/abs/2311.13697v1)|null|
 |**2023-11-22**|**Spin-orbit interaction driven terahertz nonlinear dynamics in transition metals**|Ruslan Salikhov et.al.|[2311.13272v1](http://arxiv.org/abs/2311.13272v1)|null|
@@ -4296,6 +4318,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Induced current in braneworld model in high-dimensional AdS bulk in the cosmic string spacetime**|W. Oliveira dos Santos et.al.|[2311.15774v1](http://arxiv.org/abs/2311.15774v1)|null|
+|**2023-11-26**|**Electric Field Switching of Magnon Spin Current in a Compensated Ferrimagnet**|Kaili Li et.al.|[2311.15183v1](http://arxiv.org/abs/2311.15183v1)|null|
 |**2023-11-21**|**Room-temperature continuous-wave pumped exciton polariton condensation in a perovskite microcavity**|Jiepeng Song et.al.|[2311.12381v1](http://arxiv.org/abs/2311.12381v1)|null|
 |**2023-11-20**|**Electrical control of magnetism by electric field and current-induced torques**|Albert Fert et.al.|[2311.11724v1](http://arxiv.org/abs/2311.11724v1)|null|
 |**2023-11-17**|**Fluctuation-induced currents in suspended graphene nanoribbons: Adiabatic quantum pumping approach**|Federico D. Ribetto et.al.|[2311.10560v1](http://arxiv.org/abs/2311.10560v1)|null|
