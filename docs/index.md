@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Optimal control of interacting active particles on complex landscapes**|Sumit Sinha et.al.|[2311.17039v1](http://arxiv.org/abs/2311.17039v1)|null|
+|**2023-11-28**|**Diffusive evaporation dynamics in polymer solutions is ubiquitous**|Max Huisman et.al.|[2311.16911v1](http://arxiv.org/abs/2311.16911v1)|null|
+|**2023-11-28**|**A Coarse-grained Model for Aqueous Two-phase Systems: Application to Ferrofluids**|Alberto Scacchi et.al.|[2311.16906v1](http://arxiv.org/abs/2311.16906v1)|null|
+|**2023-11-28**|**Transformer Wave Function for the Shastry-Sutherland Model: emergence of a Spin-Liquid Phase**|Luciano Loris Viteritti et.al.|[2311.16889v1](http://arxiv.org/abs/2311.16889v1)|null|
+|**2023-11-28**|**Power law creep and delayed failure of gels and fibrous materials under stress**|Henry A. Lockwood et.al.|[2311.16778v1](http://arxiv.org/abs/2311.16778v1)|null|
+|**2023-11-28**|**Rheology of granular particles immersed in a molecular gas under uniform shear flow**|Rubén Gómez González et.al.|[2311.16717v1](http://arxiv.org/abs/2311.16717v1)|null|
+|**2023-11-28**|**Learning how to find targets in the micro-world: The case of intermittent active Brownian particles**|Michele Caraglio et.al.|[2311.16692v1](http://arxiv.org/abs/2311.16692v1)|null|
+|**2023-11-28**|**Room-temperature correlated states in twisted bilayer MoS $_2$**|Fanfan Wu et.al.|[2311.16655v1](http://arxiv.org/abs/2311.16655v1)|null|
+|**2023-11-28**|**A free object in a confined active contractile nematic fluid: fixed-point and limit-cycle behaviors**|Jonathan B. Freund et.al.|[2311.16467v1](http://arxiv.org/abs/2311.16467v1)|null|
+|**2023-11-28**|**Mechanical stability of homogeneous holographic solids under finite shear strain**|Matteo Baggioli et.al.|[2311.16423v1](http://arxiv.org/abs/2311.16423v1)|null|
+|**2023-11-28**|**Vector-based feedback of continuous wave radiofrequency compression cavity for ultrafast electron diffraction**|Thomas Sutter et.al.|[2311.16400v1](http://arxiv.org/abs/2311.16400v1)|null|
+|**2023-11-28**|**Classification of multipoles induced by external fields and currents under electronic nematic ordering with quadrupole moments**|Satoru Hayami et.al.|[2311.16393v1](http://arxiv.org/abs/2311.16393v1)|null|
+|**2023-11-28**|**A Geometric Tension Dynamics Model of Epithelial Convergent Extension**|Nikolas H. Claussen et.al.|[2311.16384v1](http://arxiv.org/abs/2311.16384v1)|null|
+|**2023-11-27**|**Average negative heat in a non-Markovian bath**|Felix Ginot et.al.|[2311.16324v1](http://arxiv.org/abs/2311.16324v1)|null|
+|**2023-11-27**|**Dynamical separation of charge and energy transport in the sine-Gordon model**|Frederik Møller et.al.|[2311.16234v1](http://arxiv.org/abs/2311.16234v1)|null|
 |**2023-11-27**|**Effects of salinity on flows of dense colloidal suspensions**|Marc Lagoin et.al.|[2311.16055v1](http://arxiv.org/abs/2311.16055v1)|null|
 |**2023-11-27**|**Droplet control based on pinning and substrate wettability**|Panagiotis E. Theodorakis et.al.|[2311.15882v1](http://arxiv.org/abs/2311.15882v1)|null|
 |**2023-11-27**|**Quartz Crystal Microbalance frequency response to finite-size adsorbents in liquid**|Alexander M. Leshansky et.al.|[2311.15880v1](http://arxiv.org/abs/2311.15880v1)|null|
@@ -4258,6 +4273,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Avalanche terahertz photon detection in a Rydberg tweezer array**|Chris Nill et.al.|[2311.16365v1](http://arxiv.org/abs/2311.16365v1)|null|
 |**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286v1](http://arxiv.org/abs/2311.10286v1)|null|
 |**2023-09-12**|**Anharmonic coherent dynamics of the soft phonon mode of a PbTe crystal**|A. A. Melnikov et.al.|[2309.06549v1](http://arxiv.org/abs/2309.06549v1)|null|
 |**2023-09-11**|**Melting of excitonic insulator phase by an intense terahertz pulse in Ta $_2$NiSe$_5$**|Naoki Takamura et.al.|[2309.05286v1](http://arxiv.org/abs/2309.05286v1)|null|
@@ -4318,6 +4334,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Classification of multipoles induced by external fields and currents under electronic nematic ordering with quadrupole moments**|Satoru Hayami et.al.|[2311.16393v1](http://arxiv.org/abs/2311.16393v1)|null|
 |**2023-11-27**|**Induced current in braneworld model in high-dimensional AdS bulk in the cosmic string spacetime**|W. Oliveira dos Santos et.al.|[2311.15774v1](http://arxiv.org/abs/2311.15774v1)|null|
 |**2023-11-26**|**Electric Field Switching of Magnon Spin Current in a Compensated Ferrimagnet**|Kaili Li et.al.|[2311.15183v1](http://arxiv.org/abs/2311.15183v1)|null|
 |**2023-11-21**|**Room-temperature continuous-wave pumped exciton polariton condensation in a perovskite microcavity**|Jiepeng Song et.al.|[2311.12381v1](http://arxiv.org/abs/2311.12381v1)|null|
@@ -4432,6 +4449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**The Conjugate Composite Fermi Liquid**|Nayan Myerson-Jain et.al.|[2311.16250v1](http://arxiv.org/abs/2311.16250v1)|null|
 |**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626v1](http://arxiv.org/abs/2311.14626v1)|null|
 |**2023-11-24**|**Even-in-magnetic-field part of transverse resistivity as a probe of magnetic order**|Antonin Badura et.al.|[2311.14498v1](http://arxiv.org/abs/2311.14498v1)|null|
 |**2023-11-24**|**Multiple superconducting phases driven by pressure in the topological insulator GeSb4Te7**|W. Zhou et.al.|[2311.14472v1](http://arxiv.org/abs/2311.14472v1)|null|
