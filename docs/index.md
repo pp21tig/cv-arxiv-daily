@@ -1102,12 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Mysteries of supercooled water elucidated by studies of aqueous solutions**|Peter Lunkenheimer et.al.|[2311.17900v1](http://arxiv.org/abs/2311.17900v1)|null|
+|**2023-11-29**|**Topological quantum criticality from multiplicative topological phases**|R. Flores-Calderón et.al.|[2311.17799v1](http://arxiv.org/abs/2311.17799v1)|null|
+|**2023-11-29**|**Adaptive Circuit Learning of Born Machine: Towards Realization of Amplitude Embedding and Data Loading**|Chun-Tse Li et.al.|[2311.17798v1](http://arxiv.org/abs/2311.17798v1)|null|
+|**2023-11-29**|**Translational and reorientational dynamics in carboxylic acid-based deep eutectic solvents**|A. Schulz et.al.|[2311.17724v1](http://arxiv.org/abs/2311.17724v1)|null|
+|**2023-11-29**|**Exact and approximate solutions for elastic interactions in a nematic liquid crystal**|Thomas G. J. Chandler et.al.|[2311.17708v1](http://arxiv.org/abs/2311.17708v1)|null|
+|**2023-11-29**|**Real-space Visualization of Charge Density Wave Induced Local Inversion-Symmetry Breaking in a Skyrmion Magnet**|Haoyang Ni et.al.|[2311.17682v1](http://arxiv.org/abs/2311.17682v1)|null|
+|**2023-11-29**|**Myosin-independent amoeboid cell motility**|Winfried Schmidt et.al.|[2311.17659v1](http://arxiv.org/abs/2311.17659v1)|null|
+|**2023-11-29**|**The Narrow Escape Problem of a Chiral Active Particle (CAP): An Optimal Scheme**|Alakesh Upadhyaya et.al.|[2311.17648v1](http://arxiv.org/abs/2311.17648v1)|null|
+|**2023-11-29**|**Non-trivial dynamics of rigid fibers interacting with triangular obstacles in microchannel flows**|Zhibo Li et.al.|[2311.17635v1](http://arxiv.org/abs/2311.17635v1)|null|
+|**2023-11-29**|**Distribution of a bipartite entanglement in a mixed spin-(1/2,1) Heisenberg tetramer**|Hana Vargová et.al.|[2311.17464v1](http://arxiv.org/abs/2311.17464v1)|null|
+|**2023-11-29**|**Genuine tripartite entanglement in a mixed spin-(1/2,1) Heisenberg tetramer**|Hana Vargová et.al.|[2311.17444v1](http://arxiv.org/abs/2311.17444v1)|null|
+|**2023-11-29**|**Elastic instability behind brittle fracture in soft solids**|D. Riccobelli et.al.|[2311.17372v1](http://arxiv.org/abs/2311.17372v1)|null|
+|**2023-11-29**|**Classical vs Quantum Annealing and Manifold Reduction in Soft-Spin Minimizers of Ising Hamiltonians**|James S. Cummins et.al.|[2311.17359v1](http://arxiv.org/abs/2311.17359v1)|null|
+|**2023-11-28**|**TorchAmi: Generalized CPU/GPU Implementation of Algorithmic Matsubara Integration**|M. D. Burke et.al.|[2311.17189v1](http://arxiv.org/abs/2311.17189v1)|null|
 |**2023-11-28**|**Optimal control of interacting active particles on complex landscapes**|Sumit Sinha et.al.|[2311.17039v1](http://arxiv.org/abs/2311.17039v1)|null|
 |**2023-11-28**|**Diffusive evaporation dynamics in polymer solutions is ubiquitous**|Max Huisman et.al.|[2311.16911v1](http://arxiv.org/abs/2311.16911v1)|null|
 |**2023-11-28**|**A Coarse-grained Model for Aqueous Two-phase Systems: Application to Ferrofluids**|Alberto Scacchi et.al.|[2311.16906v1](http://arxiv.org/abs/2311.16906v1)|null|
 |**2023-11-28**|**Transformer Wave Function for the Shastry-Sutherland Model: emergence of a Spin-Liquid Phase**|Luciano Loris Viteritti et.al.|[2311.16889v1](http://arxiv.org/abs/2311.16889v1)|null|
 |**2023-11-28**|**Power law creep and delayed failure of gels and fibrous materials under stress**|Henry A. Lockwood et.al.|[2311.16778v1](http://arxiv.org/abs/2311.16778v1)|null|
-|**2023-11-28**|**Rheology of granular particles immersed in a molecular gas under uniform shear flow**|Rubén Gómez González et.al.|[2311.16717v1](http://arxiv.org/abs/2311.16717v1)|null|
+|**2023-11-29**|**Rheology of granular particles immersed in a molecular gas under uniform shear flow**|Rubén Gómez González et.al.|[2311.16717v2](http://arxiv.org/abs/2311.16717v2)|null|
 |**2023-11-28**|**Learning how to find targets in the micro-world: The case of intermittent active Brownian particles**|Michele Caraglio et.al.|[2311.16692v1](http://arxiv.org/abs/2311.16692v1)|null|
 |**2023-11-28**|**Room-temperature correlated states in twisted bilayer MoS $_2$**|Fanfan Wu et.al.|[2311.16655v1](http://arxiv.org/abs/2311.16655v1)|null|
 |**2023-11-28**|**A free object in a confined active contractile nematic fluid: fixed-point and limit-cycle behaviors**|Jonathan B. Freund et.al.|[2311.16467v1](http://arxiv.org/abs/2311.16467v1)|null|
@@ -4113,6 +4127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Design of a millifluidic device for the evaluation of blue-light disinfection on Pseudomonas aeruginosa PA01 biofilm**|Nidia Maldonado Carmona et.al.|[2311.17788v1](http://arxiv.org/abs/2311.17788v1)|null|
 |**2023-11-24**|**Placement of Biological Membrane Patches in a Nanofluidic Gap with Control over Position and Orientation**|Francesca Ruggeri et.al.|[2311.14779v1](http://arxiv.org/abs/2311.14779v1)|null|
 |**2023-11-24**|**Light--absorbed orbital angular momentum in the linear response regime**|Philippe Scheid et.al.|[2311.14774v1](http://arxiv.org/abs/2311.14774v1)|null|
 |**2023-11-23**|**Mesoscopic ultrafast nonlinear optics -- The emergence of multimode quantum non-Gaussian physics**|Ryotatsu Yanagimoto et.al.|[2311.13775v1](http://arxiv.org/abs/2311.13775v1)|null|
@@ -4334,6 +4349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Current-Controlled Skyrmion Number in Confined Ferromagnetic Nanostripes**|Jialiang Jiang et.al.|[2311.17411v1](http://arxiv.org/abs/2311.17411v1)|null|
 |**2023-11-28**|**Classification of multipoles induced by external fields and currents under electronic nematic ordering with quadrupole moments**|Satoru Hayami et.al.|[2311.16393v1](http://arxiv.org/abs/2311.16393v1)|null|
 |**2023-11-27**|**Induced current in braneworld model in high-dimensional AdS bulk in the cosmic string spacetime**|W. Oliveira dos Santos et.al.|[2311.15774v1](http://arxiv.org/abs/2311.15774v1)|null|
 |**2023-11-26**|**Electric Field Switching of Magnon Spin Current in a Compensated Ferrimagnet**|Kaili Li et.al.|[2311.15183v1](http://arxiv.org/abs/2311.15183v1)|null|
