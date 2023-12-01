@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Optimal switching strategies for navigation in stochastic settings**|F. Mori et.al.|[2311.18813v1](http://arxiv.org/abs/2311.18813v1)|null|
+|**2023-11-30**|**Stress control in non-ideal topological Maxwell lattices via geometry**|Harry Liu et.al.|[2311.18756v1](http://arxiv.org/abs/2311.18756v1)|null|
+|**2023-11-30**|**HofstadterTools: A Python package for analyzing the Hofstadter model**|Bartholomew Andrews et.al.|[2311.18726v1](http://arxiv.org/abs/2311.18726v1)|null|
+|**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722v1](http://arxiv.org/abs/2311.18722v1)|null|
+|**2023-11-30**|**Odd elasticity in driven granular matter**|Rosalind Huang et.al.|[2311.18720v1](http://arxiv.org/abs/2311.18720v1)|null|
+|**2023-11-30**|**Thermodynamics of a minimal collective heat engine: Comparison between engine designs**|Felipe Hawthorne et.al.|[2311.18629v1](http://arxiv.org/abs/2311.18629v1)|null|
+|**2023-11-30**|**Spontaneous polar and chiral symmetry breaking in ordered fluids -- heliconical ferroelectric nematic phases**|Jakub Karcz et.al.|[2311.18552v1](http://arxiv.org/abs/2311.18552v1)|null|
+|**2023-11-30**|**Unconventional critical behavior of polymers at sticky boundaries**|Alexander Gorsky et.al.|[2311.18467v1](http://arxiv.org/abs/2311.18467v1)|null|
+|**2023-11-30**|**Gas compression systematically delays the onset of viscous fingering**|Liam C. Morrow et.al.|[2311.18447v1](http://arxiv.org/abs/2311.18447v1)|null|
+|**2023-11-30**|**Curvature directed anchoring and defect structure of colloidal smectic liquid crystals in confinement**|Ethan I. L. Jull et.al.|[2311.18362v1](http://arxiv.org/abs/2311.18362v1)|null|
+|**2023-11-30**|**From isolated polyelectrolytes to star-like assemblies: The role of sequence heterogeneity on the statistical structure of the intrinsically disordered Neurofilament-low tail domain**|Mathar Kravikass et.al.|[2311.18337v1](http://arxiv.org/abs/2311.18337v1)|null|
+|**2023-11-30**|**Squashed quantum non-Markovianity: a measure of genuine quantum non-Markovianity in states**|Rajeev Gangwar et.al.|[2311.18323v1](http://arxiv.org/abs/2311.18323v1)|null|
+|**2023-11-30**|**Sculpting ultrastrong light-matter coupling through spatial matter structuring**|Joshua Mornhinweg et.al.|[2311.18278v1](http://arxiv.org/abs/2311.18278v1)|null|
+|**2023-11-30**|**A Gell-Mann & Low Theorem Perspective on Quantum Computing: New Paradigm for Designing Quantum Algorithm**|Chun-Tse Li et.al.|[2311.18271v1](http://arxiv.org/abs/2311.18271v1)|null|
+|**2023-11-30**|**Bulk-edge correspondence recovered in incompressible continuous media**|Yohei Onuki et.al.|[2311.18249v1](http://arxiv.org/abs/2311.18249v1)|null|
+|**2023-11-29**|**Emergence of multiphase condensates from a limited set of chemical building blocks**|Fan Chen et.al.|[2311.18142v1](http://arxiv.org/abs/2311.18142v1)|null|
+|**2023-11-29**|**On the role of mechanical feedback in synchronous to asynchronous transition during embryogenesis**|Abdul Malmi-Kakkada et.al.|[2311.18101v1](http://arxiv.org/abs/2311.18101v1)|null|
+|**2023-11-29**|**Quantitative evaluation of methods to analyze motion changes in single-particle experiments**|Gorka Muñoz et.al.|[2311.18100v1](http://arxiv.org/abs/2311.18100v1)|null|
 |**2023-11-29**|**Mysteries of supercooled water elucidated by studies of aqueous solutions**|Peter Lunkenheimer et.al.|[2311.17900v1](http://arxiv.org/abs/2311.17900v1)|null|
 |**2023-11-29**|**Topological quantum criticality from multiplicative topological phases**|R. Flores-Calderón et.al.|[2311.17799v1](http://arxiv.org/abs/2311.17799v1)|null|
 |**2023-11-29**|**Adaptive Circuit Learning of Born Machine: Towards Realization of Amplitude Embedding and Data Loading**|Chun-Tse Li et.al.|[2311.17798v1](http://arxiv.org/abs/2311.17798v1)|null|
@@ -4345,6 +4363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Induced electromagnetic radiation from a charged cloud in a plane gravitational wave**|Vladimir Y. Epp et.al.|[2311.18247v1](http://arxiv.org/abs/2311.18247v1)|null|
 |**2023-11-29**|**Current-Controlled Skyrmion Number in Confined Ferromagnetic Nanostripes**|Jialiang Jiang et.al.|[2311.17411v1](http://arxiv.org/abs/2311.17411v1)|null|
 |**2023-11-28**|**Classification of multipoles induced by external fields and currents under electronic nematic ordering with quadrupole moments**|Satoru Hayami et.al.|[2311.16393v1](http://arxiv.org/abs/2311.16393v1)|null|
 |**2023-11-27**|**Induced current in braneworld model in high-dimensional AdS bulk in the cosmic string spacetime**|W. Oliveira dos Santos et.al.|[2311.15774v1](http://arxiv.org/abs/2311.15774v1)|null|
@@ -4461,6 +4480,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Vanishing of the anomalous Hall effect and enhanced carrier mobility in the spin-gapless ferromagnetic Mn2CoGa1-xAlx alloys**|Cheng Zhang et.al.|[2311.18335v1](http://arxiv.org/abs/2311.18335v1)|null|
+|**2023-11-29**|**Ferroelectric Semimetals with $α$ -Bi/SnSe van der Waals heterostructures and its Topological Currents**|D. J. P. de Sousa et.al.|[2311.18026v1](http://arxiv.org/abs/2311.18026v1)|null|
 |**2023-11-27**|**The Conjugate Composite Fermi Liquid**|Nayan Myerson-Jain et.al.|[2311.16250v1](http://arxiv.org/abs/2311.16250v1)|null|
 |**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626v1](http://arxiv.org/abs/2311.14626v1)|null|
 |**2023-11-24**|**Even-in-magnetic-field part of transverse resistivity as a probe of magnetic order**|Antonin Badura et.al.|[2311.14498v1](http://arxiv.org/abs/2311.14498v1)|null|
