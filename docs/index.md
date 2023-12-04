@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Molecular Dynamics Study of Electro-Osmotic Flow in a Nanochannel with Molybdenum Disulfide Walls**|S. M. Kazem Manzoorolajdad et.al.|[2312.00767v1](http://arxiv.org/abs/2312.00767v1)|null|
+|**2023-12-01**|**Thermal conductivity of bottle-brush polymers**|Manoj Kumar Maurya et.al.|[2312.00635v1](http://arxiv.org/abs/2312.00635v1)|null|
+|**2023-12-01**|**Phase Transitions, Spontaneous Symmetry Breaking, and Goldstone's Theorem**|Jürg Fröhlich et.al.|[2312.00615v1](http://arxiv.org/abs/2312.00615v1)|null|
+|**2023-12-01**|**Edge modes, extended TQFT, and measurement based quantum computation**|Gabriel Wong et.al.|[2312.00605v1](http://arxiv.org/abs/2312.00605v1)|null|
+|**2023-12-01**|**Longitudinal optical conductivity of graphene in van der Waals heterostructures composed of graphene and transition metal dichalcogenides**|Ruoyang Cui et.al.|[2312.00543v1](http://arxiv.org/abs/2312.00543v1)|null|
+|**2023-12-01**|**Weak Electronic Correlations Observed in Magnetic Weyl Semimetal Mn $_3$ Ge**|Susmita Changdar et.al.|[2312.00511v1](http://arxiv.org/abs/2312.00511v1)|null|
+|**2023-12-01**|**Dynamics of a quantum system interacting with non-Gaussian baths: Poisson noise master equation**|Ken Funo et.al.|[2312.00376v1](http://arxiv.org/abs/2312.00376v1)|null|
+|**2023-12-01**|**Restructuring a passive colloidal suspension using a rotationally driven particle**|Shih-Yuan Chen et.al.|[2312.00255v1](http://arxiv.org/abs/2312.00255v1)|null|
+|**2023-11-30**|**Memory of shear flow in soft jammed materials**|H. A. Vinutha et.al.|[2312.00251v1](http://arxiv.org/abs/2312.00251v1)|null|
+|**2023-11-30**|**A confined rod: mean field theory for hard rod-like particles**|Jamie M. Taylor et.al.|[2312.00239v1](http://arxiv.org/abs/2312.00239v1)|null|
+|**2023-11-30**|**What a twist cell experiment tells about a quartic twist theory for chromonics**|Silvia Paparini et.al.|[2312.00149v1](http://arxiv.org/abs/2312.00149v1)|null|
+|**2023-11-30**|**Polymeric Liquids in Nanoporous Photonic Structures: From Precursor Film Spreading to Imbibition Dynamics at the Nanoscale**|Guido Dittrich et.al.|[2312.00142v1](http://arxiv.org/abs/2312.00142v1)|null|
+|**2023-11-30**|**Symmetries of quantization of finite groupoids**|Jackson Van Dyke et.al.|[2312.00117v1](http://arxiv.org/abs/2312.00117v1)|null|
 |**2023-11-30**|**Optimal switching strategies for navigation in stochastic settings**|F. Mori et.al.|[2311.18813v1](http://arxiv.org/abs/2311.18813v1)|null|
 |**2023-11-30**|**Stress control in non-ideal topological Maxwell lattices via geometry**|Harry Liu et.al.|[2311.18756v1](http://arxiv.org/abs/2311.18756v1)|null|
 |**2023-11-30**|**HofstadterTools: A Python package for analyzing the Hofstadter model**|Bartholomew Andrews et.al.|[2311.18726v1](http://arxiv.org/abs/2311.18726v1)|null|
@@ -4484,6 +4497,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Anomalous Hall effect with plateaus observed in a magnetic Weyl semimetal NdAlGe at low temperatures**|Naoki Kikugawa et.al.|[2312.00222v1](http://arxiv.org/abs/2312.00222v1)|null|
 |**2023-11-30**|**Vanishing of the anomalous Hall effect and enhanced carrier mobility in the spin-gapless ferromagnetic Mn2CoGa1-xAlx alloys**|Cheng Zhang et.al.|[2311.18335v1](http://arxiv.org/abs/2311.18335v1)|null|
 |**2023-11-29**|**Ferroelectric Semimetals with $α$ -Bi/SnSe van der Waals heterostructures and its Topological Currents**|D. J. P. de Sousa et.al.|[2311.18026v1](http://arxiv.org/abs/2311.18026v1)|null|
 |**2023-11-27**|**The Conjugate Composite Fermi Liquid**|Nayan Myerson-Jain et.al.|[2311.16250v1](http://arxiv.org/abs/2311.16250v1)|null|
@@ -4500,7 +4514,7 @@ layout: default
 |**2023-11-23**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217v2](http://arxiv.org/abs/2311.04217v2)|null|
 |**2023-11-01**|**Giant anomalous Hall effect in epitaxial Mn $_{3.2}$ Ge films with a cubic kagome structure**|J. S. R. McCoombs et.al.|[2311.00683v1](http://arxiv.org/abs/2311.00683v1)|null|
 |**2023-11-01**|**Tuning of Berry Curvature Dipole in TaAs slabs: An effective Route to Enhance Nonlinear Hall Response**|Hongsheng Pang et.al.|[2311.00247v1](http://arxiv.org/abs/2311.00247v1)|null|
-|**2023-10-30**|**Tight-binding theory of spin-spin interactions, Curie temperatures, and quantum Hall effects in topological (Hg,Cr)Te in comparison to non-topological (Zn,Cr)Te, and (Ga,Mn)N**|Cezary Śliwa et.al.|[2310.19856v1](http://arxiv.org/abs/2310.19856v1)|null|
+|**2023-12-01**|**Tight-binding theory of spin-spin interactions, Curie temperatures, and quantum Hall effects in topological (Hg,Cr)Te in comparison to non-topological (Zn,Cr)Te, and (Ga,Mn)N**|Cezary Śliwa et.al.|[2310.19856v2](http://arxiv.org/abs/2310.19856v2)|null|
 |**2023-10-26**|**Diffusive-hydrodynamic transition in the anomalous Hall effect**|D. S. Zohrabyan et.al.|[2310.17738v1](http://arxiv.org/abs/2310.17738v1)|null|
 |**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483v1](http://arxiv.org/abs/2310.17483v1)|null|
 |**2023-10-25**|**Phase Change Induced Magnetic Switching through Metal-insulator Transition in VO2/TbFeCo Films**|Chung T. Ma et.al.|[2310.17045v1](http://arxiv.org/abs/2310.17045v1)|null|
