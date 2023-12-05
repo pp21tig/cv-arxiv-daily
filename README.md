@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Analysis of the general uncertainty propagation and calculation of the systematic uncertainty of the Neumann Equation of State for surface free energy determination**|Jonathan M. Schuster et.al.|[2312.02077v1](http://arxiv.org/abs/2312.02077v1)|null|
+|**2023-12-04**|**Decomposing Electronic Structures in Twisted Multilayers: Bridging Spectra and Incommensurate Wave Functions**|Citian Wang et.al.|[2312.01848v1](http://arxiv.org/abs/2312.01848v1)|null|
+|**2023-12-04**|**A simulation method for the wetting dynamics of liquid droplets on deformable membranes**|Marcel Mokbel et.al.|[2312.01817v1](http://arxiv.org/abs/2312.01817v1)|null|
+|**2023-12-04**|**Spectroscopic signatures and origin of a hidden order in Ba $_2$MgReO$_6$**|Jian-Rui Soh et.al.|[2312.01767v1](http://arxiv.org/abs/2312.01767v1)|null|
+|**2023-12-04**|**A consistent derivation of soil stiffness from elastic wave speeds**|David M. Riley et.al.|[2312.01666v1](http://arxiv.org/abs/2312.01666v1)|null|
+|**2023-12-03**|**Yielding behaviour of active particles in bulk and in confinement**|Yagyik Goswami et.al.|[2312.01459v1](http://arxiv.org/abs/2312.01459v1)|null|
+|**2023-12-03**|**Thermodynamics of the Fredrickson-Andersen Model on the Bethe Lattice**|Gianmarco Perrupato et.al.|[2312.01430v1](http://arxiv.org/abs/2312.01430v1)|null|
+|**2023-12-03**|**Effects of linking topology on the shear response of connected ring polymers: Catenanes and bonded rings flow differently**|Reyhaneh A. Farimani et.al.|[2312.01374v1](http://arxiv.org/abs/2312.01374v1)|null|
+|**2023-12-03**|**A quasi-one-dimensional hydrogen-bonded monolayer ice phase**|Pavan Ravindra et.al.|[2312.01340v1](http://arxiv.org/abs/2312.01340v1)|null|
+|**2023-12-03**|**Enhanced transmission at the zeroth-order mode of a terahertz Fabry-Perot cavity**|Soumitra Hazra et.al.|[2312.01320v1](http://arxiv.org/abs/2312.01320v1)|null|
+|**2023-12-03**|**Topological defect formation in a phase transition with tunable order**|Fumika Suzuki et.al.|[2312.01259v1](http://arxiv.org/abs/2312.01259v1)|null|
+|**2023-12-02**|**Stochastic dynamics of granular hopper flows: a slow hidden mode controls the stability of clogs**|David Hathcock et.al.|[2312.01194v1](http://arxiv.org/abs/2312.01194v1)|null|
+|**2023-12-02**|**Electroosmotic Flow in Different Phosphorus Nanochannels**|S. M. Kazem Manzoorolajdad et.al.|[2312.01119v1](http://arxiv.org/abs/2312.01119v1)|null|
+|**2023-12-01**|**Flory-Huggins-Potts Framework for Thermoresponsive Polymer Solutions**|Satyen Dhamankar et.al.|[2312.00940v1](http://arxiv.org/abs/2312.00940v1)|null|
 |**2023-12-01**|**Molecular Dynamics Study of Electro-Osmotic Flow in a Nanochannel with Molybdenum Disulfide Walls**|S. M. Kazem Manzoorolajdad et.al.|[2312.00767v1](http://arxiv.org/abs/2312.00767v1)|null|
 |**2023-12-01**|**Thermal conductivity of bottle-brush polymers**|Manoj Kumar Maurya et.al.|[2312.00635v1](http://arxiv.org/abs/2312.00635v1)|null|
 |**2023-12-01**|**Phase Transitions, Spontaneous Symmetry Breaking, and Goldstone's Theorem**|Jürg Fröhlich et.al.|[2312.00615v1](http://arxiv.org/abs/2312.00615v1)|null|
@@ -4376,6 +4390,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Emergent electric field induced by current-driven domain wall motion in a room-temperature antiferromagnet FeSn2**|Tomoyuki Yokouchi et.al.|[2312.01553v1](http://arxiv.org/abs/2312.01553v1)|null|
+|**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269v1](http://arxiv.org/abs/2312.01269v1)|null|
 |**2023-11-30**|**Induced electromagnetic radiation from a charged cloud in a plane gravitational wave**|Vladimir Y. Epp et.al.|[2311.18247v1](http://arxiv.org/abs/2311.18247v1)|null|
 |**2023-11-29**|**Current-Controlled Skyrmion Number in Confined Ferromagnetic Nanostripes**|Jialiang Jiang et.al.|[2311.17411v1](http://arxiv.org/abs/2311.17411v1)|null|
 |**2023-11-28**|**Classification of multipoles induced by external fields and currents under electronic nematic ordering with quadrupole moments**|Satoru Hayami et.al.|[2311.16393v1](http://arxiv.org/abs/2311.16393v1)|null|
@@ -4493,6 +4509,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614v1](http://arxiv.org/abs/2312.01614v1)|null|
+|**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877v1](http://arxiv.org/abs/2312.00877v1)|null|
 |**2023-11-30**|**Anomalous Hall effect with plateaus observed in a magnetic Weyl semimetal NdAlGe at low temperatures**|Naoki Kikugawa et.al.|[2312.00222v1](http://arxiv.org/abs/2312.00222v1)|null|
 |**2023-11-30**|**Vanishing of the anomalous Hall effect and enhanced carrier mobility in the spin-gapless ferromagnetic Mn2CoGa1-xAlx alloys**|Cheng Zhang et.al.|[2311.18335v1](http://arxiv.org/abs/2311.18335v1)|null|
 |**2023-11-29**|**Ferroelectric Semimetals with $α$ -Bi/SnSe van der Waals heterostructures and its Topological Currents**|D. J. P. de Sousa et.al.|[2311.18026v1](http://arxiv.org/abs/2311.18026v1)|null|
