@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Scattering theory of mesons in doped antiferromagnetic Mott insulators: Multichannel perspective and Feshbach resonance**|Lukas Homeier et.al.|[2312.02978v1](http://arxiv.org/abs/2312.02978v1)|null|
+|**2023-12-05**|**Resonant versus non-resonant spin readout of a nitrogen-vacancy center in diamond under cryogenic conditions**|Richard Monge et.al.|[2312.02907v1](http://arxiv.org/abs/2312.02907v1)|null|
+|**2023-12-05**|**Predicting the morphology of multiphase biomolecular condensates from protein interaction networks**|Tianhao Li et.al.|[2312.02806v1](http://arxiv.org/abs/2312.02806v1)|null|
+|**2023-12-05**|**Computing the Frequency-Dependent NMR Relaxation of $^1$ H Nuclei in Liquid Water**|Dietmar Paschek et.al.|[2312.02712v1](http://arxiv.org/abs/2312.02712v1)|null|
+|**2023-12-05**|**M13-phage-based star-shaped particles with internal flexibility**|A. B. Zavala-Martinez et.al.|[2312.02678v1](http://arxiv.org/abs/2312.02678v1)|null|
+|**2023-12-05**|**Laser induced Flqouet topological phases in a 2D weak topological insulator with unconventional nonlinear dispersion**|Aayushi Agrawal et.al.|[2312.02474v1](http://arxiv.org/abs/2312.02474v1)|null|
+|**2023-12-05**|**Comparison of Linear Viscoelastic Behaviors of Langevin- and Jump-Rouse Models**|Takashi Uneyama et.al.|[2312.02402v1](http://arxiv.org/abs/2312.02402v1)|null|
+|**2023-12-04**|**Time-reversibility during the aging of materials**|Till Böhmer et.al.|[2312.02395v1](http://arxiv.org/abs/2312.02395v1)|null|
+|**2023-12-04**|**Role of shape in particle-lipid membrane interactions: from surfing to full engulfment**|Stijn van der Ham et.al.|[2312.02335v1](http://arxiv.org/abs/2312.02335v1)|null|
+|**2023-12-04**|**Engineering a High Spin Chern-Number Insulator in Epitaxial Sb Monolayer**|Jacob Cook et.al.|[2312.02316v1](http://arxiv.org/abs/2312.02316v1)|null|
+|**2023-12-04**|**Hydrogen induces chiral conduction channels in the topological magnet**|Afrin N. Tamanna et.al.|[2312.02315v1](http://arxiv.org/abs/2312.02315v1)|null|
+|**2023-12-04**|**de Sitter local thermodynamics in $f(R)$ gravity**|G. E. Volovik et.al.|[2312.02292v1](http://arxiv.org/abs/2312.02292v1)|null|
 |**2023-12-04**|**Analysis of the general uncertainty propagation and calculation of the systematic uncertainty of the Neumann Equation of State for surface free energy determination**|Jonathan M. Schuster et.al.|[2312.02077v1](http://arxiv.org/abs/2312.02077v1)|null|
 |**2023-12-04**|**Decomposing Electronic Structures in Twisted Multilayers: Bridging Spectra and Incommensurate Wave Functions**|Citian Wang et.al.|[2312.01848v1](http://arxiv.org/abs/2312.01848v1)|null|
 |**2023-12-04**|**A simulation method for the wetting dynamics of liquid droplets on deformable membranes**|Marcel Mokbel et.al.|[2312.01817v1](http://arxiv.org/abs/2312.01817v1)|null|
