@@ -1098,10 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Mean-Field Analysis of the Glassy Dynamics of an Elastoplastic Model of Super-Cooled Liquids**|Joseph W. Baron et.al.|[2312.03627v1](http://arxiv.org/abs/2312.03627v1)|null|
+|**2023-12-06**|**Coherent pair injection as a route towards the enhancement of supersolid order in many-body bosonic models**|Emmanouil Grigoriou et.al.|[2312.03624v1](http://arxiv.org/abs/2312.03624v1)|null|
+|**2023-12-06**|**Mathematical model for fluoride-removal filters**|Lucy C. Auton et.al.|[2312.03547v1](http://arxiv.org/abs/2312.03547v1)|null|
+|**2023-12-06**|**Non-reciprocal topological solitons**|Jonas Veenstra et.al.|[2312.03544v1](http://arxiv.org/abs/2312.03544v1)|null|
+|**2023-12-06**|**Axion and Dark Fermion Electromagnetic Form Factors in Superfluid He-4**|Wei Chao et.al.|[2312.03530v1](http://arxiv.org/abs/2312.03530v1)|null|
+|**2023-12-06**|**Viscous rebound of a quasi-2D cylinder on a solid wall**|Alicia Aguilar-Corona et.al.|[2312.03416v1](http://arxiv.org/abs/2312.03416v1)|null|
+|**2023-12-06**|**An AI for Scientific Discovery Route between Amorphous Networks and Mechanical Behavior**|Changliang Zhu et.al.|[2312.03404v1](http://arxiv.org/abs/2312.03404v1)|null|
+|**2023-12-06**|**Freezing of sessile droplet and frost halo formation**|Sivanandan Kavuri et.al.|[2312.03271v1](http://arxiv.org/abs/2312.03271v1)|null|
+|**2023-12-06**|**Monte-Carlo ray-tracing studies of multiplexed prismatic graphite analyzers for the cold-neutron triple-axis spectrometer at the High Flux Isotope Reactor**|Adit S. Desai et.al.|[2312.03233v1](http://arxiv.org/abs/2312.03233v1)|null|
+|**2023-12-05**|**Large electrobending deformation caused by defect dipoles**|Shuo Tian et.al.|[2312.03175v1](http://arxiv.org/abs/2312.03175v1)|null|
+|**2023-12-05**|**Finite-displacement elastic solution due to a triple contact line**|Juan Olives et.al.|[2312.03164v1](http://arxiv.org/abs/2312.03164v1)|null|
+|**2023-12-05**|**Robust quantisation of circular photogalvanic effect in multiplicative topological semimetals**|Adipta Pal et.al.|[2312.03159v1](http://arxiv.org/abs/2312.03159v1)|null|
+|**2023-12-05**|**Controlling confined collective organisation with taxis**|Albane Théry et.al.|[2312.03158v1](http://arxiv.org/abs/2312.03158v1)|null|
+|**2023-12-05**|**Fractal packing of nanomaterials**|Dietrich E. Wolf et.al.|[2312.03117v1](http://arxiv.org/abs/2312.03117v1)|null|
+|**2023-12-05**|**The influence of frequency and gravity on the orientation of active metallo-dielecric Janus particles translating under a uniform applied alternating-current electric field**|Alicia Boymelgreen et.al.|[2312.03099v1](http://arxiv.org/abs/2312.03099v1)|null|
+|**2023-12-05**|**Real-time correlators in 3+1D thermal lattice gauge theory**|Kirill Boguslavski et.al.|[2312.03063v1](http://arxiv.org/abs/2312.03063v1)|null|
 |**2023-12-05**|**Scattering theory of mesons in doped antiferromagnetic Mott insulators: Multichannel perspective and Feshbach resonance**|Lukas Homeier et.al.|[2312.02978v1](http://arxiv.org/abs/2312.02978v1)|null|
 |**2023-12-05**|**Resonant versus non-resonant spin readout of a nitrogen-vacancy center in diamond under cryogenic conditions**|Richard Monge et.al.|[2312.02907v1](http://arxiv.org/abs/2312.02907v1)|null|
 |**2023-12-05**|**Predicting the morphology of multiphase biomolecular condensates from protein interaction networks**|Tianhao Li et.al.|[2312.02806v1](http://arxiv.org/abs/2312.02806v1)|null|
-|**2023-12-05**|**Computing the Frequency-Dependent NMR Relaxation of $^1$ H Nuclei in Liquid Water**|Dietmar Paschek et.al.|[2312.02712v1](http://arxiv.org/abs/2312.02712v1)|null|
+|**2023-12-06**|**Computing the Frequency-Dependent NMR Relaxation of $^1$ H Nuclei in Liquid Water**|Dietmar Paschek et.al.|[2312.02712v2](http://arxiv.org/abs/2312.02712v2)|null|
 |**2023-12-05**|**M13-phage-based star-shaped particles with internal flexibility**|A. B. Zavala-Martinez et.al.|[2312.02678v1](http://arxiv.org/abs/2312.02678v1)|null|
 |**2023-12-05**|**Laser induced Flqouet topological phases in a 2D weak topological insulator with unconventional nonlinear dispersion**|Aayushi Agrawal et.al.|[2312.02474v1](http://arxiv.org/abs/2312.02474v1)|null|
 |**2023-12-05**|**Comparison of Linear Viscoelastic Behaviors of Langevin- and Jump-Rouse Models**|Takashi Uneyama et.al.|[2312.02402v1](http://arxiv.org/abs/2312.02402v1)|null|
@@ -4180,6 +4196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Universality in driven open quantum matter**|Lukas M. Sieberer et.al.|[2312.03073v1](http://arxiv.org/abs/2312.03073v1)|null|
 |**2023-11-29**|**Design of a millifluidic device for the evaluation of blue-light disinfection on Pseudomonas aeruginosa PA01 biofilm**|Nidia Maldonado Carmona et.al.|[2311.17788v1](http://arxiv.org/abs/2311.17788v1)|null|
 |**2023-11-24**|**Placement of Biological Membrane Patches in a Nanofluidic Gap with Control over Position and Orientation**|Francesca Ruggeri et.al.|[2311.14779v1](http://arxiv.org/abs/2311.14779v1)|null|
 |**2023-11-24**|**Light--absorbed orbital angular momentum in the linear response regime**|Philippe Scheid et.al.|[2311.14774v1](http://arxiv.org/abs/2311.14774v1)|null|
