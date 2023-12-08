@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Electrostatic-driven Self-assembly of Janus-like Monolayer-protected Metal Nanoclusters**|Anushna Bhattacharya et.al.|[2312.04531v1](http://arxiv.org/abs/2312.04531v1)|null|
+|**2023-12-07**|**Thermal phototactic bioconvection in a suspension of isotropic scattering phototactic microorganism**|S. K. Rajput et.al.|[2312.04508v1](http://arxiv.org/abs/2312.04508v1)|null|
+|**2023-12-07**|**Influence of Topology on the Ultrafast Carrier Dynamics in MoTe2**|Sara L. Zachritz et.al.|[2312.04496v1](http://arxiv.org/abs/2312.04496v1)|null|
+|**2023-12-07**|**Assembling PNIPAM-Capped Gold Nanoparticles in Aqueous Solutions**|Binay P. Nayak et.al.|[2312.04490v1](http://arxiv.org/abs/2312.04490v1)|null|
+|**2023-12-07**|**Colossal orbital Zeeman effect driven by tunable spin-Berry curvature in a kagome metal**|Hong Li et.al.|[2312.04445v1](http://arxiv.org/abs/2312.04445v1)|null|
+|**2023-12-07**|**Density-functional theory for clustering of two-dimensional hard particle fluids**|Yuri Martinez-Raton et.al.|[2312.04434v1](http://arxiv.org/abs/2312.04434v1)|null|
+|**2023-12-07**|**Freezing-induced topological transition of double-emulsion**|Jochem G. Meijer et.al.|[2312.04317v1](http://arxiv.org/abs/2312.04317v1)|null|
+|**2023-12-07**|**Elasticity tunes mechanical stress localization around active topological defects**|Lasse Bonn et.al.|[2312.04309v1](http://arxiv.org/abs/2312.04309v1)|null|
+|**2023-12-07**|**Effects of multiple edge cracks, shear force, elastic foundation, and boundary conditions on bucking of small-scale pillars**|Hossein Darban et.al.|[2312.04286v1](http://arxiv.org/abs/2312.04286v1)|null|
+|**2023-12-07**|**A Mott-Schottky Analysis of Mesoporous Silicon in Aqueous Electrolyte by Electrochemical Impedance Spectroscopy**|Manuel Brinker et.al.|[2312.04252v1](http://arxiv.org/abs/2312.04252v1)|null|
+|**2023-12-07**|**Total energy beyond GW : exact results and guidelines for approximations**|Abdallah El-Sahili et.al.|[2312.04154v1](http://arxiv.org/abs/2312.04154v1)|null|
+|**2023-12-07**|**Comparative study on compact quantum circuits of hybrid quantum-classical algorithms for quantum impurity models**|Rihito Sakurai et.al.|[2312.04105v1](http://arxiv.org/abs/2312.04105v1)|null|
+|**2023-12-07**|**Heat differentiated by projection from particles' trajectories onto the particle number-density field**|Takuya Saito et.al.|[2312.03983v1](http://arxiv.org/abs/2312.03983v1)|null|
+|**2023-12-06**|**Stochastic motion under nonlinear friction representing shear thinning**|Theo Lequy et.al.|[2312.03931v1](http://arxiv.org/abs/2312.03931v1)|null|
+|**2023-12-06**|**Spectral holographic trapping: Creating dynamic force landscapes with polyphonic waves**|Mia C. Morrell et.al.|[2312.03794v1](http://arxiv.org/abs/2312.03794v1)|null|
 |**2023-12-06**|**Mean-Field Analysis of the Glassy Dynamics of an Elastoplastic Model of Super-Cooled Liquids**|Joseph W. Baron et.al.|[2312.03627v1](http://arxiv.org/abs/2312.03627v1)|null|
 |**2023-12-06**|**Coherent pair injection as a route towards the enhancement of supersolid order in many-body bosonic models**|Emmanouil Grigoriou et.al.|[2312.03624v1](http://arxiv.org/abs/2312.03624v1)|null|
 |**2023-12-06**|**Mathematical model for fluoride-removal filters**|Lucy C. Auton et.al.|[2312.03547v1](http://arxiv.org/abs/2312.03547v1)|null|
@@ -4196,6 +4211,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Electromagnetic radiation from ultrafast-light-driven spintronic THz emitters: A time-dependent density functional theory plus Jefimenko equations approach**|Ali Kefayati et.al.|[2312.04476v1](http://arxiv.org/abs/2312.04476v1)|null|
 |**2023-12-05**|**Universality in driven open quantum matter**|Lukas M. Sieberer et.al.|[2312.03073v1](http://arxiv.org/abs/2312.03073v1)|null|
 |**2023-11-29**|**Design of a millifluidic device for the evaluation of blue-light disinfection on Pseudomonas aeruginosa PA01 biofilm**|Nidia Maldonado Carmona et.al.|[2311.17788v1](http://arxiv.org/abs/2311.17788v1)|null|
 |**2023-11-24**|**Placement of Biological Membrane Patches in a Nanofluidic Gap with Control over Position and Orientation**|Francesca Ruggeri et.al.|[2311.14779v1](http://arxiv.org/abs/2311.14779v1)|null|
@@ -4419,6 +4435,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Robust Topological Bound States in the Continuum in a Quantum Hall Bar with an Anti-dot**|Ricardo Y. Díaz-Bonifaz et.al.|[2312.04422v1](http://arxiv.org/abs/2312.04422v1)|null|
 |**2023-12-04**|**Emergent electric field induced by current-driven domain wall motion in a room-temperature antiferromagnet FeSn2**|Tomoyuki Yokouchi et.al.|[2312.01553v1](http://arxiv.org/abs/2312.01553v1)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269v1](http://arxiv.org/abs/2312.01269v1)|null|
 |**2023-11-30**|**Induced electromagnetic radiation from a charged cloud in a plane gravitational wave**|Vladimir Y. Epp et.al.|[2311.18247v1](http://arxiv.org/abs/2311.18247v1)|null|
@@ -4538,7 +4555,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-04**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614v1](http://arxiv.org/abs/2312.01614v1)|null|
+|**2023-12-07**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614v2](http://arxiv.org/abs/2312.01614v2)|null|
 |**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877v1](http://arxiv.org/abs/2312.00877v1)|null|
 |**2023-11-30**|**Anomalous Hall effect with plateaus observed in a magnetic Weyl semimetal NdAlGe at low temperatures**|Naoki Kikugawa et.al.|[2312.00222v1](http://arxiv.org/abs/2312.00222v1)|null|
 |**2023-11-30**|**Vanishing of the anomalous Hall effect and enhanced carrier mobility in the spin-gapless ferromagnetic Mn2CoGa1-xAlx alloys**|Cheng Zhang et.al.|[2311.18335v1](http://arxiv.org/abs/2311.18335v1)|null|
