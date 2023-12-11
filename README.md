@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Charging up the cold: Formation of doubly- and triply-charged fullerene dimers in superfluid helium nanodroplets**|Lisa Ganner et.al.|[2312.05151v1](http://arxiv.org/abs/2312.05151v1)|null|
+|**2023-12-08**|**A Nonlinear approach to Viscoelasticity via Rational Extended Thermodynamics**|Tommaso Ruggeri et.al.|[2312.05116v1](http://arxiv.org/abs/2312.05116v1)|null|
+|**2023-12-08**|**Towards an experimental proof of the magnonic Aharonov $-$ Casher effect**|Rostyslav O. Serha et.al.|[2312.05113v1](http://arxiv.org/abs/2312.05113v1)|null|
+|**2023-12-08**|**Spiralling molecular structures and chiral selectivity in model membranes**|Alexander P. Fellows et.al.|[2312.05074v1](http://arxiv.org/abs/2312.05074v1)|null|
+|**2023-12-08**|**Flow of asymmetric elongated particles**|Bo Fan et.al.|[2312.05050v1](http://arxiv.org/abs/2312.05050v1)|null|
+|**2023-12-08**|**Toward Modeling the Structure of Electrolytes at Charged Mineral Interfaces using Classical Density Functional Theory**|Thomas Petersen et.al.|[2312.04976v1](http://arxiv.org/abs/2312.04976v1)|null|
+|**2023-12-08**|**Floquet engineering of many-body states by the Ponderomotive potential**|Zhiyuan Sun et.al.|[2312.04892v1](http://arxiv.org/abs/2312.04892v1)|null|
+|**2023-12-07**|**Why neural functionals suit statistical mechanics**|Florian Sammüller et.al.|[2312.04681v1](http://arxiv.org/abs/2312.04681v1)|null|
 |**2023-12-07**|**Electrostatic-driven Self-assembly of Janus-like Monolayer-protected Metal Nanoclusters**|Anushna Bhattacharya et.al.|[2312.04531v1](http://arxiv.org/abs/2312.04531v1)|null|
 |**2023-12-07**|**Thermal phototactic bioconvection in a suspension of isotropic scattering phototactic microorganism**|S. K. Rajput et.al.|[2312.04508v1](http://arxiv.org/abs/2312.04508v1)|null|
 |**2023-12-07**|**Influence of Topology on the Ultrafast Carrier Dynamics in MoTe2**|Sara L. Zachritz et.al.|[2312.04496v1](http://arxiv.org/abs/2312.04496v1)|null|
@@ -4435,6 +4443,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v1](http://arxiv.org/abs/2312.04592v1)|null|
 |**2023-12-07**|**Robust Topological Bound States in the Continuum in a Quantum Hall Bar with an Anti-dot**|Ricardo Y. Díaz-Bonifaz et.al.|[2312.04422v1](http://arxiv.org/abs/2312.04422v1)|null|
 |**2023-12-04**|**Emergent electric field induced by current-driven domain wall motion in a room-temperature antiferromagnet FeSn2**|Tomoyuki Yokouchi et.al.|[2312.01553v1](http://arxiv.org/abs/2312.01553v1)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269v1](http://arxiv.org/abs/2312.01269v1)|null|
@@ -4709,6 +4718,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Magnetic Order and Magnetic Excitations in FeTe: How Good is a Short-Range Heisenberg Model?**|Joe Marshall et.al.|[2312.05196v1](http://arxiv.org/abs/2312.05196v1)|null|
 |**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
 |**2023-11-23**|**Quantum spin dynamics due to strong Kitaev interactions in the triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13146v2](http://arxiv.org/abs/2311.13146v2)|null|
 |**2023-11-23**|**Stripe magnetic order and field-induced quantum criticality in the perfect triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13143v2](http://arxiv.org/abs/2311.13143v2)|null|
