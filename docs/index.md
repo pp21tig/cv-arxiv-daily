@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Modular DNA origami-based electrochemical detection of DNA and proteins**|Byoung-jin Jeon et.al.|[2312.06554v1](http://arxiv.org/abs/2312.06554v1)|null|
+|**2023-12-11**|**Comparison of time-of-flight with MIEZE spectroscopy of H $_2$ O: Necessity to go beyond the spin-echo approximation**|L. Beddrich et.al.|[2312.06449v1](http://arxiv.org/abs/2312.06449v1)|null|
+|**2023-12-11**|**Effects of coordination and stiffness scale-separation in disordered elastic networks**|Edan Lerner et.al.|[2312.06427v1](http://arxiv.org/abs/2312.06427v1)|null|
+|**2023-12-11**|**Dynamical exciton condensates in biased electron-hole bilayers**|Zhiyuan Sun et.al.|[2312.06426v1](http://arxiv.org/abs/2312.06426v1)|null|
+|**2023-12-11**|**How do particles with complex interactions self-assemble?**|Lara Koehler et.al.|[2312.06350v1](http://arxiv.org/abs/2312.06350v1)|null|
+|**2023-12-11**|**Superdiffusion of vortices in two-component quantum fluids of light**|M. Roldão et.al.|[2312.06319v1](http://arxiv.org/abs/2312.06319v1)|null|
+|**2023-12-11**|**Polyhedrons from Diblock Copolymer Solutions Confined in Spherical Nanopores**|Jiaping Wu et.al.|[2312.06271v1](http://arxiv.org/abs/2312.06271v1)|null|
+|**2023-12-11**|**Self-assembly of Colloids with Competing Interactions Confined in Spheres**|Ningyi Li et.al.|[2312.06262v1](http://arxiv.org/abs/2312.06262v1)|null|
+|**2023-12-11**|**Measurement of the depth-dependent local dynamics in thin polymer films through rejuvenation of ultrastable glasses**|Saba Karimi et.al.|[2312.06210v1](http://arxiv.org/abs/2312.06210v1)|null|
+|**2023-12-11**|**Building rigid networks with prestress and selective pruning**|Marco Aurelio Galvani Cunha et.al.|[2312.06119v1](http://arxiv.org/abs/2312.06119v1)|null|
+|**2023-12-10**|**Emerging universality classes in thermally-assisted activation of interacting diffusive systems: A perturbative hydrodynamic approach**|Vishwajeet Kumar et.al.|[2312.05839v1](http://arxiv.org/abs/2312.05839v1)|null|
+|**2023-12-09**|**Can silica nanoparticles improve lithium transport in polymer electrolytes?**|Joel Martin Dalmas et.al.|[2312.05681v1](http://arxiv.org/abs/2312.05681v1)|null|
+|**2023-12-09**|**Microtube self-assembly leads to conformational freezing point depression**|Tatiana Komarova et.al.|[2312.05637v1](http://arxiv.org/abs/2312.05637v1)|null|
+|**2023-12-09**|**Asymptotic analysis of particle cluster formation in the presence of anchoring sites**|Paul C Bressloff et.al.|[2312.05558v1](http://arxiv.org/abs/2312.05558v1)|null|
+|**2023-12-09**|**Deformation and motion of giant unilamellar vesicles loaded with gold nanoparticles driven by induced charge electro-osmotic flow**|Kotaro Nakazawa et.al.|[2312.05545v1](http://arxiv.org/abs/2312.05545v1)|null|
+|**2023-12-09**|**Marangoni spreading on liquid substrates in new media art**|San To Chan et.al.|[2312.05518v1](http://arxiv.org/abs/2312.05518v1)|null|
+|**2023-12-08**|**Programmable patchy particles for materials design**|Ella M. King et.al.|[2312.05360v1](http://arxiv.org/abs/2312.05360v1)|null|
 |**2023-12-08**|**Charging up the cold: Formation of doubly- and triply-charged fullerene dimers in superfluid helium nanodroplets**|Lisa Ganner et.al.|[2312.05151v1](http://arxiv.org/abs/2312.05151v1)|null|
 |**2023-12-08**|**A Nonlinear approach to Viscoelasticity via Rational Extended Thermodynamics**|Tommaso Ruggeri et.al.|[2312.05116v1](http://arxiv.org/abs/2312.05116v1)|null|
 |**2023-12-08**|**Towards an experimental proof of the magnonic Aharonov $-$ Casher effect**|Rostyslav O. Serha et.al.|[2312.05113v1](http://arxiv.org/abs/2312.05113v1)|null|
@@ -4223,6 +4240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**An atomic probe of dark matter differential interactions with elementary particles**|Yossi Rosenzweig et.al.|[2312.05894v1](http://arxiv.org/abs/2312.05894v1)|null|
 |**2023-12-07**|**Electromagnetic radiation from ultrafast-light-driven spintronic THz emitters: A time-dependent density functional theory plus Jefimenko equations approach**|Ali Kefayati et.al.|[2312.04476v1](http://arxiv.org/abs/2312.04476v1)|null|
 |**2023-12-05**|**Universality in driven open quantum matter**|Lukas M. Sieberer et.al.|[2312.03073v1](http://arxiv.org/abs/2312.03073v1)|null|
 |**2023-11-29**|**Design of a millifluidic device for the evaluation of blue-light disinfection on Pseudomonas aeruginosa PA01 biofilm**|Nidia Maldonado Carmona et.al.|[2311.17788v1](http://arxiv.org/abs/2311.17788v1)|null|
