@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Black hole shadows of massive particles and photons in plasma**|Kirill Kobialko et.al.|[2312.07498v1](http://arxiv.org/abs/2312.07498v1)|null|
+|**2023-12-12**|**Investigating Lipid Bilayer Self-Assembly and Formation of Ripple Phase: Insights from a Coarse-Grained Implicit Solvent Model**|Biplab Bawali et.al.|[2312.07417v1](http://arxiv.org/abs/2312.07417v1)|null|
+|**2023-12-12**|**Lattice Boltzmann simulation of deformable fluid-filled bodies: progress and perspectives**|Danilo P. F. Silva et.al.|[2312.07369v1](http://arxiv.org/abs/2312.07369v1)|null|
+|**2023-12-12**|**Strain fingerprinting of exciton valley character**|Abhijeet Kumar et.al.|[2312.07332v1](http://arxiv.org/abs/2312.07332v1)|null|
+|**2023-12-12**|**Amino acid characteristics in protein native state structures**|Tatjana Škrbić et.al.|[2312.07304v1](http://arxiv.org/abs/2312.07304v1)|null|
+|**2023-12-12**|**Structure of rotator phases formed in C $_{13}$-C$_{21}$ alkanes and their mixtures: in bulk and in emulsion drops**|Diana Cholakova et.al.|[2312.07301v1](http://arxiv.org/abs/2312.07301v1)|null|
+|**2023-12-12**|**III. Geometrical framework for thinking about globular proteins: turns in proteins**|Tatjana Škrbić et.al.|[2312.07293v1](http://arxiv.org/abs/2312.07293v1)|null|
+|**2023-12-12**|**Chemically Active Wetting**|Susanne Liese et.al.|[2312.07239v1](http://arxiv.org/abs/2312.07239v1)|null|
+|**2023-12-12**|**Nanoscopic Interfacial Hydrogel Viscoelasticity Revealed from Comparison of Macroscopic and Microscopic Rheology**|Robert F. Schmidt et.al.|[2312.07229v1](http://arxiv.org/abs/2312.07229v1)|null|
+|**2023-12-12**|**Analysis of Thixotropic Timescale**|Yogesh M Joshi et.al.|[2312.07148v1](http://arxiv.org/abs/2312.07148v1)|null|
+|**2023-12-12**|**Field-induced superconductivity mediated by odd-parity multipole fluctuation**|Kosuke Nogaki et.al.|[2312.07053v1](http://arxiv.org/abs/2312.07053v1)|null|
+|**2023-12-12**|**Effect of shear flow on the transverse thermal conductivity of polymer melts**|Kotaro Oda et.al.|[2312.07027v1](http://arxiv.org/abs/2312.07027v1)|null|
+|**2023-12-12**|**Shape-dependent motility of polar inclusions in active baths**|Pritha Dolai et.al.|[2312.06997v1](http://arxiv.org/abs/2312.06997v1)|null|
+|**2023-12-12**|**Engineering Moiré Meta-crystals with Conventional Photonic and Phononic Structures**|Mourad Oudich et.al.|[2312.06970v1](http://arxiv.org/abs/2312.06970v1)|null|
+|**2023-12-12**|**Kondo coherence versus superradiance in THz radiation-driven heavy-fermion systems**|Chia-Jung Yang et.al.|[2312.06931v1](http://arxiv.org/abs/2312.06931v1)|null|
+|**2023-12-11**|**Interplay of gain and loss in arrays of nonlinear plasmonic nanoparticles: toward parametric downconversion and amplification**|Syed A. Shah et.al.|[2312.06897v1](http://arxiv.org/abs/2312.06897v1)|null|
+|**2023-12-11**|**In situ X-ray scattering reveals coarsening rates of superlattices self-assembled from electrostatically stabilized metal nanocrystals depend non-monotonically on driving force**|Christian P. N. Tanner et.al.|[2312.06852v1](http://arxiv.org/abs/2312.06852v1)|null|
 |**2023-12-11**|**Modular DNA origami-based electrochemical detection of DNA and proteins**|Byoung-jin Jeon et.al.|[2312.06554v1](http://arxiv.org/abs/2312.06554v1)|null|
 |**2023-12-11**|**Comparison of time-of-flight with MIEZE spectroscopy of H $_2$ O: Necessity to go beyond the spin-echo approximation**|L. Beddrich et.al.|[2312.06449v1](http://arxiv.org/abs/2312.06449v1)|null|
 |**2023-12-11**|**Effects of coordination and stiffness scale-separation in disordered elastic networks**|Edan Lerner et.al.|[2312.06427v1](http://arxiv.org/abs/2312.06427v1)|null|
@@ -4240,6 +4257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Kondo coherence versus superradiance in THz radiation-driven heavy-fermion systems**|Chia-Jung Yang et.al.|[2312.06931v1](http://arxiv.org/abs/2312.06931v1)|null|
 |**2023-12-10**|**An atomic probe of dark matter differential interactions with elementary particles**|Yossi Rosenzweig et.al.|[2312.05894v1](http://arxiv.org/abs/2312.05894v1)|null|
 |**2023-12-07**|**Electromagnetic radiation from ultrafast-light-driven spintronic THz emitters: A time-dependent density functional theory plus Jefimenko equations approach**|Ali Kefayati et.al.|[2312.04476v1](http://arxiv.org/abs/2312.04476v1)|null|
 |**2023-12-05**|**Universality in driven open quantum matter**|Lukas M. Sieberer et.al.|[2312.03073v1](http://arxiv.org/abs/2312.03073v1)|null|
@@ -4586,6 +4604,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Giant domain wall anomalous Hall effect in an antiferromagnet**|Wei Xia et.al.|[2312.07336v1](http://arxiv.org/abs/2312.07336v1)|null|
 |**2023-12-07**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614v2](http://arxiv.org/abs/2312.01614v2)|null|
 |**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877v1](http://arxiv.org/abs/2312.00877v1)|null|
 |**2023-11-30**|**Anomalous Hall effect with plateaus observed in a magnetic Weyl semimetal NdAlGe at low temperatures**|Naoki Kikugawa et.al.|[2312.00222v1](http://arxiv.org/abs/2312.00222v1)|null|
@@ -4595,7 +4614,7 @@ layout: default
 |**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626v1](http://arxiv.org/abs/2311.14626v1)|null|
 |**2023-11-24**|**Even-in-magnetic-field part of transverse resistivity as a probe of magnetic order**|Antonin Badura et.al.|[2311.14498v1](http://arxiv.org/abs/2311.14498v1)|null|
 |**2023-11-24**|**Multiple superconducting phases driven by pressure in the topological insulator GeSb4Te7**|W. Zhou et.al.|[2311.14472v1](http://arxiv.org/abs/2311.14472v1)|null|
-|**2023-11-24**|**Theory of fractional Chern insulator states in pentalayer graphene moiré superlattice**|Zhongqing Guo et.al.|[2311.14368v1](http://arxiv.org/abs/2311.14368v1)|null|
+|**2023-12-12**|**Theory of fractional Chern insulator states in pentalayer graphene moiré superlattice**|Zhongqing Guo et.al.|[2311.14368v2](http://arxiv.org/abs/2311.14368v2)|null|
 |**2023-11-22**|**Rashba-splitting-induced topological flat band detected by anomalous resistance oscillations beyond the quantum limit in ZrTe $_5$**|Dong Xing et.al.|[2311.13346v1](http://arxiv.org/abs/2311.13346v1)|null|
 |**2023-11-17**|**Structural and magnetic properties of molecular beam epitaxy (MnSb2Te4)x(Sb2Te3)1-x topological materials with exceedingly high Curie temperature**|Candice R. Forrester et.al.|[2311.10891v1](http://arxiv.org/abs/2311.10891v1)|null|
 |**2023-11-13**|**Robust magnetic proximity induced anomalous Hall effect in a room temperature van der Waals ferromagnetic semiconductor based 2D heterostructure**|Hao Wu et.al.|[2311.07183v1](http://arxiv.org/abs/2311.07183v1)|null|
@@ -4740,6 +4759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449v1](http://arxiv.org/abs/2312.07449v1)|null|
 |**2023-12-08**|**Magnetic Order and Magnetic Excitations in FeTe: How Good is a Short-Range Heisenberg Model?**|Joe Marshall et.al.|[2312.05196v1](http://arxiv.org/abs/2312.05196v1)|null|
 |**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
 |**2023-11-23**|**Quantum spin dynamics due to strong Kitaev interactions in the triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13146v2](http://arxiv.org/abs/2311.13146v2)|null|
