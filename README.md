@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Toolbox for nonreciprocal dispersive models in circuit QED**|Lautaro Labarca et.al.|[2312.08354v1](http://arxiv.org/abs/2312.08354v1)|null|
+|**2023-12-13**|**Anti-Diffusion in an Algae-Bacteria Microcosm: Photosynthesis, Chemotaxis, and Expulsion**|Praneet Prakash et.al.|[2312.08346v1](http://arxiv.org/abs/2312.08346v1)|null|
+|**2023-12-13**|**Strain, Anharmonicity and Finite-Size Effects on the Vibrational Properties of Linear Carbon Chains**|Graziâni Candiotto et.al.|[2312.08139v1](http://arxiv.org/abs/2312.08139v1)|null|
+|**2023-12-13**|**Purely elastic turbulence in pressure-driven channel flows**|Martin Lellep et.al.|[2312.08091v1](http://arxiv.org/abs/2312.08091v1)|null|
+|**2023-12-13**|**Direct visualization of molecular stacking in quasi-2D hexagonal ice**|Yangrui Liu et.al.|[2312.08073v1](http://arxiv.org/abs/2312.08073v1)|null|
+|**2023-12-13**|**Effects of liquid fraction and contact angle on structure and coarsening in two-dimensional foams**|Jacob Morgan et.al.|[2312.08014v1](http://arxiv.org/abs/2312.08014v1)|null|
+|**2023-12-13**|**Analytical Expression for Fracture Profile in Viscoelastic Crack Propagation**|Hokuto Nagatakiya et.al.|[2312.07916v1](http://arxiv.org/abs/2312.07916v1)|null|
+|**2023-12-13**|**Easy bootstrap for the 3D Ising model**|Wenliang Li et.al.|[2312.07866v1](http://arxiv.org/abs/2312.07866v1)|null|
+|**2023-12-12**|**Tuning Colloidal Reactions**|Ryan Krueger et.al.|[2312.07798v1](http://arxiv.org/abs/2312.07798v1)|null|
+|**2023-12-12**|**Force on a sphere suspended in flowing granulate**|Jing Wang et.al.|[2312.07764v1](http://arxiv.org/abs/2312.07764v1)|null|
+|**2023-12-12**|**Dynamics and fluctuations of minimally-structured glass formers**|Patrick Charbonneau et.al.|[2312.07643v1](http://arxiv.org/abs/2312.07643v1)|null|
 |**2023-12-12**|**Black hole shadows of massive particles and photons in plasma**|Kirill Kobialko et.al.|[2312.07498v1](http://arxiv.org/abs/2312.07498v1)|null|
 |**2023-12-12**|**Investigating Lipid Bilayer Self-Assembly and Formation of Ripple Phase: Insights from a Coarse-Grained Implicit Solvent Model**|Biplab Bawali et.al.|[2312.07417v1](http://arxiv.org/abs/2312.07417v1)|null|
 |**2023-12-12**|**Lattice Boltzmann simulation of deformable fluid-filled bodies: progress and perspectives**|Danilo P. F. Silva et.al.|[2312.07369v1](http://arxiv.org/abs/2312.07369v1)|null|
@@ -4253,6 +4264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Ultrafast light-induced magnetization in non-magnetic films: from orbital and spin Hall phenomena to the inverse Faraday effect**|Hanan Hamamera et.al.|[2312.07888v1](http://arxiv.org/abs/2312.07888v1)|null|
 |**2023-12-12**|**Kondo coherence versus superradiance in THz radiation-driven heavy-fermion systems**|Chia-Jung Yang et.al.|[2312.06931v1](http://arxiv.org/abs/2312.06931v1)|null|
 |**2023-12-10**|**An atomic probe of dark matter differential interactions with elementary particles**|Yossi Rosenzweig et.al.|[2312.05894v1](http://arxiv.org/abs/2312.05894v1)|null|
 |**2023-12-07**|**Electromagnetic radiation from ultrafast-light-driven spintronic THz emitters: A time-dependent density functional theory plus Jefimenko equations approach**|Ali Kefayati et.al.|[2312.04476v1](http://arxiv.org/abs/2312.04476v1)|null|
@@ -4479,6 +4491,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
+|**2023-12-13**|**Antiparallel spin polarization and spin current induced by thermal current and locally-broken inversion symmetry in a double-quantum-well structure**|Yuta Suzuki et.al.|[2312.07944v1](http://arxiv.org/abs/2312.07944v1)|null|
 |**2023-12-05**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v1](http://arxiv.org/abs/2312.04592v1)|null|
 |**2023-12-07**|**Robust Topological Bound States in the Continuum in a Quantum Hall Bar with an Anti-dot**|Ricardo Y. Díaz-Bonifaz et.al.|[2312.04422v1](http://arxiv.org/abs/2312.04422v1)|null|
 |**2023-12-04**|**Emergent electric field induced by current-driven domain wall motion in a room-temperature antiferromagnet FeSn2**|Tomoyuki Yokouchi et.al.|[2312.01553v1](http://arxiv.org/abs/2312.01553v1)|null|
@@ -4755,6 +4769,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Kernel Polynomial Method for Linear Spin Wave Theory**|Harry Lane et.al.|[2312.08349v1](http://arxiv.org/abs/2312.08349v1)|null|
 |**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449v1](http://arxiv.org/abs/2312.07449v1)|null|
 |**2023-12-08**|**Magnetic Order and Magnetic Excitations in FeTe: How Good is a Short-Range Heisenberg Model?**|Joe Marshall et.al.|[2312.05196v1](http://arxiv.org/abs/2312.05196v1)|null|
 |**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
