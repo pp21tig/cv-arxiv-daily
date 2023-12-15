@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Absence of a direct metal to Mott insulator transition for disordered interacting fermions on the Cayley tree**|Ankita Chakrabarti et.al.|[2312.09247v1](http://arxiv.org/abs/2312.09247v1)|null|
+|**2023-12-14**|**Self-organisation of auto-phoretic suspensions in confined shear flows**|Prathmesh Vinze et.al.|[2312.09178v1](http://arxiv.org/abs/2312.09178v1)|null|
+|**2023-12-14**|**Giant chirality-induced spin polarization in twisted transition metal dichalcogenides**|Guido Menichetti et.al.|[2312.09169v1](http://arxiv.org/abs/2312.09169v1)|null|
+|**2023-12-14**|**The effects of dynamic binding on the phase behaviour and properties of polymer blends undergoing complex coacervation**|Zuzanna M. Jedlinska et.al.|[2312.09163v1](http://arxiv.org/abs/2312.09163v1)|null|
+|**2023-12-14**|**Layer topology of smectic grain boundaries**|René Wittmann et.al.|[2312.08964v1](http://arxiv.org/abs/2312.08964v1)|null|
+|**2023-12-14**|**Collective Strong Coupling Modifies Aggregation and Solvation**|Matteo Castagnola et.al.|[2312.08814v1](http://arxiv.org/abs/2312.08814v1)|null|
+|**2023-12-14**|**Oscillating edge current in polar active fluid**|Hiroki Matsukiyo et.al.|[2312.08788v1](http://arxiv.org/abs/2312.08788v1)|null|
+|**2023-12-14**|**Anisotropic swelling due to hydration in fibrous biomaterials**|Xander A. Gouws et.al.|[2312.08771v1](http://arxiv.org/abs/2312.08771v1)|null|
+|**2023-12-14**|**VASP2KP: kp models and Lande g-factors from ab initio calculations**|Sheng Zhang et.al.|[2312.08729v1](http://arxiv.org/abs/2312.08729v1)|null|
+|**2023-12-14**|**Real-time Autonomous Control of a Continuous Macroscopic Process as Demonstrated by Plastic Forming**|Shun Muroga et.al.|[2312.08658v1](http://arxiv.org/abs/2312.08658v1)|null|
+|**2023-12-14**|**Proofreading mechanism for colloidal self-assembly**|Qian-Ze Zhu et.al.|[2312.08619v1](http://arxiv.org/abs/2312.08619v1)|null|
+|**2023-12-14**|**Simulations of Thin Polymer Films on Flat and Curved Substrates**|Gabriel Catalini et.al.|[2312.08582v1](http://arxiv.org/abs/2312.08582v1)|null|
+|**2023-12-13**|**Emergence of Disordered Hyperuniformity in Melts of Linear Diblock Copolymers**|Duyu Chen et.al.|[2312.08541v1](http://arxiv.org/abs/2312.08541v1)|null|
+|**2023-12-13**|**Theory of Optomechanical Locking in Driven-Dissipative Coupled Polariton Condensates**|I. A. Ramos Pérez et.al.|[2312.08420v1](http://arxiv.org/abs/2312.08420v1)|null|
 |**2023-12-13**|**Toolbox for nonreciprocal dispersive models in circuit QED**|Lautaro Labarca et.al.|[2312.08354v1](http://arxiv.org/abs/2312.08354v1)|null|
 |**2023-12-13**|**Anti-Diffusion in an Algae-Bacteria Microcosm: Photosynthesis, Chemotaxis, and Expulsion**|Praneet Prakash et.al.|[2312.08346v1](http://arxiv.org/abs/2312.08346v1)|null|
 |**2023-12-13**|**Strain, Anharmonicity and Finite-Size Effects on the Vibrational Properties of Linear Carbon Chains**|Graziâni Candiotto et.al.|[2312.08139v1](http://arxiv.org/abs/2312.08139v1)|null|
@@ -4282,7 +4296,7 @@ layout: default
 |**2023-11-16**|**Light-induced ideal Weyl semimetal in HgTe via nonlinear phononics**|Dongbin Shin et.al.|[2311.09583v1](http://arxiv.org/abs/2311.09583v1)|null|
 |**2023-11-14**|**Light-Induced Microwave Noise in Superconducting Microwave-Optical Transducers**|Mingrui Xu et.al.|[2311.08518v1](http://arxiv.org/abs/2311.08518v1)|null|
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
-|**2023-11-13**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v1](http://arxiv.org/abs/2311.07252v1)|null|
+|**2023-12-14**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v2](http://arxiv.org/abs/2311.07252v2)|null|
 |**2023-11-10**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v2](http://arxiv.org/abs/2311.05507v2)|null|
 |**2023-11-08**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v1](http://arxiv.org/abs/2311.04460v1)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
@@ -4495,6 +4509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v1](http://arxiv.org/abs/2312.08574v1)|null|
 |**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
 |**2023-12-13**|**Antiparallel spin polarization and spin current induced by thermal current and locally-broken inversion symmetry in a double-quantum-well structure**|Yuta Suzuki et.al.|[2312.07944v1](http://arxiv.org/abs/2312.07944v1)|null|
 |**2023-12-05**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v1](http://arxiv.org/abs/2312.04592v1)|null|
@@ -4618,6 +4633,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687v1](http://arxiv.org/abs/2312.08687v1)|null|
 |**2023-12-12**|**Giant domain wall anomalous Hall effect in an antiferromagnet**|Wei Xia et.al.|[2312.07336v1](http://arxiv.org/abs/2312.07336v1)|null|
 |**2023-12-07**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614v2](http://arxiv.org/abs/2312.01614v2)|null|
 |**2023-12-01**|**Effective field theory of Berry Landau Fermi liquid from the coadjoint orbit method**|Xiaoyang Huang et.al.|[2312.00877v1](http://arxiv.org/abs/2312.00877v1)|null|
@@ -4774,7 +4790,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-13**|**Kernel Polynomial Method for Linear Spin Wave Theory**|Harry Lane et.al.|[2312.08349v1](http://arxiv.org/abs/2312.08349v1)|null|
-|**2023-12-12**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449v1](http://arxiv.org/abs/2312.07449v1)|null|
+|**2023-12-14**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449v2](http://arxiv.org/abs/2312.07449v2)|null|
 |**2023-12-08**|**Magnetic Order and Magnetic Excitations in FeTe: How Good is a Short-Range Heisenberg Model?**|Joe Marshall et.al.|[2312.05196v1](http://arxiv.org/abs/2312.05196v1)|null|
 |**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
 |**2023-11-23**|**Quantum spin dynamics due to strong Kitaev interactions in the triangular-lattice antiferromagnet CsCeSe $_2$**|Tao Xie et.al.|[2311.13146v2](http://arxiv.org/abs/2311.13146v2)|null|
