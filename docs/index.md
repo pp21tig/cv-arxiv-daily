@@ -1127,7 +1127,7 @@ layout: default
 |**2023-12-12**|**Tuning Colloidal Reactions**|Ryan Krueger et.al.|[2312.07798v1](http://arxiv.org/abs/2312.07798v1)|null|
 |**2023-12-12**|**Force on a sphere suspended in flowing granulate**|Jing Wang et.al.|[2312.07764v1](http://arxiv.org/abs/2312.07764v1)|null|
 |**2023-12-12**|**Dynamics and fluctuations of minimally-structured glass formers**|Patrick Charbonneau et.al.|[2312.07643v1](http://arxiv.org/abs/2312.07643v1)|null|
-|**2023-12-12**|**Black hole shadows of massive particles and photons in plasma**|Kirill Kobialko et.al.|[2312.07498v1](http://arxiv.org/abs/2312.07498v1)|null|
+|**2023-12-14**|**Black hole shadows of massive particles and photons in plasma**|Kirill Kobialko et.al.|[2312.07498v2](http://arxiv.org/abs/2312.07498v2)|null|
 |**2023-12-12**|**Investigating Lipid Bilayer Self-Assembly and Formation of Ripple Phase: Insights from a Coarse-Grained Implicit Solvent Model**|Biplab Bawali et.al.|[2312.07417v1](http://arxiv.org/abs/2312.07417v1)|null|
 |**2023-12-12**|**Lattice Boltzmann simulation of deformable fluid-filled bodies: progress and perspectives**|Danilo P. F. Silva et.al.|[2312.07369v1](http://arxiv.org/abs/2312.07369v1)|null|
 |**2023-12-12**|**Strain fingerprinting of exciton valley character**|Abhijeet Kumar et.al.|[2312.07332v1](http://arxiv.org/abs/2312.07332v1)|null|
