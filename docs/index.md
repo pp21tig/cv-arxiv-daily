@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Non-monotonic temperature dependence of electron viscosity and crossover to high-temperature universal viscous fluid in monolayer and bilayer graphene**|Indra Yudhistira et.al.|[2312.09701v1](http://arxiv.org/abs/2312.09701v1)|null|
+|**2023-12-15**|**Stress correlations in near-crystalline packings**|Roshan Maharana et.al.|[2312.09555v1](http://arxiv.org/abs/2312.09555v1)|null|
+|**2023-12-15**|**Effective interactions, structure, and pressure in charge-stabilized colloidal suspensions: Critical assessment of charge renormalization methods**|Mariano E. Brito et.al.|[2312.09543v1](http://arxiv.org/abs/2312.09543v1)|null|
+|**2023-12-15**|**Osmotic Swelling Behavior of Surface-Charged Ionic Microgels**|Mohammed O. Alziyadi et.al.|[2312.09519v1](http://arxiv.org/abs/2312.09519v1)|null|
+|**2023-12-15**|**Osmotic Pressure and Swelling Behavior of Ionic Microcapsules**|Mohammed O. Alziyadi et.al.|[2312.09515v1](http://arxiv.org/abs/2312.09515v1)|null|
+|**2023-12-15**|**Emergence and Growth Dynamics of Wetting-induced Phase Separation on Soft Solids**|Wenjie Qian et.al.|[2312.09493v1](http://arxiv.org/abs/2312.09493v1)|null|
+|**2023-12-15**|**Efficient Machine Learning Force Field for Large-Scale Molecular Simulations of Organic Systems**|Junbao Hu et.al.|[2312.09490v1](http://arxiv.org/abs/2312.09490v1)|null|
+|**2023-12-15**|**Fermionic quartet and vestigial gravity**|G. E. Volovik et.al.|[2312.09435v1](http://arxiv.org/abs/2312.09435v1)|null|
+|**2023-12-14**|**Spatial Confinement Affects the Heterogeneity and Interactions Between Shoaling Fish**|Gabriel Kuntz et.al.|[2312.09375v1](http://arxiv.org/abs/2312.09375v1)|null|
+|**2023-12-14**|**Self-Diffusion and Structure of a Quasi Two-Dimensional, Classical Coulomb Gas Under Increasing Magnetic Field and Temperature**|J. D. Hernández Velázquez et.al.|[2312.09318v1](http://arxiv.org/abs/2312.09318v1)|null|
+|**2023-12-14**|**Exploring thermal equilibria of the Fermi-Hubbard model with variational quantum algorithms**|Jack Y. Araz et.al.|[2312.09292v1](http://arxiv.org/abs/2312.09292v1)|null|
+|**2023-12-14**|**Non-invertible symmetry-protected topological order in a group-based cluster state**|Christopher Fechisin et.al.|[2312.09272v1](http://arxiv.org/abs/2312.09272v1)|null|
 |**2023-12-14**|**Absence of a direct metal to Mott insulator transition for disordered interacting fermions on the Cayley tree**|Ankita Chakrabarti et.al.|[2312.09247v1](http://arxiv.org/abs/2312.09247v1)|null|
 |**2023-12-14**|**Self-organisation of auto-phoretic suspensions in confined shear flows**|Prathmesh Vinze et.al.|[2312.09178v1](http://arxiv.org/abs/2312.09178v1)|null|
 |**2023-12-14**|**Giant chirality-induced spin polarization in twisted transition metal dichalcogenides**|Guido Menichetti et.al.|[2312.09169v1](http://arxiv.org/abs/2312.09169v1)|null|
