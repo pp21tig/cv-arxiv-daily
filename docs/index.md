@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Hydrodynamic interactions in anomalous rheology of active suspensions**|Haruki Hayano et.al.|[2312.10852v1](http://arxiv.org/abs/2312.10852v1)|null|
+|**2023-12-17**|**Microrheology of active suspensions**|Takahiro Kanazawa et.al.|[2312.10760v1](http://arxiv.org/abs/2312.10760v1)|null|
+|**2023-12-17**|**Surface Tension of Aqueous Electrolyte Solutions. Thermomechanical Approach**|Yury A. Budkov et.al.|[2312.10753v1](http://arxiv.org/abs/2312.10753v1)|null|
+|**2023-12-17**|**Chemical herding as a multiplicative factor for top-down manipulation of colloids**|Mark N. McDonald et.al.|[2312.10612v1](http://arxiv.org/abs/2312.10612v1)|null|
+|**2023-12-17**|**Spool-nematic ordering of dsDNA and dsRNA under confinement**|James Farrell et.al.|[2312.10591v1](http://arxiv.org/abs/2312.10591v1)|null|
+|**2023-12-16**|**Dynamics of Meniscus-Bound Particle Clusters in Extensional Flow**|Sagar Chaudhary et.al.|[2312.10562v1](http://arxiv.org/abs/2312.10562v1)|null|
+|**2023-12-16**|**Effect of the presence of pinned particles on the structural parameters of a liquid and correlation between structure and dynamics at the local level**|Palak Patel et.al.|[2312.10353v1](http://arxiv.org/abs/2312.10353v1)|null|
+|**2023-12-15**|**Magnon Bose-Einstein condensates: from time crystals and quantum chromodynamics to vortex sensing and cosmology**|Jere T. Mäkinen et.al.|[2312.10119v1](http://arxiv.org/abs/2312.10119v1)|null|
 |**2023-12-15**|**Non-monotonic temperature dependence of electron viscosity and crossover to high-temperature universal viscous fluid in monolayer and bilayer graphene**|Indra Yudhistira et.al.|[2312.09701v1](http://arxiv.org/abs/2312.09701v1)|null|
 |**2023-12-15**|**Stress correlations in near-crystalline packings**|Roshan Maharana et.al.|[2312.09555v1](http://arxiv.org/abs/2312.09555v1)|null|
 |**2023-12-15**|**Effective interactions, structure, and pressure in charge-stabilized colloidal suspensions: Critical assessment of charge renormalization methods**|Mariano E. Brito et.al.|[2312.09543v1](http://arxiv.org/abs/2312.09543v1)|null|
@@ -4310,7 +4318,7 @@ layout: default
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
 |**2023-12-14**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v2](http://arxiv.org/abs/2311.07252v2)|null|
 |**2023-11-10**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v2](http://arxiv.org/abs/2311.05507v2)|null|
-|**2023-11-08**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v1](http://arxiv.org/abs/2311.04460v1)|null|
+|**2023-12-18**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v2](http://arxiv.org/abs/2311.04460v2)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
 |**2023-10-25**|**Photo-induced electronic and spin topological phase transitions in monolayer bismuth**|Bo Peng et.al.|[2310.16886v1](http://arxiv.org/abs/2310.16886v1)|null|
@@ -4521,6 +4529,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-16**|**Predicted Multiple Walker Breakdowns for Current-Driven Domain-Wall Motion in Antiferromagnets**|Mu-Kun Lee et.al.|[2312.10337v1](http://arxiv.org/abs/2312.10337v1)|null|
 |**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v1](http://arxiv.org/abs/2312.08574v1)|null|
 |**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
 |**2023-12-13**|**Antiparallel spin polarization and spin current induced by thermal current and locally-broken inversion symmetry in a double-quantum-well structure**|Yuta Suzuki et.al.|[2312.07944v1](http://arxiv.org/abs/2312.07944v1)|null|
