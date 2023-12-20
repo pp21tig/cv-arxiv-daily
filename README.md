@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Orisometry formalism reveals duality and exotic nonuniform response in origami sheets**|Michael Czajkowski et.al.|[2312.12432v1](http://arxiv.org/abs/2312.12432v1)|null|
+|**2023-12-19**|**Nanocrystal Programmable Assembly Beyond Hard Spheres (or Shapes) and Other (Simple) Potentials**|Alex Travesset et.al.|[2312.12421v1](http://arxiv.org/abs/2312.12421v1)|null|
+|**2023-12-19**|**Inferring geometrical dynamics of cell nucleus translocation**|Sirine Amiri et.al.|[2312.12402v1](http://arxiv.org/abs/2312.12402v1)|null|
+|**2023-12-19**|**Instability cascades in disordered systems indicate record dynamics**|Stefan Boettcher et.al.|[2312.12254v1](http://arxiv.org/abs/2312.12254v1)|null|
+|**2023-12-19**|**Topological spectra and entropy of chromatin loop networks**|Andrea Bonato et.al.|[2312.12159v1](http://arxiv.org/abs/2312.12159v1)|null|
+|**2023-12-19**|**Bulk-boundary correspondence in topological systems with the momentum dependent energy shift**|Huan-Yu Wang et.al.|[2312.12127v1](http://arxiv.org/abs/2312.12127v1)|null|
+|**2023-12-19**|**mRNA translation from a unidirectional traffic perspective**|Binil Shyam T V et.al.|[2312.12062v1](http://arxiv.org/abs/2312.12062v1)|null|
+|**2023-12-19**|**Microfluidic pressure-driven flow of a pair of deformable particles suspended in Newtonian and viscoelastic media: A numerical study**|Giancarlo Esposito et.al.|[2312.12059v1](http://arxiv.org/abs/2312.12059v1)|null|
+|**2023-12-19**|**Reaction-driven Diffusiophoresis of Liquid Condensates: Mechanisms for Intra-cellular Organization**|Gregor Häfner et.al.|[2312.12018v1](http://arxiv.org/abs/2312.12018v1)|null|
+|**2023-12-19**|**GdAlSi: An antiferromagnetic topological Weyl semimetal with non-relativistic spin splitting**|Jadupati Nag et.al.|[2312.11980v1](http://arxiv.org/abs/2312.11980v1)|null|
+|**2023-12-19**|**Origin of chirality in transition-metal dichalcogenides**|Kwangrae Kim et.al.|[2312.11979v1](http://arxiv.org/abs/2312.11979v1)|null|
+|**2023-12-19**|**Plateau-Rayleigh instability of a viscous film on a soft fiber**|Bharti Bharti et.al.|[2312.11962v1](http://arxiv.org/abs/2312.11962v1)|null|
+|**2023-12-19**|**Classification of complex local environments in systems of particle shapes through shape-symmetry encoded data augmentation**|Shih-Kuang et.al.|[2312.11822v1](http://arxiv.org/abs/2312.11822v1)|null|
+|**2023-12-19**|**Near-field Spin Chern Number Quantized by Real-Space Topology of Optical Structures**|Tong Fu et.al.|[2312.11771v1](http://arxiv.org/abs/2312.11771v1)|null|
+|**2023-12-19**|**Defect-induced localization of information in 1D Kitaev model**|Varadharajan Muruganandam et.al.|[2312.11765v1](http://arxiv.org/abs/2312.11765v1)|null|
+|**2023-12-19**|**Floating active carpets drive transport and aggregation in aquatic ecosystems**|Gabriel Aguayo et.al.|[2312.11764v1](http://arxiv.org/abs/2312.11764v1)|null|
+|**2023-12-18**|**From Dry to Wet Vertex Model Dynamics: Generating Sustained Flows**|Jan Rozman et.al.|[2312.11756v1](http://arxiv.org/abs/2312.11756v1)|null|
+|**2023-12-18**|**On the possibility of engineering social evolution in microfluidic environments**|Gurdip Uppal et.al.|[2312.11743v1](http://arxiv.org/abs/2312.11743v1)|null|
+|**2023-12-18**|**Equilibrium Contact Angles and Dewetting in Capillaries**|Leonid Pekker et.al.|[2312.11736v1](http://arxiv.org/abs/2312.11736v1)|null|
+|**2023-12-18**|**Tuning for fluidity using fluctuations in biological tissue models**|Sadjad Arzash et.al.|[2312.11683v1](http://arxiv.org/abs/2312.11683v1)|null|
 |**2023-12-17**|**Hydrodynamic interactions in anomalous rheology of active suspensions**|Haruki Hayano et.al.|[2312.10852v1](http://arxiv.org/abs/2312.10852v1)|null|
 |**2023-12-17**|**Microrheology of active suspensions**|Takahiro Kanazawa et.al.|[2312.10760v1](http://arxiv.org/abs/2312.10760v1)|null|
 |**2023-12-17**|**Surface Tension of Aqueous Electrolyte Solutions. Thermomechanical Approach**|Yury A. Budkov et.al.|[2312.10753v1](http://arxiv.org/abs/2312.10753v1)|null|
@@ -4525,6 +4545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Microscopic theory of current-induced skyrmion transport and its application in disordered spin textures**|Emil Östberg et.al.|[2312.12201v1](http://arxiv.org/abs/2312.12201v1)|null|
 |**2023-12-16**|**Predicted Multiple Walker Breakdowns for Current-Driven Domain-Wall Motion in Antiferromagnets**|Mu-Kun Lee et.al.|[2312.10337v1](http://arxiv.org/abs/2312.10337v1)|null|
 |**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v1](http://arxiv.org/abs/2312.08574v1)|null|
 |**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
