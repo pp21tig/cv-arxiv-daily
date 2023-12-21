@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Non-linear photoconductivity of strongly driven graphene**|Lukas Broers et.al.|[2312.13217v1](http://arxiv.org/abs/2312.13217v1)|null|
+|**2023-12-20**|**Relating absorbing and hard wall boundary conditions for active particles**|Mathis Guéneau et.al.|[2312.13200v1](http://arxiv.org/abs/2312.13200v1)|null|
+|**2023-12-20**|**Anisotropic cold plasma modes in the chiral vector MCFJ electrodynamics**|Filipe S. Ribeiro et.al.|[2312.13196v1](http://arxiv.org/abs/2312.13196v1)|null|
+|**2023-12-20**|**An effective field theory of damped ferromagnetic systems**|Jingping Li et.al.|[2312.13093v1](http://arxiv.org/abs/2312.13093v1)|null|
+|**2023-12-20**|**Theory of superconductivity in thin films under an external electric field**|Alessio Zaccone et.al.|[2312.13059v1](http://arxiv.org/abs/2312.13059v1)|null|
+|**2023-12-20**|**Heterogeneous structure and dynamics of water in a hydrated collagen microfibril**|Maxime Vassaux et.al.|[2312.12929v1](http://arxiv.org/abs/2312.12929v1)|null|
+|**2023-12-20**|**On the validity of some equilibrium models for thermodiffusion**|Mario Araujo-Rocha et.al.|[2312.12912v1](http://arxiv.org/abs/2312.12912v1)|null|
+|**2023-12-20**|**Protected edge modes based on the bulk and boundary renormalization group: A relationship between duality and generalized symmetry**|Yoshiki Fukusumi et.al.|[2312.12887v1](http://arxiv.org/abs/2312.12887v1)|null|
+|**2023-12-20**|**Dynamic Screening by Plasticity in Amorphous Solids**|H. George E. Hentschel et.al.|[2312.12875v1](http://arxiv.org/abs/2312.12875v1)|null|
+|**2023-12-20**|**Light-activated Janus microswimmers in a thermotropic liquid crystal**|Antonio Tavera-Vázquez et.al.|[2312.12866v1](http://arxiv.org/abs/2312.12866v1)|null|
+|**2023-12-20**|**Emergent Atomic Environments in Twisted Bilayer Graphene and Their Use in the Prediction of the Vibrational Properties**|Dilara Ickecan et.al.|[2312.12864v1](http://arxiv.org/abs/2312.12864v1)|null|
+|**2023-12-20**|**Twisted topology and Bipolar Non-Hermitian Skin Effect induced by long-range asymmetric coupling**|S. M. Rafi-Ul-Islam et.al.|[2312.12780v1](http://arxiv.org/abs/2312.12780v1)|null|
+|**2023-12-20**|**Data-driven Design of High Pressure Hydride Superconductors using DFT and Deep Learning**|Daniel Wines et.al.|[2312.12694v1](http://arxiv.org/abs/2312.12694v1)|null|
+|**2023-12-19**|**Graph Theorem for Chiral Exact Flat Bands at Charge Neutrality**|Gurjyot Sethi et.al.|[2312.12607v1](http://arxiv.org/abs/2312.12607v1)|null|
 |**2023-12-19**|**Orisometry formalism reveals duality and exotic nonuniform response in origami sheets**|Michael Czajkowski et.al.|[2312.12432v1](http://arxiv.org/abs/2312.12432v1)|null|
 |**2023-12-19**|**Nanocrystal Programmable Assembly Beyond Hard Spheres (or Shapes) and Other (Simple) Potentials**|Alex Travesset et.al.|[2312.12421v1](http://arxiv.org/abs/2312.12421v1)|null|
 |**2023-12-19**|**Inferring geometrical dynamics of cell nucleus translocation**|Sirine Amiri et.al.|[2312.12402v1](http://arxiv.org/abs/2312.12402v1)|null|
@@ -4671,6 +4685,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Magnetism of noncolinear amorphous DyCo3 and TbCo3 thin films**|Zexiang Hu et.al.|[2312.12602v1](http://arxiv.org/abs/2312.12602v1)|null|
 |**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687v1](http://arxiv.org/abs/2312.08687v1)|null|
 |**2023-12-12**|**Giant domain wall anomalous Hall effect in an antiferromagnet**|Wei Xia et.al.|[2312.07336v1](http://arxiv.org/abs/2312.07336v1)|null|
 |**2023-12-07**|**Three-Dimensional Quantum Anomalous Hall Effect in Magnetic Topological Insulator Trilayers of Hundred-Nanometer Thickness**|Yi-Fan Zhao et.al.|[2312.01614v2](http://arxiv.org/abs/2312.01614v2)|null|
