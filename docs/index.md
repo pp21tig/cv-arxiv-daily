@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Excluded Volume Induces Buckling in Optically Driven Colloidal Rings**|Eric Cereceda-Lóopez et.al.|[2312.14047v1](http://arxiv.org/abs/2312.14047v1)|null|
+|**2023-12-21**|**Biased motility-induced phase separation: from chemotaxis to traffic jams**|Eric Bertin et.al.|[2312.13963v1](http://arxiv.org/abs/2312.13963v1)|null|
+|**2023-12-21**|**Quantitative comparison of cell-cell detachment force in different experimental setups**|Amit Singh Vishen et.al.|[2312.13918v1](http://arxiv.org/abs/2312.13918v1)|null|
+|**2023-12-21**|**Transient amplification of broken symmetry in elastic snap-through**|Qiong Wang et.al.|[2312.13908v1](http://arxiv.org/abs/2312.13908v1)|null|
+|**2023-12-21**|**Broadband forward scattering of light by plasmonic balls: role of multipolar interferences**|Ranjeet Dwivedi et.al.|[2312.13898v1](http://arxiv.org/abs/2312.13898v1)|null|
+|**2023-12-21**|**Self-diffusion coefficient as a function of the thermodynamic factor**|Melina Sampayo Puelles et.al.|[2312.13843v1](http://arxiv.org/abs/2312.13843v1)|null|
+|**2023-12-21**|**Machine learning for viscoelastic constitutive model identification and parameterisation using Large Amplitude Oscillatory Shear**|TP John et.al.|[2312.13793v1](http://arxiv.org/abs/2312.13793v1)|null|
+|**2023-12-21**|**Quantum confinement in Dirac-like nanostructures**|C. A. Downing et.al.|[2312.13748v1](http://arxiv.org/abs/2312.13748v1)|null|
+|**2023-12-21**|**Hierarchical Topological States in Thermal Diffusive Networks**|Bao Chen et.al.|[2312.13733v1](http://arxiv.org/abs/2312.13733v1)|null|
+|**2023-12-21**|**Improving magnetic-field resilience of NbTiN planar resonators using a hard-mask fabrication technique**|Arne Bahr et.al.|[2312.13703v1](http://arxiv.org/abs/2312.13703v1)|null|
+|**2023-12-21**|**Quantum electrodynamics under a quench**|Ming-Rui Li et.al.|[2312.13531v1](http://arxiv.org/abs/2312.13531v1)|null|
+|**2023-12-20**|**Designing 3D multicomponent self-assembling systems with signal-passing building blocks**|Joshua Evans et.al.|[2312.13479v1](http://arxiv.org/abs/2312.13479v1)|null|
+|**2023-12-20**|**Critical slowing down in thermal soft-sphere glasses via energy minimization**|Kevin A. Interiano-Alberto et.al.|[2312.13466v1](http://arxiv.org/abs/2312.13466v1)|null|
+|**2023-12-20**|**Bosonization and Anomaly Indicators of (2+1)-D Fermionic Topological Orders**|Arun Debray et.al.|[2312.13341v1](http://arxiv.org/abs/2312.13341v1)|null|
 |**2023-12-20**|**Non-linear photoconductivity of strongly driven graphene**|Lukas Broers et.al.|[2312.13217v1](http://arxiv.org/abs/2312.13217v1)|null|
 |**2023-12-20**|**Relating absorbing and hard wall boundary conditions for active particles**|Mathis Guéneau et.al.|[2312.13200v1](http://arxiv.org/abs/2312.13200v1)|null|
 |**2023-12-20**|**Anisotropic cold plasma modes in the chiral vector MCFJ electrodynamics**|Filipe S. Ribeiro et.al.|[2312.13196v1](http://arxiv.org/abs/2312.13196v1)|null|
@@ -4336,6 +4350,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Modeling Photothermal Effects in High Power Optical Resonators used for Coherent Levitation**|Chenyue Gu et.al.|[2312.13375v1](http://arxiv.org/abs/2312.13375v1)|null|
+|**2023-11-20**|**All-Optical Domain Inversion in LiNbO3 Crystals by Visible Continuous-Wave Laser Irradiation**|Carlos Sebastián-Vicente et.al.|[2312.13291v1](http://arxiv.org/abs/2312.13291v1)|null|
 |**2023-12-13**|**Ultrafast light-induced magnetization in non-magnetic films: from orbital and spin Hall phenomena to the inverse Faraday effect**|Hanan Hamamera et.al.|[2312.07888v1](http://arxiv.org/abs/2312.07888v1)|null|
 |**2023-12-12**|**Kondo coherence versus superradiance in THz radiation-driven heavy-fermion systems**|Chia-Jung Yang et.al.|[2312.06931v1](http://arxiv.org/abs/2312.06931v1)|null|
 |**2023-12-10**|**An atomic probe of dark matter differential interactions with elementary particles**|Yossi Rosenzweig et.al.|[2312.05894v1](http://arxiv.org/abs/2312.05894v1)|null|
@@ -4352,7 +4368,7 @@ layout: default
 |**2023-11-13**|**Effect of inelastic ion collisions on low-gain avalanche detectors explained by an A_Si-Si_i-defect mode**|Kevin Lauer et.al.|[2311.07280v1](http://arxiv.org/abs/2311.07280v1)|null|
 |**2023-12-14**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252v2](http://arxiv.org/abs/2311.07252v2)|null|
 |**2023-11-10**|**Optically Induced Ferromagnetic Order in a Ferrimagnet**|Sergii Parchenko et.al.|[2311.05507v2](http://arxiv.org/abs/2311.05507v2)|null|
-|**2023-12-18**|**Nanorod size dependence of coherent coupling between individual and collective excitations via transverse electromagnetic field**|Masayuki Iio et.al.|[2311.04460v2](http://arxiv.org/abs/2311.04460v2)|null|
+|**2023-12-21**|**Nanorod Size Dependence of Coherent Coupling between Individual and Collective Excitations via Transverse Electromagnetic Field**|Masayuki Iio et.al.|[2311.04460v3](http://arxiv.org/abs/2311.04460v3)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127v1](http://arxiv.org/abs/2311.04127v1)|null|
 |**2023-11-06**|**Deciphering core-exciton dynamics in CaF $_2$ with attosecond spectroscopy**|Rafael Quintero-Bermudez Stephen R. Leone et.al.|[2311.02888v1](http://arxiv.org/abs/2311.02888v1)|null|
 |**2023-10-25**|**Photo-induced electronic and spin topological phase transitions in monolayer bismuth**|Bo Peng et.al.|[2310.16886v1](http://arxiv.org/abs/2310.16886v1)|null|
@@ -4689,6 +4705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Direct evidence from high-field magnetotransport for a dramatic change of quasiparticle character in van der Waals ferromagnet Fe $_{3-x}$GeTe$_2$**|Shroya Vaidya et.al.|[2312.13894v1](http://arxiv.org/abs/2312.13894v1)|null|
 |**2023-12-19**|**Magnetism of noncolinear amorphous DyCo3 and TbCo3 thin films**|Zexiang Hu et.al.|[2312.12602v1](http://arxiv.org/abs/2312.12602v1)|null|
 |**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687v1](http://arxiv.org/abs/2312.08687v1)|null|
 |**2023-12-12**|**Giant domain wall anomalous Hall effect in an antiferromagnet**|Wei Xia et.al.|[2312.07336v1](http://arxiv.org/abs/2312.07336v1)|null|
