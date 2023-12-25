@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Supersonic shear wave imaging in stretched soft strips: modeling for quantitative elastography**|Alexandre Delory et.al.|[2312.14854v1](http://arxiv.org/abs/2312.14854v1)|null|
+|**2023-12-22**|**Cavitation in elastomers: A review of the evidence against elasticity**|Evan Breedlove et.al.|[2312.14797v1](http://arxiv.org/abs/2312.14797v1)|null|
+|**2023-12-22**|**Line defects in nematic liquid crystals as charged superelastic rods with negative twist--stretch coupling**|Shengzhu Yi et.al.|[2312.14735v1](http://arxiv.org/abs/2312.14735v1)|null|
+|**2023-12-22**|**Revisiting fluid-wall interfacial tension**|Longfei Li et.al.|[2312.14714v1](http://arxiv.org/abs/2312.14714v1)|null|
+|**2023-12-22**|**Macroscopic elasticity of the hat aperiodic tiling**|Romain Rieger et.al.|[2312.14669v1](http://arxiv.org/abs/2312.14669v1)|null|
+|**2023-12-22**|**Self-Supervised Generative Models for Crystal Structures**|Fangze Liu et.al.|[2312.14485v1](http://arxiv.org/abs/2312.14485v1)|null|
+|**2023-12-22**|**Entropy change due to stochastic state transitions of odd Langevin system**|Kento Yasuda et.al.|[2312.14469v1](http://arxiv.org/abs/2312.14469v1)|null|
+|**2023-12-22**|**Spontaneous gap opening and potential excitonic states in an ideal Dirac semimetal Ta $_2$Pd$_3$Te$_5$**|Peng Zhang et.al.|[2312.14456v1](http://arxiv.org/abs/2312.14456v1)|null|
+|**2023-12-21**|**Enhancing Transport Barriers with Swimming Microorganisms in Chaotic Flows**|Ranjiangshang Ran et.al.|[2312.14284v1](http://arxiv.org/abs/2312.14284v1)|null|
+|**2023-12-21**|**Polar order, shear banding, and clustering in confined active matter**|Daniel Canavello et.al.|[2312.14281v1](http://arxiv.org/abs/2312.14281v1)|null|
+|**2023-12-21**|**Ductile-to-brittle transition and yielding in soft amorphous materials: perspectives and open questions**|Thibaut Divoux et.al.|[2312.14278v1](http://arxiv.org/abs/2312.14278v1)|null|
+|**2023-12-21**|**Statistics of a granular cluster ensemble at a liquid-solid-like phase transition**|Enrique Navarro et.al.|[2312.14268v1](http://arxiv.org/abs/2312.14268v1)|null|
+|**2023-12-21**|**Hofstadter-Toda spectral duality and quantum groups**|Pasquale Marra et.al.|[2312.14242v1](http://arxiv.org/abs/2312.14242v1)|null|
 |**2023-12-21**|**Excluded Volume Induces Buckling in Optically Driven Colloidal Rings**|Eric Cereceda-Lóopez et.al.|[2312.14047v1](http://arxiv.org/abs/2312.14047v1)|null|
 |**2023-12-21**|**Biased motility-induced phase separation: from chemotaxis to traffic jams**|Eric Bertin et.al.|[2312.13963v1](http://arxiv.org/abs/2312.13963v1)|null|
 |**2023-12-21**|**Quantitative comparison of cell-cell detachment force in different experimental setups**|Amit Singh Vishen et.al.|[2312.13918v1](http://arxiv.org/abs/2312.13918v1)|null|
@@ -4705,6 +4718,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**The Impact of Local Strain Fields in Non-Collinear Antiferromagnetic Films**|Freya Johnson et.al.|[2312.14864v1](http://arxiv.org/abs/2312.14864v1)|null|
+|**2023-12-22**|**Electronic structure, magnetic and transport properties of antiferromagnetic Weyl semimetal GdAlSi**|Antu Laha et.al.|[2312.14415v1](http://arxiv.org/abs/2312.14415v1)|null|
 |**2023-12-21**|**Direct evidence from high-field magnetotransport for a dramatic change of quasiparticle character in van der Waals ferromagnet Fe $_{3-x}$GeTe$_2$**|Shroya Vaidya et.al.|[2312.13894v1](http://arxiv.org/abs/2312.13894v1)|null|
 |**2023-12-19**|**Magnetism of noncolinear amorphous DyCo3 and TbCo3 thin films**|Zexiang Hu et.al.|[2312.12602v1](http://arxiv.org/abs/2312.12602v1)|null|
 |**2023-12-14**|**Magneto-optical effects of an artificially-layered ferromagnetic topological insulator**|Xingyue Han et.al.|[2312.08687v1](http://arxiv.org/abs/2312.08687v1)|null|
