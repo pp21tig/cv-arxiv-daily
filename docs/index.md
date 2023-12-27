@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Scalar spin chirality induced by a circularly polarized electric field in a classical kagome magnet**|Ryota Yambe et.al.|[2312.15891v1](http://arxiv.org/abs/2312.15891v1)|null|
+|**2023-12-25**|**Why monovalent salt reduces charge inversion of macroion by trivalent counterions**|Boris Shklovskii et.al.|[2312.15773v1](http://arxiv.org/abs/2312.15773v1)|null|
+|**2023-12-25**|**Biomimetic Synchronization in biciliated robots**|Yiming Xia et.al.|[2312.15728v1](http://arxiv.org/abs/2312.15728v1)|null|
+|**2023-12-25**|**Visualization of Oxygen Vacancies and Self-doped Ligand Holes in La3Ni2O7-δ**|Zehao Dong et.al.|[2312.15727v1](http://arxiv.org/abs/2312.15727v1)|null|
+|**2023-12-25**|**Exploiting dynamic bifurcation in elastic ribbons for mode skipping and selection**|Weicheng Huang et.al.|[2312.15699v1](http://arxiv.org/abs/2312.15699v1)|null|
+|**2023-12-25**|**Root mean squares of distance and geodesic between two constituent particles within fractal aggregates prepared by BCCA, DLA, and GSAW procedures**|Sota Arakawa et.al.|[2312.15655v1](http://arxiv.org/abs/2312.15655v1)|null|
+|**2023-12-24**|**Inverse Measurements in Active Nematics**|Aleix Boquet-Pujadas et.al.|[2312.15553v1](http://arxiv.org/abs/2312.15553v1)|null|
+|**2023-12-24**|**Coalescence of immiscible droplets in liquid environments**|Huadan Xu et.al.|[2312.15500v1](http://arxiv.org/abs/2312.15500v1)|null|
+|**2023-12-24**|**Bridge evolution during the coalescence of immiscible droplets**|Huadan Xu et.al.|[2312.15491v1](http://arxiv.org/abs/2312.15491v1)|null|
+|**2023-12-24**|**Critical Casimir forces in soft matter**|Andrea Gambassi et.al.|[2312.15482v1](http://arxiv.org/abs/2312.15482v1)|null|
+|**2023-12-24**|**Ion Conductivity in Salt-Doped Polymers: Combined Effects of Temperature and Salt Concentration**|Alexandros J. Tsamopoulos et.al.|[2312.15401v1](http://arxiv.org/abs/2312.15401v1)|null|
+|**2023-12-23**|**Rupture of a surfactant-laden draining thin film**|Atul S Vivek et.al.|[2312.15299v1](http://arxiv.org/abs/2312.15299v1)|null|
+|**2023-12-23**|**Geometric frustration and pairing order transition in confined bacterial vortices**|Kazus Beppu et.al.|[2312.15257v1](http://arxiv.org/abs/2312.15257v1)|null|
+|**2023-12-23**|**Thermodynamic uncertainty relations in the presence of non-linear friction and memory**|A. Plati et.al.|[2312.15243v1](http://arxiv.org/abs/2312.15243v1)|null|
+|**2023-12-23**|**Comparing machine learning potentials for water: Kernel-based regression and Behler-Parrinello neural networks**|Pablo Montero de Hijes et.al.|[2312.15213v1](http://arxiv.org/abs/2312.15213v1)|null|
+|**2023-12-23**|**Role of Motility and Nutrient Availability in Drying Patterns of Algal Droplets**|Anusuya Pal et.al.|[2312.15180v1](http://arxiv.org/abs/2312.15180v1)|null|
+|**2023-12-22**|**Origins of complexity in the rheology of Soft Earth suspensions**|Shravan Pradeep et.al.|[2312.15092v1](http://arxiv.org/abs/2312.15092v1)|null|
+|**2023-12-22**|**Change Point Detection of Events in Molecular Simulations using dupin**|Brandon L. Butler et.al.|[2312.15090v1](http://arxiv.org/abs/2312.15090v1)|null|
+|**2023-12-22**|**Dynamical Facilitation Governs the Equilibration Dynamics of Glasses**|Rahul N. Chacko et.al.|[2312.15069v1](http://arxiv.org/abs/2312.15069v1)|null|
 |**2023-12-22**|**Supersonic shear wave imaging in stretched soft strips: modeling for quantitative elastography**|Alexandre Delory et.al.|[2312.14854v1](http://arxiv.org/abs/2312.14854v1)|null|
 |**2023-12-22**|**Cavitation in elastomers: A review of the evidence against elasticity**|Evan Breedlove et.al.|[2312.14797v1](http://arxiv.org/abs/2312.14797v1)|null|
 |**2023-12-22**|**Line defects in nematic liquid crystals as charged superelastic rods with negative twist--stretch coupling**|Shengzhu Yi et.al.|[2312.14735v1](http://arxiv.org/abs/2312.14735v1)|null|
@@ -4363,6 +4382,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-25**|**Radiometric propulsion: Advancing with the order-of-magnitude enhancement through graphene aerogel-coated vanes**|Bo Peng et.al.|[2312.15592v1](http://arxiv.org/abs/2312.15592v1)|null|
 |**2023-12-20**|**Modeling Photothermal Effects in High Power Optical Resonators used for Coherent Levitation**|Chenyue Gu et.al.|[2312.13375v1](http://arxiv.org/abs/2312.13375v1)|null|
 |**2023-11-20**|**All-Optical Domain Inversion in LiNbO3 Crystals by Visible Continuous-Wave Laser Irradiation**|Carlos Sebastián-Vicente et.al.|[2312.13291v1](http://arxiv.org/abs/2312.13291v1)|null|
 |**2023-12-13**|**Ultrafast light-induced magnetization in non-magnetic films: from orbital and spin Hall phenomena to the inverse Faraday effect**|Hanan Hamamera et.al.|[2312.07888v1](http://arxiv.org/abs/2312.07888v1)|null|
@@ -4592,6 +4612,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Magnetic vortex control with current-induced axial magnetization in centrosymmetric Weyl materials**|J. G. Yang et.al.|[2312.16122v1](http://arxiv.org/abs/2312.16122v1)|null|
 |**2023-12-19**|**Microscopic theory of current-induced skyrmion transport and its application in disordered spin textures**|Emil Östberg et.al.|[2312.12201v1](http://arxiv.org/abs/2312.12201v1)|null|
 |**2023-12-16**|**Predicted Multiple Walker Breakdowns for Current-Driven Domain-Wall Motion in Antiferromagnets**|Mu-Kun Lee et.al.|[2312.10337v1](http://arxiv.org/abs/2312.10337v1)|null|
 |**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v1](http://arxiv.org/abs/2312.08574v1)|null|
@@ -4718,6 +4739,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050v1](http://arxiv.org/abs/2312.16050v1)|null|
+|**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v1](http://arxiv.org/abs/2312.15977v1)|null|
 |**2023-12-22**|**The Impact of Local Strain Fields in Non-Collinear Antiferromagnetic Films**|Freya Johnson et.al.|[2312.14864v1](http://arxiv.org/abs/2312.14864v1)|null|
 |**2023-12-22**|**Electronic structure, magnetic and transport properties of antiferromagnetic Weyl semimetal GdAlSi**|Antu Laha et.al.|[2312.14415v1](http://arxiv.org/abs/2312.14415v1)|null|
 |**2023-12-21**|**Direct evidence from high-field magnetotransport for a dramatic change of quasiparticle character in van der Waals ferromagnet Fe $_{3-x}$GeTe$_2$**|Shroya Vaidya et.al.|[2312.13894v1](http://arxiv.org/abs/2312.13894v1)|null|
@@ -4878,6 +4901,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Observation of Magnon Damping Minimum Induced by Kondo Coupling in a van der Waals Ferromagnet Fe $_{3-x}$GeTe$_{2}$**|Song Bao et.al.|[2312.15961v1](http://arxiv.org/abs/2312.15961v1)|null|
 |**2023-12-13**|**Kernel Polynomial Method for Linear Spin Wave Theory**|Harry Lane et.al.|[2312.08349v1](http://arxiv.org/abs/2312.08349v1)|null|
 |**2023-12-14**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449v2](http://arxiv.org/abs/2312.07449v2)|null|
 |**2023-12-08**|**Magnetic Order and Magnetic Excitations in FeTe: How Good is a Short-Range Heisenberg Model?**|Joe Marshall et.al.|[2312.05196v1](http://arxiv.org/abs/2312.05196v1)|null|
