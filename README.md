@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Microscopic Mechanism of Pair-Density-Wave Superconductivity**|Dmitry Miserev et.al.|[2312.17208v1](http://arxiv.org/abs/2312.17208v1)|null|
+|**2023-12-28**|**Single particle algorithms to reveal cellular nanodomain organization**|Pierre Parutto et.al.|[2312.17191v1](http://arxiv.org/abs/2312.17191v1)|null|
+|**2023-12-28**|**Orientational order and topological defects in a dilute solutions of rodlike polymers at low Reynolds number**|Leonardo Puggioni et.al.|[2312.16873v1](http://arxiv.org/abs/2312.16873v1)|null|
+|**2023-12-28**|**Collective spin oscillations in a magnetized graphene sheet**|M. Agarwal et.al.|[2312.16782v1](http://arxiv.org/abs/2312.16782v1)|null|
+|**2023-12-27**|**Passive defect driven morphogenesis in nematic membranes**|D. J. G. Pearce et.al.|[2312.16654v1](http://arxiv.org/abs/2312.16654v1)|null|
+|**2023-12-27**|**Influence of the imposed flow rate boundary condition on the flow of Bingham fluid in porous media**|Laurent Talon et.al.|[2312.16639v1](http://arxiv.org/abs/2312.16639v1)|null|
+|**2023-12-27**|**Disorder driven Thouless charge pump in a quasiperiodic chain**|Ashirbad Padhan et.al.|[2312.16568v1](http://arxiv.org/abs/2312.16568v1)|null|
+|**2023-12-27**|**Ultrafast inertia-free switching of double magnetic tunnel junctions**|Yu. Dzhezherya et.al.|[2312.16540v1](http://arxiv.org/abs/2312.16540v1)|null|
 |**2023-12-26**|**Scalar spin chirality induced by a circularly polarized electric field in a classical kagome magnet**|Ryota Yambe et.al.|[2312.15891v1](http://arxiv.org/abs/2312.15891v1)|null|
 |**2023-12-25**|**Why monovalent salt reduces charge inversion of macroion by trivalent counterions**|Boris Shklovskii et.al.|[2312.15773v1](http://arxiv.org/abs/2312.15773v1)|null|
 |**2023-12-25**|**Biomimetic Synchronization in biciliated robots**|Yiming Xia et.al.|[2312.15728v1](http://arxiv.org/abs/2312.15728v1)|null|
@@ -4735,6 +4743,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732v1](http://arxiv.org/abs/2312.16732v1)|null|
+|**2023-12-27**|**Optical probe on doping modulation of magnetic Weyl semimetal Co3Sn2S2**|L. Wang et.al.|[2312.16437v1](http://arxiv.org/abs/2312.16437v1)|null|
+|**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290v1](http://arxiv.org/abs/2312.16290v1)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050v1](http://arxiv.org/abs/2312.16050v1)|null|
 |**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v1](http://arxiv.org/abs/2312.15977v1)|null|
 |**2023-12-22**|**The Impact of Local Strain Fields in Non-Collinear Antiferromagnetic Films**|Freya Johnson et.al.|[2312.14864v1](http://arxiv.org/abs/2312.14864v1)|null|
