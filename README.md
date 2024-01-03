@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Variational bounds and nonlinear stability of an active nematic suspension**|Scott Weady et.al.|[2401.01188v1](http://arxiv.org/abs/2401.01188v1)|null|
+|**2024-01-02**|**Thermodynamic modeling using Extended UNIQUAC and COSMO-RS-ES models: Case study of the cesium nitrate - water system over a large range of temperatures**|Mouad Arrad et.al.|[2401.01144v1](http://arxiv.org/abs/2401.01144v1)|null|
+|**2024-01-02**|**Construction of Pseudo-hermitian matrices describing systems with balanced loss-gain**|Pijush K. Ghosh et.al.|[2401.01126v1](http://arxiv.org/abs/2401.01126v1)|null|
+|**2024-01-02**|**Efficient Rare Event Sampling with Unsupervised Normalising Flows**|Solomon Asghar et.al.|[2401.01072v1](http://arxiv.org/abs/2401.01072v1)|null|
+|**2024-01-02**|**Trade-off relations of quantum resource theory in Heisenberg models**|Asad Ali et.al.|[2401.01063v1](http://arxiv.org/abs/2401.01063v1)|null|
+|**2024-01-02**|**Gold Nanoparticles Coated Optical Fiber for Real-time Localized Surface Plasmon Resonance Analysis of In-situ Light-Matter Interactions**|Nafize Ishtiaque Hossain et.al.|[2401.01050v1](http://arxiv.org/abs/2401.01050v1)|null|
+|**2024-01-01**|**Deep learning bulk spacetime from boundary optical conductivity**|Byoungjoon Ahn et.al.|[2401.00939v1](http://arxiv.org/abs/2401.00939v1)|null|
+|**2024-01-01**|**Raisins in a Hydrogen Pie: Ultrastable Cesium and Rubidium Polyhydrides**|Di Zhou et.al.|[2401.00742v1](http://arxiv.org/abs/2401.00742v1)|null|
+|**2024-01-01**|**"half-electron (e/2)" -- free electron fractional charge induced by twisted light**|Yiming Pan et.al.|[2401.00723v1](http://arxiv.org/abs/2401.00723v1)|null|
+|**2023-12-31**|**Measurement and analysis of the Doppler broadened energy spectra of annihilation gamma radiation originating from clean and adsorbate-covered surfaces**|S. Lotfimarangloo et.al.|[2401.00581v1](http://arxiv.org/abs/2401.00581v1)|null|
+|**2023-12-31**|**Electric Charging Effects on Insulating Surfaces in Cryogenic Liquids**|Wolfgang Korsch et.al.|[2401.00538v1](http://arxiv.org/abs/2401.00538v1)|null|
+|**2023-12-31**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499v1](http://arxiv.org/abs/2401.00499v1)|null|
+|**2024-01-02**|**Interfacial dripping faucet: generating monodisperse liquid lenses**|Lorène Champougny et.al.|[2401.00459v2](http://arxiv.org/abs/2401.00459v2)|null|
+|**2023-12-31**|**Magnetic Anisotropy of Quantum Critical Fluctuation in YBa $_2$Cu$_3$O$_7$ at High Magnetic Fields of up to 100 T**|Shiyue Peng et.al.|[2401.00389v1](http://arxiv.org/abs/2401.00389v1)|null|
+|**2023-12-30**|**LIPSS pattern induced by polymer surface instability for myoblast cell guidance**|Nikola Slepickova Kasalkova et.al.|[2401.00328v1](http://arxiv.org/abs/2401.00328v1)|null|
+|**2023-12-30**|**A self-assembled periodic nanoporous framework in aqueous solutions of the DNA tetramer GCCG**|Gregory P. Smith et.al.|[2401.00318v1](http://arxiv.org/abs/2401.00318v1)|null|
+|**2023-12-30**|**An unconventional platform for two-dimensional Kagome flat bands on semiconductor surfaces**|Jae Hyuck Lee et.al.|[2401.00265v1](http://arxiv.org/abs/2401.00265v1)|null|
+|**2023-12-30**|**The Impact of Thermosolutal Convection on Melting Dynamics of Nano-enhanced Phase Change Materials (NePCM)**|Yousef El Hasadi et.al.|[2401.00251v1](http://arxiv.org/abs/2401.00251v1)|null|
+|**2023-12-30**|**Strain induced electronic and magnetic transition in S = 3/2 antiferromagnetic spin chain compound LaCrS3**|Kuldeep Kargeti et.al.|[2401.00239v1](http://arxiv.org/abs/2401.00239v1)|null|
+|**2023-12-30**|**Coarsening of topological defects in 2D polar active matter**|Soumyadeep Mondal et.al.|[2401.00203v1](http://arxiv.org/abs/2401.00203v1)|null|
 |**2023-12-29**|**Contrastive learning through non-equilibrium memory**|Martin Falk et.al.|[2312.17723v1](http://arxiv.org/abs/2312.17723v1)|null|
 |**2023-12-29**|**Microstructural training and mechanical memory of nanocolloidal soft glasses under cyclic shear**|Yihao Chen et.al.|[2312.17696v1](http://arxiv.org/abs/2312.17696v1)|null|
 |**2023-12-29**|**Sociohydrodynamics: data-driven modelling of social behavior**|Daniel S. Seara et.al.|[2312.17627v1](http://arxiv.org/abs/2312.17627v1)|null|
@@ -4626,6 +4646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Modelling the mechanics of 32 T REBCO superconductor magnet using numerical simulation**|Arpit Kumar Srivastava et.al.|[2401.01266v1](http://arxiv.org/abs/2401.01266v1)|null|
 |**2023-12-29**|**Chiral anomaly induced monopole current and nonlinear circular dichroism**|Nikolai Peshcherenko et.al.|[2312.17690v1](http://arxiv.org/abs/2312.17690v1)|null|
 |**2023-12-29**|**Spin-orbit torques and magnetization switching in Gd/Fe multilayers generated by current injection in NiCu alloys**|Federica Nasr et.al.|[2312.17652v1](http://arxiv.org/abs/2312.17652v1)|null|
 |**2023-12-28**|**Coupled pyroelectric-photovoltaic effect in 2D ferroelectric $α$-In$_2$Se$_3$**|Michael Uzhansky et.al.|[2312.17360v1](http://arxiv.org/abs/2312.17360v1)|null|
@@ -4756,6 +4777,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138v1](http://arxiv.org/abs/2401.00138v1)|null|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732v1](http://arxiv.org/abs/2312.16732v1)|null|
 |**2024-01-02**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437v2](http://arxiv.org/abs/2312.16437v2)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290v1](http://arxiv.org/abs/2312.16290v1)|null|
@@ -4921,6 +4943,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-31**|**Magnon, doublon and quarton excitations in 2D trimerized Heisenberg models**|Yue-Yue Chang et.al.|[2401.00376v1](http://arxiv.org/abs/2401.00376v1)|null|
 |**2023-12-29**|**Understanding the magnetic interactions of the zig-zag honeycomb lattice: Application to $α$-RuCl$_3$**|E. M. Wilson et.al.|[2312.17433v1](http://arxiv.org/abs/2312.17433v1)|null|
 |**2023-12-26**|**Observation of Magnon Damping Minimum Induced by Kondo Coupling in a van der Waals Ferromagnet Fe $_{3-x}$GeTe$_{2}$**|Song Bao et.al.|[2312.15961v1](http://arxiv.org/abs/2312.15961v1)|null|
 |**2023-12-13**|**Kernel Polynomial Method for Linear Spin Wave Theory**|Harry Lane et.al.|[2312.08349v1](http://arxiv.org/abs/2312.08349v1)|null|
