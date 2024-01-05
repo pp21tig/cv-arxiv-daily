@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Sensitivity of peptide conformational dynamics in carbon nanotubes to directional mechanical forces**|Felipe C. Nepomuceno et.al.|[2401.02352v1](http://arxiv.org/abs/2401.02352v1)|null|
+|**2024-01-04**|**Thermodynamics of active matter: Tracking dissipation across scales**|Robin Bebon et.al.|[2401.02252v1](http://arxiv.org/abs/2401.02252v1)|null|
+|**2024-01-04**|**Effective Single Particle Theory for Active System**|Jayam Joshi et.al.|[2401.02247v1](http://arxiv.org/abs/2401.02247v1)|null|
+|**2024-01-04**|**Valley-Polarized quantum Hall phase in a strain-controlled Dirac system**|G. Krizman et.al.|[2401.02159v1](http://arxiv.org/abs/2401.02159v1)|null|
+|**2024-01-04**|**Anomalous upper critical field in the quasicrystal superconductor Ta $_{1.6}$ Te**|Taichi Terashima et.al.|[2401.02079v1](http://arxiv.org/abs/2401.02079v1)|null|
+|**2024-01-03**|**Strong and Highly Switchable Soft Sticky Adhesives**|Qianfeng Yin et.al.|[2401.02002v1](http://arxiv.org/abs/2401.02002v1)|null|
+|**2024-01-03**|**Decoupling of rotation and translation at the colloidal glass transition**|John Geiger et.al.|[2401.01956v1](http://arxiv.org/abs/2401.01956v1)|null|
+|**2024-01-03**|**Superselection-Resolved Entanglement in Lattice Gauge Theories: A Tensor Network Approach**|Noa Feldman et.al.|[2401.01942v1](http://arxiv.org/abs/2401.01942v1)|null|
+|**2024-01-03**|**Observation of Liquid Glass in Molecular Dynamics Simulations**|Mohammed Alhissi et.al.|[2401.01938v1](http://arxiv.org/abs/2401.01938v1)|null|
+|**2024-01-03**|**Aqueous Laponite Dispersions are Attractive Gels, Not Repulsive Wigner Glasses: A Critical Commentary**|Yogesh M Joshi et.al.|[2401.01917v1](http://arxiv.org/abs/2401.01917v1)|null|
 |**2024-01-03**|**Twisted domains in ferroelectric nematic liquid crystals**|Vladimira Novotna et.al.|[2401.01748v1](http://arxiv.org/abs/2401.01748v1)|null|
 |**2024-01-03**|**Structural dynamics and optimal transport of an active polymer**|Hamidreza Khalilian et.al.|[2401.01719v1](http://arxiv.org/abs/2401.01719v1)|null|
 |**2024-01-03**|**Exotic magnetization curves in classical square-kagomé spin lattices**|Heinz-Jürgen Schmidt et.al.|[2401.01678v1](http://arxiv.org/abs/2401.01678v1)|null|
@@ -4790,6 +4800,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275v1](http://arxiv.org/abs/2401.02275v1)|null|
 |**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138v1](http://arxiv.org/abs/2401.00138v1)|null|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732v1](http://arxiv.org/abs/2312.16732v1)|null|
 |**2024-01-02**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437v2](http://arxiv.org/abs/2312.16437v2)|null|
