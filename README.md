@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Inversion Ring in Chromonic Twisted Hedgehogs: Theory and Experiment**|Federica Ciuchi et.al.|[2401.02893v1](http://arxiv.org/abs/2401.02893v1)|null|
+|**2024-01-05**|**Nonlinear Rydberg exciton-polaritons in Cu $_2$ O microcavities**|Maxim Makhonin et.al.|[2401.02868v1](http://arxiv.org/abs/2401.02868v1)|null|
+|**2024-01-05**|**Macromolecular crowding in chiral assembly of ellipsoidal nanoparticles**|Jiaxin Hou et.al.|[2401.02767v1](http://arxiv.org/abs/2401.02767v1)|null|
+|**2024-01-05**|**Thermal transport of confined water molecules in quasi-one-dimensional nanotubes**|Shun Imamura et.al.|[2401.02595v1](http://arxiv.org/abs/2401.02595v1)|null|
+|**2024-01-04**|**Poly-dispersity and deformation effects on pore throat size in granular beds**|Dhairya R. Vyas et.al.|[2401.02534v1](http://arxiv.org/abs/2401.02534v1)|null|
+|**2024-01-04**|**Stiffer alginate gels deposit more efficiently in microchannel flows**|Barrett T Smith et.al.|[2401.02530v1](http://arxiv.org/abs/2401.02530v1)|null|
+|**2024-01-04**|**Liouvillian recursion method for the electronic Green's function**|Alexandre Foley et.al.|[2401.02527v1](http://arxiv.org/abs/2401.02527v1)|null|
 |**2024-01-04**|**Sensitivity of peptide conformational dynamics in carbon nanotubes to directional mechanical forces**|Felipe C. Nepomuceno et.al.|[2401.02352v1](http://arxiv.org/abs/2401.02352v1)|null|
 |**2024-01-04**|**Thermodynamics of active matter: Tracking dissipation across scales**|Robin Bebon et.al.|[2401.02252v1](http://arxiv.org/abs/2401.02252v1)|null|
 |**2024-01-04**|**Effective Single Particle Theory for Active System**|Jayam Joshi et.al.|[2401.02247v1](http://arxiv.org/abs/2401.02247v1)|null|
