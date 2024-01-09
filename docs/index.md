@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Composite cores of monopoles and Alice rings in spin-2 Bose-Einstein condensates**|Giuseppe Baio et.al.|[2401.04103v1](http://arxiv.org/abs/2401.04103v1)|null|
+|**2024-01-08**|**Self-organization of active colloids mediated by chemical interactions**|Zhiwei Peng et.al.|[2401.04043v1](http://arxiv.org/abs/2401.04043v1)|null|
+|**2024-01-08**|**Nano-assembled open quantum dot nanotube devices**|Tim Althuon et.al.|[2401.03967v1](http://arxiv.org/abs/2401.03967v1)|null|
+|**2024-01-08**|**Self-similar and Universal Dynamics in Drainage of Mobile Soap Films**|Antoine Monier et.al.|[2401.03931v1](http://arxiv.org/abs/2401.03931v1)|null|
+|**2024-01-08**|**Elementary vibrational model for transport properties of dense fluids**|Sergey Khrapak et.al.|[2401.03871v1](http://arxiv.org/abs/2401.03871v1)|null|
+|**2024-01-08**|**Exploring the Electronic Potential of Effective Tight $-$ Binding Hamiltonians**|Graziâni Candiotto et.al.|[2401.03847v1](http://arxiv.org/abs/2401.03847v1)|null|
+|**2024-01-08**|**Applications of the kinetic theory for a model of a confined quasi-two dimensional granular mixture: Stability analysis and thermal diffusion segregation**|Vicente Garzó et.al.|[2401.03822v1](http://arxiv.org/abs/2401.03822v1)|null|
+|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819v1](http://arxiv.org/abs/2401.03819v1)|null|
+|**2024-01-08**|**Levitated ferromagnetic magnetometer with energy resolution well below $\hbar$**|Felix Ahrens et.al.|[2401.03774v1](http://arxiv.org/abs/2401.03774v1)|null|
+|**2024-01-08**|**Towards interpreting the thermally activated $β$ dynamics in metallic glass with the structural constraint neural network**|Xiao Jiang et.al.|[2401.03743v1](http://arxiv.org/abs/2401.03743v1)|null|
+|**2024-01-08**|**Active nematics that modify their environment: a framework for extra-cellular matrix remodeling**|Ram M. Adar et.al.|[2401.03688v1](http://arxiv.org/abs/2401.03688v1)|null|
+|**2024-01-08**|**Discontinuous transition in electrolyte flow through charge-patterned nanochannels**|Tine Curk et.al.|[2401.03666v1](http://arxiv.org/abs/2401.03666v1)|null|
+|**2024-01-07**|**Mpemba meets Newton: Exploring the Mpemba and Kovacs effects in the time-delayed cooling law**|Andrés Santos et.al.|[2401.03550v1](http://arxiv.org/abs/2401.03550v1)|null|
+|**2024-01-07**|**Strain-induced Ferroelectricity and Bulk Photovoltaic Effect in One-dimensional Antiferromagnetic WOI3**|Zhihao Gong et.al.|[2401.03526v1](http://arxiv.org/abs/2401.03526v1)|null|
+|**2024-01-07**|**Some comments on the fracture of viscoelastic solids**|B. N. J. Persson et.al.|[2401.03502v1](http://arxiv.org/abs/2401.03502v1)|null|
+|**2024-01-06**|**Viscosity bounds in liquids with different structure and bonding types**|M. Withington et.al.|[2401.03212v1](http://arxiv.org/abs/2401.03212v1)|null|
+|**2024-01-05**|**Dark Matter Candidates of a Very Low Mass**|Kathryn M. Zurek et.al.|[2401.03025v1](http://arxiv.org/abs/2401.03025v1)|null|
+|**2024-01-05**|**Ground state energy and magnetization curve of a frustrated magnetic system from real-time evolution on a digital quantum processor**|Aaron Szasz et.al.|[2401.03015v1](http://arxiv.org/abs/2401.03015v1)|null|
 |**2024-01-05**|**Inversion Ring in Chromonic Twisted Hedgehogs: Theory and Experiment**|Federica Ciuchi et.al.|[2401.02893v1](http://arxiv.org/abs/2401.02893v1)|null|
 |**2024-01-05**|**Nonlinear Rydberg exciton-polaritons in Cu $_2$ O microcavities**|Maxim Makhonin et.al.|[2401.02868v1](http://arxiv.org/abs/2401.02868v1)|null|
 |**2024-01-05**|**Macromolecular crowding in chiral assembly of ellipsoidal nanoparticles**|Jiaxin Hou et.al.|[2401.02767v1](http://arxiv.org/abs/2401.02767v1)|null|
@@ -4807,10 +4825,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Machine learning inspired models for Hall effects in non-collinear magnets**|Jonathan Kipp et.al.|[2401.03044v1](http://arxiv.org/abs/2401.03044v1)|null|
 |**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275v1](http://arxiv.org/abs/2401.02275v1)|null|
 |**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138v1](http://arxiv.org/abs/2401.00138v1)|null|
 |**2023-12-27**|**CdTe and HgTe doped with V, Cr, and Mn -- prospects for the quantum anomalous Hall effect**|Giuseppe Cuono et.al.|[2312.16732v1](http://arxiv.org/abs/2312.16732v1)|null|
-|**2024-01-02**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437v2](http://arxiv.org/abs/2312.16437v2)|null|
+|**2024-01-08**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437v3](http://arxiv.org/abs/2312.16437v3)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290v1](http://arxiv.org/abs/2312.16290v1)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050v1](http://arxiv.org/abs/2312.16050v1)|null|
 |**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v1](http://arxiv.org/abs/2312.15977v1)|null|
