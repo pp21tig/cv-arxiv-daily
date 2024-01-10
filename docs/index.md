@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Ion Type Dependence of DNA Electronic Excitation in Water under Proton, alpha-particle, and Carbon Ion Irradiation: A First-Principles Simulation Study**|Christopher Shepard et.al.|[2401.04703v1](http://arxiv.org/abs/2401.04703v1)|null|
+|**2024-01-09**|**Binding potential and wetting behaviour of binary liquid mixtures on surfaces**|Mounirah Areshi et.al.|[2401.04641v1](http://arxiv.org/abs/2401.04641v1)|null|
+|**2024-01-09**|**Polymer translocation: Effects of confinement**|Manish Dwivedi et.al.|[2401.04610v1](http://arxiv.org/abs/2401.04610v1)|null|
+|**2024-01-09**|**Controlling chaos: Periodic defect braiding in active nematics confined to a cardioid**|Fereshteh L. Memarian et.al.|[2401.04363v1](http://arxiv.org/abs/2401.04363v1)|null|
+|**2024-01-09**|**Exchange-correlation entropy from the generalized thermal adiabatic connection**|Brittany P. Harding et.al.|[2401.04337v1](http://arxiv.org/abs/2401.04337v1)|null|
+|**2024-01-09**|**New twisted van der Waals fabrication method based on strongly adhesive polymer**|Giung Park et.al.|[2401.04313v1](http://arxiv.org/abs/2401.04313v1)|null|
+|**2024-01-08**|**Hyperelastic swelling of tough hydrogels**|Jing Wang et.al.|[2401.04251v1](http://arxiv.org/abs/2401.04251v1)|null|
+|**2024-01-08**|**Force Propagation in Active Cytoskeletal Networks**|Shichen Liu et.al.|[2401.04217v1](http://arxiv.org/abs/2401.04217v1)|null|
+|**2024-01-08**|**Comments regarding Transonic dislocation propagation in diamond by Katagiri, et al. (Science 382, 69-72, 2023)**|James A. Hawreliak et.al.|[2401.04213v1](http://arxiv.org/abs/2401.04213v1)|null|
 |**2024-01-08**|**Composite cores of monopoles and Alice rings in spin-2 Bose-Einstein condensates**|Giuseppe Baio et.al.|[2401.04103v1](http://arxiv.org/abs/2401.04103v1)|null|
 |**2024-01-08**|**Self-organization of active colloids mediated by chemical interactions**|Zhiwei Peng et.al.|[2401.04043v1](http://arxiv.org/abs/2401.04043v1)|null|
 |**2024-01-08**|**Nano-assembled open quantum dot nanotube devices**|Tim Althuon et.al.|[2401.03967v1](http://arxiv.org/abs/2401.03967v1)|null|
@@ -1109,7 +1118,7 @@ layout: default
 |**2024-01-08**|**Elementary vibrational model for transport properties of dense fluids**|Sergey Khrapak et.al.|[2401.03871v1](http://arxiv.org/abs/2401.03871v1)|null|
 |**2024-01-08**|**Exploring the Electronic Potential of Effective Tight $-$ Binding Hamiltonians**|Graziâni Candiotto et.al.|[2401.03847v1](http://arxiv.org/abs/2401.03847v1)|null|
 |**2024-01-08**|**Applications of the kinetic theory for a model of a confined quasi-two dimensional granular mixture: Stability analysis and thermal diffusion segregation**|Vicente Garzó et.al.|[2401.03822v1](http://arxiv.org/abs/2401.03822v1)|null|
-|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819v1](http://arxiv.org/abs/2401.03819v1)|null|
+|**2024-01-09**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819v2](http://arxiv.org/abs/2401.03819v2)|null|
 |**2024-01-08**|**Levitated ferromagnetic magnetometer with energy resolution well below $\hbar$**|Felix Ahrens et.al.|[2401.03774v1](http://arxiv.org/abs/2401.03774v1)|null|
 |**2024-01-08**|**Towards interpreting the thermally activated $β$ dynamics in metallic glass with the structural constraint neural network**|Xiao Jiang et.al.|[2401.03743v1](http://arxiv.org/abs/2401.03743v1)|null|
 |**2024-01-08**|**Active nematics that modify their environment: a framework for extra-cellular matrix remodeling**|Ram M. Adar et.al.|[2401.03688v1](http://arxiv.org/abs/2401.03688v1)|null|
@@ -4463,6 +4472,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Simulation of ion demixing in halide perovskites using Cahn-Hilliard equation**|V. Holý et.al.|[2401.04533v1](http://arxiv.org/abs/2401.04533v1)|null|
 |**2023-12-25**|**Radiometric propulsion: Advancing with the order-of-magnitude enhancement through graphene aerogel-coated vanes**|Bo Peng et.al.|[2312.15592v1](http://arxiv.org/abs/2312.15592v1)|null|
 |**2023-12-20**|**Modeling Photothermal Effects in High Power Optical Resonators used for Coherent Levitation**|Chenyue Gu et.al.|[2312.13375v1](http://arxiv.org/abs/2312.13375v1)|null|
 |**2023-11-20**|**All-Optical Domain Inversion in LiNbO3 Crystals by Visible Continuous-Wave Laser Irradiation**|Carlos Sebastián-Vicente et.al.|[2312.13291v1](http://arxiv.org/abs/2312.13291v1)|null|
@@ -4693,6 +4703,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Topological transverse spin transport in a canted antiferromagnet/heavy metal heterostructure**|Wesley Roberts et.al.|[2401.04582v1](http://arxiv.org/abs/2401.04582v1)|null|
 |**2024-01-03**|**Intrinsic Spin Hall Effect in 5d Metals Calculated from Ab-Initio Transport Theory**|Akash Bajaj et.al.|[2401.01658v1](http://arxiv.org/abs/2401.01658v1)|null|
 |**2024-01-02**|**Modelling the mechanics of 32 T REBCO superconductor magnet using numerical simulation**|Arpit Kumar Srivastava et.al.|[2401.01266v1](http://arxiv.org/abs/2401.01266v1)|null|
 |**2023-12-29**|**Chiral anomaly induced monopole current and nonlinear circular dichroism**|Nikolai Peshcherenko et.al.|[2312.17690v1](http://arxiv.org/abs/2312.17690v1)|null|
@@ -4825,6 +4836,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Atomic Layer Molecular Beam Epitaxy of Kagome Magnet RMn $_6$Sn$_6$ (R = Er, Tb) Thin Films**|Shuyu Cheng et.al.|[2401.04713v1](http://arxiv.org/abs/2401.04713v1)|null|
 |**2024-01-05**|**Machine learning inspired models for Hall effects in non-collinear magnets**|Jonathan Kipp et.al.|[2401.03044v1](http://arxiv.org/abs/2401.03044v1)|null|
 |**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275v1](http://arxiv.org/abs/2401.02275v1)|null|
 |**2023-12-30**|**Absence of Weyl nodes in EuCd $_2$As$_2$ revealed by the carrier density dependence of the anomalous Hall effect**|Yue Shi et.al.|[2401.00138v1](http://arxiv.org/abs/2401.00138v1)|null|
