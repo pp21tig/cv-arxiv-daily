@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Biofilm mechanics and patterns**|Ana Carpio et.al.|[2401.05323v1](http://arxiv.org/abs/2401.05323v1)|null|
+|**2024-01-10**|**Droplet morphology-based wettability tuning and design of fog harvesting mesh to minimize mesh-clogging**|Arani Mukhopadhyay et.al.|[2401.05284v1](http://arxiv.org/abs/2401.05284v1)|null|
+|**2024-01-10**|**Microswimmers knead nematic into cholesteric**|Bhavesh Gautam et.al.|[2401.05262v1](http://arxiv.org/abs/2401.05262v1)|null|
+|**2024-01-10**|**3D model for surface accumulation of chiral and non-chiral microswimmers**|Danne M. van Roon et.al.|[2401.05237v1](http://arxiv.org/abs/2401.05237v1)|null|
+|**2024-01-10**|**Field sources in a planar anisotropic CPT-odd gauge model**|L. H. C. Borges et.al.|[2401.05216v1](http://arxiv.org/abs/2401.05216v1)|null|
+|**2024-01-10**|**Insights into elastic properties of coarse-grained DNA models: q-stiffness of cgDNA vs. cgDNA+**|Wout Laeremans et.al.|[2401.05208v1](http://arxiv.org/abs/2401.05208v1)|null|
+|**2024-01-10**|**Directional drying of a colloidal dispersion: quantitative description with water potential measurements using water clusters in a poly(dimethylsiloxane) microfluidic chip**|Hrishikesh Pingulkar et.al.|[2401.05139v1](http://arxiv.org/abs/2401.05139v1)|null|
+|**2024-01-10**|**Supramolecular assemblies in active motor-filament systems: micelles, bilayers, and foams**|Filippo De Luca et.al.|[2401.05070v1](http://arxiv.org/abs/2401.05070v1)|null|
+|**2024-01-10**|**Lane formation in gravitationally driven colloid mixtures consisting of up to three different particle sizes**|Kay Hofmann et.al.|[2401.05067v1](http://arxiv.org/abs/2401.05067v1)|null|
+|**2024-01-10**|**Temporal evolution of interparticle potentials of PMMA colloids in CHB/decaline**|Marcel Rudolf et.al.|[2401.05040v1](http://arxiv.org/abs/2401.05040v1)|null|
+|**2024-01-10**|**Quantum amplification and simulation of strong and ultrastrong coupling of light and matter**|Wei Qin et.al.|[2401.04949v1](http://arxiv.org/abs/2401.04949v1)|null|
+|**2024-01-10**|**Dissipative particle dynamics for coarse-grained models**|Tine Curk et.al.|[2401.04932v1](http://arxiv.org/abs/2401.04932v1)|null|
+|**2024-01-10**|**Immersed boundary method for dynamic simulation of polarizable colloids of arbitrary shape in explicit ion electrolytes**|Emily Krucker-Velasquez et.al.|[2401.04865v1](http://arxiv.org/abs/2401.04865v1)|null|
+|**2024-01-09**|**Discovery of a hybrid topological quantum state in an elemental solid**|Md Shafayat Hossain et.al.|[2401.04845v1](http://arxiv.org/abs/2401.04845v1)|null|
+|**2024-01-09**|**Coulomb universality**|Leo Radzihovsky et.al.|[2401.04761v1](http://arxiv.org/abs/2401.04761v1)|null|
 |**2024-01-09**|**Ion Type Dependence of DNA Electronic Excitation in Water under Proton, alpha-particle, and Carbon Ion Irradiation: A First-Principles Simulation Study**|Christopher Shepard et.al.|[2401.04703v1](http://arxiv.org/abs/2401.04703v1)|null|
 |**2024-01-09**|**Binding potential and wetting behaviour of binary liquid mixtures on surfaces**|Mounirah Areshi et.al.|[2401.04641v1](http://arxiv.org/abs/2401.04641v1)|null|
 |**2024-01-09**|**Polymer translocation: Effects of confinement**|Manish Dwivedi et.al.|[2401.04610v1](http://arxiv.org/abs/2401.04610v1)|null|
@@ -5001,6 +5016,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Nematic quantum disordered state in FeSe**|Ruixian Liu et.al.|[2401.05092v1](http://arxiv.org/abs/2401.05092v1)|null|
 |**2023-12-31**|**Magnon, doublon and quarton excitations in 2D trimerized Heisenberg models**|Yue-Yue Chang et.al.|[2401.00376v1](http://arxiv.org/abs/2401.00376v1)|null|
 |**2023-12-29**|**Understanding the magnetic interactions of the zig-zag honeycomb lattice: Application to $α$-RuCl$_3$**|E. M. Wilson et.al.|[2312.17433v1](http://arxiv.org/abs/2312.17433v1)|null|
 |**2023-12-26**|**Observation of Magnon Damping Minimum Induced by Kondo Coupling in a van der Waals Ferromagnet Fe $_{3-x}$GeTe$_{2}$**|Song Bao et.al.|[2312.15961v1](http://arxiv.org/abs/2312.15961v1)|null|
