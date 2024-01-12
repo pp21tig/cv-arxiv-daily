@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**In situ coherent X-ray scattering reveals polycrystalline structure and discrete annealing events in strongly-coupled nanocrystal superlattices**|Matthew J. Hurley et.al.|[2401.06103v1](http://arxiv.org/abs/2401.06103v1)|null|
+|**2024-01-11**|**Anomalous dispersion, superluminality and instabilities in two-flavour theories with local non-Hermitian mass mixing**|Maxim N. Chernodub et.al.|[2401.06097v1](http://arxiv.org/abs/2401.06097v1)|null|
+|**2024-01-11**|**Simulating critical anion chemistry with indirect excitons**|Krzysztof Myśliwy et.al.|[2401.06017v1](http://arxiv.org/abs/2401.06017v1)|null|
+|**2024-01-11**|**Phase separation in ordered polar active fluids: A new Universality class**|Maxx Miller et.al.|[2401.05996v1](http://arxiv.org/abs/2401.05996v1)|null|
+|**2024-01-11**|**Surface-directed Dynamics in Living Liquid Crystals**|Aditya Vats et.al.|[2401.05858v1](http://arxiv.org/abs/2401.05858v1)|null|
+|**2024-01-11**|**Finding the Differences: Classical Nucleation Perspective on Homogeneous Melting and Freezing of Hard Spheres**|Willem Gispen et.al.|[2401.05855v1](http://arxiv.org/abs/2401.05855v1)|null|
+|**2024-01-11**|**Should you hire new searchers? Optimal number of agents in a collective search, and when to launch them**|Hugues Meyer et.al.|[2401.05851v1](http://arxiv.org/abs/2401.05851v1)|null|
+|**2024-01-11**|**Ions and dipoles in electric field: Nonlinear polarization and field-dependent chemical reaction**|Akira Onuki et.al.|[2401.05825v1](http://arxiv.org/abs/2401.05825v1)|null|
+|**2024-01-11**|**Revisiting the Lindemann's criterion from a minimal viscosity perspective**|Pablo G. Tello et.al.|[2401.05813v1](http://arxiv.org/abs/2401.05813v1)|null|
+|**2024-01-11**|**There and back again: bridging meso- and nanoscales to understand lipid vesicle patterning**|Julie Cornet et.al.|[2401.05785v1](http://arxiv.org/abs/2401.05785v1)|null|
+|**2024-01-11**|**Open-loop quantum control of small-size networks for high-order cumulants and cross-correlations sensing**|Antonio D'Arrigo et.al.|[2401.05766v1](http://arxiv.org/abs/2401.05766v1)|null|
+|**2024-01-11**|**Advancing real-time Yang-Mills: towards real-time observables from first principles**|Kirill Boguslavski et.al.|[2401.05723v1](http://arxiv.org/abs/2401.05723v1)|null|
+|**2024-01-11**|**Atomic Scale Quantum Anomalous Hall Effect in Monolayer Graphene/ $\rm MnBi_{2}Te_{4}$ Heterostructure**|Yueh-Ting Yao et.al.|[2401.05691v1](http://arxiv.org/abs/2401.05691v1)|null|
+|**2024-01-11**|**Ohta $\unicode{x2013}$ Kawasaki energy for amphiphiles: asymptotics and phase-field simulations**|Qiang Du et.al.|[2401.05679v1](http://arxiv.org/abs/2401.05679v1)|null|
+|**2024-01-10**|**Topological defects in multi-layered swarming bacteria**|Victor Yashunsky et.al.|[2401.05560v1](http://arxiv.org/abs/2401.05560v1)|null|
+|**2024-01-10**|**Flow rate--pressure drop relations for shear-thinning fluids in deformable configurations: theory and experiments**|SungGyu Chun et.al.|[2401.05513v1](http://arxiv.org/abs/2401.05513v1)|null|
+|**2024-01-10**|**Principles of 2D terahertz spectroscopy of collective excitations: the case of Josephson plasmons in layered superconductors**|Alex Gómez Salvador et.al.|[2401.05503v1](http://arxiv.org/abs/2401.05503v1)|null|
 |**2024-01-10**|**Biofilm mechanics and patterns**|Ana Carpio et.al.|[2401.05323v1](http://arxiv.org/abs/2401.05323v1)|null|
 |**2024-01-10**|**Droplet morphology-based wettability tuning and design of fog harvesting mesh to minimize mesh-clogging**|Arani Mukhopadhyay et.al.|[2401.05284v1](http://arxiv.org/abs/2401.05284v1)|null|
 |**2024-01-10**|**Microswimmers knead nematic into cholesteric**|Bhavesh Gautam et.al.|[2401.05262v1](http://arxiv.org/abs/2401.05262v1)|null|
@@ -4714,6 +4731,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Tuning the Electronic and Magnetic Properties of Double Transition Metal MCrCT $_2$ (M = Ti, Mo) Janus MXenes for Enhanced Spintronics and Nanoelectronics**|Swetarekha Ram et.al.|[2401.05796v1](http://arxiv.org/abs/2401.05796v1)|null|
+|**2024-01-11**|**Deterministic and stochastic aspects of current-induced magnetization reversal in perpendicular nanomagnets**|Giacomo Sala et.al.|[2401.05704v1](http://arxiv.org/abs/2401.05704v1)|null|
+|**2024-01-11**|**Orbital Hanle Magnetoresistance in a 3d Transition Metal**|Giacomo Sala et.al.|[2401.05703v1](http://arxiv.org/abs/2401.05703v1)|null|
 |**2024-01-09**|**Topological transverse spin transport in a canted antiferromagnet/heavy metal heterostructure**|Wesley Roberts et.al.|[2401.04582v1](http://arxiv.org/abs/2401.04582v1)|null|
 |**2024-01-03**|**Intrinsic Spin Hall Effect in 5d Metals Calculated from Ab-Initio Transport Theory**|Akash Bajaj et.al.|[2401.01658v1](http://arxiv.org/abs/2401.01658v1)|null|
 |**2024-01-02**|**Modelling the mechanics of 32 T REBCO superconductor magnet using numerical simulation**|Arpit Kumar Srivastava et.al.|[2401.01266v1](http://arxiv.org/abs/2401.01266v1)|null|
@@ -4847,6 +4867,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Atomic Scale Quantum Anomalous Hall Effect in Monolayer Graphene/ $\rm MnBi_{2}Te_{4}$ Heterostructure**|Yueh-Ting Yao et.al.|[2401.05691v1](http://arxiv.org/abs/2401.05691v1)|null|
+|**2024-01-10**|**On the zero-field quantization of the anomalous quantum Hall effect in moiré 2D layers**|Sankar Das Sarma et.al.|[2401.05485v1](http://arxiv.org/abs/2401.05485v1)|null|
 |**2024-01-09**|**Atomic Layer Molecular Beam Epitaxy of Kagome Magnet RMn $_6$Sn$_6$ (R = Er, Tb) Thin Films**|Shuyu Cheng et.al.|[2401.04713v1](http://arxiv.org/abs/2401.04713v1)|null|
 |**2024-01-05**|**Machine learning inspired models for Hall effects in non-collinear magnets**|Jonathan Kipp et.al.|[2401.03044v1](http://arxiv.org/abs/2401.03044v1)|null|
 |**2024-01-04**|**Anisotropy of the anomalous Hall effect in the altermagnet candidate Mn $_5$Si$_3$ films**|Miina Leiviskä et.al.|[2401.02275v1](http://arxiv.org/abs/2401.02275v1)|null|
