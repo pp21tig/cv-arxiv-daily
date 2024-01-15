@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Confinement determines transport of a reaction-diffusion active matter front**|Nicolas Lobato-Dauzier et.al.|[2401.06674v1](http://arxiv.org/abs/2401.06674v1)|null|
+|**2024-01-12**|**Printing Mosaics of Magnetically Programmed Liquid Crystal Directors for Reversibly Morphing Soft Matter**|Yueping Wang et.al.|[2401.06590v1](http://arxiv.org/abs/2401.06590v1)|null|
+|**2024-01-12**|**Effect of the Nature of the Solid Substrate on Spatially Heterogeneous Activated Dynamics in Glass Forming Supported Films**|Anh D. Phan et.al.|[2401.06569v1](http://arxiv.org/abs/2401.06569v1)|null|
+|**2024-01-12**|**Direction dependent switching of carrier-type enabled by Fermi surface geometry**|Shuaishuai Luo et.al.|[2401.06333v1](http://arxiv.org/abs/2401.06333v1)|null|
+|**2024-01-11**|**Nanoalignment by Critical Casimir Torques**|Gan Wang et.al.|[2401.06260v1](http://arxiv.org/abs/2401.06260v1)|null|
+|**2024-01-11**|**Solid-state continuous time crystal with a built-in clock**|I. Carraro Haddad et.al.|[2401.06246v1](http://arxiv.org/abs/2401.06246v1)|null|
+|**2024-01-11**|**Crowding-Regulated Binding of Divalent Biomolecules**|Tomasz Skóra et.al.|[2401.06232v1](http://arxiv.org/abs/2401.06232v1)|null|
 |**2024-01-11**|**In situ coherent X-ray scattering reveals polycrystalline structure and discrete annealing events in strongly-coupled nanocrystal superlattices**|Matthew J. Hurley et.al.|[2401.06103v1](http://arxiv.org/abs/2401.06103v1)|null|
 |**2024-01-11**|**Anomalous dispersion, superluminality and instabilities in two-flavour theories with local non-Hermitian mass mixing**|Maxim N. Chernodub et.al.|[2401.06097v1](http://arxiv.org/abs/2401.06097v1)|null|
 |**2024-01-11**|**Simulating critical anion chemistry with indirect excitons**|Krzysztof Myśliwy et.al.|[2401.06017v1](http://arxiv.org/abs/2401.06017v1)|null|
@@ -4735,6 +4742,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Magnetic control of Weyl nodes and wave packets in three-dimensional warped semimetals**|Bruno Focassio et.al.|[2401.06282v1](http://arxiv.org/abs/2401.06282v1)|null|
 |**2024-01-11**|**Tuning the Electronic and Magnetic Properties of Double Transition Metal MCrCT $_2$ (M = Ti, Mo) Janus MXenes for Enhanced Spintronics and Nanoelectronics**|Swetarekha Ram et.al.|[2401.05796v1](http://arxiv.org/abs/2401.05796v1)|null|
 |**2024-01-11**|**Deterministic and stochastic aspects of current-induced magnetization reversal in perpendicular nanomagnets**|Giacomo Sala et.al.|[2401.05704v1](http://arxiv.org/abs/2401.05704v1)|null|
 |**2024-01-11**|**Orbital Hanle Magnetoresistance in a 3d Transition Metal**|Giacomo Sala et.al.|[2401.05703v1](http://arxiv.org/abs/2401.05703v1)|null|
@@ -4871,6 +4879,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Magnetic control of Weyl nodes and wave packets in three-dimensional warped semimetals**|Bruno Focassio et.al.|[2401.06282v1](http://arxiv.org/abs/2401.06282v1)|null|
 |**2024-01-11**|**Atomic Scale Quantum Anomalous Hall Effect in Monolayer Graphene/ $\rm MnBi_{2}Te_{4}$ Heterostructure**|Yueh-Ting Yao et.al.|[2401.05691v1](http://arxiv.org/abs/2401.05691v1)|null|
 |**2024-01-10**|**On the zero-field quantization of the anomalous quantum Hall effect in moiré 2D layers**|Sankar Das Sarma et.al.|[2401.05485v1](http://arxiv.org/abs/2401.05485v1)|null|
 |**2024-01-09**|**Atomic Layer Molecular Beam Epitaxy of Kagome Magnet RMn $_6$Sn$_6$ (R = Er, Tb) Thin Films**|Shuyu Cheng et.al.|[2401.04713v1](http://arxiv.org/abs/2401.04713v1)|null|
