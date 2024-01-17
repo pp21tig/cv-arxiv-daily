@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Ab initio evaluation of the electron-ion energy transfer rate in a non-equilibrium warm dense metal**|Jia Zhang et.al.|[2401.08184v1](http://arxiv.org/abs/2401.08184v1)|null|
+|**2024-01-16**|**Molecular chirality quantification: tools and benchmarks**|Ethan Abraham et.al.|[2401.08114v1](http://arxiv.org/abs/2401.08114v1)|null|
+|**2024-01-15**|**Active fluctuations in the harmonic chain: phonons, entropons and velocity correlations**|Umberto Marini Bettolo Marconi et.al.|[2401.07972v1](http://arxiv.org/abs/2401.07972v1)|null|
+|**2024-01-15**|**Programming bistability in geometrically perturbed mechanical metamaterials**|Yingchao Peng et.al.|[2401.07881v1](http://arxiv.org/abs/2401.07881v1)|null|
+|**2024-01-15**|**Acoustic manipulation of multi-body structures and dynamics**|Melody X. Lim et.al.|[2401.07859v1](http://arxiv.org/abs/2401.07859v1)|null|
+|**2024-01-15**|**Predicting heteropolymer interactions: demixing and hypermixing of disordered protein sequences**|Kyosuke Adachi et.al.|[2401.07826v1](http://arxiv.org/abs/2401.07826v1)|null|
+|**2024-01-15**|**Theoretical Design of Mono-Elemental Ferroelectricity with Tunable Spin Textures in Bilayer Tellurium**|Jiajun Zhu et.al.|[2401.07752v1](http://arxiv.org/abs/2401.07752v1)|null|
+|**2024-01-15**|**Ion channels in critical membranes: clustering, cooperativity, and memory effects**|Antonio Suma et.al.|[2401.07660v1](http://arxiv.org/abs/2401.07660v1)|null|
+|**2024-01-15**|**Passive particle in an active bath: How can we tell it is out of equilibrium?**|Jeanine Shea et.al.|[2401.07630v1](http://arxiv.org/abs/2401.07630v1)|null|
+|**2024-01-15**|**Stability of branched tubular membrane structures**|Maike Jung et.al.|[2401.07596v1](http://arxiv.org/abs/2401.07596v1)|null|
+|**2024-01-15**|**Exploring pNIPAM Lyogels for SMART Reactors: Experimental Study on Swelling Equilibria in Various Organic Solvents and Mixtures, Supported by COSMO-RS Analysis**|Kathrin Marina Eckert et.al.|[2401.07592v1](http://arxiv.org/abs/2401.07592v1)|null|
+|**2024-01-15**|**Encoding the lattice in the Holography**|Taewon Yuk et.al.|[2401.07498v1](http://arxiv.org/abs/2401.07498v1)|null|
+|**2024-01-15**|**Interferometric Geometric Phases of $\mathcal{PT}$ -symmetric Quantum Mechanics**|Xin Wang et.al.|[2401.07442v1](http://arxiv.org/abs/2401.07442v1)|null|
+|**2024-01-14**|**Quantum chaos in PT symmetric quantum systems**|Kshitij Sharma et.al.|[2401.07215v1](http://arxiv.org/abs/2401.07215v1)|null|
+|**2024-01-13**|**Field theory of collinear and noncollinear magnetic order**|Oleg Tchernyshyov et.al.|[2401.07171v1](http://arxiv.org/abs/2401.07171v1)|null|
+|**2024-01-13**|**Dynamics of bacterial aggregates in microflows**|Ana Carpio et.al.|[2401.07138v1](http://arxiv.org/abs/2401.07138v1)|null|
+|**2024-01-13**|**Biofilm growth on rugose surfaces**|David Rodriguez et.al.|[2401.07135v1](http://arxiv.org/abs/2401.07135v1)|null|
+|**2024-01-13**|**Incorporating Cellular Stochasticity in Solid--Fluid Mixture Biofilm Models**|Ana Carpio et.al.|[2401.07088v1](http://arxiv.org/abs/2401.07088v1)|null|
+|**2024-01-13**|**Biofilms as poroelastic materials**|Ana Carpio et.al.|[2401.07060v1](http://arxiv.org/abs/2401.07060v1)|null|
+|**2024-01-13**|**In-plane Density Gradation of Shoe Midsoles for Optimized Cushioning Performance**|Kazi Zahir Uddin et.al.|[2401.06940v1](http://arxiv.org/abs/2401.06940v1)|null|
 |**2024-01-12**|**Confinement determines transport of a reaction-diffusion active matter front**|Nicolas Lobato-Dauzier et.al.|[2401.06674v1](http://arxiv.org/abs/2401.06674v1)|null|
 |**2024-01-12**|**Printing Mosaics of Magnetically Programmed Liquid Crystal Directors for Reversibly Morphing Soft Matter**|Yueping Wang et.al.|[2401.06590v1](http://arxiv.org/abs/2401.06590v1)|null|
 |**2024-01-12**|**Effect of the Nature of the Solid Substrate on Spatially Heterogeneous Activated Dynamics in Glass Forming Supported Films**|Anh D. Phan et.al.|[2401.06569v1](http://arxiv.org/abs/2401.06569v1)|null|
@@ -4738,6 +4758,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-15**|**Picosecond Trajectory of Two-dimensional Vortex Motion in FeSe $_{0.5}$Te$_{0.5}$ Visualized by Terahertz Second Harmonic Generation**|Sachiko Nakamura et.al.|[2401.07397v1](http://arxiv.org/abs/2401.07397v1)|null|
+|**2024-01-13**|**Thermoelectric properties of Marcus molecular junctions**|Natalya A. Zimbovskaya et.al.|[2401.07099v1](http://arxiv.org/abs/2401.07099v1)|null|
 |**2024-01-11**|**Magnetic control of Weyl nodes and wave packets in three-dimensional warped semimetals**|Bruno Focassio et.al.|[2401.06282v1](http://arxiv.org/abs/2401.06282v1)|null|
 |**2024-01-11**|**Tuning the Electronic and Magnetic Properties of Double Transition Metal MCrCT $_2$ (M = Ti, Mo) Janus MXenes for Enhanced Spintronics and Nanoelectronics**|Swetarekha Ram et.al.|[2401.05796v1](http://arxiv.org/abs/2401.05796v1)|null|
 |**2024-01-11**|**Deterministic and stochastic aspects of current-induced magnetization reversal in perpendicular nanomagnets**|Giacomo Sala et.al.|[2401.05704v1](http://arxiv.org/abs/2401.05704v1)|null|
@@ -4751,7 +4773,7 @@
 |**2023-12-26**|**Magnetic vortex control with current-induced axial magnetization in centrosymmetric Weyl materials**|J. G. Yang et.al.|[2312.16122v1](http://arxiv.org/abs/2312.16122v1)|null|
 |**2023-12-19**|**Microscopic theory of current-induced skyrmion transport and its application in disordered spin textures**|Emil Östberg et.al.|[2312.12201v1](http://arxiv.org/abs/2312.12201v1)|null|
 |**2023-12-16**|**Predicted Multiple Walker Breakdowns for Current-Driven Domain-Wall Motion in Antiferromagnets**|Mu-Kun Lee et.al.|[2312.10337v1](http://arxiv.org/abs/2312.10337v1)|null|
-|**2023-12-14**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v1](http://arxiv.org/abs/2312.08574v1)|null|
+|**2024-01-13**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v2](http://arxiv.org/abs/2312.08574v2)|null|
 |**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
 |**2023-12-13**|**Antiparallel spin polarization and spin current induced by thermal current and locally-broken inversion symmetry in a double-quantum-well structure**|Yuta Suzuki et.al.|[2312.07944v1](http://arxiv.org/abs/2312.07944v1)|null|
 |**2023-12-05**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v1](http://arxiv.org/abs/2312.04592v1)|null|
@@ -4875,6 +4897,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155v1](http://arxiv.org/abs/2401.08155v1)|null|
+|**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156v1](http://arxiv.org/abs/2401.07156v1)|null|
+|**2024-01-13**|**Electrodynamics of the quantum anomalous Hall state in a magnetically doped topological insulator**|Zhenisbek Tagay et.al.|[2401.06985v1](http://arxiv.org/abs/2401.06985v1)|null|
 |**2024-01-11**|**Magnetic control of Weyl nodes and wave packets in three-dimensional warped semimetals**|Bruno Focassio et.al.|[2401.06282v1](http://arxiv.org/abs/2401.06282v1)|null|
 |**2024-01-11**|**Atomic Scale Quantum Anomalous Hall Effect in Monolayer Graphene/ $\rm MnBi_{2}Te_{4}$ Heterostructure**|Yueh-Ting Yao et.al.|[2401.05691v1](http://arxiv.org/abs/2401.05691v1)|null|
 |**2024-01-10**|**On the zero-field quantization of the anomalous quantum Hall effect in moiré 2D layers**|Sankar Das Sarma et.al.|[2401.05485v1](http://arxiv.org/abs/2401.05485v1)|null|
@@ -4886,7 +4911,7 @@
 |**2024-01-08**|**Optical probe on doping modulation of magnetic Weyl semimetal Co $_3$Sn$_2$S$_2$**|L. Wang et.al.|[2312.16437v3](http://arxiv.org/abs/2312.16437v3)|null|
 |**2023-12-26**|**Altermagnetic anomalous Hall effect emerging from electronic correlations**|Toshihiro Sato et.al.|[2312.16290v1](http://arxiv.org/abs/2312.16290v1)|null|
 |**2023-12-26**|**Intrinsic and extrinsic anomalous transport properties in noncollinear antiferromagnetic Mn $_3$ Sn from first-principle calculations**|Xiuxian Yang et.al.|[2312.16050v1](http://arxiv.org/abs/2312.16050v1)|null|
-|**2023-12-26**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v1](http://arxiv.org/abs/2312.15977v1)|null|
+|**2024-01-16**|**Perspective on nanoscale magnetic sensors using giant anomalous Hall effect in topological magnetic materials for read head application in magnetic recording**|Tomoya Nakatani et.al.|[2312.15977v2](http://arxiv.org/abs/2312.15977v2)|null|
 |**2023-12-22**|**The Impact of Local Strain Fields in Non-Collinear Antiferromagnetic Films**|Freya Johnson et.al.|[2312.14864v1](http://arxiv.org/abs/2312.14864v1)|null|
 |**2023-12-22**|**Electronic structure, magnetic and transport properties of antiferromagnetic Weyl semimetal GdAlSi**|Antu Laha et.al.|[2312.14415v1](http://arxiv.org/abs/2312.14415v1)|null|
 |**2023-12-21**|**Direct evidence from high-field magnetotransport for a dramatic change of quasiparticle character in van der Waals ferromagnet Fe $_{3-x}$GeTe$_2$**|Shroya Vaidya et.al.|[2312.13894v1](http://arxiv.org/abs/2312.13894v1)|null|
