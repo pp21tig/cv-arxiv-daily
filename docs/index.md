@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Yielding and plasticity in amorphous solids**|Ludovic Berthier et.al.|[2401.09385v1](http://arxiv.org/abs/2401.09385v1)|null|
+|**2024-01-17**|**Fresh Cement as a Frictional Non-Brownian Suspension**|James A. Richards et.al.|[2401.09377v1](http://arxiv.org/abs/2401.09377v1)|null|
+|**2024-01-17**|**Optical and thermal effects in the neighborhood of the spherical layered nanoparticle of the "metallic core -- J-aggregate shell'' structure**|A. V. Korotun et.al.|[2401.09367v1](http://arxiv.org/abs/2401.09367v1)|null|
+|**2024-01-17**|**The role of intrinsic atomic defects in a Janus MoSSe/XN (X = Al, Ga) heterostructure: a first principles study**|Ö. C. Yelgel et.al.|[2401.09365v1](http://arxiv.org/abs/2401.09365v1)|null|
+|**2024-01-17**|**Exploring the structural, electronic, magnetic, and magneto-optical properties of double perovskites $\text{Ca}_2\text{TMIrO}_6$ (TM=Fe, Co) through first principles study**|I. Touaibia et.al.|[2401.09362v1](http://arxiv.org/abs/2401.09362v1)|null|
+|**2024-01-17**|**Dynamic behavior of the antiferromagnetically coupled bilayer Ising model**|C. Ekiz et.al.|[2401.09360v1](http://arxiv.org/abs/2401.09360v1)|null|
+|**2024-01-17**|**Potential Energy Landscape of a Flexible Water Model: Equation-of-State, Configurational Entropy, and Adam-Gibbs Relationship**|Ali Eltareb et.al.|[2401.09355v1](http://arxiv.org/abs/2401.09355v1)|null|
+|**2024-01-17**|**Entropic force in a dilute solution of real ring polymer chains with different topological structures in a slit of two parallel walls with mixed boundary conditions**|P. Kuterba et.al.|[2401.09353v1](http://arxiv.org/abs/2401.09353v1)|null|
+|**2024-01-17**|**Nonlinear background corrections to dielectric permittivity of ferroics and multiferroics**|I. S. Girnyk et.al.|[2401.09351v1](http://arxiv.org/abs/2401.09351v1)|null|
+|**2024-01-17**|**An experimental investigation of flow fields near a liquid-liquid moving contact line**|Charul Gupta et.al.|[2401.09347v1](http://arxiv.org/abs/2401.09347v1)|null|
+|**2024-01-17**|**Effect of out-of-plane acoustic phonons on the thermal transport properties of graphene**|J. Chen et.al.|[2401.09345v1](http://arxiv.org/abs/2401.09345v1)|null|
+|**2024-01-17**|**Cooperative two-photon lasing in two Quantum Dots embedded inside Photonic microcavity**|Lavakumar Addepalli et.al.|[2401.09341v1](http://arxiv.org/abs/2401.09341v1)|null|
+|**2024-01-17**|**Formation of nano and micro scale hierarchical structures in MgO and ZnO quantum dots doped LC media: The role of competitive forces**|A. K. Singh et.al.|[2401.09335v1](http://arxiv.org/abs/2401.09335v1)|null|
+|**2024-01-17**|**Study of the structural and electronic properties of semimetallic InBi: first-principles calculation of compound with peculiarities of the electronic structure**|V. V. Pozhyvatenko et.al.|[2401.09326v1](http://arxiv.org/abs/2401.09326v1)|null|
+|**2024-01-17**|**Wafer-scale fabrication of mesoporous silicon functionalized with electrically conductive polymers**|Manfred May et.al.|[2401.09276v1](http://arxiv.org/abs/2401.09276v1)|null|
+|**2024-01-17**|**Calculating Pair Correlations from Random Particle Configurations**|Aris Karnezis et.al.|[2401.09236v1](http://arxiv.org/abs/2401.09236v1)|null|
+|**2024-01-17**|**How boundary interactions dominate emergent driving of passive probes in active matter**|Jeanine Shea et.al.|[2401.09227v1](http://arxiv.org/abs/2401.09227v1)|null|
+|**2024-01-17**|**Bang-bang preparation of quantum many-body ground states in two dimensions: optimization of the algorithm with a two-dimensional tensor network**|Yintai Zhang et.al.|[2401.09158v1](http://arxiv.org/abs/2401.09158v1)|null|
+|**2024-01-17**|**Toward Diverse Polymer Property Prediction Using Transfer Learning**|Elaheh Kazemi-Khasragh et.al.|[2401.09139v1](http://arxiv.org/abs/2401.09139v1)|null|
+|**2024-01-17**|**Spin Orbit Torque on a Curved Surface**|Seng Ghee Tan et.al.|[2401.08966v1](http://arxiv.org/abs/2401.08966v1)|null|
 |**2024-01-16**|**Ab initio evaluation of the electron-ion energy transfer rate in a non-equilibrium warm dense metal**|Jia Zhang et.al.|[2401.08184v1](http://arxiv.org/abs/2401.08184v1)|null|
 |**2024-01-16**|**Molecular chirality quantification: tools and benchmarks**|Ethan Abraham et.al.|[2401.08114v1](http://arxiv.org/abs/2401.08114v1)|**[link](https://github.com/eabes23/chi_char)**|
 |**2024-01-15**|**Active fluctuations in the harmonic chain: phonons, entropons and velocity correlations**|Umberto Marini Bettolo Marconi et.al.|[2401.07972v1](http://arxiv.org/abs/2401.07972v1)|null|
@@ -4531,6 +4551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394v1](http://arxiv.org/abs/2401.08394v1)|null|
 |**2024-01-09**|**Simulation of ion demixing in halide perovskites using Cahn-Hilliard equation**|V. Holý et.al.|[2401.04533v1](http://arxiv.org/abs/2401.04533v1)|null|
 |**2023-12-25**|**Radiometric propulsion: Advancing with the order-of-magnitude enhancement through graphene aerogel-coated vanes**|Bo Peng et.al.|[2312.15592v1](http://arxiv.org/abs/2312.15592v1)|null|
 |**2023-12-20**|**Modeling Photothermal Effects in High Power Optical Resonators used for Coherent Levitation**|Chenyue Gu et.al.|[2312.13375v1](http://arxiv.org/abs/2312.13375v1)|null|
@@ -5076,6 +5097,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Structure and lattice excitations of the copper substituted lead oxyapatite Pb $_{9.06(7)}$Cu$_{0.94(6)}$(PO$_{3.92(4)}$)$_{6}$O$_{0.96(3)}$**|Qiang Zhang et.al.|[2401.08834v1](http://arxiv.org/abs/2401.08834v1)|null|
 |**2024-01-10**|**Nematic quantum disordered state in FeSe**|Ruixian Liu et.al.|[2401.05092v1](http://arxiv.org/abs/2401.05092v1)|null|
 |**2023-12-31**|**Magnon, doublon and quarton excitations in 2D trimerized Heisenberg models**|Yue-Yue Chang et.al.|[2401.00376v1](http://arxiv.org/abs/2401.00376v1)|null|
 |**2023-12-29**|**Understanding the magnetic interactions of the zig-zag honeycomb lattice: Application to $α$-RuCl$_3$**|E. M. Wilson et.al.|[2312.17433v1](http://arxiv.org/abs/2312.17433v1)|null|
