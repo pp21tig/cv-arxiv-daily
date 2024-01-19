@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Interaction of surfactant and protein at the o/w interface and its effect on colloidal and biological properties of polymeric nanocarriers**|Teresa Del Castillo-Santaella et.al.|[2401.10145v1](http://arxiv.org/abs/2401.10145v1)|null|
+|**2024-01-18**|**Error-in-constitutive-relation (ECR) framework for the characterization of linear viscoelastic solids**|Marc Bonnet et.al.|[2401.10108v1](http://arxiv.org/abs/2401.10108v1)|null|
+|**2024-01-18**|**Shear profile in a dense packing of large grains**|Alessio Quaresima et.al.|[2401.10062v1](http://arxiv.org/abs/2401.10062v1)|null|
+|**2024-01-18**|**Polar self-organization of ferroelectric nematic liquid crystal molecules on atomically flat Au(111) surface**|Alexandr A. Marchenko et.al.|[2401.10048v1](http://arxiv.org/abs/2401.10048v1)|null|
+|**2024-01-18**|**Resetting as a swift equilibration protocol in an anharmonic potential**|Rémi Goerlich et.al.|[2401.09958v1](http://arxiv.org/abs/2401.09958v1)|null|
+|**2024-01-18**|**Discrete differential geometry-based model for nonlinear analysis of axisymmetric shells**|Weicheng Huang et.al.|[2401.09954v1](http://arxiv.org/abs/2401.09954v1)|null|
+|**2024-01-18**|**Thermodynamic precision of a chain of motors: the difference between phase and noise correlation**|Giulio Costantini et.al.|[2401.09952v1](http://arxiv.org/abs/2401.09952v1)|null|
+|**2024-01-18**|**Flow Structure near Three Phase Contact Line of Low-Contact-Angle Evaporating Droplets**|Zhenying Wang et.al.|[2401.09950v1](http://arxiv.org/abs/2401.09950v1)|null|
+|**2024-01-18**|**Collective behavior of squirmers in thin films**|Bohan Wu-Zhang et.al.|[2401.09913v1](http://arxiv.org/abs/2401.09913v1)|null|
+|**2024-01-18**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v1](http://arxiv.org/abs/2401.09911v1)|null|
+|**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835v1](http://arxiv.org/abs/2401.09835v1)|null|
+|**2024-01-18**|**Degenerate subspace localization and local symmetries**|Peter Schmelcher et.al.|[2401.09807v1](http://arxiv.org/abs/2401.09807v1)|null|
+|**2024-01-18**|**Spreading of Low-viscosity Ink Filaments Driven by Bath Viscoelasticity in Embedded Printing**|Jae Hyung Cho et.al.|[2401.09684v1](http://arxiv.org/abs/2401.09684v1)|null|
+|**2024-01-18**|**Chiral ground states of ferroelectric liquid crystals**|Priyanka Kumari et.al.|[2401.09675v1](http://arxiv.org/abs/2401.09675v1)|null|
+|**2024-01-18**|**Optical properties and plasmons in moiré structures**|Xueheng Kuang et.al.|[2401.09667v1](http://arxiv.org/abs/2401.09667v1)|null|
+|**2024-01-17**|**Dynamics of elongation of nematic tactoids in an electric field**|Mohammadamin Safdari et.al.|[2401.09642v1](http://arxiv.org/abs/2401.09642v1)|null|
+|**2024-01-17**|**Complexity, Disorder, and Functionality of Nanoscale Materials**|Xiaoming Mao et.al.|[2401.09567v1](http://arxiv.org/abs/2401.09567v1)|null|
 |**2024-01-17**|**Yielding and plasticity in amorphous solids**|Ludovic Berthier et.al.|[2401.09385v1](http://arxiv.org/abs/2401.09385v1)|null|
 |**2024-01-17**|**Fresh Cement as a Frictional Non-Brownian Suspension**|James A. Richards et.al.|[2401.09377v1](http://arxiv.org/abs/2401.09377v1)|null|
 |**2024-01-17**|**Optical and thermal effects in the neighborhood of the spherical layered nanoparticle of the "metallic core -- J-aggregate shell'' structure**|A. V. Korotun et.al.|[2401.09367v1](http://arxiv.org/abs/2401.09367v1)|null|
@@ -4547,6 +4564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v1](http://arxiv.org/abs/2401.09911v1)|null|
 |**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394v1](http://arxiv.org/abs/2401.08394v1)|null|
 |**2024-01-09**|**Simulation of ion demixing in halide perovskites using Cahn-Hilliard equation**|V. Holý et.al.|[2401.04533v1](http://arxiv.org/abs/2401.04533v1)|null|
 |**2023-12-25**|**Radiometric propulsion: Advancing with the order-of-magnitude enhancement through graphene aerogel-coated vanes**|Bo Peng et.al.|[2312.15592v1](http://arxiv.org/abs/2312.15592v1)|null|
@@ -4918,6 +4936,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539v1](http://arxiv.org/abs/2401.09539v1)|null|
 |**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155v1](http://arxiv.org/abs/2401.08155v1)|null|
 |**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156v1](http://arxiv.org/abs/2401.07156v1)|null|
 |**2024-01-13**|**Electrodynamics of the quantum anomalous Hall state in a magnetically doped topological insulator**|Zhenisbek Tagay et.al.|[2401.06985v1](http://arxiv.org/abs/2401.06985v1)|null|
