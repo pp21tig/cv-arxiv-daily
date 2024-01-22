@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Non-Analytic Magnetic Response and Intrinsic Ferromagnetic Clusters in a Dirac Spin Liquid Candidate**|B. S. Shivaram et.al.|[2401.10888v1](http://arxiv.org/abs/2401.10888v1)|null|
+|**2024-01-19**|**Spectral signatures of non-trivial topology in a superconducting circuit**|L. Peyruchat et.al.|[2401.10876v1](http://arxiv.org/abs/2401.10876v1)|null|
+|**2024-01-19**|**Inverse Primitive Path Analysis**|Carsten Svaneborg et.al.|[2401.10813v1](http://arxiv.org/abs/2401.10813v1)|null|
+|**2024-01-19**|**Bendability parameter for twisted ribbons to describe longitudinal wrinkling and delineate the near-threshold regime**|Madelyn Leembruggen et.al.|[2401.10797v1](http://arxiv.org/abs/2401.10797v1)|null|
+|**2024-01-19**|**Influence of particle size polydispersity on dynamical heterogeneities in dense particle packings**|Rajkumar Biswas et.al.|[2401.10784v1](http://arxiv.org/abs/2401.10784v1)|null|
+|**2024-01-19**|**Bidisperse micro fluidized beds: Effect of bed inclination on mixing**|Henrique Barbosa de Oliveira et.al.|[2401.10780v1](http://arxiv.org/abs/2401.10780v1)|null|
+|**2024-01-19**|**Liquid-liquid phase separation driven by charge heterogeneity**|Daniele Notarmuzi et.al.|[2401.10655v1](http://arxiv.org/abs/2401.10655v1)|null|
+|**2024-01-19**|**Towards predicting shear-banding instabilities in lipid monolayers**|A. R. Carotenuto et.al.|[2401.10593v1](http://arxiv.org/abs/2401.10593v1)|null|
+|**2024-01-19**|**Resolving the relaxation complexity of vitrimers: time-temperature superpositions of a time-temperature non-equivalent system**|Paolo Edera et.al.|[2401.10569v1](http://arxiv.org/abs/2401.10569v1)|null|
+|**2024-01-19**|**Diffusion of intrinsically disordered proteins within viscoelastic membraneless droplets**|Fuga Watanabe et.al.|[2401.10438v1](http://arxiv.org/abs/2401.10438v1)|null|
+|**2024-01-18**|**Detection of Quantized Vortices using Fourth Sound Attenuation**|Filip Novotný et.al.|[2401.10339v1](http://arxiv.org/abs/2401.10339v1)|null|
+|**2024-01-18**|**Line defects in conformal field theory: from weak to strong coupling**|Julien Barrat et.al.|[2401.10336v1](http://arxiv.org/abs/2401.10336v1)|null|
+|**2024-01-18**|**Optimal sampling of tensor networks targeting wave function's fast decaying tails**|Marco Ballarin et.al.|[2401.10330v1](http://arxiv.org/abs/2401.10330v1)|null|
+|**2024-01-18**|**Super-Tonks-Girardeau quench of dipolar bosons in a one-dimensional optical lattice**|Paolo Molignini et.al.|[2401.10317v1](http://arxiv.org/abs/2401.10317v1)|null|
 |**2024-01-18**|**Interaction of surfactant and protein at the o/w interface and its effect on colloidal and biological properties of polymeric nanocarriers**|Teresa Del Castillo-Santaella et.al.|[2401.10145v1](http://arxiv.org/abs/2401.10145v1)|null|
 |**2024-01-18**|**Error-in-constitutive-relation (ECR) framework for the characterization of linear viscoelastic solids**|Marc Bonnet et.al.|[2401.10108v1](http://arxiv.org/abs/2401.10108v1)|null|
 |**2024-01-18**|**Shear profile in a dense packing of large grains**|Alessio Quaresima et.al.|[2401.10062v1](http://arxiv.org/abs/2401.10062v1)|null|
@@ -4564,6 +4578,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Collective rovibronic dynamics of a diatomic gas coupled by cavity**|Niclas Krupp et.al.|[2401.10723v1](http://arxiv.org/abs/2401.10723v1)|null|
 |**2024-01-18**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v1](http://arxiv.org/abs/2401.09911v1)|null|
 |**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394v1](http://arxiv.org/abs/2401.08394v1)|null|
 |**2024-01-09**|**Simulation of ion demixing in halide perovskites using Cahn-Hilliard equation**|V. Holý et.al.|[2401.04533v1](http://arxiv.org/abs/2401.04533v1)|null|
@@ -4815,7 +4830,7 @@
 |**2024-01-13**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v2](http://arxiv.org/abs/2312.08574v2)|null|
 |**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
 |**2023-12-13**|**Antiparallel spin polarization and spin current induced by thermal current and locally-broken inversion symmetry in a double-quantum-well structure**|Yuta Suzuki et.al.|[2312.07944v1](http://arxiv.org/abs/2312.07944v1)|null|
-|**2023-12-05**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v1](http://arxiv.org/abs/2312.04592v1)|null|
+|**2024-01-19**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v2](http://arxiv.org/abs/2312.04592v2)|null|
 |**2023-12-07**|**Robust Topological Bound States in the Continuum in a Quantum Hall Bar with an Anti-dot**|Ricardo Y. Díaz-Bonifaz et.al.|[2312.04422v1](http://arxiv.org/abs/2312.04422v1)|null|
 |**2023-12-04**|**Emergent electric field induced by current-driven domain wall motion in a room-temperature antiferromagnet FeSn2**|Tomoyuki Yokouchi et.al.|[2312.01553v1](http://arxiv.org/abs/2312.01553v1)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269v1](http://arxiv.org/abs/2312.01269v1)|null|
