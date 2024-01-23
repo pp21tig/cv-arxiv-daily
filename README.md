@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v1](http://arxiv.org/abs/2401.12196v1)|null|
+|**2024-01-22**|**Ionic conductivity of a lithium-doped deep eutectic solvent: Glass formation and rotation-translation coupling**|A. Schulz et.al.|[2401.12186v1](http://arxiv.org/abs/2401.12186v1)|null|
+|**2024-01-22**|**Toward new scaling laws for wrinkling in biologically relevant fiber-reinforced bilayers**|A. Mirandola et.al.|[2401.12157v1](http://arxiv.org/abs/2401.12157v1)|null|
+|**2024-01-22**|**Dynamic control of active droplets using light-responsive chiral liquid crystal environment**|Vanessa Jirón et.al.|[2401.12116v1](http://arxiv.org/abs/2401.12116v1)|null|
+|**2024-01-22**|**Shear Layers and Plugs in the Capillary Flow of Wormlike Micellar Gels**|Ronak Gupta et.al.|[2401.12102v1](http://arxiv.org/abs/2401.12102v1)|null|
+|**2024-01-22**|**Elasticity of self-organized frustrated disordered spring networks**|Tommaso Pettinari et.al.|[2401.11996v1](http://arxiv.org/abs/2401.11996v1)|null|
+|**2024-01-22**|**1/f noise in quantum nanoscience**|Giuseppe Falci et.al.|[2401.11989v1](http://arxiv.org/abs/2401.11989v1)|null|
+|**2024-01-22**|**Fried-Yennie gauge in pseudo-QED**|Ana Mizher et.al.|[2401.11964v1](http://arxiv.org/abs/2401.11964v1)|null|
+|**2024-01-22**|**Inertia drives concentration-wave turbulence in swimmer suspensions**|Purnima Jain et.al.|[2401.11927v1](http://arxiv.org/abs/2401.11927v1)|null|
+|**2024-01-22**|**Thermodynamic work of partial resetting**|Kristian Stølevik Olsen et.al.|[2401.11919v1](http://arxiv.org/abs/2401.11919v1)|null|
+|**2024-01-22**|**Quasi-Two-Dimensional Drops**|Tytti Kärki et.al.|[2401.11845v1](http://arxiv.org/abs/2401.11845v1)|null|
+|**2024-01-22**|**The Collective Snapping of a Pair of Bumping Buckled Beams**|Lennard J. Kwakernaak et.al.|[2401.11811v1](http://arxiv.org/abs/2401.11811v1)|null|
+|**2024-01-22**|**Yielding is an absorbing phase transition with vanishing critical fluctuations**|Tristan Jocteur et.al.|[2401.11797v1](http://arxiv.org/abs/2401.11797v1)|null|
+|**2024-01-22**|**Texture Identification in Liquid Crystal-Protein Droplets using Evaporative Drying, Generalized Additive Modeling, and K-means Clustering**|Anusuya Pal et.al.|[2401.11745v1](http://arxiv.org/abs/2401.11745v1)|null|
+|**2024-01-22**|**Order induces toughness in anisotropic colloidal crystal composites**|Victoria Vilchez et.al.|[2401.11727v1](http://arxiv.org/abs/2401.11727v1)|null|
+|**2024-01-22**|**One-dimensional non-Hermitian band structures as Riemann surfaces**|Heming Wang et.al.|[2401.11661v1](http://arxiv.org/abs/2401.11661v1)|null|
+|**2024-01-21**|**3D Imaging of Magnetic Domains in Nd2Fe14B using Scanning Hard X-Ray Nanotomography**|Srutarshi Banerjee et.al.|[2401.11523v1](http://arxiv.org/abs/2401.11523v1)|null|
+|**2024-01-21**|**Tunable thermal conductivity of sustainable geopolymers by Si/Al ratio and moisture content: insights from atomistic simulations**|Wenkai Liu et.al.|[2401.11522v1](http://arxiv.org/abs/2401.11522v1)|null|
+|**2024-01-21**|**Data-driven compression of electron-phonon interactions**|Yao Luo et.al.|[2401.11393v1](http://arxiv.org/abs/2401.11393v1)|null|
+|**2024-01-20**|**Sensory adaptation in a continuum model of bacterial chemotaxis -- working range, cost-accuracy relation, and coupled systems**|Vansh Kharbanda et.al.|[2401.11341v1](http://arxiv.org/abs/2401.11341v1)|null|
 |**2024-01-19**|**Non-Analytic Magnetic Response and Intrinsic Ferromagnetic Clusters in a Dirac Spin Liquid Candidate**|B. S. Shivaram et.al.|[2401.10888v1](http://arxiv.org/abs/2401.10888v1)|null|
 |**2024-01-19**|**Spectral signatures of non-trivial topology in a superconducting circuit**|L. Peyruchat et.al.|[2401.10876v1](http://arxiv.org/abs/2401.10876v1)|null|
 |**2024-01-19**|**Inverse Primitive Path Analysis**|Carsten Svaneborg et.al.|[2401.10813v1](http://arxiv.org/abs/2401.10813v1)|null|
@@ -4579,7 +4599,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-19**|**Collective rovibronic dynamics of a diatomic gas coupled by cavity**|Niclas Krupp et.al.|[2401.10723v1](http://arxiv.org/abs/2401.10723v1)|null|
-|**2024-01-18**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v1](http://arxiv.org/abs/2401.09911v1)|null|
+|**2024-01-22**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v2](http://arxiv.org/abs/2401.09911v2)|null|
 |**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394v1](http://arxiv.org/abs/2401.08394v1)|null|
 |**2024-01-09**|**Simulation of ion demixing in halide perovskites using Cahn-Hilliard equation**|V. Holý et.al.|[2401.04533v1](http://arxiv.org/abs/2401.04533v1)|null|
 |**2023-12-25**|**Radiometric propulsion: Advancing with the order-of-magnitude enhancement through graphene aerogel-coated vanes**|Bo Peng et.al.|[2312.15592v1](http://arxiv.org/abs/2312.15592v1)|null|
@@ -4812,6 +4832,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Damping-Enhanced Magnon Transmission**|Xiyin Ye et.al.|[2401.12022v1](http://arxiv.org/abs/2401.12022v1)|null|
 |**2024-01-15**|**Picosecond Trajectory of Two-dimensional Vortex Motion in FeSe $_{0.5}$Te$_{0.5}$ Visualized by Terahertz Second Harmonic Generation**|Sachiko Nakamura et.al.|[2401.07397v1](http://arxiv.org/abs/2401.07397v1)|null|
 |**2024-01-13**|**Thermoelectric properties of Marcus molecular junctions**|Natalya A. Zimbovskaya et.al.|[2401.07099v1](http://arxiv.org/abs/2401.07099v1)|null|
 |**2024-01-11**|**Magnetic control of Weyl nodes and wave packets in three-dimensional warped semimetals**|Bruno Focassio et.al.|[2401.06282v1](http://arxiv.org/abs/2401.06282v1)|null|
@@ -4828,7 +4849,7 @@
 |**2023-12-19**|**Microscopic theory of current-induced skyrmion transport and its application in disordered spin textures**|Emil Östberg et.al.|[2312.12201v1](http://arxiv.org/abs/2312.12201v1)|null|
 |**2023-12-16**|**Predicted Multiple Walker Breakdowns for Current-Driven Domain-Wall Motion in Antiferromagnets**|Mu-Kun Lee et.al.|[2312.10337v1](http://arxiv.org/abs/2312.10337v1)|null|
 |**2024-01-13**|**Transport through a monolayer-tube junction: sheet-to-tube spin current in silicene**|Yuma Kitagawa et.al.|[2312.08574v2](http://arxiv.org/abs/2312.08574v2)|null|
-|**2023-12-13**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v1](http://arxiv.org/abs/2312.07954v1)|null|
+|**2024-01-22**|**Current-induced near-field radiative energy, linear-momentum, and angular-momentum transfer**|Huimin Zhu et.al.|[2312.07954v2](http://arxiv.org/abs/2312.07954v2)|null|
 |**2023-12-13**|**Antiparallel spin polarization and spin current induced by thermal current and locally-broken inversion symmetry in a double-quantum-well structure**|Yuta Suzuki et.al.|[2312.07944v1](http://arxiv.org/abs/2312.07944v1)|null|
 |**2024-01-19**|**Current induced magnetisation in metal without space-inversion symmetry**|V. P. Mineev et.al.|[2312.04592v2](http://arxiv.org/abs/2312.04592v2)|null|
 |**2023-12-07**|**Robust Topological Bound States in the Continuum in a Quantum Hall Bar with an Anti-dot**|Ricardo Y. Díaz-Bonifaz et.al.|[2312.04422v1](http://arxiv.org/abs/2312.04422v1)|null|
@@ -4951,6 +4972,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-21**|**Reentrant quantum anomalous Hall effect in molecular beam epitaxy-grown MnBi2Te4 thin films**|Yuanzhao Li et.al.|[2401.11450v1](http://arxiv.org/abs/2401.11450v1)|null|
 |**2024-01-17**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539v1](http://arxiv.org/abs/2401.09539v1)|null|
 |**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155v1](http://arxiv.org/abs/2401.08155v1)|null|
 |**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156v1](http://arxiv.org/abs/2401.07156v1)|null|
