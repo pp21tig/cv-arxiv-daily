@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Symmetry Duality: Exploring Exotic Oscillators And Dissipative Dynamics Through The Glass Of Newton-Hooke**|Sayan Kumar Pal et.al.|[2401.12957v1](http://arxiv.org/abs/2401.12957v1)|null|
+|**2024-01-23**|**Unveiling the Role of Electron-Phonon Scattering in Dephasing High-Order Harmonics in Solids**|Viacheslav Korolev et.al.|[2401.12929v1](http://arxiv.org/abs/2401.12929v1)|null|
+|**2024-01-23**|**Dehydration drives damage in the freezing of brittle hydrogels**|Shaohua Yang et.al.|[2401.12871v1](http://arxiv.org/abs/2401.12871v1)|null|
+|**2024-01-23**|**Interplay between an absorbing phase transition and synchronization in a driven granular system**|R. Maire et.al.|[2401.12817v1](http://arxiv.org/abs/2401.12817v1)|null|
+|**2024-01-23**|**Boosting macroscopic diffusion with local resetting**|Henry Alston et.al.|[2401.12772v1](http://arxiv.org/abs/2401.12772v1)|null|
+|**2024-01-23**|**Improving single-molecule conductance measurements with change point detection from the econometrics toolbox**|Joseph M. Hamill et.al.|[2401.12769v1](http://arxiv.org/abs/2401.12769v1)|null|
+|**2024-01-23**|**A corrected single element Maxwell visco-elastic model**|Jesper Schmidt Hansen et.al.|[2401.12709v1](http://arxiv.org/abs/2401.12709v1)|null|
+|**2024-01-23**|**Curvature effect induce topological phase transitions in two dimensional topological superconductor**|Huan-Wen Lai et.al.|[2401.12705v1](http://arxiv.org/abs/2401.12705v1)|null|
+|**2024-01-23**|**Dynamics of inertial particles under velocity resetting**|Kristian Stølevik Olsen et.al.|[2401.12685v1](http://arxiv.org/abs/2401.12685v1)|null|
+|**2024-01-23**|**How do ionic superdiscs self-assemble in nanopores?**|Zhuoqing Li et.al.|[2401.12663v1](http://arxiv.org/abs/2401.12663v1)|null|
+|**2024-01-23**|**Non-Reciprocal Interactions Reshape Topological Defect Annihilation**|Ylann Rouzaire et.al.|[2401.12637v1](http://arxiv.org/abs/2401.12637v1)|null|
+|**2024-01-23**|**The Young-Laplace equation for a solid-liquid interface**|P. Montero de Hijes et.al.|[2401.12606v1](http://arxiv.org/abs/2401.12606v1)|null|
+|**2024-01-23**|**Work statistics at first-passage times**|Iago N Mamede et.al.|[2401.12583v1](http://arxiv.org/abs/2401.12583v1)|null|
+|**2024-01-23**|**Noise-cancellation algorithm for simulations of Brownian particles**|Regina Rusch et.al.|[2401.12577v1](http://arxiv.org/abs/2401.12577v1)|null|
+|**2024-01-23**|**Non-Bloch Theory for Spatiotemporal Photonic Crystals Assisted by Continuum Effective Medium**|Haozhi Ding et.al.|[2401.12536v1](http://arxiv.org/abs/2401.12536v1)|null|
+|**2024-01-23**|**Topological magnons in a non-coplanar magnetic order on the triangular lattice**|Linli Bai et.al.|[2401.12505v1](http://arxiv.org/abs/2401.12505v1)|null|
+|**2024-01-22**|**Computational Reverse Engineering Analysis of Scattering Experiments Method for Interpretation of 2D Small-Angle Scattering Profiles (CREASE-2D)**|Sri Vishnuvardhan Reddy Akepati et.al.|[2401.12381v1](http://arxiv.org/abs/2401.12381v1)|null|
+|**2024-01-22**|**Knots of Darkness in Atmospheric Turbulence**|D. G. Pires et.al.|[2401.12306v1](http://arxiv.org/abs/2401.12306v1)|null|
 |**2024-01-22**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v1](http://arxiv.org/abs/2401.12196v1)|null|
 |**2024-01-22**|**Ionic conductivity of a lithium-doped deep eutectic solvent: Glass formation and rotation-translation coupling**|A. Schulz et.al.|[2401.12186v1](http://arxiv.org/abs/2401.12186v1)|null|
 |**2024-01-22**|**Toward new scaling laws for wrinkling in biologically relevant fiber-reinforced bilayers**|A. Mirandola et.al.|[2401.12157v1](http://arxiv.org/abs/2401.12157v1)|null|
@@ -4976,6 +4994,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Correlation between magnetic domain structures and quantum anomalous Hall effect in epitaxial MnBi2Te4 thin films**|Yang Shi et.al.|[2401.12544v1](http://arxiv.org/abs/2401.12544v1)|null|
+|**2024-01-23**|**Revisiting magnetic exchange interactions in transition metal doped Bi $_2$Se$_3$ using DFT+MFT**|Sagar Sarkar et.al.|[2401.12514v1](http://arxiv.org/abs/2401.12514v1)|null|
 |**2024-01-21**|**Reentrant quantum anomalous Hall effect in molecular beam epitaxy-grown MnBi2Te4 thin films**|Yuanzhao Li et.al.|[2401.11450v1](http://arxiv.org/abs/2401.11450v1)|null|
 |**2024-01-17**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539v1](http://arxiv.org/abs/2401.09539v1)|null|
 |**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155v1](http://arxiv.org/abs/2401.08155v1)|null|
@@ -5153,6 +5173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Neutron Scattering Studies on the High- $T_c$ Superconductor La$_3$Ni$_2$O$_{7-δ}$ at Ambient Pressure**|Tao Xie et.al.|[2401.12635v1](http://arxiv.org/abs/2401.12635v1)|null|
 |**2024-01-16**|**Structure and lattice excitations of the copper substituted lead oxyapatite Pb $_{9.06(7)}$Cu$_{0.94(6)}$(PO$_{3.92(4)}$)$_{6}$O$_{0.96(3)}$**|Qiang Zhang et.al.|[2401.08834v1](http://arxiv.org/abs/2401.08834v1)|null|
 |**2024-01-10**|**Nematic quantum disordered state in FeSe**|Ruixian Liu et.al.|[2401.05092v1](http://arxiv.org/abs/2401.05092v1)|null|
 |**2023-12-31**|**Magnon, doublon and quarton excitations in 2D trimerized Heisenberg models**|Yue-Yue Chang et.al.|[2401.00376v1](http://arxiv.org/abs/2401.00376v1)|null|
