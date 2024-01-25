@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Interfacial free energy and Tolman length of curved liquid-solid interfaces from equilibrium studies**|P. Montero de Hijes et.al.|[2401.13589v1](http://arxiv.org/abs/2401.13589v1)|null|
+|**2024-01-24**|**Gaseous Diffusion as a Correlated Random Walk**|Santos Bravo Yuste et.al.|[2401.13571v1](http://arxiv.org/abs/2401.13571v1)|null|
+|**2024-01-24**|**Diffusion of an Active Particle Bound to a Generalized Elastic Model: Fractional Langevin Equation**|Alessandro Taloni et.al.|[2401.13457v1](http://arxiv.org/abs/2401.13457v1)|null|
+|**2024-01-24**|**A shape-driven reentrant jamming transition in confluent monolayers of synthetic cell-mimics**|Pragya Arora et.al.|[2401.13437v1](http://arxiv.org/abs/2401.13437v1)|null|
+|**2024-01-24**|**Wrinkling of fluid deformable surfaces**|Veit Krause et.al.|[2401.13426v1](http://arxiv.org/abs/2401.13426v1)|null|
+|**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413v1](http://arxiv.org/abs/2401.13413v1)|null|
+|**2024-01-24**|**Relaxation Dynamics in Persistent Epithelial Tissues**|Meng-Yuan Li et.al.|[2401.13375v1](http://arxiv.org/abs/2401.13375v1)|null|
+|**2024-01-24**|**Transport Dynamics of Water Molecules Confined between Lipid Membranes**|Minho Lee et.al.|[2401.13253v1](http://arxiv.org/abs/2401.13253v1)|null|
+|**2024-01-23**|**Persistent homology and topological statistics of hyperuniform point clouds**|Marco Salvalaglio et.al.|[2401.13123v1](http://arxiv.org/abs/2401.13123v1)|null|
+|**2024-01-23**|**Hele-Shaw flow of a nematic liquid crystal**|Joseph R. L. Cousins et.al.|[2401.13061v1](http://arxiv.org/abs/2401.13061v1)|null|
 |**2024-01-23**|**Symmetry Duality: Exploring Exotic Oscillators And Dissipative Dynamics Through The Glass Of Newton-Hooke**|Sayan Kumar Pal et.al.|[2401.12957v1](http://arxiv.org/abs/2401.12957v1)|null|
 |**2024-01-23**|**Unveiling the Role of Electron-Phonon Scattering in Dephasing High-Order Harmonics in Solids**|Viacheslav Korolev et.al.|[2401.12929v1](http://arxiv.org/abs/2401.12929v1)|null|
 |**2024-01-23**|**Dehydration drives damage in the freezing of brittle hydrogels**|Shaohua Yang et.al.|[2401.12871v1](http://arxiv.org/abs/2401.12871v1)|null|
@@ -4990,6 +5000,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449v1](http://arxiv.org/abs/2401.13449v1)|null|
+|**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413v1](http://arxiv.org/abs/2401.13413v1)|null|
+|**2024-01-23**|**Altermagnetism with Non-collinear Spins**|Sang-Wook Cheong et.al.|[2401.13069v1](http://arxiv.org/abs/2401.13069v1)|null|
 |**2024-01-23**|**Correlation between magnetic domain structures and quantum anomalous Hall effect in epitaxial MnBi2Te4 thin films**|Yang Shi et.al.|[2401.12544v1](http://arxiv.org/abs/2401.12544v1)|null|
 |**2024-01-23**|**Revisiting magnetic exchange interactions in transition metal doped Bi $_2$Se$_3$ using DFT+MFT**|Sagar Sarkar et.al.|[2401.12514v1](http://arxiv.org/abs/2401.12514v1)|null|
 |**2024-01-21**|**Reentrant quantum anomalous Hall effect in molecular beam epitaxy-grown MnBi2Te4 thin films**|Yuanzhao Li et.al.|[2401.11450v1](http://arxiv.org/abs/2401.11450v1)|null|
@@ -5169,6 +5182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Cobalt-Based Pyroxenes: A New Playground for Kitaev Physics and Ising Model Realization**|Pavel A. Maksimov et.al.|[2401.13550v1](http://arxiv.org/abs/2401.13550v1)|null|
 |**2024-01-23**|**Neutron Scattering Studies on the High- $T_c$ Superconductor La$_3$Ni$_2$O$_{7-δ}$ at Ambient Pressure**|Tao Xie et.al.|[2401.12635v1](http://arxiv.org/abs/2401.12635v1)|null|
 |**2024-01-16**|**Structure and lattice excitations of the copper substituted lead oxyapatite Pb $_{9.06(7)}$Cu$_{0.94(6)}$(PO$_{3.92(4)}$)$_{6}$O$_{0.96(3)}$**|Qiang Zhang et.al.|[2401.08834v1](http://arxiv.org/abs/2401.08834v1)|null|
 |**2024-01-10**|**Nematic quantum disordered state in FeSe**|Ruixian Liu et.al.|[2401.05092v1](http://arxiv.org/abs/2401.05092v1)|null|
