@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Electrotaxis of self-propelling artificial swimmers in microchannels**|Carola M. Buness et.al.|[2401.14376v1](http://arxiv.org/abs/2401.14376v1)|null|
+|**2024-01-25**|**Quantum Variational Algorithms for the Allocation of Resources in a Cloud/Edge Architecture**|Carlo Mastroianni et.al.|[2401.14339v1](http://arxiv.org/abs/2401.14339v1)|null|
+|**2024-01-25**|**The explicit bonding Reaction ensemble Monte Carlo method**|Pablo M. Blanco et.al.|[2401.14288v1](http://arxiv.org/abs/2401.14288v1)|null|
+|**2024-01-25**|**Emergent rigidity, crystallization, and undulatory propulsion from chemical self-interaction in a freely-jointed active colloidal chain**|Arvin Gopal Subramaniam et.al.|[2401.14178v1](http://arxiv.org/abs/2401.14178v1)|null|
+|**2024-01-25**|**Topological characterization of the continuum of allosteric response**|Jason W. Rocks et.al.|[2401.13861v1](http://arxiv.org/abs/2401.13861v1)|null|
+|**2024-01-24**|**Sliding Dynamics for Bubble Phases on Periodic Modulated Substrates**|C. Reichhardt et.al.|[2401.13841v1](http://arxiv.org/abs/2401.13841v1)|null|
+|**2024-01-24**|**Progress and Prospects in Two-Dimensional Magnetism of van der Waals Materials**|Youngjun Ahn et.al.|[2401.13781v1](http://arxiv.org/abs/2401.13781v1)|null|
+|**2024-01-24**|**Mesoscale self-organization of polydisperse magnetic nanoparticles at the water surface**|Victor Ukleev et.al.|[2401.13768v1](http://arxiv.org/abs/2401.13768v1)|null|
+|**2024-01-24**|**Local structural features elucidate crystallization of complex structures**|Maya M. Martirossyan et.al.|[2401.13765v1](http://arxiv.org/abs/2401.13765v1)|null|
+|**2024-01-24**|**Entanglement growth from squeezing on the MPS manifold**|Sebastian Leontica et.al.|[2401.13740v1](http://arxiv.org/abs/2401.13740v1)|null|
 |**2024-01-24**|**Interfacial free energy and Tolman length of curved liquid-solid interfaces from equilibrium studies**|P. Montero de Hijes et.al.|[2401.13589v1](http://arxiv.org/abs/2401.13589v1)|null|
 |**2024-01-24**|**Gaseous Diffusion as a Correlated Random Walk**|Santos Bravo Yuste et.al.|[2401.13571v1](http://arxiv.org/abs/2401.13571v1)|null|
 |**2024-01-24**|**Diffusion of an Active Particle Bound to a Generalized Elastic Model: Fractional Langevin Equation**|Alessandro Taloni et.al.|[2401.13457v1](http://arxiv.org/abs/2401.13457v1)|null|
@@ -4626,6 +4636,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Light-induced photodissociation on the lowest three electronic states of NaH molecule**|Otabek Umarov et.al.|[2401.14080v1](http://arxiv.org/abs/2401.14080v1)|null|
+|**2024-01-24**|**Holographic Volumetric Additive Manufacturing**|Maria I. Álvarez-Castaño et.al.|[2401.13755v1](http://arxiv.org/abs/2401.13755v1)|null|
 |**2024-01-19**|**Collective rovibronic dynamics of a diatomic gas coupled by cavity**|Niclas Krupp et.al.|[2401.10723v1](http://arxiv.org/abs/2401.10723v1)|null|
 |**2024-01-22**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v2](http://arxiv.org/abs/2401.09911v2)|null|
 |**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394v1](http://arxiv.org/abs/2401.08394v1)|null|
@@ -4860,6 +4872,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044v1](http://arxiv.org/abs/2401.14044v1)|null|
 |**2024-01-22**|**Damping-Enhanced Magnon Transmission**|Xiyin Ye et.al.|[2401.12022v1](http://arxiv.org/abs/2401.12022v1)|null|
 |**2024-01-15**|**Picosecond Trajectory of Two-dimensional Vortex Motion in FeSe $_{0.5}$Te$_{0.5}$ Visualized by Terahertz Second Harmonic Generation**|Sachiko Nakamura et.al.|[2401.07397v1](http://arxiv.org/abs/2401.07397v1)|null|
 |**2024-01-13**|**Thermoelectric properties of Marcus molecular junctions**|Natalya A. Zimbovskaya et.al.|[2401.07099v1](http://arxiv.org/abs/2401.07099v1)|null|
@@ -5000,6 +5013,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044v1](http://arxiv.org/abs/2401.14044v1)|null|
 |**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449v1](http://arxiv.org/abs/2401.13449v1)|null|
 |**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413v1](http://arxiv.org/abs/2401.13413v1)|null|
 |**2024-01-23**|**Altermagnetism with Non-collinear Spins**|Sang-Wook Cheong et.al.|[2401.13069v1](http://arxiv.org/abs/2401.13069v1)|null|
@@ -5182,6 +5196,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-25**|**Universal collective Larmor-Silin mode emerging in magnetized correlated Dirac fermions**|Chuang Chen et.al.|[2401.14358v1](http://arxiv.org/abs/2401.14358v1)|null|
+|**2024-01-25**|**Inelastic Neutron Scattering of Hydrogen in Palladium Studied by Semiclassical Dynamics**|Motoyuki Shiga et.al.|[2401.13874v1](http://arxiv.org/abs/2401.13874v1)|null|
 |**2024-01-24**|**Cobalt-Based Pyroxenes: A New Playground for Kitaev Physics and Ising Model Realization**|Pavel A. Maksimov et.al.|[2401.13550v1](http://arxiv.org/abs/2401.13550v1)|null|
 |**2024-01-23**|**Neutron Scattering Studies on the High- $T_c$ Superconductor La$_3$Ni$_2$O$_{7-δ}$ at Ambient Pressure**|Tao Xie et.al.|[2401.12635v1](http://arxiv.org/abs/2401.12635v1)|null|
 |**2024-01-16**|**Structure and lattice excitations of the copper substituted lead oxyapatite Pb $_{9.06(7)}$Cu$_{0.94(6)}$(PO$_{3.92(4)}$)$_{6}$O$_{0.96(3)}$**|Qiang Zhang et.al.|[2401.08834v1](http://arxiv.org/abs/2401.08834v1)|null|
