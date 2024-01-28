@@ -1102,7 +1102,7 @@
 |**2024-01-25**|**Quantum Variational Algorithms for the Allocation of Resources in a Cloud/Edge Architecture**|Carlo Mastroianni et.al.|[2401.14339v1](http://arxiv.org/abs/2401.14339v1)|null|
 |**2024-01-25**|**The explicit bonding Reaction ensemble Monte Carlo method**|Pablo M. Blanco et.al.|[2401.14288v1](http://arxiv.org/abs/2401.14288v1)|null|
 |**2024-01-25**|**Emergent rigidity, crystallization, and undulatory propulsion from chemical self-interaction in a freely-jointed active colloidal chain**|Arvin Gopal Subramaniam et.al.|[2401.14178v1](http://arxiv.org/abs/2401.14178v1)|null|
-|**2024-01-25**|**Topological characterization of the continuum of allosteric response**|Jason W. Rocks et.al.|[2401.13861v1](http://arxiv.org/abs/2401.13861v1)|null|
+|**2024-01-25**|**Topological characterization of the continuum of allosteric response**|Jason W. Rocks et.al.|[2401.13861v1](http://arxiv.org/abs/2401.13861v1)|**[link](https://github.com/jrocks/allostery_tda)**|
 |**2024-01-24**|**Sliding Dynamics for Bubble Phases on Periodic Modulated Substrates**|C. Reichhardt et.al.|[2401.13841v1](http://arxiv.org/abs/2401.13841v1)|null|
 |**2024-01-24**|**Progress and Prospects in Two-Dimensional Magnetism of van der Waals Materials**|Youngjun Ahn et.al.|[2401.13781v1](http://arxiv.org/abs/2401.13781v1)|null|
 |**2024-01-24**|**Mesoscale self-organization of polydisperse magnetic nanoparticles at the water surface**|Victor Ukleev et.al.|[2401.13768v1](http://arxiv.org/abs/2401.13768v1)|null|
