@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Three phase equilibria of the methane hydrate in NaCl solutions: A simulation study**|S. Blazquez et.al.|[2401.15060v1](http://arxiv.org/abs/2401.15060v1)|null|
+|**2024-01-26**|**Double pulse all-optical coherent control of ultrafast spin-reorientation in antiferromagnetic rare-earth orthoferrite**|N. E. Khokhlov et.al.|[2401.15009v1](http://arxiv.org/abs/2401.15009v1)|null|
+|**2024-01-26**|**Interparticle normal force in highly porous granular matter during compression**|Sota Arakawa et.al.|[2401.14990v1](http://arxiv.org/abs/2401.14990v1)|null|
+|**2024-01-26**|**Solvent-Free High-Temperature Capillary Stamping of Stimuli-Responsive Polymers: Wettability Management by Orthogonal Substrate Functionalization**|Fatih Alarslan et.al.|[2401.14974v1](http://arxiv.org/abs/2401.14974v1)|null|
+|**2024-01-26**|**Noether invariance theory for the equilibrium force structure of soft matter**|Sophie Hermann et.al.|[2401.14971v1](http://arxiv.org/abs/2401.14971v1)|null|
+|**2024-01-26**|**pyMBE: the Python-based Molecule Builder for ESPResSo**|David Beyer et.al.|[2401.14954v1](http://arxiv.org/abs/2401.14954v1)|null|
+|**2024-01-26**|**Advanced iontronic spiking modes with multiscale diffusive dynamics in a fluidic circuit**|T. M. Kamsma et.al.|[2401.14921v1](http://arxiv.org/abs/2401.14921v1)|null|
+|**2024-01-26**|**Effect of molecular structure of eco-friendly glycolipid biosurfactants on the adsorption of hair-care conditioning polymers**|Laura Fernandez-Pena et.al.|[2401.14892v1](http://arxiv.org/abs/2401.14892v1)|null|
+|**2024-01-26**|**Delayed excitations induce polymer looping and coherent motion**|Andriy Goychuk et.al.|[2401.14870v1](http://arxiv.org/abs/2401.14870v1)|null|
+|**2024-01-26**|**Extinction and coexistence in a binary mixture of proliferating motile disks**|Alejandro Almodóvar et.al.|[2401.14844v1](http://arxiv.org/abs/2401.14844v1)|null|
+|**2024-01-26**|**Towards understanding the behavior of polyelectrolyte surfactant mixtures at the water vapor interface closer to technologically relevant conditions**|Sara Llamas et.al.|[2401.14769v1](http://arxiv.org/abs/2401.14769v1)|null|
+|**2024-01-26**|**Anomalous fluctuations in a droplet of chemically active colloids or enzymes**|K. R. Prathyusha et.al.|[2401.14745v1](http://arxiv.org/abs/2401.14745v1)|null|
+|**2024-01-26**|**Hidden nonreciprocity as a stabilizing effective potential in active matter**|Matthew Du et.al.|[2401.14690v1](http://arxiv.org/abs/2401.14690v1)|null|
+|**2024-01-25**|**Discovery of a Topological Charge Density Wave**|Maksim Litskevich et.al.|[2401.14547v1](http://arxiv.org/abs/2401.14547v1)|null|
 |**2024-01-25**|**Electrotaxis of self-propelling artificial swimmers in microchannels**|Carola M. Buness et.al.|[2401.14376v1](http://arxiv.org/abs/2401.14376v1)|null|
 |**2024-01-25**|**Quantum Variational Algorithms for the Allocation of Resources in a Cloud/Edge Architecture**|Carlo Mastroianni et.al.|[2401.14339v1](http://arxiv.org/abs/2401.14339v1)|null|
 |**2024-01-25**|**The explicit bonding Reaction ensemble Monte Carlo method**|Pablo M. Blanco et.al.|[2401.14288v1](http://arxiv.org/abs/2401.14288v1)|null|
