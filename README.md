@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Challenges in the rheology of glasses**|Peter Sollich et.al.|[2401.16409v1](http://arxiv.org/abs/2401.16409v1)|null|
+|**2024-01-29**|**Viscous Mechano-Electric Response of Ferroelectric Nematic Liquid**|Peter Medle Rupnik et.al.|[2401.16272v1](http://arxiv.org/abs/2401.16272v1)|null|
+|**2024-01-29**|**Dynamics of the Surface Growth Resulted from Sedimentation of Spheres in a Hele-Shaw Cell Containing a Low-Viscosity Fluid**|Vahideh Sardari et.al.|[2401.16266v1](http://arxiv.org/abs/2401.16266v1)|null|
+|**2024-01-29**|**Kinetic theory of motility induced phase separation for active Brownian particles**|Rodrigo Soto et.al.|[2401.16260v1](http://arxiv.org/abs/2401.16260v1)|null|
+|**2024-01-29**|**Beyond Local Structures In Critical Supercooled Water Through Unsupervised Learning**|Edward Danquah Donkor et.al.|[2401.16245v1](http://arxiv.org/abs/2401.16245v1)|null|
+|**2024-01-29**|**Role of Inorganic Cations in the Excitonic Properties of Lead Halide Perovskites**|Małgorzata Wierzbowska et.al.|[2401.16093v1](http://arxiv.org/abs/2401.16093v1)|null|
+|**2024-01-29**|**Do ferroelectric nematic liquid crystals really have a huge dielectric permittivity?**|Vojko Matko et.al.|[2401.16084v1](http://arxiv.org/abs/2401.16084v1)|null|
+|**2024-01-29**|**Pattern transition of flow dynamics in a highly water-absorbent granular bed**|Kojiro Otoguro et.al.|[2401.16080v1](http://arxiv.org/abs/2401.16080v1)|null|
+|**2024-01-29**|**Energy Localization and Topological Defect in Spherical Non-Hermitian Topolectrical Circuits**|Xizhou Shen et.al.|[2401.15908v1](http://arxiv.org/abs/2401.15908v1)|null|
+|**2024-01-28**|**Non-Equilibrium Fluidization of Dense Active Suspension**|Yujiro Sugino et.al.|[2401.15658v1](http://arxiv.org/abs/2401.15658v1)|null|
+|**2024-01-28**|**Femtosecond electron beam probe of ultrafast electronics**|Maximilian Mattes et.al.|[2401.15653v1](http://arxiv.org/abs/2401.15653v1)|null|
+|**2024-01-27**|**Soft spots of net negative topological charge directly cause the plasticity of 3D glasses**|Arabinda Bera et.al.|[2401.15359v1](http://arxiv.org/abs/2401.15359v1)|null|
+|**2024-01-27**|**Fabrication of robust capsules by sequential assembly of polyelectrolytes onto charged liposomes**|Marta Ruano et.al.|[2401.15329v1](http://arxiv.org/abs/2401.15329v1)|null|
+|**2024-01-27**|**Physico-chemical study of polymer mixtures formed by a polycation and a zwitterionic copolymer in aqueous solution and upon adsorption onto negatively charged surfaces**|Laura Fernandez-Pena et.al.|[2401.15327v1](http://arxiv.org/abs/2401.15327v1)|null|
+|**2024-01-27**|**Study of the Liquid/Vapor Interfacial Properties of Concentrated Polyelectrolyte-Surfactant Mixtures Using Surface Tensiometry and Neutron Reflectometry: Equilibrium, Adsorption Kinetics and Dilational Rheology**|Sara Llamas et.al.|[2401.15325v1](http://arxiv.org/abs/2401.15325v1)|null|
+|**2024-01-27**|**Equilibration of a Polycation-Anionic Surfactant Mixture at the Water-Vapor Interface**|Andrew Akanno et.al.|[2401.15322v1](http://arxiv.org/abs/2401.15322v1)|null|
+|**2024-01-27**|**On the origin of metal-insulator transitions in the parent compounds of ruthenium-pnictide superconductors**|Niraj Aryal et.al.|[2401.15302v1](http://arxiv.org/abs/2401.15302v1)|null|
+|**2024-01-27**|**A smart granular intruder**|Lázaro Martínez-Ortíz et.al.|[2401.15297v1](http://arxiv.org/abs/2401.15297v1)|null|
+|**2024-01-26**|**From equilibrium to non-equilibrium statistical mechanics of liquids**|O. Joaquín-Jaime et.al.|[2401.15220v1](http://arxiv.org/abs/2401.15220v1)|null|
+|**2024-01-26**|**Rigid clusters in shear-thickening suspensions: a nonequilibrium critical transition**|Aritra Santra et.al.|[2401.15165v1](http://arxiv.org/abs/2401.15165v1)|null|
 |**2024-01-26**|**Three phase equilibria of the methane hydrate in NaCl solutions: A simulation study**|S. Blazquez et.al.|[2401.15060v1](http://arxiv.org/abs/2401.15060v1)|null|
 |**2024-01-26**|**Double pulse all-optical coherent control of ultrafast spin-reorientation in antiferromagnetic rare-earth orthoferrite**|N. E. Khokhlov et.al.|[2401.15009v1](http://arxiv.org/abs/2401.15009v1)|null|
 |**2024-01-26**|**Interparticle normal force in highly porous granular matter during compression**|Sota Arakawa et.al.|[2401.14990v1](http://arxiv.org/abs/2401.14990v1)|null|
@@ -4650,7 +4670,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-25**|**Light-induced photodissociation on the lowest three electronic states of NaH molecule**|Otabek Umarov et.al.|[2401.14080v1](http://arxiv.org/abs/2401.14080v1)|null|
+|**2024-01-29**|**Trapped-atom Otto engine with light-induced dipole-dipole interactions**|Chimdessa Gashu Feyisa et.al.|[2401.15928v1](http://arxiv.org/abs/2401.15928v1)|null|
+|**2024-01-27**|**On the origin of metal-insulator transitions in the parent compounds of ruthenium-pnictide superconductors**|Niraj Aryal et.al.|[2401.15302v1](http://arxiv.org/abs/2401.15302v1)|null|
+|**2024-01-28**|**Light-induced photodissociation on the lowest three electronic states of NaH molecule**|Otabek Umarov et.al.|[2401.14080v2](http://arxiv.org/abs/2401.14080v2)|null|
 |**2024-01-24**|**Holographic Volumetric Additive Manufacturing**|Maria I. Álvarez-Castaño et.al.|[2401.13755v1](http://arxiv.org/abs/2401.13755v1)|null|
 |**2024-01-19**|**Collective rovibronic dynamics of a diatomic gas coupled by cavity**|Niclas Krupp et.al.|[2401.10723v1](http://arxiv.org/abs/2401.10723v1)|null|
 |**2024-01-22**|**Multiple temperatures and melting of a colloidal active crystal**|Helena Massana-Cid et.al.|[2401.09911v2](http://arxiv.org/abs/2401.09911v2)|null|
@@ -4886,6 +4908,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Viscous Mechano-Electric Response of Ferroelectric Nematic Liquid**|Peter Medle Rupnik et.al.|[2401.16272v1](http://arxiv.org/abs/2401.16272v1)|null|
+|**2024-01-26**|**Unveiling the Quantum Toroidal Dipole in Nanosystems: Quantization, Interaction Energy, and Measurement**|Mircea Dolineanu et.al.|[2401.15128v1](http://arxiv.org/abs/2401.15128v1)|null|
 |**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044v1](http://arxiv.org/abs/2401.14044v1)|null|
 |**2024-01-22**|**Damping-Enhanced Magnon Transmission**|Xiyin Ye et.al.|[2401.12022v1](http://arxiv.org/abs/2401.12022v1)|null|
 |**2024-01-15**|**Picosecond Trajectory of Two-dimensional Vortex Motion in FeSe $_{0.5}$Te$_{0.5}$ Visualized by Terahertz Second Harmonic Generation**|Sachiko Nakamura et.al.|[2401.07397v1](http://arxiv.org/abs/2401.07397v1)|null|
@@ -5027,6 +5051,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**New perspectives of Hall effects from first-principles calculations**|ShengNan Zhang et.al.|[2401.15150v1](http://arxiv.org/abs/2401.15150v1)|null|
 |**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044v1](http://arxiv.org/abs/2401.14044v1)|null|
 |**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449v1](http://arxiv.org/abs/2401.13449v1)|null|
 |**2024-01-24**|**Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene**|Zhaochen Liu et.al.|[2401.13413v1](http://arxiv.org/abs/2401.13413v1)|null|
@@ -5210,7 +5235,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-25**|**Universal collective Larmor-Silin mode emerging in magnetized correlated Dirac fermions**|Chuang Chen et.al.|[2401.14358v1](http://arxiv.org/abs/2401.14358v1)|null|
+|**2024-01-29**|**Theory of magnetic excitations in multilayer nickelate superconductor La $_{3}$Ni$_{2}$O$_{7}$**|Steffen Bötzel et.al.|[2401.16151v1](http://arxiv.org/abs/2401.16151v1)|null|
+|**2024-01-28**|**Magnetic interactions and excitations in SrMnSb $_2$**|Zhenhua Ning et.al.|[2401.15572v1](http://arxiv.org/abs/2401.15572v1)|null|
+|**2024-01-29**|**Universal collective Larmor-Silin mode emerging in magnetized correlated Dirac fermions**|Chuang Chen et.al.|[2401.14358v2](http://arxiv.org/abs/2401.14358v2)|null|
 |**2024-01-25**|**Inelastic Neutron Scattering of Hydrogen in Palladium Studied by Semiclassical Dynamics**|Motoyuki Shiga et.al.|[2401.13874v1](http://arxiv.org/abs/2401.13874v1)|null|
 |**2024-01-24**|**Cobalt-Based Pyroxenes: A New Playground for Kitaev Physics and Ising Model Realization**|Pavel A. Maksimov et.al.|[2401.13550v1](http://arxiv.org/abs/2401.13550v1)|null|
 |**2024-01-23**|**Neutron Scattering Studies on the High- $T_c$ Superconductor La$_3$Ni$_2$O$_{7-δ}$ at Ambient Pressure**|Tao Xie et.al.|[2401.12635v1](http://arxiv.org/abs/2401.12635v1)|null|
