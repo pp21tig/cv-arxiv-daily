@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Active Fluidification of Entangled Polymers by Loop Extrusion**|Filippo Conforto et.al.|[2401.17232v1](http://arxiv.org/abs/2401.17232v1)|null|
+|**2024-01-30**|**Stress and Alignment Response to Curved Obstacles in Growing Bacterial Monolayers**|Blake Langeslay et.al.|[2401.17222v1](http://arxiv.org/abs/2401.17222v1)|null|
+|**2024-01-30**|**Cell spheroid viscoelasticity is deformation-dependent**|Ruben C. Boot et.al.|[2401.17155v1](http://arxiv.org/abs/2401.17155v1)|null|
+|**2024-01-30**|**Flocking by turning away**|Suchismita Das et.al.|[2401.17153v1](http://arxiv.org/abs/2401.17153v1)|null|
+|**2024-01-30**|**Quantum error mitigation and correction mediated by Yang-Baxter equation and artificial neural network**|Sahil Gulania et.al.|[2401.17116v1](http://arxiv.org/abs/2401.17116v1)|null|
+|**2024-01-30**|**Self-consistent sharp interface theory of active condensate dynamics**|Andriy Goychuk et.al.|[2401.17111v1](http://arxiv.org/abs/2401.17111v1)|null|
+|**2024-01-30**|**The size of the Sun**|Marc-Antoine Fardin et.al.|[2401.17105v1](http://arxiv.org/abs/2401.17105v1)|null|
+|**2024-01-30**|**Influence of the Reynolds number from $Re_τ= 150$ to $210$ on size-dependent bipolar charging**|Simon Jantač et.al.|[2401.17071v1](http://arxiv.org/abs/2401.17071v1)|null|
+|**2024-01-30**|**Profiles of static liquid-gas interfaces in axisymmetrical containers under different accelerations**|Shangtong Chen et.al.|[2401.17004v1](http://arxiv.org/abs/2401.17004v1)|null|
+|**2024-01-30**|**Exploring the giant dynamical Franz-Keldysh effect in massless Dirac materials**|Youngjae Kim et.al.|[2401.16898v1](http://arxiv.org/abs/2401.16898v1)|null|
+|**2024-01-30**|**Bardeen-Cooper-Schrieffer interaction as an infinite-range Penson-Kolb pairing mechanism**|Francesco Romeo et.al.|[2401.16877v1](http://arxiv.org/abs/2401.16877v1)|null|
+|**2024-01-30**|**Line tension in a thick soap film**|Théo Lenavetier et.al.|[2401.16859v1](http://arxiv.org/abs/2401.16859v1)|null|
+|**2024-01-30**|**Modelling the non-steady peeling of viscoelastic tapes**|M. Ceglie et.al.|[2401.16851v1](http://arxiv.org/abs/2401.16851v1)|null|
+|**2024-01-30**|**3D-Printed Hydraulic Fluidic Logic Circuitry for Soft Robots**|Yuxin Lin et.al.|[2401.16827v1](http://arxiv.org/abs/2401.16827v1)|null|
+|**2024-01-30**|**Simulation of the formation of patterned polymer films: using composite substrates in evaporative lithography**|Konstantin Kolegov et.al.|[2401.16794v1](http://arxiv.org/abs/2401.16794v1)|null|
+|**2024-01-30**|**Analysis of Time-Evolution of Gaussian Wavepackets in Non-Hermitian Systems**|Amartya Bose et.al.|[2401.16789v1](http://arxiv.org/abs/2401.16789v1)|null|
+|**2024-01-29**|**Non-additive electronic polarizabilities of ionic liquids: Charge delocalization effects**|C. D. Rodriguez-Fernandez et.al.|[2401.16548v1](http://arxiv.org/abs/2401.16548v1)|null|
+|**2024-01-29**|**Approach to Hyperuniformity of Steady States of Facilitated Exchange Processes**|S. Goldstein et.al.|[2401.16505v1](http://arxiv.org/abs/2401.16505v1)|null|
 |**2024-01-29**|**Challenges in the rheology of glasses**|Peter Sollich et.al.|[2401.16409v1](http://arxiv.org/abs/2401.16409v1)|null|
 |**2024-01-29**|**Viscous Mechano-Electric Response of Ferroelectric Nematic Liquid**|Peter Medle Rupnik et.al.|[2401.16272v1](http://arxiv.org/abs/2401.16272v1)|null|
 |**2024-01-29**|**Dynamics of the Surface Growth Resulted from Sedimentation of Spheres in a Hele-Shaw Cell Containing a Low-Viscosity Fluid**|Vahideh Sardari et.al.|[2401.16266v1](http://arxiv.org/abs/2401.16266v1)|null|
@@ -4674,6 +4692,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Exploring the giant dynamical Franz-Keldysh effect in massless Dirac materials**|Youngjae Kim et.al.|[2401.16898v1](http://arxiv.org/abs/2401.16898v1)|null|
 |**2024-01-29**|**Trapped-atom Otto engine with light-induced dipole-dipole interactions**|Chimdessa Gashu Feyisa et.al.|[2401.15928v1](http://arxiv.org/abs/2401.15928v1)|null|
 |**2024-01-27**|**On the origin of metal-insulator transitions in the parent compounds of ruthenium-pnictide superconductors**|Niraj Aryal et.al.|[2401.15302v1](http://arxiv.org/abs/2401.15302v1)|null|
 |**2024-01-28**|**Light-induced photodissociation on the lowest three electronic states of NaH molecule**|Otabek Umarov et.al.|[2401.14080v2](http://arxiv.org/abs/2401.14080v2)|null|
@@ -5239,6 +5258,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Incipient nematicity from electron flat bands in a kagome metal**|Nathan Drucker et.al.|[2401.17141v1](http://arxiv.org/abs/2401.17141v1)|null|
+|**2024-01-29**|**Continuum excitations in a spin-supersolid on a triangular lattice**|M. Zhu et.al.|[2401.16581v1](http://arxiv.org/abs/2401.16581v1)|null|
 |**2024-01-29**|**Theory of magnetic excitations in multilayer nickelate superconductor La $_{3}$Ni$_{2}$O$_{7}$**|Steffen Bötzel et.al.|[2401.16151v1](http://arxiv.org/abs/2401.16151v1)|null|
 |**2024-01-28**|**Magnetic interactions and excitations in SrMnSb $_2$**|Zhenhua Ning et.al.|[2401.15572v1](http://arxiv.org/abs/2401.15572v1)|null|
 |**2024-01-29**|**Universal collective Larmor-Silin mode emerging in magnetized correlated Dirac fermions**|Chuang Chen et.al.|[2401.14358v2](http://arxiv.org/abs/2401.14358v2)|null|
