@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Understanding the thickness-dependent dielectric permittivity of thin films**|Alessio Zaccone et.al.|[2401.18061v1](http://arxiv.org/abs/2401.18061v1)|null|
+|**2024-01-31**|**Reversible, Irreversible and Mixed Regimes for Periodically Driven Disks in Random Obstacle Arrays**|D. Minogue et.al.|[2401.18042v1](http://arxiv.org/abs/2401.18042v1)|null|
+|**2024-01-31**|**Magnetically tunable electrokinetic instability and structuring of non-equilibrium nanoparticle gradients**|Fereshteh Sohrabi et.al.|[2401.17956v1](http://arxiv.org/abs/2401.17956v1)|null|
+|**2024-01-31**|**Enhanced contact flexibility from nanoparticles in capillary suspensions**|Lingyue Liu et.al.|[2401.17953v1](http://arxiv.org/abs/2401.17953v1)|null|
+|**2024-01-31**|**Competing structures in a minimal double-well potential model of condensed matter**|Julyan H. E. Cartwright et.al.|[2401.17901v1](http://arxiv.org/abs/2401.17901v1)|null|
+|**2024-01-31**|**Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials**|Amir Omranpour et.al.|[2401.17875v1](http://arxiv.org/abs/2401.17875v1)|null|
+|**2024-01-31**|**Chemical Physics of Controlled Wettability and Super Surfaces**|Carolina Brito et.al.|[2401.17853v1](http://arxiv.org/abs/2401.17853v1)|null|
+|**2024-01-31**|**Self-Aligning Active Agents with Inertia and Active Torque**|Jeremy Fersula et.al.|[2401.17798v1](http://arxiv.org/abs/2401.17798v1)|null|
+|**2024-01-31**|**Dimensional Analysis Theory and Molecular Dynamics Simulation of Polypropylene Melt Flow during Injection Molding Process**|Jinrong Zhang et.al.|[2401.17792v1](http://arxiv.org/abs/2401.17792v1)|null|
+|**2024-01-31**|**Mitigating Density Fluctuations in Particle-based Active Nematic Simulations**|Timofey Kozhukhov et.al.|[2401.17777v1](http://arxiv.org/abs/2401.17777v1)|null|
+|**2024-01-31**|**Dissipative particle dynamics simulation plus slip-springs for entangled polymers with various slip-spring densities**|Yuichi Masubuchi et.al.|[2401.17565v1](http://arxiv.org/abs/2401.17565v1)|null|
+|**2024-01-31**|**Polymer Network Diffusion in Charged Gels**|Shoei Sano et.al.|[2401.17551v1](http://arxiv.org/abs/2401.17551v1)|null|
+|**2024-01-31**|**Extended free-energy functionals for achiral and chiral ferroelectric nematic liquid crystals**|Yu Zou et.al.|[2401.17529v1](http://arxiv.org/abs/2401.17529v1)|null|
+|**2024-01-30**|**Quantum simulation of the pseudo-Hermitian Landau-Zener-Stückelberg-Majorana effect**|Feliks Kivelä et.al.|[2401.17438v1](http://arxiv.org/abs/2401.17438v1)|null|
+|**2024-01-30**|**Development of biochar molecular models with controlled porosity**|Audrey Ngambia Ondřej Mašek et.al.|[2401.17414v1](http://arxiv.org/abs/2401.17414v1)|null|
 |**2024-01-30**|**Active Fluidification of Entangled Polymers by Loop Extrusion**|Filippo Conforto et.al.|[2401.17232v1](http://arxiv.org/abs/2401.17232v1)|null|
 |**2024-01-30**|**Stress and Alignment Response to Curved Obstacles in Growing Bacterial Monolayers**|Blake Langeslay et.al.|[2401.17222v1](http://arxiv.org/abs/2401.17222v1)|null|
 |**2024-01-30**|**Cell spheroid viscoelasticity is deformation-dependent**|Ruben C. Boot et.al.|[2401.17155v1](http://arxiv.org/abs/2401.17155v1)|null|
@@ -4692,6 +4707,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Designable exciton mixing through layer alignment in WS $_2$ -graphene heterostructures**|Amir Kleiner et.al.|[2401.17928v1](http://arxiv.org/abs/2401.17928v1)|null|
 |**2024-01-30**|**Exploring the giant dynamical Franz-Keldysh effect in massless Dirac materials**|Youngjae Kim et.al.|[2401.16898v1](http://arxiv.org/abs/2401.16898v1)|null|
 |**2024-01-29**|**Trapped-atom Otto engine with light-induced dipole-dipole interactions**|Chimdessa Gashu Feyisa et.al.|[2401.15928v1](http://arxiv.org/abs/2401.15928v1)|null|
 |**2024-01-27**|**On the origin of metal-insulator transitions in the parent compounds of ruthenium-pnictide superconductors**|Niraj Aryal et.al.|[2401.15302v1](http://arxiv.org/abs/2401.15302v1)|null|
@@ -4931,6 +4947,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Hysteresis and effective reciprocity breaking due to current-induced forces**|Erika L. Mehring et.al.|[2401.17462v1](http://arxiv.org/abs/2401.17462v1)|null|
 |**2024-01-29**|**Viscous Mechano-Electric Response of Ferroelectric Nematic Liquid**|Peter Medle Rupnik et.al.|[2401.16272v1](http://arxiv.org/abs/2401.16272v1)|null|
 |**2024-01-26**|**Unveiling the Quantum Toroidal Dipole in Nanosystems: Quantization, Interaction Energy, and Measurement**|Mircea Dolineanu et.al.|[2401.15128v1](http://arxiv.org/abs/2401.15128v1)|null|
 |**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044v1](http://arxiv.org/abs/2401.14044v1)|null|
@@ -5074,6 +5091,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Electrical 180o switching of Néel vector in spin-splitting antiferromagnet**|Lei Han et.al.|[2401.17608v1](http://arxiv.org/abs/2401.17608v1)|null|
 |**2024-01-26**|**New perspectives of Hall effects from first-principles calculations**|ShengNan Zhang et.al.|[2401.15150v1](http://arxiv.org/abs/2401.15150v1)|null|
 |**2024-01-25**|**Electrical switching of the perpendicular Neel order in a collinear antiferromagnet**|Wenqing He et.al.|[2401.14044v1](http://arxiv.org/abs/2401.14044v1)|null|
 |**2024-01-24**|**In-plane magnetization orientation driven topological phase transition in OsCl $_3$ monolayer**|Ritwik Das et.al.|[2401.13449v1](http://arxiv.org/abs/2401.13449v1)|null|
@@ -5082,7 +5100,7 @@ layout: default
 |**2024-01-23**|**Correlation between magnetic domain structures and quantum anomalous Hall effect in epitaxial MnBi2Te4 thin films**|Yang Shi et.al.|[2401.12544v1](http://arxiv.org/abs/2401.12544v1)|null|
 |**2024-01-23**|**Revisiting magnetic exchange interactions in transition metal doped Bi $_2$Se$_3$ using DFT+MFT**|Sagar Sarkar et.al.|[2401.12514v1](http://arxiv.org/abs/2401.12514v1)|null|
 |**2024-01-21**|**Reentrant quantum anomalous Hall effect in molecular beam epitaxy-grown MnBi2Te4 thin films**|Yuanzhao Li et.al.|[2401.11450v1](http://arxiv.org/abs/2401.11450v1)|null|
-|**2024-01-17**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539v1](http://arxiv.org/abs/2401.09539v1)|null|
+|**2024-01-31**|**Pressure Tuning of Berry Curvature in CrGeTe $_3$**|G. Scharf et.al.|[2401.09539v2](http://arxiv.org/abs/2401.09539v2)|null|
 |**2024-01-16**|**Nonlinear thermoelectric response induced by Berry curvature quadrupole in systems with broken time-reversal symmetry**|Srimayi Korrapati et.al.|[2401.08155v1](http://arxiv.org/abs/2401.08155v1)|null|
 |**2024-01-13**|**Writing and detecting topological charges in exfoliated Fe $_{5-x}$GeTe$_2$**|Alex Moon et.al.|[2401.07156v1](http://arxiv.org/abs/2401.07156v1)|null|
 |**2024-01-13**|**Electrodynamics of the quantum anomalous Hall state in a magnetically doped topological insulator**|Zhenisbek Tagay et.al.|[2401.06985v1](http://arxiv.org/abs/2401.06985v1)|null|
