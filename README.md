@@ -1098,13 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Nonlocal Structural Effects of Water on DNA Homology Recognition**|Ehud Haimov et.al.|[2402.03213v1](http://arxiv.org/abs/2402.03213v1)|null|
+|**2024-02-05**|**Controlling magnon-photon coupling in a planar geometry**|Dinesh Wagle et.al.|[2402.03071v1](http://arxiv.org/abs/2402.03071v1)|null|
+|**2024-02-05**|**Geometry controls diffusive target encounters and escape in tubular structures**|Junyeong L. Kim et.al.|[2402.03059v1](http://arxiv.org/abs/2402.03059v1)|null|
+|**2024-02-05**|**Elementary processes in dilatational plasticity of glasses**|Avraham Moriel et.al.|[2402.03044v1](http://arxiv.org/abs/2402.03044v1)|null|
+|**2024-02-05**|**Elementary vibrational model for thermal conductivity of Lennard-Jones fluids: Applicability domain and accuracy level**|S. A. Khrapak et.al.|[2402.03020v1](http://arxiv.org/abs/2402.03020v1)|null|
+|**2024-02-05**|**Fluidization and anomalous density fluctuations in epithelial tissues with pulsating activity**|Zhu-Qin Li et.al.|[2402.02981v1](http://arxiv.org/abs/2402.02981v1)|null|
+|**2024-02-05**|**Controlling flow patterns and topology in active emulsions**|Giuseppe Negro et.al.|[2402.02960v1](http://arxiv.org/abs/2402.02960v1)|null|
+|**2024-02-05**|**Bidirectional Zigzag Growth from Clusters of Active Colloidal Shakers**|Gaspard Junot et.al.|[2402.02939v1](http://arxiv.org/abs/2402.02939v1)|null|
+|**2024-02-05**|**A classical density functional theory for solvation across length scales**|Anna T. Bui et.al.|[2402.02873v1](http://arxiv.org/abs/2402.02873v1)|null|
+|**2024-02-05**|**Amorphous quantum magnets in a two-dimensional Rydberg atom array**|Sergi Julià-Farré et.al.|[2402.02852v1](http://arxiv.org/abs/2402.02852v1)|null|
+|**2024-02-05**|**Investigating the influence of particle size and shape on froth flotation based benefication of lithium-rich minerals in slags**|Franziska Strube et.al.|[2402.02818v1](http://arxiv.org/abs/2402.02818v1)|null|
+|**2024-02-05**|**Quantification of the volume-fraction reduction of sheared fragile glass-forming liquids and its impact on rheology**|Akira Furukawa et.al.|[2402.02757v1](http://arxiv.org/abs/2402.02757v1)|null|
+|**2024-02-05**|**Heterogeneous Solvent Dissipation Coupled with Particle Rearrangement and in Shear Thinning Non-Brownian Suspensions**|Tomoharu Terayama et.al.|[2402.02756v1](http://arxiv.org/abs/2402.02756v1)|null|
 |**2024-02-02**|**Spatial correlations of vortex quantum states**|Eduardo Zubizarreta Casalengua et.al.|[2402.01627v1](http://arxiv.org/abs/2402.01627v1)|null|
 |**2024-02-02**|**Critical Casimir effect in a disordered $O(2)$ -symmetric model**|G. O. Heymans et.al.|[2402.01588v1](http://arxiv.org/abs/2402.01588v1)|null|
 |**2024-02-02**|**Resolution dependence of most probable pathways with state-dependent diffusivity**|Alice L. Thorneywork et.al.|[2402.01559v1](http://arxiv.org/abs/2402.01559v1)|null|
 |**2024-02-02**|**Inferring the Langevin Equation with Uncertainty via Bayesian Neural Networks**|Youngkyoung Bae et.al.|[2402.01338v1](http://arxiv.org/abs/2402.01338v1)|null|
 |**2024-02-02**|**A new universality class describes Vicsek's flocking phase in physical dimensions**|Patrick Jentsch et.al.|[2402.01316v1](http://arxiv.org/abs/2402.01316v1)|null|
-|**2024-02-02**|**Decoupled few-femtosecond phase transitions in vanadium dioxide**|Christian Brahms et.al.|[2402.01266v1](http://arxiv.org/abs/2402.01266v1)|null|
-|**2024-02-02**|**Light-induced phase transitions in vanadium dioxide: a tensor network study**|Lin Zhang et.al.|[2402.01247v1](http://arxiv.org/abs/2402.01247v1)|null|
+|**2024-02-05**|**Decoupled few-femtosecond phase transitions in vanadium dioxide**|Christian Brahms et.al.|[2402.01266v2](http://arxiv.org/abs/2402.01266v2)|null|
+|**2024-02-05**|**Light-induced phase transitions in vanadium dioxide: a tensor network study**|Lin Zhang et.al.|[2402.01247v2](http://arxiv.org/abs/2402.01247v2)|null|
 |**2024-02-02**|**Symmetry breaking and spin-orbit coupling for individual vacancy-induced in-gap states in MoS2 monolayers**|Thasneem Aliyar et.al.|[2402.01193v1](http://arxiv.org/abs/2402.01193v1)|null|
 |**2024-02-02**|**Deformation dynamics of an oil droplet into a crescent shape during the intermittent motion**|Sayaka Otani et.al.|[2402.01161v1](http://arxiv.org/abs/2402.01161v1)|null|
 |**2024-02-02**|**Directional picoantenna behavior of tunnel junctions in the presence of atomic-scale defects**|David Mateos et.al.|[2402.01151v1](http://arxiv.org/abs/2402.01151v1)|null|
@@ -4727,8 +4740,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-02**|**Decoupled few-femtosecond phase transitions in vanadium dioxide**|Christian Brahms et.al.|[2402.01266v1](http://arxiv.org/abs/2402.01266v1)|null|
-|**2024-02-02**|**Light-induced phase transitions in vanadium dioxide: a tensor network study**|Lin Zhang et.al.|[2402.01247v1](http://arxiv.org/abs/2402.01247v1)|null|
+|**2024-02-02**|**Identifying differences between semi-classical and full-quantum descriptions of plexcitons**|Marco Romanelli et.al.|[2402.01846v1](http://arxiv.org/abs/2402.01846v1)|null|
+|**2024-02-05**|**Decoupled few-femtosecond phase transitions in vanadium dioxide**|Christian Brahms et.al.|[2402.01266v2](http://arxiv.org/abs/2402.01266v2)|null|
+|**2024-02-05**|**Light-induced phase transitions in vanadium dioxide: a tensor network study**|Lin Zhang et.al.|[2402.01247v2](http://arxiv.org/abs/2402.01247v2)|null|
 |**2024-02-01**|**Femtosecond drift photocurrents generated by an inversely designed plasmonic antenna**|Ye Mou et.al.|[2402.00655v1](http://arxiv.org/abs/2402.00655v1)|null|
 |**2024-01-31**|**Designable exciton mixing through layer alignment in WS $_2$ -graphene heterostructures**|Amir Kleiner et.al.|[2401.17928v1](http://arxiv.org/abs/2401.17928v1)|null|
 |**2024-01-30**|**Exploring the giant dynamical Franz-Keldysh effect in massless Dirac materials**|Youngjae Kim et.al.|[2401.16898v1](http://arxiv.org/abs/2401.16898v1)|null|
@@ -4970,6 +4984,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
+|**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
+|**2024-02-03**|**Spintronic devices and applications using noncollinear anti-chiral antiferromagnets**|Ankit Shukla et.al.|[2402.01977v1](http://arxiv.org/abs/2402.01977v1)|null|
 |**2024-01-24**|**Hybrid Dynamical Model for Reluctance Actuators Including Saturation, Hysteresis and Eddy Currents**|Edgar Ramirez-Laboreo et.al.|[2402.00049v1](http://arxiv.org/abs/2402.00049v1)|null|
 |**2024-01-30**|**Hysteresis and effective reciprocity breaking due to current-induced forces**|Erika L. Mehring et.al.|[2401.17462v1](http://arxiv.org/abs/2401.17462v1)|null|
 |**2024-01-29**|**Viscous Mechano-Electric Response of Ferroelectric Nematic Liquid**|Peter Medle Rupnik et.al.|[2401.16272v1](http://arxiv.org/abs/2401.16272v1)|null|
@@ -5115,6 +5132,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
 |**2024-01-31**|**Chern-Simons bubbles: Lopsided false vacuum decay in axion electrodynamics**|Saquib Hassan et.al.|[2402.00119v1](http://arxiv.org/abs/2402.00119v1)|null|
 |**2024-01-31**|**Electrical 180o switching of Néel vector in spin-splitting antiferromagnet**|Lei Han et.al.|[2401.17608v1](http://arxiv.org/abs/2401.17608v1)|null|
 |**2024-01-26**|**New perspectives of Hall effects from first-principles calculations**|ShengNan Zhang et.al.|[2401.15150v1](http://arxiv.org/abs/2401.15150v1)|null|
@@ -5308,7 +5326,7 @@
 |**2024-01-29**|**Theory of magnetic excitations in multilayer nickelate superconductor La $_{3}$Ni$_{2}$O$_{7}$**|Steffen Bötzel et.al.|[2401.16151v1](http://arxiv.org/abs/2401.16151v1)|null|
 |**2024-01-28**|**Magnetic interactions and excitations in SrMnSb $_2$**|Zhenhua Ning et.al.|[2401.15572v1](http://arxiv.org/abs/2401.15572v1)|null|
 |**2024-01-29**|**Universal collective Larmor-Silin mode emerging in magnetized correlated Dirac fermions**|Chuang Chen et.al.|[2401.14358v2](http://arxiv.org/abs/2401.14358v2)|null|
-|**2024-01-25**|**Inelastic Neutron Scattering of Hydrogen in Palladium Studied by Semiclassical Dynamics**|Motoyuki Shiga et.al.|[2401.13874v1](http://arxiv.org/abs/2401.13874v1)|null|
+|**2024-02-05**|**Inelastic Neutron Scattering of Hydrogen in Palladium Studied by Semiclassical Dynamics**|Motoyuki Shiga et.al.|[2401.13874v2](http://arxiv.org/abs/2401.13874v2)|null|
 |**2024-01-24**|**Cobalt-Based Pyroxenes: A New Playground for Kitaev Physics and Ising Model Realization**|Pavel A. Maksimov et.al.|[2401.13550v1](http://arxiv.org/abs/2401.13550v1)|null|
 |**2024-01-23**|**Neutron Scattering Studies on the High- $T_c$ Superconductor La$_3$Ni$_2$O$_{7-δ}$ at Ambient Pressure**|Tao Xie et.al.|[2401.12635v1](http://arxiv.org/abs/2401.12635v1)|null|
 |**2024-01-16**|**Structure and lattice excitations of the copper substituted lead oxyapatite Pb $_{9.06(7)}$Cu$_{0.94(6)}$(PO$_{3.92(4)}$)$_{6}$O$_{0.96(3)}$**|Qiang Zhang et.al.|[2401.08834v1](http://arxiv.org/abs/2401.08834v1)|null|
@@ -5316,7 +5334,7 @@
 |**2023-12-31**|**Magnon, doublon and quarton excitations in 2D trimerized Heisenberg models**|Yue-Yue Chang et.al.|[2401.00376v1](http://arxiv.org/abs/2401.00376v1)|null|
 |**2023-12-29**|**Understanding the magnetic interactions of the zig-zag honeycomb lattice: Application to $α$-RuCl$_3$**|E. M. Wilson et.al.|[2312.17433v1](http://arxiv.org/abs/2312.17433v1)|null|
 |**2023-12-26**|**Observation of Magnon Damping Minimum Induced by Kondo Coupling in a van der Waals Ferromagnet Fe $_{3-x}$GeTe$_{2}$**|Song Bao et.al.|[2312.15961v1](http://arxiv.org/abs/2312.15961v1)|null|
-|**2023-12-13**|**Kernel Polynomial Method for Linear Spin Wave Theory**|Harry Lane et.al.|[2312.08349v1](http://arxiv.org/abs/2312.08349v1)|null|
+|**2024-02-05**|**Kernel Polynomial Method for Linear Spin Wave Theory**|Harry Lane et.al.|[2312.08349v2](http://arxiv.org/abs/2312.08349v2)|null|
 |**2023-12-14**|**Origin of correlated diffuse scattering in the hexagonal manganites**|Tara N. Tošić et.al.|[2312.07449v2](http://arxiv.org/abs/2312.07449v2)|null|
 |**2023-12-08**|**Magnetic Order and Magnetic Excitations in FeTe: How Good is a Short-Range Heisenberg Model?**|Joe Marshall et.al.|[2312.05196v1](http://arxiv.org/abs/2312.05196v1)|null|
 |**2023-11-22**|**ab initio informed inelastic neutron scattering for time-resolved local dynamics in molten MgCl2**|Shubhojit Banerjee et.al.|[2311.13537v1](http://arxiv.org/abs/2311.13537v1)|null|
