@@ -1098,7 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-05**|**Nonlocal Structural Effects of Water on DNA Homology Recognition**|Ehud Haimov et.al.|[2402.03213v1](http://arxiv.org/abs/2402.03213v1)|null|
+|**2024-02-06**|**Geometric theory of (extended) time-reversal symmetries in stochastic processes -- Part I: finite dimension**|Jérémy O'Byrne et.al.|[2402.04217v1](http://arxiv.org/abs/2402.04217v1)|null|
+|**2024-02-06**|**On the growing length scale in a replica-coupled glassforming liquid**|Niklas Küchler et.al.|[2402.04205v1](http://arxiv.org/abs/2402.04205v1)|null|
+|**2024-02-06**|**Comment on the paper 'Saturation and Multifractality of Lagrangian and Eulerian Scaling Exponents in Three-Dimensional Turbulence'**|V. A. Sirota et.al.|[2402.04189v1](http://arxiv.org/abs/2402.04189v1)|null|
+|**2024-02-06**|**Origami Nano-gap Electrodes for Reversible Nanoparticle Trapping**|Itir Bakis Dogru-Yuksel et.al.|[2402.04116v1](http://arxiv.org/abs/2402.04116v1)|null|
+|**2024-02-06**|**A Unified Model for Non-Fickian Diffusion and Anomalous Swelling of Glassy Polymers**|Peihan Lyu et.al.|[2402.03844v1](http://arxiv.org/abs/2402.03844v1)|null|
+|**2024-02-06**|**Amoeboid movement utilizes the shape coupled bifurcation of an active droplet to boost ballistic motion**|H. Ebata et.al.|[2402.03759v1](http://arxiv.org/abs/2402.03759v1)|null|
+|**2024-02-05**|**A Theoretical Study of Doping Evolution of Phonons in High-Temperature Cuprate Superconductors**|Saheli Sarkar et.al.|[2402.03537v1](http://arxiv.org/abs/2402.03537v1)|null|
+|**2024-02-06**|**Nonlocal Structural Effects of Water on DNA Homology Recognition**|Ehud Haimov et.al.|[2402.03213v2](http://arxiv.org/abs/2402.03213v2)|null|
 |**2024-02-05**|**Controlling magnon-photon coupling in a planar geometry**|Dinesh Wagle et.al.|[2402.03071v1](http://arxiv.org/abs/2402.03071v1)|null|
 |**2024-02-05**|**Geometry controls diffusive target encounters and escape in tubular structures**|Junyeong L. Kim et.al.|[2402.03059v1](http://arxiv.org/abs/2402.03059v1)|null|
 |**2024-02-05**|**Elementary processes in dilatational plasticity of glasses**|Avraham Moriel et.al.|[2402.03044v1](http://arxiv.org/abs/2402.03044v1)|null|
@@ -1110,7 +1117,7 @@
 |**2024-02-05**|**Amorphous quantum magnets in a two-dimensional Rydberg atom array**|Sergi Julià-Farré et.al.|[2402.02852v1](http://arxiv.org/abs/2402.02852v1)|null|
 |**2024-02-05**|**Investigating the influence of particle size and shape on froth flotation based benefication of lithium-rich minerals in slags**|Franziska Strube et.al.|[2402.02818v1](http://arxiv.org/abs/2402.02818v1)|null|
 |**2024-02-05**|**Quantification of the volume-fraction reduction of sheared fragile glass-forming liquids and its impact on rheology**|Akira Furukawa et.al.|[2402.02757v1](http://arxiv.org/abs/2402.02757v1)|null|
-|**2024-02-05**|**Heterogeneous Solvent Dissipation Coupled with Particle Rearrangement and in Shear Thinning Non-Brownian Suspensions**|Tomoharu Terayama et.al.|[2402.02756v1](http://arxiv.org/abs/2402.02756v1)|null|
+|**2024-02-06**|**Heterogeneous Solvent Dissipation Coupled with Particle Rearrangement in Shear Thinning Non-Brownian Suspensions**|Tomoharu Terayama et.al.|[2402.02756v2](http://arxiv.org/abs/2402.02756v2)|null|
 |**2024-02-02**|**Spatial correlations of vortex quantum states**|Eduardo Zubizarreta Casalengua et.al.|[2402.01627v1](http://arxiv.org/abs/2402.01627v1)|null|
 |**2024-02-02**|**Critical Casimir effect in a disordered $O(2)$ -symmetric model**|G. O. Heymans et.al.|[2402.01588v1](http://arxiv.org/abs/2402.01588v1)|null|
 |**2024-02-02**|**Resolution dependence of most probable pathways with state-dependent diffusivity**|Alice L. Thorneywork et.al.|[2402.01559v1](http://arxiv.org/abs/2402.01559v1)|null|
@@ -5132,6 +5139,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Balanced Quantum Hall Resistor**|Kajetan M. Fijalkowski et.al.|[2402.04126v1](http://arxiv.org/abs/2402.04126v1)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
 |**2024-01-31**|**Chern-Simons bubbles: Lopsided false vacuum decay in axion electrodynamics**|Saquib Hassan et.al.|[2402.00119v1](http://arxiv.org/abs/2402.00119v1)|null|
 |**2024-01-31**|**Electrical 180o switching of Néel vector in spin-splitting antiferromagnet**|Lei Han et.al.|[2401.17608v1](http://arxiv.org/abs/2401.17608v1)|null|
