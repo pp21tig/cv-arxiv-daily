@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Motile bacteria crossing liquid-liquid interfaces**|Jiyong Cheon et.al.|[2402.05095v1](http://arxiv.org/abs/2402.05095v1)|null|
+|**2024-02-07**|**Fluctuation-Induced First Order Transition to Collective Motion**|David Martin et.al.|[2402.05078v1](http://arxiv.org/abs/2402.05078v1)|null|
+|**2024-02-07**|**Fluctuating hydrodynamics of active particles interacting via chemotaxis and quorum sensing: static and dynamics**|Alberto Dinelli et.al.|[2402.05072v1](http://arxiv.org/abs/2402.05072v1)|null|
+|**2024-02-07**|**Observation of Giant Spin Splitting and d-wave Spin Texture in Room Temperature Altermagnet RuO2**|Zihan Lin et.al.|[2402.04995v1](http://arxiv.org/abs/2402.04995v1)|null|
+|**2024-02-07**|**Challenges and opportunities in the supervised learning of quantum circuit outputs**|Simone Cantori et.al.|[2402.04992v1](http://arxiv.org/abs/2402.04992v1)|null|
+|**2024-02-07**|**Enhanced oil removal from water in oil stable emulsions using electrospun nanocomposite fiber mats**|Suset Barroso Solares et.al.|[2402.04977v1](http://arxiv.org/abs/2402.04977v1)|null|
+|**2024-02-07**|**Decay dynamics of a single spherical domain in near-critical phase-separated conditions**|Raphael Saiseau et.al.|[2402.04973v1](http://arxiv.org/abs/2402.04973v1)|null|
+|**2024-02-07**|**Oil removal from water oil emulsions using magnetic nanocomposite fibrous mats**|S. Barroso-Solares et.al.|[2402.04966v1](http://arxiv.org/abs/2402.04966v1)|null|
+|**2024-02-07**|**Modulation Mechanism of Ionic Transport through Short Nanopores by Charged Exterior Surfaces**|Long Ma et.al.|[2402.04945v1](http://arxiv.org/abs/2402.04945v1)|null|
+|**2024-02-07**|**Positron lifetime calculation of the elements of the periodic table**|J. M. Campillo Robles et.al.|[2402.04761v1](http://arxiv.org/abs/2402.04761v1)|null|
+|**2024-02-07**|**A Non-Abelian Gauge Theory for Surface Excitations of $~^3$ He-B**|A. P. Balachandran et.al.|[2402.04714v1](http://arxiv.org/abs/2402.04714v1)|null|
+|**2024-02-07**|**Run-and-tumble motion of ellipsoidal swimmers**|Gordei Anchutkin et.al.|[2402.04697v1](http://arxiv.org/abs/2402.04697v1)|null|
+|**2024-02-07**|**Positron lifetime calculations for defects in Zn**|J. M. Campillo et.al.|[2402.04693v1](http://arxiv.org/abs/2402.04693v1)|null|
+|**2024-02-07**|**Obituary for Stefan U. Egelhaaf**|M. A. Escobedo-Sánchez et.al.|[2402.04666v1](http://arxiv.org/abs/2402.04666v1)|null|
+|**2024-02-07**|**Analysis of water ice in nanoporous copper needles using cryo atom probe tomography**|Levi Tegg et.al.|[2402.04608v1](http://arxiv.org/abs/2402.04608v1)|null|
+|**2024-02-06**|**Vectorial active matter on the lattice: polar condensates and nematic filaments**|Josué Manik Nava-Sedeño et.al.|[2402.04450v1](http://arxiv.org/abs/2402.04450v1)|null|
+|**2024-02-06**|**Field-dependent magnetic relaxation times of magnetic nanoparticle systems: analytic approximations supported by numerical simulations**|Jonathon C. Davidson et.al.|[2402.04427v1](http://arxiv.org/abs/2402.04427v1)|null|
+|**2024-02-06**|**Spontaneous Micro Flocking of Active Inertial Particles without Alignment Interaction**|Subhajit Paul et.al.|[2402.04397v1](http://arxiv.org/abs/2402.04397v1)|null|
 |**2024-02-06**|**Geometric theory of (extended) time-reversal symmetries in stochastic processes -- Part I: finite dimension**|Jérémy O'Byrne et.al.|[2402.04217v1](http://arxiv.org/abs/2402.04217v1)|null|
 |**2024-02-06**|**On the growing length scale in a replica-coupled glassforming liquid**|Niklas Küchler et.al.|[2402.04205v1](http://arxiv.org/abs/2402.04205v1)|null|
 |**2024-02-06**|**Comment on the paper 'Saturation and Multifractality of Lagrangian and Eulerian Scaling Exponents in Three-Dimensional Turbulence'**|V. A. Sirota et.al.|[2402.04189v1](http://arxiv.org/abs/2402.04189v1)|null|
@@ -4751,6 +4769,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Excited-Band Coherent Delocalization for Improved Optical Lattice Clock Performance**|Jacob Siegel et.al.|[2402.04968v1](http://arxiv.org/abs/2402.04968v1)|null|
+|**2024-02-07**|**Hidden non-equilibrium pathways towards crystalline perfection**|A. Mangu et.al.|[2402.04962v1](http://arxiv.org/abs/2402.04962v1)|null|
 |**2024-02-02**|**Identifying differences between semi-classical and full-quantum descriptions of plexcitons**|Marco Romanelli et.al.|[2402.01846v1](http://arxiv.org/abs/2402.01846v1)|null|
 |**2024-02-05**|**Decoupled few-femtosecond phase transitions in vanadium dioxide**|Christian Brahms et.al.|[2402.01266v2](http://arxiv.org/abs/2402.01266v2)|null|
 |**2024-02-05**|**Light-induced phase transitions in vanadium dioxide: a tensor network study**|Lin Zhang et.al.|[2402.01247v2](http://arxiv.org/abs/2402.01247v2)|null|
@@ -4768,6 +4788,7 @@ layout: default
 |**2023-12-25**|**Radiometric propulsion: Advancing with the order-of-magnitude enhancement through graphene aerogel-coated vanes**|Bo Peng et.al.|[2312.15592v1](http://arxiv.org/abs/2312.15592v1)|null|
 |**2023-12-20**|**Modeling Photothermal Effects in High Power Optical Resonators used for Coherent Levitation**|Chenyue Gu et.al.|[2312.13375v1](http://arxiv.org/abs/2312.13375v1)|null|
 |**2023-11-20**|**All-Optical Domain Inversion in LiNbO3 Crystals by Visible Continuous-Wave Laser Irradiation**|Carlos Sebastián-Vicente et.al.|[2312.13291v1](http://arxiv.org/abs/2312.13291v1)|null|
+|**2024-02-07**|**Light-responsive active particles in a thermotropic liquid crystal**|Antonio Tavera-Vázquez et.al.|[2312.12866v2](http://arxiv.org/abs/2312.12866v2)|null|
 |**2023-12-13**|**Ultrafast light-induced magnetization in non-magnetic films: from orbital and spin Hall phenomena to the inverse Faraday effect**|Hanan Hamamera et.al.|[2312.07888v1](http://arxiv.org/abs/2312.07888v1)|null|
 |**2023-12-12**|**Kondo coherence versus superradiance in THz radiation-driven heavy-fermion systems**|Chia-Jung Yang et.al.|[2312.06931v1](http://arxiv.org/abs/2312.06931v1)|null|
 |**2023-12-10**|**An atomic probe of dark matter differential interactions with elementary particles**|Yossi Rosenzweig et.al.|[2312.05894v1](http://arxiv.org/abs/2312.05894v1)|null|
@@ -5143,6 +5164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Observation of Giant Spin Splitting and d-wave Spin Texture in Room Temperature Altermagnet RuO2**|Zihan Lin et.al.|[2402.04995v1](http://arxiv.org/abs/2402.04995v1)|null|
 |**2024-02-06**|**Balanced Quantum Hall Resistor**|Kajetan M. Fijalkowski et.al.|[2402.04126v1](http://arxiv.org/abs/2402.04126v1)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
 |**2024-01-31**|**Chern-Simons bubbles: Lopsided false vacuum decay in axion electrodynamics**|Saquib Hassan et.al.|[2402.00119v1](http://arxiv.org/abs/2402.00119v1)|null|
