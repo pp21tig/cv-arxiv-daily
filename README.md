@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Exact quantum sensing limits for bosonic dephasing channels**|Zixin Huang et.al.|[2402.05793v1](http://arxiv.org/abs/2402.05793v1)|null|
+|**2024-02-08**|**What is the best simulation approach for measuring local density fluctuations near solvo/hydrophobes?**|Nigel B. Wilding et.al.|[2402.05692v1](http://arxiv.org/abs/2402.05692v1)|null|
+|**2024-02-08**|**A Mechanical Origin of Cooperative Transport**|Eden Arbel et.al.|[2402.05659v1](http://arxiv.org/abs/2402.05659v1)|null|
+|**2024-02-08**|**Flat-histogram algorithms: optimal parameters and extended application**|Timur Shakirov et.al.|[2402.05653v1](http://arxiv.org/abs/2402.05653v1)|null|
+|**2024-02-08**|**Superhydrophobic/superoleophilic magnetic elastomers by laser ablation**|Athanasios Milionis et.al.|[2402.05578v1](http://arxiv.org/abs/2402.05578v1)|null|
+|**2024-02-08**|**Comment on "A new universality class describes Vicsek's flocking phase in physical dimensions''**|Harukuni Ikeda et.al.|[2402.05577v1](http://arxiv.org/abs/2402.05577v1)|null|
+|**2024-02-08**|**Inertial active harmonic particle with memory escape induced by viscoelastic suspension**|F Adersh et.al.|[2402.05538v1](http://arxiv.org/abs/2402.05538v1)|null|
+|**2024-02-08**|**Investigation of double-gyroid grain boundaries beyond twinning**|Jing Chen et.al.|[2402.05459v1](http://arxiv.org/abs/2402.05459v1)|null|
+|**2024-02-08**|**From atomic to global connectivity in the structure of the SARS-CoV2-Human ACE2 receptor complex**|Varsha Subramanyan et.al.|[2402.05416v1](http://arxiv.org/abs/2402.05416v1)|null|
+|**2024-02-07**|**Impact of impurities on the topological boundaries and edge state localization in a staggered chain of atoms: SSH model and its topoelectrical circuit realization**|Julio César Pérez-Pedraza et.al.|[2402.05261v1](http://arxiv.org/abs/2402.05261v1)|null|
 |**2024-02-07**|**Motile bacteria crossing liquid-liquid interfaces**|Jiyong Cheon et.al.|[2402.05095v1](http://arxiv.org/abs/2402.05095v1)|null|
 |**2024-02-07**|**Fluctuation-Induced First Order Transition to Collective Motion**|David Martin et.al.|[2402.05078v1](http://arxiv.org/abs/2402.05078v1)|null|
 |**2024-02-07**|**Fluctuating hydrodynamics of active particles interacting via chemotaxis and quorum sensing: static and dynamics**|Alberto Dinelli et.al.|[2402.05072v1](http://arxiv.org/abs/2402.05072v1)|null|
@@ -5012,6 +5022,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v1](http://arxiv.org/abs/2402.05652v1)|null|
 |**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
 |**2024-02-03**|**Spintronic devices and applications using noncollinear anti-chiral antiferromagnets**|Ankit Shukla et.al.|[2402.01977v1](http://arxiv.org/abs/2402.01977v1)|null|
@@ -5160,6 +5171,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845v1](http://arxiv.org/abs/2402.05845v1)|null|
+|**2024-02-08**|**Valley-dependent Multiple Quantum States and Topological Transitions in Germanene-based Ferromagnetic van der Waals Heterostructures**|Feng Xue et.al.|[2402.05613v1](http://arxiv.org/abs/2402.05613v1)|null|
+|**2024-02-07**|**Large unconventional anomalous Hall effect arising from spin chirality within domain walls of an antiferromagnet EuZn $_2$Sb$_2$**|Karan Singh et.al.|[2402.05237v1](http://arxiv.org/abs/2402.05237v1)|null|
 |**2024-02-07**|**Observation of Giant Spin Splitting and d-wave Spin Texture in Room Temperature Altermagnet RuO2**|Zihan Lin et.al.|[2402.04995v1](http://arxiv.org/abs/2402.04995v1)|null|
 |**2024-02-06**|**Balanced Quantum Hall Resistor**|Kajetan M. Fijalkowski et.al.|[2402.04126v1](http://arxiv.org/abs/2402.04126v1)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
