@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Irreversible Monte Carlo algorithms for hard disk glasses: from event-chain to collective swaps**|Federico Ghimenti et.al.|[2402.06585v1](http://arxiv.org/abs/2402.06585v1)|null|
+|**2024-02-09**|**Parameter estimation for quantum jump unraveling**|Marco Radaelli et.al.|[2402.06556v1](http://arxiv.org/abs/2402.06556v1)|null|
+|**2024-02-09**|**Relative frequencies of constrained events in stochastic processes: An analytical approach**|S. Rusconi et.al.|[2402.06536v1](http://arxiv.org/abs/2402.06536v1)|null|
+|**2024-02-09**|**Reducing model complexity by means of the Optimal Scaling: Population Balance Model for latex particles morphology formation**|Simone Rusconi et.al.|[2402.06522v1](http://arxiv.org/abs/2402.06522v1)|null|
+|**2024-02-09**|**Dynamic swarms regulate the morphology and distribution of soft membrane domains**|Aakanksha Gubbala et.al.|[2402.06518v1](http://arxiv.org/abs/2402.06518v1)|null|
+|**2024-02-09**|**The role of mobility in epidemics near criticality**|Beatrice Nettuno et.al.|[2402.06505v1](http://arxiv.org/abs/2402.06505v1)|null|
+|**2024-02-09**|**Flexible, photonic films of surfactant-functionalized cellulose nanocrystals for pressure and humidity sensing**|Diogo V. Saraiva et.al.|[2402.06468v1](http://arxiv.org/abs/2402.06468v1)|null|
+|**2024-02-09**|**Plateau-Rayleigh instability of a soft layer coated on a rigid cylinder**|Bharti et.al.|[2402.06362v1](http://arxiv.org/abs/2402.06362v1)|null|
+|**2024-02-09**|**Wetting ridge dissipation at large deformations**|Martin H. Essink et.al.|[2402.06344v1](http://arxiv.org/abs/2402.06344v1)|null|
+|**2024-02-09**|**Capillary imbibition in lubricant coated channels**|Sergi G. Leyva et.al.|[2402.06296v1](http://arxiv.org/abs/2402.06296v1)|null|
+|**2024-02-09**|**Towards full control of molecular exciton energy transfer via FRET in DNA origami assemblies**|Aleksandra K. Adamczyk et.al.|[2402.06292v1](http://arxiv.org/abs/2402.06292v1)|null|
+|**2024-02-09**|**Bayesian Committee Machine Potential for Isothermal-Isobaric Molecular Dynamics Simulations**|Soohaeng Yoo Willow et.al.|[2402.06256v1](http://arxiv.org/abs/2402.06256v1)|null|
 |**2024-02-08**|**Exact quantum sensing limits for bosonic dephasing channels**|Zixin Huang et.al.|[2402.05793v1](http://arxiv.org/abs/2402.05793v1)|null|
 |**2024-02-08**|**What is the best simulation approach for measuring local density fluctuations near solvo/hydrophobes?**|Nigel B. Wilding et.al.|[2402.05692v1](http://arxiv.org/abs/2402.05692v1)|null|
 |**2024-02-08**|**A Mechanical Origin of Cooperative Transport**|Eden Arbel et.al.|[2402.05659v1](http://arxiv.org/abs/2402.05659v1)|null|
@@ -5026,6 +5038,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Scheme for continuous force detection with a single electron at the $10^{-27}\mathrm{N}$ level**|Dominika Ďurovčíková et.al.|[2402.05998v1](http://arxiv.org/abs/2402.05998v1)|null|
 |**2024-02-08**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v1](http://arxiv.org/abs/2402.05652v1)|null|
 |**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
