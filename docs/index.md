@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Membrane heterogeneity alters our interpretation of effective energy barriers to transport**|Nathanael S. Schwindt et.al.|[2402.07830v1](http://arxiv.org/abs/2402.07830v1)|null|
+|**2024-02-12**|**Topological Edge States in Reconfigurable Multi-stable Mechanical Metamaterials**|Zhen Wang et.al.|[2402.07707v1](http://arxiv.org/abs/2402.07707v1)|null|
+|**2024-02-12**|**Uniaxial Compression based Recovery Analyses to Describe Polymer-Specific and Universal Nanoindentation Deformation Phenomena**|Prakash Sarkar et.al.|[2402.07565v1](http://arxiv.org/abs/2402.07565v1)|null|
+|**2024-02-12**|**Advecting Scaffolds: Controlling The Remodelling Of Actomyosin With Anillin**|Denni Currin-Ross et.al.|[2402.07430v1](http://arxiv.org/abs/2402.07430v1)|null|
+|**2024-02-11**|**Spontaneous Symmetry Breaking in Polar Fluids**|Calum Gibb et.al.|[2402.07305v1](http://arxiv.org/abs/2402.07305v1)|null|
+|**2024-02-11**|**The effects of interparticle cohesion on the collapse of granular columns**|Ram Sudhir Sharma et.al.|[2402.07285v1](http://arxiv.org/abs/2402.07285v1)|null|
+|**2024-02-11**|**Resonant soft X-ray scattering reveals hierarchical structure in a multi-component vapor-deposited glass**|Camille Bishop et.al.|[2402.07280v1](http://arxiv.org/abs/2402.07280v1)|null|
+|**2024-02-11**|**Spectroscopy of oscillation modes in homogeneously precessing domain of superfluid $^3$ He-B**|V. V. Zavjalov et.al.|[2402.07215v1](http://arxiv.org/abs/2402.07215v1)|null|
+|**2024-02-11**|**A finite geometry, inertia assisted coarsening-to-complexity transition in homogeneous frictional systems**|Thibault Roch et.al.|[2402.07178v1](http://arxiv.org/abs/2402.07178v1)|null|
+|**2024-02-11**|**X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design**|Eric L. Buehler et.al.|[2402.07148v1](http://arxiv.org/abs/2402.07148v1)|**[link](https://github.com/ericlbuehler/xlora)**|
+|**2024-02-11**|**Interplay between cortical adhesion and membrane bending regulates microparticle formation**|Arijit Mahapatra et.al.|[2402.07120v1](http://arxiv.org/abs/2402.07120v1)|null|
+|**2024-02-10**|**Phase Separation Kinetics and Cluster Dynamics in Two-Dimensional Active Dumbbell Systems**|C. B. Caporusso et.al.|[2402.06998v1](http://arxiv.org/abs/2402.06998v1)|null|
+|**2024-02-10**|**Lifetime of vertical giant soap films: role of the relative humidity and film dimensions**|Marina Pasquet et.al.|[2402.06950v1](http://arxiv.org/abs/2402.06950v1)|null|
+|**2024-02-10**|**The linear viscoelastic fracture theory applies to soft solids better when they are... viscoelastic**|Etienne Barthel et.al.|[2402.06944v1](http://arxiv.org/abs/2402.06944v1)|null|
+|**2024-02-10**|**Mixed equilibrium/nonequilibrium effects govern surface mobility in polymer glasses**|Jianquan Xu et.al.|[2402.06917v1](http://arxiv.org/abs/2402.06917v1)|null|
+|**2024-02-09**|**Restored quantum size effects of Pb overlayers at high coverages**|A. Ayuela et.al.|[2402.06816v1](http://arxiv.org/abs/2402.06816v1)|null|
+|**2024-02-09**|**Capturing the slow relaxation time of superparamagnetic colloids in time-varying fields**|Lucas H. P. Cunha et.al.|[2402.06802v1](http://arxiv.org/abs/2402.06802v1)|null|
+|**2024-02-09**|**The poker-chip experiments of synthetic elastomers**|Farhad Kamarei et.al.|[2402.06785v1](http://arxiv.org/abs/2402.06785v1)|null|
 |**2024-02-09**|**Irreversible Monte Carlo algorithms for hard disk glasses: from event-chain to collective swaps**|Federico Ghimenti et.al.|[2402.06585v1](http://arxiv.org/abs/2402.06585v1)|null|
 |**2024-02-09**|**Parameter estimation for quantum jump unraveling**|Marco Radaelli et.al.|[2402.06556v1](http://arxiv.org/abs/2402.06556v1)|null|
 |**2024-02-09**|**Relative frequencies of constrained events in stochastic processes: An analytical approach**|S. Rusconi et.al.|[2402.06536v1](http://arxiv.org/abs/2402.06536v1)|null|
@@ -4791,7 +4809,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-07**|**Excited-Band Coherent Delocalization for Improved Optical Lattice Clock Performance**|Jacob Siegel et.al.|[2402.04968v1](http://arxiv.org/abs/2402.04968v1)|null|
+|**2024-02-08**|**Extinction of guided light induced by coupled spiral meta-atom resonators at arbitrary order exceptional points**|Chengzhi Zhang et.al.|[2402.06686v1](http://arxiv.org/abs/2402.06686v1)|null|
+|**2024-02-12**|**Excited-Band Coherent Delocalization for Improved Optical Lattice Clock Performance**|Jacob Siegel et.al.|[2402.04968v2](http://arxiv.org/abs/2402.04968v2)|null|
 |**2024-02-07**|**Hidden non-equilibrium pathways towards crystalline perfection**|A. Mangu et.al.|[2402.04962v1](http://arxiv.org/abs/2402.04962v1)|null|
 |**2024-02-02**|**Identifying differences between semi-classical and full-quantum descriptions of plexcitons**|Marco Romanelli et.al.|[2402.01846v1](http://arxiv.org/abs/2402.01846v1)|null|
 |**2024-02-05**|**Decoupled few-femtosecond phase transitions in vanadium dioxide**|Christian Brahms et.al.|[2402.01266v2](http://arxiv.org/abs/2402.01266v2)|null|
@@ -5038,6 +5057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v1](http://arxiv.org/abs/2402.07756v1)|null|
 |**2024-02-08**|**Scheme for continuous force detection with a single electron at the $10^{-27}\mathrm{N}$ level**|Dominika Ďurovčíková et.al.|[2402.05998v1](http://arxiv.org/abs/2402.05998v1)|null|
 |**2024-02-08**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v1](http://arxiv.org/abs/2402.05652v1)|null|
 |**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
@@ -5380,6 +5400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Continuum of spin excitations in an ordered magnet**|Jieming Sheng et.al.|[2402.07730v1](http://arxiv.org/abs/2402.07730v1)|null|
 |**2024-02-02**|**Coexistence of Ferromagnetism and Antiferromagnetic Dimers in Topological Insulators**|Farhan Islam et.al.|[2402.01531v1](http://arxiv.org/abs/2402.01531v1)|null|
 |**2024-02-01**|**Quantum phase transitions and composite excitations of antiferromagnetic quantum spin trimer chains in a magnetic field**|Jun-Qing Cheng et.al.|[2402.00272v1](http://arxiv.org/abs/2402.00272v1)|null|
 |**2024-01-30**|**Incipient nematicity from electron flat bands in a kagome metal**|Nathan Drucker et.al.|[2401.17141v1](http://arxiv.org/abs/2401.17141v1)|null|
