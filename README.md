@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Coarse-Graining in Space versus Time**|Jaehyeok Jin et.al.|[2402.08675v1](http://arxiv.org/abs/2402.08675v1)|null|
+|**2024-02-13**|**Tunable Shape Oscillations of Adaptive Droplets**|Tim Dullweber et.al.|[2402.08664v1](http://arxiv.org/abs/2402.08664v1)|null|
+|**2024-02-13**|**Maxwell construction for a nonreciprocal Cahn-Hilliard model**|Daniel Greve et.al.|[2402.08634v1](http://arxiv.org/abs/2402.08634v1)|null|
+|**2024-02-13**|**Incidence of the Brownian relaxation process on the magnetic properties of ferrofluids**|Lili Vajtai et.al.|[2402.08553v1](http://arxiv.org/abs/2402.08553v1)|null|
+|**2024-02-13**|**Hyperballistic transport in dense ionized matter under external AC electric fields**|Daniele Gamba et.al.|[2402.08519v1](http://arxiv.org/abs/2402.08519v1)|null|
+|**2024-02-13**|**Unveiling interatomic distances influencing the reaction coordinates in alanine dipeptide isomerization: An explainable deep learning approach**|Kazushi Okada et.al.|[2402.08448v1](http://arxiv.org/abs/2402.08448v1)|null|
+|**2024-02-13**|**The breakdown of the direct relation between the density scaling exponent and the intermolecular interaction potential for molecular systems with purely repulsive intermolecular forces**|Filip Kaśkosz et.al.|[2402.08444v1](http://arxiv.org/abs/2402.08444v1)|null|
+|**2024-02-13**|**Towards the Densest Polydisperse Disk Packing**|Sangwoo Kim et.al.|[2402.08390v1](http://arxiv.org/abs/2402.08390v1)|null|
+|**2024-02-13**|**Biophysical Fluid Dynamics in a Petri Dish**|George T. Fortune et.al.|[2402.08374v1](http://arxiv.org/abs/2402.08374v1)|null|
+|**2024-02-13**|**Signatures of a surface spin-orbital chiral metal**|Federico Mazzola et.al.|[2402.08319v1](http://arxiv.org/abs/2402.08319v1)|null|
+|**2024-02-13**|**Tuning residual stress, directional memory and aging in soft glassy materials**|Paolo Edera et.al.|[2402.08293v1](http://arxiv.org/abs/2402.08293v1)|null|
+|**2024-02-13**|**AC-Josephson Effect and Sub-Comb Mode-Locking in a Kerr-Induced Synchronized Cavity Soliton**|Gregory Moille et.al.|[2402.08154v1](http://arxiv.org/abs/2402.08154v1)|null|
 |**2024-02-12**|**Membrane heterogeneity alters our interpretation of effective energy barriers to transport**|Nathanael S. Schwindt et.al.|[2402.07830v1](http://arxiv.org/abs/2402.07830v1)|null|
 |**2024-02-12**|**Topological Edge States in Reconfigurable Multi-stable Mechanical Metamaterials**|Zhen Wang et.al.|[2402.07707v1](http://arxiv.org/abs/2402.07707v1)|null|
 |**2024-02-12**|**Uniaxial Compression based Recovery Analyses to Describe Polymer-Specific and Universal Nanoindentation Deformation Phenomena**|Prakash Sarkar et.al.|[2402.07565v1](http://arxiv.org/abs/2402.07565v1)|null|
@@ -5055,7 +5067,7 @@
 |---|---|---|---|---|
 |**2024-02-12**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v1](http://arxiv.org/abs/2402.07756v1)|null|
 |**2024-02-08**|**Scheme for continuous force detection with a single electron at the $10^{-27}\mathrm{N}$ level**|Dominika Ďurovčíková et.al.|[2402.05998v1](http://arxiv.org/abs/2402.05998v1)|null|
-|**2024-02-08**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v1](http://arxiv.org/abs/2402.05652v1)|null|
+|**2024-02-13**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v2](http://arxiv.org/abs/2402.05652v2)|null|
 |**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
 |**2024-02-03**|**Magnetochiral Tunneling in Paramagnetic Co $_{1/3}$NbS$_2$**|Seongjoon Lim et.al.|[2402.02248v1](http://arxiv.org/abs/2402.02248v1)|null|
 |**2024-02-03**|**Spintronic devices and applications using noncollinear anti-chiral antiferromagnets**|Ankit Shukla et.al.|[2402.01977v1](http://arxiv.org/abs/2402.01977v1)|null|
@@ -5396,6 +5408,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Continuum of magnetic excitations in the Kitaev honeycomb iridate D $_3$LiIr$_2$O$_6$**|Thomas Halloran et.al.|[2402.08083v1](http://arxiv.org/abs/2402.08083v1)|null|
 |**2024-02-12**|**Continuum of spin excitations in an ordered magnet**|Jieming Sheng et.al.|[2402.07730v1](http://arxiv.org/abs/2402.07730v1)|null|
 |**2024-02-02**|**Coexistence of Ferromagnetism and Antiferromagnetic Dimers in Topological Insulators**|Farhan Islam et.al.|[2402.01531v1](http://arxiv.org/abs/2402.01531v1)|null|
 |**2024-02-01**|**Quantum phase transitions and composite excitations of antiferromagnetic quantum spin trimer chains in a magnetic field**|Jun-Qing Cheng et.al.|[2402.00272v1](http://arxiv.org/abs/2402.00272v1)|null|
