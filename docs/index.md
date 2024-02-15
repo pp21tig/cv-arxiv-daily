@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**On the system size dependence of the diffusion coefficients in MD simulations: A simple correction formula for pure dense fluids**|Sergey Khrapak et.al.|[2402.09348v1](http://arxiv.org/abs/2402.09348v1)|null|
+|**2024-02-14**|**Radical-Induced Changes in Transition Metal Interfacial Magnetic Properties: A Blatter Derivative on Polycrystalline Cobalt**|Ewa Malgorzata Nowik-Boltyk et.al.|[2402.09340v1](http://arxiv.org/abs/2402.09340v1)|null|
+|**2024-02-14**|**Nonreciprocal collective dynamics in a mixture of phoretic Janus colloids**|Gennaro Tucci et.al.|[2402.09279v1](http://arxiv.org/abs/2402.09279v1)|null|
+|**2024-02-14**|**Textural properties of dense granular pastes produced by kneading**|Mathilde Auxois et.al.|[2402.09220v1](http://arxiv.org/abs/2402.09220v1)|null|
+|**2024-02-14**|**Davydov's soliton in an external alternating magnetic field**|Larissa Brizhik et.al.|[2402.09172v1](http://arxiv.org/abs/2402.09172v1)|null|
+|**2024-02-14**|**Machine learning assisted prediction of organic salt structure properties**|Ethan P. Shapera et.al.|[2402.09128v1](http://arxiv.org/abs/2402.09128v1)|null|
+|**2024-02-14**|**High-precision and low-noise dielectric tensor tomography using a micro-electromechanical system mirror**|Juheon Lee et.al.|[2402.09070v1](http://arxiv.org/abs/2402.09070v1)|null|
+|**2024-02-14**|**Using quantum annealing to design lattice proteins**|Anders Irbäck et.al.|[2402.09069v1](http://arxiv.org/abs/2402.09069v1)|null|
+|**2024-02-14**|**NMR contributions to the study of water transfer in proton exchange membranes for fuel cells**|Jean-Christophe Perrin et.al.|[2402.09019v1](http://arxiv.org/abs/2402.09019v1)|null|
+|**2024-02-13**|**Universal stress correlations in crystalline and amorphous packings**|Roshan Maharana et.al.|[2402.08738v1](http://arxiv.org/abs/2402.08738v1)|null|
 |**2024-02-13**|**Coarse-Graining in Space versus Time**|Jaehyeok Jin et.al.|[2402.08675v1](http://arxiv.org/abs/2402.08675v1)|null|
 |**2024-02-13**|**Tunable Shape Oscillations of Adaptive Droplets**|Tim Dullweber et.al.|[2402.08664v1](http://arxiv.org/abs/2402.08664v1)|null|
 |**2024-02-13**|**Maxwell construction for a nonreciprocal Cahn-Hilliard model**|Daniel Greve et.al.|[2402.08634v1](http://arxiv.org/abs/2402.08634v1)|null|
@@ -4821,6 +4831,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Efficient Terahertz Generation from CoPt-based Terahertz Emitters via Orbital-to-Charge Conversion**|Yongshan Liu et.al.|[2402.09228v1](http://arxiv.org/abs/2402.09228v1)|null|
 |**2024-02-08**|**Extinction of guided light induced by coupled spiral meta-atom resonators at arbitrary order exceptional points**|Chengzhi Zhang et.al.|[2402.06686v1](http://arxiv.org/abs/2402.06686v1)|null|
 |**2024-02-12**|**Excited-Band Coherent Delocalization for Improved Optical Lattice Clock Performance**|Jacob Siegel et.al.|[2402.04968v2](http://arxiv.org/abs/2402.04968v2)|null|
 |**2024-02-07**|**Hidden non-equilibrium pathways towards crystalline perfection**|A. Mangu et.al.|[2402.04962v1](http://arxiv.org/abs/2402.04962v1)|null|
@@ -5220,6 +5231,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Quantum Theory of Phonon Induced Anomalous Hall Effect in 2D Massive Dirac metals**|Jia-Xing Zhang et.al.|[2402.09049v1](http://arxiv.org/abs/2402.09049v1)|null|
 |**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845v1](http://arxiv.org/abs/2402.05845v1)|null|
 |**2024-02-08**|**Valley-dependent Multiple Quantum States and Topological Transitions in Germanene-based Ferromagnetic van der Waals Heterostructures**|Feng Xue et.al.|[2402.05613v1](http://arxiv.org/abs/2402.05613v1)|null|
 |**2024-02-07**|**Large unconventional anomalous Hall effect arising from spin chirality within domain walls of an antiferromagnet EuZn $_2$Sb$_2$**|Karan Singh et.al.|[2402.05237v1](http://arxiv.org/abs/2402.05237v1)|null|
