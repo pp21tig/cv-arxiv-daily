@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Tracer dynamics in polymer networks: generalized Langevin description**|Sebastian Milster et.al.|[2402.10148v1](http://arxiv.org/abs/2402.10148v1)|null|
+|**2024-02-15**|**Thermodynamically Stable Knots in Semiflexible Polymers**|Wolfhard Janke et.al.|[2402.10147v1](http://arxiv.org/abs/2402.10147v1)|null|
+|**2024-02-15**|**Quantum Linear Magnetoresistance and Fermi Liquid Behavior in Kagome Metal Ni3In2S2**|P. Das et.al.|[2402.10096v1](http://arxiv.org/abs/2402.10096v1)|null|
+|**2024-02-15**|**Phase coexistence in the Non-reciprocal Cahn-Hilliard model**|Suropriya Saha et.al.|[2402.10057v1](http://arxiv.org/abs/2402.10057v1)|null|
+|**2024-02-15**|**Three-dimensional active nematic turbulence: chirality, flow alignment and elastic anisotropy**|Nika Kralj et.al.|[2402.10020v1](http://arxiv.org/abs/2402.10020v1)|null|
+|**2024-02-15**|**Optimal design of fast topological pumping**|Xianggui Ding et.al.|[2402.09958v1](http://arxiv.org/abs/2402.09958v1)|null|
+|**2024-02-15**|**Pinching Dynamics of Thin Films of Binary Mixtures**|A. Choudhury et.al.|[2402.09942v1](http://arxiv.org/abs/2402.09942v1)|null|
+|**2024-02-15**|**Success and breakdown of Tanner's law for drops of dense granular suspensions**|Alice Pelosse et.al.|[2402.09929v1](http://arxiv.org/abs/2402.09929v1)|null|
+|**2024-02-15**|**Melting of a vortex matter Wigner crystal**|Tyler W. Neely et.al.|[2402.09920v1](http://arxiv.org/abs/2402.09920v1)|null|
+|**2024-02-15**|**Space-resolved dynamic light scattering within a millimetric drop: from Brownian diffusion to the swelling of hydrogel beads**|Matteo Milani et.al.|[2402.09875v1](http://arxiv.org/abs/2402.09875v1)|null|
+|**2024-02-15**|**Propulsion of a three-sphere micro-robot in a porous medium**|Chih-Tang Liao et.al.|[2402.09793v1](http://arxiv.org/abs/2402.09793v1)|null|
+|**2024-02-15**|**Chemotactic particles as strong electrolytes: Debye-Hückel approximation and effective mobility law**|Pierre Illien et.al.|[2402.09775v1](http://arxiv.org/abs/2402.09775v1)|null|
+|**2024-02-14**|**Minimal design of the elephant trunk as an active filament**|Bartosz Kaczmarski et.al.|[2402.09625v1](http://arxiv.org/abs/2402.09625v1)|null|
+|**2024-02-14**|**Modelling turbulent flow of superfluid $^4$He past a rough solid wall in the $T = 0$ limit**|Matthew J Doyle et.al.|[2402.09562v1](http://arxiv.org/abs/2402.09562v1)|null|
+|**2024-02-14**|**Introduction to quantum entanglement in many-body systems**|Anubhav Kumar Srivastava et.al.|[2402.09523v1](http://arxiv.org/abs/2402.09523v1)|null|
 |**2024-02-14**|**On the system size dependence of the diffusion coefficients in MD simulations: A simple correction formula for pure dense fluids**|Sergey Khrapak et.al.|[2402.09348v1](http://arxiv.org/abs/2402.09348v1)|null|
 |**2024-02-14**|**Radical-Induced Changes in Transition Metal Interfacial Magnetic Properties: A Blatter Derivative on Polycrystalline Cobalt**|Ewa Malgorzata Nowik-Boltyk et.al.|[2402.09340v1](http://arxiv.org/abs/2402.09340v1)|null|
 |**2024-02-14**|**Nonreciprocal collective dynamics in a mixture of phoretic Janus colloids**|Gennaro Tucci et.al.|[2402.09279v1](http://arxiv.org/abs/2402.09279v1)|null|
@@ -5080,6 +5095,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Spin-orbit torque in single-molecule junctions from ab initio**|María Camarasa-Gómez et.al.|[2402.09610v1](http://arxiv.org/abs/2402.09610v1)|null|
 |**2024-02-12**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v1](http://arxiv.org/abs/2402.07756v1)|null|
 |**2024-02-08**|**Scheme for continuous force detection with a single electron at the $10^{-27}\mathrm{N}$ level**|Dominika Ďurovčíková et.al.|[2402.05998v1](http://arxiv.org/abs/2402.05998v1)|null|
 |**2024-02-13**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v2](http://arxiv.org/abs/2402.05652v2)|null|
@@ -5231,6 +5247,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201v1](http://arxiv.org/abs/2402.10201v1)|null|
+|**2024-02-15**|**Doping induced multiferroicity and quantum anomalous Hall effect in $α$-In$_2$Se$_3$ thin films**|Zhiqiang Tian et.al.|[2402.09770v1](http://arxiv.org/abs/2402.09770v1)|null|
 |**2024-02-14**|**Quantum Theory of Phonon Induced Anomalous Hall Effect in 2D Massive Dirac metals**|Jia-Xing Zhang et.al.|[2402.09049v1](http://arxiv.org/abs/2402.09049v1)|null|
 |**2024-02-08**|**Quantum Anomalous Hall Effect in $d$ -Electron Kagome Systems: Chern Insulating States from Transverse Spin-Orbit Coupling**|Imam Makhfudz et.al.|[2402.05845v1](http://arxiv.org/abs/2402.05845v1)|null|
 |**2024-02-08**|**Valley-dependent Multiple Quantum States and Topological Transitions in Germanene-based Ferromagnetic van der Waals Heterostructures**|Feng Xue et.al.|[2402.05613v1](http://arxiv.org/abs/2402.05613v1)|null|
