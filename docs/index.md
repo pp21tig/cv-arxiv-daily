@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Transverse forces and glassy liquids in infinite dimensions**|Federico Ghimenti et.al.|[2402.10856v1](http://arxiv.org/abs/2402.10856v1)|null|
+|**2024-02-16**|**Stressed and sliding ice surfaces liquefy without much heating**|Achraf Atila et.al.|[2402.10843v1](http://arxiv.org/abs/2402.10843v1)|null|
+|**2024-02-16**|**Observation of the two-photon Landau-Zener-Stückelberg-Majorana effect**|Isak Björkman et.al.|[2402.10833v1](http://arxiv.org/abs/2402.10833v1)|null|
+|**2024-02-16**|**Magneto-Permeability Effect in Ferrofluid Flow through Porous Media studied via Multiparticle Collision Dynamics**|Patrick Ilg et.al.|[2402.10799v1](http://arxiv.org/abs/2402.10799v1)|null|
+|**2024-02-16**|**Considerations on the relaxation time in shear-driven jamming**|Lucas Hedström et.al.|[2402.10682v1](http://arxiv.org/abs/2402.10682v1)|null|
+|**2024-02-16**|**Human-machine collaboration: ordering mechanism of rank $-2$ spin liquid on breathing pyrochlore lattice**|Nicolas Sadoune et.al.|[2402.10658v1](http://arxiv.org/abs/2402.10658v1)|null|
+|**2024-02-16**|**Temperature dependence of the bandgap of Eu doped {ZnCdO/ZnO}30 multilayer structures**|A. Lysak et.al.|[2402.10650v1](http://arxiv.org/abs/2402.10650v1)|null|
+|**2024-02-16**|**Enhanced Long Wavelength Mermin-Wagner Fluctuations in Two-Dimensional Active Crystals and Glasses**|Subhodeep Dey et.al.|[2402.10625v1](http://arxiv.org/abs/2402.10625v1)|null|
+|**2024-02-16**|**Nonequilibrium dynamics and entropy production of a trapped colloidal particle in a complex nonreciprocal medium**|Lea Fernandez et.al.|[2402.10579v1](http://arxiv.org/abs/2402.10579v1)|null|
+|**2024-02-16**|**Theory of Wetting Dynamics with Surface Binding**|Xueping Zhao et.al.|[2402.10405v1](http://arxiv.org/abs/2402.10405v1)|null|
+|**2024-02-15**|**Athermal granular creep in a quenched sandpile**|Nakul S. Deshpande et.al.|[2402.10338v1](http://arxiv.org/abs/2402.10338v1)|null|
+|**2024-02-15**|**Quasicrystals as an intermediate form of matter between crystalline and amorphous solids**|Kun Zhao et.al.|[2402.10295v1](http://arxiv.org/abs/2402.10295v1)|null|
 |**2024-02-15**|**Tracer dynamics in polymer networks: generalized Langevin description**|Sebastian Milster et.al.|[2402.10148v1](http://arxiv.org/abs/2402.10148v1)|null|
 |**2024-02-15**|**Thermodynamically Stable Knots in Semiflexible Polymers**|Wolfhard Janke et.al.|[2402.10147v1](http://arxiv.org/abs/2402.10147v1)|null|
 |**2024-02-15**|**Quantum Linear Magnetoresistance and Fermi Liquid Behavior in Kagome Metal Ni3In2S2**|P. Das et.al.|[2402.10096v1](http://arxiv.org/abs/2402.10096v1)|null|
@@ -4846,6 +4858,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Observation of electronic coherence created at conical intersections and its decoherence in aqueous solution**|Yi-Ping Chang et.al.|[2402.10508v1](http://arxiv.org/abs/2402.10508v1)|null|
 |**2024-02-14**|**Efficient Terahertz Generation from CoPt-based Terahertz Emitters via Orbital-to-Charge Conversion**|Yongshan Liu et.al.|[2402.09228v1](http://arxiv.org/abs/2402.09228v1)|null|
 |**2024-02-08**|**Extinction of guided light induced by coupled spiral meta-atom resonators at arbitrary order exceptional points**|Chengzhi Zhang et.al.|[2402.06686v1](http://arxiv.org/abs/2402.06686v1)|null|
 |**2024-02-12**|**Excited-Band Coherent Delocalization for Improved Optical Lattice Clock Performance**|Jacob Siegel et.al.|[2402.04968v2](http://arxiv.org/abs/2402.04968v2)|null|
