@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Simple model for the kinetics of stimuli-responsive gels with porous structures**|Yuhei Yamada et.al.|[2402.12301v1](http://arxiv.org/abs/2402.12301v1)|null|
+|**2024-02-19**|**Forming Long-range Order of Semiconducting Polymers through Liquid-phase Directional Molecular Assemblies**|Minh Nhat Pham et.al.|[2402.12215v1](http://arxiv.org/abs/2402.12215v1)|null|
+|**2024-02-19**|**Molecular Dynamics Simulations of Anisotropic Particles Accelerated by Neural-Net Predicted Interactions**|B. Rusen Argun et.al.|[2402.12199v1](http://arxiv.org/abs/2402.12199v1)|null|
+|**2024-02-19**|**Magnetic anisotropy and GGG substrate stray field in YIG films down to millikelvin temperatures**|Rostyslav O. Serha et.al.|[2402.12112v1](http://arxiv.org/abs/2402.12112v1)|null|
+|**2024-02-19**|**Passive viscous flow selection via fluid-induced buckling**|Hemanshul Garg et.al.|[2402.11966v1](http://arxiv.org/abs/2402.11966v1)|null|
+|**2024-02-19**|**Unusual Multiple Magnetic Transitions and Anomalous Hall Effect Observed in Antiferromagnetic Weyl Semimetal, Mn $_{2.94}$ Ge (Ge-rich)**|Susanta Ghosh et.al.|[2402.11923v1](http://arxiv.org/abs/2402.11923v1)|null|
+|**2024-02-19**|**Non-monotonous shear rate dependence of dielectric relaxation frequency of a nematic liquid crystal revealed by rheo-dielectric spectroscopy**|K. Anaswara Das et.al.|[2402.11906v1](http://arxiv.org/abs/2402.11906v1)|null|
+|**2024-02-18**|**AI-assisted inverse design of sequence-ordered high intrinsic thermal conductivity polymers**|Xiang Huang et.al.|[2402.11600v1](http://arxiv.org/abs/2402.11600v1)|null|
+|**2024-02-18**|**Local and Global Expansivity in Water**|Jan Philipp Gabriel et.al.|[2402.11405v1](http://arxiv.org/abs/2402.11405v1)|null|
+|**2024-02-17**|**Surface mobility gradient and emergent facilitation in glassy films**|Qiang Zhai et.al.|[2402.11210v1](http://arxiv.org/abs/2402.11210v1)|null|
+|**2024-02-17**|**Predicting Superconducting Transition Temperature through Advanced Machine Learning and Innovative Feature Engineering**|Hassan Gashmard et.al.|[2402.11204v1](http://arxiv.org/abs/2402.11204v1)|null|
+|**2024-02-17**|**Local temperature measurement in dynamical systems with rigid constraints**|Stephen Sanderson et.al.|[2402.11171v1](http://arxiv.org/abs/2402.11171v1)|null|
+|**2024-02-16**|**Tuning properties of phase-separated magnetic fluid with temperature**|Laura Nelsone et.al.|[2402.11117v1](http://arxiv.org/abs/2402.11117v1)|null|
+|**2024-02-16**|**From hydrodynamics to dipolar colloids: modeling complex interactions and self-organization with generalized potentials**|T. J. J. M. van Overveld et.al.|[2402.10994v1](http://arxiv.org/abs/2402.10994v1)|null|
 |**2024-02-16**|**Transverse forces and glassy liquids in infinite dimensions**|Federico Ghimenti et.al.|[2402.10856v1](http://arxiv.org/abs/2402.10856v1)|null|
 |**2024-02-16**|**Stressed and sliding ice surfaces liquefy without much heating**|Achraf Atila et.al.|[2402.10843v1](http://arxiv.org/abs/2402.10843v1)|null|
 |**2024-02-16**|**Observation of the two-photon Landau-Zener-Stückelberg-Majorana effect**|Isak Björkman et.al.|[2402.10833v1](http://arxiv.org/abs/2402.10833v1)|null|
@@ -4854,6 +4868,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-18**|**Electromagnetically induced gratings created by extremely short non-overlapping pulses of light in a three-level resonant mediu**|R. Arkhipov et.al.|[2402.11491v1](http://arxiv.org/abs/2402.11491v1)|null|
 |**2024-02-16**|**Observation of electronic coherence created at conical intersections and its decoherence in aqueous solution**|Yi-Ping Chang et.al.|[2402.10508v1](http://arxiv.org/abs/2402.10508v1)|null|
 |**2024-02-14**|**Efficient Terahertz Generation from CoPt-based Terahertz Emitters via Orbital-to-Charge Conversion**|Yongshan Liu et.al.|[2402.09228v1](http://arxiv.org/abs/2402.09228v1)|null|
 |**2024-02-08**|**Extinction of guided light induced by coupled spiral meta-atom resonators at arbitrary order exceptional points**|Chengzhi Zhang et.al.|[2402.06686v1](http://arxiv.org/abs/2402.06686v1)|null|
@@ -5104,8 +5119,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-18**|**Majorana bound state induced drag current in capacitively coupled quantum dots**|Xiao Xiao et.al.|[2402.11730v1](http://arxiv.org/abs/2402.11730v1)|null|
+|**2024-02-17**|**Abyssal Slope CUrrents**|Esther Capó et.al.|[2402.11152v1](http://arxiv.org/abs/2402.11152v1)|null|
 |**2024-02-14**|**Spin-orbit torque in single-molecule junctions from ab initio**|María Camarasa-Gómez et.al.|[2402.09610v1](http://arxiv.org/abs/2402.09610v1)|null|
-|**2024-02-12**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v1](http://arxiv.org/abs/2402.07756v1)|null|
+|**2024-02-17**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v2](http://arxiv.org/abs/2402.07756v2)|null|
 |**2024-02-08**|**Scheme for continuous force detection with a single electron at the $10^{-27}\mathrm{N}$ level**|Dominika Ďurovčíková et.al.|[2402.05998v1](http://arxiv.org/abs/2402.05998v1)|null|
 |**2024-02-13**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v2](http://arxiv.org/abs/2402.05652v2)|null|
 |**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
@@ -5256,6 +5273,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Unusual Multiple Magnetic Transitions and Anomalous Hall Effect Observed in Antiferromagnetic Weyl Semimetal, Mn $_{2.94}$ Ge (Ge-rich)**|Susanta Ghosh et.al.|[2402.11923v1](http://arxiv.org/abs/2402.11923v1)|null|
 |**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201v1](http://arxiv.org/abs/2402.10201v1)|null|
 |**2024-02-15**|**Doping induced multiferroicity and quantum anomalous Hall effect in $α$-In$_2$Se$_3$ thin films**|Zhiqiang Tian et.al.|[2402.09770v1](http://arxiv.org/abs/2402.09770v1)|null|
 |**2024-02-14**|**Quantum Theory of Phonon Induced Anomalous Hall Effect in 2D Massive Dirac metals**|Jia-Xing Zhang et.al.|[2402.09049v1](http://arxiv.org/abs/2402.09049v1)|null|
