@@ -1098,6 +1098,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**The Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids**|Thibaut Arnoulx de Pirey et.al.|[2402.12996v1](http://arxiv.org/abs/2402.12996v1)|null|
+|**2024-02-20**|**Revisiting the Second Vassiliev (In)variant for Polymer Knots**|Alexander R. Klotz et.al.|[2402.12775v1](http://arxiv.org/abs/2402.12775v1)|null|
+|**2024-02-20**|**Measurement of Nanoscale Interfacial Contact Area Using Vibrational Spectroscopy**|Utkarsh Patil et.al.|[2402.12697v1](http://arxiv.org/abs/2402.12697v1)|null|
+|**2024-02-19**|**Field-extension statistics of charged semiflexible polymers stretched with uniform electric fields**|Ananya Mondal et.al.|[2402.12470v1](http://arxiv.org/abs/2402.12470v1)|null|
+|**2024-02-19**|**Chiral ferroelectric nematic liquid crystals as materials for versatile laser devices**|César L. Folcia et.al.|[2402.12420v1](http://arxiv.org/abs/2402.12420v1)|null|
 |**2024-02-19**|**Simple model for the kinetics of stimuli-responsive gels with porous structures**|Yuhei Yamada et.al.|[2402.12301v1](http://arxiv.org/abs/2402.12301v1)|null|
 |**2024-02-19**|**Forming Long-range Order of Semiconducting Polymers through Liquid-phase Directional Molecular Assemblies**|Minh Nhat Pham et.al.|[2402.12215v1](http://arxiv.org/abs/2402.12215v1)|null|
 |**2024-02-19**|**Molecular Dynamics Simulations of Anisotropic Particles Accelerated by Neural-Net Predicted Interactions**|B. Rusen Argun et.al.|[2402.12199v1](http://arxiv.org/abs/2402.12199v1)|null|
@@ -4868,6 +4873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Geometrical theory of the shift current in presence of disorder and interaction**|Raffaele Resta et.al.|[2402.12489v1](http://arxiv.org/abs/2402.12489v1)|null|
 |**2024-02-18**|**Electromagnetically induced gratings created by extremely short non-overlapping pulses of light in a three-level resonant mediu**|R. Arkhipov et.al.|[2402.11491v1](http://arxiv.org/abs/2402.11491v1)|null|
 |**2024-02-16**|**Observation of electronic coherence created at conical intersections and its decoherence in aqueous solution**|Yi-Ping Chang et.al.|[2402.10508v1](http://arxiv.org/abs/2402.10508v1)|null|
 |**2024-02-14**|**Efficient Terahertz Generation from CoPt-based Terahertz Emitters via Orbital-to-Charge Conversion**|Yongshan Liu et.al.|[2402.09228v1](http://arxiv.org/abs/2402.09228v1)|null|
@@ -5273,6 +5279,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245v1](http://arxiv.org/abs/2402.13245v1)|null|
+|**2024-02-19**|**Interlayer ferroelectric polarization modulated anomalous Hall effects in four-layer MnBi2Te4 antiferromagnets**|Ziyu Niu et.al.|[2402.12603v1](http://arxiv.org/abs/2402.12603v1)|null|
 |**2024-02-19**|**Unusual Multiple Magnetic Transitions and Anomalous Hall Effect Observed in Antiferromagnetic Weyl Semimetal, Mn $_{2.94}$ Ge (Ge-rich)**|Susanta Ghosh et.al.|[2402.11923v1](http://arxiv.org/abs/2402.11923v1)|null|
 |**2024-02-15**|**Mirror Chern Bands and Weyl Nodal Loops in Altermagnets**|Daniil S. Antonenko et.al.|[2402.10201v1](http://arxiv.org/abs/2402.10201v1)|null|
 |**2024-02-15**|**Doping induced multiferroicity and quantum anomalous Hall effect in $α$-In$_2$Se$_3$ thin films**|Zhiqiang Tian et.al.|[2402.09770v1](http://arxiv.org/abs/2402.09770v1)|null|
