@@ -1098,6 +1098,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Rapid Conformational Analysis of Semi-Flexible Liquid Crystals**|Jordan L. Hobbs et.al.|[2402.13900v1](http://arxiv.org/abs/2402.13900v1)|null|
+|**2024-02-21**|**Variational Umbrella Seeding for Calculating Nucleation Barriers**|Willem Gispen et.al.|[2402.13892v1](http://arxiv.org/abs/2402.13892v1)|null|
+|**2024-02-21**|**State-dependent stiffness enhances wave propagation along elastic filaments**|Clément Moreau et.al.|[2402.13844v1](http://arxiv.org/abs/2402.13844v1)|null|
+|**2024-02-21**|**Reentrant condensation of sparsely charged polyelectrolytes induced by multivalent salts: Interplay between electrostatic and non-electrostatic interactions**|Huaisong Yong et.al.|[2402.13686v1](http://arxiv.org/abs/2402.13686v1)|null|
+|**2024-02-21**|**Universal equation describes the shape of air bubbles trapped in ice**|Virgile Thiévenaz et.al.|[2402.13456v1](http://arxiv.org/abs/2402.13456v1)|null|
+|**2024-02-19**|**A Classical Luttinger liquid**|Riccardo Fantoni et.al.|[2402.13283v1](http://arxiv.org/abs/2402.13283v1)|null|
 |**2024-02-20**|**The Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids**|Thibaut Arnoulx de Pirey et.al.|[2402.12996v1](http://arxiv.org/abs/2402.12996v1)|null|
 |**2024-02-20**|**Revisiting the Second Vassiliev (In)variant for Polymer Knots**|Alexander R. Klotz et.al.|[2402.12775v1](http://arxiv.org/abs/2402.12775v1)|null|
 |**2024-02-20**|**Measurement of Nanoscale Interfacial Contact Area Using Vibrational Spectroscopy**|Utkarsh Patil et.al.|[2402.12697v1](http://arxiv.org/abs/2402.12697v1)|null|
@@ -5125,6 +5131,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
 |**2024-02-18**|**Majorana bound state induced drag current in capacitively coupled quantum dots**|Xiao Xiao et.al.|[2402.11730v1](http://arxiv.org/abs/2402.11730v1)|null|
 |**2024-02-17**|**Abyssal Slope CUrrents**|Esther Capó et.al.|[2402.11152v1](http://arxiv.org/abs/2402.11152v1)|null|
 |**2024-02-14**|**Spin-orbit torque in single-molecule junctions from ab initio**|María Camarasa-Gómez et.al.|[2402.09610v1](http://arxiv.org/abs/2402.09610v1)|null|
@@ -5279,6 +5286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
 |**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245v1](http://arxiv.org/abs/2402.13245v1)|null|
 |**2024-02-19**|**Interlayer ferroelectric polarization modulated anomalous Hall effects in four-layer MnBi2Te4 antiferromagnets**|Ziyu Niu et.al.|[2402.12603v1](http://arxiv.org/abs/2402.12603v1)|null|
 |**2024-02-19**|**Unusual Multiple Magnetic Transitions and Anomalous Hall Effect Observed in Antiferromagnetic Weyl Semimetal, Mn $_{2.94}$ Ge (Ge-rich)**|Susanta Ghosh et.al.|[2402.11923v1](http://arxiv.org/abs/2402.11923v1)|null|
