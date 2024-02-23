@@ -1102,8 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-21**|**Rapid Conformational Analysis of Semi-Flexible Liquid Crystals**|Jordan L. Hobbs et.al.|[2402.13900v1](http://arxiv.org/abs/2402.13900v1)|null|
-|**2024-02-21**|**Variational Umbrella Seeding for Calculating Nucleation Barriers**|Willem Gispen et.al.|[2402.13892v1](http://arxiv.org/abs/2402.13892v1)|null|
+|**2024-02-22**|**Chemically reactive thin films: dynamics and stability**|Tilman Richter et.al.|[2402.14635v1](http://arxiv.org/abs/2402.14635v1)|null|
+|**2024-02-22**|**Tunable transport in bi-disperse porous materials with vascular structure**|Olivier Vincent et.al.|[2402.14628v1](http://arxiv.org/abs/2402.14628v1)|null|
+|**2024-02-22**|**Bulk Boundary Paradox in the Surface Reconstructed Magnetic Weyl Semimetal NdAlSi**|Cong Li et.al.|[2402.14518v1](http://arxiv.org/abs/2402.14518v1)|null|
+|**2024-02-22**|**Voltage tunable sign inversion of magnetoresistance in van der Waals Fe3GeTe2/MoSe2/Fe3GeTe2 tunnel junctions**|Shouguo Zhu et.al.|[2402.14510v1](http://arxiv.org/abs/2402.14510v1)|null|
+|**2024-02-22**|**A Sparse Bayesian Committee Machine Potential for Hydrocarbons**|Soohaeng Yoo Willow et.al.|[2402.14497v1](http://arxiv.org/abs/2402.14497v1)|null|
+|**2024-02-22**|**Observation of Surface State Suppression in Magnetic Weyl Semimetal NdAlSi**|Cong Li et.al.|[2402.14447v1](http://arxiv.org/abs/2402.14447v1)|null|
+|**2024-02-22**|**Investigations of optical aberration on quantum diamond microscopy toward high spatial resolution and sensitivity**|Shunsuke Nishimura et.al.|[2402.14422v1](http://arxiv.org/abs/2402.14422v1)|null|
+|**2024-02-22**|**The Architecture of Sponge Choanocyte Chambers Maximizes Mechanical Pumping Efficiency**|Takumi Ogawa et.al.|[2402.14364v1](http://arxiv.org/abs/2402.14364v1)|null|
+|**2024-02-22**|**Vibrational lifetimes and viscoelastic properties of ultrastable glasses**|Jan Grießer et.al.|[2402.14336v1](http://arxiv.org/abs/2402.14336v1)|null|
+|**2024-02-22**|**Unexpected versatile electrical transport behaviors of ferromagnetic nickel films**|Kai-Xuan Zhang et.al.|[2402.14275v1](http://arxiv.org/abs/2402.14275v1)|null|
+|**2024-02-22**|**Non-equilibrium theory of the linear viscoelasticity of glass and gel forming liquids**|R. Peredo-Ortiz et.al.|[2402.14242v1](http://arxiv.org/abs/2402.14242v1)|null|
+|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141v1](http://arxiv.org/abs/2402.14141v1)|null|
+|**2024-02-21**|**Absence of localization in Weyl semimetals**|Jinmin Yi et.al.|[2402.14063v1](http://arxiv.org/abs/2402.14063v1)|null|
+|**2024-02-21**|**Rapid Conformational Analysis of Semi-Flexible Liquid Crystals**|Jordan L. Hobbs et.al.|[2402.13900v1](http://arxiv.org/abs/2402.13900v1)|**[link](https://github.com/richardmandle/conformer)**|
+|**2024-02-21**|**Variational Umbrella Seeding for Calculating Nucleation Barriers**|Willem Gispen et.al.|[2402.13892v1](http://arxiv.org/abs/2402.13892v1)|**[link](https://github.com/marjoleindijkstragroupuu/variationalumbrellaseeding)**|
 |**2024-02-21**|**State-dependent stiffness enhances wave propagation along elastic filaments**|Clément Moreau et.al.|[2402.13844v1](http://arxiv.org/abs/2402.13844v1)|null|
 |**2024-02-21**|**Reentrant condensation of sparsely charged polyelectrolytes induced by multivalent salts: Interplay between electrostatic and non-electrostatic interactions**|Huaisong Yong et.al.|[2402.13686v1](http://arxiv.org/abs/2402.13686v1)|null|
 |**2024-02-21**|**Universal equation describes the shape of air bubbles trapped in ice**|Virgile Thiévenaz et.al.|[2402.13456v1](http://arxiv.org/abs/2402.13456v1)|null|
@@ -5290,6 +5303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Unexpected versatile electrical transport behaviors of ferromagnetic nickel films**|Kai-Xuan Zhang et.al.|[2402.14275v1](http://arxiv.org/abs/2402.14275v1)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
 |**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245v1](http://arxiv.org/abs/2402.13245v1)|null|
 |**2024-02-19**|**Interlayer ferroelectric polarization modulated anomalous Hall effects in four-layer MnBi2Te4 antiferromagnets**|Ziyu Niu et.al.|[2402.12603v1](http://arxiv.org/abs/2402.12603v1)|null|
