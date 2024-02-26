@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Solute transport due to periodic loading in a soft porous material**|Matilde Fiori et.al.|[2402.15451v1](http://arxiv.org/abs/2402.15451v1)|null|
+|**2024-02-23**|**Interacting electrons in a flat-band system within the Generalized Kadanoff-Baym Ansatz**|F. Cosco et.al.|[2402.15378v1](http://arxiv.org/abs/2402.15378v1)|null|
+|**2024-02-23**|**Combined thermal and particle shape effects on powder spreading in additive manufacturing via discrete element simulations**|Sudeshna Roy et.al.|[2402.15271v1](http://arxiv.org/abs/2402.15271v1)|null|
+|**2024-02-23**|**Composite material in the sea urchin Cidaris rugosa: ordered and disordered micron-scale bicontinuous geometries**|Anna-Lee Jessop et.al.|[2402.15269v1](http://arxiv.org/abs/2402.15269v1)|null|
+|**2024-02-23**|**Remarks on the ( $2+1$ )-dimensional Duffin-Kemmer-Petiau oscillator in an external magnetic field**|Andrés G. Jirón et.al.|[2402.15252v1](http://arxiv.org/abs/2402.15252v1)|null|
+|**2024-02-23**|**Exact results for non-Newtonian transport properties in sheared granular suspensions: inelastic Maxwell models and BGK-type kinetic model**|Rubén Gómez González et.al.|[2402.15234v1](http://arxiv.org/abs/2402.15234v1)|null|
+|**2024-02-23**|**Ballistic vs. diffusive transport in metals**|Yonatan Sivan et.al.|[2402.15226v1](http://arxiv.org/abs/2402.15226v1)|null|
+|**2024-02-23**|**Dynamics and energetics of ion adsorption at the interface between a pure ionic liquid and carbon electrodes**|Nicolas Gaudy et.al.|[2402.15199v1](http://arxiv.org/abs/2402.15199v1)|null|
+|**2024-02-23**|**Exact equilibrium properties of square-well and square-shoulder disks in single-file confinement**|Ana M. Montero et.al.|[2402.15192v1](http://arxiv.org/abs/2402.15192v1)|null|
+|**2024-02-23**|**Spontaneous superradiant photon current**|Lei Qiao et.al.|[2402.15165v1](http://arxiv.org/abs/2402.15165v1)|null|
+|**2024-02-23**|**Stability of a dispersion of elongated particles embedded in a viscous membrane**|Harishankar Manikantan et.al.|[2402.15148v1](http://arxiv.org/abs/2402.15148v1)|null|
+|**2024-02-23**|**Friction and Memory Effects in Homogeneous Gas-Liquid Nucleation: Quest for Quantitative Rate Calculation**|Subhajit Acharya et.al.|[2402.15126v1](http://arxiv.org/abs/2402.15126v1)|null|
+|**2024-02-23**|**Elastic interactions compete with persistent cell motility to drive durotaxis**|Subhaya Bose et.al.|[2402.15036v1](http://arxiv.org/abs/2402.15036v1)|null|
+|**2024-02-22**|**Impact of Nanometer-Thin Stiff Layer on Adhesion to Rough Surfaces**|Shubhendu Kumar et.al.|[2402.15014v1](http://arxiv.org/abs/2402.15014v1)|null|
+|**2024-02-22**|**Non-coherent evolution of closed weakly interacting system leads to equidistribution of probabilities of microstates**|A. P. Meilakhs et.al.|[2402.14971v1](http://arxiv.org/abs/2402.14971v1)|null|
 |**2024-02-22**|**Chemically reactive thin films: dynamics and stability**|Tilman Richter et.al.|[2402.14635v1](http://arxiv.org/abs/2402.14635v1)|null|
 |**2024-02-22**|**Tunable transport in bi-disperse porous materials with vascular structure**|Olivier Vincent et.al.|[2402.14628v1](http://arxiv.org/abs/2402.14628v1)|null|
 |**2024-02-22**|**Bulk Boundary Paradox in the Surface Reconstructed Magnetic Weyl Semimetal NdAlSi**|Cong Li et.al.|[2402.14518v1](http://arxiv.org/abs/2402.14518v1)|null|
@@ -4892,6 +4907,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Anti-screening and nonequilibrium layer electric phases in graphene multilayers**|Ying Xiong et.al.|[2402.14918v1](http://arxiv.org/abs/2402.14918v1)|null|
 |**2024-02-19**|**Geometrical theory of the shift current in presence of disorder and interaction**|Raffaele Resta et.al.|[2402.12489v1](http://arxiv.org/abs/2402.12489v1)|null|
 |**2024-02-18**|**Electromagnetically induced gratings created by extremely short non-overlapping pulses of light in a three-level resonant mediu**|R. Arkhipov et.al.|[2402.11491v1](http://arxiv.org/abs/2402.11491v1)|null|
 |**2024-02-16**|**Observation of electronic coherence created at conical intersections and its decoherence in aqueous solution**|Yi-Ping Chang et.al.|[2402.10508v1](http://arxiv.org/abs/2402.10508v1)|null|
