@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Cumulant Green's function methods for molecules**|Pierre-François Loos et.al.|[2402.16414v1](http://arxiv.org/abs/2402.16414v1)|null|
+|**2024-02-26**|**Stokes Law at Molecular Length Scales: Effects of Intermolecular Interactions and Linear Response Theory**|Subhajit Acharya et.al.|[2402.16301v1](http://arxiv.org/abs/2402.16301v1)|null|
+|**2024-02-26**|**Large-Enhancement Nanoscale Dynamic Nuclear Polarization Near a Silicon Nanowire Surface**|Sahand Tabatabaei et.al.|[2402.16283v1](http://arxiv.org/abs/2402.16283v1)|null|
+|**2024-02-26**|**Entropic Cohesion in Vitrimers**|Rahul Karmakar et.al.|[2402.16226v1](http://arxiv.org/abs/2402.16226v1)|null|
+|**2024-02-25**|**Experimental identification of force, velocity, and nematic order relationships in active nematic cell monolayers**|Masahito Uwamichi et.al.|[2402.16151v1](http://arxiv.org/abs/2402.16151v1)|null|
+|**2024-02-25**|**3D active nematic disclinations behave as Majorana quasiparticles**|Louise C. Head et.al.|[2402.16149v1](http://arxiv.org/abs/2402.16149v1)|null|
+|**2024-02-25**|**Locomotion of Active Sheets Driven by Curvature Modulation**|Omri Y. Cohen et.al.|[2402.16112v1](http://arxiv.org/abs/2402.16112v1)|null|
+|**2024-02-25**|**Homotopy classification of knotted defects in ordered media**|Yuta Nozaki et.al.|[2402.16079v1](http://arxiv.org/abs/2402.16079v1)|null|
+|**2024-02-23**|**Spinning Black Hole in a Fluid**|Surojit Dalui et.al.|[2402.15540v1](http://arxiv.org/abs/2402.15540v1)|null|
 |**2024-02-23**|**Solute transport due to periodic loading in a soft porous material**|Matilde Fiori et.al.|[2402.15451v1](http://arxiv.org/abs/2402.15451v1)|null|
 |**2024-02-23**|**Interacting electrons in a flat-band system within the Generalized Kadanoff-Baym Ansatz**|F. Cosco et.al.|[2402.15378v1](http://arxiv.org/abs/2402.15378v1)|null|
 |**2024-02-23**|**Combined thermal and particle shape effects on powder spreading in additive manufacturing via discrete element simulations**|Sudeshna Roy et.al.|[2402.15271v1](http://arxiv.org/abs/2402.15271v1)|null|
@@ -5164,6 +5173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-25**|**Effect of Magnetic Anisotropy Constants on Skyrmion Formation in Co/Pt**|Tamali Mukherjee et.al.|[2402.16060v1](http://arxiv.org/abs/2402.16060v1)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
 |**2024-02-18**|**Majorana bound state induced drag current in capacitively coupled quantum dots**|Xiao Xiao et.al.|[2402.11730v1](http://arxiv.org/abs/2402.11730v1)|null|
 |**2024-02-17**|**Abyssal Slope CUrrents**|Esther Capó et.al.|[2402.11152v1](http://arxiv.org/abs/2402.11152v1)|null|
@@ -5319,6 +5329,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**The Map between Symmetries and Orbital Rules to Realize Tunable Band Gap in Quantum Anomalous Hall Effect Material**|Jiaohong Shu et.al.|[2402.16500v1](http://arxiv.org/abs/2402.16500v1)|null|
+|**2024-02-26**|**Topological transitions by magnetization rotation in kagome monolayers of ferromagnetic Weyl semimetal Co-based shandite**|Kazuki Nakazawa et.al.|[2402.16273v1](http://arxiv.org/abs/2402.16273v1)|null|
+|**2024-02-26**|**Giant resonant skew scattering of plasma waves in graphene off a micromagnet**|Cooper Finnigan et.al.|[2402.16263v1](http://arxiv.org/abs/2402.16263v1)|null|
+|**2024-02-24**|**Observation of the In-plane Anomalous Hall Effect induced by Octupole in Magnetization Space**|Wenzhi Peng et.al.|[2402.15741v1](http://arxiv.org/abs/2402.15741v1)|null|
 |**2024-02-22**|**Unexpected versatile electrical transport behaviors of ferromagnetic nickel films**|Kai-Xuan Zhang et.al.|[2402.14275v1](http://arxiv.org/abs/2402.14275v1)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
 |**2024-02-20**|**Quantized shift response in multi-gap topological phases**|Wojciech J. Jankowski et.al.|[2402.13245v1](http://arxiv.org/abs/2402.13245v1)|null|
