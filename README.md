@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Rolling vesicles: From confined rotational flows to surface-enabled motion**|Paula Magrinya et.al.|[2402.17707v1](http://arxiv.org/abs/2402.17707v1)|null|
+|**2024-02-27**|**Contractility-driven cell motility against a viscoelastic resistance**|Tapas Singha et.al.|[2402.17669v1](http://arxiv.org/abs/2402.17669v1)|null|
+|**2024-02-27**|**Many-body perturbation theory for strongly correlated effective Hamiltonians using effective field theory methods**|Raphaël Photopoulos et.al.|[2402.17627v1](http://arxiv.org/abs/2402.17627v1)|null|
+|**2024-02-27**|**Wave mechanics in an ionic liquid mixture**|Timothy S. Groves et.al.|[2402.17480v1](http://arxiv.org/abs/2402.17480v1)|null|
+|**2024-02-27**|**Rate Function Modelling of Quantum Many-Body Adiabaticity**|Vibhu Mishra et.al.|[2402.17415v1](http://arxiv.org/abs/2402.17415v1)|null|
+|**2024-02-27**|**Modulation of chiral anomaly and bilinear magnetoconductivity in Weyl semimetals by impurity-resonance states**|Mei-Wei Hu et.al.|[2402.17356v1](http://arxiv.org/abs/2402.17356v1)|null|
+|**2024-02-27**|**Unified study of viscoelasticity and sound damping in hard and soft amorphous solids**|Hideyuki Mizuno et.al.|[2402.17335v1](http://arxiv.org/abs/2402.17335v1)|null|
+|**2024-02-27**|**Myelin figures from microbial glycolipid biosurfactant amphiphiles**|Debdyuti Roy et.al.|[2402.17278v1](http://arxiv.org/abs/2402.17278v1)|null|
+|**2024-02-27**|**Virial Equation of State for a Granular System**|Subhanker Howlader et.al.|[2402.17100v1](http://arxiv.org/abs/2402.17100v1)|null|
+|**2024-02-26**|**Low-temperature physical and mechanical properties of molybdenum doped non-equiatomic high entropy alloys of the Fe-Co-Ni-Cr system**|Yurii Semerenko et.al.|[2402.17064v1](http://arxiv.org/abs/2402.17064v1)|null|
+|**2024-02-26**|**Wave Propagation in Periodic Plasma Media: A Semiclassical Approach**|Reza Torabi et.al.|[2402.17051v1](http://arxiv.org/abs/2402.17051v1)|null|
+|**2024-02-26**|**Mechanics and wrinkling patterns of pressurized bent tubes**|Cesar L. Pastrana et.al.|[2402.17033v1](http://arxiv.org/abs/2402.17033v1)|null|
+|**2024-02-26**|**Giant quantum oscillations in thermal transport in low-density metals via electron absorption of phonons**|B. Bermond et.al.|[2402.17022v1](http://arxiv.org/abs/2402.17022v1)|null|
+|**2024-02-26**|**Effective mass approach to memory in non-Markovian systems**|M. Wiśniewski et.al.|[2402.16673v1](http://arxiv.org/abs/2402.16673v1)|null|
+|**2024-02-26**|**Large Anomalous Hall Effect at Room Temperature in a Fermi-Level-Tuned Kagome Antiferromagnet**|Linxuan Song et.al.|[2402.16521v1](http://arxiv.org/abs/2402.16521v1)|null|
 |**2024-02-26**|**Cumulant Green's function methods for molecules**|Pierre-François Loos et.al.|[2402.16414v1](http://arxiv.org/abs/2402.16414v1)|null|
 |**2024-02-26**|**Stokes Law at Molecular Length Scales: Effects of Intermolecular Interactions and Linear Response Theory**|Subhajit Acharya et.al.|[2402.16301v1](http://arxiv.org/abs/2402.16301v1)|null|
 |**2024-02-26**|**Large-Enhancement Nanoscale Dynamic Nuclear Polarization Near a Silicon Nanowire Surface**|Sahand Tabatabaei et.al.|[2402.16283v1](http://arxiv.org/abs/2402.16283v1)|null|
@@ -5325,6 +5340,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Altermagnetism in NiSi with non-collinear spins**|Deepak K. Singh et.al.|[2402.17451v1](http://arxiv.org/abs/2402.17451v1)|null|
+|**2024-02-26**|**Large Anomalous Hall Effect at Room Temperature in a Fermi-Level-Tuned Kagome Antiferromagnet**|Linxuan Song et.al.|[2402.16521v1](http://arxiv.org/abs/2402.16521v1)|null|
 |**2024-02-26**|**The Map between Symmetries and Orbital Rules to Realize Tunable Band Gap in Quantum Anomalous Hall Effect Material**|Jiaohong Shu et.al.|[2402.16500v1](http://arxiv.org/abs/2402.16500v1)|null|
 |**2024-02-26**|**Topological transitions by magnetization rotation in kagome monolayers of ferromagnetic Weyl semimetal Co-based shandite**|Kazuki Nakazawa et.al.|[2402.16273v1](http://arxiv.org/abs/2402.16273v1)|null|
 |**2024-02-26**|**Giant resonant skew scattering of plasma waves in graphene off a micromagnet**|Cooper Finnigan et.al.|[2402.16263v1](http://arxiv.org/abs/2402.16263v1)|null|
@@ -5529,6 +5546,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Thermal evolution of spin excitations in honeycomb Ising antiferromagnetic FePSe3**|Lebing Chen et.al.|[2402.16983v1](http://arxiv.org/abs/2402.16983v1)|null|
 |**2024-02-12**|**Continuum of magnetic excitations in the Kitaev honeycomb iridate D $_3$LiIr$_2$O$_6$**|Thomas Halloran et.al.|[2402.08083v1](http://arxiv.org/abs/2402.08083v1)|null|
 |**2024-02-12**|**Continuum of spin excitations in an ordered magnet**|Jieming Sheng et.al.|[2402.07730v1](http://arxiv.org/abs/2402.07730v1)|null|
 |**2024-02-02**|**Coexistence of Ferromagnetism and Antiferromagnetic Dimers in Topological Insulators**|Farhan Islam et.al.|[2402.01531v1](http://arxiv.org/abs/2402.01531v1)|null|
