@@ -1102,7 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-27**|**Rolling vesicles: From confined rotational flows to surface-enabled motion**|Paula Magrinya et.al.|[2402.17707v1](http://arxiv.org/abs/2402.17707v1)|null|
+|**2024-02-28**|**Peak Effect and Dynamics of Stripe and Pattern Forming Systems on a Periodic One Dimensional Substrate**|C. Reichhardt et.al.|[2402.18539v1](http://arxiv.org/abs/2402.18539v1)|null|
+|**2024-02-28**|**The Electrochemical Transistor: a device based on the Electrochemical control of a polymer Polaronic state. The PCPDT-BT as a case study**|Andrea Stefani et.al.|[2402.18492v1](http://arxiv.org/abs/2402.18492v1)|null|
+|**2024-02-28**|**Embracing Disorder in Quantum Materials Design**|A. R. Mazza et.al.|[2402.18379v1](http://arxiv.org/abs/2402.18379v1)|null|
+|**2024-02-28**|**A Simple Tensorial Theory of Smectic C Liquid Crystals**|Jingmin Xia et.al.|[2402.18295v1](http://arxiv.org/abs/2402.18295v1)|null|
+|**2024-02-28**|**Gravity effects on a bio-inspired self-burrowing probe in granular soils**|Bowen Wang et.al.|[2402.18215v1](http://arxiv.org/abs/2402.18215v1)|null|
+|**2024-02-27**|**Casimir Physics beyond the Proximity Force Approximation: The Derivative Expansion**|César D. Fosco et.al.|[2402.17864v1](http://arxiv.org/abs/2402.17864v1)|null|
+|**2024-02-27**|**Efficient simulations of Hartree--Fock equations by an accelerated gradient descent method**|Y. Ohno et.al.|[2402.17843v1](http://arxiv.org/abs/2402.17843v1)|null|
+|**2024-02-27**|**Residual entropy from temperature incremental Monte Carlo method**|Zenan Dai et.al.|[2402.17827v1](http://arxiv.org/abs/2402.17827v1)|null|
+|**2024-02-28**|**Rolling vesicles: From confined rotational flows to surface-enabled motion**|Paula Magrinya et.al.|[2402.17707v2](http://arxiv.org/abs/2402.17707v2)|null|
 |**2024-02-27**|**Contractility-driven cell motility against a viscoelastic resistance**|Tapas Singha et.al.|[2402.17669v1](http://arxiv.org/abs/2402.17669v1)|null|
 |**2024-02-27**|**Many-body perturbation theory for strongly correlated effective Hamiltonians using effective field theory methods**|Raphaël Photopoulos et.al.|[2402.17627v1](http://arxiv.org/abs/2402.17627v1)|null|
 |**2024-02-27**|**Wave mechanics in an ionic liquid mixture**|Timothy S. Groves et.al.|[2402.17480v1](http://arxiv.org/abs/2402.17480v1)|null|
@@ -5344,6 +5352,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Anomalous Hall Effect in Thin Bismuth**|Oulin Yu et.al.|[2402.18441v1](http://arxiv.org/abs/2402.18441v1)|null|
+|**2024-02-28**|**Magnetization fluctuations and magnetic aftereffect probed via the anomalous Hall effect**|Nadine Nabben et.al.|[2402.18436v1](http://arxiv.org/abs/2402.18436v1)|null|
+|**2024-02-27**|**Sublattice structure and topology in spontaneously crystallized electronic states**|Yongxin Zeng et.al.|[2402.17867v1](http://arxiv.org/abs/2402.17867v1)|null|
 |**2024-02-27**|**Altermagnetism in NiSi with non-collinear spins**|Deepak K. Singh et.al.|[2402.17451v1](http://arxiv.org/abs/2402.17451v1)|null|
 |**2024-02-26**|**Large Anomalous Hall Effect at Room Temperature in a Fermi-Level-Tuned Kagome Antiferromagnet**|Linxuan Song et.al.|[2402.16521v1](http://arxiv.org/abs/2402.16521v1)|null|
 |**2024-02-26**|**The Map between Symmetries and Orbital Rules to Realize Tunable Band Gap in Quantum Anomalous Hall Effect Material**|Jiaohong Shu et.al.|[2402.16500v1](http://arxiv.org/abs/2402.16500v1)|null|
