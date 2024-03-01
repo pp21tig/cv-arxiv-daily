@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**First-principles electron-phonon interactions and electronic transport in large-angle twisted bilayer graphene**|Shiyuan Gao et.al.|[2402.19453v1](http://arxiv.org/abs/2402.19453v1)|null|
+|**2024-02-29**|**Hyperuniformity in deterministic anti-aligning active matter**|Horst-Holger Boltz et.al.|[2402.19451v1](http://arxiv.org/abs/2402.19451v1)|null|
+|**2024-02-29**|**Neutrino zeromodes on electroweak strings in light of topological insulators**|Minoru Eto et.al.|[2402.19417v1](http://arxiv.org/abs/2402.19417v1)|null|
+|**2024-02-29**|**Stress-controlled medium-amplitude oscillatory shear (MAOStress) of PVA-Borax**|Nabil Ramlawi et.al.|[2402.19357v1](http://arxiv.org/abs/2402.19357v1)|null|
+|**2024-02-29**|**Taut-Line Buzzers with Periodic Forcing**|Jesse M. Hanlan et.al.|[2402.19316v1](http://arxiv.org/abs/2402.19316v1)|null|
+|**2024-02-29**|**Basolateral mechanics prevents rigidity transition in epithelial monolayers**|Jan Rozman et.al.|[2402.19312v1](http://arxiv.org/abs/2402.19312v1)|null|
+|**2024-02-29**|**Anisotropy-Induced Spin Parity Effects in an Antiferromagnetic Spin Chain**|Shuntaro Sumita et.al.|[2402.19311v1](http://arxiv.org/abs/2402.19311v1)|null|
+|**2024-02-29**|**Linear stability of cylindrical, multicomponent vesicles**|Anirudh Venkatesh et.al.|[2402.19297v1](http://arxiv.org/abs/2402.19297v1)|null|
+|**2024-02-29**|**The Equation of Motion for Taut-Line Buzzers**|Alexander J. Gerra et.al.|[2402.19285v1](http://arxiv.org/abs/2402.19285v1)|null|
+|**2024-02-29**|**Electron conductance of a cavity-embedded topological 1D chain**|Danh-Phuong Nguyen et.al.|[2402.19244v1](http://arxiv.org/abs/2402.19244v1)|null|
+|**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196v1](http://arxiv.org/abs/2402.19196v1)|null|
+|**2024-02-29**|**Long-range translational order and hyperuniformity in two-dimensional chiral active crystal**|Yuta Kuroda et.al.|[2402.19192v1](http://arxiv.org/abs/2402.19192v1)|null|
+|**2024-02-29**|**Controlling polymer translocation with crowded medium and polymer length asymmetry**|Vrinda Garg et.al.|[2402.19187v1](http://arxiv.org/abs/2402.19187v1)|null|
+|**2024-02-29**|**A Unified Evaluation Framework for Spiking Neural Network Hardware Accelerators Based on Emerging Non-Volatile Memory Devices**|Debasis Das et.al.|[2402.19139v1](http://arxiv.org/abs/2402.19139v1)|null|
+|**2024-02-29**|**Machine learning-enabled exploration of mesoscale architectures in amphiphilic-molecule self-assembly**|Takeo Sudo et.al.|[2402.19019v1](http://arxiv.org/abs/2402.19019v1)|null|
+|**2024-02-29**|**Domain growth kinetics of active model B with thermal fluctuations**|Shambhavi Dikshit et.al.|[2402.18977v1](http://arxiv.org/abs/2402.18977v1)|null|
+|**2024-02-29**|**Robust Experimental Signatures of Phase Transitions in the Variational Quantum Eigensolver**|Kevin Lively et.al.|[2402.18953v1](http://arxiv.org/abs/2402.18953v1)|null|
+|**2024-02-29**|**Deforming ice with drops**|Duco van Buuren et.al.|[2402.18947v1](http://arxiv.org/abs/2402.18947v1)|null|
+|**2024-02-29**|**Universal Translational and Rotational Mobility Expressions of Phoretic and Self-phoretic Particles with Arbitrary Interaction Potentials**|Arkava Ganguly et.al.|[2402.18861v1](http://arxiv.org/abs/2402.18861v1)|null|
+|**2024-02-29**|**A single-particle energy-conserving dissipative particle dynamics approach for simulating thermophoresis of nanoparticles in polymer networks**|Yu Lu et.al.|[2402.18834v1](http://arxiv.org/abs/2402.18834v1)|null|
 |**2024-02-28**|**Peak Effect and Dynamics of Stripe and Pattern Forming Systems on a Periodic One Dimensional Substrate**|C. Reichhardt et.al.|[2402.18539v1](http://arxiv.org/abs/2402.18539v1)|null|
 |**2024-02-28**|**The Electrochemical Transistor: a device based on the Electrochemical control of a polymer Polaronic state. The PCPDT-BT as a case study**|Andrea Stefani et.al.|[2402.18492v1](http://arxiv.org/abs/2402.18492v1)|null|
 |**2024-02-28**|**Embracing Disorder in Quantum Materials Design**|A. R. Mazza et.al.|[2402.18379v1](http://arxiv.org/abs/2402.18379v1)|null|
@@ -5352,6 +5372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Exchange bias induced by spin-glass-like state in Te-rich FeGeTe van der Waals ferromagnet**|Shaojie Hu et.al.|[2402.18887v1](http://arxiv.org/abs/2402.18887v1)|null|
 |**2024-02-28**|**Anomalous Hall Effect in Thin Bismuth**|Oulin Yu et.al.|[2402.18441v1](http://arxiv.org/abs/2402.18441v1)|null|
 |**2024-02-28**|**Magnetization fluctuations and magnetic aftereffect probed via the anomalous Hall effect**|Nadine Nabben et.al.|[2402.18436v1](http://arxiv.org/abs/2402.18436v1)|null|
 |**2024-02-27**|**Sublattice structure and topology in spontaneously crystallized electronic states**|Yongxin Zeng et.al.|[2402.17867v1](http://arxiv.org/abs/2402.17867v1)|null|
