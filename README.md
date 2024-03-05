@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Spontaneous assembly of condensate networks during the demixing of structured fluids**|Yuma Morimatsu et.al.|[2403.01298v1](http://arxiv.org/abs/2403.01298v1)|null|
+|**2024-03-02**|**Plane-polarised finite-amplitude shear waves in deformed incompressible materials**|Michel Destrade et.al.|[2403.01227v1](http://arxiv.org/abs/2403.01227v1)|null|
+|**2024-03-02**|**The generalised Mooney space for modelling the response of rubber-like materials**|Afshin Anssari-Benam et.al.|[2403.01223v1](http://arxiv.org/abs/2403.01223v1)|null|
+|**2024-03-02**|**Driven charge density modulation by spin density wave and their coexistence interplay in SmFeAsO: A first-principles study**|Toktam Morshedloo et.al.|[2403.01111v1](http://arxiv.org/abs/2403.01111v1)|null|
+|**2024-03-02**|**Mermaid Cereal: Interactions and Pattern Formation in a Macroscopic Magnetocapillary SALR System**|Alireza Hooshanginejad et.al.|[2403.01097v1](http://arxiv.org/abs/2403.01097v1)|null|
+|**2024-03-01**|**On the equilibrium limit of liquid stability in pressurized aqueous systems**|Arian Zarriz et.al.|[2403.01028v1](http://arxiv.org/abs/2403.01028v1)|null|
+|**2024-03-01**|**Quantitatively Connecting Experimental Time-Temperature-Superposition-Breakdown of Polymers near the Glass Transition to Dynamic Heterogeneity via the Heterogeneous Rouse Model**|Peijing Yue et.al.|[2403.00959v1](http://arxiv.org/abs/2403.00959v1)|null|
+|**2024-03-01**|**A genetic algorithm for the response of twisted nematic liquid crystals to an applied field**|Alicia Sit et.al.|[2403.00948v1](http://arxiv.org/abs/2403.00948v1)|null|
+|**2024-03-01**|**Machine learning that predicts well may not learn the correct physical descriptions of glassy systems**|Arabind Swain et.al.|[2403.00751v1](http://arxiv.org/abs/2403.00751v1)|null|
+|**2024-03-01**|**A Universal Roadmap For Searching Repulsive Casimir Forces Between Magneto-Electric Materials**|Zixuan Dai et.al.|[2403.00740v1](http://arxiv.org/abs/2403.00740v1)|null|
+|**2024-03-01**|**Controlled creation of point defects in 3D colloidal crystals**|Max P. M. Schelling et.al.|[2403.00678v1](http://arxiv.org/abs/2403.00678v1)|null|
+|**2024-03-01**|**Enhancement of bubble transport in porous electrodes and catalysts**|Thomas Scheel et.al.|[2403.00581v1](http://arxiv.org/abs/2403.00581v1)|null|
+|**2024-03-01**|**Monte Carlo based techniques for quantum magnets with long-range interactions**|P. Adelhardt et.al.|[2403.00421v1](http://arxiv.org/abs/2403.00421v1)|null|
+|**2024-03-01**|**Majorana zero-modes in a dissipative Rashba nanowire**|Arnob Kumar Ghosh et.al.|[2403.00419v1](http://arxiv.org/abs/2403.00419v1)|null|
+|**2024-03-01**|**Emergence of Accurate Atomic Energies from Machine Learned Noble Gas Potentials**|Frank Uhlig et.al.|[2403.00377v1](http://arxiv.org/abs/2403.00377v1)|null|
+|**2024-03-01**|**Critical Nature of the Size Exponent of Polymers**|Kazumi Suematsu et.al.|[2403.00356v1](http://arxiv.org/abs/2403.00356v1)|null|
+|**2024-03-01**|**Weak non-linearities of amorphous polymer under creep**|Martin Roman-Faure et.al.|[2403.00355v1](http://arxiv.org/abs/2403.00355v1)|null|
+|**2024-03-01**|**Deciphering diffuse scattering with machine learning and the equivariant foundation model: The case of molten FeO**|Ganesh Sivaraman et.al.|[2403.00259v1](http://arxiv.org/abs/2403.00259v1)|null|
+|**2024-03-01**|**Critical scaling for dense granular flow between parallel plates near jamming**|Michio Otsuki et.al.|[2403.00256v1](http://arxiv.org/abs/2403.00256v1)|null|
+|**2024-03-01**|**Design principles for fast and efficient self-assembly processes**|Florian M. Gartner et.al.|[2403.00213v1](http://arxiv.org/abs/2403.00213v1)|null|
 |**2024-02-29**|**First-principles electron-phonon interactions and electronic transport in large-angle twisted bilayer graphene**|Shiyuan Gao et.al.|[2402.19453v1](http://arxiv.org/abs/2402.19453v1)|null|
 |**2024-02-29**|**Hyperuniformity in deterministic anti-aligning active matter**|Horst-Holger Boltz et.al.|[2402.19451v1](http://arxiv.org/abs/2402.19451v1)|null|
 |**2024-02-29**|**Neutrino zeromodes on electroweak strings in light of topological insulators**|Minoru Eto et.al.|[2402.19417v1](http://arxiv.org/abs/2402.19417v1)|null|
@@ -5212,6 +5232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Current-induced sliding motion in a helimagnet MnAu $_2$**|Yuta Kimoto et.al.|[2403.00167v1](http://arxiv.org/abs/2403.00167v1)|null|
 |**2024-02-25**|**Effect of Magnetic Anisotropy Constants on Skyrmion Formation in Co/Pt**|Tamali Mukherjee et.al.|[2402.16060v1](http://arxiv.org/abs/2402.16060v1)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
 |**2024-02-18**|**Majorana bound state induced drag current in capacitively coupled quantum dots**|Xiao Xiao et.al.|[2402.11730v1](http://arxiv.org/abs/2402.11730v1)|null|
@@ -5368,6 +5389,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Long-lived Topological Flatband Excitons in Semiconductor Moiré Heterostructures: a Bosonic Kane-Mele Model Platform**|Ming Xie et.al.|[2403.00052v1](http://arxiv.org/abs/2403.00052v1)|null|
 |**2024-02-29**|**Exchange bias induced by spin-glass-like state in Te-rich FeGeTe van der Waals ferromagnet**|Shaojie Hu et.al.|[2402.18887v1](http://arxiv.org/abs/2402.18887v1)|null|
 |**2024-02-28**|**Anomalous Hall Effect in Thin Bismuth**|Oulin Yu et.al.|[2402.18441v1](http://arxiv.org/abs/2402.18441v1)|null|
 |**2024-02-28**|**Magnetization fluctuations and magnetic aftereffect probed via the anomalous Hall effect**|Nadine Nabben et.al.|[2402.18436v1](http://arxiv.org/abs/2402.18436v1)|null|
