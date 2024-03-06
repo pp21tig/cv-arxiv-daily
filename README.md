@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**On the computation of lattice sums without translational invariance**|Andreas A. Buchheit et.al.|[2403.03213v1](http://arxiv.org/abs/2403.03213v1)|null|
+|**2024-03-05**|**Statistical modeling of equilibrium phase transition in confined fluids**|Gunjan Auti et.al.|[2403.03162v1](http://arxiv.org/abs/2403.03162v1)|null|
+|**2024-03-05**|**Quantum Many-Body Physics Calculations with Large Language Models**|Haining Pan et.al.|[2403.03154v1](http://arxiv.org/abs/2403.03154v1)|null|
+|**2024-03-05**|**Isostructural Softening of Vulcanized Nanocomposites**|Guilhem P. Baeza et.al.|[2403.03133v1](http://arxiv.org/abs/2403.03133v1)|null|
+|**2024-03-05**|**Effect of particle stiffness and surface properties on the nonlinear viscoelasticity of dense microgel suspensions**|Jacopo Vialetto et.al.|[2403.03113v1](http://arxiv.org/abs/2403.03113v1)|null|
+|**2024-03-05**|**Stretch-independent magnetization in incompressible magnetorheological elastomers**|Kostas Danas et.al.|[2403.03096v1](http://arxiv.org/abs/2403.03096v1)|null|
+|**2024-03-05**|**Collective self-caging of active filaments in virtual confinement**|Maximilian Kurjahn et.al.|[2403.03093v1](http://arxiv.org/abs/2403.03093v1)|null|
+|**2024-03-05**|**Shear-enhanced Liquid Crystal Spinning of Conjugated Polymer Fibers**|Hao Jiang et.al.|[2403.03088v1](http://arxiv.org/abs/2403.03088v1)|null|
+|**2024-03-05**|**Topological balance of cell distributions in plane monolayers**|Daria S. Roshal et.al.|[2403.03079v1](http://arxiv.org/abs/2403.03079v1)|null|
+|**2024-03-05**|**Mesoscale simulations of diffusion and sedimentation in shape-anisotropic nanoparticle suspensions**|Yashraj M. Wani et.al.|[2403.03009v1](http://arxiv.org/abs/2403.03009v1)|null|
+|**2024-03-05**|**Phase Behavior and Dynamics of Active Brownian Particles in an Alignment Field**|Sameh Othman et.al.|[2403.02947v1](http://arxiv.org/abs/2403.02947v1)|null|
+|**2024-03-05**|**Numerical studies of triangulated vesicles with anisotropic membrane inclusions**|Yoav Ravid et.al.|[2403.02885v1](http://arxiv.org/abs/2403.02885v1)|null|
+|**2024-03-05**|**Novel Dipole-Lattice coupling in the Quantum-Spin-Liquid Material $κ$ -Cu-CN**|Jesse Liebman et.al.|[2403.02676v1](http://arxiv.org/abs/2403.02676v1)|null|
+|**2024-03-05**|**Periodic Cylindrical Bilayers Self-Assembled from Diblock Polymers**|Yongshun Luo et.al.|[2403.02588v1](http://arxiv.org/abs/2403.02588v1)|null|
+|**2024-03-05**|**The de Haas-van Alphen quantum oscillations in the kagome metal RbTi3Bi5**|Zixian Dong et.al.|[2403.02577v1](http://arxiv.org/abs/2403.02577v1)|null|
+|**2024-03-05**|**Dynamics of magnetic self-propelled particles in a harmonic trap**|Pamela Muñoz Obreque et.al.|[2403.02569v1](http://arxiv.org/abs/2403.02569v1)|null|
+|**2024-03-04**|**Structural origin of relaxation in dense colloidal suspensions**|Ratimanasee Sahu et.al.|[2403.02517v1](http://arxiv.org/abs/2403.02517v1)|null|
+|**2024-03-04**|**On the onset of slip at adhesive elastic interfaces**|Vineet Dawara et.al.|[2403.02510v1](http://arxiv.org/abs/2403.02510v1)|null|
+|**2024-03-04**|**Absorbing-state transitions in particulate systems under spatially varying driving**|Bhanu Prasad Bhowmik et.al.|[2403.02487v1](http://arxiv.org/abs/2403.02487v1)|null|
+|**2024-03-04**|**Percolation of nonequilibrium assemblies of colloidal particles in active chiral liquids**|Pragya Kushwaha et.al.|[2403.02423v1](http://arxiv.org/abs/2403.02423v1)|null|
 |**2024-03-02**|**Spontaneous assembly of condensate networks during the demixing of structured fluids**|Yuma Morimatsu et.al.|[2403.01298v1](http://arxiv.org/abs/2403.01298v1)|null|
 |**2024-03-02**|**Plane-polarised finite-amplitude shear waves in deformed incompressible materials**|Michel Destrade et.al.|[2403.01227v1](http://arxiv.org/abs/2403.01227v1)|null|
 |**2024-03-02**|**The generalised Mooney space for modelling the response of rubber-like materials**|Afshin Anssari-Benam et.al.|[2403.01223v1](http://arxiv.org/abs/2403.01223v1)|null|
@@ -4979,6 +4999,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Dynamical decoding of the competition between charge density waves in a kagome superconductor**|Honglie Ning et.al.|[2403.03169v1](http://arxiv.org/abs/2403.03169v1)|null|
+|**2024-03-04**|**All-optical control of skyrmion configuration in CrI $_3$ monolayer**|M. Kazemi et.al.|[2403.02223v1](http://arxiv.org/abs/2403.02223v1)|null|
 |**2024-02-22**|**Anti-screening and nonequilibrium layer electric phases in graphene multilayers**|Ying Xiong et.al.|[2402.14918v1](http://arxiv.org/abs/2402.14918v1)|null|
 |**2024-02-19**|**Geometrical theory of the shift current in presence of disorder and interaction**|Raffaele Resta et.al.|[2402.12489v1](http://arxiv.org/abs/2402.12489v1)|null|
 |**2024-02-18**|**Electromagnetically induced gratings created by extremely short non-overlapping pulses of light in a three-level resonant mediu**|R. Arkhipov et.al.|[2402.11491v1](http://arxiv.org/abs/2402.11491v1)|null|
@@ -5389,6 +5411,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Strain tunable electronic ground states in two-dimensional iridate thin films**|Donghan Kim et.al.|[2403.02734v1](http://arxiv.org/abs/2403.02734v1)|null|
 |**2024-02-29**|**Long-lived Topological Flatband Excitons in Semiconductor Moiré Heterostructures: a Bosonic Kane-Mele Model Platform**|Ming Xie et.al.|[2403.00052v1](http://arxiv.org/abs/2403.00052v1)|null|
 |**2024-02-29**|**Exchange bias induced by spin-glass-like state in Te-rich FeGeTe van der Waals ferromagnet**|Shaojie Hu et.al.|[2402.18887v1](http://arxiv.org/abs/2402.18887v1)|null|
 |**2024-02-28**|**Anomalous Hall Effect in Thin Bismuth**|Oulin Yu et.al.|[2402.18441v1](http://arxiv.org/abs/2402.18441v1)|null|
@@ -5600,6 +5623,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Anomalous continuum scattering and higher-order van Hove singularity in the strongly anisotropic S = 1/2 triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2403.03210v1](http://arxiv.org/abs/2403.03210v1)|null|
 |**2024-02-26**|**Thermal evolution of spin excitations in honeycomb Ising antiferromagnetic FePSe3**|Lebing Chen et.al.|[2402.16983v1](http://arxiv.org/abs/2402.16983v1)|null|
 |**2024-02-12**|**Continuum of magnetic excitations in the Kitaev honeycomb iridate D $_3$LiIr$_2$O$_6$**|Thomas Halloran et.al.|[2402.08083v1](http://arxiv.org/abs/2402.08083v1)|null|
 |**2024-02-12**|**Continuum of spin excitations in an ordered magnet**|Jieming Sheng et.al.|[2402.07730v1](http://arxiv.org/abs/2402.07730v1)|null|
