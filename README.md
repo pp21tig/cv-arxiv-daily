@@ -1105,7 +1105,7 @@
 |**2024-03-05**|**Effect of particle stiffness and surface properties on the nonlinear viscoelasticity of dense microgel suspensions**|Jacopo Vialetto et.al.|[2403.03113v1](http://arxiv.org/abs/2403.03113v1)|null|
 |**2024-03-05**|**Stretch-independent magnetization in incompressible magnetorheological elastomers**|Kostas Danas et.al.|[2403.03096v1](http://arxiv.org/abs/2403.03096v1)|null|
 |**2024-03-05**|**Collective self-caging of active filaments in virtual confinement**|Maximilian Kurjahn et.al.|[2403.03093v1](http://arxiv.org/abs/2403.03093v1)|null|
-|**2024-03-05**|**Shear-enhanced Liquid Crystal Spinning of Conjugated Polymer Fibers**|Hao Jiang et.al.|[2403.03088v1](http://arxiv.org/abs/2403.03088v1)|null|
+|**2024-03-06**|**Shear-enhanced Liquid Crystal Spinning of Conjugated Polymer Fibers**|Hao Jiang et.al.|[2403.03088v2](http://arxiv.org/abs/2403.03088v2)|null|
 |**2024-03-05**|**Topological balance of cell distributions in plane monolayers**|Daria S. Roshal et.al.|[2403.03079v1](http://arxiv.org/abs/2403.03079v1)|null|
 |**2024-03-05**|**Mesoscale simulations of diffusion and sedimentation in shape-anisotropic nanoparticle suspensions**|Yashraj M. Wani et.al.|[2403.03009v1](http://arxiv.org/abs/2403.03009v1)|null|
 |**2024-03-05**|**Phase Behavior and Dynamics of Active Brownian Particles in an Alignment Field**|Sameh Othman et.al.|[2403.02947v1](http://arxiv.org/abs/2403.02947v1)|null|
