@@ -1098,7 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-05**|**On the computation of lattice sums without translational invariance**|Andreas A. Buchheit et.al.|[2403.03213v1](http://arxiv.org/abs/2403.03213v1)|null|
+|**2024-03-06**|**Investigating the Collective Nature of Cavity Modified Chemical Kinetics under Vibrational Strong Coupling**|Lachlan P. Lindoy et.al.|[2403.03951v1](http://arxiv.org/abs/2403.03951v1)|null|
+|**2024-03-06**|**Permutation Symmetry Restoration in Disordered Materials**|Varda F. Hagh et.al.|[2403.03926v1](http://arxiv.org/abs/2403.03926v1)|null|
+|**2024-03-06**|**Relaxation of maximally entangled quantum states of two nonequivalent nuclear spins in a liquid**|Georgiy Baroncha et.al.|[2403.03924v1](http://arxiv.org/abs/2403.03924v1)|null|
+|**2024-03-06**|**Disorder-to-order transition of long fibers contained in evaporating sessile drops**|S. Sannyamath et.al.|[2403.03836v1](http://arxiv.org/abs/2403.03836v1)|null|
+|**2024-03-06**|**Dynamic Scaling of Two-Dimensional Polar Flocks**|Hugues Chaté et.al.|[2403.03804v1](http://arxiv.org/abs/2403.03804v1)|null|
+|**2024-03-06**|**Time-dependent invasion laws for a liquid-liquid displacement system**|Ke Xiao et.al.|[2403.03450v1](http://arxiv.org/abs/2403.03450v1)|null|
+|**2024-03-06**|**Rabi resonance splitting phenomena in photonic integrated circuits**|David J. Moss et.al.|[2403.03438v1](http://arxiv.org/abs/2403.03438v1)|null|
+|**2024-03-05**|**Curso introductorio de cristales líquidos I: fases y propiedades estructurales (Introductory Course on Liquid Crystals I: Phases and Structural Properties)**|Humberto Híjar et.al.|[2403.03366v1](http://arxiv.org/abs/2403.03366v1)|null|
+|**2024-03-06**|**On the computation of lattice sums without translational invariance**|Andreas A. Buchheit et.al.|[2403.03213v2](http://arxiv.org/abs/2403.03213v2)|null|
 |**2024-03-05**|**Statistical modeling of equilibrium phase transition in confined fluids**|Gunjan Auti et.al.|[2403.03162v1](http://arxiv.org/abs/2403.03162v1)|null|
 |**2024-03-05**|**Quantum Many-Body Physics Calculations with Large Language Models**|Haining Pan et.al.|[2403.03154v1](http://arxiv.org/abs/2403.03154v1)|null|
 |**2024-03-05**|**Isostructural Softening of Vulcanized Nanocomposites**|Guilhem P. Baeza et.al.|[2403.03133v1](http://arxiv.org/abs/2403.03133v1)|null|
@@ -4999,6 +5007,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Ultrafast Band Structure Dynamics in Bulk 1 $T$-VSe$_2$**|Wibke Bronsch et.al.|[2403.03805v1](http://arxiv.org/abs/2403.03805v1)|null|
+|**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775v1](http://arxiv.org/abs/2403.03775v1)|null|
 |**2024-03-05**|**Dynamical decoding of the competition between charge density waves in a kagome superconductor**|Honglie Ning et.al.|[2403.03169v1](http://arxiv.org/abs/2403.03169v1)|null|
 |**2024-03-04**|**All-optical control of skyrmion configuration in CrI $_3$ monolayer**|M. Kazemi et.al.|[2403.02223v1](http://arxiv.org/abs/2403.02223v1)|null|
 |**2024-02-22**|**Anti-screening and nonequilibrium layer electric phases in graphene multilayers**|Ying Xiong et.al.|[2402.14918v1](http://arxiv.org/abs/2402.14918v1)|null|
@@ -5254,6 +5264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Thermally Stable Peltier Controlled Vacuum Chamber for Electrical Transport Measurements**|S. F. Poole et.al.|[2403.03745v1](http://arxiv.org/abs/2403.03745v1)|null|
 |**2024-02-29**|**Current-induced sliding motion in a helimagnet MnAu $_2$**|Yuta Kimoto et.al.|[2403.00167v1](http://arxiv.org/abs/2403.00167v1)|null|
 |**2024-02-25**|**Effect of Magnetic Anisotropy Constants on Skyrmion Formation in Co/Pt**|Tamali Mukherjee et.al.|[2402.16060v1](http://arxiv.org/abs/2402.16060v1)|null|
 |**2024-02-21**|**Emergent Phenomena with Broken Parity-Time Symmetry: Odd-order vs. Even-order Effects**|Sang-Wook Cheong et.al.|[2402.13875v1](http://arxiv.org/abs/2402.13875v1)|null|
@@ -5411,6 +5422,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Engineering of a Layered Ferromagnet via Graphitization: An Overlooked Polymorph of GdAlSi**|Dmitry V. Averyanov et.al.|[2403.03735v1](http://arxiv.org/abs/2403.03735v1)|null|
+|**2024-03-06**|**Weyl points and anomalous transport effects tuned by the Fe doping in Mn $_3$ Ge Weyl semimetal**|Venus Rai et.al.|[2403.03626v1](http://arxiv.org/abs/2403.03626v1)|null|
 |**2024-03-05**|**Strain tunable electronic ground states in two-dimensional iridate thin films**|Donghan Kim et.al.|[2403.02734v1](http://arxiv.org/abs/2403.02734v1)|null|
 |**2024-02-29**|**Long-lived Topological Flatband Excitons in Semiconductor Moiré Heterostructures: a Bosonic Kane-Mele Model Platform**|Ming Xie et.al.|[2403.00052v1](http://arxiv.org/abs/2403.00052v1)|null|
 |**2024-02-29**|**Exchange bias induced by spin-glass-like state in Te-rich FeGeTe van der Waals ferromagnet**|Shaojie Hu et.al.|[2402.18887v1](http://arxiv.org/abs/2402.18887v1)|null|
