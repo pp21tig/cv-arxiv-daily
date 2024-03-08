@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Noise-mitigated randomized measurements and self-calibrating shadow estimation**|E. Onorati et.al.|[2403.04751v1](http://arxiv.org/abs/2403.04751v1)|null|
+|**2024-03-07**|**Symmetry-aware spectral bounds for the electronic structure Hamiltonian**|Cristian L. Cortes et.al.|[2403.04737v1](http://arxiv.org/abs/2403.04737v1)|null|
+|**2024-03-07**|**Observation of Nonlinear Response and Onsager Regression in a Photon Bose-Einstein Condensate**|Alexander Sazhin et.al.|[2403.04705v1](http://arxiv.org/abs/2403.04705v1)|null|
+|**2024-03-07**|**Accelerating the Convergence of Coupled Cluster Calculations of the Homogeneous Electron Gas Using Bayesian Ridge Regression**|Julie Butler et.al.|[2403.04645v1](http://arxiv.org/abs/2403.04645v1)|null|
+|**2024-03-07**|**Foundation for the ΔSCF Approach in Density Functional Theory**|Weitao Yang et.al.|[2403.04604v1](http://arxiv.org/abs/2403.04604v1)|null|
+|**2024-03-07**|**Rescaled Mode-Coupling Scheme for the Quantitative Description of Experimentally Observed Colloid Dynamics**|Joel Diaz Maier et.al.|[2403.04556v1](http://arxiv.org/abs/2403.04556v1)|null|
+|**2024-03-07**|**Langevin equations and a geometric integration scheme for the overdamped limit of homogeneous rotational Brownian motion**|Arthur V. Straube et.al.|[2403.04501v1](http://arxiv.org/abs/2403.04501v1)|null|
+|**2024-03-07**|**Insight into properties of sizable glass former from volumetric measurements**|Marzena Rams-Baron et.al.|[2403.04367v1](http://arxiv.org/abs/2403.04367v1)|null|
+|**2024-03-07**|**The stochastic relativistic advection diffusion equation from the Metropolis algorithm**|Gokce Basar et.al.|[2403.04185v1](http://arxiv.org/abs/2403.04185v1)|null|
+|**2024-03-06**|**How do polymers stretch in capillary-driven extensional flows?**|Vincenzo Calabrese et.al.|[2403.04103v1](http://arxiv.org/abs/2403.04103v1)|null|
+|**2024-03-06**|**Aggregate morphing of self-aligining soft active disks in semi-confined geometry**|Anshika Chugh et.al.|[2403.04075v1](http://arxiv.org/abs/2403.04075v1)|null|
+|**2024-03-06**|**A contact map method to capture the features of knot conformations**|Neda Abbasi Taklimi et.al.|[2403.04060v1](http://arxiv.org/abs/2403.04060v1)|null|
+|**2024-03-06**|**A Swarm Coherence Mechanism for Jellyfish**|Erik Gengel et.al.|[2403.04044v1](http://arxiv.org/abs/2403.04044v1)|null|
 |**2024-03-06**|**Investigating the Collective Nature of Cavity Modified Chemical Kinetics under Vibrational Strong Coupling**|Lachlan P. Lindoy et.al.|[2403.03951v1](http://arxiv.org/abs/2403.03951v1)|null|
 |**2024-03-06**|**Permutation Symmetry Restoration in Disordered Materials**|Varda F. Hagh et.al.|[2403.03926v1](http://arxiv.org/abs/2403.03926v1)|null|
 |**2024-03-06**|**Relaxation of maximally entangled quantum states of two nonequivalent nuclear spins in a liquid**|Georgiy Baroncha et.al.|[2403.03924v1](http://arxiv.org/abs/2403.03924v1)|null|
@@ -5007,6 +5020,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Light-induced giant enhancement of nonreciprocal transport at KTaO3-based interfaces**|Xu Zhang et.al.|[2403.04515v1](http://arxiv.org/abs/2403.04515v1)|null|
+|**2024-03-07**|**Phonon state tomography of electron correlation dynamics in optically excited solids**|M. Moroder et.al.|[2403.04209v1](http://arxiv.org/abs/2403.04209v1)|null|
 |**2024-03-06**|**Ultrafast Band Structure Dynamics in Bulk 1 $T$-VSe$_2$**|Wibke Bronsch et.al.|[2403.03805v1](http://arxiv.org/abs/2403.03805v1)|null|
 |**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775v1](http://arxiv.org/abs/2403.03775v1)|null|
 |**2024-03-05**|**Dynamical decoding of the competition between charge density waves in a kagome superconductor**|Honglie Ning et.al.|[2403.03169v1](http://arxiv.org/abs/2403.03169v1)|null|
@@ -5271,7 +5286,7 @@
 |**2024-02-18**|**Majorana bound state induced drag current in capacitively coupled quantum dots**|Xiao Xiao et.al.|[2402.11730v1](http://arxiv.org/abs/2402.11730v1)|null|
 |**2024-02-17**|**Abyssal Slope CUrrents**|Esther Capó et.al.|[2402.11152v1](http://arxiv.org/abs/2402.11152v1)|null|
 |**2024-02-14**|**Spin-orbit torque in single-molecule junctions from ab initio**|María Camarasa-Gómez et.al.|[2402.09610v1](http://arxiv.org/abs/2402.09610v1)|null|
-|**2024-02-17**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v2](http://arxiv.org/abs/2402.07756v2)|null|
+|**2024-03-07**|**Extrinsic Contribution to Nonlinear Current Induced Spin Polarization**|Ruda Guo et.al.|[2402.07756v3](http://arxiv.org/abs/2402.07756v3)|null|
 |**2024-02-08**|**Scheme for continuous force detection with a single electron at the $10^{-27}\mathrm{N}$ level**|Dominika Ďurovčíková et.al.|[2402.05998v1](http://arxiv.org/abs/2402.05998v1)|null|
 |**2024-02-13**|**Scattering of surface waves by ocean currents: the U2H map**|Han Wang et.al.|[2402.05652v2](http://arxiv.org/abs/2402.05652v2)|null|
 |**2024-02-04**|**Current Induced Hidden States in Josephson Junctions**|Shaowen Chen et.al.|[2402.02472v1](http://arxiv.org/abs/2402.02472v1)|null|
@@ -5422,6 +5437,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Parent Berry curvature and the ideal anomalous Hall crystal**|Tixuan Tan et.al.|[2403.04196v1](http://arxiv.org/abs/2403.04196v1)|null|
+|**2024-03-07**|**Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet Fe $_3$Sn$_2$**|Lujunyu Wang et.al.|[2403.04192v1](http://arxiv.org/abs/2403.04192v1)|null|
+|**2024-03-06**|**Power efficiency of Hall-like devices: comparison between reciprocal and anti-reciprocal Onsager relations**|Jean-Eric Wegrowe et.al.|[2403.04059v1](http://arxiv.org/abs/2403.04059v1)|null|
 |**2024-03-06**|**Engineering of a Layered Ferromagnet via Graphitization: An Overlooked Polymorph of GdAlSi**|Dmitry V. Averyanov et.al.|[2403.03735v1](http://arxiv.org/abs/2403.03735v1)|null|
 |**2024-03-06**|**Weyl points and anomalous transport effects tuned by the Fe doping in Mn $_3$ Ge Weyl semimetal**|Venus Rai et.al.|[2403.03626v1](http://arxiv.org/abs/2403.03626v1)|null|
 |**2024-03-05**|**Strain tunable electronic ground states in two-dimensional iridate thin films**|Donghan Kim et.al.|[2403.02734v1](http://arxiv.org/abs/2403.02734v1)|null|
