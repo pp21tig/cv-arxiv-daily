@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**The role of polaron dressing in superradiant emission dynamics**|Julian Wiercinski et.al.|[2403.05533v1](http://arxiv.org/abs/2403.05533v1)|null|
+|**2024-03-08**|**Angular momentum transfer from swift electrons to non-spherical nanoparticles within the dipolar approximation**|Jorge Luis Briseño Gómez et.al.|[2403.05504v1](http://arxiv.org/abs/2403.05504v1)|null|
+|**2024-03-08**|**Simulating dynamics of ellipsoidal particles using lattice Boltzmann method**|Sumesh P Thampi et.al.|[2403.05443v1](http://arxiv.org/abs/2403.05443v1)|null|
+|**2024-03-08**|**Quasiperiodic and periodic extended Hatano-Nelson model: Anomalous localization transition and non-Hermitian skin effect**|Soumya Ranjan Padhi et.al.|[2403.05382v1](http://arxiv.org/abs/2403.05382v1)|null|
+|**2024-03-08**|**A scalable method to model large suspensions of colloidal phoretic particles with arbitrary shapes**|Blaise Delmotte et.al.|[2403.05337v1](http://arxiv.org/abs/2403.05337v1)|null|
+|**2024-03-08**|**Closely piling up of multiple adhesive fronts in adhesive friction due to re-attachment**|Puyu Cao et.al.|[2403.05283v1](http://arxiv.org/abs/2403.05283v1)|null|
+|**2024-03-08**|**Non-additivity in many-body interactions between membrane-deforming spheres increases disorder**|Ali Azadbakht et.al.|[2403.05253v1](http://arxiv.org/abs/2403.05253v1)|null|
+|**2024-03-08**|**Chemical Reactions regulated by Phase-Separated Condensates**|Sudarshana Laha et.al.|[2403.05228v1](http://arxiv.org/abs/2403.05228v1)|null|
+|**2024-03-08**|**Generic ETH: Eigenstate Thermalization beyond the Microcanonical**|Elena Cáceres et.al.|[2403.05197v1](http://arxiv.org/abs/2403.05197v1)|null|
+|**2024-03-08**|**Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers -- Rigorous perturbation analysis from the rod limit**|Zhongqiang Xiong et.al.|[2403.05173v1](http://arxiv.org/abs/2403.05173v1)|null|
+|**2024-03-08**|**Unraveling the Molecular Magic: AI Insights on the Formation of Extraordinarily Stretchable Hydrogels**|Shahriar Hojjati Emmami et.al.|[2403.05129v1](http://arxiv.org/abs/2403.05129v1)|null|
+|**2024-03-08**|**Freezing delay of a drop impacting on a monolayer of cold grains**|Yudong Li et.al.|[2403.05126v1](http://arxiv.org/abs/2403.05126v1)|null|
+|**2024-03-08**|**A universal phase-field mixture representation of thermodynamics and shock wave mechanics in porous soft biologic continua**|John D. Clayton et.al.|[2403.04995v1](http://arxiv.org/abs/2403.04995v1)|null|
+|**2024-03-07**|**Electric field of DNA in solution: who is in charge?**|Jonathan G. Hedley et.al.|[2403.04949v1](http://arxiv.org/abs/2403.04949v1)|null|
 |**2024-03-07**|**Noise-mitigated randomized measurements and self-calibrating shadow estimation**|E. Onorati et.al.|[2403.04751v1](http://arxiv.org/abs/2403.04751v1)|null|
 |**2024-03-07**|**Symmetry-aware spectral bounds for the electronic structure Hamiltonian**|Cristian L. Cortes et.al.|[2403.04737v1](http://arxiv.org/abs/2403.04737v1)|null|
 |**2024-03-08**|**Observation of Nonlinear Response and Onsager Regression in a Photon Bose-Einstein Condensate**|Alexander Sazhin et.al.|[2403.04705v2](http://arxiv.org/abs/2403.04705v2)|null|
@@ -5283,6 +5297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**The magnetic structure of Ce $_3$TiBi$_5$ and its relation to current-induced magnetization**|Nicolas Gauthier et.al.|[2403.04896v1](http://arxiv.org/abs/2403.04896v1)|null|
 |**2024-03-06**|**Thermally Stable Peltier Controlled Vacuum Chamber for Electrical Transport Measurements**|S. F. Poole et.al.|[2403.03745v1](http://arxiv.org/abs/2403.03745v1)|null|
 |**2024-02-29**|**Current-induced sliding motion in a helimagnet MnAu $_2$**|Yuta Kimoto et.al.|[2403.00167v1](http://arxiv.org/abs/2403.00167v1)|null|
 |**2024-02-25**|**Effect of Magnetic Anisotropy Constants on Skyrmion Formation in Co/Pt**|Tamali Mukherjee et.al.|[2402.16060v1](http://arxiv.org/abs/2402.16060v1)|null|
@@ -5441,6 +5456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Intrinsic anomalous Hall effect arising from antiferromagnetic structure revealed by high-quality NbMnP**|Yuki Arai et.al.|[2403.05058v1](http://arxiv.org/abs/2403.05058v1)|null|
 |**2024-03-07**|**Parent Berry curvature and the ideal anomalous Hall crystal**|Tixuan Tan et.al.|[2403.04196v1](http://arxiv.org/abs/2403.04196v1)|null|
 |**2024-03-07**|**Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet Fe $_3$Sn$_2$**|Lujunyu Wang et.al.|[2403.04192v1](http://arxiv.org/abs/2403.04192v1)|null|
 |**2024-03-06**|**Power efficiency of Hall-like devices: comparison between reciprocal and anti-reciprocal Onsager relations**|Jean-Eric Wegrowe et.al.|[2403.04059v1](http://arxiv.org/abs/2403.04059v1)|null|
