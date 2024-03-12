@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Memory in cyclically crumpled sheets**|Amit Dawadi et.al.|[2403.06918v1](http://arxiv.org/abs/2403.06918v1)|null|
+|**2024-03-11**|**Ising model with non-reciprocal interactions**|Agney K. Rajeev et.al.|[2403.06875v1](http://arxiv.org/abs/2403.06875v1)|null|
+|**2024-03-11**|**Dynamics of Polyalkylfluorene Conjugated Polymers: Insights from Neutron Spectroscopy and Molecular Dynamics Simulations**|Mohamed Zbiri et.al.|[2403.06822v1](http://arxiv.org/abs/2403.06822v1)|null|
+|**2024-03-11**|**A perspective on active glassy dynamics in biological systems**|Souvik Sadhukhan et.al.|[2403.06799v1](http://arxiv.org/abs/2403.06799v1)|null|
+|**2024-03-11**|**Jeffery Orbits with Noise Revisited**|Julian Talbot et.al.|[2403.06795v1](http://arxiv.org/abs/2403.06795v1)|null|
+|**2024-03-11**|**Beyond Pairwise: Higher-order physical interactions affect phase separation in multi-component liquids**|Chengjie Luo et.al.|[2403.06666v1](http://arxiv.org/abs/2403.06666v1)|null|
+|**2024-03-11**|**Thermalization in Krylov Basis**|Mohsen Alishahiha et.al.|[2403.06655v1](http://arxiv.org/abs/2403.06655v1)|null|
+|**2024-03-11**|**Breaking Abbe's diffraction limit with harmonic deactivation microscopy**|Kevin Murzyn et.al.|[2403.06617v1](http://arxiv.org/abs/2403.06617v1)|null|
+|**2024-03-11**|**Elasticity affects the shock-induced aerobreakup of a polymeric droplet**|Navin Kumar Chandra et.al.|[2403.06539v1](http://arxiv.org/abs/2403.06539v1)|null|
+|**2024-03-11**|**Ghost Martin-Siggia-Rose (MSR) applications to Kardar-Parizi-Zhang (KPZ) equation with non-linear noise**|Garry Goldstein et.al.|[2403.06481v1](http://arxiv.org/abs/2403.06481v1)|null|
+|**2024-03-10**|**f(R,T) Analogue Gravity in (2+1) D graphene sheet**|Marcelo Lapola et.al.|[2403.06283v1](http://arxiv.org/abs/2403.06283v1)|null|
+|**2024-03-10**|**Universal Origin of Glassy Relaxation as Recognized by Configuration Pattern-matching**|Hai-Bin Yu et.al.|[2403.06175v1](http://arxiv.org/abs/2403.06175v1)|null|
+|**2024-03-10**|**Dynamical generation of skyrmion and bimeron crystals by a circularly polarized electric field in frustrated magnets**|Ryota Yambe et.al.|[2403.06118v1](http://arxiv.org/abs/2403.06118v1)|null|
+|**2024-03-09**|**Implementation and characterization of the dice lattice in the electron quantum simulator**|Camillo Tassi et.al.|[2403.06040v1](http://arxiv.org/abs/2403.06040v1)|null|
+|**2024-03-09**|**Multiphysics Modeling of Surface Diffusion Coupled with Large Deformation in 3D Solids**|Jaemin Kim et.al.|[2403.06005v1](http://arxiv.org/abs/2403.06005v1)|null|
+|**2024-03-09**|**Time-dependent droplet detachment behaviour from wettability-engineered fibers during fog harvesting**|Arijit Saha et.al.|[2403.05997v1](http://arxiv.org/abs/2403.05997v1)|null|
+|**2024-03-09**|**Training physical matter to matter**|Heinrich M. Jaeger et.al.|[2403.05990v1](http://arxiv.org/abs/2403.05990v1)|null|
+|**2024-03-09**|**Harmonic Balance for Differential Constitutive Models under Oscillatory Shear**|Shivangi Mittal et.al.|[2403.05971v1](http://arxiv.org/abs/2403.05971v1)|null|
+|**2024-03-09**|**Migration and separation of polymers in non-uniform active baths**|Pietro Luigi Muzzeddu et.al.|[2403.05914v1](http://arxiv.org/abs/2403.05914v1)|null|
+|**2024-03-09**|**Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations**|Kuan-Cheng Chen et.al.|[2403.05828v1](http://arxiv.org/abs/2403.05828v1)|**[link](https://github.com/louisanity/cuphastlearn)**|
 |**2024-03-08**|**The role of polaron dressing in superradiant emission dynamics**|Julian Wiercinski et.al.|[2403.05533v1](http://arxiv.org/abs/2403.05533v1)|null|
 |**2024-03-08**|**Angular momentum transfer from swift electrons to non-spherical nanoparticles within the dipolar approximation**|Jorge Luis Briseño Gómez et.al.|[2403.05504v1](http://arxiv.org/abs/2403.05504v1)|null|
 |**2024-03-08**|**Simulating dynamics of ellipsoidal particles using lattice Boltzmann method**|Sumesh P Thampi et.al.|[2403.05443v1](http://arxiv.org/abs/2403.05443v1)|null|
@@ -5456,6 +5476,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-10**|**Hybrid-order topology with tunable chiral hinge modes and unpinned Dirac surface states in the altermagnetic insulator Eu $_{3}$In$_{2}$As$_{4}$**|Yufei Zhao et.al.|[2403.06304v1](http://arxiv.org/abs/2403.06304v1)|null|
+|**2024-03-10**|**Chiral Spin-Liquid-Like State in Pyrochlore Iridate Thin Films**|Xiaoran Liu et.al.|[2403.06170v1](http://arxiv.org/abs/2403.06170v1)|null|
+|**2024-03-10**|**van Hove Singularity-Driven Emergence of Multiple Flat Bands in Kagome Superconductors**|Hailan Luo et.al.|[2403.06085v1](http://arxiv.org/abs/2403.06085v1)|null|
 |**2024-03-08**|**Intrinsic anomalous Hall effect arising from antiferromagnetic structure revealed by high-quality NbMnP**|Yuki Arai et.al.|[2403.05058v1](http://arxiv.org/abs/2403.05058v1)|null|
 |**2024-03-07**|**Parent Berry curvature and the ideal anomalous Hall crystal**|Tixuan Tan et.al.|[2403.04196v1](http://arxiv.org/abs/2403.04196v1)|null|
 |**2024-03-07**|**Orbital Magneto-Nonlinear Anomalous Hall Effect in Kagome Magnet Fe $_3$Sn$_2$**|Lujunyu Wang et.al.|[2403.04192v1](http://arxiv.org/abs/2403.04192v1)|null|
