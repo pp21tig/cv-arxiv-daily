@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Hyper-density functional theory of soft matter**|Florian Sammüller et.al.|[2403.07845v1](http://arxiv.org/abs/2403.07845v1)|**[link](https://github.com/sfalmo/HyperDFT)**|
+|**2024-03-12**|**A twist-grain boundary (TGB) phase in aqueous solutions of the DNA tetramer GTAC**|Gregory P. Smith et.al.|[2403.07844v1](http://arxiv.org/abs/2403.07844v1)|null|
+|**2024-03-12**|**Fine-tuning Neural Network Quantum States**|Riccardo Rende et.al.|[2403.07795v1](http://arxiv.org/abs/2403.07795v1)|null|
+|**2024-03-12**|**Logarithmic critical slowing down in complex systems: from statics to dynamics**|Luca Leuzzi et.al.|[2403.07565v1](http://arxiv.org/abs/2403.07565v1)|null|
+|**2024-03-12**|**Steady Granular Flow in a Rotating Drum: Universal description of stress, velocity and packing fraction profiles covering grain shape effects from convex to very concave**|Weiyi Wang et.al.|[2403.07555v1](http://arxiv.org/abs/2403.07555v1)|null|
+|**2024-03-12**|**Ab-initio variational wave functions for the time-dependent many-electron Schrödinger equation**|Jannes Nys et.al.|[2403.07447v1](http://arxiv.org/abs/2403.07447v1)|null|
+|**2024-03-12**|**Skyrmion flow in periodically modulated channels**|Klaus Raab et.al.|[2403.07397v1](http://arxiv.org/abs/2403.07397v1)|null|
+|**2024-03-12**|**Crystal design of altermagnetism**|Zhiyuan Zhou et.al.|[2403.07396v1](http://arxiv.org/abs/2403.07396v1)|null|
+|**2024-03-12**|**Understanding the shear modulus of dense microgel suspensions**|Maxime Bergman et.al.|[2403.07388v1](http://arxiv.org/abs/2403.07388v1)|null|
 |**2024-03-11**|**Memory in cyclically crumpled sheets**|Amit Dawadi et.al.|[2403.06918v1](http://arxiv.org/abs/2403.06918v1)|null|
 |**2024-03-11**|**Ising model with non-reciprocal interactions**|Agney K. Rajeev et.al.|[2403.06875v1](http://arxiv.org/abs/2403.06875v1)|null|
 |**2024-03-11**|**Dynamics of Polyalkylfluorene Conjugated Polymers: Insights from Neutron Spectroscopy and Molecular Dynamics Simulations**|Mohamed Zbiri et.al.|[2403.06822v1](http://arxiv.org/abs/2403.06822v1)|null|
@@ -5058,6 +5067,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Photo-induced Ferromagnetic and Superconducting Orders in Multi-orbital Hubbard Models**|Sujay Ray et.al.|[2403.07737v1](http://arxiv.org/abs/2403.07737v1)|null|
 |**2024-03-07**|**Light-induced giant enhancement of nonreciprocal transport at KTaO3-based interfaces**|Xu Zhang et.al.|[2403.04515v1](http://arxiv.org/abs/2403.04515v1)|null|
 |**2024-03-07**|**Phonon state tomography of electron correlation dynamics in optically excited solids**|M. Moroder et.al.|[2403.04209v1](http://arxiv.org/abs/2403.04209v1)|null|
 |**2024-03-06**|**Ultrafast Band Structure Dynamics in Bulk 1 $T$-VSe$_2$**|Wibke Bronsch et.al.|[2403.03805v1](http://arxiv.org/abs/2403.03805v1)|null|
@@ -5317,6 +5327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Viscous current-induced forces**|Vladimir U. Nazarov et.al.|[2403.07081v1](http://arxiv.org/abs/2403.07081v1)|null|
 |**2024-03-07**|**The magnetic structure of Ce $_3$TiBi$_5$ and its relation to current-induced magnetization**|Nicolas Gauthier et.al.|[2403.04896v1](http://arxiv.org/abs/2403.04896v1)|null|
 |**2024-03-06**|**Thermally Stable Peltier Controlled Vacuum Chamber for Electrical Transport Measurements**|S. F. Poole et.al.|[2403.03745v1](http://arxiv.org/abs/2403.03745v1)|null|
 |**2024-02-29**|**Current-induced sliding motion in a helimagnet MnAu $_2$**|Yuta Kimoto et.al.|[2403.00167v1](http://arxiv.org/abs/2403.00167v1)|null|
@@ -5476,6 +5487,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873v1](http://arxiv.org/abs/2403.07873v1)|null|
+|**2024-03-12**|**Unraveling the nature of quasi van der Waals Epitaxy of magnetic topological insulators Cr: (BixSb1-x)2Te3 on a GaAs (111) substrate through coherently strained interface**|Yuxing Ren et.al.|[2403.07864v1](http://arxiv.org/abs/2403.07864v1)|null|
+|**2024-03-12**|**Discovery of a Magnetic Topological Semimetal Eu3In2As4 with a Single Pair of Weyl Points**|Ke Jia et.al.|[2403.07637v1](http://arxiv.org/abs/2403.07637v1)|null|
+|**2024-03-12**|**Crystal design of altermagnetism**|Zhiyuan Zhou et.al.|[2403.07396v1](http://arxiv.org/abs/2403.07396v1)|null|
 |**2024-03-10**|**Hybrid-order topology with tunable chiral hinge modes and unpinned Dirac surface states in the altermagnetic insulator Eu $_{3}$In$_{2}$As$_{4}$**|Yufei Zhao et.al.|[2403.06304v1](http://arxiv.org/abs/2403.06304v1)|null|
 |**2024-03-10**|**Chiral Spin-Liquid-Like State in Pyrochlore Iridate Thin Films**|Xiaoran Liu et.al.|[2403.06170v1](http://arxiv.org/abs/2403.06170v1)|null|
 |**2024-03-10**|**van Hove Singularity-Driven Emergence of Multiple Flat Bands in Kagome Superconductors**|Hailan Luo et.al.|[2403.06085v1](http://arxiv.org/abs/2403.06085v1)|null|
@@ -5697,6 +5712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Characterizing the diffuse continuum excitations in the classical spin liquid $h$-YMnO$_3$**|Jakob Lass et.al.|[2403.07671v1](http://arxiv.org/abs/2403.07671v1)|null|
 |**2024-03-05**|**Anomalous continuum scattering and higher-order van Hove singularity in the strongly anisotropic S = 1/2 triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2403.03210v1](http://arxiv.org/abs/2403.03210v1)|null|
 |**2024-02-26**|**Thermal evolution of spin excitations in honeycomb Ising antiferromagnetic FePSe3**|Lebing Chen et.al.|[2402.16983v1](http://arxiv.org/abs/2402.16983v1)|null|
 |**2024-02-12**|**Continuum of magnetic excitations in the Kitaev honeycomb iridate D $_3$LiIr$_2$O$_6$**|Thomas Halloran et.al.|[2402.08083v1](http://arxiv.org/abs/2402.08083v1)|null|
