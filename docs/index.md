@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Driving non-trivial quantum phases in conventional semiconductors with intense excitonic fields**|Vivek Pareek et.al.|[2403.08725v1](http://arxiv.org/abs/2403.08725v1)|null|
+|**2024-03-13**|**Isotope effects in supercooled H $_2$O and D$_2$ O and a corresponding-states-like rescaling of the temperature and pressure**|Greg A. Kimmel et.al.|[2403.08722v1](http://arxiv.org/abs/2403.08722v1)|null|
+|**2024-03-13**|**Boundary geometry controls topological defect transitions that determine lumen nucleation in embryonic development**|Pamela C. Guruciaga et.al.|[2403.08710v1](http://arxiv.org/abs/2403.08710v1)|null|
+|**2024-03-13**|**The importance of stretching rate in achieving true stress relaxation in the elasto-capillary thinning of dilute solutions**|Ann Aisling et.al.|[2403.08708v1](http://arxiv.org/abs/2403.08708v1)|null|
+|**2024-03-13**|**Single file motion of robot swarms**|Laciel Alonso-Llanes et.al.|[2403.08683v1](http://arxiv.org/abs/2403.08683v1)|null|
+|**2024-03-13**|**Heterogeneous Nucleation and Growth of Sessile Chemically Active Droplets**|Noah Ziethen et.al.|[2403.08555v1](http://arxiv.org/abs/2403.08555v1)|null|
+|**2024-03-13**|**Opportunities and open questions in modern $β$ decay**|Leendert Hayen et.al.|[2403.08485v1](http://arxiv.org/abs/2403.08485v1)|null|
+|**2024-03-13**|**Evidence of robust, universal conformal invariance in living biological matter**|Benjamin H. Andersen et.al.|[2403.08466v1](http://arxiv.org/abs/2403.08466v1)|null|
+|**2024-03-13**|**Criticality in an imidazolium ionic liquid fully wetting a sapphire support**|Kevin Höllring et.al.|[2403.08449v1](http://arxiv.org/abs/2403.08449v1)|null|
+|**2024-03-13**|**How motility drives the glassy dynamics in confluent epithelial monolayers?**|Souvik Sadhukhan et.al.|[2403.08437v1](http://arxiv.org/abs/2403.08437v1)|null|
+|**2024-03-13**|**Modelling of initially stressed solids: structure of the energy density in the incompressible limit**|M. Magri et.al.|[2403.08432v1](http://arxiv.org/abs/2403.08432v1)|null|
+|**2024-03-13**|**Structural investigation of the liquid crystalline phases of three homologues from the series of 4-pentylphenyl-4'-n-alkyloxythiobenzoates (n = 9, 10, 11)**|Aleksandra Deptuch et.al.|[2403.08328v1](http://arxiv.org/abs/2403.08328v1)|null|
+|**2024-03-13**|**Dynamic flexoelectric instabilities in nematic liquid crystals**|E. S. Pikina et.al.|[2403.08325v1](http://arxiv.org/abs/2403.08325v1)|null|
+|**2024-03-13**|**Influence of cholesterol on hydrogen-bond dynamics of water molecules in lipid-bilayer systems at varying temperatures**|Kokoro Shikata et.al.|[2403.08289v1](http://arxiv.org/abs/2403.08289v1)|null|
+|**2024-03-13**|**Experimental observation of gapped shear waves and liquid-like to gas-like dynamical crossover in active granular matter**|Cunyuan Jiang et.al.|[2403.08285v1](http://arxiv.org/abs/2403.08285v1)|null|
+|**2024-03-13**|**GCMe: Efficient implementation of Gaussian core model with smeared electrostatic interactions for molecular dynamics simulations of soft matter systems**|Benjamin Bobin Ye et.al.|[2403.08148v1](http://arxiv.org/abs/2403.08148v1)|null|
+|**2024-03-12**|**Evaluation of the AMOEBA force field for simulating metal halide perovskites in the solid state and in solution**|P. V. G. M. Rathnayake et.al.|[2403.08134v1](http://arxiv.org/abs/2403.08134v1)|null|
+|**2024-03-12**|**EXCOGITO, an extensible coarse-graining toolbox for the investigation of biomolecules by means of low-resolution representation**|Marco Giulini et.al.|[2403.08097v1](http://arxiv.org/abs/2403.08097v1)|null|
+|**2024-03-12**|**Bending Mechanics of Biomimetic Scale Plates**|Pranta Rahman Sarkar et.al.|[2403.08026v1](http://arxiv.org/abs/2403.08026v1)|null|
 |**2024-03-12**|**Hyper-density functional theory of soft matter**|Florian Sammüller et.al.|[2403.07845v1](http://arxiv.org/abs/2403.07845v1)|**[link](https://github.com/sfalmo/HyperDFT)**|
 |**2024-03-12**|**A twist-grain boundary (TGB) phase in aqueous solutions of the DNA tetramer GTAC**|Gregory P. Smith et.al.|[2403.07844v1](http://arxiv.org/abs/2403.07844v1)|null|
 |**2024-03-12**|**Fine-tuning Neural Network Quantum States**|Riccardo Rende et.al.|[2403.07795v1](http://arxiv.org/abs/2403.07795v1)|null|
@@ -5067,6 +5086,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Light-driven interlayer propagation of collective-mode excitations in layered superconductors**|Niklas Ziereis et.al.|[2403.08734v1](http://arxiv.org/abs/2403.08734v1)|null|
 |**2024-03-12**|**Photo-induced Ferromagnetic and Superconducting Orders in Multi-orbital Hubbard Models**|Sujay Ray et.al.|[2403.07737v1](http://arxiv.org/abs/2403.07737v1)|null|
 |**2024-03-07**|**Light-induced giant enhancement of nonreciprocal transport at KTaO3-based interfaces**|Xu Zhang et.al.|[2403.04515v1](http://arxiv.org/abs/2403.04515v1)|null|
 |**2024-03-07**|**Phonon state tomography of electron correlation dynamics in optically excited solids**|M. Moroder et.al.|[2403.04209v1](http://arxiv.org/abs/2403.04209v1)|null|
@@ -5327,6 +5347,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**An asymptotic Grad-Shafranov equation for quasisymmetric stellarators**|Nikita Nikulsin et.al.|[2403.08022v1](http://arxiv.org/abs/2403.08022v1)|null|
 |**2024-03-11**|**Viscous current-induced forces**|Vladimir U. Nazarov et.al.|[2403.07081v1](http://arxiv.org/abs/2403.07081v1)|null|
 |**2024-03-07**|**The magnetic structure of Ce $_3$TiBi$_5$ and its relation to current-induced magnetization**|Nicolas Gauthier et.al.|[2403.04896v1](http://arxiv.org/abs/2403.04896v1)|null|
 |**2024-03-06**|**Thermally Stable Peltier Controlled Vacuum Chamber for Electrical Transport Measurements**|S. F. Poole et.al.|[2403.03745v1](http://arxiv.org/abs/2403.03745v1)|null|
@@ -5712,6 +5733,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Thermal Hall effect in a van der Waals ferromagnet CrI3**|Chunqiang Xu et.al.|[2403.08180v1](http://arxiv.org/abs/2403.08180v1)|null|
 |**2024-03-12**|**Characterizing the diffuse continuum excitations in the classical spin liquid $h$-YMnO$_3$**|Jakob Lass et.al.|[2403.07671v1](http://arxiv.org/abs/2403.07671v1)|null|
 |**2024-03-05**|**Anomalous continuum scattering and higher-order van Hove singularity in the strongly anisotropic S = 1/2 triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2403.03210v1](http://arxiv.org/abs/2403.03210v1)|null|
 |**2024-02-26**|**Thermal evolution of spin excitations in honeycomb Ising antiferromagnetic FePSe3**|Lebing Chen et.al.|[2402.16983v1](http://arxiv.org/abs/2402.16983v1)|null|
