@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Vortex pattern stabilization in thin films resulting from shear thickening of active suspensions**|Henning Reinken et.al.|[2403.09523v1](http://arxiv.org/abs/2403.09523v1)|null|
+|**2024-03-14**|**A device for studying elementary plasticity fluctuations in granular media**|Ambroise Mathey et.al.|[2403.09396v1](http://arxiv.org/abs/2403.09396v1)|null|
+|**2024-03-14**|**Parametric tuning of dynamical phase transitions in ultracold reactions**|Vijay Ganesh Sadhasivam et.al.|[2403.09291v1](http://arxiv.org/abs/2403.09291v1)|null|
+|**2024-03-14**|**The elastic stored energy of initially strained, or stressed, materials: restrictions and third-order expansions**|Artur L. Gower et.al.|[2403.09280v1](http://arxiv.org/abs/2403.09280v1)|null|
+|**2024-03-14**|**Nonlinear Kinematics of Recursive Origami Inspired by Spidron**|Rinki Imada et.al.|[2403.09278v1](http://arxiv.org/abs/2403.09278v1)|null|
+|**2024-03-14**|**Quantum effects in the H-bond symmetrization and in the thermodynamic properties of high pressure ice**|Marco Cherubini et.al.|[2403.09238v1](http://arxiv.org/abs/2403.09238v1)|null|
+|**2024-03-14**|**Dynamics of Droplets Moving on Lubricated Polymer Brushes**|Rodrique G. M. Badr et.al.|[2403.09189v1](http://arxiv.org/abs/2403.09189v1)|null|
+|**2024-03-14**|**Self-enhanced mobility enables vortex pattern formation in living matter**|Haoran Xu et.al.|[2403.09068v1](http://arxiv.org/abs/2403.09068v1)|null|
+|**2024-03-14**|**Relative Resolution: An Analysis with the Kullback-Leibler Entropy**|Mark Chaimovich et.al.|[2403.09061v1](http://arxiv.org/abs/2403.09061v1)|null|
+|**2024-03-14**|**Unified description of electronic orderings and cross correlations by complete multipole representation**|Satoru Hayami et.al.|[2403.09019v1](http://arxiv.org/abs/2403.09019v1)|null|
+|**2024-03-13**|**A comparative analysis of transient finite-strain coupled diffusion-deformation theories for hydrogels**|Jorge-Humberto Urrea-Quintero et.al.|[2403.08972v1](http://arxiv.org/abs/2403.08972v1)|null|
+|**2024-03-13**|**Model order reduction for transient coupled diffusion-deformation of hydrogels**|Gopal Agarwal et.al.|[2403.08968v1](http://arxiv.org/abs/2403.08968v1)|null|
+|**2024-03-13**|**Morphological instability at topological defects in a three-dimensional vertex model for spherical epithelia**|Oliver M. Drozdowski et.al.|[2403.08954v1](http://arxiv.org/abs/2403.08954v1)|null|
 |**2024-03-13**|**Driving non-trivial quantum phases in conventional semiconductors with intense excitonic fields**|Vivek Pareek et.al.|[2403.08725v1](http://arxiv.org/abs/2403.08725v1)|null|
 |**2024-03-13**|**Isotope effects in supercooled H $_2$O and D$_2$ O and a corresponding-states-like rescaling of the temperature and pressure**|Greg A. Kimmel et.al.|[2403.08722v1](http://arxiv.org/abs/2403.08722v1)|null|
 |**2024-03-13**|**Boundary geometry controls topological defect transitions that determine lumen nucleation in embryonic development**|Pamela C. Guruciaga et.al.|[2403.08710v1](http://arxiv.org/abs/2403.08710v1)|null|
@@ -5086,6 +5099,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Origin of light-induced metastability in ZrTe $_5$**|D. Nevola et.al.|[2403.08881v1](http://arxiv.org/abs/2403.08881v1)|null|
 |**2024-03-13**|**Light-driven interlayer propagation of collective-mode excitations in layered superconductors**|Niklas Ziereis et.al.|[2403.08734v1](http://arxiv.org/abs/2403.08734v1)|null|
 |**2024-03-12**|**Photo-induced Ferromagnetic and Superconducting Orders in Multi-orbital Hubbard Models**|Sujay Ray et.al.|[2403.07737v1](http://arxiv.org/abs/2403.07737v1)|null|
 |**2024-03-07**|**Light-induced giant enhancement of nonreciprocal transport at KTaO3-based interfaces**|Xu Zhang et.al.|[2403.04515v1](http://arxiv.org/abs/2403.04515v1)|null|
@@ -5733,6 +5747,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Inelastic neutron scattering and muon spin relaxation investigations of the deuterated Kondo lattices CeNiSnD $_x$**|X. Y. Zheng et.al.|[2403.09424v1](http://arxiv.org/abs/2403.09424v1)|null|
 |**2024-03-13**|**Thermal Hall effect in a van der Waals ferromagnet CrI3**|Chunqiang Xu et.al.|[2403.08180v1](http://arxiv.org/abs/2403.08180v1)|null|
 |**2024-03-12**|**Characterizing the diffuse continuum excitations in the classical spin liquid $h$-YMnO$_3$**|Jakob Lass et.al.|[2403.07671v1](http://arxiv.org/abs/2403.07671v1)|null|
 |**2024-03-05**|**Anomalous continuum scattering and higher-order van Hove singularity in the strongly anisotropic S = 1/2 triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2403.03210v1](http://arxiv.org/abs/2403.03210v1)|null|
