@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Active transport of a passive colloid in a bath of run-and-tumble particles**|Tanumoy Dhar et.al.|[2403.10508v1](http://arxiv.org/abs/2403.10508v1)|null|
+|**2024-03-15**|**Temporal Twistronics**|Grigorii Ptitcyn et.al.|[2403.10477v1](http://arxiv.org/abs/2403.10477v1)|null|
+|**2024-03-15**|**Quantum Synchronization in Nonconservative Electrical Circuits with Kirchhoff-Heisenberg Equations**|Matteo Mariantoni et.al.|[2403.10474v1](http://arxiv.org/abs/2403.10474v1)|null|
+|**2024-03-15**|**Variance sum rule: proofs and solvable models**|Ivan Di Terlizzi et.al.|[2403.10442v1](http://arxiv.org/abs/2403.10442v1)|null|
+|**2024-03-15**|**Versatile Capillary Cells for Handling Concentrated Samples in Analytical Ultracentrifugation**|Quy Ong et.al.|[2403.10418v1](http://arxiv.org/abs/2403.10418v1)|null|
+|**2024-03-15**|**One-dimensional Lieb superlattices: from the discrete to the continuum limit**|Dylan Jones et.al.|[2403.10382v1](http://arxiv.org/abs/2403.10382v1)|null|
+|**2024-03-15**|**Experimental Measurements of the Granular Density of Modes via Impact**|Sydney A. Blue et.al.|[2403.10322v1](http://arxiv.org/abs/2403.10322v1)|null|
+|**2024-03-15**|**Pattern selection and the route to turbulence in incompressible polar active fluids**|Henning Reinken et.al.|[2403.10305v1](http://arxiv.org/abs/2403.10305v1)|null|
+|**2024-03-15**|**Gradient dynamics approach to reactive thin-film hydrodynamics**|Florian Voss et.al.|[2403.10295v1](http://arxiv.org/abs/2403.10295v1)|null|
+|**2024-03-15**|**Attractive carbon black dispersions: structural and mechanical responses to shear**|Julien Bauland et.al.|[2403.10262v1](http://arxiv.org/abs/2403.10262v1)|null|
+|**2024-03-15**|**Spin and Orbital Magnetism by Light in Rutile Altermagnets**|T. Adamantopoulos et.al.|[2403.10235v1](http://arxiv.org/abs/2403.10235v1)|null|
+|**2024-03-15**|**Autonomous Engulfment of Active Colloids by Giant Lipid Vesicles**|Florent Fessler et.al.|[2403.10234v1](http://arxiv.org/abs/2403.10234v1)|null|
+|**2024-03-15**|**Active nematic-isotropic interfaces on flat surfaces: effects of anchoring, ordering field and activity**|Rodrigo C. V. Coelho et.al.|[2403.10178v1](http://arxiv.org/abs/2403.10178v1)|null|
+|**2024-03-15**|**Two-step aging dynamics in enzymatic milk gels**|Julien Bauland et.al.|[2403.10176v1](http://arxiv.org/abs/2403.10176v1)|null|
+|**2024-03-15**|**Self-Aligning Polar Active Matter**|Paul Baconnier et.al.|[2403.10151v1](http://arxiv.org/abs/2403.10151v1)|null|
+|**2024-03-15**|**Polymer Concentration Regimes from Fractional Microrheology**|Amirreza Panahi et.al.|[2403.10130v1](http://arxiv.org/abs/2403.10130v1)|null|
+|**2024-03-15**|**Stochastic nanoswimmer: a multistate model for enzyme self-propulsion and enhanced diffusion**|Amit Singh Vishen et.al.|[2403.10125v1](http://arxiv.org/abs/2403.10125v1)|null|
+|**2024-03-15**|**Motility-Induced Pinning in Flocking System with Discrete Symmetry**|Chul-Ung Woo et.al.|[2403.10106v1](http://arxiv.org/abs/2403.10106v1)|null|
+|**2024-03-15**|**Markovian and non-Markovian master equations versus an exactly solvable model of a qubit in a cavity**|Zihan Xia et.al.|[2403.09944v1](http://arxiv.org/abs/2403.09944v1)|null|
+|**2024-03-14**|**Stacked Rayleigh-Taylor instabilities grow drops into soft stalactite-like structures**|Barath Venkateswaran et.al.|[2403.09837v1](http://arxiv.org/abs/2403.09837v1)|null|
 |**2024-03-14**|**Vortex pattern stabilization in thin films resulting from shear thickening of active suspensions**|Henning Reinken et.al.|[2403.09523v1](http://arxiv.org/abs/2403.09523v1)|null|
 |**2024-03-14**|**A device for studying elementary plasticity fluctuations in granular media**|Ambroise Mathey et.al.|[2403.09396v1](http://arxiv.org/abs/2403.09396v1)|null|
 |**2024-03-14**|**Parametric tuning of dynamical phase transitions in ultracold reactions**|Vijay Ganesh Sadhasivam et.al.|[2403.09291v1](http://arxiv.org/abs/2403.09291v1)|null|
@@ -5095,6 +5115,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Spin and Orbital Magnetism by Light in Rutile Altermagnets**|T. Adamantopoulos et.al.|[2403.10235v1](http://arxiv.org/abs/2403.10235v1)|null|
+|**2024-03-15**|**Anisotropic magneto-photothermal voltage in Sb2Te3 topological insulator thin films**|Subhadip Manna et.al.|[2403.10141v1](http://arxiv.org/abs/2403.10141v1)|null|
+|**2024-03-14**|**Classical and quantum light-induced non-adiabaticity in molecular systems**|Csaba Fábri et.al.|[2403.09897v1](http://arxiv.org/abs/2403.09897v1)|null|
 |**2024-03-13**|**Origin of light-induced metastability in ZrTe $_5$**|D. Nevola et.al.|[2403.08881v1](http://arxiv.org/abs/2403.08881v1)|null|
 |**2024-03-13**|**Light-driven interlayer propagation of collective-mode excitations in layered superconductors**|Niklas Ziereis et.al.|[2403.08734v1](http://arxiv.org/abs/2403.08734v1)|null|
 |**2024-03-12**|**Photo-induced Ferromagnetic and Superconducting Orders in Multi-orbital Hubbard Models**|Sujay Ray et.al.|[2403.07737v1](http://arxiv.org/abs/2403.07737v1)|null|
@@ -5518,6 +5541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924v1](http://arxiv.org/abs/2403.09924v1)|null|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873v1](http://arxiv.org/abs/2403.07873v1)|null|
 |**2024-03-12**|**Unraveling the nature of quasi van der Waals Epitaxy of magnetic topological insulators Cr: (BixSb1-x)2Te3 on a GaAs (111) substrate through coherently strained interface**|Yuxing Ren et.al.|[2403.07864v1](http://arxiv.org/abs/2403.07864v1)|null|
 |**2024-03-12**|**Discovery of a Magnetic Topological Semimetal Eu $_3$In$_2$As$_4$ with a Single Pair of Weyl Points**|Ke Jia et.al.|[2403.07637v1](http://arxiv.org/abs/2403.07637v1)|null|
