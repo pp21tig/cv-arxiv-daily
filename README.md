@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Replica Field Theory for a Generalized Franz--Parisi Potential of Inhomogeneous Glassy Systems: New Closure and the Associated Self-Consistent Equation**|Hiroshi Frusawa et.al.|[2403.11720v1](http://arxiv.org/abs/2403.11720v1)|null|
+|**2024-03-18**|**Memory formation in dense persistent active matter**|Elisabeth Agoritsas et.al.|[2403.11701v1](http://arxiv.org/abs/2403.11701v1)|null|
+|**2024-03-18**|**Investigation of magnetic order influenced phonon and electron dynamics in MnBi $_{2}$Te$_{4}$ and Sb doped MnBi$_{2}$Te$_{4}$ through terahertz time-domain spectroscopy**|Soumya Mukherjee et.al.|[2403.11580v1](http://arxiv.org/abs/2403.11580v1)|null|
+|**2024-03-18**|**The effect of Coulomb assisted hopping on STM signal: extended two site Hubbard model analysis**|Garry Goldstein et.al.|[2403.11566v1](http://arxiv.org/abs/2403.11566v1)|null|
+|**2024-03-18**|**Cloaking Transition of Droplets on Lubricated Brushes**|Rodrique G. M. Badr et.al.|[2403.11398v1](http://arxiv.org/abs/2403.11398v1)|null|
+|**2024-03-17**|**Droplet impact on van der Waals and non-van der Waals liquid-impregnated surface**|Shubham Ganar et.al.|[2403.11321v1](http://arxiv.org/abs/2403.11321v1)|null|
+|**2024-03-17**|**Flipping Out: Role of Arginine in Hydrophobic Polymer Collapse**|Jonathan W. P. Zajac et.al.|[2403.11305v1](http://arxiv.org/abs/2403.11305v1)|null|
+|**2024-03-17**|**Cytoplasmic Viscosity is a Potential Biomarker for Metastatic Breast Cancer Cells**|Marie Dessard et.al.|[2403.11250v1](http://arxiv.org/abs/2403.11250v1)|null|
+|**2024-03-17**|**Reduced model and nonlinear analysis of localized instabilities of residually stressed cylinders under axial stretch**|Yang Liu et.al.|[2403.11215v1](http://arxiv.org/abs/2403.11215v1)|null|
+|**2024-03-17**|**Modified Steinberg-Guinan elasticity model to describe softening-hardening dual anomaly in vanadium**|Hao Wang et.al.|[2403.11179v1](http://arxiv.org/abs/2403.11179v1)|null|
+|**2024-03-17**|**Emergent Haldane Model and Photon-Valley Locking in Chiral Cavities**|Liu Yang et.al.|[2403.11063v1](http://arxiv.org/abs/2403.11063v1)|null|
+|**2024-03-17**|**High order nonlinear electrophoresis in a nematic liquid crystal**|Mojtaba Rajabi et.al.|[2403.11049v1](http://arxiv.org/abs/2403.11049v1)|null|
+|**2024-03-16**|**Tangential diffusion and motility-induced mixing transition in exponentially growing multicellular spheroids**|Torben Sunkel et.al.|[2403.11002v1](http://arxiv.org/abs/2403.11002v1)|null|
+|**2024-03-16**|**Splay-bend elastic inequalities shape tactoids, toroids, umbilics, and conic section walls in paraelectric, twist-bend, and ferroelectric nematics**|Oleg D. Lavrentovich et.al.|[2403.10972v1](http://arxiv.org/abs/2403.10972v1)|null|
+|**2024-03-16**|**Liquid-Liquid Crossover in Water Model: Local Structure vs. Kinetics of Hydrogen Bonds**|Anatolii V. Mokshin et.al.|[2403.10928v1](http://arxiv.org/abs/2403.10928v1)|null|
+|**2024-03-16**|**A simple and accurate method to determine fluid-crystal phase boundaries from direct coexistence simulations**|Frank Smallenburg et.al.|[2403.10891v1](http://arxiv.org/abs/2403.10891v1)|null|
+|**2024-03-15**|**Irreversible dynamics of a continuum driven by active matter**|John C. Neu et.al.|[2403.10728v1](http://arxiv.org/abs/2403.10728v1)|null|
+|**2024-03-15**|**Bifurcations of inflating balloons and interacting hysterons**|Gentian Muhaxheri et.al.|[2403.10721v1](http://arxiv.org/abs/2403.10721v1)|null|
+|**2024-03-15**|**Multiphase Field Model of Cells on a Substrate**|Michael Chiang et.al.|[2403.10715v1](http://arxiv.org/abs/2403.10715v1)|null|
+|**2024-03-15**|**Measuring Colloidomer Hydrodynamics with Holographic Video Microscopy**|Jatin Abacousnac et.al.|[2403.10649v1](http://arxiv.org/abs/2403.10649v1)|null|
 |**2024-03-15**|**Active transport of a passive colloid in a bath of run-and-tumble particles**|Tanumoy Dhar et.al.|[2403.10508v1](http://arxiv.org/abs/2403.10508v1)|null|
 |**2024-03-15**|**Temporal Twistronics**|Grigorii Ptitcyn et.al.|[2403.10477v1](http://arxiv.org/abs/2403.10477v1)|null|
 |**2024-03-15**|**Quantum Synchronization in Nonconservative Electrical Circuits with Kirchhoff-Heisenberg Equations**|Matteo Mariantoni et.al.|[2403.10474v1](http://arxiv.org/abs/2403.10474v1)|null|
@@ -5380,6 +5400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Current-induced magnon trapping in spin torque oscillation**|Takahiko Makiuchi et.al.|[2403.11618v1](http://arxiv.org/abs/2403.11618v1)|null|
 |**2024-03-12**|**An asymptotic Grad-Shafranov equation for quasisymmetric stellarators**|Nikita Nikulsin et.al.|[2403.08022v1](http://arxiv.org/abs/2403.08022v1)|null|
 |**2024-03-11**|**Viscous current-induced forces**|Vladimir U. Nazarov et.al.|[2403.07081v1](http://arxiv.org/abs/2403.07081v1)|null|
 |**2024-03-07**|**The magnetic structure of Ce $_3$TiBi$_5$ and its relation to current-induced magnetization**|Nicolas Gauthier et.al.|[2403.04896v1](http://arxiv.org/abs/2403.04896v1)|null|
