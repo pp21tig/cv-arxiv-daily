@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**|Elijah D. S. Courtney et.al.|[2403.12901v1](http://arxiv.org/abs/2403.12901v1)|null|
+|**2024-03-19**|**Higher Derivative Muffin Tin Orbitals (HDMTO) and Higher Derivative Koringa Khon and Rostoker (HDKKR) methods**|Garry Goldstein et.al.|[2403.12846v1](http://arxiv.org/abs/2403.12846v1)|null|
+|**2024-03-19**|**Dynamic Density Functional Theory with Inertia and Background Flow**|Rory D. Mills-Williams et.al.|[2403.12765v1](http://arxiv.org/abs/2403.12765v1)|null|
+|**2024-03-19**|**Fast event-driven simulations for soft spheres: from dynamics to Laves phase nucleation**|Antoine Castagnède et.al.|[2403.12755v1](http://arxiv.org/abs/2403.12755v1)|null|
+|**2024-03-19**|**Unraveling the dynamics of magnetization in topological insulator-ferromagnet heterostructures via spin-orbit torque**|Taekoo Oh et.al.|[2403.12701v1](http://arxiv.org/abs/2403.12701v1)|null|
+|**2024-03-19**|**Diffusion, viscosity and linear rheology of valence-limited disordered fluids**|Samuel S. Gomez et.al.|[2403.12665v1](http://arxiv.org/abs/2403.12665v1)|null|
+|**2024-03-19**|**Water Aging Effects on Graphene Nanoplatelets and Multi-walled Carbon Nanotube Reinforced Epoxy Glass Fiber Nanocomposites**|Madhu B. M. et.al.|[2403.12654v1](http://arxiv.org/abs/2403.12654v1)|null|
+|**2024-03-19**|**Quantum Monte Carlo study of thin parahydrogen films on graphite**|Jieru Hu et.al.|[2403.12637v1](http://arxiv.org/abs/2403.12637v1)|null|
+|**2024-03-19**|**Surfactant-laden liquid thread breakup driven by thermal fluctuations**|L. H. Carnevale et.al.|[2403.12614v1](http://arxiv.org/abs/2403.12614v1)|null|
+|**2024-03-19**|**Effects of forward disorder on quasi-1D superconductors**|Giacomo Morpurgo et.al.|[2403.12597v1](http://arxiv.org/abs/2403.12597v1)|null|
+|**2024-03-19**|**Discrepancies in dynamic yield stress measurements of cement pastes**|Subhransu Dhar et.al.|[2403.12593v1](http://arxiv.org/abs/2403.12593v1)|null|
+|**2024-03-19**|**Recent advances in the theory of the BCS-BEC crossover for fermionic superfluidity**|Giancarlo Calvanese Strinati et.al.|[2403.12515v1](http://arxiv.org/abs/2403.12515v1)|null|
+|**2024-03-19**|**Multi-State, Ultra-thin, BEOL-Compatible AlScN Ferroelectric Diodes**|Kwan-Ho Kim et.al.|[2403.12361v1](http://arxiv.org/abs/2403.12361v1)|null|
+|**2024-03-18**|**Quantifying the efficiency of principal signal transmission modes in proteins**|Anil Kumar Sahoo et.al.|[2403.12312v1](http://arxiv.org/abs/2403.12312v1)|null|
+|**2024-03-18**|**On the interplay of liquid-like and stress-driven dynamics in a metallic glass former observed by temperature scanning XPCS**|Maximilian Frey et.al.|[2403.12306v1](http://arxiv.org/abs/2403.12306v1)|null|
+|**2024-03-18**|**Interfacing Quantum Spin Hall and Quantum Anomalous Hall insulators: Bi bilayer on MnBi $_2$Te$_4$ -family materials**|I. I. Klimovskikh et.al.|[2403.12287v1](http://arxiv.org/abs/2403.12287v1)|null|
+|**2024-03-18**|**Adsorbate Dissociation Due to Heteromolecular Electronic Energy Transfer from Fluorobenzene Thin Films**|E. T. Jensen et.al.|[2403.12277v1](http://arxiv.org/abs/2403.12277v1)|null|
+|**2024-03-18**|**Microscopic derivation of the thin film equation using the Mori-Zwanzig formalism**|Michael te Vrugt et.al.|[2403.12253v1](http://arxiv.org/abs/2403.12253v1)|null|
+|**2024-03-18**|**Phase field modelling of the detachment of bubbles from a solid substrate**|Carlos Uriarte et.al.|[2403.12246v1](http://arxiv.org/abs/2403.12246v1)|null|
+|**2024-03-18**|**High-throughput measurement of elastic moduli of microfibers by rope coiling**|Yuan Liu et.al.|[2403.12225v1](http://arxiv.org/abs/2403.12225v1)|null|
 |**2024-03-18**|**Replica Field Theory for a Generalized Franz--Parisi Potential of Inhomogeneous Glassy Systems: New Closure and the Associated Self-Consistent Equation**|Hiroshi Frusawa et.al.|[2403.11720v1](http://arxiv.org/abs/2403.11720v1)|null|
 |**2024-03-18**|**Memory formation in dense persistent active matter**|Elisabeth Agoritsas et.al.|[2403.11701v1](http://arxiv.org/abs/2403.11701v1)|null|
 |**2024-03-18**|**Investigation of magnetic order influenced phonon and electron dynamics in MnBi $_{2}$Te$_{4}$ and Sb doped MnBi$_{2}$Te$_{4}$ through terahertz time-domain spectroscopy**|Soumya Mukherjee et.al.|[2403.11580v1](http://arxiv.org/abs/2403.11580v1)|null|
@@ -5792,6 +5812,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Quantum Fischer information in a strange metal**|Federico Mazza et.al.|[2403.12779v1](http://arxiv.org/abs/2403.12779v1)|null|
 |**2024-03-14**|**Inelastic neutron scattering and muon spin relaxation investigations of the deuterated Kondo lattices CeNiSnD $_x$**|X. Y. Zheng et.al.|[2403.09424v1](http://arxiv.org/abs/2403.09424v1)|null|
 |**2024-03-13**|**Thermal Hall effect in a van der Waals ferromagnet CrI3**|Chunqiang Xu et.al.|[2403.08180v1](http://arxiv.org/abs/2403.08180v1)|null|
 |**2024-03-12**|**Characterizing the diffuse continuum excitations in the classical spin liquid $h$-YMnO$_3$**|Jakob Lass et.al.|[2403.07671v1](http://arxiv.org/abs/2403.07671v1)|null|
