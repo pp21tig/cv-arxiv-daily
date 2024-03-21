@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Surfactant-Driven Dynamic Changes in Rheology of Activated Carbon Slurry Electrodes**|Mohan Das et.al.|[2403.13782v1](http://arxiv.org/abs/2403.13782v1)|null|
+|**2024-03-20**|**Corner and Edge States in Topological Sierpinski Carpet Systems**|L. L. Lage et.al.|[2403.13774v1](http://arxiv.org/abs/2403.13774v1)|null|
+|**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772v1](http://arxiv.org/abs/2403.13772v1)|null|
+|**2024-03-20**|**Hydrodynamics of a disk in a thin film of weakly nematic fluid subject to linear friction**|Abdallah Daddi-Moussa-Ider et.al.|[2403.13755v1](http://arxiv.org/abs/2403.13755v1)|null|
+|**2024-03-20**|**Active Nematic Ratchet in Asymmetric Obstacle Arrays**|Cody D. Schimming et.al.|[2403.13733v1](http://arxiv.org/abs/2403.13733v1)|null|
+|**2024-03-20**|**New opportunities in condensed matter physics for nanoscale quantum sensors**|Jared Rovny et.al.|[2403.13710v1](http://arxiv.org/abs/2403.13710v1)|null|
+|**2024-03-20**|**Effective model of protein--mediated interactions in chromatin**|Francesco Borando et.al.|[2403.13569v1](http://arxiv.org/abs/2403.13569v1)|null|
+|**2024-03-20**|**Investigating model influence on the analytical resolution of neutron reflectometry**|Nicolas Shiaelis et.al.|[2403.13566v1](http://arxiv.org/abs/2403.13566v1)|null|
+|**2024-03-20**|**Molecular Dynamics Simulations of Microscopic Structural Transition and Macroscopic Mechanical Properties of Magnetic Gels**|Xuefeng Wei et.al.|[2403.13481v1](http://arxiv.org/abs/2403.13481v1)|null|
+|**2024-03-20**|**A Machine Learning Approach for Multiscale Modeling of the Facet Capsular Ligament**|Jacob S. Merson et.al.|[2403.13357v1](http://arxiv.org/abs/2403.13357v1)|null|
+|**2024-03-20**|**Thermal Hall effect driven by phonon-magnon hybridization in a honeycomb antiferromagnet**|Qingkai Meng et.al.|[2403.13306v1](http://arxiv.org/abs/2403.13306v1)|null|
+|**2024-03-20**|**All-magnonic repeater based on bistability**|Qi Wang et.al.|[2403.13276v1](http://arxiv.org/abs/2403.13276v1)|null|
+|**2024-03-20**|**Extended Spreading of Saline Droplets upon Impact on a Frosty Surface**|Hao Zeng et.al.|[2403.13229v1](http://arxiv.org/abs/2403.13229v1)|null|
+|**2024-03-19**|**The trimer paradox: the effect of stiff constraints on equilibrium distributions in overdamped dynamics**|Radost Waszkiewicz et.al.|[2403.13185v1](http://arxiv.org/abs/2403.13185v1)|null|
+|**2024-03-19**|**Escape into the Third Dimension in Cholesteric Liquid Crystals**|Joseph Pollard et.al.|[2403.13152v1](http://arxiv.org/abs/2403.13152v1)|null|
+|**2024-03-19**|**A detailed field theory for RNA-like molecules with periodic base sequence**|Richard Dengler et.al.|[2403.13100v1](http://arxiv.org/abs/2403.13100v1)|null|
+|**2024-03-19**|**Signatures of metal to insulator crossover in the repulsive Fermi Hubbard model through static correlations**|Sayantan Roy et.al.|[2403.13054v1](http://arxiv.org/abs/2403.13054v1)|null|
 |**2024-03-19**|**Automated Tabletop Exfoliation and Identification of Monolayer Graphene Flakes**|Elijah D. S. Courtney et.al.|[2403.12901v1](http://arxiv.org/abs/2403.12901v1)|null|
 |**2024-03-19**|**Higher Derivative Muffin Tin Orbitals (HDMTO) and Higher Derivative Koringa Khon and Rostoker (HDKKR) methods**|Garry Goldstein et.al.|[2403.12846v1](http://arxiv.org/abs/2403.12846v1)|null|
 |**2024-03-19**|**Dynamic Density Functional Theory with Inertia and Background Flow**|Rory D. Mills-Williams et.al.|[2403.12765v1](http://arxiv.org/abs/2403.12765v1)|null|
@@ -5363,6 +5380,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Ultrafast pseudomagnetic fields from electron-nuclear quantum geometry**|Lennart Klebl et.al.|[2403.13070v1](http://arxiv.org/abs/2403.13070v1)|null|
 |**2023-11-27**|**Avalanche terahertz photon detection in a Rydberg tweezer array**|Chris Nill et.al.|[2311.16365v1](http://arxiv.org/abs/2311.16365v1)|null|
 |**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286v1](http://arxiv.org/abs/2311.10286v1)|null|
 |**2023-09-12**|**Anharmonic coherent dynamics of the soft phonon mode of a PbTe crystal**|A. A. Melnikov et.al.|[2309.06549v1](http://arxiv.org/abs/2309.06549v1)|null|
@@ -5586,6 +5604,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Tailoring Physical Properties of Crystals through Synthetic Temperature Control: A Case Study for new Polymorphic NbFeTe2 phases**|Hanlin Wu et.al.|[2403.13596v1](http://arxiv.org/abs/2403.13596v1)|null|
 |**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924v1](http://arxiv.org/abs/2403.09924v1)|null|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873v1](http://arxiv.org/abs/2403.07873v1)|null|
 |**2024-03-12**|**Unraveling the nature of quasi van der Waals Epitaxy of magnetic topological insulators Cr: (BixSb1-x)2Te3 on a GaAs (111) substrate through coherently strained interface**|Yuxing Ren et.al.|[2403.07864v1](http://arxiv.org/abs/2403.07864v1)|null|
