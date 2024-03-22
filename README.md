@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Healing Regimes for Microscopic Wounds in the Vertex Model of Cell Tissues**|R. F. Almada et.al.|[2403.14501v1](http://arxiv.org/abs/2403.14501v1)|null|
+|**2024-03-21**|**Tilt or twist-competing synclinic and anticlinic interactions in SmC phases of bent-core mesogens**|Jiří Svoboda et.al.|[2403.14498v1](http://arxiv.org/abs/2403.14498v1)|null|
+|**2024-03-21**|**A two-dimensional vertex model for curvy cell-cell interfaces at the subcellular scale**|Kyungeun Kim et.al.|[2403.14417v1](http://arxiv.org/abs/2403.14417v1)|null|
+|**2024-03-21**|**Temperature dependence of micelle shape transitions in copolymer solutions: the role of inter-block incompatibility**|M. J. Greenall et.al.|[2403.14367v1](http://arxiv.org/abs/2403.14367v1)|null|
+|**2024-03-21**|**Developments in quasihydrodynamics**|Luca Martinoia et.al.|[2403.14254v1](http://arxiv.org/abs/2403.14254v1)|null|
+|**2024-03-21**|**Triboelectrically mediated self-assembly and manipulation of drops at an interface**|Paul R. Kaneelil et.al.|[2403.14055v1](http://arxiv.org/abs/2403.14055v1)|null|
+|**2024-03-20**|**Hybridization induced triplet superconductivity with $S^z=0$**|Edine Silva et.al.|[2403.14012v1](http://arxiv.org/abs/2403.14012v1)|null|
+|**2024-03-20**|**Complex Dynamics of an Acoustically Levitated Fluid Droplet Captured by a Low-Order Immersed Boundary Method**|Jacqueline B. Sustiel et.al.|[2403.13943v1](http://arxiv.org/abs/2403.13943v1)|null|
+|**2024-03-20**|**Noise-induced shallow circuits and absence of barren plateaus**|Antonio Anna Mele et.al.|[2403.13927v1](http://arxiv.org/abs/2403.13927v1)|null|
 |**2024-03-20**|**Surfactant-Driven Dynamic Changes in Rheology of Activated Carbon Slurry Electrodes**|Mohan Das et.al.|[2403.13782v1](http://arxiv.org/abs/2403.13782v1)|null|
 |**2024-03-20**|**Corner and Edge States in Topological Sierpinski Carpet Systems**|L. L. Lage et.al.|[2403.13774v1](http://arxiv.org/abs/2403.13774v1)|null|
 |**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772v1](http://arxiv.org/abs/2403.13772v1)|null|
@@ -5172,6 +5181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**$^{13}$ C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v1](http://arxiv.org/abs/2403.14521v1)|null|
 |**2024-03-15**|**Spin and Orbital Magnetism by Light in Rutile Altermagnets**|T. Adamantopoulos et.al.|[2403.10235v1](http://arxiv.org/abs/2403.10235v1)|null|
 |**2024-03-15**|**Anisotropic magneto-photothermal voltage in Sb2Te3 topological insulator thin films**|Subhadip Manna et.al.|[2403.10141v1](http://arxiv.org/abs/2403.10141v1)|null|
 |**2024-03-14**|**Classical and quantum light-induced non-adiabaticity in molecular systems**|Csaba Fábri et.al.|[2403.09897v1](http://arxiv.org/abs/2403.09897v1)|null|
@@ -5827,6 +5837,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Anomalous Neutron Nuclear-Magnetic Interference Spectroscopy**|Chuliang Fu et.al.|[2403.13990v1](http://arxiv.org/abs/2403.13990v1)|null|
 |**2024-03-19**|**Quantum Fischer information in a strange metal**|Federico Mazza et.al.|[2403.12779v1](http://arxiv.org/abs/2403.12779v1)|null|
 |**2024-03-14**|**Inelastic neutron scattering and muon spin relaxation investigations of the deuterated Kondo lattices CeNiSnD $_x$**|X. Y. Zheng et.al.|[2403.09424v1](http://arxiv.org/abs/2403.09424v1)|null|
 |**2024-03-13**|**Thermal Hall effect in a van der Waals ferromagnet CrI3**|Chunqiang Xu et.al.|[2403.08180v1](http://arxiv.org/abs/2403.08180v1)|null|
