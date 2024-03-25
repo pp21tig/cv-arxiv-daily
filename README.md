@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Inverse Design of Crystals and Quasicrystals in a Non-Additive Binary Mixture of Hard Disks**|Edwin A. Bedolla-Montiel et.al.|[2403.15277v1](http://arxiv.org/abs/2403.15277v1)|null|
+|**2024-03-22**|**Single-layer of Bi $_{1-x}$Sb$_x$ grown on Ag(111)**|Javier D. Fuhr et.al.|[2403.15242v1](http://arxiv.org/abs/2403.15242v1)|null|
+|**2024-03-22**|**Uncovering Bound States in the Continuum in InSb nanowire networks**|D. Martínez et.al.|[2403.15070v1](http://arxiv.org/abs/2403.15070v1)|null|
+|**2024-03-22**|**Growth of membranes formed by associating polymers at interfaces**|Elena N. Govorun et.al.|[2403.15041v1](http://arxiv.org/abs/2403.15041v1)|null|
+|**2024-03-22**|**Learning Neural Free-Energy Functionals with Pair-Correlation Matching**|Jacobus Dijkman et.al.|[2403.15007v1](http://arxiv.org/abs/2403.15007v1)|null|
+|**2024-03-22**|**Rheo-SINDy: Finding a Constitutive Model from Rheological Data for Complex Fluids Using Sparse Identification for Nonlinear Dynamics**|Takeshi Sato et.al.|[2403.14980v1](http://arxiv.org/abs/2403.14980v1)|null|
+|**2024-03-22**|**A numerical framework for phoretic particles**|Zhe Gou et.al.|[2403.14930v1](http://arxiv.org/abs/2403.14930v1)|null|
+|**2024-03-22**|**Doped stabilizer states in many-body physics and where to find them**|Andi Gu et.al.|[2403.14912v1](http://arxiv.org/abs/2403.14912v1)|null|
+|**2024-03-21**|**Description of CuInP $_{2}$S$_{6}$ ferrielectrics in a mixed Ising model**|R. Yevych et.al.|[2403.14857v1](http://arxiv.org/abs/2403.14857v1)|null|
+|**2024-03-21**|**Toward a realistic model of multilayered bacterial colonies**|M. T. Khan et.al.|[2403.14855v1](http://arxiv.org/abs/2403.14855v1)|null|
+|**2024-03-21**|**Active microrheology of fluids with orientational order**|J. S. Lintuvuori et.al.|[2403.14850v1](http://arxiv.org/abs/2403.14850v1)|null|
+|**2024-03-21**|**Revisiting the wetting behavior of solid surfaces by water-like models within a density functional theory**|A. Kozina et.al.|[2403.14825v1](http://arxiv.org/abs/2403.14825v1)|null|
+|**2024-03-21**|**Shape changes of a single hairy particle with mobile ligands at a liquid-liquid interface**|T. Staszewski et.al.|[2403.14823v1](http://arxiv.org/abs/2403.14823v1)|null|
+|**2024-03-21**|**Effects of charge and size on the coadsorption of counterionic colloids in Gibbs monolayers**|J. M. Gómez-Verdú et.al.|[2403.14819v1](http://arxiv.org/abs/2403.14819v1)|null|
+|**2024-03-21**|**Percolation connectivity in deposits obtained using competitive random sequential adsorption of binary disk mixtures**|N. I. Lebovka et.al.|[2403.14818v1](http://arxiv.org/abs/2403.14818v1)|null|
 |**2024-03-21**|**Healing Regimes for Microscopic Wounds in the Vertex Model of Cell Tissues**|R. F. Almada et.al.|[2403.14501v1](http://arxiv.org/abs/2403.14501v1)|null|
 |**2024-03-21**|**Tilt or twist-competing synclinic and anticlinic interactions in SmC phases of bent-core mesogens**|Jiří Svoboda et.al.|[2403.14498v1](http://arxiv.org/abs/2403.14498v1)|null|
 |**2024-03-21**|**A two-dimensional vertex model for curvy cell-cell interfaces at the subcellular scale**|Kyungeun Kim et.al.|[2403.14417v1](http://arxiv.org/abs/2403.14417v1)|null|
@@ -5837,6 +5852,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Transforming from Kitaev to Disguised Ising Chain: Application to CoNb $_2$O$_6$**|Derek Churchill et.al.|[2403.14754v1](http://arxiv.org/abs/2403.14754v1)|null|
 |**2024-03-20**|**Anomalous Neutron Nuclear-Magnetic Interference Spectroscopy**|Chuliang Fu et.al.|[2403.13990v1](http://arxiv.org/abs/2403.13990v1)|null|
 |**2024-03-19**|**Quantum Fischer information in a strange metal**|Federico Mazza et.al.|[2403.12779v1](http://arxiv.org/abs/2403.12779v1)|null|
 |**2024-03-14**|**Inelastic neutron scattering and muon spin relaxation investigations of the deuterated Kondo lattices CeNiSnD $_x$**|X. Y. Zheng et.al.|[2403.09424v1](http://arxiv.org/abs/2403.09424v1)|null|
