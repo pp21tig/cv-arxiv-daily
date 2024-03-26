@@ -1098,6 +1098,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Dimerizing hard spherocylinders in porous media**|V. I. Shmotolokha et.al.|[2403.16744v1](http://arxiv.org/abs/2403.16744v1)|null|
+|**2024-03-25**|**Phase separation dynamics in a symmetric binary mixture of ultrasoft particles**|Tanmay Biswas et.al.|[2403.16663v1](http://arxiv.org/abs/2403.16663v1)|null|
+|**2024-03-25**|**Vector Ising Spin Annealer for Minimizing Ising Hamiltonians**|James S. Cummins et.al.|[2403.16608v1](http://arxiv.org/abs/2403.16608v1)|null|
+|**2024-03-25**|**Finite size effects and optimization of the calculation of the surface tension in surfactant mixtures at liquid/vapour interfaces**|C. J. Guzman-Valencia et.al.|[2403.16604v1](http://arxiv.org/abs/2403.16604v1)|null|
+|**2024-03-25**|**Superadiabatic dynamical density functional theory for colloidal suspensions under homogeneous steady-shear**|S. M. Tschopp et.al.|[2403.16599v1](http://arxiv.org/abs/2403.16599v1)|null|
+|**2024-03-25**|**Universal properties of branched copolymers in dilute solutions**|K. Haydukivska et.al.|[2403.16598v1](http://arxiv.org/abs/2403.16598v1)|null|
+|**2024-03-24**|**Aggregate Frequency Width, Nuclear Hyperfine Coupling and Jahn-Teller Effect of $Cu^{2+}$ Impurity Ion ESR in $SrLaAlO_4$ Dielectric Resonator at $20$ Millikelvin**|M. A. Hosain et.al.|[2403.16315v1](http://arxiv.org/abs/2403.16315v1)|null|
+|**2024-03-24**|**Viscoelastic material properties determine contact mechanics of hydrogel spheres**|Chandan Shakya et.al.|[2403.16105v1](http://arxiv.org/abs/2403.16105v1)|null|
+|**2024-03-24**|**Quantum Field Theory of Electrons and Nuclei**|Ville J. Härkönen et.al.|[2403.16103v1](http://arxiv.org/abs/2403.16103v1)|null|
+|**2024-03-24**|**Shaping a Surface Microdroplet by Marangoni Forces along a Moving Contact Line of Four Immiscible Phases**|Haichang Yang et.al.|[2403.16019v1](http://arxiv.org/abs/2403.16019v1)|null|
+|**2024-03-24**|**Aperiodic approximants bridging quasicrystals and modulated structures**|Toranosuke Matsubara et.al.|[2403.16010v1](http://arxiv.org/abs/2403.16010v1)|null|
+|**2024-03-23**|**Multi-radius Soler-Williams Augmented Plane Waves (SAPMR) and multi-radius Soler-Williams Linearized Augmented Plane Waves (SLAPWMR)**|Garry Goldstein et.al.|[2403.15954v1](http://arxiv.org/abs/2403.15954v1)|null|
+|**2024-03-23**|**Intersubband polaritonic metasurfaces for high-contrast ultra-fast power limiting and optical switching**|Michele Cotrufo et.al.|[2403.15911v1](http://arxiv.org/abs/2403.15911v1)|null|
+|**2024-03-23**|**Cell-level modelling of homeostasis in confined epithelial monolayers**|KVS Chaithanya et.al.|[2403.15896v1](http://arxiv.org/abs/2403.15896v1)|null|
+|**2024-03-23**|**Tutorial: AI-assisted exploration and active design of polymers with high intrinsic thermal conductivity**|Xiang Huang et.al.|[2403.15887v1](http://arxiv.org/abs/2403.15887v1)|null|
+|**2024-03-23**|**An Anisotropic Constitutive Relationship by a Series of 8 Chain Models**|Libin Yang et.al.|[2403.15689v1](http://arxiv.org/abs/2403.15689v1)|null|
+|**2024-03-23**|**Magnetic parity violation and parity-time-reversal-symmetric magnets**|Hikaru Watanabe et.al.|[2403.15680v1](http://arxiv.org/abs/2403.15680v1)|null|
+|**2024-03-22**|**Axion-like Interactions and CFT in Topological Matter, Anomaly Sum Rules and the Faraday Effect**|Claudio Corianò et.al.|[2403.15641v1](http://arxiv.org/abs/2403.15641v1)|null|
+|**2024-03-22**|**Integrated workflows and interfaces for data-driven semi-empirical electronic structure calculations**|Pavel Stishenko et.al.|[2403.15625v1](http://arxiv.org/abs/2403.15625v1)|null|
 |**2024-03-22**|**Inverse Design of Crystals and Quasicrystals in a Non-Additive Binary Mixture of Hard Disks**|Edwin A. Bedolla-Montiel et.al.|[2403.15277v1](http://arxiv.org/abs/2403.15277v1)|null|
 |**2024-03-22**|**Single-layer of Bi $_{1-x}$Sb$_x$ grown on Ag(111)**|Javier D. Fuhr et.al.|[2403.15242v1](http://arxiv.org/abs/2403.15242v1)|null|
 |**2024-03-22**|**Uncovering Bound States in the Continuum in InSb nanowire networks**|D. Martínez et.al.|[2403.15070v1](http://arxiv.org/abs/2403.15070v1)|null|
@@ -5196,7 +5215,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-21**|**$^{13}$ C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v1](http://arxiv.org/abs/2403.14521v1)|null|
+|**2024-03-24**|**$^{13}$ C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v2](http://arxiv.org/abs/2403.14521v2)|null|
 |**2024-03-15**|**Spin and Orbital Magnetism by Light in Rutile Altermagnets**|T. Adamantopoulos et.al.|[2403.10235v1](http://arxiv.org/abs/2403.10235v1)|null|
 |**2024-03-15**|**Anisotropic magneto-photothermal voltage in Sb2Te3 topological insulator thin films**|Subhadip Manna et.al.|[2403.10141v1](http://arxiv.org/abs/2403.10141v1)|null|
 |**2024-03-14**|**Classical and quantum light-induced non-adiabaticity in molecular systems**|Csaba Fábri et.al.|[2403.09897v1](http://arxiv.org/abs/2403.09897v1)|null|
@@ -5463,6 +5482,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Electrically tunable, rapid spin-orbit torque induced modulation of colossal magnetoresistance in Mn $_3$Si$_2$Te$_6$ nanoflakes**|Cheng Tan et.al.|[2403.16684v1](http://arxiv.org/abs/2403.16684v1)|null|
+|**2024-03-23**|**Bilinear magnetoresistance in 2DEG with isotropic cubic Rashba spin-orbit interaction**|A. Krzyzewska et.al.|[2403.15817v1](http://arxiv.org/abs/2403.15817v1)|null|
+|**2024-03-22**|**Electrically Switchable Circular Photogalvanic Effect in Methylammonium Lead Iodide Microcrystals**|Yuqing Zhu et.al.|[2403.15611v1](http://arxiv.org/abs/2403.15611v1)|null|
 |**2024-03-18**|**Current-induced magnon trapping in spin torque oscillation**|Takahiko Makiuchi et.al.|[2403.11618v1](http://arxiv.org/abs/2403.11618v1)|null|
 |**2024-03-12**|**An asymptotic Grad-Shafranov equation for quasisymmetric stellarators**|Nikita Nikulsin et.al.|[2403.08022v1](http://arxiv.org/abs/2403.08022v1)|null|
 |**2024-03-11**|**Viscous current-induced forces**|Vladimir U. Nazarov et.al.|[2403.07081v1](http://arxiv.org/abs/2403.07081v1)|null|
@@ -5625,6 +5647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725v1](http://arxiv.org/abs/2403.16725v1)|null|
 |**2024-03-20**|**Tailoring Physical Properties of Crystals through Synthetic Temperature Control: A Case Study for new Polymorphic NbFeTe2 phases**|Hanlin Wu et.al.|[2403.13596v1](http://arxiv.org/abs/2403.13596v1)|null|
 |**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924v1](http://arxiv.org/abs/2403.09924v1)|null|
 |**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873v1](http://arxiv.org/abs/2403.07873v1)|null|
@@ -5852,6 +5875,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Illuminating Systematic Trends in Nuclear Data with Generative Machine Learning Models**|Jordan M. R. Fox et.al.|[2403.16389v1](http://arxiv.org/abs/2403.16389v1)|null|
 |**2024-03-21**|**Transforming from Kitaev to Disguised Ising Chain: Application to CoNb $_2$O$_6$**|Derek Churchill et.al.|[2403.14754v1](http://arxiv.org/abs/2403.14754v1)|null|
 |**2024-03-20**|**Anomalous Neutron Nuclear-Magnetic Interference Spectroscopy**|Chuliang Fu et.al.|[2403.13990v1](http://arxiv.org/abs/2403.13990v1)|null|
 |**2024-03-19**|**Quantum Fischer information in a strange metal**|Federico Mazza et.al.|[2403.12779v1](http://arxiv.org/abs/2403.12779v1)|null|
