@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Facet formation in slow three-dimensional fracture**|Yuri Lubomirsky et.al.|[2403.17781v1](http://arxiv.org/abs/2403.17781v1)|null|
+|**2024-03-26**|**Active drive towards elastic spinodals**|Ayan Roychowdhury et.al.|[2403.17517v1](http://arxiv.org/abs/2403.17517v1)|null|
+|**2024-03-26**|**Mesoscale Polymer Arrays: High Aspect Ratio Surface Structures and Their Digital Reconstruction**|Demi E. Moed et.al.|[2403.17283v1](http://arxiv.org/abs/2403.17283v1)|null|
+|**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268v1](http://arxiv.org/abs/2403.17268v1)|null|
+|**2024-03-25**|**Observation of polarization density waves in SrTiO3**|Gal Orenstein et.al.|[2403.17203v1](http://arxiv.org/abs/2403.17203v1)|null|
+|**2024-03-25**|**On the Lattice Ground State of Densely Packed Hard Ellipses**|Susanne Wagner et.al.|[2403.17194v1](http://arxiv.org/abs/2403.17194v1)|null|
+|**2024-03-25**|**Layer-selective spin-orbit coupling and strong correlation in bilayer graphene**|Anna M. Seiler et.al.|[2403.17140v1](http://arxiv.org/abs/2403.17140v1)|null|
+|**2024-03-25**|**A Brief Survey of Fluctuation-induced Interactions in Micro- and Nano-systems and One Exactly Solvable Model as Example**|Daniel Dantchev et.al.|[2403.17109v1](http://arxiv.org/abs/2403.17109v1)|null|
+|**2024-03-25**|**Geometric Thermodynamics of Collapse of Gels**|Asif Raza et.al.|[2403.16991v1](http://arxiv.org/abs/2403.16991v1)|null|
+|**2024-03-25**|**Role of Fragility of the Glass Formers in the Yielding Transition under Oscillatory Shear**|Roni Chatterjee et.al.|[2403.16972v1](http://arxiv.org/abs/2403.16972v1)|null|
+|**2024-03-25**|**Biased ensembles of pulsating active matter**|William D. Piñeros et.al.|[2403.16961v1](http://arxiv.org/abs/2403.16961v1)|null|
+|**2024-03-25**|**Embedded skyrmion bags in thin films of chiral magnets**|Luyan Yang et.al.|[2403.16931v1](http://arxiv.org/abs/2403.16931v1)|null|
+|**2024-03-25**|**Nonlinear spontaneous flow instability in active nematics**|Ido Lavi et.al.|[2403.16841v1](http://arxiv.org/abs/2403.16841v1)|null|
 |**2024-03-25**|**Enhanced extracellular matrix remodeling due to embedded spheroid fluidization**|Tao Zhang et.al.|[2403.16784v1](http://arxiv.org/abs/2403.16784v1)|null|
 |**2024-03-25**|**Chemical homogenization for non-mixing reactive interfaces in porous media**|Winston Lindqwister et.al.|[2403.16770v1](http://arxiv.org/abs/2403.16770v1)|null|
 |**2024-03-25**|**Dimerizing hard spherocylinders in porous media**|V. I. Shmotolokha et.al.|[2403.16744v1](http://arxiv.org/abs/2403.16744v1)|null|
@@ -5217,6 +5230,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Vortex nucleations in spinor Bose condensates under localized synthetic magnetic fields**|L. -R. Liu et.al.|[2403.17403v1](http://arxiv.org/abs/2403.17403v1)|null|
 |**2024-03-24**|**$^{13}$ C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v2](http://arxiv.org/abs/2403.14521v2)|null|
 |**2024-03-15**|**Spin and Orbital Magnetism by Light in Rutile Altermagnets**|T. Adamantopoulos et.al.|[2403.10235v1](http://arxiv.org/abs/2403.10235v1)|null|
 |**2024-03-15**|**Anisotropic magneto-photothermal voltage in Sb2Te3 topological insulator thin films**|Subhadip Manna et.al.|[2403.10141v1](http://arxiv.org/abs/2403.10141v1)|null|
