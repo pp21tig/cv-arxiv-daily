@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Structure and thermodynamics of supported lipid membranes on hydrophobic van der Waals surfaces**|H. Read et.al.|[2403.18786v1](http://arxiv.org/abs/2403.18786v1)|null|
+|**2024-03-27**|**Anomalous friction of supercooled glycerol on mica**|Mathieu Lizée et.al.|[2403.18693v1](http://arxiv.org/abs/2403.18693v1)|null|
+|**2024-03-27**|**Exploring the Berezinskii-Kosterlitz-Thouless Transition in a Two-dimensional Dipolar Bose Gas**|Yifei He et.al.|[2403.18683v1](http://arxiv.org/abs/2403.18683v1)|null|
+|**2024-03-27**|**Aftershocks as a time independant phenomenon**|A. Mathey et.al.|[2403.18672v1](http://arxiv.org/abs/2403.18672v1)|null|
+|**2024-03-27**|**Erosion rate of lunar soil under a landing rocket, part 1: identifying the rate-limiting physics**|Philip Metzger et.al.|[2403.18583v1](http://arxiv.org/abs/2403.18583v1)|null|
+|**2024-03-27**|**Shear-induced diffusivity in supercooled liquids**|Mangesh Bhendale et.al.|[2403.18412v1](http://arxiv.org/abs/2403.18412v1)|null|
+|**2024-03-27**|**Bulk condensation by an active interface**|Raushan Kant et.al.|[2403.18329v1](http://arxiv.org/abs/2403.18329v1)|null|
+|**2024-03-27**|**Phonons in stringlet-land and the boson peak**|Cunyuan Jiang et.al.|[2403.18221v1](http://arxiv.org/abs/2403.18221v1)|null|
+|**2024-03-26**|**Helical Ribbons: Simple Chiral Sedimentation**|Elias Huseby et.al.|[2403.18157v1](http://arxiv.org/abs/2403.18157v1)|null|
+|**2024-03-26**|**An analytic method for quadratic polarons in non-parabolic bands**|Serghei N. Klimin et.al.|[2403.18019v1](http://arxiv.org/abs/2403.18019v1)|null|
 |**2024-03-26**|**Facet formation in slow three-dimensional fracture**|Yuri Lubomirsky et.al.|[2403.17781v1](http://arxiv.org/abs/2403.17781v1)|null|
 |**2024-03-26**|**Active drive towards elastic spinodals**|Ayan Roychowdhury et.al.|[2403.17517v1](http://arxiv.org/abs/2403.17517v1)|null|
 |**2024-03-26**|**Mesoscale Polymer Arrays: High Aspect Ratio Surface Structures and Their Digital Reconstruction**|Demi E. Moed et.al.|[2403.17283v1](http://arxiv.org/abs/2403.17283v1)|null|
@@ -5230,6 +5240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Anomalous terahertz photoconductivity caused by the superballistic flow of hydrodynamic electrons in graphene**|M. Kravtsov et.al.|[2403.18492v1](http://arxiv.org/abs/2403.18492v1)|null|
 |**2024-03-26**|**Vortex nucleations in spinor Bose condensates under localized synthetic magnetic fields**|L. -R. Liu et.al.|[2403.17403v1](http://arxiv.org/abs/2403.17403v1)|null|
 |**2024-03-24**|**$^{13}$ C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v2](http://arxiv.org/abs/2403.14521v2)|null|
 |**2024-03-15**|**Spin and Orbital Magnetism by Light in Rutile Altermagnets**|T. Adamantopoulos et.al.|[2403.10235v1](http://arxiv.org/abs/2403.10235v1)|null|
@@ -5498,6 +5509,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|null|
 |**2024-03-25**|**Electrically tunable, rapid spin-orbit torque induced modulation of colossal magnetoresistance in Mn $_3$Si$_2$Te$_6$ nanoflakes**|Cheng Tan et.al.|[2403.16684v1](http://arxiv.org/abs/2403.16684v1)|null|
 |**2024-03-23**|**Bilinear magnetoresistance in 2DEG with isotropic cubic Rashba spin-orbit interaction**|A. Krzyzewska et.al.|[2403.15817v1](http://arxiv.org/abs/2403.15817v1)|null|
 |**2024-03-22**|**Electrically Switchable Circular Photogalvanic Effect in Methylammonium Lead Iodide Microcrystals**|Yuqing Zhu et.al.|[2403.15611v1](http://arxiv.org/abs/2403.15611v1)|null|
