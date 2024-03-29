@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Ultrafast exciton transport in van der Waals heterostructures**|M. M. Glazov et.al.|[2403.19571v1](http://arxiv.org/abs/2403.19571v1)|null|
+|**2024-03-28**|**Impact of Resin Molecular Weight on Drying Kinetics and Sag of Coatings**|Marola W. Issa et.al.|[2403.19544v1](http://arxiv.org/abs/2403.19544v1)|null|
+|**2024-03-28**|**Symmetry-guided inverse design of self-assembling multiscale DNA origami tilings**|Daichi Hayakawa et.al.|[2403.19518v1](http://arxiv.org/abs/2403.19518v1)|null|
+|**2024-03-28**|**Dynamic interaction between chiral currents and surface waves in topological superfluids: a pathway to detect Majorana fermions?**|S. Forstner et.al.|[2403.19469v1](http://arxiv.org/abs/2403.19469v1)|null|
+|**2024-03-28**|**Memory signatures in path curvature of self-avoidant model particles are revealed by time delayed self mutual information**|Katherine Daftari et.al.|[2403.19393v1](http://arxiv.org/abs/2403.19393v1)|null|
+|**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382v1](http://arxiv.org/abs/2403.19382v1)|null|
+|**2024-03-28**|**Non-reciprocal alignment induces asymmetric clustering in active repulsive mixtures**|Kim L. Kreienkamp et.al.|[2403.19291v1](http://arxiv.org/abs/2403.19291v1)|null|
+|**2024-03-28**|**Capillary-lubrication force between rotating cylinders separated by a fluid interface**|Aditya Jha et.al.|[2403.19241v1](http://arxiv.org/abs/2403.19241v1)|null|
+|**2024-03-28**|**Glassy Dynamics in a Molecular Liquid**|Shubham Kumar et.al.|[2403.19141v1](http://arxiv.org/abs/2403.19141v1)|null|
+|**2024-03-27**|**Anyon braiding and telegraph noise in a graphene interferometer**|Thomas Werkmeister et.al.|[2403.18983v1](http://arxiv.org/abs/2403.18983v1)|null|
+|**2024-03-27**|**Granular gases under resetting**|Anna S. Bodrova et.al.|[2403.18974v1](http://arxiv.org/abs/2403.18974v1)|null|
+|**2024-03-27**|**Chirality-Induced Magnet-Free Spin Generation in a Semiconductor**|Tianhan Liu et.al.|[2403.18964v1](http://arxiv.org/abs/2403.18964v1)|null|
+|**2024-03-27**|**Topological indices in condensed matter**|Hermann Schulz-Baldes et.al.|[2403.18948v1](http://arxiv.org/abs/2403.18948v1)|null|
+|**2024-03-27**|**(2+1)D topological phases with RT symmetry: many-body invariant, classification, and higher order edge modes**|Ryohei Kobayashi et.al.|[2403.18887v1](http://arxiv.org/abs/2403.18887v1)|null|
 |**2024-03-27**|**Structure and thermodynamics of supported lipid membranes on hydrophobic van der Waals surfaces**|H. Read et.al.|[2403.18786v1](http://arxiv.org/abs/2403.18786v1)|null|
 |**2024-03-27**|**Anomalous friction of supercooled glycerol on mica**|Mathieu Lizée et.al.|[2403.18693v1](http://arxiv.org/abs/2403.18693v1)|null|
 |**2024-03-27**|**Exploring the Berezinskii-Kosterlitz-Thouless Transition in a Two-dimensional Dipolar Bose Gas**|Yifei He et.al.|[2403.18683v1](http://arxiv.org/abs/2403.18683v1)|null|
@@ -5244,6 +5258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597v1](http://arxiv.org/abs/2403.19597v1)|null|
 |**2024-03-27**|**Anomalous terahertz photoconductivity caused by the superballistic flow of hydrodynamic electrons in graphene**|M. Kravtsov et.al.|[2403.18492v1](http://arxiv.org/abs/2403.18492v1)|null|
 |**2024-03-26**|**Vortex nucleations in spinor Bose condensates under localized synthetic magnetic fields**|L. -R. Liu et.al.|[2403.17403v1](http://arxiv.org/abs/2403.17403v1)|null|
 |**2024-03-24**|**$^{13}$ C Hyperpolarization with Nitrogen-Vacancy Centers in Micro- and Nanodiamonds for Sensitive Magnetic Resonance Applications**|Rémi Blinder et.al.|[2403.14521v2](http://arxiv.org/abs/2403.14521v2)|null|
@@ -5513,6 +5528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Challenges in extracting nonlinear current-induced phenomena in Ca2RuO4**|Giordano Mattoni et.al.|[2403.19210v1](http://arxiv.org/abs/2403.19210v1)|null|
 |**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|null|
 |**2024-03-25**|**Electrically tunable, rapid spin-orbit torque induced modulation of colossal magnetoresistance in Mn $_3$Si$_2$Te$_6$ nanoflakes**|Cheng Tan et.al.|[2403.16684v1](http://arxiv.org/abs/2403.16684v1)|null|
 |**2024-03-23**|**Bilinear magnetoresistance in 2DEG with isotropic cubic Rashba spin-orbit interaction**|A. Krzyzewska et.al.|[2403.15817v1](http://arxiv.org/abs/2403.15817v1)|null|
@@ -5679,6 +5695,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581v1](http://arxiv.org/abs/2403.19581v1)|null|
+|**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233v1](http://arxiv.org/abs/2403.19233v1)|null|
 |**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725v1](http://arxiv.org/abs/2403.16725v1)|null|
 |**2024-03-20**|**Tailoring Physical Properties of Crystals through Synthetic Temperature Control: A Case Study for new Polymorphic NbFeTe2 phases**|Hanlin Wu et.al.|[2403.13596v1](http://arxiv.org/abs/2403.13596v1)|null|
 |**2024-03-14**|**Berry curvature derived negative magnetoconductivity observed in type-II magnetic Weyl semimetal films**|Ayano Nakamura et.al.|[2403.09924v1](http://arxiv.org/abs/2403.09924v1)|null|
