@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Immediate recapture in the trapping-detrapping process of a single charge carrier**|Aleksejus Kononovicius et.al.|[2403.20257v1](http://arxiv.org/abs/2403.20257v1)|null|
+|**2024-03-29**|**Confinement and magnetic field effect on chiral ferroelectric nematic in Grandjean-Cano wedge cells**|Kamal Thapa et.al.|[2403.20229v1](http://arxiv.org/abs/2403.20229v1)|null|
+|**2024-03-29**|**Crystallization morphology and self-assembly of polyacrylamide solutions during evaporation**|Jun Hu et.al.|[2403.20191v1](http://arxiv.org/abs/2403.20191v1)|null|
+|**2024-03-29**|**From cell intercalation to flow, the importance of T1 transitions**|Harish P. Jain et.al.|[2403.20100v1](http://arxiv.org/abs/2403.20100v1)|null|
+|**2024-03-29**|**Size-dependent fracture in elastomers: experiments and continuum modeling**|Jaehee Lee et.al.|[2403.19997v1](http://arxiv.org/abs/2403.19997v1)|null|
+|**2024-03-29**|**Ion-Mediated Structural Discontinuities in Phospholipid Vesicles**|Judith U. De Mel et.al.|[2403.19922v1](http://arxiv.org/abs/2403.19922v1)|null|
+|**2024-03-28**|**Bridging Microscopic Dynamics and Hydraulic Permeability in Mechanically-Deformed Nanoporous Materials**|Alexander Schlaich et.al.|[2403.19812v1](http://arxiv.org/abs/2403.19812v1)|null|
+|**2024-03-28**|**Synthetic Oil Gels With Organoclays In The Formulation Of Magnetorheological Fluids**|Jose Henrique Rodrigues da Rocha et.al.|[2403.19774v1](http://arxiv.org/abs/2403.19774v1)|null|
+|**2024-03-28**|**Multi-Messenger Astrology**|Gwen Walker et.al.|[2403.19749v1](http://arxiv.org/abs/2403.19749v1)|null|
 |**2024-03-28**|**Ultrafast exciton transport in van der Waals heterostructures**|M. M. Glazov et.al.|[2403.19571v1](http://arxiv.org/abs/2403.19571v1)|null|
 |**2024-03-28**|**Impact of Resin Molecular Weight on Drying Kinetics and Sag of Coatings**|Marola W. Issa et.al.|[2403.19544v1](http://arxiv.org/abs/2403.19544v1)|null|
 |**2024-03-28**|**Symmetry-guided inverse design of self-assembling multiscale DNA origami tilings**|Daichi Hayakawa et.al.|[2403.19518v1](http://arxiv.org/abs/2403.19518v1)|null|
