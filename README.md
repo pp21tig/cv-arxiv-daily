@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Granular aqueous suspensions with controlled inter-particular friction and adhesion**|Lily Blaiset et.al.|[2404.02071v1](http://arxiv.org/abs/2404.02071v1)|null|
+|**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011v1](http://arxiv.org/abs/2404.02011v1)|null|
+|**2024-04-02**|**Isotropic to nematic transition in alcohol ferrofluids of barium hexaferrite nanoplatelets**|Patricija Hribar Boštjančič et.al.|[2404.01956v1](http://arxiv.org/abs/2404.01956v1)|null|
+|**2024-04-02**|**Simulation and time series analysis of responsive active Brownian particles (rABPs) with memory**|Maximilian Bailey et.al.|[2404.01944v1](http://arxiv.org/abs/2404.01944v1)|null|
+|**2024-04-02**|**Flow Of Information In a Mechanically Quenched Confined Flock**|Md. Samsuzzaman et.al.|[2404.01942v1](http://arxiv.org/abs/2404.01942v1)|null|
+|**2024-04-02**|**Integrated ultrafast all-optical polariton transistors**|Pietro Tassan et.al.|[2404.01868v1](http://arxiv.org/abs/2404.01868v1)|null|
+|**2024-04-02**|**Equilibrium and Non-Equilibrium Molecular Dynamics Simulation of Thermo-Osmosis: Enhanced Effects on Polarized Graphene Surfaces**|Mehdi Ouadfel et.al.|[2404.01708v1](http://arxiv.org/abs/2404.01708v1)|null|
+|**2024-04-02**|**Drop impact on wet granular beds: water-content effects on the cratering**|Wei Zhang et.al.|[2404.01631v1](http://arxiv.org/abs/2404.01631v1)|null|
+|**2024-04-01**|**Rugged potential of mean force and underscreening of polarizable colloids in concentrated electrolytes**|Emily Krucker-Velasquez et.al.|[2404.01512v1](http://arxiv.org/abs/2404.01512v1)|null|
+|**2024-04-01**|**Approach and rotation of reconnecting topological defect lines in liquid crystal**|Yohei Zushi et.al.|[2404.01480v1](http://arxiv.org/abs/2404.01480v1)|null|
+|**2024-04-01**|**Comment on "Brownian motion of droplets induced by thermal noise"**|J. B. Bell et.al.|[2404.01444v1](http://arxiv.org/abs/2404.01444v1)|null|
+|**2024-04-01**|**Giant and negative magnetoresistances in conical magnets**|Raz Rivlis et.al.|[2404.01401v1](http://arxiv.org/abs/2404.01401v1)|null|
+|**2024-04-01**|**Reversible-to-irreversible transition of colloidal polycrystals under cyclic athermal quasistatic deformation**|Khushika et.al.|[2404.01020v1](http://arxiv.org/abs/2404.01020v1)|null|
+|**2024-04-01**|**Study of Curved Domain-wall Fermions on a Lattice**|Shoto Aoki et.al.|[2404.01002v1](http://arxiv.org/abs/2404.01002v1)|null|
+|**2024-03-31**|**Interaction-driven breakdown of Aharonov--Bohm caging in flat-band Rydberg lattices**|Tao Chen et.al.|[2404.00737v1](http://arxiv.org/abs/2404.00737v1)|null|
+|**2024-03-31**|**Hidden-Rashba-driven Absence of Odd-integer Quantized States in an Oxide Quantum Hall System**|Jingyue Wang et.al.|[2404.00695v1](http://arxiv.org/abs/2404.00695v1)|null|
+|**2024-03-31**|**Harmonic chain driven by active Rubin bath: transport properties and steady-state correlations**|Ritwick Sarkar et.al.|[2404.00615v1](http://arxiv.org/abs/2404.00615v1)|null|
+|**2024-03-29**|**Flow dichroism of DNA can be quantitatively predicted via coarse-grained molecular simulations**|Isaac Pincus et.al.|[2404.00160v1](http://arxiv.org/abs/2404.00160v1)|null|
+|**2024-03-29**|**Machine learning classification of local environments in molecular crystals**|Daisuke Kuroshima et.al.|[2404.00155v1](http://arxiv.org/abs/2404.00155v1)|null|
+|**2024-03-29**|**Measurement of nonequilibrium vortex propagation dynamics in a nonlinear medium**|Patrick C. Ford et.al.|[2404.00148v1](http://arxiv.org/abs/2404.00148v1)|null|
 |**2024-03-29**|**Immediate recapture in the trapping-detrapping process of a single charge carrier**|Aleksejus Kononovicius et.al.|[2403.20257v1](http://arxiv.org/abs/2403.20257v1)|null|
 |**2024-03-29**|**Confinement and magnetic field effect on chiral ferroelectric nematic in Grandjean-Cano wedge cells**|Kamal Thapa et.al.|[2403.20229v1](http://arxiv.org/abs/2403.20229v1)|null|
 |**2024-03-29**|**Crystallization morphology and self-assembly of polyacrylamide solutions during evaporation**|Jun Hu et.al.|[2403.20191v1](http://arxiv.org/abs/2403.20191v1)|null|
@@ -5263,6 +5283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-31**|**Charge and spin current pumping by ultrafast demagnetization dynamics**|Jalil Varela-Manjarres et.al.|[2404.00779v1](http://arxiv.org/abs/2404.00779v1)|null|
 |**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597v1](http://arxiv.org/abs/2403.19597v1)|null|
 |**2024-03-29**|**Anomalous terahertz photoconductivity caused by the superballistic flow of hydrodynamic electrons in graphene**|M. Kravtsov et.al.|[2403.18492v2](http://arxiv.org/abs/2403.18492v2)|null|
 |**2024-03-26**|**Vortex nucleations in spinor Bose condensates under localized synthetic magnetic fields**|L. -R. Liu et.al.|[2403.17403v1](http://arxiv.org/abs/2403.17403v1)|null|
@@ -5533,6 +5554,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-01**|**Harnessing Interlayer Magnetic Coupling for Efficient, Field-Free Current-Induced Magnetization Switching in a Magnetic Insulator**|Leran Wang et.al.|[2404.00845v1](http://arxiv.org/abs/2404.00845v1)|null|
 |**2024-03-28**|**Challenges in extracting nonlinear current-induced phenomena in Ca2RuO4**|Giordano Mattoni et.al.|[2403.19210v1](http://arxiv.org/abs/2403.19210v1)|null|
 |**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|**[link](https://github.com/archisman-panigrahi/electronic-ordering-signature-resistance-codes)**|
 |**2024-03-25**|**Electrically tunable, rapid spin-orbit torque induced modulation of colossal magnetoresistance in Mn $_3$Si$_2$Te$_6$ nanoflakes**|Cheng Tan et.al.|[2403.16684v1](http://arxiv.org/abs/2403.16684v1)|null|
@@ -5700,6 +5722,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659v1](http://arxiv.org/abs/2404.00659v1)|null|
 |**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581v1](http://arxiv.org/abs/2403.19581v1)|null|
 |**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233v1](http://arxiv.org/abs/2403.19233v1)|null|
 |**2024-03-25**|**Skyrmionic device for three dimensional magnetic field sensing enabled by spin-orbit torques**|Sabri Koraltan et.al.|[2403.16725v1](http://arxiv.org/abs/2403.16725v1)|null|
@@ -5938,6 +5961,7 @@
 |**2024-03-13**|**Thermal Hall effect in a van der Waals ferromagnet CrI3**|Chunqiang Xu et.al.|[2403.08180v1](http://arxiv.org/abs/2403.08180v1)|null|
 |**2024-03-12**|**Characterizing the diffuse continuum excitations in the classical spin liquid $h$-YMnO$_3$**|Jakob Lass et.al.|[2403.07671v1](http://arxiv.org/abs/2403.07671v1)|null|
 |**2024-03-05**|**Anomalous continuum scattering and higher-order van Hove singularity in the strongly anisotropic S = 1/2 triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2403.03210v1](http://arxiv.org/abs/2403.03210v1)|null|
+|**2024-04-02**|**Amplified entanglement witnessed in a quantum critical metal**|Yuan Fang et.al.|[2402.18552v2](http://arxiv.org/abs/2402.18552v2)|null|
 |**2024-02-26**|**Thermal evolution of spin excitations in honeycomb Ising antiferromagnetic FePSe3**|Lebing Chen et.al.|[2402.16983v1](http://arxiv.org/abs/2402.16983v1)|null|
 |**2024-02-12**|**Continuum of magnetic excitations in the Kitaev honeycomb iridate D $_3$LiIr$_2$O$_6$**|Thomas Halloran et.al.|[2402.08083v1](http://arxiv.org/abs/2402.08083v1)|null|
 |**2024-02-12**|**Continuum of spin excitations in an ordered magnet**|Jieming Sheng et.al.|[2402.07730v1](http://arxiv.org/abs/2402.07730v1)|null|
