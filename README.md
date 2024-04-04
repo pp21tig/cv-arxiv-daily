@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Structural build-up at rest in the induction and acceleration periods of OPC**|Luca Michel et.al.|[2404.02850v1](http://arxiv.org/abs/2404.02850v1)|null|
+|**2024-04-03**|**Statistical Field Theory of Polarizable Polymer Chains with Nonlocal Dipolar Interactions**|Pratik Khandagale et.al.|[2404.02848v1](http://arxiv.org/abs/2404.02848v1)|null|
+|**2024-04-03**|**Anti-Coulomb interaction between charges in a dielectric medium**|Alec Wills et.al.|[2404.02824v1](http://arxiv.org/abs/2404.02824v1)|null|
+|**2024-04-03**|**Harnessing Orbital Hall Effect in Spin-Orbit Torque MRAM**|Rahul Gupta et.al.|[2404.02821v1](http://arxiv.org/abs/2404.02821v1)|null|
+|**2024-04-03**|**Floquet topological transitions in 2D Su-Schrieffer-Heeger model: interplay between time reversal symmetry breaking and dimerization**|Adrian Pena et.al.|[2404.02735v1](http://arxiv.org/abs/2404.02735v1)|null|
+|**2024-04-03**|**A Framework for a High Throughput Screening Method to Assess Polymer/Plasticizer Miscibility**|Lois Smith et.al.|[2404.02676v1](http://arxiv.org/abs/2404.02676v1)|null|
+|**2024-04-03**|**Entropic pulling and diffusion diode**|Mayank Sharma et.al.|[2404.02667v1](http://arxiv.org/abs/2404.02667v1)|null|
+|**2024-04-03**|**On a conjecture concerning the Fisher--Widom line and the line of vanishing excess isothermal compressibility in simple fluids**|Ana M. Montero et.al.|[2404.02520v1](http://arxiv.org/abs/2404.02520v1)|null|
+|**2024-04-03**|**Utilizing Quantum Processor for the Analysis of Strongly Correlated Materials**|Hengyue Li et.al.|[2404.02509v1](http://arxiv.org/abs/2404.02509v1)|null|
+|**2024-04-03**|**Bacterial cell death: Atomistic simulations reveal pore formation as a mode of action of structurally nano engineered star peptide polymers**|Amal Jayawardena et.al.|[2404.02501v1](http://arxiv.org/abs/2404.02501v1)|null|
+|**2024-04-03**|**A coarse-grained description of anharmonic lattice environments affecting the quantum dynamics of charge carriers**|Kuniyuki Miwa et.al.|[2404.02459v1](http://arxiv.org/abs/2404.02459v1)|null|
+|**2024-04-03**|**GMXPolymer: a generated polymerization algorithm based on GROMACS**|Jianchuan Liu et.al.|[2404.02436v1](http://arxiv.org/abs/2404.02436v1)|null|
+|**2024-04-02**|**Non-Equilibrium Oscillations Arising in Thermally Induced Convective Systems through Homodyne Dynamic Light Scattering**|José López-Molina et.al.|[2404.02217v1](http://arxiv.org/abs/2404.02217v1)|null|
 |**2024-04-02**|**Granular aqueous suspensions with controlled inter-particular friction and adhesion**|Lily Blaiset et.al.|[2404.02071v1](http://arxiv.org/abs/2404.02071v1)|null|
 |**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011v1](http://arxiv.org/abs/2404.02011v1)|null|
 |**2024-04-02**|**Isotropic to nematic transition in alcohol ferrofluids of barium hexaferrite nanoplatelets**|Patricija Hribar Boštjančič et.al.|[2404.01956v1](http://arxiv.org/abs/2404.01956v1)|null|
@@ -5283,6 +5296,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Valley-controlled photoswitching of metal-insulator nanotextures**|Hannes Böckmann et.al.|[2404.02503v1](http://arxiv.org/abs/2404.02503v1)|null|
 |**2024-03-31**|**Charge and spin current pumping by ultrafast demagnetization dynamics**|Jalil Varela-Manjarres et.al.|[2404.00779v1](http://arxiv.org/abs/2404.00779v1)|null|
 |**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597v1](http://arxiv.org/abs/2403.19597v1)|null|
 |**2024-03-29**|**Anomalous terahertz photoconductivity caused by the superballistic flow of hydrodynamic electrons in graphene**|M. Kravtsov et.al.|[2403.18492v2](http://arxiv.org/abs/2403.18492v2)|null|
@@ -5722,6 +5736,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192v1](http://arxiv.org/abs/2404.02192v1)|null|
 |**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659v1](http://arxiv.org/abs/2404.00659v1)|null|
 |**2024-03-28**|**Tuning the intrinsic anomalous Hall effect from large to zero in the two ferromagnetic states of the layered SmMn2Ge2**|Mahima Singh et.al.|[2403.19581v1](http://arxiv.org/abs/2403.19581v1)|null|
 |**2024-03-28**|**High Mobility Charge Transport in a Multicarrier Altermagnet CrSb**|Takahiro Urata et.al.|[2403.19233v1](http://arxiv.org/abs/2403.19233v1)|null|
@@ -5953,6 +5968,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Local spin structure in the layered van der Waals materials MnPS $_{x}$Se$_{3-x}$**|Raju Baral et.al.|[2404.02328v1](http://arxiv.org/abs/2404.02328v1)|null|
 |**2024-03-25**|**Illuminating Systematic Trends in Nuclear Data with Generative Machine Learning Models**|Jordan M. R. Fox et.al.|[2403.16389v1](http://arxiv.org/abs/2403.16389v1)|null|
 |**2024-03-21**|**Transforming from Kitaev to Disguised Ising Chain: Application to CoNb $_2$O$_6$**|Derek Churchill et.al.|[2403.14754v1](http://arxiv.org/abs/2403.14754v1)|null|
 |**2024-03-20**|**Anomalous Neutron Nuclear-Magnetic Interference Spectroscopy**|Chuliang Fu et.al.|[2403.13990v1](http://arxiv.org/abs/2403.13990v1)|null|
