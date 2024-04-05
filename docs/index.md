@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**A swimming bacterium in a two-fluid model of a polymer solution**|Sabarish V. Narayanan et.al.|[2404.03540v1](http://arxiv.org/abs/2404.03540v1)|null|
+|**2024-04-04**|**Measurable Structure Factors of Dense Dispersions Containing Polydisperse, Optically Inhomogeneous Particles**|Joel Diaz Maier et.al.|[2404.03470v1](http://arxiv.org/abs/2404.03470v1)|null|
+|**2024-04-04**|**Superclimbing modes in transverse quantum fluids: signature statistical and dynamical features**|Chao Zhang et.al.|[2404.03465v1](http://arxiv.org/abs/2404.03465v1)|null|
+|**2024-04-04**|**Geometry-induced friction at a soft interface**|Aashna Chawla et.al.|[2404.03255v1](http://arxiv.org/abs/2404.03255v1)|null|
+|**2024-04-04**|**Holographic Global Vortices with Novel Boundary Conditions**|Markus A. G. Amano et.al.|[2404.03212v1](http://arxiv.org/abs/2404.03212v1)|null|
+|**2024-04-03**|**Topological Data Analysis for Particulate Gels**|Alexander Smith et.al.|[2404.02991v1](http://arxiv.org/abs/2404.02991v1)|null|
+|**2024-04-03**|**Damping Reveals Hidden Dimensions in Elastic Metastructures Through Induced Transparency**|Yanghao Fang et.al.|[2404.02979v1](http://arxiv.org/abs/2404.02979v1)|null|
+|**2024-04-03**|**Spatiotemporal Quenches for Efficient Critical Ground State Preparation in Two-Dimensional Quantum Systems**|Simon Bernier et.al.|[2404.02957v1](http://arxiv.org/abs/2404.02957v1)|null|
 |**2024-04-03**|**Structural build-up at rest in the induction and acceleration periods of OPC**|Luca Michel et.al.|[2404.02850v1](http://arxiv.org/abs/2404.02850v1)|null|
 |**2024-04-03**|**Statistical Field Theory of Polarizable Polymer Chains with Nonlocal Dipolar Interactions**|Pratik Khandagale et.al.|[2404.02848v1](http://arxiv.org/abs/2404.02848v1)|null|
 |**2024-04-03**|**Anti-Coulomb interaction between charges in a dielectric medium**|Alec Wills et.al.|[2404.02824v1](http://arxiv.org/abs/2404.02824v1)|null|
@@ -5300,6 +5308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Functionality Optimization for Singlet Fission Rate Screening in the Full-Dimensional Molecular and Intermolecular Coordinate Space**|Johannes Greiner et.al.|[2404.03056v1](http://arxiv.org/abs/2404.03056v1)|null|
 |**2024-04-03**|**Valley-controlled photoswitching of metal-insulator nanotextures**|Hannes Böckmann et.al.|[2404.02503v1](http://arxiv.org/abs/2404.02503v1)|null|
 |**2024-03-31**|**Charge and spin current pumping by ultrafast demagnetization dynamics**|Jalil Varela-Manjarres et.al.|[2404.00779v1](http://arxiv.org/abs/2404.00779v1)|null|
 |**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597v1](http://arxiv.org/abs/2403.19597v1)|null|
@@ -5740,6 +5749,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Even-Odd Layer-Dependent Exchange Bias Effect in MnBi2Te4 Chern Insulator Devices**|Bo Chen et.al.|[2404.03032v1](http://arxiv.org/abs/2404.03032v1)|null|
 |**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192v1](http://arxiv.org/abs/2404.02192v1)|null|
 |**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659v1](http://arxiv.org/abs/2404.00659v1)|null|
 |**2024-04-04**|**Tuning intrinsic anomalous Hall effect from large to zero in two ferromagnetic states of SmMn2Ge2**|Mahima Singh et.al.|[2403.19581v2](http://arxiv.org/abs/2403.19581v2)|null|
