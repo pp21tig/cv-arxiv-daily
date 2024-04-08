@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Beaded metamaterials**|Lauren Dreier et.al.|[2404.04227v1](http://arxiv.org/abs/2404.04227v1)|null|
+|**2024-04-05**|**Emergent photons and fractionalized excitations in a quantum spin liquid**|Bin Gao et.al.|[2404.04207v1](http://arxiv.org/abs/2404.04207v1)|null|
+|**2024-04-05**|**Nanometer thick magneto-optical iron garnet films**|Nika Gribova et.al.|[2404.04206v1](http://arxiv.org/abs/2404.04206v1)|null|
+|**2024-04-05**|**Competing topological phases in a non-Hermitian time-reversal symmetry-broken Bernevig-Hughes-Zhang model**|Dipendu Halder et.al.|[2404.04184v1](http://arxiv.org/abs/2404.04184v1)|null|
+|**2024-04-05**|**Directed Aggregation of Cellulose Nanocrystals to Enhance Chiral Twist**|Kévin Ballu et.al.|[2404.04171v1](http://arxiv.org/abs/2404.04171v1)|null|
+|**2024-04-05**|**Numerical study of neutral and charged microgel suspensions: from single-particle to collective behavior**|Giovanni Del Monte et.al.|[2404.04032v1](http://arxiv.org/abs/2404.04032v1)|null|
+|**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023v1](http://arxiv.org/abs/2404.04023v1)|null|
+|**2024-04-05**|**Bragg diffraction of higher orders on oblique helicoidal liquid crystal structures**|H. Bogatyryova et.al.|[2404.03967v1](http://arxiv.org/abs/2404.03967v1)|null|
+|**2024-04-04**|**Learning to control non-equilibrium dynamics using local imperfect gradients**|Carlos Floyd et.al.|[2404.03798v1](http://arxiv.org/abs/2404.03798v1)|null|
 |**2024-04-04**|**A swimming bacterium in a two-fluid model of a polymer solution**|Sabarish V. Narayanan et.al.|[2404.03540v1](http://arxiv.org/abs/2404.03540v1)|null|
 |**2024-04-04**|**Measurable Structure Factors of Dense Dispersions Containing Polydisperse, Optically Inhomogeneous Particles**|Joel Diaz Maier et.al.|[2404.03470v1](http://arxiv.org/abs/2404.03470v1)|null|
 |**2024-04-04**|**Superclimbing modes in transverse quantum fluids: signature statistical and dynamical features**|Chao Zhang et.al.|[2404.03465v1](http://arxiv.org/abs/2404.03465v1)|null|
@@ -5978,6 +5987,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**The polarisation fluctuation length scale shaping the superconducting dome of SrTiO $_3$**|Benoît Fauqué et.al.|[2404.04154v1](http://arxiv.org/abs/2404.04154v1)|null|
 |**2024-04-02**|**Local spin structure in the layered van der Waals materials MnPS $_{x}$Se$_{3-x}$**|Raju Baral et.al.|[2404.02328v1](http://arxiv.org/abs/2404.02328v1)|null|
 |**2024-03-25**|**Illuminating Systematic Trends in Nuclear Data with Generative Machine Learning Models**|Jordan M. R. Fox et.al.|[2403.16389v1](http://arxiv.org/abs/2403.16389v1)|null|
 |**2024-03-21**|**Transforming from Kitaev to Disguised Ising Chain: Application to CoNb $_2$O$_6$**|Derek Churchill et.al.|[2403.14754v1](http://arxiv.org/abs/2403.14754v1)|null|
