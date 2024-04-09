@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Confinement controls the creep rate in soft granular packings**|Joshua A. Dijksman et.al.|[2404.05642v1](http://arxiv.org/abs/2404.05642v1)|null|
+|**2024-04-08**|**Wetting on Silicone Surfaces**|Lukas Hauer et.al.|[2404.05571v1](http://arxiv.org/abs/2404.05571v1)|null|
+|**2024-04-08**|**Selecting active matter according to motility in an acoustofluidic setup: Self-propelled particles and sperm cells**|V. R. Misko et.al.|[2404.05422v1](http://arxiv.org/abs/2404.05422v1)|null|
+|**2024-04-08**|**Emergent polar order in non-polar mixtures with non-reciprocal interactions**|Giulia Pisegna et.al.|[2404.05396v1](http://arxiv.org/abs/2404.05396v1)|null|
+|**2024-04-08**|**Bioinspired polymer-incorporating self-lubricating and antifouling hydrogels**|Weifeng Lin et.al.|[2404.05234v1](http://arxiv.org/abs/2404.05234v1)|null|
+|**2024-04-08**|**Quasicrystal bulk and surface energies from density functional theory**|Woohyeon Baek et.al.|[2404.05200v1](http://arxiv.org/abs/2404.05200v1)|null|
+|**2024-04-07**|**Detailed balance in non-equilibrium dynamics of granular matter: derivation and implications**|Clara C. Wanjura et.al.|[2404.05059v1](http://arxiv.org/abs/2404.05059v1)|null|
+|**2024-04-07**|**Pressure-dependent adhesion between solid-supported PC-lipid bilayers and vesicles under electric fields**|Yu Zhang et.al.|[2404.05035v1](http://arxiv.org/abs/2404.05035v1)|null|
+|**2024-04-06**|**Does nematic order allow groups of elongated cells to sense electric fields better?**|Kurmanbek Kaiyrbekov et.al.|[2404.04723v1](http://arxiv.org/abs/2404.04723v1)|null|
+|**2024-04-06**|**Flat-Band Enhanced Antiferromagnetic Fluctuations and Unconventional Superconductivity in Pressurized CsCr $_3$Sb$_5$**|Siqi Wu et.al.|[2404.04701v1](http://arxiv.org/abs/2404.04701v1)|null|
+|**2024-04-06**|**Collective charge excitations studied by electron energy-loss spectroscopy**|Peter Abbamonte et.al.|[2404.04670v1](http://arxiv.org/abs/2404.04670v1)|null|
+|**2024-04-06**|**Phases, morphologies, and transitions in a membrane model for the endoplasmic reticulum**|Jaya Kumar Alageshan et.al.|[2404.04611v1](http://arxiv.org/abs/2404.04611v1)|null|
+|**2024-04-05**|**Contact-based molecular dynamics of structured and disordered proteins in a coarse-grained model: fixed contacts, switchable contacts and those described by pseudo-improper-dihedral angles**|Łukasz Mioduszewski et.al.|[2404.04431v1](http://arxiv.org/abs/2404.04431v1)|null|
 |**2024-04-05**|**Beaded metamaterials**|Lauren Dreier et.al.|[2404.04227v1](http://arxiv.org/abs/2404.04227v1)|null|
 |**2024-04-05**|**Emergent photons and fractionalized excitations in a quantum spin liquid**|Bin Gao et.al.|[2404.04207v1](http://arxiv.org/abs/2404.04207v1)|null|
 |**2024-04-05**|**Nanometer thick magneto-optical iron garnet films**|Nika Gribova et.al.|[2404.04206v1](http://arxiv.org/abs/2404.04206v1)|null|
@@ -5317,6 +5330,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Giant photocaloric effects across a vast temperature range in ferroelectric perovskites**|Riccardo Rurali et.al.|[2404.05562v1](http://arxiv.org/abs/2404.05562v1)|null|
 |**2024-04-03**|**Functionality Optimization for Singlet Fission Rate Screening in the Full-Dimensional Molecular and Intermolecular Coordinate Space**|Johannes Greiner et.al.|[2404.03056v1](http://arxiv.org/abs/2404.03056v1)|null|
 |**2024-04-03**|**Valley-controlled photoswitching of metal-insulator nanotextures**|Hannes Böckmann et.al.|[2404.02503v1](http://arxiv.org/abs/2404.02503v1)|null|
 |**2024-03-31**|**Charge and spin current pumping by ultrafast demagnetization dynamics**|Jalil Varela-Manjarres et.al.|[2404.00779v1](http://arxiv.org/abs/2404.00779v1)|null|
@@ -5991,6 +6005,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Field-dependent Magnons in a Honeycomb Antiferromagnet CoTiO $_3$**|Bo Yuan et.al.|[2404.04390v1](http://arxiv.org/abs/2404.04390v1)|null|
 |**2024-04-05**|**The polarisation fluctuation length scale shaping the superconducting dome of SrTiO $_3$**|Benoît Fauqué et.al.|[2404.04154v1](http://arxiv.org/abs/2404.04154v1)|null|
 |**2024-04-02**|**Local spin structure in the layered van der Waals materials MnPS $_{x}$Se$_{3-x}$**|Raju Baral et.al.|[2404.02328v1](http://arxiv.org/abs/2404.02328v1)|null|
 |**2024-03-25**|**Illuminating Systematic Trends in Nuclear Data with Generative Machine Learning Models**|Jordan M. R. Fox et.al.|[2403.16389v1](http://arxiv.org/abs/2403.16389v1)|null|
