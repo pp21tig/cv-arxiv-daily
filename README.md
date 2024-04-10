@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Elastic ribbons in bubble columns: when elasticity, capillarity and gravity govern equilibrium configurations**|Jean Farago et.al.|[2404.06322v1](http://arxiv.org/abs/2404.06322v1)|null|
+|**2024-04-09**|**Dynamical structures in phase-separating non-reciprocal polar active mixtures**|Kim L. Kreienkamp et.al.|[2404.06305v1](http://arxiv.org/abs/2404.06305v1)|null|
+|**2024-04-09**|**Size selection of crack front defects: Multiple fracture-plane interactions and intrinsic lengthscales**|Meng Wang et.al.|[2404.06289v1](http://arxiv.org/abs/2404.06289v1)|null|
+|**2024-04-09**|**Straight to zigzag transition of foam pseudo Plateau borders on textured surfaces**|Alexis Commereuc et.al.|[2404.06208v1](http://arxiv.org/abs/2404.06208v1)|null|
+|**2024-04-09**|**Higher order topological defects in a moiré lattice**|Eugenio Gambari et.al.|[2404.06176v1](http://arxiv.org/abs/2404.06176v1)|null|
+|**2024-04-09**|**Turbulent cascade arrests and the formation of intermediate-scale condensates**|Kolluru Venkata Kiran et.al.|[2404.06169v1](http://arxiv.org/abs/2404.06169v1)|null|
+|**2024-04-09**|**The Effects of Splayed Lipid Molecules on Lubrication by Lipid Bilayers**|Di Jin et.al.|[2404.06074v1](http://arxiv.org/abs/2404.06074v1)|null|
+|**2024-04-09**|**Effects of prestress in the coating of an elastic disk**|Matteo Gaibotti et.al.|[2404.06038v1](http://arxiv.org/abs/2404.06038v1)|null|
+|**2024-04-09**|**Correlation decoupling of Casimir interaction in an electrolyte driven by external electric fields**|Guangle Du et.al.|[2404.06028v1](http://arxiv.org/abs/2404.06028v1)|null|
+|**2024-04-08**|**Instability of quadratic band degeneracies and the emergence of Dirac points**|Jonah Chaban et.al.|[2404.05886v1](http://arxiv.org/abs/2404.05886v1)|null|
+|**2024-04-08**|**Unvortex Lattice and Topological Defects in Rigidly Rotating Multicomponent Superfluids**|Roy Rabaglia et.al.|[2404.05857v1](http://arxiv.org/abs/2404.05857v1)|null|
 |**2024-04-08**|**Confinement controls the creep rate in soft granular packings**|Joshua A. Dijksman et.al.|[2404.05642v1](http://arxiv.org/abs/2404.05642v1)|null|
 |**2024-04-08**|**Wetting on Silicone Surfaces**|Lukas Hauer et.al.|[2404.05571v1](http://arxiv.org/abs/2404.05571v1)|null|
 |**2024-04-08**|**Selecting active matter according to motility in an acoustofluidic setup: Self-propelled particles and sperm cells**|V. R. Misko et.al.|[2404.05422v1](http://arxiv.org/abs/2404.05422v1)|null|
@@ -6001,6 +6012,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Witnessing Quantum Entanglement Using Resonant Inelastic X-ray Scattering**|Tianhao Ren et.al.|[2404.05850v1](http://arxiv.org/abs/2404.05850v1)|null|
 |**2024-04-05**|**Field-dependent Magnons in a Honeycomb Antiferromagnet CoTiO $_3$**|Bo Yuan et.al.|[2404.04390v1](http://arxiv.org/abs/2404.04390v1)|null|
 |**2024-04-05**|**The polarisation fluctuation length scale shaping the superconducting dome of SrTiO $_3$**|Benoît Fauqué et.al.|[2404.04154v1](http://arxiv.org/abs/2404.04154v1)|null|
 |**2024-04-02**|**Local spin structure in the layered van der Waals materials MnPS $_{x}$Se$_{3-x}$**|Raju Baral et.al.|[2404.02328v1](http://arxiv.org/abs/2404.02328v1)|null|
