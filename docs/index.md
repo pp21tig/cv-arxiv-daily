@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Understanding Dynamics in Coarse-Grained Models: IV. Connection of Fine-Grained and Coarse-Grained Dynamics with the Stokes-Einstein and Stokes-Einstein-Debye Relations**|Jaehyeok Jin et.al.|[2404.07156v1](http://arxiv.org/abs/2404.07156v1)|null|
+|**2024-04-10**|**Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE**|Xinyu Gu et.al.|[2404.07102v1](http://arxiv.org/abs/2404.07102v1)|null|
+|**2024-04-10**|**Hilbert space representation for quasi-Hermitian position-deformed Heisenberg algebra and Path integral formulation**|Thomas Katsekpor et.al.|[2404.07082v1](http://arxiv.org/abs/2404.07082v1)|null|
+|**2024-04-10**|**Data-driven quasiconformal morphodynamic flows**|Salem Mosleh et.al.|[2404.07073v1](http://arxiv.org/abs/2404.07073v1)|null|
+|**2024-04-10**|**Strong stretching theory of polydisperse curved polymer brushes**|Marios Giannakou et.al.|[2404.07069v1](http://arxiv.org/abs/2404.07069v1)|null|
+|**2024-04-10**|**Impact of surfactant polydispersity on the phase and flow behaviour in water: the case of Sodium Lauryl Ether Sulfate**|Rosalia Ferraro et.al.|[2404.06994v1](http://arxiv.org/abs/2404.06994v1)|null|
+|**2024-04-10**|**Emergence of large-scale mechanical spiral waves in bacterial living matter**|Shiqi Liu et.al.|[2404.06990v1](http://arxiv.org/abs/2404.06990v1)|null|
+|**2024-04-10**|**Solvable toy model of negative energetic elasticity**|Atsushi Iwaki et.al.|[2404.06885v1](http://arxiv.org/abs/2404.06885v1)|null|
+|**2024-04-10**|**Origins of Fine Structure in DNA Melting Curves**|Arevik V. Asatryan et.al.|[2404.06822v1](http://arxiv.org/abs/2404.06822v1)|null|
+|**2024-04-10**|**The Physics of Antimicrobial Activity of Ionic Liquids**|V. K. Sharma et.al.|[2404.06739v1](http://arxiv.org/abs/2404.06739v1)|null|
+|**2024-04-10**|**Best-in-class modeling: A novel strategy to discover constitutive models for soft matter systems**|Kevin Linka et.al.|[2404.06725v1](http://arxiv.org/abs/2404.06725v1)|null|
+|**2024-04-10**|**Spatio-Temporal Dynamics of Nucleo-Cytoplasmic Transport**|S. Alex Rautu et.al.|[2404.06688v1](http://arxiv.org/abs/2404.06688v1)|null|
+|**2024-04-10**|**Many-defect solutions in planar nematics: interactions, spiral textures and boundary conditions**|Simon Čopar et.al.|[2404.06678v1](http://arxiv.org/abs/2404.06678v1)|null|
+|**2024-04-09**|**Inertial active matter with Coulomb friction**|Alexander P. Antonov et.al.|[2404.06615v1](http://arxiv.org/abs/2404.06615v1)|null|
+|**2024-04-09**|**Robustness of topological magnons in disordered arrays of skyrmions**|H. Diego Rosales et.al.|[2404.06541v1](http://arxiv.org/abs/2404.06541v1)|null|
 |**2024-04-09**|**Elastic ribbons in bubble columns: when elasticity, capillarity and gravity govern equilibrium configurations**|Jean Farago et.al.|[2404.06322v1](http://arxiv.org/abs/2404.06322v1)|null|
 |**2024-04-09**|**Dynamical structures in phase-separating non-reciprocal polar active mixtures**|Kim L. Kreienkamp et.al.|[2404.06305v1](http://arxiv.org/abs/2404.06305v1)|null|
 |**2024-04-09**|**Size selection of crack front defects: Multiple fracture-plane interactions and intrinsic lengthscales**|Meng Wang et.al.|[2404.06289v1](http://arxiv.org/abs/2404.06289v1)|null|
