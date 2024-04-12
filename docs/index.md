@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Artificial Chemotaxis under Electrodiffusiophoresis**|Carlos A. Silvera Batista et.al.|[2404.07874v1](http://arxiv.org/abs/2404.07874v1)|null|
+|**2024-04-11**|**Active Carpets in floating viscous films**|Felipe A. Barros et.al.|[2404.07856v1](http://arxiv.org/abs/2404.07856v1)|null|
+|**2024-04-11**|**Metastability of a periodic network of threads: what are the shapes of a knitted fabric ?**|Jérôme Crassous et.al.|[2404.07811v1](http://arxiv.org/abs/2404.07811v1)|null|
+|**2024-04-11**|**Active particles knead three-dimensional gels into open crumbs**|Martin Cramer Pedersen et.al.|[2404.07767v1](http://arxiv.org/abs/2404.07767v1)|null|
+|**2024-04-11**|**Aggregation in Dilute Aqueous Solutions of Hydroxypropyl Cellulose with Salt Ions**|Valery I. Kovalchuk et.al.|[2404.07708v1](http://arxiv.org/abs/2404.07708v1)|null|
+|**2024-04-11**|**Towards resolving bedload flux variability**|Thomas Pähtz et.al.|[2404.07689v1](http://arxiv.org/abs/2404.07689v1)|null|
+|**2024-04-11**|**Optimal run-and-tumble in slit-like confinement**|T. Pietrangeli et.al.|[2404.07680v1](http://arxiv.org/abs/2404.07680v1)|null|
+|**2024-04-11**|**Accessing the Free Expansion and Melting of a Crystalline Drop of Charged Colloidal Spheres in a Particle-Free Environment by Optical Experiments**|Marcus Witt et.al.|[2404.07642v1](http://arxiv.org/abs/2404.07642v1)|null|
+|**2024-04-11**|**Advancements in Secondary and Backscattered Electron Energy Spectra and Yields Analysis: from Theory to Applications**|Simone Taioli et.al.|[2404.07521v1](http://arxiv.org/abs/2404.07521v1)|null|
+|**2024-04-11**|**The Ideal Glass and the Ideal Disk Packing in Two Dimensions**|Viola Bolton-Lum et.al.|[2404.07492v1](http://arxiv.org/abs/2404.07492v1)|null|
+|**2024-04-11**|**Active particle motion in Poiseuille flow through rectangular channels**|Rahil N. Valani et.al.|[2404.07420v1](http://arxiv.org/abs/2404.07420v1)|null|
+|**2024-04-11**|**A Pathway to Efficient Simulations of Charge Density Waves in Transition Metal Dichalcogenides: A Case Study for TiSe2**|Li Yin et.al.|[2404.07414v1](http://arxiv.org/abs/2404.07414v1)|null|
+|**2024-04-10**|**Nonlinear dynamics of confined cell migration -- modeling and inference**|Pedrom Zadeh et.al.|[2404.07390v1](http://arxiv.org/abs/2404.07390v1)|null|
+|**2024-04-10**|**Lock-Key Microfluidics: Simulating Nematic Colloid Advection along Wavy-Walled Channels**|Karolina Wamsler et.al.|[2404.07367v1](http://arxiv.org/abs/2404.07367v1)|null|
+|**2024-04-10**|**Large, defect-free FCC colloidal crystals under microgravity**|Qian Lei et.al.|[2404.07291v1](http://arxiv.org/abs/2404.07291v1)|null|
 |**2024-04-10**|**Understanding Dynamics in Coarse-Grained Models: IV. Connection of Fine-Grained and Coarse-Grained Dynamics with the Stokes-Einstein and Stokes-Einstein-Debye Relations**|Jaehyeok Jin et.al.|[2404.07156v1](http://arxiv.org/abs/2404.07156v1)|null|
 |**2024-04-10**|**Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE**|Xinyu Gu et.al.|[2404.07102v1](http://arxiv.org/abs/2404.07102v1)|null|
 |**2024-04-10**|**Hilbert space representation for quasi-Hermitian position-deformed Heisenberg algebra and Path integral formulation**|Thomas Katsekpor et.al.|[2404.07082v1](http://arxiv.org/abs/2404.07082v1)|null|
@@ -5356,6 +5371,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism**|Zhen Ning et.al.|[2404.07506v1](http://arxiv.org/abs/2404.07506v1)|null|
 |**2024-04-08**|**Giant photocaloric effects across a vast temperature range in ferroelectric perovskites**|Riccardo Rurali et.al.|[2404.05562v1](http://arxiv.org/abs/2404.05562v1)|null|
 |**2024-04-03**|**Functionality Optimization for Singlet Fission Rate Screening in the Full-Dimensional Molecular and Intermolecular Coordinate Space**|Johannes Greiner et.al.|[2404.03056v1](http://arxiv.org/abs/2404.03056v1)|null|
 |**2024-04-03**|**Valley-controlled photoswitching of metal-insulator nanotextures**|Hannes Böckmann et.al.|[2404.02503v1](http://arxiv.org/abs/2404.02503v1)|null|
@@ -5630,6 +5646,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608v1](http://arxiv.org/abs/2404.07608v1)|null|
 |**2024-04-01**|**Harnessing Interlayer Magnetic Coupling for Efficient, Field-Free Current-Induced Magnetization Switching in a Magnetic Insulator**|Leran Wang et.al.|[2404.00845v1](http://arxiv.org/abs/2404.00845v1)|null|
 |**2024-03-28**|**Challenges in extracting nonlinear current-induced phenomena in Ca2RuO4**|Giordano Mattoni et.al.|[2403.19210v1](http://arxiv.org/abs/2403.19210v1)|null|
 |**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|**[link](https://github.com/archisman-panigrahi/electronic-ordering-signature-resistance-codes)**|
@@ -5798,6 +5815,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237v1](http://arxiv.org/abs/2404.07237v1)|null|
 |**2024-04-03**|**Even-Odd Layer-Dependent Exchange Bias Effect in MnBi2Te4 Chern Insulator Devices**|Bo Chen et.al.|[2404.03032v1](http://arxiv.org/abs/2404.03032v1)|null|
 |**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192v1](http://arxiv.org/abs/2404.02192v1)|null|
 |**2024-03-31**|**Sign-reversal Anomalous Hall effect driven by a magnetic transition in Cr $_{7-δ}$Te$_8$**|Bowen Chen et.al.|[2404.00659v1](http://arxiv.org/abs/2404.00659v1)|null|
