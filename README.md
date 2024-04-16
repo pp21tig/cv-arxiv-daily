@@ -1118,6 +1118,7 @@
 |**2024-04-13**|**Frustrated Magnetism, Symmetries and $\mathbb{Z}_2$ -Equivariant Topology**|Shayan Zahedi et.al.|[2404.09023v1](http://arxiv.org/abs/2404.09023v1)|null|
 |**2024-04-13**|**A water structure indicator suitable for generic contexts: two-liquid behavior at hydration and nanoconfinement conditions and a molecular approach to hydrophobicity and wetting**|Nicolás A. Loubet et.al.|[2404.08992v1](http://arxiv.org/abs/2404.08992v1)|null|
 |**2024-04-13**|**Active doping controls the mode of failure in dense colloidal gels**|Tingtao Zhou et.al.|[2404.08880v1](http://arxiv.org/abs/2404.08880v1)|null|
+|**2024-04-12**|**Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations**|Mohammed Al Otmi et.al.|[2404.08804v1](http://arxiv.org/abs/2404.08804v1)|null|
 |**2024-04-12**|**A Gaussian model of fluctuating membrane and its scattering properties**|Cedric J. Gommes et.al.|[2404.08569v1](http://arxiv.org/abs/2404.08569v1)|null|
 |**2024-04-12**|**Active nematic liquid crytals under a quenched random field**|Yutaka Kinoshita et.al.|[2404.08524v1](http://arxiv.org/abs/2404.08524v1)|null|
 |**2024-04-12**|**Universal time and length scales of polar active polymer melts**|Mattia Alberto Ubertini et.al.|[2404.08425v1](http://arxiv.org/abs/2404.08425v1)|null|
