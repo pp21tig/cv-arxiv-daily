@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773v1](http://arxiv.org/abs/2404.09773v1)|null|
+|**2024-04-15**|**Minimal Autocorrelation in Hybrid Monte Carlo simulations using Exact Fourier Acceleration**|Johann Ostmeyer et.al.|[2404.09723v1](http://arxiv.org/abs/2404.09723v1)|null|
+|**2024-04-15**|**Structure and dynamics of active string fluids and gels formed by dipolar active Brownian particles**|Maria Kelidou et.al.|[2404.09693v1](http://arxiv.org/abs/2404.09693v1)|null|
+|**2024-04-15**|**Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models**|Maria Ley-Flores et.al.|[2404.09676v1](http://arxiv.org/abs/2404.09676v1)|null|
+|**2024-04-15**|**Impact of chirality on active Brownian particle: Exact moments in two and three dimensions**|Anweshika Pattanayak et.al.|[2404.09650v1](http://arxiv.org/abs/2404.09650v1)|null|
+|**2024-04-15**|**Dispersionless Flat Mode and Vibrational Anomaly in Active Brownian Vibrators Induced by String-like Dynamical Defects**|Cunyuan Jiang et.al.|[2404.09583v1](http://arxiv.org/abs/2404.09583v1)|null|
+|**2024-04-15**|**Dynamical Mean Field Theory for Real Materials on a Quantum Computer**|Johannes Selisko et.al.|[2404.09527v1](http://arxiv.org/abs/2404.09527v1)|null|
+|**2024-04-14**|**Entangled nematic disclinations using multi-particle collision dynamics**|Louise C. Head et.al.|[2404.09368v1](http://arxiv.org/abs/2404.09368v1)|null|
+|**2024-04-14**|**Shape equilibria of vesicles with rigid planar inclusions**|Geunwoong Jeon et.al.|[2404.09355v1](http://arxiv.org/abs/2404.09355v1)|null|
+|**2024-04-14**|**Numerical Study of Cleavable Bond-Modified Polyethylene for Circular Polymer Design**|Maria Ley-Flores et.al.|[2404.09341v1](http://arxiv.org/abs/2404.09341v1)|null|
+|**2024-04-14**|**A universal strategy for decoupling stiffness and extensibility polymer networks**|Baiqiang Huang et.al.|[2404.09330v1](http://arxiv.org/abs/2404.09330v1)|null|
+|**2024-04-14**|**Exclusive-or encoded algebraic structure for efficient quantum dynamics**|Lukas Broers et.al.|[2404.09312v1](http://arxiv.org/abs/2404.09312v1)|null|
+|**2024-04-14**|**Green and Kubo forge the arrow of time**|Stefano Baroni et.al.|[2404.09291v1](http://arxiv.org/abs/2404.09291v1)|null|
+|**2024-04-14**|**Robust spin order and fragile charge order in Na0.5CoO2 as revealed by time-resolved terahertz spectroscopy**|X. Y. Zhou et.al.|[2404.09185v1](http://arxiv.org/abs/2404.09185v1)|null|
+|**2024-04-14**|**Spin entanglement of multinucleons: experimental prospects**|Dong Bai et.al.|[2404.09116v1](http://arxiv.org/abs/2404.09116v1)|null|
+|**2024-04-13**|**Ion Correlation Induced Non-monotonic Height Change and Microphase Separation of Polyelectrolyte Brushes**|Chao Duan et.al.|[2404.09103v1](http://arxiv.org/abs/2404.09103v1)|null|
+|**2024-04-13**|**The Cellular Potts Model on Disordered Lattices**|Hossein Nemati et.al.|[2404.09055v1](http://arxiv.org/abs/2404.09055v1)|null|
+|**2024-04-13**|**Frustrated Magnetism, Symmetries and $\mathbb{Z}_2$ -Equivariant Topology**|Shayan Zahedi et.al.|[2404.09023v1](http://arxiv.org/abs/2404.09023v1)|null|
+|**2024-04-13**|**A water structure indicator suitable for generic contexts: two-liquid behavior at hydration and nanoconfinement conditions and a molecular approach to hydrophobicity and wetting**|Nicolás A. Loubet et.al.|[2404.08992v1](http://arxiv.org/abs/2404.08992v1)|null|
+|**2024-04-13**|**Active doping controls the mode of failure in dense colloidal gels**|Tingtao Zhou et.al.|[2404.08880v1](http://arxiv.org/abs/2404.08880v1)|null|
 |**2024-04-12**|**A Gaussian model of fluctuating membrane and its scattering properties**|Cedric J. Gommes et.al.|[2404.08569v1](http://arxiv.org/abs/2404.08569v1)|null|
 |**2024-04-12**|**Active nematic liquid crytals under a quenched random field**|Yutaka Kinoshita et.al.|[2404.08524v1](http://arxiv.org/abs/2404.08524v1)|null|
 |**2024-04-12**|**Universal time and length scales of polar active polymer melts**|Mattia Alberto Ubertini et.al.|[2404.08425v1](http://arxiv.org/abs/2404.08425v1)|null|
@@ -5823,6 +5843,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083v1](http://arxiv.org/abs/2404.09083v1)|null|
 |**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237v1](http://arxiv.org/abs/2404.07237v1)|null|
 |**2024-04-03**|**Even-Odd Layer-Dependent Exchange Bias Effect in MnBi2Te4 Chern Insulator Devices**|Bo Chen et.al.|[2404.03032v1](http://arxiv.org/abs/2404.03032v1)|null|
 |**2024-04-02**|**Integer and fractional quantum anomalous Hall effects in pentalayer graphene**|Ming Xie et.al.|[2404.02192v1](http://arxiv.org/abs/2404.02192v1)|null|
