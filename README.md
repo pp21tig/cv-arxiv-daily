@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Generalized Linear Response Theory for Pumped Systems and its Application to Transient Optical Properties within DPOA**|Amir Eskandari-asl et.al.|[2404.10768v1](http://arxiv.org/abs/2404.10768v1)|null|
+|**2024-04-16**|**Emergent intelligence of buckling-driven elasto-active structures**|Yuchen Xi et.al.|[2404.10614v1](http://arxiv.org/abs/2404.10614v1)|null|
+|**2024-04-16**|**Swirling due to misaligned perception-dependent motility**|Rodrigo Saavedra et.al.|[2404.10608v1](http://arxiv.org/abs/2404.10608v1)|null|
+|**2024-04-16**|**Self-diffusion is temperature independent on active membranes**|Saurav G. Varma et.al.|[2404.10581v1](http://arxiv.org/abs/2404.10581v1)|null|
+|**2024-04-16**|**Progressive polymer deformation induced by polar activity and the influence of inertia**|Andrés R. Tejedor et.al.|[2404.10553v1](http://arxiv.org/abs/2404.10553v1)|null|
+|**2024-04-16**|**Universal Displacements in Anisotropic Linear Cauchy Elasticity**|Arash Yavari et.al.|[2404.10529v1](http://arxiv.org/abs/2404.10529v1)|null|
+|**2024-04-16**|**Millisecond-resolved infrared spectroscopy study of polymer brush swelling dynamics**|Koen F. A. Jorissen et.al.|[2404.10447v1](http://arxiv.org/abs/2404.10447v1)|null|
+|**2024-04-16**|**Supercoiled ring polymers under shear flow**|Christoph Schneck et.al.|[2404.10414v1](http://arxiv.org/abs/2404.10414v1)|null|
+|**2024-04-15**|**Orbits, spirals, and trapped states: Dynamics of a phoretic Janus particle in a radial concentration gradient**|Parvin Bayati et.al.|[2404.10154v1](http://arxiv.org/abs/2404.10154v1)|null|
+|**2024-04-15**|**Active pattern formation emergent from single-species nonreciprocity**|Zhi-Feng Huang et.al.|[2404.10093v1](http://arxiv.org/abs/2404.10093v1)|null|
+|**2024-04-15**|**Boosting Determinant Quantum Monte Carlo with Submatrix Updates: Unveiling the Phase Diagram of the 3D Hubbard Model**|Fanjie Sun et.al.|[2404.09989v1](http://arxiv.org/abs/2404.09989v1)|null|
+|**2024-04-15**|**Normalizing flows as an enhanced sampling method for atomistic supercooled liquids**|Gerhard Jung et.al.|[2404.09914v1](http://arxiv.org/abs/2404.09914v1)|null|
+|**2024-04-15**|**Four center integrals for Coulomb interactions in small molecules**|Garry Goldstein et.al.|[2404.09813v1](http://arxiv.org/abs/2404.09813v1)|null|
 |**2024-04-15**|**Squish Jamming**|Samuel Poincloux et.al.|[2404.09773v1](http://arxiv.org/abs/2404.09773v1)|null|
 |**2024-04-15**|**Minimal Autocorrelation in Hybrid Monte Carlo simulations using Exact Fourier Acceleration**|Johann Ostmeyer et.al.|[2404.09723v1](http://arxiv.org/abs/2404.09723v1)|null|
 |**2024-04-15**|**Structure and dynamics of active string fluids and gels formed by dipolar active Brownian particles**|Maria Kelidou et.al.|[2404.09693v1](http://arxiv.org/abs/2404.09693v1)|null|
@@ -5396,6 +5409,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Breaking of Time Translation Symmetry and Ergodicity, and Entropy decrease in a Continuous Time Crystal Driven by Nonreciprocal Optical Forces**|Tongjun Liu et.al.|[2404.10525v1](http://arxiv.org/abs/2404.10525v1)|null|
+|**2024-04-13**|**Energy Transfer Mechanism Under Incoherent Light Excitation in noisy Environments: Memory Effects in Efficiency Control**|Rajesh Dutta et.al.|[2404.10016v1](http://arxiv.org/abs/2404.10016v1)|null|
 |**2024-04-11**|**Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism**|Zhen Ning et.al.|[2404.07506v1](http://arxiv.org/abs/2404.07506v1)|null|
 |**2024-04-08**|**Giant photocaloric effects across a vast temperature range in ferroelectric perovskites**|Riccardo Rurali et.al.|[2404.05562v1](http://arxiv.org/abs/2404.05562v1)|null|
 |**2024-04-03**|**Functionality Optimization for Singlet Fission Rate Screening in the Full-Dimensional Molecular and Intermolecular Coordinate Space**|Johannes Greiner et.al.|[2404.03056v1](http://arxiv.org/abs/2404.03056v1)|null|
@@ -5840,6 +5855,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049v1](http://arxiv.org/abs/2404.10049v1)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083v1](http://arxiv.org/abs/2404.09083v1)|null|
 |**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237v1](http://arxiv.org/abs/2404.07237v1)|null|
 |**2024-04-03**|**Even-Odd Layer-Dependent Exchange Bias Effect in MnBi2Te4 Chern Insulator Devices**|Bo Chen et.al.|[2404.03032v1](http://arxiv.org/abs/2404.03032v1)|null|
