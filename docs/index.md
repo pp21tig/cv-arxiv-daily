@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Amino Acids Stabilizing Effect on Protein and Colloidal Dispersions**|Ting Mao et.al.|[2404.11574v1](http://arxiv.org/abs/2404.11574v1)|null|
+|**2024-04-17**|**Variational methods for solving high dimensional quantum systems**|Daming Li et.al.|[2404.11490v1](http://arxiv.org/abs/2404.11490v1)|null|
+|**2024-04-17**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398v1](http://arxiv.org/abs/2404.11398v1)|null|
+|**2024-04-17**|**Hexagonal quasiperiodic tilings as decorations of periodic lattices**|Sam Coates et.al.|[2404.11378v1](http://arxiv.org/abs/2404.11378v1)|null|
+|**2024-04-17**|**A methodology of quantifying membrane permeability based on returning probability theory and molecular dynamics simulation**|Yuya Matsubara et.al.|[2404.11363v1](http://arxiv.org/abs/2404.11363v1)|null|
+|**2024-04-17**|**Transition Graphs of Interacting Hysterons: Structure, Design, Organization and Statistics**|Margot H. Teunisse et.al.|[2404.11344v1](http://arxiv.org/abs/2404.11344v1)|null|
+|**2024-04-17**|**Asymptotic, second-order homogenization of linear elastic beam networks**|Yang Ye et.al.|[2404.11316v1](http://arxiv.org/abs/2404.11316v1)|null|
+|**2024-04-17**|**Observation of Young's double-slit phenomenon in anti-PT-symmetric electrical circuits**|Xiumei Wang et.al.|[2404.11084v1](http://arxiv.org/abs/2404.11084v1)|null|
+|**2024-04-16**|**Unsupervised machine learning for the detection of exotic phases in skyrmion phase diagrams**|F. A. Gómez Albarracín et.al.|[2404.10943v1](http://arxiv.org/abs/2404.10943v1)|null|
+|**2024-04-16**|**Nonnegative tensor train for the multicomponent Smoluchowski equation**|Sergey A. Matveev et.al.|[2404.10898v1](http://arxiv.org/abs/2404.10898v1)|null|
 |**2024-04-16**|**Generalized Linear Response Theory for Pumped Systems and its Application to Transient Optical Properties within DPOA**|Amir Eskandari-asl et.al.|[2404.10768v1](http://arxiv.org/abs/2404.10768v1)|null|
 |**2024-04-16**|**Emergent intelligence of buckling-driven elasto-active structures**|Yuchen Xi et.al.|[2404.10614v1](http://arxiv.org/abs/2404.10614v1)|null|
 |**2024-04-16**|**Swirling due to misaligned perception-dependent motility**|Rodrigo Saavedra et.al.|[2404.10608v1](http://arxiv.org/abs/2404.10608v1)|null|
@@ -5413,6 +5423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Phonon Directionality Determines the Polarization of the Band-Edge Exciton Emission in Two-Dimensional Metal Halide Perovskites**|Roman Krahne et.al.|[2404.11367v1](http://arxiv.org/abs/2404.11367v1)|null|
 |**2024-04-16**|**Breaking of Time Translation Symmetry and Ergodicity, and Entropy decrease in a Continuous Time Crystal Driven by Nonreciprocal Optical Forces**|Tongjun Liu et.al.|[2404.10525v1](http://arxiv.org/abs/2404.10525v1)|null|
 |**2024-04-13**|**Energy Transfer Mechanism Under Incoherent Light Excitation in noisy Environments: Memory Effects in Efficiency Control**|Rajesh Dutta et.al.|[2404.10016v1](http://arxiv.org/abs/2404.10016v1)|null|
 |**2024-04-11**|**Flexible Control of Chiral Superconductivity in Optically Driven Nodal Point Superconductors with Antiferromagnetism**|Zhen Ning et.al.|[2404.07506v1](http://arxiv.org/abs/2404.07506v1)|null|
@@ -5859,6 +5870,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414v1](http://arxiv.org/abs/2404.11414v1)|null|
 |**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049v1](http://arxiv.org/abs/2404.10049v1)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083v1](http://arxiv.org/abs/2404.09083v1)|null|
 |**2024-04-08**|**Intricate Magnetism and Topological Hall Effect Observed in Cr $_{0.83}$ Te**|Shubham Purwar et.al.|[2404.07237v1](http://arxiv.org/abs/2404.07237v1)|null|
