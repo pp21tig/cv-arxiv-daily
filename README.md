@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**High spin axion insulator**|Shuai Li et.al.|[2404.12345v1](http://arxiv.org/abs/2404.12345v1)|null|
+|**2024-04-18**|**Emergent Anti-Ferroelectric Ordering and the Coupling of Liquid Crystalline and Polar Order**|Jordan Hobbs et.al.|[2404.12271v1](http://arxiv.org/abs/2404.12271v1)|null|
+|**2024-04-18**|**Traveling strings of active dipolar colloids**|Xichen Chao et.al.|[2404.12218v1](http://arxiv.org/abs/2404.12218v1)|null|
+|**2024-04-18**|**Anomalous diffusion and effective shear modulus in a semi-solid membrane**|Vikash Pandey et.al.|[2404.12211v1](http://arxiv.org/abs/2404.12211v1)|null|
+|**2024-04-18**|**TMM $-$Sim: A Versatile Tool for Optical Simulation of Thin$-$ Film Solar Cells**|Leandro Benatto et.al.|[2404.12191v1](http://arxiv.org/abs/2404.12191v1)|null|
+|**2024-04-18**|**Impact of non-reciprocal interactions on colloidal self-assembly with tunable anisotropy**|Salman Fariz Navas et.al.|[2404.12108v1](http://arxiv.org/abs/2404.12108v1)|null|
+|**2024-04-18**|**Exploring the Premelting Transition through Molecular Simulations Powered by Neural Network Potentials**|Limin Zeng et.al.|[2404.12036v1](http://arxiv.org/abs/2404.12036v1)|null|
+|**2024-04-18**|**Automated tomographic assessment of structural defects of freeze-dried pharmaceuticals**|Patric Müller et.al.|[2404.11867v1](http://arxiv.org/abs/2404.11867v1)|null|
+|**2024-04-18**|**Alignment-induced depression and shear thinning of anisotropic granular media**|Huzaif Rahim et.al.|[2404.11830v1](http://arxiv.org/abs/2404.11830v1)|null|
+|**2024-04-17**|**Inducing mechanical self-healing in glassy polymer melts**|José Ruiz-Franco et.al.|[2404.11787v1](http://arxiv.org/abs/2404.11787v1)|null|
+|**2024-04-17**|**2D capsid formation within an oscillatory energy landscape: orderly self-assembly depends on the interplay between a dynamic potential and intrinsic relaxation times**|Jessica K. Niblo et.al.|[2404.11765v1](http://arxiv.org/abs/2404.11765v1)|null|
+|**2024-04-17**|**Self-organized dynamics of a viscous drop with interfacial nematic activity**|Mohammadhossein Firouznia et.al.|[2404.11729v1](http://arxiv.org/abs/2404.11729v1)|null|
+|**2024-04-17**|**Dirac spin liquid as an "unnecessary" quantum critical point on square lattice antiferromagnets**|Yunchao Zhang et.al.|[2404.11654v1](http://arxiv.org/abs/2404.11654v1)|null|
+|**2024-04-17**|**Mass-Assisted Local Deconfinement in a Confined $\mathbb{Z}_2$ Lattice Gauge Theory**|Jean-Yves Desaules et.al.|[2404.11645v1](http://arxiv.org/abs/2404.11645v1)|null|
 |**2024-04-17**|**Amino Acids Stabilizing Effect on Protein and Colloidal Dispersions**|Ting Mao et.al.|[2404.11574v1](http://arxiv.org/abs/2404.11574v1)|null|
 |**2024-04-17**|**Variational methods for solving high dimensional quantum systems**|Daming Li et.al.|[2404.11490v1](http://arxiv.org/abs/2404.11490v1)|null|
 |**2024-04-18**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398v2](http://arxiv.org/abs/2404.11398v2)|null|
@@ -5419,6 +5433,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Unsupervised learning approach to quantum wavepacket dynamics from coupled temporal-spatial correlations**|Adva Baratz et.al.|[2404.11980v1](http://arxiv.org/abs/2404.11980v1)|null|
 |**2024-04-17**|**Phonon Directionality Determines the Polarization of the Band-Edge Exciton Emission in Two-Dimensional Metal Halide Perovskites**|Roman Krahne et.al.|[2404.11367v1](http://arxiv.org/abs/2404.11367v1)|null|
 |**2024-04-16**|**Breaking of Time Translation Symmetry and Ergodicity, and Entropy decrease in a Continuous Time Crystal Driven by Nonreciprocal Optical Forces**|Tongjun Liu et.al.|[2404.10525v1](http://arxiv.org/abs/2404.10525v1)|null|
 |**2024-04-13**|**Energy Transfer Mechanism Under Incoherent Light Excitation in noisy Environments: Memory Effects in Efficiency Control**|Rajesh Dutta et.al.|[2404.10016v1](http://arxiv.org/abs/2404.10016v1)|null|
@@ -5635,6 +5650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Directional intense terahertz radiation driven by abruptly autofocusing lasers in air**|Xiao-Ran Zheng et.al.|[2404.11846v1](http://arxiv.org/abs/2404.11846v1)|null|
 |**2024-03-19**|**Ultrafast pseudomagnetic fields from electron-nuclear quantum geometry**|Lennart Klebl et.al.|[2403.13070v1](http://arxiv.org/abs/2403.13070v1)|null|
 |**2023-11-27**|**Avalanche terahertz photon detection in a Rydberg tweezer array**|Chris Nill et.al.|[2311.16365v1](http://arxiv.org/abs/2311.16365v1)|null|
 |**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286v1](http://arxiv.org/abs/2311.10286v1)|null|
@@ -5866,6 +5882,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Tunable Kondo physics in a van der Waals kagome antiferromagnet**|Boqin Song et.al.|[2404.12374v1](http://arxiv.org/abs/2404.12374v1)|null|
+|**2024-04-18**|**Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn $_2$ PdSn**|Arnab Bhattacharya et.al.|[2404.12275v1](http://arxiv.org/abs/2404.12275v1)|null|
 |**2024-04-18**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414v2](http://arxiv.org/abs/2404.11414v2)|null|
 |**2024-04-15**|**Berry-dipole Semimetals**|Zheng-Yang Zhuang et.al.|[2404.10049v1](http://arxiv.org/abs/2404.10049v1)|null|
 |**2024-04-13**|**Interplay between electronic dephasing and localization in finite-sized Chern insulator**|Yunhe Bai et.al.|[2404.09083v1](http://arxiv.org/abs/2404.09083v1)|null|
