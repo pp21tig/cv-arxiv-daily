@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**The Hydrophobic Interaction Induced Strengthening of Hydrogen Bond in Water-DMSO Binary Mixture**|Sangita Mondal et.al.|[2404.13001v1](http://arxiv.org/abs/2404.13001v1)|null|
+|**2024-04-19**|**Diffusive contact between randomly driven colloidal suspensions**|Galor Geva et.al.|[2404.12929v1](http://arxiv.org/abs/2404.12929v1)|null|
+|**2024-04-19**|**Interpreting neural operators: how nonlinear waves propagate in non-reciprocal solids**|Jonathan Colen et.al.|[2404.12918v1](http://arxiv.org/abs/2404.12918v1)|null|
+|**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
+|**2024-04-19**|**Enumerating low-frequency nonphononic vibrations in computer glasses**|Edan Lerner et.al.|[2404.12735v1](http://arxiv.org/abs/2404.12735v1)|null|
+|**2024-04-18**|**Incorporation of the intensive and extensive entropy contributions in the disk intersection theory of a hard disk system**|V. M. Pergamenshchik et.al.|[2404.12506v1](http://arxiv.org/abs/2404.12506v1)|null|
+|**2024-04-18**|**Coil-to-globule collapse of active polymers: a Rouse perspective**|P. Malgaretti et.al.|[2404.12470v1](http://arxiv.org/abs/2404.12470v1)|null|
 |**2024-04-18**|**High spin axion insulator**|Shuai Li et.al.|[2404.12345v1](http://arxiv.org/abs/2404.12345v1)|null|
 |**2024-04-18**|**Emergent Anti-Ferroelectric Ordering and the Coupling of Liquid Crystalline and Polar Order**|Jordan Hobbs et.al.|[2404.12271v1](http://arxiv.org/abs/2404.12271v1)|null|
 |**2024-04-18**|**Traveling strings of active dipolar colloids**|Xichen Chao et.al.|[2404.12218v1](http://arxiv.org/abs/2404.12218v1)|null|
@@ -5437,6 +5444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
+|**2024-04-18**|**Effective light-induced Hamiltonian for atoms with large nuclear spin**|Domantas Burba et.al.|[2404.12429v1](http://arxiv.org/abs/2404.12429v1)|null|
 |**2024-04-18**|**Unsupervised learning approach to quantum wavepacket dynamics from coupled temporal-spatial correlations**|Adva Baratz et.al.|[2404.11980v1](http://arxiv.org/abs/2404.11980v1)|null|
 |**2024-04-17**|**Phonon Directionality Determines the Polarization of the Band-Edge Exciton Emission in Two-Dimensional Metal Halide Perovskites**|Roman Krahne et.al.|[2404.11367v1](http://arxiv.org/abs/2404.11367v1)|null|
 |**2024-04-16**|**Breaking of Time Translation Symmetry and Ergodicity, and Entropy decrease in a Continuous Time Crystal Driven by Nonreciprocal Optical Forces**|Tongjun Liu et.al.|[2404.10525v1](http://arxiv.org/abs/2404.10525v1)|null|
@@ -5717,6 +5726,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Fast current-induced skyrmion motion in synthetic antiferromagnets**|Van Tuong Pham et.al.|[2404.13017v1](http://arxiv.org/abs/2404.13017v1)|null|
 |**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608v1](http://arxiv.org/abs/2404.07608v1)|null|
 |**2024-04-01**|**Harnessing Interlayer Magnetic Coupling for Efficient, Field-Free Current-Induced Magnetization Switching in a Magnetic Insulator**|Leran Wang et.al.|[2404.00845v1](http://arxiv.org/abs/2404.00845v1)|null|
 |**2024-03-28**|**Challenges in extracting nonlinear current-induced phenomena in Ca2RuO4**|Giordano Mattoni et.al.|[2403.19210v1](http://arxiv.org/abs/2403.19210v1)|null|
@@ -5886,6 +5896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
 |**2024-04-18**|**Tunable Kondo physics in a van der Waals kagome antiferromagnet**|Boqin Song et.al.|[2404.12374v1](http://arxiv.org/abs/2404.12374v1)|null|
 |**2024-04-18**|**Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn $_2$ PdSn**|Arnab Bhattacharya et.al.|[2404.12275v1](http://arxiv.org/abs/2404.12275v1)|null|
 |**2024-04-18**|**Anisotropic Nonsaturating Magnetoresistance Observed in HoMn $_6$Ge$_6$ : A Kagome Dirac Semimetal**|Achintya Low et.al.|[2404.11414v2](http://arxiv.org/abs/2404.11414v2)|null|
