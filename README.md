@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Direct observation of Floquet-Bloch states in monolayer graphene**|Dongsung Choi et.al.|[2404.14392v1](http://arxiv.org/abs/2404.14392v1)|null|
+|**2024-04-22**|**Vortex nonlinear optics in monolayer van der Waals crystals**|Tenzin Norden et.al.|[2404.14306v1](http://arxiv.org/abs/2404.14306v1)|null|
+|**2024-04-22**|**Dipolar order controls dielectric response of glass-forming liquids**|Till Böhmer et.al.|[2404.14277v1](http://arxiv.org/abs/2404.14277v1)|null|
+|**2024-04-22**|**Non-equilibrium structure and relaxation in active microemulsions**|Rakesh Chatterjee et.al.|[2404.14176v1](http://arxiv.org/abs/2404.14176v1)|null|
+|**2024-04-22**|**Optimal frequency for undulatory motion in granular media**|Inaki Echeverría-Huarte et.al.|[2404.14168v1](http://arxiv.org/abs/2404.14168v1)|null|
+|**2024-04-22**|**Internal sites of actuation and activation in thin elastic films and membranes of finite thickness**|Tyler Lutz et.al.|[2404.14011v1](http://arxiv.org/abs/2404.14011v1)|null|
+|**2024-04-22**|**A regressor-based hysteresis formulation for the magnetic characterisation of low carbon steels**|A. Skarlatos et.al.|[2404.14004v1](http://arxiv.org/abs/2404.14004v1)|null|
+|**2024-04-22**|**Residual Entropy of Hexagonal Ice and Cubic Ice: A Transfer Matrix Description**|De-Zhang Li et.al.|[2404.13897v1](http://arxiv.org/abs/2404.13897v1)|null|
+|**2024-04-22**|**Quasicrystalline chiral soliton lattices in a Fibonacci helimagnet**|Pablo S. Cornaglia et.al.|[2404.13810v1](http://arxiv.org/abs/2404.13810v1)|null|
+|**2024-04-21**|**Péclet dependent Interactions of Self-Propelled Droplets**|Prateek Dwivedi et.al.|[2404.13740v1](http://arxiv.org/abs/2404.13740v1)|null|
+|**2024-04-21**|**Stochastic Thermodynamics of Micromagnetics**|Mingnan Ding et.al.|[2404.13612v1](http://arxiv.org/abs/2404.13612v1)|null|
+|**2024-04-21**|**Fully Tunable Fano Resonances in Chiral Electronic Transport**|Ai-Ying Ye et.al.|[2404.13597v1](http://arxiv.org/abs/2404.13597v1)|null|
+|**2024-04-21**|**A Variational Approach to Trap Macromolecules**|Luofu Liu et.al.|[2404.13574v1](http://arxiv.org/abs/2404.13574v1)|null|
+|**2024-04-20**|**A Griffith description of fracture for non-monotonic loading with application to fatigue**|Subhrangsu Saha et.al.|[2404.13466v1](http://arxiv.org/abs/2404.13466v1)|null|
+|**2024-04-20**|**Adiabatic Approximation and Aharonov-Casher Bands in Twisted Homobilayer TMDs**|Jingtian Shi et.al.|[2404.13455v1](http://arxiv.org/abs/2404.13455v1)|null|
+|**2024-04-20**|**The Stokes-Einstein-Debye relation in ortho-terphenyl liquid**|Gan Ren et.al.|[2404.13380v1](http://arxiv.org/abs/2404.13380v1)|null|
+|**2024-04-20**|**3D characterization of kinematic fields and poroelastic swelling near the tip of a propagating crack in a hydrogel**|Chenzhuo Li et.al.|[2404.13331v1](http://arxiv.org/abs/2404.13331v1)|null|
+|**2024-04-19**|**Anomalous Long-Distance Coherence in Critically-Driven Cavity Magnonics**|Ying Yang et.al.|[2404.13190v1](http://arxiv.org/abs/2404.13190v1)|null|
+|**2024-04-19**|**A universal material model subroutine for soft matter systems**|Mathias Peirlinck et.al.|[2404.13144v1](http://arxiv.org/abs/2404.13144v1)|null|
+|**2024-04-19**|**Gauged Gaussian PEPS -- A High Dimensional Tensor Network Formulation for Lattice Gauge Theories**|Ariel Kelman et.al.|[2404.13123v1](http://arxiv.org/abs/2404.13123v1)|null|
 |**2024-04-19**|**The Hydrophobic Interaction Induced Strengthening of Hydrogen Bond in Water-DMSO Binary Mixture**|Sangita Mondal et.al.|[2404.13001v1](http://arxiv.org/abs/2404.13001v1)|null|
 |**2024-04-19**|**Diffusive contact between randomly driven colloidal suspensions**|Galor Geva et.al.|[2404.12929v1](http://arxiv.org/abs/2404.12929v1)|null|
 |**2024-04-19**|**Interpreting neural operators: how nonlinear waves propagate in non-reciprocal solids**|Jonathan Colen et.al.|[2404.12918v1](http://arxiv.org/abs/2404.12918v1)|null|
@@ -5722,6 +5742,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Magneto-optical detection of spin-orbit torque vector with first-order Kerr effects**|Claudio Gonzalez-Fuentes et.al.|[2404.14315v1](http://arxiv.org/abs/2404.14315v1)|null|
 |**2024-04-19**|**Fast current-induced skyrmion motion in synthetic antiferromagnets**|Van Tuong Pham et.al.|[2404.13017v1](http://arxiv.org/abs/2404.13017v1)|null|
 |**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608v1](http://arxiv.org/abs/2404.07608v1)|null|
 |**2024-04-01**|**Harnessing Interlayer Magnetic Coupling for Efficient, Field-Free Current-Induced Magnetization Switching in a Magnetic Insulator**|Leran Wang et.al.|[2404.00845v1](http://arxiv.org/abs/2404.00845v1)|null|
@@ -5892,6 +5913,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-20**|**Chern Number Tunable Quantum Anomalous Hall Effect in Compensated Antiferromagnets**|Wenhao Liang et.al.|[2404.13305v1](http://arxiv.org/abs/2404.13305v1)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
 |**2024-04-18**|**Tunable Kondo physics in a van der Waals kagome antiferromagnet**|Boqin Song et.al.|[2404.12374v1](http://arxiv.org/abs/2404.12374v1)|null|
 |**2024-04-18**|**Spin-Valve-Like Magnetoresistance and Anomalous Hall Effect in Magnetic Weyl Metal Mn $_2$ PdSn**|Arnab Bhattacharya et.al.|[2404.12275v1](http://arxiv.org/abs/2404.12275v1)|null|
@@ -6132,6 +6154,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**Uncovering Obscured Phonon Dynamics from Powder Inelastic Neutron Scattering using Machine Learning**|Yaokun Su et.al.|[2404.13507v1](http://arxiv.org/abs/2404.13507v1)|null|
 |**2024-04-08**|**Witnessing Quantum Entanglement Using Resonant Inelastic X-ray Scattering**|Tianhao Ren et.al.|[2404.05850v1](http://arxiv.org/abs/2404.05850v1)|null|
 |**2024-04-05**|**Field-dependent Magnons in a Honeycomb Antiferromagnet CoTiO $_3$**|Bo Yuan et.al.|[2404.04390v1](http://arxiv.org/abs/2404.04390v1)|null|
 |**2024-04-05**|**The polarisation fluctuation length scale shaping the superconducting dome of SrTiO $_3$**|Benoît Fauqué et.al.|[2404.04154v1](http://arxiv.org/abs/2404.04154v1)|null|
