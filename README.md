@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Unifying the Temperature Dependent Dynamics of Glasses**|Joseph B. Schlenoff et.al.|[2404.15250v1](http://arxiv.org/abs/2404.15250v1)|null|
+|**2024-04-23**|**Overlapping plastic events as a mechanism for irreversible dynamics in amorphous solids under oscillatory shear**|Asaf Szulc et.al.|[2404.15106v1](http://arxiv.org/abs/2404.15106v1)|null|
+|**2024-04-23**|**Designing athermal disordered solids with automatic differentiation**|Mengjie Zu et.al.|[2404.15101v1](http://arxiv.org/abs/2404.15101v1)|null|
+|**2024-04-23**|**Geometric measures of uniaxial solids of revolution in ${\mathbb{R}^{4}}$ and their relation to the second virial coefficient**|Markus Kulossa et.al.|[2404.15092v1](http://arxiv.org/abs/2404.15092v1)|null|
+|**2024-04-23**|**Asymmetric rectified electric fields for symmetric electrolytes**|A. Barnaveli et.al.|[2404.15055v1](http://arxiv.org/abs/2404.15055v1)|null|
+|**2024-04-23**|**Achieving the volume-law entropy regime with random-sign Dicke states**|Oleg M. Sotnikov et.al.|[2404.15050v1](http://arxiv.org/abs/2404.15050v1)|null|
+|**2024-04-23**|**A unified analytical prediction for steady-state behavior of confined drop with interface viscosity under shear flow**|Fabio Guglietta et.al.|[2404.15019v1](http://arxiv.org/abs/2404.15019v1)|null|
+|**2024-04-23**|**Single-Spin Waved-Brim Flat-Top Hat in the Band Edge of GdIH Monolayer**|Ningning Jia et.al.|[2404.15007v1](http://arxiv.org/abs/2404.15007v1)|null|
+|**2024-04-23**|**Pressure-Gated Microfluidic Memristor for Pulsatile Information Processing**|A. Barnaveli et.al.|[2404.15006v1](http://arxiv.org/abs/2404.15006v1)|null|
+|**2024-04-23**|**Irreversible Boltzmann samplers in dense liquids: weak-coupling approximation and mode-coupling theory**|Federico Ghimenti et.al.|[2404.14863v1](http://arxiv.org/abs/2404.14863v1)|null|
+|**2024-04-23**|**Experimental measurement of mean transition path velocities of colloidal particles surmounting energy barriers**|Brandon R. Ferrer et.al.|[2404.14699v1](http://arxiv.org/abs/2404.14699v1)|null|
+|**2024-04-23**|**Reversal in Thermally Driven Rotation of Chiral Liquid Crystal Droplets**|Shunsuke Takano et.al.|[2404.14666v1](http://arxiv.org/abs/2404.14666v1)|null|
+|**2024-04-23**|**Primitive chain network simulations for double peaks in shear stress under fast flows of bidisperse entangled polymers**|Yuichi Masubuchi et.al.|[2404.14629v1](http://arxiv.org/abs/2404.14629v1)|null|
+|**2024-04-22**|**Unsupervised Learning of Individual Kohn-Sham States: Interpretable Representations and Consequences for Downstream Predictions of Many-Body Effects**|Bowen Hou et.al.|[2404.14601v1](http://arxiv.org/abs/2404.14601v1)|null|
+|**2024-04-22**|**Plasmon-enhanced Brillouin Light Scattering (BLS) spectroscopy for magnetic systems. II. Numerical simulations**|Yurii Demydenko et.al.|[2404.14535v1](http://arxiv.org/abs/2404.14535v1)|null|
+|**2024-04-22**|**Plasmon-enhanced Brillouin Light Scattering spectroscopy for magnetic systems. I. Theoretical Model**|Valeri Lozovski et.al.|[2404.14528v1](http://arxiv.org/abs/2404.14528v1)|null|
+|**2024-04-22**|**Optimally scrambling chiral spin-chain with effective black hole geometry**|Aiden Daniel et.al.|[2404.14473v1](http://arxiv.org/abs/2404.14473v1)|null|
 |**2024-04-22**|**Direct observation of Floquet-Bloch states in monolayer graphene**|Dongsung Choi et.al.|[2404.14392v1](http://arxiv.org/abs/2404.14392v1)|null|
 |**2024-04-22**|**Vortex nonlinear optics in monolayer van der Waals crystals**|Tenzin Norden et.al.|[2404.14306v1](http://arxiv.org/abs/2404.14306v1)|null|
 |**2024-04-22**|**Dipolar order controls dielectric response of glass-forming liquids**|Till Böhmer et.al.|[2404.14277v1](http://arxiv.org/abs/2404.14277v1)|null|
