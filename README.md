@@ -1098,13 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Granular jamming gripper with integrated suction**|Angel Santarossa et.al.|[2404.15577v1](http://arxiv.org/abs/2404.15577v1)|null|
+|**2024-04-23**|**Polyconvex neural network models of thermoelasticity**|Jan N. Fuhg et.al.|[2404.15562v1](http://arxiv.org/abs/2404.15562v1)|null|
+|**2024-04-23**|**Measuring topological constraint relaxation in ring-linear polymer blends**|Daniel L. Vigil et.al.|[2404.15560v1](http://arxiv.org/abs/2404.15560v1)|null|
+|**2024-04-23**|**Distinguishing noisy crystal symmetries in coarse-grained computer simulations: New procedures for noise reduction and lattice reconstruction**|Evgeniia Filimonova et.al.|[2404.15539v1](http://arxiv.org/abs/2404.15539v1)|null|
+|**2024-04-23**|**A Rotational/Roto-translational Constraint Method for Condensed Matter**|Jitai Yang et.al.|[2404.15517v1](http://arxiv.org/abs/2404.15517v1)|null|
+|**2024-04-23**|**Deep-learning Optical Flow Outperforms PIV in Obtaining Velocity Fields from Active Nematics**|Phu N. Tran et.al.|[2404.15497v1](http://arxiv.org/abs/2404.15497v1)|null|
 |**2024-04-23**|**Unifying the Temperature Dependent Dynamics of Glasses**|Joseph B. Schlenoff et.al.|[2404.15250v1](http://arxiv.org/abs/2404.15250v1)|null|
 |**2024-04-23**|**Overlapping plastic events as a mechanism for irreversible dynamics in amorphous solids under oscillatory shear**|Asaf Szulc et.al.|[2404.15106v1](http://arxiv.org/abs/2404.15106v1)|null|
 |**2024-04-23**|**Designing athermal disordered solids with automatic differentiation**|Mengjie Zu et.al.|[2404.15101v1](http://arxiv.org/abs/2404.15101v1)|null|
 |**2024-04-23**|**Geometric measures of uniaxial solids of revolution in ${\mathbb{R}^{4}}$ and their relation to the second virial coefficient**|Markus Kulossa et.al.|[2404.15092v1](http://arxiv.org/abs/2404.15092v1)|null|
 |**2024-04-23**|**Asymmetric rectified electric fields for symmetric electrolytes**|A. Barnaveli et.al.|[2404.15055v1](http://arxiv.org/abs/2404.15055v1)|null|
 |**2024-04-23**|**Achieving the volume-law entropy regime with random-sign Dicke states**|Oleg M. Sotnikov et.al.|[2404.15050v1](http://arxiv.org/abs/2404.15050v1)|null|
-|**2024-04-23**|**A unified analytical prediction for steady-state behavior of confined drop with interface viscosity under shear flow**|Fabio Guglietta et.al.|[2404.15019v1](http://arxiv.org/abs/2404.15019v1)|null|
+|**2024-04-24**|**A unified analytical prediction for steady-state behavior of confined drop with interface viscosity under shear flow**|Fabio Guglietta et.al.|[2404.15019v2](http://arxiv.org/abs/2404.15019v2)|null|
 |**2024-04-23**|**Single-Spin Waved-Brim Flat-Top Hat in the Band Edge of GdIH Monolayer**|Ningning Jia et.al.|[2404.15007v1](http://arxiv.org/abs/2404.15007v1)|null|
 |**2024-04-23**|**Pressure-Gated Microfluidic Memristor for Pulsatile Information Processing**|A. Barnaveli et.al.|[2404.15006v1](http://arxiv.org/abs/2404.15006v1)|null|
 |**2024-04-23**|**Irreversible Boltzmann samplers in dense liquids: weak-coupling approximation and mode-coupling theory**|Federico Ghimenti et.al.|[2404.14863v1](http://arxiv.org/abs/2404.14863v1)|null|
@@ -5759,6 +5765,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Superconducting magnetoelectric effects in mesoscopic hybrid structures**|Mostafa Tanhayi Ahari et.al.|[2404.15553v1](http://arxiv.org/abs/2404.15553v1)|null|
+|**2024-04-23**|**Magnetic anisotropy in single-crystalline antiferromagnetic Mn $_2$ Au**|Mebatsion S. Gebre et.al.|[2404.15525v1](http://arxiv.org/abs/2404.15525v1)|null|
 |**2024-04-22**|**Magneto-optical detection of spin-orbit torque vector with first-order Kerr effects**|Claudio Gonzalez-Fuentes et.al.|[2404.14315v1](http://arxiv.org/abs/2404.14315v1)|null|
 |**2024-04-19**|**Fast current-induced skyrmion motion in synthetic antiferromagnets**|Van Tuong Pham et.al.|[2404.13017v1](http://arxiv.org/abs/2404.13017v1)|null|
 |**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608v1](http://arxiv.org/abs/2404.07608v1)|null|
