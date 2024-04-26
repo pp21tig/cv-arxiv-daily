@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Ordered and disordered stealthy hyperuniform point patterns across spatial dimensions**|Peter K. Morse et.al.|[2404.16819v1](http://arxiv.org/abs/2404.16819v1)|null|
+|**2024-04-25**|**Enhancing nanocrystal superlattice self-assembly near a metastable liquid binodal**|Christian P. N. Tanner et.al.|[2404.16808v1](http://arxiv.org/abs/2404.16808v1)|null|
+|**2024-04-25**|**Model-free inference of memory in conformational dynamics of a multi-domain protein**|Leonie Vollmar et.al.|[2404.16799v1](http://arxiv.org/abs/2404.16799v1)|null|
+|**2024-04-25**|**Simulation of depth-dose curves and water equivalent ratios of energetic proton beams in cortical bone**|Ana María Zamora-Vinaroz et.al.|[2404.16667v1](http://arxiv.org/abs/2404.16667v1)|null|
+|**2024-04-25**|**Freezing density scaling of transport coefficients in the Weeks-Chandler-Andersen fluid**|S. A. Khrapak et.al.|[2404.16603v1](http://arxiv.org/abs/2404.16603v1)|null|
+|**2024-04-25**|**AMEP: The Active Matter Evaluation Package for Python**|Lukas Hecht et.al.|[2404.16533v1](http://arxiv.org/abs/2404.16533v1)|null|
+|**2024-04-25**|**Nonlinear dynamics of a hanging string with a freely pivoting attached mass**|Filip Novkoski et.al.|[2404.16531v1](http://arxiv.org/abs/2404.16531v1)|null|
+|**2024-04-25**|**Wavefunction collapse driven by non-Hermitian disturbance**|Jorge Martinez Romeral et.al.|[2404.16445v1](http://arxiv.org/abs/2404.16445v1)|null|
+|**2024-04-25**|**Ionic self-phoresis maps onto correlation-induced self-phoresis**|Alvaro Domínguez et.al.|[2404.16435v1](http://arxiv.org/abs/2404.16435v1)|null|
+|**2024-04-25**|**SwarmRL: Building the Future of Smart Active Systems**|Samuel Tovey et.al.|[2404.16388v1](http://arxiv.org/abs/2404.16388v1)|**[link](https://github.com/swarmrl/swarmrl)**|
+|**2024-04-25**|**Identifying the ground state phases by spin-patterns in the Shastry-Sutherland model**|Yun-Tong Yang et.al.|[2404.16330v1](http://arxiv.org/abs/2404.16330v1)|null|
+|**2024-04-24**|**K-core attack, equilibrium K-core, and kinetically constrained spin system**|Hai-Jun Zhou et.al.|[2404.16237v1](http://arxiv.org/abs/2404.16237v1)|null|
+|**2024-04-24**|**Structural investigation of the quasi-one-dimensional topological insulator Bi $_4$I$_4$**|C. David Hinostroza et.al.|[2404.16194v1](http://arxiv.org/abs/2404.16194v1)|null|
+|**2024-04-24**|**Microstructural features governing fracture of a two-dimensional amorphous solid identified by machine learning**|Max Huisman et.al.|[2404.15938v1](http://arxiv.org/abs/2404.15938v1)|null|
+|**2024-04-24**|**Renormalization group of topological scattering networks**|Zhe Zhang et.al.|[2404.15866v1](http://arxiv.org/abs/2404.15866v1)|null|
+|**2024-04-24**|**Jamming memory into acoustically trained dense suspensions under shear**|Edward Y. X. Ong et.al.|[2404.15850v1](http://arxiv.org/abs/2404.15850v1)|null|
+|**2024-04-24**|**Entropic signature of resonant thermal transport: Ordered form of heat conduction**|Albert Beardo et.al.|[2404.15831v1](http://arxiv.org/abs/2404.15831v1)|null|
+|**2024-04-24**|**Inertia and Activity: Spiral transitions in semi-flexible, self-avoiding polymers**|Chitrak Karan et.al.|[2404.15748v1](http://arxiv.org/abs/2404.15748v1)|null|
+|**2024-04-24**|**Purification phase transition in the central spin model: second Rényi entropy in dual space approach**|V. V. Belov et.al.|[2404.15717v1](http://arxiv.org/abs/2404.15717v1)|null|
+|**2024-04-24**|**Neural network-based recognition of multiple nanobubbles in graphene**|Subin Kim et.al.|[2404.15658v1](http://arxiv.org/abs/2404.15658v1)|null|
 |**2024-04-24**|**Granular jamming gripper with integrated suction**|Angel Santarossa et.al.|[2404.15577v1](http://arxiv.org/abs/2404.15577v1)|null|
 |**2024-04-23**|**Polyconvex neural network models of thermoelasticity**|Jan N. Fuhg et.al.|[2404.15562v1](http://arxiv.org/abs/2404.15562v1)|null|
 |**2024-04-23**|**Measuring topological constraint relaxation in ring-linear polymer blends**|Daniel L. Vigil et.al.|[2404.15560v1](http://arxiv.org/abs/2404.15560v1)|null|
@@ -5942,6 +5962,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Anisotropic magnetoresistance in altermagnetic MnTe**|Ruben Dario Gonzalez Betancourt et.al.|[2404.16516v1](http://arxiv.org/abs/2404.16516v1)|null|
+|**2024-04-25**|**Does carrier localization affect the anomalous Hall effect?**|Prasanta Chowdhury et.al.|[2404.16368v1](http://arxiv.org/abs/2404.16368v1)|null|
+|**2024-04-24**|**Optical signatures of type-II Weyl fermions in the noncentrosymmetric semimetals $R$AlSi ($R$ =La, Ce, Pr, Nd, Sm)**|J. Kunze et.al.|[2404.16002v1](http://arxiv.org/abs/2404.16002v1)|null|
 |**2024-04-20**|**Chern Number Tunable Quantum Anomalous Hall Effect in Compensated Antiferromagnets**|Wenhao Liang et.al.|[2404.13305v1](http://arxiv.org/abs/2404.13305v1)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
 |**2024-04-18**|**Tunable Kondo physics in a van der Waals kagome antiferromagnet**|Boqin Song et.al.|[2404.12374v1](http://arxiv.org/abs/2404.12374v1)|null|
@@ -6183,6 +6206,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Phonon dispersion of quantum paraelectric SrTiO3 in electric fields**|Henrik Jacobsen et.al.|[2404.16334v1](http://arxiv.org/abs/2404.16334v1)|null|
+|**2024-04-24**|**Spin Supersolid Phase and Double Magnon-Roton Excitations in a Cobalt-based Triangular Lattice**|Yuan Gao et.al.|[2404.15997v1](http://arxiv.org/abs/2404.15997v1)|null|
+|**2024-04-24**|**Some understanding of recent inelastic neutron scattering on Ce-pyrochlores: Signatures of electric monopoles**|Pengwei Zhao et.al.|[2404.15902v1](http://arxiv.org/abs/2404.15902v1)|null|
+|**2024-04-24**|**Possible gapless quantum spin liquid behavior in the triangular-lattice Ising antiferromagnet PrMgAl $_{11}$O$_{19}$**|Zhen Ma et.al.|[2404.15773v1](http://arxiv.org/abs/2404.15773v1)|null|
 |**2024-04-21**|**Uncovering Obscured Phonon Dynamics from Powder Inelastic Neutron Scattering using Machine Learning**|Yaokun Su et.al.|[2404.13507v1](http://arxiv.org/abs/2404.13507v1)|null|
 |**2024-04-08**|**Witnessing Quantum Entanglement Using Resonant Inelastic X-ray Scattering**|Tianhao Ren et.al.|[2404.05850v1](http://arxiv.org/abs/2404.05850v1)|null|
 |**2024-04-05**|**Field-dependent Magnons in a Honeycomb Antiferromagnet CoTiO $_3$**|Bo Yuan et.al.|[2404.04390v1](http://arxiv.org/abs/2404.04390v1)|null|
