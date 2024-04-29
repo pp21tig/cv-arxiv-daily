@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Spiral flow of quantum quartic oscillator with energy cutoff**|M. Girguś et.al.|[2404.17446v1](http://arxiv.org/abs/2404.17446v1)|null|
+|**2024-04-26**|**Nonreciprocal pair interactions and emergent activity mediated by scattered waves**|Ella M. King et.al.|[2404.17410v1](http://arxiv.org/abs/2404.17410v1)|null|
+|**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365v1](http://arxiv.org/abs/2404.17365v1)|null|
+|**2024-04-26**|**Interpreting the power spectral density of a fluctuating colloidal current**|Stuart F. Knowles et.al.|[2404.17291v1](http://arxiv.org/abs/2404.17291v1)|null|
+|**2024-04-26**|**Strategy of a separation technique for different particles with the same size and zeta potential: Application of non-additive Asakura-Oosawa theory**|Ikuma Ogasawara et.al.|[2404.17117v1](http://arxiv.org/abs/2404.17117v1)|null|
+|**2024-04-25**|**Experimental evidence for the $ω^4$ tail of the nonphononic spectra of glasses**|Avraham Moriel et.al.|[2404.16996v1](http://arxiv.org/abs/2404.16996v1)|null|
+|**2024-04-25**|**PDMS elastic properties: influence of fabrication protocol and test method**|Hannah Varner et.al.|[2404.16960v1](http://arxiv.org/abs/2404.16960v1)|null|
+|**2024-04-25**|**Entropy production of run-and-tumble particles**|Matteo Paoluzzi et.al.|[2404.16955v1](http://arxiv.org/abs/2404.16955v1)|null|
 |**2024-04-25**|**Ordered and disordered stealthy hyperuniform point patterns across spatial dimensions**|Peter K. Morse et.al.|[2404.16819v1](http://arxiv.org/abs/2404.16819v1)|null|
 |**2024-04-25**|**Enhancing nanocrystal superlattice self-assembly near a metastable liquid binodal**|Christian P. N. Tanner et.al.|[2404.16808v1](http://arxiv.org/abs/2404.16808v1)|null|
 |**2024-04-25**|**Model-free inference of memory in conformational dynamics of a multi-domain protein**|Leonie Vollmar et.al.|[2404.16799v1](http://arxiv.org/abs/2404.16799v1)|null|
@@ -6202,6 +6210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Disentangling spin excitation continua in classical and quantum magnets using 2D nonlinear spectroscopy**|Emily Z. Zhang et.al.|[2404.16935v1](http://arxiv.org/abs/2404.16935v1)|null|
 |**2024-04-25**|**Phonon dispersion of quantum paraelectric SrTiO3 in electric fields**|Henrik Jacobsen et.al.|[2404.16334v1](http://arxiv.org/abs/2404.16334v1)|null|
 |**2024-04-24**|**Spin Supersolid Phase and Double Magnon-Roton Excitations in a Cobalt-based Triangular Lattice**|Yuan Gao et.al.|[2404.15997v1](http://arxiv.org/abs/2404.15997v1)|null|
 |**2024-04-24**|**Some understanding of recent inelastic neutron scattering on Ce-pyrochlores: Signatures of electric monopoles**|Pengwei Zhao et.al.|[2404.15902v1](http://arxiv.org/abs/2404.15902v1)|null|
