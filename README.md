@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Tunable exciton valley-pseudospin orders in moiré Bose-Hubbard model**|Richen Xiong et.al.|[2404.18931v1](http://arxiv.org/abs/2404.18931v1)|null|
+|**2024-04-29**|**Colloidal dispersions of sterically and electrostatically stabilized PbS quantum dots: the effect of stabilization mechanism on structure factors, second virial coefficients, and film-forming properties**|Ahhyun Jeong et.al.|[2404.18915v1](http://arxiv.org/abs/2404.18915v1)|null|
+|**2024-04-29**|**Odd viscosity suppresses intermittency in direct turbulent cascades**|Sihan Chen et.al.|[2404.18894v1](http://arxiv.org/abs/2404.18894v1)|null|
+|**2024-04-29**|**Anomalous Spin and Orbital Hall Phenomena in Antiferromagnetic Systems**|J. E. Abrão et.al.|[2404.18712v1](http://arxiv.org/abs/2404.18712v1)|null|
+|**2024-04-29**|**A comprehensive study of nonlinear perturbations in the dynamics of planar crack fronts**|Itamar Kolvin et.al.|[2404.18633v1](http://arxiv.org/abs/2404.18633v1)|null|
+|**2024-04-29**|**Patterning of 2D second harmonic generation active arrays in ferroelectric nematic fluids**|M. Lovšin et.al.|[2404.18619v1](http://arxiv.org/abs/2404.18619v1)|null|
+|**2024-04-29**|**Statistical formulation of Onsager-Machlup variational principle**|Kento Yasuda et.al.|[2404.18611v1](http://arxiv.org/abs/2404.18611v1)|null|
+|**2024-04-29**|**A statistical analysis of the first stages of freezing and melting of Lennard-Jones particles: Number and size distributions of transient nuclei**|Patrice Porion et.al.|[2404.18590v1](http://arxiv.org/abs/2404.18590v1)|null|
+|**2024-04-29**|**Experimental and Theoretical Bulk Phase Diagram and Interfacial Tension of Ouzo**|Andrew J. Archer et.al.|[2404.18524v1](http://arxiv.org/abs/2404.18524v1)|null|
+|**2024-04-29**|**Fluctuation of a bilayer composed by surfactants**|Shunta Kikuchi et.al.|[2404.18486v1](http://arxiv.org/abs/2404.18486v1)|null|
+|**2024-04-29**|**Interfacial Rheology of Lanthanide Binding Peptide Surfactants at the Air-Water Interface**|Stephen A. Crane et.al.|[2404.18340v1](http://arxiv.org/abs/2404.18340v1)|null|
+|**2024-04-28**|**Casimir force within Ising chain with competing interactions**|Daniel Dantchev et.al.|[2404.18324v1](http://arxiv.org/abs/2404.18324v1)|null|
+|**2024-04-28**|**Evaluating a quantum-classical quantum Monte Carlo algorithm with Matchgate shadows**|Benchen Huang et.al.|[2404.18303v1](http://arxiv.org/abs/2404.18303v1)|null|
+|**2024-04-28**|**A Universal Kinematical Group for Quantum Mechanics**|Gerald A. Goldin et.al.|[2404.18274v1](http://arxiv.org/abs/2404.18274v1)|null|
+|**2024-04-28**|**Gate tunable edge magnetoplasmon resonators**|E. Frigerio et.al.|[2404.18204v1](http://arxiv.org/abs/2404.18204v1)|null|
+|**2024-04-28**|**Stability and Elasticity of Ultrathin Sphere-Patterned Block Copolymer Films**|Le Qiao et.al.|[2404.18129v1](http://arxiv.org/abs/2404.18129v1)|null|
+|**2024-04-28**|**Micro-swimmer collective dynamics in Brinkman flows**|Yasser Almoteri et.al.|[2404.18035v1](http://arxiv.org/abs/2404.18035v1)|null|
+|**2024-04-27**|**Diffusiophoresis of ionic catalytic particles**|Evgeny S. Asmolov et.al.|[2404.17928v1](http://arxiv.org/abs/2404.17928v1)|null|
+|**2024-04-27**|**Spin-dependent $π$$π^{\ast}$ gap in graphene on a magnetic substrate**|P. M. Sheverdyaeva et.al.|[2404.17887v1](http://arxiv.org/abs/2404.17887v1)|null|
+|**2024-04-27**|**Why Some Metal Ions Spontaneously Form Nanoparticles in Water Microdroplets? Disentangling the Contributions of Air-Water Interface and Bulk Redox Chemistry**|Muzzamil Ahmad Eatoo et.al.|[2404.17838v1](http://arxiv.org/abs/2404.17838v1)|null|
 |**2024-04-26**|**Spiral flow of quantum quartic oscillator with energy cutoff**|M. Girguś et.al.|[2404.17446v1](http://arxiv.org/abs/2404.17446v1)|null|
 |**2024-04-26**|**Nonreciprocal pair interactions and emergent activity mediated by scattered waves**|Ella M. King et.al.|[2404.17410v1](http://arxiv.org/abs/2404.17410v1)|null|
 |**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365v1](http://arxiv.org/abs/2404.17365v1)|null|
@@ -5966,6 +5986,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597v1](http://arxiv.org/abs/2404.18597v1)|null|
+|**2024-04-29**|**Anomalous Phonon in Charge-Density-Wave Phase of Kagome Metal CsV3Sb5**|Han-Yu Wang et.al.|[2404.18366v1](http://arxiv.org/abs/2404.18366v1)|null|
 |**2024-04-25**|**Anisotropic magnetoresistance in altermagnetic MnTe**|Ruben Dario Gonzalez Betancourt et.al.|[2404.16516v1](http://arxiv.org/abs/2404.16516v1)|null|
 |**2024-04-25**|**Does carrier localization affect the anomalous Hall effect?**|Prasanta Chowdhury et.al.|[2404.16368v1](http://arxiv.org/abs/2404.16368v1)|null|
 |**2024-04-24**|**Optical signatures of type-II Weyl fermions in the noncentrosymmetric semimetals $R$AlSi ($R$ =La, Ce, Pr, Nd, Sm)**|J. Kunze et.al.|[2404.16002v1](http://arxiv.org/abs/2404.16002v1)|null|
