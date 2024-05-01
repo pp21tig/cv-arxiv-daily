@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**curvedSpaceSim: A framework for simulating particles interacting along geodesics**|Toler H. Webb et.al.|[2404.19751v1](http://arxiv.org/abs/2404.19751v1)|null|
+|**2024-04-30**|**Dynamics of particle aggregation in dewetting films of complex liquids**|J. Zhang et.al.|[2404.19701v1](http://arxiv.org/abs/2404.19701v1)|null|
+|**2024-04-30**|**Phase transition and polar cluster behavior above Curie temperature in ferroelectric BaTi $_{0.8}$Zr$_{0.2}$O$_3$**|Oktay Aktas et.al.|[2404.19558v1](http://arxiv.org/abs/2404.19558v1)|null|
+|**2024-04-30**|**Entanglement-assisted phase estimation algorithm for calculating dynamical response functions**|Rei Sakuma et.al.|[2404.19554v1](http://arxiv.org/abs/2404.19554v1)|null|
+|**2024-04-30**|**Chirality and odd mechanics in active columnar phases**|S. J. Kole et.al.|[2404.19514v1](http://arxiv.org/abs/2404.19514v1)|null|
+|**2024-04-30**|**Fine-tuning the Microstructure and Photophysical Characteristics of Fluorescent Conjugated Copolymers Using Photoalignment and Liquid-crystalline Ordering**|Yuping Shi et.al.|[2404.19435v1](http://arxiv.org/abs/2404.19435v1)|null|
+|**2024-04-30**|**Pinning Disfavors Nucleation in Colloidal Vapor Deposition**|Noman Hanif Barbhuiya et.al.|[2404.19425v1](http://arxiv.org/abs/2404.19425v1)|null|
+|**2024-04-30**|**Intrinsic negative magnetoresistance from the chiral anomaly of multifold fermions**|F. Balduini et.al.|[2404.19424v1](http://arxiv.org/abs/2404.19424v1)|null|
+|**2024-04-30**|**Aluminum nuclear demagnetization refrigerator for powerful continuous cooling**|Matthias Raba et.al.|[2404.19352v1](http://arxiv.org/abs/2404.19352v1)|null|
+|**2024-04-30**|**Observation of strain-rate softening behavior in jammed granular media**|Mingchao Liu et.al.|[2404.19321v1](http://arxiv.org/abs/2404.19321v1)|null|
+|**2024-04-30**|**Structure and dynamics of amphiphilic patchy cubes in a nanoslit under shear**|Takahiro Ikeda et.al.|[2404.19270v1](http://arxiv.org/abs/2404.19270v1)|null|
+|**2024-04-30**|**Evolution of static to dynamic mechanical behavior in topological nonreciprocal robotic metamaterials**|Zehuan Tang et.al.|[2404.19231v1](http://arxiv.org/abs/2404.19231v1)|null|
+|**2024-04-29**|**Thermoelectric transport properties of the quasi-one-dimensional dimer-Mott insulator $β'$-(BEDT-TTF)$_2$ICl$_2$**|Kyohei Eguchi et.al.|[2404.19137v1](http://arxiv.org/abs/2404.19137v1)|null|
+|**2024-04-29**|**Nonlinear microrheology with time-dependent forces -- Application to recoils in viscoelastic fluids**|Nikolas Ditz et.al.|[2404.19085v1](http://arxiv.org/abs/2404.19085v1)|null|
+|**2024-04-29**|**Self-reverting vortices in chiral active matter**|Lorenzo Caprini et.al.|[2404.19062v1](http://arxiv.org/abs/2404.19062v1)|null|
+|**2024-04-29**|**Phase Ordering in Binary Mixtures of Active Nematic Fluids**|Saraswat Bhattacharyya et.al.|[2404.19061v1](http://arxiv.org/abs/2404.19061v1)|null|
+|**2024-04-29**|**Unveiling Novel Insights in Quantum Dynamics through Extended Sachdev-Ye-Kitaev Model**|Davood Momeni et.al.|[2404.19029v1](http://arxiv.org/abs/2404.19029v1)|null|
+|**2024-04-29**|**Mobility and Threshold Voltage Extraction in Transistors with Gate-Voltage-Dependent Contact Resistance**|Robert K. A. Bennett et.al.|[2404.19022v1](http://arxiv.org/abs/2404.19022v1)|null|
+|**2024-04-29**|**Topological holography for fermions**|Rui Wen et.al.|[2404.19004v1](http://arxiv.org/abs/2404.19004v1)|null|
 |**2024-04-29**|**Tunable exciton valley-pseudospin orders in moiré Bose-Hubbard model**|Richen Xiong et.al.|[2404.18931v1](http://arxiv.org/abs/2404.18931v1)|null|
 |**2024-04-29**|**Colloidal dispersions of sterically and electrostatically stabilized PbS quantum dots: the effect of stabilization mechanism on structure factors, second virial coefficients, and film-forming properties**|Ahhyun Jeong et.al.|[2404.18915v1](http://arxiv.org/abs/2404.18915v1)|null|
 |**2024-04-29**|**Odd viscosity suppresses intermittency in direct turbulent cascades**|Sihan Chen et.al.|[2404.18894v1](http://arxiv.org/abs/2404.18894v1)|null|
@@ -5535,6 +5554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Magnetophononics and the Chiral Phonon Misnomer**|R. Merlin et.al.|[2404.19593v1](http://arxiv.org/abs/2404.19593v1)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
 |**2024-04-18**|**Effective light-induced Hamiltonian for atoms with large nuclear spin**|Domantas Burba et.al.|[2404.12429v1](http://arxiv.org/abs/2404.12429v1)|null|
 |**2024-04-18**|**Unsupervised learning approach to quantum wavepacket dynamics from coupled temporal-spatial correlations**|Adva Baratz et.al.|[2404.11980v1](http://arxiv.org/abs/2404.11980v1)|null|
