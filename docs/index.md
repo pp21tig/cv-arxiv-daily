@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Particle scale anisotropy controls bulk properties in sheared granular materials**|Carmen L. Lee et.al.|[2405.00653v1](http://arxiv.org/abs/2405.00653v1)|null|
+|**2024-05-01**|**Capillary-Assisted Printing of Droplets at a Solid-Like Liquid-Liquid Interface**|Anshu Thapa et.al.|[2405.00609v1](http://arxiv.org/abs/2405.00609v1)|null|
+|**2024-05-01**|**Nonlinear Poisson effect in affine semiflexible polymer networks**|Jordan L. Shivers et.al.|[2405.00590v1](http://arxiv.org/abs/2405.00590v1)|null|
+|**2024-05-01**|**Transport of topological defects in a biphasic mixture of active and passive nematic fluids**|KVS Chaithanya et.al.|[2405.00547v1](http://arxiv.org/abs/2405.00547v1)|null|
+|**2024-05-01**|**Hyperuniformity in phase ordering: the roles of activity, noise, and non-constant mobility**|Filippo De Luca et.al.|[2405.00508v1](http://arxiv.org/abs/2405.00508v1)|null|
+|**2024-05-01**|**Recoverable strain from reverse plasticity**|Henry A. Lockwood et.al.|[2405.00487v1](http://arxiv.org/abs/2405.00487v1)|null|
 |**2024-04-30**|**curvedSpaceSim: A framework for simulating particles interacting along geodesics**|Toler H. Webb et.al.|[2404.19751v1](http://arxiv.org/abs/2404.19751v1)|null|
 |**2024-04-30**|**Dynamics of particle aggregation in dewetting films of complex liquids**|J. Zhang et.al.|[2404.19701v1](http://arxiv.org/abs/2404.19701v1)|null|
 |**2024-04-30**|**Phase transition and polar cluster behavior above Curie temperature in ferroelectric BaTi $_{0.8}$Zr$_{0.2}$O$_3$**|Oktay Aktas et.al.|[2404.19558v1](http://arxiv.org/abs/2404.19558v1)|null|
@@ -6010,6 +6016,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628v1](http://arxiv.org/abs/2405.00628v1)|null|
 |**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597v1](http://arxiv.org/abs/2404.18597v1)|null|
 |**2024-04-29**|**Anomalous Phonon in Charge-Density-Wave Phase of Kagome Metal CsV3Sb5**|Han-Yu Wang et.al.|[2404.18366v1](http://arxiv.org/abs/2404.18366v1)|null|
 |**2024-04-25**|**Anisotropic magnetoresistance in altermagnetic MnTe**|Ruben Dario Gonzalez Betancourt et.al.|[2404.16516v1](http://arxiv.org/abs/2404.16516v1)|null|
