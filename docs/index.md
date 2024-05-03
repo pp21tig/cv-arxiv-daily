@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Chirotactic response of microswimmers in fluids with odd viscosity**|Yuto Hosaka et.al.|[2405.01506v1](http://arxiv.org/abs/2405.01506v1)|null|
+|**2024-05-02**|**Partially bonded crystals: a pathway to porosity and polymorphism**|Carina Karner et.al.|[2405.01300v1](http://arxiv.org/abs/2405.01300v1)|null|
+|**2024-05-02**|**Scaling of phase count in multicomponent liquids**|Yicheng Qiang et.al.|[2405.01138v1](http://arxiv.org/abs/2405.01138v1)|null|
+|**2024-05-02**|**Excitation-Dependent Features and Artifacts in 2-D Terahertz Spectroscopy**|Albert Liu et.al.|[2405.00971v1](http://arxiv.org/abs/2405.00971v1)|null|
+|**2024-05-02**|**A Python code for calculating the mean-value (Baldereschi's) point for any crystal structure**|Vladan Stevanovic et.al.|[2405.00925v1](http://arxiv.org/abs/2405.00925v1)|null|
+|**2024-05-01**|**Implementing a synthetic magnetic vector potential in a 2D superconducting qubit array**|Ilan T. Rosen et.al.|[2405.00873v1](http://arxiv.org/abs/2405.00873v1)|null|
+|**2024-05-01**|**Sensing Spin Wave Excitations by Spin Defects in Few-Layer Thick Hexagonal Boron Nitride**|Jingcheng Zhou et.al.|[2405.00802v1](http://arxiv.org/abs/2405.00802v1)|null|
+|**2024-05-01**|**Density and geometry of excitations in supercooled liquids up to the activation energy**|Wencheng Ji et.al.|[2405.00788v1](http://arxiv.org/abs/2405.00788v1)|null|
 |**2024-05-01**|**Particle scale anisotropy controls bulk properties in sheared granular materials**|Carmen L. Lee et.al.|[2405.00653v1](http://arxiv.org/abs/2405.00653v1)|null|
 |**2024-05-02**|**Capillary-Assisted Printing of Droplets at a Solid-Like Liquid-Liquid Interface**|Anshu Thapa et.al.|[2405.00609v2](http://arxiv.org/abs/2405.00609v2)|null|
 |**2024-05-02**|**Nonlinear Poisson effect in affine semiflexible polymer networks**|Jordan L. Shivers et.al.|[2405.00590v2](http://arxiv.org/abs/2405.00590v2)|null|
@@ -5560,6 +5568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**k-resolved ultrafast light-induced band renormalization in monolayer WS $_2$ on graphene**|Niklas Hofmann et.al.|[2405.01371v1](http://arxiv.org/abs/2405.01371v1)|null|
 |**2024-04-30**|**Magnetophononics and the Chiral Phonon Misnomer**|R. Merlin et.al.|[2404.19593v1](http://arxiv.org/abs/2404.19593v1)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
 |**2024-04-18**|**Effective light-induced Hamiltonian for atoms with large nuclear spin**|Domantas Burba et.al.|[2404.12429v1](http://arxiv.org/abs/2404.12429v1)|null|
@@ -5843,6 +5852,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**High harmonic generation from electrons moving on topological spin textures**|Atsushi Ono et.al.|[2405.01351v1](http://arxiv.org/abs/2405.01351v1)|null|
 |**2024-04-25**|**Superconducting magnetoelectric effects in mesoscopic hybrid structures**|Mostafa Tanhayi Ahari et.al.|[2404.15553v2](http://arxiv.org/abs/2404.15553v2)|null|
 |**2024-04-23**|**Magnetic anisotropy in single-crystalline antiferromagnetic Mn $_2$ Au**|Mebatsion S. Gebre et.al.|[2404.15525v1](http://arxiv.org/abs/2404.15525v1)|null|
 |**2024-04-22**|**Magneto-optical detection of spin-orbit torque vector with first-order Kerr effects**|Claudio Gonzalez-Fuentes et.al.|[2404.14315v1](http://arxiv.org/abs/2404.14315v1)|null|
@@ -6016,6 +6026,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005v1](http://arxiv.org/abs/2405.01005v1)|null|
 |**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628v1](http://arxiv.org/abs/2405.00628v1)|null|
 |**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597v1](http://arxiv.org/abs/2404.18597v1)|null|
 |**2024-04-29**|**Anomalous Phonon in Charge-Density-Wave Phase of Kagome Metal CsV3Sb5**|Han-Yu Wang et.al.|[2404.18366v1](http://arxiv.org/abs/2404.18366v1)|null|
