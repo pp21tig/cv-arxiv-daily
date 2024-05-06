@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Thermodynamic constraints on polar active matter hydrodynamics**|Andrea Amoretti et.al.|[2405.02283v1](http://arxiv.org/abs/2405.02283v1)|null|
+|**2024-05-03**|**Local number fluctuations in ordered and disordered phases of water across temperatures: Higher-order moments and degrees of tetrahedrality**|Michael A. Klatt et.al.|[2405.02271v1](http://arxiv.org/abs/2405.02271v1)|null|
+|**2024-05-03**|**Tangentially Active Polymers in Cylindrical Channels**|José Martín-Roca et.al.|[2405.02192v1](http://arxiv.org/abs/2405.02192v1)|null|
+|**2024-05-03**|**Mobility-induced kinetic effects in multicomponent mixtures**|Filipe C. Thewes et.al.|[2405.02159v1](http://arxiv.org/abs/2405.02159v1)|null|
+|**2024-05-03**|**Intermittent thermal convection in jammed emulsions**|Francesca Pelusi et.al.|[2405.02135v1](http://arxiv.org/abs/2405.02135v1)|null|
+|**2024-05-03**|**Proliferation-driven mechanical feedback regulates cell dynamics in growing tissues**|Sumit Sinha et.al.|[2405.01960v1](http://arxiv.org/abs/2405.01960v1)|null|
+|**2024-05-03**|**Enhancement of swimmer diffusion through regular kicks: analytic mapping of a scale independent parameter space**|Arnau Jurado Romero et.al.|[2405.01954v1](http://arxiv.org/abs/2405.01954v1)|null|
+|**2024-05-03**|**A rare gas mixture: From rigid to gas-like fluid by a mutual concentration change**|Yu. D. Fomin et.al.|[2405.01891v1](http://arxiv.org/abs/2405.01891v1)|null|
+|**2024-05-03**|**Aubry transition with small distortions**|O. Cépas et.al.|[2405.01878v1](http://arxiv.org/abs/2405.01878v1)|null|
+|**2024-05-03**|**Spectral Features of the Fourth Order Irreducible Correlations in a Monolayer Semiconductor**|Jiacheng Tang et.al.|[2405.01853v1](http://arxiv.org/abs/2405.01853v1)|null|
 |**2024-05-02**|**Chirotactic response of microswimmers in fluids with odd viscosity**|Yuto Hosaka et.al.|[2405.01506v1](http://arxiv.org/abs/2405.01506v1)|null|
 |**2024-05-02**|**Partially bonded crystals: a pathway to porosity and polymorphism**|Carina Karner et.al.|[2405.01300v1](http://arxiv.org/abs/2405.01300v1)|null|
 |**2024-05-02**|**Scaling of phase count in multicomponent liquids**|Yicheng Qiang et.al.|[2405.01138v1](http://arxiv.org/abs/2405.01138v1)|null|
@@ -6026,6 +6036,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829v1](http://arxiv.org/abs/2405.01829v1)|null|
 |**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005v1](http://arxiv.org/abs/2405.01005v1)|null|
 |**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628v1](http://arxiv.org/abs/2405.00628v1)|null|
 |**2024-04-29**|**Orbital selective commensurate modulations of the local density of states in ScV6Sn6 probed by nuclear spins**|Robin Guehne et.al.|[2404.18597v1](http://arxiv.org/abs/2404.18597v1)|null|
