@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**The description of two-dimensional altermagnetism**|Sike Zeng et.al.|[2405.03557v1](http://arxiv.org/abs/2405.03557v1)|null|
+|**2024-05-06**|**Shortest paths govern fracture nucleation in thermoset networks**|Zheng Yu et.al.|[2405.03551v1](http://arxiv.org/abs/2405.03551v1)|null|
+|**2024-05-06**|**Long ranged stress correlations in the hard sphere liquid**|Niklas Grimm et.al.|[2405.03497v1](http://arxiv.org/abs/2405.03497v1)|null|
+|**2024-05-06**|**Exploring anisotropic pressure and spatial correlations in strongly confined hard-disk fluids. Exact results**|Ana M. Montero et.al.|[2405.03362v1](http://arxiv.org/abs/2405.03362v1)|null|
+|**2024-05-06**|**Verification of Perrin's theory of the motion of dilute spheroidal colloids**|John David Geiger et.al.|[2405.03304v1](http://arxiv.org/abs/2405.03304v1)|null|
+|**2024-05-06**|**Magnetic Ordering of Ammonium Cations in NH $_4$I, NH$_4$Br and NH$_4$ Cl**|Fei Yen et.al.|[2405.03163v1](http://arxiv.org/abs/2405.03163v1)|null|
+|**2024-05-05**|**The influence of dark excitons on the electroabsorption spectrum of polyacetylene**|Jaspal Singh Bola et.al.|[2405.03012v1](http://arxiv.org/abs/2405.03012v1)|null|
+|**2024-05-05**|**A hydrodynamic analog of critical phenomena: an uncountably infinite number of universality classes**|Shoko Ii et.al.|[2405.03006v1](http://arxiv.org/abs/2405.03006v1)|null|
+|**2024-05-05**|**Liquid Crystalline Assembly of Collagen for Deterministic Alignment and Spread of Human Schwann Cells**|Homa Ghaiedi et.al.|[2405.02948v1](http://arxiv.org/abs/2405.02948v1)|null|
+|**2024-05-05**|**Coat stiffening explains the consensus pathway of clathrin-mediated endocytosis**|Felix Frey et.al.|[2405.02820v1](http://arxiv.org/abs/2405.02820v1)|null|
+|**2024-05-04**|**Chain-length-dependent correlated molecular motion in polymers**|Matthew Reynolds et.al.|[2405.02733v1](http://arxiv.org/abs/2405.02733v1)|null|
+|**2024-05-03**|**Helical close-packing of anisotropic tubes**|Benjamin R. Greenvall et.al.|[2405.02514v1](http://arxiv.org/abs/2405.02514v1)|null|
+|**2024-05-03**|**Role of the constriction angle on the clogging by bridging of suspensions of particles**|Nathan Vani et.al.|[2405.02505v1](http://arxiv.org/abs/2405.02505v1)|null|
+|**2024-05-03**|**Markov State Model Approach to Simulate Self-Assembly**|Anthony Trubiano et.al.|[2405.02467v1](http://arxiv.org/abs/2405.02467v1)|null|
+|**2024-05-03**|**Swimming efficiency in viscosity gradients**|Jiahao Gong et.al.|[2405.02432v1](http://arxiv.org/abs/2405.02432v1)|null|
 |**2024-05-03**|**Thermodynamic constraints on polar active matter hydrodynamics**|Andrea Amoretti et.al.|[2405.02283v1](http://arxiv.org/abs/2405.02283v1)|null|
 |**2024-05-03**|**Local number fluctuations in ordered and disordered phases of water across temperatures: Higher-order moments and degrees of tetrahedrality**|Michael A. Klatt et.al.|[2405.02271v1](http://arxiv.org/abs/2405.02271v1)|null|
 |**2024-05-03**|**Tangentially Active Polymers in Cylindrical Channels**|José Martín-Roca et.al.|[2405.02192v1](http://arxiv.org/abs/2405.02192v1)|null|
@@ -6032,6 +6047,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438v1](http://arxiv.org/abs/2405.03438v1)|null|
 |**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829v1](http://arxiv.org/abs/2405.01829v1)|null|
 |**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005v1](http://arxiv.org/abs/2405.01005v1)|null|
 |**2024-05-01**|**Metamagnetism and anomalous magnetotransport properties in rare-earth-based polar semimetals $R$AuGe ($R =$ Dy, Ho, and Gd)**|Takashi Kurumaji et.al.|[2405.00628v1](http://arxiv.org/abs/2405.00628v1)|null|
@@ -6281,6 +6297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-04**|**Spin dynamics in linear magnetoelectric material Mn $_{3}$Ta$_{2}$O$_{8}$**|Hodaka Kikuchi et.al.|[2405.02589v1](http://arxiv.org/abs/2405.02589v1)|null|
 |**2024-04-25**|**Disentangling spin excitation continua in classical and quantum magnets using 2D nonlinear spectroscopy**|Emily Z. Zhang et.al.|[2404.16935v1](http://arxiv.org/abs/2404.16935v1)|null|
 |**2024-04-25**|**Phonon dispersion of quantum paraelectric SrTiO3 in electric fields**|Henrik Jacobsen et.al.|[2404.16334v1](http://arxiv.org/abs/2404.16334v1)|null|
 |**2024-04-24**|**Spin Supersolid Phase and Double Magnon-Roton Excitations in a Cobalt-based Triangular Lattice**|Yuan Gao et.al.|[2404.15997v1](http://arxiv.org/abs/2404.15997v1)|null|
