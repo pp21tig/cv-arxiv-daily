@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Metallic mean fractal systems and their tilings**|Sam Coates et.al.|[2405.04458v1](http://arxiv.org/abs/2405.04458v1)|null|
+|**2024-05-07**|**Limits to positional information in boundary-driven systems**|Prashant Singh et.al.|[2405.04381v1](http://arxiv.org/abs/2405.04381v1)|null|
+|**2024-05-07**|**Generalized Langevin dynamics for single beads in linear elastic network**|Soya Shinkai et.al.|[2405.04019v1](http://arxiv.org/abs/2405.04019v1)|null|
+|**2024-05-07**|**A hydrodynamic approach to reproduce multiple spinning vortices in horizontally rotating three-dimensional liquid helium-4**|Satori Tsuzuki et.al.|[2405.03980v1](http://arxiv.org/abs/2405.03980v1)|null|
+|**2024-05-07**|**Integrated Lennard-Jones Potential between a Sphere and a Thin Rod**|Junwen Wang et.al.|[2405.03944v1](http://arxiv.org/abs/2405.03944v1)|null|
+|**2024-05-07**|**Analytical Interaction Potential for Lennard-Jones Rods**|Junwen Wang et.al.|[2405.03941v1](http://arxiv.org/abs/2405.03941v1)|null|
+|**2024-05-07**|**MSene: A new large family of two-dimensional transition metal sulfide with MXene structure**|Shu-Xiang Qiao et.al.|[2405.03928v1](http://arxiv.org/abs/2405.03928v1)|null|
+|**2024-05-06**|**A snapshot review on soft-materials assembly design utilizing machine learning methods**|Maya M. Martirossyan et.al.|[2405.03805v1](http://arxiv.org/abs/2405.03805v1)|null|
+|**2024-05-06**|**Two Toy Spin Chain Models of Decoherence**|P. C. E. Stamp Zhen Zhu et.al.|[2405.03795v1](http://arxiv.org/abs/2405.03795v1)|null|
+|**2024-05-06**|**Hyperuniformity Classes of Quasiperiodic Tilings via Diffusion Spreadability**|Adam Hitin-Bialus et.al.|[2405.03752v1](http://arxiv.org/abs/2405.03752v1)|null|
+|**2024-05-06**|**Defect ground states for liquid crystals on cones and hyperbolic cones**|Farzan Vafa et.al.|[2405.03742v1](http://arxiv.org/abs/2405.03742v1)|null|
 |**2024-05-07**|**The description of two-dimensional altermagnetism**|Sike Zeng et.al.|[2405.03557v2](http://arxiv.org/abs/2405.03557v2)|null|
 |**2024-05-06**|**Shortest paths govern fracture nucleation in thermoset networks**|Zheng Yu et.al.|[2405.03551v1](http://arxiv.org/abs/2405.03551v1)|null|
 |**2024-05-06**|**Long ranged stress correlations in the hard sphere liquid**|Niklas Grimm et.al.|[2405.03497v1](http://arxiv.org/abs/2405.03497v1)|null|
@@ -5593,6 +5604,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779v1](http://arxiv.org/abs/2405.03779v1)|null|
 |**2024-05-02**|**k-resolved ultrafast light-induced band renormalization in monolayer WS $_2$ on graphene**|Niklas Hofmann et.al.|[2405.01371v1](http://arxiv.org/abs/2405.01371v1)|null|
 |**2024-04-30**|**Magnetophononics and the Chiral Phonon Misnomer**|R. Merlin et.al.|[2404.19593v1](http://arxiv.org/abs/2404.19593v1)|null|
 |**2024-04-19**|**Observation of Floquet states in graphene**|Marco Merboldt et.al.|[2404.12791v1](http://arxiv.org/abs/2404.12791v1)|null|
@@ -6051,6 +6063,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779v1](http://arxiv.org/abs/2405.03779v1)|null|
 |**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438v1](http://arxiv.org/abs/2405.03438v1)|null|
 |**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829v1](http://arxiv.org/abs/2405.01829v1)|null|
 |**2024-05-02**|**Hundness and band renormalization in the kagome antiferromagnets Mn $_3X$**|Yingying Cao et.al.|[2405.01005v1](http://arxiv.org/abs/2405.01005v1)|null|
