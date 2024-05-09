@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Boundary symmetry breaking of flocking systems**|Leonardo Lenzini et.al.|[2405.05148v1](http://arxiv.org/abs/2405.05148v1)|null|
+|**2024-05-08**|**A Hierarchical Approach to Quantum Many-Body Systems in Structured Environments**|Kai Müller et.al.|[2405.05093v1](http://arxiv.org/abs/2405.05093v1)|null|
+|**2024-05-08**|**Chemistry Beyond Exact Solutions on a Quantum-Centric Supercomputer**|Javier Robledo-Moreno et.al.|[2405.05068v1](http://arxiv.org/abs/2405.05068v1)|null|
+|**2024-05-08**|**Accurate estimation of the normalized mutual information of multidimensional data**|Daniel Nagel et.al.|[2405.04980v1](http://arxiv.org/abs/2405.04980v1)|null|
+|**2024-05-08**|**Prediction of the univariant two-phase coexistence line of the tetrahydrofuran hydrate from computer simulation**|Jesús Algaba et.al.|[2405.04887v1](http://arxiv.org/abs/2405.04887v1)|null|
+|**2024-05-08**|**Temperature and Solvent Viscosity Tune the Intermediates During the Collapse of a Polymer**|Suman Majumder et.al.|[2405.04813v1](http://arxiv.org/abs/2405.04813v1)|null|
+|**2024-05-08**|**Circularly polarized light irradiated ferromagnetic MnBi $_2$Te$_4$ : the long-sought ideal Weyl semimetal**|Shuai Fan et.al.|[2405.04768v1](http://arxiv.org/abs/2405.04768v1)|null|
 |**2024-05-07**|**Metallic mean fractal systems and their tilings**|Sam Coates et.al.|[2405.04458v1](http://arxiv.org/abs/2405.04458v1)|null|
 |**2024-05-07**|**Limits to positional information in boundary-driven systems**|Prashant Singh et.al.|[2405.04381v1](http://arxiv.org/abs/2405.04381v1)|null|
 |**2024-05-07**|**Generalized Langevin dynamics for single beads in linear elastic network**|Soya Shinkai et.al.|[2405.04019v1](http://arxiv.org/abs/2405.04019v1)|null|
@@ -6063,6 +6070,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**First-principles study of structural, electronic and magnetic properties at the \ce{(0001)Cr2O3-(111)Pt} interface**|Marlies Reher et.al.|[2405.05020v1](http://arxiv.org/abs/2405.05020v1)|null|
 |**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779v1](http://arxiv.org/abs/2405.03779v1)|null|
 |**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438v1](http://arxiv.org/abs/2405.03438v1)|null|
 |**2024-05-03**|**Fractional quantum anomalous Hall effect in a semimetal**|Wenqi Yang et.al.|[2405.01829v1](http://arxiv.org/abs/2405.01829v1)|null|
