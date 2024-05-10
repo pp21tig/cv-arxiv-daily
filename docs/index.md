@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Motion from Measurement: The Role of Symmetry of Quantum Measurements**|Luka Antonic et.al.|[2405.05946v1](http://arxiv.org/abs/2405.05946v1)|null|
+|**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889v1](http://arxiv.org/abs/2405.05889v1)|null|
+|**2024-05-09**|**Non-monotonic conductivity of aqueous electrolytes: beyond the first Wien effect**|Hélène Berthoumieux et.al.|[2405.05882v1](http://arxiv.org/abs/2405.05882v1)|null|
+|**2024-05-09**|**Altermagnetic Polar Metallic phase in Ultra-Thin Epitaxially-Strained RuO2 Films**|Seung Gyo Jeong et.al.|[2405.05838v1](http://arxiv.org/abs/2405.05838v1)|null|
+|**2024-05-09**|**Enhancing (quasi-)long-range order in a two-dimensional driven crystal**|R. Maire et.al.|[2405.05621v1](http://arxiv.org/abs/2405.05621v1)|null|
+|**2024-05-09**|**Prigogine-Defay ratio of glassy freezing scales with liquid fragility**|Alois Loidl et.al.|[2405.05612v1](http://arxiv.org/abs/2405.05612v1)|null|
+|**2024-05-09**|**Unveiling Higher-Order Topology via Polarized Topological Charges**|Wei Jia et.al.|[2405.05505v1](http://arxiv.org/abs/2405.05505v1)|null|
+|**2024-05-09**|**Localization and bistability of bioconvection in a doubly periodic domain**|Yoshiki Hiruta et.al.|[2405.05494v1](http://arxiv.org/abs/2405.05494v1)|null|
+|**2024-05-09**|**Extension of Kirkwood-Buff theory: Partial enthalpies, fluctuations of energy density, temperature, and pressure, and solute-induced effects in a mixture solvent**|Akira Onuki et.al.|[2405.05471v1](http://arxiv.org/abs/2405.05471v1)|null|
+|**2024-05-08**|**Penetration of a spinning sphere impacting a granular medium**|D. D. Carvalho et.al.|[2405.05394v1](http://arxiv.org/abs/2405.05394v1)|null|
+|**2024-05-08**|**Excluded volume effects on tangentially driven active ring polymers**|A. Lamura et.al.|[2405.05380v1](http://arxiv.org/abs/2405.05380v1)|null|
 |**2024-05-08**|**Boundary symmetry breaking of flocking systems**|Leonardo Lenzini et.al.|[2405.05148v1](http://arxiv.org/abs/2405.05148v1)|null|
 |**2024-05-08**|**A Hierarchical Approach to Quantum Many-Body Systems in Structured Environments**|Kai Müller et.al.|[2405.05093v1](http://arxiv.org/abs/2405.05093v1)|null|
 |**2024-05-08**|**Chemistry Beyond Exact Solutions on a Quantum-Centric Supercomputer**|Javier Robledo-Moreno et.al.|[2405.05068v1](http://arxiv.org/abs/2405.05068v1)|null|
@@ -6070,6 +6081,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Switching between superconductivity and current density waves in Bernal bilayer graphene**|Jun Ho Son et.al.|[2405.05442v1](http://arxiv.org/abs/2405.05442v1)|null|
 |**2024-05-08**|**First-principles study of structural, electronic and magnetic properties at the \ce{(0001)Cr2O3-(111)Pt} interface**|Marlies Reher et.al.|[2405.05020v1](http://arxiv.org/abs/2405.05020v1)|null|
 |**2024-05-06**|**Light-induced Hall currents in altermagnets**|Tohid Farajollahpour et.al.|[2405.03779v1](http://arxiv.org/abs/2405.03779v1)|null|
 |**2024-05-06**|**Anomalous Nernst effect in the noncollinear antiferromagnet Mn $_5$Si$_3$**|Christoph Sürgers et.al.|[2405.03438v1](http://arxiv.org/abs/2405.03438v1)|null|
