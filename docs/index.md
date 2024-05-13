@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Assorted remarks on bending measures and energies for plates and shells, and their invariance properties**|E. Vitral et.al.|[2405.06638v1](http://arxiv.org/abs/2405.06638v1)|null|
+|**2024-05-10**|**An explicit granular-mechanics approach to marine sediment acoustics**|Abram H. Clark et.al.|[2405.06614v1](http://arxiv.org/abs/2405.06614v1)|null|
+|**2024-05-10**|**Atomic Quantum Technologies for Quantum Matter and Fundamental Physics Applications**|Jorge Yago Malo et.al.|[2405.06595v1](http://arxiv.org/abs/2405.06595v1)|null|
+|**2024-05-10**|**Density and inertia effects on two-dimensional active semiflexible filament suspensions**|Giulia Janzen et.al.|[2405.06592v1](http://arxiv.org/abs/2405.06592v1)|null|
+|**2024-05-10**|**A self-consistent current response theory of jamming and vibrational modes in low-temperature amorphous solids**|Florian Vogel et.al.|[2405.06537v1](http://arxiv.org/abs/2405.06537v1)|null|
+|**2024-05-10**|**Experimental identification of topological defects in 2D colloidal glass**|Vinay Vaibhav et.al.|[2405.06494v1](http://arxiv.org/abs/2405.06494v1)|null|
+|**2024-05-10**|**Non-Linear Dynamics and Critical Phenomena in the Holographic Landscape of Weyl Semimetals**|Masataka Matsumoto et.al.|[2405.06484v1](http://arxiv.org/abs/2405.06484v1)|null|
+|**2024-05-10**|**Levitons in correlated nano-scale systems**|F. Ronetti et.al.|[2405.06392v1](http://arxiv.org/abs/2405.06392v1)|null|
+|**2024-05-10**|**Local topology and perestroikas in protein structure and folding dynamics**|Alexander Begun et.al.|[2405.06348v1](http://arxiv.org/abs/2405.06348v1)|null|
+|**2024-05-10**|**Nuclear Quantum Effects on the Electronic Structure of Water and Ice**|Margaret Berrens et.al.|[2405.06207v1](http://arxiv.org/abs/2405.06207v1)|null|
+|**2024-05-09**|**Recycling failed photoelectrons via tertiary photoemission**|M. Matzelle et.al.|[2405.06141v1](http://arxiv.org/abs/2405.06141v1)|null|
+|**2024-05-09**|**Thermodynamic Insights into Polyelectrolyte Complexation: A Theoretical Framework**|Souradeep Ghosh et.al.|[2405.06082v1](http://arxiv.org/abs/2405.06082v1)|null|
+|**2024-05-09**|**Active nematic fluids on Riemannian 2-manifolds**|Cuncheng Zhu et.al.|[2405.06044v1](http://arxiv.org/abs/2405.06044v1)|null|
 |**2024-05-09**|**Motion from Measurement: The Role of Symmetry of Quantum Measurements**|Luka Antonic et.al.|[2405.05946v1](http://arxiv.org/abs/2405.05946v1)|null|
 |**2024-05-09**|**Perturbing Dynamics of Active Emulsions and Their Collectives**|Muhammad Turab Ali Khan et.al.|[2405.05889v1](http://arxiv.org/abs/2405.05889v1)|null|
 |**2024-05-09**|**Non-monotonic conductivity of aqueous electrolytes: beyond the first Wien effect**|Hélène Berthoumieux et.al.|[2405.05882v1](http://arxiv.org/abs/2405.05882v1)|null|
