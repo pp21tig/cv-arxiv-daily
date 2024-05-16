@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Matrix viscoelasticity decouples bubble growth and dynamics in coarsening foams**|Chiara Guidolin et.al.|[2405.09382v1](http://arxiv.org/abs/2405.09382v1)|null|
+|**2024-05-15**|**Optimal crawling: from mechanical to chemical actuation**|Pierre Recho et.al.|[2405.09302v1](http://arxiv.org/abs/2405.09302v1)|null|
+|**2024-05-15**|**Exploring Ground States of Fermi-Hubbard Model on Honeycomb Lattices with Counterdiabaticity**|Jialiang Tang et.al.|[2405.09225v1](http://arxiv.org/abs/2405.09225v1)|null|
+|**2024-05-15**|**Synchronization of E. coli bacteria moving in coupled wells**|Aleksandre Japaridze et.al.|[2405.09147v1](http://arxiv.org/abs/2405.09147v1)|null|
+|**2024-05-15**|**Self-diffusiophoretic propulsion of a spheroidal particle in a shear-thinning fluid**|Guangpu Zhu et.al.|[2405.09136v1](http://arxiv.org/abs/2405.09136v1)|null|
+|**2024-05-15**|**Dynamic constraints predict the relaxation of granular materials**|Qinghao Mao et.al.|[2405.09078v1](http://arxiv.org/abs/2405.09078v1)|null|
+|**2024-05-15**|**Rheology of three dimensional granular chute flows at large inertial numbers**|Satyabrata Patro et.al.|[2405.09069v1](http://arxiv.org/abs/2405.09069v1)|null|
+|**2024-05-15**|**Differential phase contrast from electrons that cause inner shell ionization**|Michael Deimetry et.al.|[2405.09043v1](http://arxiv.org/abs/2405.09043v1)|null|
+|**2024-05-14**|**Motility Modulates the Partitioning of Bacteria in Aqueous Two-Phase Systems**|Jiyong Cheon et.al.|[2405.08995v1](http://arxiv.org/abs/2405.08995v1)|null|
+|**2024-05-14**|**Tunable moiré materials for probing Berry physics and topology**|Pratap Chandra Adak et.al.|[2405.08959v1](http://arxiv.org/abs/2405.08959v1)|null|
+|**2024-05-14**|**Dynamic Surfactants Drive Anisotropic Colloidal Assembly**|Yaxin Xu et.al.|[2405.08936v1](http://arxiv.org/abs/2405.08936v1)|null|
+|**2024-05-14**|**Directional cues affect the collective behaviour of Self propelled particles in one dimension**|Pawan Kumar Mishra et.al.|[2405.08925v1](http://arxiv.org/abs/2405.08925v1)|null|
+|**2024-05-14**|**Enhanced Terahertz Spectroscopy of a Monolayer Transition Metal Dichalcogenide**|Xin Jin et.al.|[2405.08851v1](http://arxiv.org/abs/2405.08851v1)|null|
+|**2024-05-14**|**There Are Two Distinct Photon Gases Present Inside Every Solar Cell**|Eli Yablonovitch et.al.|[2405.08835v1](http://arxiv.org/abs/2405.08835v1)|null|
 |**2024-05-15**|**Quantum computing with Qiskit**|Ali Javadi-Abhari et.al.|[2405.08810v2](http://arxiv.org/abs/2405.08810v2)|null|
 |**2024-05-14**|**The Flux Hypothesis for Odd Transport Phenomena**|Cory Hargus et.al.|[2405.08798v1](http://arxiv.org/abs/2405.08798v1)|null|
 |**2024-05-14**|**Decomposing geographical and universal aspects of human mobility**|Louis Boucherie et.al.|[2405.08746v1](http://arxiv.org/abs/2405.08746v1)|null|
@@ -5955,6 +5969,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Voltage-Driven Breakdown of Electronic Order**|Miguel M. Oliveira et.al.|[2405.09512v1](http://arxiv.org/abs/2405.09512v1)|null|
 |**2024-05-02**|**High harmonic generation from electrons moving on topological spin textures**|Atsushi Ono et.al.|[2405.01351v1](http://arxiv.org/abs/2405.01351v1)|null|
 |**2024-04-25**|**Superconducting magnetoelectric effects in mesoscopic hybrid structures**|Mostafa Tanhayi Ahari et.al.|[2404.15553v2](http://arxiv.org/abs/2404.15553v2)|null|
 |**2024-04-23**|**Magnetic anisotropy in single-crystalline antiferromagnetic Mn $_2$ Au**|Mebatsion S. Gebre et.al.|[2404.15525v1](http://arxiv.org/abs/2404.15525v1)|null|
@@ -6129,6 +6144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121v1](http://arxiv.org/abs/2405.09121v1)|null|
 |**2024-05-14**|**Antiferromagnetic Quantum Anomalous Hall Effect Modulated by Spin Flips and Flops**|Zichen Lian et.al.|[2405.08686v1](http://arxiv.org/abs/2405.08686v1)|null|
 |**2024-05-14**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677v1](http://arxiv.org/abs/2405.08677v1)|null|
 |**2024-05-08**|**Switching between superconductivity and current density waves in Bernal bilayer graphene**|Jun Ho Son et.al.|[2405.05442v1](http://arxiv.org/abs/2405.05442v1)|null|
@@ -6384,6 +6400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Quantum and classical spin dynamics across temperature scales in the S = 1/2 Heisenberg antiferromagnet**|Pyeongjae Park et.al.|[2405.08897v1](http://arxiv.org/abs/2405.08897v1)|null|
 |**2024-05-04**|**Spin dynamics in linear magnetoelectric material Mn $_{3}$Ta$_{2}$O$_{8}$**|Hodaka Kikuchi et.al.|[2405.02589v1](http://arxiv.org/abs/2405.02589v1)|null|
 |**2024-04-25**|**Disentangling spin excitation continua in classical and quantum magnets using 2D nonlinear spectroscopy**|Emily Z. Zhang et.al.|[2404.16935v1](http://arxiv.org/abs/2404.16935v1)|null|
 |**2024-04-25**|**Phonon dispersion of quantum paraelectric SrTiO3 in electric fields**|Henrik Jacobsen et.al.|[2404.16334v1](http://arxiv.org/abs/2404.16334v1)|null|
