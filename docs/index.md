@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Phase behavior of metastable water from large-scale simulations of a quantitative accurate model: The liquid-liquid critical point**|Luis Enrique Coronas et.al.|[2405.10181v1](http://arxiv.org/abs/2405.10181v1)|null|
+|**2024-05-16**|**Mechanics and morphology of proliferating cell collectives with self-inhibiting growth**|Scott Weady et.al.|[2405.10158v1](http://arxiv.org/abs/2405.10158v1)|null|
+|**2024-05-16**|**On the selective formation of cubic tetrastack crystals from tetravalent patchy particles**|Łukasz Baran et.al.|[2405.10023v1](http://arxiv.org/abs/2405.10023v1)|null|
+|**2024-05-16**|**Mean-field and cumulant approaches to modelling organic polariton physics**|Piper Fowler-Wright et.al.|[2405.09812v1](http://arxiv.org/abs/2405.09812v1)|null|
+|**2024-05-15**|**Unidirectional Amplification in the Frozen Mode Regime Enabled by a Nonlinear Defect**|Serena Landers et.al.|[2405.09700v1](http://arxiv.org/abs/2405.09700v1)|null|
+|**2024-05-15**|**Protein folding as a jamming transition**|Alex T. Grigas et.al.|[2405.09646v1](http://arxiv.org/abs/2405.09646v1)|null|
+|**2024-05-15**|**Evolving motility of active droplets is captured by a self-repelling random walk model**|Wenjun Chen et.al.|[2405.09636v1](http://arxiv.org/abs/2405.09636v1)|null|
 |**2024-05-15**|**Matrix viscoelasticity decouples bubble growth and dynamics in coarsening foams**|Chiara Guidolin et.al.|[2405.09382v1](http://arxiv.org/abs/2405.09382v1)|null|
 |**2024-05-15**|**Optimal crawling: from mechanical to chemical actuation**|Pierre Recho et.al.|[2405.09302v1](http://arxiv.org/abs/2405.09302v1)|null|
 |**2024-05-15**|**Exploring Ground States of Fermi-Hubbard Model on Honeycomb Lattices with Counterdiabaticity**|Jialiang Tang et.al.|[2405.09225v1](http://arxiv.org/abs/2405.09225v1)|null|
