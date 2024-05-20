@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Witnessing Entanglement and Quantum Correlations in Condensed Matter: A Review**|Pontus Laurell et.al.|[2405.10899v1](http://arxiv.org/abs/2405.10899v1)|null|
+|**2024-05-17**|**"Hall" transport of liquid crystal solitons in Couette flow**|Rodrigo C. V. Coelho et.al.|[2405.10850v1](http://arxiv.org/abs/2405.10850v1)|null|
+|**2024-05-17**|**Constraining the value of the dielectric constant of the ferroelectric nematic phase**|Aitor Erkoreka et.al.|[2405.10682v1](http://arxiv.org/abs/2405.10682v1)|null|
+|**2024-05-17**|**Anomalous relaxation of coarsening foams with viscoelastic continuous phase**|Chiara Guidolin et.al.|[2405.10657v1](http://arxiv.org/abs/2405.10657v1)|null|
+|**2024-05-17**|**Non-reciprocal breathing solitons**|Martin Brandenbourger et.al.|[2405.10562v1](http://arxiv.org/abs/2405.10562v1)|null|
+|**2024-05-16**|**In-situ tunable, room-temperature polariton condensation in individual states of a 1D topological lattice**|Ioannis Georgakilas et.al.|[2405.10468v1](http://arxiv.org/abs/2405.10468v1)|null|
+|**2024-05-16**|**Exponential improvements in the simulation of lattice gauge theories using near-optimal techniques**|Mason Rhodes et.al.|[2405.10416v1](http://arxiv.org/abs/2405.10416v1)|null|
 |**2024-05-16**|**Phase behavior of metastable water from large-scale simulations of a quantitative accurate model: The liquid-liquid critical point**|Luis Enrique Coronas et.al.|[2405.10181v1](http://arxiv.org/abs/2405.10181v1)|null|
 |**2024-05-16**|**Mechanics and morphology of proliferating cell collectives with self-inhibiting growth**|Scott Weady et.al.|[2405.10158v1](http://arxiv.org/abs/2405.10158v1)|null|
 |**2024-05-16**|**On the selective formation of cubic tetrastack crystals from tetravalent patchy particles**|Łukasz Baran et.al.|[2405.10023v1](http://arxiv.org/abs/2405.10023v1)|null|
@@ -5976,6 +5983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723v1](http://arxiv.org/abs/2405.10723v1)|null|
 |**2024-05-15**|**Voltage-Driven Breakdown of Electronic Order**|Miguel M. Oliveira et.al.|[2405.09512v1](http://arxiv.org/abs/2405.09512v1)|null|
 |**2024-05-02**|**High harmonic generation from electrons moving on topological spin textures**|Atsushi Ono et.al.|[2405.01351v1](http://arxiv.org/abs/2405.01351v1)|null|
 |**2024-04-25**|**Superconducting magnetoelectric effects in mesoscopic hybrid structures**|Mostafa Tanhayi Ahari et.al.|[2404.15553v2](http://arxiv.org/abs/2404.15553v2)|null|
@@ -6151,6 +6159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Possible spin-polarized Cooper pairing in high temperature FeSe superconductor**|Yi Hu et.al.|[2405.10482v1](http://arxiv.org/abs/2405.10482v1)|null|
 |**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121v1](http://arxiv.org/abs/2405.09121v1)|null|
 |**2024-05-14**|**Antiferromagnetic Quantum Anomalous Hall Effect Modulated by Spin Flips and Flops**|Zichen Lian et.al.|[2405.08686v1](http://arxiv.org/abs/2405.08686v1)|null|
 |**2024-05-14**|**Towards the Quantized Anomalous Hall effect in AlO $_x$-capped MnBi$_2$Te$_4$**|Yongqian Wang et.al.|[2405.08677v1](http://arxiv.org/abs/2405.08677v1)|null|
