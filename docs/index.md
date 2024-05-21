@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Elastic solids under frictionless rigid contact and configurational force**|Francesco Dal Corso et.al.|[2405.12129v1](http://arxiv.org/abs/2405.12129v1)|null|
+|**2024-05-20**|**Chemical control of self-assembly by the electrosolvation force**|Sida Wang et.al.|[2405.12099v1](http://arxiv.org/abs/2405.12099v1)|null|
+|**2024-05-20**|**Solvent Selectivity controls Micro- versus Macro-phase Separation in Multiblock Chains**|Athanassios Z. Panagiotopoulos et.al.|[2405.12054v1](http://arxiv.org/abs/2405.12054v1)|null|
+|**2024-05-20**|**Wrinkling of differentially growing bilayers with similar film and substrate moduli**|Jiajia Shen et.al.|[2405.11989v1](http://arxiv.org/abs/2405.11989v1)|null|
+|**2024-05-20**|**Formation of Iron-Helium Compounds under High Pressure**|Haruki Takezawa et.al.|[2405.11810v1](http://arxiv.org/abs/2405.11810v1)|null|
+|**2024-05-19**|**Phase diagram and Coarsening dynamics in dry apolar Active Nematics with Reciprocal local alignment**|Arpan Sinha et.al.|[2405.11642v1](http://arxiv.org/abs/2405.11642v1)|null|
+|**2024-05-19**|**Competitive ligand binding kinetics to linear polymers**|Juan P. G. Villaluenga et.al.|[2405.11631v1](http://arxiv.org/abs/2405.11631v1)|null|
+|**2024-05-19**|**Universal spectra of noisy parameterized quantum circuits**|Kristian Wold et.al.|[2405.11625v1](http://arxiv.org/abs/2405.11625v1)|null|
+|**2024-05-19**|**A digger for 2D densely-packed coarse granular media using vibrations**|Guo-Jie Jason Gao et.al.|[2405.11569v1](http://arxiv.org/abs/2405.11569v1)|null|
+|**2024-05-19**|**Exciton polariton critical non-Hermitian skin effect with spin-momentum-locked gains**|Xingran Xu et.al.|[2405.11462v1](http://arxiv.org/abs/2405.11462v1)|null|
+|**2024-05-18**|**Memory corrections to Markovian Langevin dynamics**|Mateusz Wiśniewski et.al.|[2405.11370v1](http://arxiv.org/abs/2405.11370v1)|null|
+|**2024-05-18**|**Role of Plasticizers in Film Formation and Deformation-Induced Bonding of Glassy Polymers of Bidisperse Blends**|Ajay Vallabh et.al.|[2405.11362v1](http://arxiv.org/abs/2405.11362v1)|null|
+|**2024-05-18**|**High-yield fabrication of bubble-free magic-angle twisted bilayer graphene devices with high twist-angle homogeneity**|J. Diez-Merida et.al.|[2405.11323v1](http://arxiv.org/abs/2405.11323v1)|null|
+|**2024-05-18**|**Phase behaviour and self-assembly of semiflexible polymers in poor-solvent solutions**|Tobia Arcangeli et.al.|[2405.11287v1](http://arxiv.org/abs/2405.11287v1)|null|
+|**2024-05-17**|**Adhesion of a nematic elastomer cylinder**|Ameneh Maghsoodi et.al.|[2405.11116v1](http://arxiv.org/abs/2405.11116v1)|null|
+|**2024-05-17**|**Hydrodynamics of thermal active matter**|Jay Armas et.al.|[2405.11023v1](http://arxiv.org/abs/2405.11023v1)|null|
 |**2024-05-17**|**Witnessing Entanglement and Quantum Correlations in Condensed Matter: A Review**|Pontus Laurell et.al.|[2405.10899v1](http://arxiv.org/abs/2405.10899v1)|null|
 |**2024-05-17**|**"Hall" transport of liquid crystal solitons in Couette flow**|Rodrigo C. V. Coelho et.al.|[2405.10850v1](http://arxiv.org/abs/2405.10850v1)|null|
 |**2024-05-17**|**Constraining the value of the dielectric constant of the ferroelectric nematic phase**|Aitor Erkoreka et.al.|[2405.10682v1](http://arxiv.org/abs/2405.10682v1)|null|
