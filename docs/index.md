@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Topological Weyl Altermagnetism in CrSb**|Cong Li et.al.|[2405.14777v1](http://arxiv.org/abs/2405.14777v1)|null|
+|**2024-05-23**|**Mathematical model of fluid front dynamics driven by porous media pumps**|Andreu Benavent-Claró et.al.|[2405.14666v1](http://arxiv.org/abs/2405.14666v1)|null|
+|**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
+|**2024-05-23**|**Circuit realization of topological physics**|Huanhuan Yang et.al.|[2405.14643v1](http://arxiv.org/abs/2405.14643v1)|null|
+|**2024-05-23**|**Lattice Boltzmann methods for soft flowing matter**|A. Tiribocchi et.al.|[2405.14551v1](http://arxiv.org/abs/2405.14551v1)|null|
+|**2024-05-23**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424v1](http://arxiv.org/abs/2405.14424v1)|null|
+|**2024-05-23**|**Optimal diffusion of chiral active particles with strategic reorientations**|Kristian Stølevik Olsen et.al.|[2405.14326v1](http://arxiv.org/abs/2405.14326v1)|null|
+|**2024-05-23**|**Active Magnetic Matter: Propelling Ferrimagnetic Domain Walls by Dynamical Frustration**|Dennis Hardt et.al.|[2405.14320v1](http://arxiv.org/abs/2405.14320v1)|null|
+|**2024-05-22**|**Nonlinear Response Theory of Molecular Machines**|Michalis Chatzittofi et.al.|[2405.14011v1](http://arxiv.org/abs/2405.14011v1)|null|
+|**2024-05-22**|**Active dynamics of charged macromolecules**|Tapas Singha et.al.|[2405.13963v1](http://arxiv.org/abs/2405.13963v1)|null|
+|**2024-05-22**|**Out-of-plane magnetic phase diagram of Kitaev quantum spin liquid candidate Na2Co2TeO6**|Shengzhi Zhang et.al.|[2405.13935v1](http://arxiv.org/abs/2405.13935v1)|null|
+|**2024-05-22**|**Consistent expansion of the Langevin propagator with application to entropy production**|Benjamin Sorkin et.al.|[2405.13855v1](http://arxiv.org/abs/2405.13855v1)|null|
+|**2024-05-22**|**Sub-cycle modulation of light's Orbital Angular Momentum**|Michael de Oliveira et.al.|[2405.13723v1](http://arxiv.org/abs/2405.13723v1)|null|
+|**2024-05-22**|**Active nematodynamics on deformable surfaces**|Ingo Nitschke et.al.|[2405.13683v1](http://arxiv.org/abs/2405.13683v1)|null|
+|**2024-05-22**|**Realization of Singular Topological Edge States in Locally Resonant Metamaterials**|Yeongtae Jang et.al.|[2405.13631v1](http://arxiv.org/abs/2405.13631v1)|null|
+|**2024-05-22**|**Nanoscale Terahertz Conductivity and Ultrafast Dynamics of Terahertz Plasmons in Periodic Arrays of Epitaxial Graphene Nanoribbons**|Arvind Singh et.al.|[2405.13585v1](http://arxiv.org/abs/2405.13585v1)|null|
+|**2024-05-22**|**Accessing Semi-Addressable Self Assembly with Efficient Structure Enumeration**|Maximilian C. Hübl et.al.|[2405.13567v1](http://arxiv.org/abs/2405.13567v1)|null|
+|**2024-05-22**|**Adsorption of polyelectrolytes in the presence of varying dielectric discontinuity between solution and substrate**|Hossein Vahid et.al.|[2405.13484v1](http://arxiv.org/abs/2405.13484v1)|null|
+|**2024-05-22**|**Observation of Brownian elastohydrodynamic forces acting on confined soft colloids**|Nicolas Fares et.al.|[2405.13434v1](http://arxiv.org/abs/2405.13434v1)|null|
+|**2024-05-22**|**Exotic d-wave Bose Metal in two dimensions**|Zhangkai Cao et.al.|[2405.13405v1](http://arxiv.org/abs/2405.13405v1)|null|
 |**2024-05-21**|**A single crystal study of Kagome metals U $_2$Mn$_3$Ge and U$_2$Fe$_3$ Ge**|Wanyue Lin et.al.|[2405.12905v1](http://arxiv.org/abs/2405.12905v1)|null|
 |**2024-05-21**|**Memory effects in colloidal motion under confinement and driving**|Arthur V. Straube et.al.|[2405.12904v1](http://arxiv.org/abs/2405.12904v1)|null|
 |**2024-05-22**|**Featuring nuanced electronic band structure in gapped multilayer graphene**|Jin Jiang et.al.|[2405.12885v2](http://arxiv.org/abs/2405.12885v2)|null|
@@ -5726,6 +5746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Low-energy pathways lead to self-healing defects in CsPbBr $_3$**|Kumar Miskin et.al.|[2405.13213v1](http://arxiv.org/abs/2405.13213v1)|null|
 |**2024-05-21**|**Defect-assisted reversible phase transition in mono- and few-layer ReS $_2$**|George Zograf et.al.|[2405.12859v1](http://arxiv.org/abs/2405.12859v1)|null|
 |**2024-05-21**|**Light induced magnetic order**|T. Jauk et.al.|[2405.12690v1](http://arxiv.org/abs/2405.12690v1)|null|
 |**2024-05-14**|**Extending Non-Perturbative Simulation Techniques for Open-Quantum Systems to Excited-State Proton Transfer and Ultrafast Non-Adiabatic Dynamics**|Brieuc Le Dé et.al.|[2405.08693v1](http://arxiv.org/abs/2405.08693v1)|null|
@@ -6192,6 +6213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Detecting slow magnetization relaxation via magnetotransport measurements based on the current-reversal method**|Sebastian Beckert et.al.|[2405.14460v1](http://arxiv.org/abs/2405.14460v1)|null|
 |**2024-05-21**|**A single crystal study of Kagome metals U $_2$Mn$_3$Ge and U$_2$Fe$_3$ Ge**|Wanyue Lin et.al.|[2405.12905v1](http://arxiv.org/abs/2405.12905v1)|null|
 |**2024-05-17**|**Possible spin-polarized Cooper pairing in high temperature FeSe superconductor**|Yi Hu et.al.|[2405.10482v1](http://arxiv.org/abs/2405.10482v1)|null|
 |**2024-05-15**|**Dirac Fermions and Topological Phases in Magnetic Topological Insulator Films**|Kai-Zhi Bai et.al.|[2405.09121v1](http://arxiv.org/abs/2405.09121v1)|null|
@@ -6450,6 +6472,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
 |**2024-05-14**|**Quantum and classical spin dynamics across temperature scales in the S = 1/2 Heisenberg antiferromagnet**|Pyeongjae Park et.al.|[2405.08897v1](http://arxiv.org/abs/2405.08897v1)|null|
 |**2024-05-04**|**Spin dynamics in linear magnetoelectric material Mn $_{3}$Ta$_{2}$O$_{8}$**|Hodaka Kikuchi et.al.|[2405.02589v1](http://arxiv.org/abs/2405.02589v1)|null|
 |**2024-04-25**|**Disentangling spin excitation continua in classical and quantum magnets using 2D nonlinear spectroscopy**|Emily Z. Zhang et.al.|[2404.16935v1](http://arxiv.org/abs/2404.16935v1)|null|
