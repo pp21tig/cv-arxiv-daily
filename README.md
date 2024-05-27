@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**A review of active matter reviews**|Michael te Vrugt et.al.|[2405.15751v1](http://arxiv.org/abs/2405.15751v1)|null|
+|**2024-05-24**|**Study of triaxial loading of segregated granular assemblies through experiments and DEM simulations**|Venkata Rama Manoj Pola et.al.|[2405.15720v1](http://arxiv.org/abs/2405.15720v1)|null|
+|**2024-05-24**|**Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism**|Seul-Ki Bac et.al.|[2405.15689v1](http://arxiv.org/abs/2405.15689v1)|null|
+|**2024-05-24**|**Unsupervised Deep Neural Network Approach To Solve Fermionic Systems**|Avishek Singh et.al.|[2405.15502v1](http://arxiv.org/abs/2405.15502v1)|null|
+|**2024-05-24**|**Cracking of submerged beds**|Satyanu Bhadra et.al.|[2405.15445v1](http://arxiv.org/abs/2405.15445v1)|null|
+|**2024-05-24**|**Multi-qubit quantum state preparation enabled by topology optimization**|A. Miguel-Torcal et.al.|[2405.15361v1](http://arxiv.org/abs/2405.15361v1)|null|
+|**2024-05-24**|**Procedural Construction of Atomistic Polyurethane Block Copolymer Models for High Throughput Simulations**|Dominic Robe et.al.|[2405.15226v1](http://arxiv.org/abs/2405.15226v1)|null|
+|**2024-05-23**|**Rapid Sensing of Heat Stress using Machine Learning of Micrographs of Red Blood Cells Dispersed in Liquid Crystals**|Prateek Verma et.al.|[2405.15068v1](http://arxiv.org/abs/2405.15068v1)|null|
+|**2024-05-23**|**Emergence of Synchronization-Induced Patterns in Two-dimensional Magnetic Rod Systems under Rotating Magnetic Fields**|Jorge L. C. Domingos et.al.|[2405.14998v1](http://arxiv.org/abs/2405.14998v1)|null|
+|**2024-05-23**|**Unbounded entropy production and violent fragmentation in long-range interacting super-Tonks-Girardeau systems**|P. Molignini et.al.|[2405.14928v1](http://arxiv.org/abs/2405.14928v1)|null|
+|**2024-05-23**|**Solitons with Self-induced Topological Nonreciprocity**|Pedro Fittipaldi de Castro et.al.|[2405.14919v1](http://arxiv.org/abs/2405.14919v1)|null|
 |**2024-05-23**|**Topological Weyl Altermagnetism in CrSb**|Cong Li et.al.|[2405.14777v1](http://arxiv.org/abs/2405.14777v1)|null|
 |**2024-05-23**|**Mathematical model of fluid front dynamics driven by porous media pumps**|Andreu Benavent-Claró et.al.|[2405.14666v1](http://arxiv.org/abs/2405.14666v1)|null|
 |**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
@@ -1106,6 +1117,7 @@
 |**2024-05-23**|**The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water**|Maria Grazia Izzo et.al.|[2405.14424v1](http://arxiv.org/abs/2405.14424v1)|null|
 |**2024-05-23**|**Optimal diffusion of chiral active particles with strategic reorientations**|Kristian Stølevik Olsen et.al.|[2405.14326v1](http://arxiv.org/abs/2405.14326v1)|null|
 |**2024-05-23**|**Active Magnetic Matter: Propelling Ferrimagnetic Domain Walls by Dynamical Frustration**|Dennis Hardt et.al.|[2405.14320v1](http://arxiv.org/abs/2405.14320v1)|null|
+|**2024-05-23**|**Effect of boundary roughness on the attenuation of specular phonon reflection in graphene**|Zhun-Yong Ong et.al.|[2405.14109v1](http://arxiv.org/abs/2405.14109v1)|null|
 |**2024-05-22**|**Nonlinear Response Theory of Molecular Machines**|Michalis Chatzittofi et.al.|[2405.14011v1](http://arxiv.org/abs/2405.14011v1)|null|
 |**2024-05-22**|**Active dynamics of charged macromolecules**|Tapas Singha et.al.|[2405.13963v1](http://arxiv.org/abs/2405.13963v1)|null|
 |**2024-05-22**|**Out-of-plane magnetic phase diagram of Kitaev quantum spin liquid candidate Na2Co2TeO6**|Shengzhi Zhang et.al.|[2405.13935v1](http://arxiv.org/abs/2405.13935v1)|null|
@@ -6209,6 +6221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism**|Seul-Ki Bac et.al.|[2405.15689v1](http://arxiv.org/abs/2405.15689v1)|null|
 |**2024-05-23**|**Detecting slow magnetization relaxation via magnetotransport measurements based on the current-reversal method**|Sebastian Beckert et.al.|[2405.14460v1](http://arxiv.org/abs/2405.14460v1)|null|
 |**2024-05-21**|**A single crystal study of Kagome metals U $_2$Mn$_3$Ge and U$_2$Fe$_3$ Ge**|Wanyue Lin et.al.|[2405.12905v1](http://arxiv.org/abs/2405.12905v1)|null|
 |**2024-05-17**|**Possible spin-polarized Cooper pairing in high temperature FeSe superconductor**|Yi Hu et.al.|[2405.10482v1](http://arxiv.org/abs/2405.10482v1)|null|
