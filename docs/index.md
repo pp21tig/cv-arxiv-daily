@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Coupling Light with Matter for Identifying Dominant Subnetworks**|Airat Kamaletdinov et.al.|[2405.17296v1](http://arxiv.org/abs/2405.17296v1)|null|
+|**2024-05-27**|**Engineered Josephson diode effect in kinked Rashba nanochannels**|Alfonso Maiellaro et.al.|[2405.17269v1](http://arxiv.org/abs/2405.17269v1)|null|
+|**2024-05-27**|**Emergent asymmetry in confined bioconvection**|Martin A. Bees et.al.|[2405.17256v1](http://arxiv.org/abs/2405.17256v1)|null|
+|**2024-05-27**|**Second Law of Thermodynamics without Einstein Relation**|Benjamin Sorkin et.al.|[2405.17142v1](http://arxiv.org/abs/2405.17142v1)|null|
+|**2024-05-27**|**Temperature evolution of the Fermi surface of the FeSe monolayer on STO**|Khalil Zakeri et.al.|[2405.16910v1](http://arxiv.org/abs/2405.16910v1)|null|
+|**2024-05-27**|**Active gel model for one-dimensional cell migration coupling actin flow and adhesion dynamics**|Valentin Wössner et.al.|[2405.16870v1](http://arxiv.org/abs/2405.16870v1)|null|
+|**2024-05-26**|**Computational Investigation of Reactivity Parameters, UV-Vis and IR Spectra, NLO Properties, and Temperature-Dependent Thermodynamic Characteristics of Schiff-Based Interdigitated 5O.m (m=14,16) Liquid Crystalline Compounds: A DFT Analysis**|Kritika Garg et.al.|[2405.16632v1](http://arxiv.org/abs/2405.16632v1)|null|
+|**2024-05-26**|**Anti-plane segregation and diffusion in dense, bidisperse granular shear flow**|Harkirat Singh et.al.|[2405.16589v1](http://arxiv.org/abs/2405.16589v1)|null|
+|**2024-05-26**|**Dynamic response of a ferromagnetic nanofilament under rotating fields: effects of flexibility, thermal fluctuations and hydrodynamics**|Pedro A. Sánchez et.al.|[2405.16403v1](http://arxiv.org/abs/2405.16403v1)|null|
+|**2024-05-25**|**Delayed Gravitational Collapse of Attractive Colloidal Suspensions**|Kim William Torre et.al.|[2405.16317v1](http://arxiv.org/abs/2405.16317v1)|null|
+|**2024-05-25**|**Shape of a droplet on a surface in the presence of an external field and its critical disruption condition**|Jing Li et.al.|[2405.16245v1](http://arxiv.org/abs/2405.16245v1)|null|
+|**2024-05-25**|**Confinement Phenomena in Topological Stars**|Swapnil Kumar Singh et.al.|[2405.16190v1](http://arxiv.org/abs/2405.16190v1)|null|
+|**2024-05-25**|**Phantom Networks of Finite Chains**|Hemant Nanavati et.al.|[2405.16188v1](http://arxiv.org/abs/2405.16188v1)|null|
+|**2024-05-25**|**Physical phenomena during nanoindentation deformation of amorphous glassy polymers**|Prakash Sarkar et.al.|[2405.16180v1](http://arxiv.org/abs/2405.16180v1)|null|
+|**2024-05-25**|**Topological classification for chiral symmetry with non-equal sublattices**|J. X. Dai et.al.|[2405.16001v1](http://arxiv.org/abs/2405.16001v1)|null|
 |**2024-05-24**|**A review of active matter reviews**|Michael te Vrugt et.al.|[2405.15751v1](http://arxiv.org/abs/2405.15751v1)|null|
 |**2024-05-24**|**Study of triaxial loading of segregated granular assemblies through experiments and DEM simulations**|Venkata Rama Manoj Pola et.al.|[2405.15720v1](http://arxiv.org/abs/2405.15720v1)|null|
 |**2024-05-24**|**Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism**|Seul-Ki Bac et.al.|[2405.15689v1](http://arxiv.org/abs/2405.15689v1)|null|
@@ -6225,6 +6240,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Even- and Odd-denominator Fractional Quantum Anomalous Hall Effect in Graphene Moire Superlattices**|Jian Xie et.al.|[2405.16944v1](http://arxiv.org/abs/2405.16944v1)|null|
+|**2024-05-27**|**Giant anomalous Hall effect and band folding in a Kagome metal with mixed dimensionality**|Erjian Cheng et.al.|[2405.16831v1](http://arxiv.org/abs/2405.16831v1)|null|
+|**2024-05-26**|**Observation of in-plane anomalous Hall effect associated with orbital magnetization**|Ayano Nakamura et.al.|[2405.16722v1](http://arxiv.org/abs/2405.16722v1)|null|
 |**2024-05-24**|**Probing Berry curvature in magnetic topological insulators through resonant infrared magnetic circular dichroism**|Seul-Ki Bac et.al.|[2405.15689v1](http://arxiv.org/abs/2405.15689v1)|null|
 |**2024-05-23**|**Detecting slow magnetization relaxation via magnetotransport measurements based on the current-reversal method**|Sebastian Beckert et.al.|[2405.14460v1](http://arxiv.org/abs/2405.14460v1)|null|
 |**2024-05-21**|**A single crystal study of Kagome metals U $_2$Mn$_3$Ge and U$_2$Fe$_3$ Ge**|Wanyue Lin et.al.|[2405.12905v1](http://arxiv.org/abs/2405.12905v1)|null|
@@ -6485,6 +6503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Thermally-induced mimicry of quantum cluster excitations and implications for the magnetic transition in FePX $_3$**|Harry Lane et.al.|[2405.17308v1](http://arxiv.org/abs/2405.17308v1)|null|
 |**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
 |**2024-05-14**|**Quantum and classical spin dynamics across temperature scales in the S = 1/2 Heisenberg antiferromagnet**|Pyeongjae Park et.al.|[2405.08897v1](http://arxiv.org/abs/2405.08897v1)|null|
 |**2024-05-04**|**Spin dynamics in linear magnetoelectric material Mn $_{3}$Ta$_{2}$O$_{8}$**|Hodaka Kikuchi et.al.|[2405.02589v1](http://arxiv.org/abs/2405.02589v1)|null|
