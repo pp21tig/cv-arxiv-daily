@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Short-time Fokker-Planck propagator beyond the Gaussian approximation**|Julian Kappler et.al.|[2405.18381v1](http://arxiv.org/abs/2405.18381v1)|null|
+|**2024-05-28**|**Enhanced fractional quantum Hall gaps in a two-dimensional electron gas coupled to a hovering split-ring resonator**|Josefine Enkner et.al.|[2405.18362v1](http://arxiv.org/abs/2405.18362v1)|null|
+|**2024-05-28**|**Spontaneous flows in active smectics with dislocations**|Shao-Zhen Lin et.al.|[2405.18250v1](http://arxiv.org/abs/2405.18250v1)|null|
+|**2024-05-28**|**Observation and manipulation of charge carrier distribution at the SiO $_2$ /Si interface**|Maria M. Martins et.al.|[2405.18211v1](http://arxiv.org/abs/2405.18211v1)|null|
+|**2024-05-28**|**Revisiting the strain-induced softening behaviour in hydrogels**|L. K. R. Duarte et.al.|[2405.18185v1](http://arxiv.org/abs/2405.18185v1)|null|
+|**2024-05-28**|**Unraveling friction forces of droplets on non-wetting surface**|Abhijit Kumar Kushwaha et.al.|[2405.17923v1](http://arxiv.org/abs/2405.17923v1)|null|
+|**2024-05-28**|**Memory-induced absolute negative mobility**|M. Wiśniewski et.al.|[2405.17911v1](http://arxiv.org/abs/2405.17911v1)|null|
+|**2024-05-28**|**Nonreciprocal singularities dominated by the dissipative photon-magnon coupling in non-Hermitian systems**|Yongzhang Shi et.al.|[2405.17869v1](http://arxiv.org/abs/2405.17869v1)|null|
+|**2024-05-27**|**The significance of fuzzy boundaries of the barrier regions in single-molecule measurements of failed barrier crossing attempts**|Alexander M. Berezhkovskii et.al.|[2405.17620v1](http://arxiv.org/abs/2405.17620v1)|null|
+|**2024-05-27**|**Mechanistic insights into Z-ring formation and stability: A Langevin dynamics approach to FtsZ self-assembly**|Rajneesh Kumar et.al.|[2405.17619v1](http://arxiv.org/abs/2405.17619v1)|null|
 |**2024-05-27**|**Coupling Light with Matter for Identifying Dominant Subnetworks**|Airat Kamaletdinov et.al.|[2405.17296v1](http://arxiv.org/abs/2405.17296v1)|null|
 |**2024-05-27**|**Engineered Josephson diode effect in kinked Rashba nanochannels**|Alfonso Maiellaro et.al.|[2405.17269v1](http://arxiv.org/abs/2405.17269v1)|null|
 |**2024-05-27**|**Emergent asymmetry in confined bioconvection**|Martin A. Bees et.al.|[2405.17256v1](http://arxiv.org/abs/2405.17256v1)|null|
@@ -5769,6 +5779,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Fine Tuning of the Rotational Rate of Light-Driven, Second Generation Molecular Motors by Fluorine Substitutions**|Ivan Tambovtsev et.al.|[2405.18345v1](http://arxiv.org/abs/2405.18345v1)|null|
 |**2024-05-21**|**Low-energy pathways lead to self-healing defects in CsPbBr $_3$**|Kumar Miskin et.al.|[2405.13213v1](http://arxiv.org/abs/2405.13213v1)|null|
 |**2024-05-21**|**Defect-assisted reversible phase transition in mono- and few-layer ReS $_2$**|George Zograf et.al.|[2405.12859v1](http://arxiv.org/abs/2405.12859v1)|null|
 |**2024-05-21**|**Light induced magnetic order**|T. Jauk et.al.|[2405.12690v1](http://arxiv.org/abs/2405.12690v1)|null|
@@ -6236,6 +6247,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Metamagnetic multiband Hall effect in Ising antiferromagnet ErGa $_2$**|Takashi Kurumaji et.al.|[2405.18325v1](http://arxiv.org/abs/2405.18325v1)|null|
 |**2024-05-27**|**Even- and Odd-denominator Fractional Quantum Anomalous Hall Effect in Graphene Moire Superlattices**|Jian Xie et.al.|[2405.16944v1](http://arxiv.org/abs/2405.16944v1)|null|
 |**2024-05-27**|**Giant anomalous Hall effect and band folding in a Kagome metal with mixed dimensionality**|Erjian Cheng et.al.|[2405.16831v1](http://arxiv.org/abs/2405.16831v1)|null|
 |**2024-05-26**|**Observation of in-plane anomalous Hall effect associated with orbital magnetization**|Ayano Nakamura et.al.|[2405.16722v1](http://arxiv.org/abs/2405.16722v1)|null|
