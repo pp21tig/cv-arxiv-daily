@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Ion Correlation-Driven Hysteretic Adhesion and Repulsion between Opposing Polyelectrolyte Brushes**|Chao Duan et.al.|[2405.19329v1](http://arxiv.org/abs/2405.19329v1)|null|
+|**2024-05-29**|**Photonic bilayer Chern insulator with corner states**|Subhaskar Mandal et.al.|[2405.19267v1](http://arxiv.org/abs/2405.19267v1)|null|
+|**2024-05-29**|**Collapse/expansion dynamics and actuation of pH-responsive nanogels**|Jiaxing Yuan et.al.|[2405.19193v1](http://arxiv.org/abs/2405.19193v1)|null|
+|**2024-05-29**|**Fracture metamaterials with on-demand crack paths enabled by bending**|Lucie Domino et.al.|[2405.19061v1](http://arxiv.org/abs/2405.19061v1)|null|
+|**2024-05-29**|**Exact results, transient generalized Gibbs ensembles, and analytic approximations for spacetime propagators of massive, real scalar fields in one spatial dimension**|Tobias Boorman et.al.|[2405.19002v1](http://arxiv.org/abs/2405.19002v1)|null|
+|**2024-05-29**|**The surface tension of Martini 3 water mixtures**|Lorenzo Iannetti et.al.|[2405.18970v1](http://arxiv.org/abs/2405.18970v1)|null|
+|**2024-05-29**|**Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange**|Jeongmin Kim et.al.|[2405.18957v1](http://arxiv.org/abs/2405.18957v1)|null|
+|**2024-05-29**|**Aharonov-Bohm Scattering From Knots**|Kaustav Giri et.al.|[2405.18956v1](http://arxiv.org/abs/2405.18956v1)|null|
+|**2024-05-29**|**Computing the thermal transport coefficient of neutral amorphous polymers using exact vibrational density of states: Comparison with experiments**|Debashish Mukherji et.al.|[2405.18811v1](http://arxiv.org/abs/2405.18811v1)|null|
+|**2024-05-28**|**Thermodynamic compatibility of actives encapsulated into PEG-PLA nanoparticles: In Silico predictions and experimental verification**|Andreas Erlebach et.al.|[2405.18646v1](http://arxiv.org/abs/2405.18646v1)|null|
+|**2024-05-28**|**Hysteresis of Axionic Charge Density Waves**|Joan Bernabeu et.al.|[2405.18473v1](http://arxiv.org/abs/2405.18473v1)|null|
+|**2024-05-29**|**"Stumbling-to-Fetters" mechanism and Virginia Creeper model in hydrogel for designing bionic cardiovascular system**|Hanqing Dai et.al.|[2405.18445v1](http://arxiv.org/abs/2405.18445v1)|null|
 |**2024-05-28**|**Short-time Fokker-Planck propagator beyond the Gaussian approximation**|Julian Kappler et.al.|[2405.18381v1](http://arxiv.org/abs/2405.18381v1)|null|
 |**2024-05-28**|**Enhanced fractional quantum Hall gaps in a two-dimensional electron gas coupled to a hovering split-ring resonator**|Josefine Enkner et.al.|[2405.18362v1](http://arxiv.org/abs/2405.18362v1)|null|
 |**2024-05-28**|**Spontaneous flows in active smectics with dislocations**|Shao-Zhen Lin et.al.|[2405.18250v1](http://arxiv.org/abs/2405.18250v1)|null|
@@ -5783,6 +5795,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
+|**2024-05-28**|**Strong Chirality Suppression in 1-D correlated Weyl Semimetal (TaSe4)2I**|Utkarsh Khandelwal et.al.|[2405.18513v1](http://arxiv.org/abs/2405.18513v1)|null|
+|**2024-05-28**|**Collectively enhanced ground-state cooling in subwavelength atomic arrays**|Oriol Rubies-Bigorda et.al.|[2405.18482v1](http://arxiv.org/abs/2405.18482v1)|null|
 |**2024-05-28**|**Fine Tuning of the Rotational Rate of Light-Driven, Second Generation Molecular Motors by Fluorine Substitutions**|Ivan Tambovtsev et.al.|[2405.18345v1](http://arxiv.org/abs/2405.18345v1)|null|
 |**2024-05-21**|**Low-energy pathways lead to self-healing defects in CsPbBr $_3$**|Kumar Miskin et.al.|[2405.13213v1](http://arxiv.org/abs/2405.13213v1)|null|
 |**2024-05-21**|**Defect-assisted reversible phase transition in mono- and few-layer ReS $_2$**|George Zograf et.al.|[2405.12859v1](http://arxiv.org/abs/2405.12859v1)|null|
@@ -6251,6 +6266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
 |**2024-05-28**|**Metamagnetic multiband Hall effect in Ising antiferromagnet ErGa $_2$**|Takashi Kurumaji et.al.|[2405.18325v1](http://arxiv.org/abs/2405.18325v1)|null|
 |**2024-05-27**|**Even- and Odd-denominator Fractional Quantum Anomalous Hall Effect in Graphene Moire Superlattices**|Jian Xie et.al.|[2405.16944v1](http://arxiv.org/abs/2405.16944v1)|null|
 |**2024-05-27**|**Giant anomalous Hall effect and band folding in a Kagome metal with mixed dimensionality**|Erjian Cheng et.al.|[2405.16831v1](http://arxiv.org/abs/2405.16831v1)|null|
@@ -6515,6 +6531,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Anomalous thermal broadening in the Shastry-Sutherland model and SrCu $_2($BO$_3)_2$**|Zhenjiu Wang et.al.|[2405.18475v1](http://arxiv.org/abs/2405.18475v1)|null|
 |**2024-05-27**|**Thermally-induced mimicry of quantum cluster excitations and implications for the magnetic transition in FePX $_3$**|Harry Lane et.al.|[2405.17308v1](http://arxiv.org/abs/2405.17308v1)|null|
 |**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
 |**2024-05-14**|**Quantum and classical spin dynamics across temperature scales in the S = 1/2 Heisenberg antiferromagnet**|Pyeongjae Park et.al.|[2405.08897v1](http://arxiv.org/abs/2405.08897v1)|null|
