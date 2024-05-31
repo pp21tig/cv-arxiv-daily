@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Massless Quasiparticles in Bogoliubov-de Gennes Systems**|Arist Zhenyuan Yang et.al.|[2405.20298v1](http://arxiv.org/abs/2405.20298v1)|null|
+|**2024-05-30**|**High-order Van Hove singularities and their connection to flat bands**|Laura Classen et.al.|[2405.20226v1](http://arxiv.org/abs/2405.20226v1)|null|
+|**2024-05-30**|**Projected Augmented Wave (PAW) Method with multiple pseudo statesmapped onto the same all electron wavefunction**|Garry Goldstein et.al.|[2405.20171v1](http://arxiv.org/abs/2405.20171v1)|null|
+|**2024-05-30**|**The escape transition of a lattice star polymer grafted in a pore**|CJ Bradly et.al.|[2405.20103v1](http://arxiv.org/abs/2405.20103v1)|null|
+|**2024-05-30**|**Long-Range Correlations in Elastic Moduli and Local Stresses at the Unjamming Transition**|Surajit Chakraborty et.al.|[2405.19908v1](http://arxiv.org/abs/2405.19908v1)|null|
+|**2024-05-29**|**Hall-like behaviour of higher rank Chern-Simons theory of fractons**|Erica Bertolini et.al.|[2405.19446v1](http://arxiv.org/abs/2405.19446v1)|null|
 |**2024-05-30**|**Ion Correlation-Driven Hysteretic Adhesion and Repulsion between Opposing Polyelectrolyte Brushes**|Chao Duan et.al.|[2405.19329v2](http://arxiv.org/abs/2405.19329v2)|null|
 |**2024-05-29**|**Photonic bilayer Chern insulator with corner states**|Subhaskar Mandal et.al.|[2405.19267v1](http://arxiv.org/abs/2405.19267v1)|null|
 |**2024-05-29**|**Collapse/expansion dynamics and actuation of pH-responsive nanogels**|Jiaxing Yuan et.al.|[2405.19193v1](http://arxiv.org/abs/2405.19193v1)|null|
@@ -6266,6 +6272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Material and size dependent corrections to conductance quantization in anomalous Hall effect from anomaly inflow**|Armin Ghazi et.al.|[2405.19935v1](http://arxiv.org/abs/2405.19935v1)|null|
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
 |**2024-05-28**|**Metamagnetic multiband Hall effect in Ising antiferromagnet ErGa $_2$**|Takashi Kurumaji et.al.|[2405.18325v1](http://arxiv.org/abs/2405.18325v1)|null|
 |**2024-05-27**|**Even- and Odd-denominator Fractional Quantum Anomalous Hall Effect in Graphene Moire Superlattices**|Jian Xie et.al.|[2405.16944v1](http://arxiv.org/abs/2405.16944v1)|null|
