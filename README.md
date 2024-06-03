@@ -1098,8 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Programming evolution of geometry in shape-morphing sheets via spatiotemporal activation**|Daniel Duffy et.al.|[2405.21024v1](http://arxiv.org/abs/2405.21024v1)|null|
+|**2024-05-31**|**Activity-driven polymer knotting for macromolecular topology engineering**|Jia-Xiang Li et.al.|[2405.20938v1](http://arxiv.org/abs/2405.20938v1)|null|
+|**2024-05-31**|**Borromean Hypergraph Formation in Dense Random Rectangles**|Alexander R. Klotz et.al.|[2405.20874v1](http://arxiv.org/abs/2405.20874v1)|null|
+|**2024-05-31**|**Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit**|Sumin Lim et.al.|[2405.20827v1](http://arxiv.org/abs/2405.20827v1)|null|
+|**2024-05-31**|**Dynamical Moiré Systems in Twisted Bilayer Optical Lattices**|Jian-Hua Zeng et.al.|[2405.20732v1](http://arxiv.org/abs/2405.20732v1)|null|
+|**2024-05-31**|**Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting**|Yongfeng Zhao et.al.|[2405.20651v1](http://arxiv.org/abs/2405.20651v1)|null|
+|**2024-05-31**|**Effects of degumming conditions on the structure of the regenerated silk fibroin and the properties of its film**|Ruixue Sun et.al.|[2405.20639v1](http://arxiv.org/abs/2405.20639v1)|null|
+|**2024-05-31**|**Lopsided Rigid Dumbbell Rheology from Langevin Equation: A Graduate Tutorial**|Nhan Phan-Thien et.al.|[2405.20578v1](http://arxiv.org/abs/2405.20578v1)|null|
 |**2024-05-30**|**Massless Quasiparticles in Bogoliubov-de Gennes Systems**|Arist Zhenyuan Yang et.al.|[2405.20298v1](http://arxiv.org/abs/2405.20298v1)|null|
 |**2024-05-30**|**High-order Van Hove singularities and their connection to flat bands**|Laura Classen et.al.|[2405.20226v1](http://arxiv.org/abs/2405.20226v1)|null|
+|**2024-05-30**|**An Ultra-High Vacuum Scanning Tunneling Microscope with Pulse Tube and Joule-Thomson cooling operating at sub-pm z-noise**|Marcus Eßer et.al.|[2405.20187v1](http://arxiv.org/abs/2405.20187v1)|null|
 |**2024-05-30**|**Projected Augmented Wave (PAW) Method with multiple pseudo statesmapped onto the same all electron wavefunction**|Garry Goldstein et.al.|[2405.20171v1](http://arxiv.org/abs/2405.20171v1)|null|
 |**2024-05-30**|**The escape transition of a lattice star polymer grafted in a pore**|CJ Bradly et.al.|[2405.20103v1](http://arxiv.org/abs/2405.20103v1)|null|
 |**2024-05-30**|**Long-Range Correlations in Elastic Moduli and Local Stresses at the Unjamming Transition**|Surajit Chakraborty et.al.|[2405.19908v1](http://arxiv.org/abs/2405.19908v1)|null|
@@ -5797,6 +5806,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Ultrafast optical switching to a heterochiral charge-density wave state**|Wayne Cheng-Wei Huang et.al.|[2405.20872v1](http://arxiv.org/abs/2405.20872v1)|null|
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
 |**2024-05-28**|**Strong Chirality Suppression in 1-D correlated Weyl Semimetal (TaSe4)2I**|Utkarsh Khandelwal et.al.|[2405.18513v1](http://arxiv.org/abs/2405.18513v1)|null|
 |**2024-05-28**|**Collectively enhanced ground-state cooling in subwavelength atomic arrays**|Oriol Rubies-Bigorda et.al.|[2405.18482v1](http://arxiv.org/abs/2405.18482v1)|null|
