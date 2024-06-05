@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Universal limiting behaviour of reaction-diffusion systems with conservation laws**|Joshua F. Robinson et.al.|[2406.02409v1](http://arxiv.org/abs/2406.02409v1)|null|
+|**2024-06-04**|**Role of surfactants on droplet formation in piezoacoustic inkjet printing across microsecond-to-second timescales**|Maaike Rump et.al.|[2406.02389v1](http://arxiv.org/abs/2406.02389v1)|null|
+|**2024-06-04**|**Direct measurement of the viscocapillary lift force near a liquid interface**|Hao Zhang et.al.|[2406.02374v1](http://arxiv.org/abs/2406.02374v1)|null|
+|**2024-06-04**|**Learning dynamical models from stochastic trajectories**|Pierre Ronceray et.al.|[2406.02363v1](http://arxiv.org/abs/2406.02363v1)|null|
+|**2024-06-04**|**When does the elastic regime begin in viscoelastic pinch-off?**|A. Gaillard et.al.|[2406.02303v1](http://arxiv.org/abs/2406.02303v1)|null|
+|**2024-06-04**|**Stochastic Thermodynamics of Micromagnetics with Spin Torque**|Mingnan Ding et.al.|[2406.02220v1](http://arxiv.org/abs/2406.02220v1)|null|
+|**2024-06-04**|**Normal Modes of Rouse-Ham Symmetric Star Polymer Model**|Takashi Uneyama et.al.|[2406.02168v1](http://arxiv.org/abs/2406.02168v1)|null|
+|**2024-06-04**|**Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory**|Vinay Vaibhav et.al.|[2406.02113v1](http://arxiv.org/abs/2406.02113v1)|null|
+|**2024-06-04**|**Giant cluster formation in a simple model for globular colloidal aggregates**|Antonio Díaz-Pozuelo et.al.|[2406.02091v1](http://arxiv.org/abs/2406.02091v1)|null|
+|**2024-06-04**|**Gifts from long-range interaction: Emergent gapless topological behaviors in quantum spin chain**|Sheng Yang et.al.|[2406.01974v1](http://arxiv.org/abs/2406.01974v1)|null|
+|**2024-06-04**|**High-temperature magnetic anomaly via suppression of antisite disorder through synthesis route modification in a Kitaev candidate Cu $_2$IrO$_3$**|Yuya Haraguchi et.al.|[2406.01925v1](http://arxiv.org/abs/2406.01925v1)|null|
+|**2024-06-04**|**The influence of active agent motility on SIRS epidemiological dynamics**|R. Kailasham et.al.|[2406.01865v1](http://arxiv.org/abs/2406.01865v1)|null|
+|**2024-06-03**|**Geometry, anomaly, topology, and transport in Weyl fermions**|Azaz Ahmad et.al.|[2406.01667v1](http://arxiv.org/abs/2406.01667v1)|null|
+|**2024-06-03**|**Encoding lattice structures in Quantum Computational Basis States**|Kalyan Dasgupta et.al.|[2406.01547v1](http://arxiv.org/abs/2406.01547v1)|null|
+|**2024-06-03**|**Inferring interaction potentials from stochastic particle trajectories**|Ella M. King et.al.|[2406.01522v1](http://arxiv.org/abs/2406.01522v1)|null|
+|**2024-06-03**|**Back-Propagating Rupture: Nature, Excitation, and Implications**|Xiaotian Ding et.al.|[2406.01286v1](http://arxiv.org/abs/2406.01286v1)|null|
+|**2024-06-03**|**Intriguing properties of transport at the microscales: Langevin equation approach**|J. Spiechowicz et.al.|[2406.01216v1](http://arxiv.org/abs/2406.01216v1)|null|
+|**2024-06-03**|**Memory effects on the current induced propagation of spin textures in NdCo $_5$/Ni$_8$Fe$_2$ bilayers**|Victoria Vega Fernández et.al.|[2406.01091v1](http://arxiv.org/abs/2406.01091v1)|null|
+|**2024-06-03**|**Sub-symmetry Protected Topology in Topological Insulators and Superconductors**|Myungjun Kang et.al.|[2406.01089v1](http://arxiv.org/abs/2406.01089v1)|null|
+|**2024-06-03**|**Intrinsic conformal order revealed in geometrically confined long-range repulsive particles**|Zhenwei Yao et.al.|[2406.01053v1](http://arxiv.org/abs/2406.01053v1)|null|
 |**2024-05-31**|**Programming evolution of geometry in shape-morphing sheets via spatiotemporal activation**|Daniel Duffy et.al.|[2405.21024v1](http://arxiv.org/abs/2405.21024v1)|null|
 |**2024-05-31**|**Activity-driven polymer knotting for macromolecular topology engineering**|Jia-Xiang Li et.al.|[2405.20938v1](http://arxiv.org/abs/2405.20938v1)|null|
 |**2024-05-31**|**Borromean Hypergraph Formation in Dense Random Rectangles**|Alexander R. Klotz et.al.|[2405.20874v1](http://arxiv.org/abs/2405.20874v1)|null|
@@ -5810,6 +5830,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Transient infrared nanoscopy resolves the millisecond photoswitching dynamics of single lipid vesicles in water**|Thorsten Gölz et.al.|[2406.02513v1](http://arxiv.org/abs/2406.02513v1)|null|
+|**2024-06-03**|**Floquet engineering nearly flat bands through quantum-geometric light-matter coupling with surface polaritons**|Mikołaj Walicki et.al.|[2406.01298v1](http://arxiv.org/abs/2406.01298v1)|null|
+|**2024-06-01**|**Sub-wavelength optical lattice in 2D materials**|Supratik Sarkar et.al.|[2406.00464v1](http://arxiv.org/abs/2406.00464v1)|null|
 |**2024-05-31**|**Ultrafast optical switching to a heterochiral charge-density wave state**|Wayne Cheng-Wei Huang et.al.|[2405.20872v1](http://arxiv.org/abs/2405.20872v1)|null|
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
 |**2024-05-28**|**Strong Chirality Suppression in 1-D correlated Weyl Semimetal (TaSe4)2I**|Utkarsh Khandelwal et.al.|[2405.18513v1](http://arxiv.org/abs/2405.18513v1)|null|
@@ -6106,6 +6129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**Memory effects on the current induced propagation of spin textures in NdCo $_5$/Ni$_8$Fe$_2$ bilayers**|Victoria Vega Fernández et.al.|[2406.01091v1](http://arxiv.org/abs/2406.01091v1)|null|
 |**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723v1](http://arxiv.org/abs/2405.10723v1)|null|
 |**2024-05-15**|**Voltage-Driven Breakdown of Electronic Order**|Miguel M. Oliveira et.al.|[2405.09512v1](http://arxiv.org/abs/2405.09512v1)|null|
 |**2024-05-02**|**High harmonic generation from electrons moving on topological spin textures**|Atsushi Ono et.al.|[2405.01351v1](http://arxiv.org/abs/2405.01351v1)|null|
@@ -6282,6 +6306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**Engineering second-order topological insulators via coupling two first-order topological insulators**|Lizhou Liu et.al.|[2406.01037v1](http://arxiv.org/abs/2406.01037v1)|null|
 |**2024-05-30**|**Material and size dependent corrections to conductance quantization in anomalous Hall effect from anomaly inflow**|Armin Ghazi et.al.|[2405.19935v1](http://arxiv.org/abs/2405.19935v1)|null|
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
 |**2024-05-28**|**Metamagnetic multiband Hall effect in Ising antiferromagnet ErGa $_2$**|Takashi Kurumaji et.al.|[2405.18325v1](http://arxiv.org/abs/2405.18325v1)|null|
