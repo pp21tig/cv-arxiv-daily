@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Unifying atoms and colloids near the glass transition through bond-order topology**|Laura Stricker et.al.|[2406.03469v1](http://arxiv.org/abs/2406.03469v1)|null|
+|**2024-06-05**|**Cell divisions imprint long lasting elastic strain fields in epithelial tissues**|Ali Tahaei et.al.|[2406.03433v1](http://arxiv.org/abs/2406.03433v1)|null|
+|**2024-06-05**|**Neural density functionals: Local learning and pair-correlation matching**|Florian Sammüller et.al.|[2406.03327v1](http://arxiv.org/abs/2406.03327v1)|**[link](https://github.com/sfalmo/local-pair-matching)**|
+|**2024-06-05**|**Chemically Regulated Conical Channel Synapse for Neuromorphic and Sensing Applications**|T. M. Kamsma et.al.|[2406.03195v1](http://arxiv.org/abs/2406.03195v1)|null|
+|**2024-06-05**|**Theory and Modeling of Transport in Nanoporous Materials: From Microscopic to Coarse-Grained Descriptions**|Alexander Schlaich et.al.|[2406.03039v1](http://arxiv.org/abs/2406.03039v1)|null|
+|**2024-06-05**|**Direct observation of the vanishing EELS cross section in graphene**|Alberto Guandalini et.al.|[2406.02998v1](http://arxiv.org/abs/2406.02998v1)|null|
+|**2024-06-05**|**SO( $N$ ) singlet-projection model on the pyrochlore lattice**|Matthew S. Block et.al.|[2406.02926v1](http://arxiv.org/abs/2406.02926v1)|null|
+|**2024-06-05**|**Circle packing on spherical caps**|Paolo Amore et.al.|[2406.02851v1](http://arxiv.org/abs/2406.02851v1)|null|
 |**2024-06-04**|**Universal limiting behaviour of reaction-diffusion systems with conservation laws**|Joshua F. Robinson et.al.|[2406.02409v1](http://arxiv.org/abs/2406.02409v1)|null|
 |**2024-06-04**|**Role of surfactants on droplet formation in piezoacoustic inkjet printing across microsecond-to-second timescales**|Maaike Rump et.al.|[2406.02389v1](http://arxiv.org/abs/2406.02389v1)|null|
 |**2024-06-04**|**Direct measurement of the viscocapillary lift force near a liquid interface**|Hao Zhang et.al.|[2406.02374v1](http://arxiv.org/abs/2406.02374v1)|null|
@@ -5830,6 +5838,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Light-induced large and tunable valley-selective Hall effect in a centrosymmetric system**|Naoya Arakawa et.al.|[2406.02942v1](http://arxiv.org/abs/2406.02942v1)|null|
 |**2024-06-04**|**Transient infrared nanoscopy resolves the millisecond photoswitching dynamics of single lipid vesicles in water**|Thorsten Gölz et.al.|[2406.02513v1](http://arxiv.org/abs/2406.02513v1)|null|
 |**2024-06-03**|**Floquet engineering nearly flat bands through quantum-geometric light-matter coupling with surface polaritons**|Mikołaj Walicki et.al.|[2406.01298v1](http://arxiv.org/abs/2406.01298v1)|null|
 |**2024-06-01**|**Sub-wavelength optical lattice in 2D materials**|Supratik Sarkar et.al.|[2406.00464v1](http://arxiv.org/abs/2406.00464v1)|null|
@@ -6306,6 +6315,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029v1](http://arxiv.org/abs/2406.03029v1)|null|
 |**2024-06-03**|**Engineering second-order topological insulators via coupling two first-order topological insulators**|Lizhou Liu et.al.|[2406.01037v1](http://arxiv.org/abs/2406.01037v1)|null|
 |**2024-05-30**|**Material and size dependent corrections to conductance quantization in anomalous Hall effect from anomaly inflow**|Armin Ghazi et.al.|[2405.19935v1](http://arxiv.org/abs/2405.19935v1)|null|
 |**2024-05-29**|**Light-induced topological phase transition with tunable layer Hall effect in axion antiferromagnets**|Cong Zhou et.al.|[2405.18675v1](http://arxiv.org/abs/2405.18675v1)|null|
