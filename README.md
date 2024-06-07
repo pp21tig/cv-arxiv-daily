@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Controlling wall particle interactions with activity**|Luke Neville et.al.|[2406.04209v1](http://arxiv.org/abs/2406.04209v1)|null|
+|**2024-06-06**|**Manipulating the Relaxation Time of Boundary-Dissipative Systems through Bond Dissipation**|Yi Peng et.al.|[2406.04183v1](http://arxiv.org/abs/2406.04183v1)|null|
+|**2024-06-06**|**Resonant phonons: Localization in a structurally ordered crystal**|Albert Beardo et.al.|[2406.04097v1](http://arxiv.org/abs/2406.04097v1)|null|
+|**2024-06-06**|**Exact solution for a general FJC polyelectrolyte model with up to Next Nearest Neighbour Interactions**|Javier Orradre et.al.|[2406.03991v1](http://arxiv.org/abs/2406.03991v1)|null|
+|**2024-06-06**|**Coexistence of Topological Dirac and Dirac Nodal line semimetal in SrCaP belonging to Nodal line semimetal family SrCaX(X= Bi, Sb, As, P)**|Shivendra Kumar Gupta et.al.|[2406.03952v1](http://arxiv.org/abs/2406.03952v1)|null|
+|**2024-06-06**|**Topological phases in discrete stochastic systems**|Jaime Agudo-Canalejo et.al.|[2406.03925v1](http://arxiv.org/abs/2406.03925v1)|null|
+|**2024-06-06**|**Data-driven discovery of self-similarity using neural networks**|Ryota Watanabe et.al.|[2406.03896v1](http://arxiv.org/abs/2406.03896v1)|null|
+|**2024-06-05**|**Neural force functional for non-equilibrium many-body colloidal systems**|Toni Zimmerman et.al.|[2406.03606v1](http://arxiv.org/abs/2406.03606v1)|null|
 |**2024-06-05**|**Unifying atoms and colloids near the glass transition through bond-order topology**|Laura Stricker et.al.|[2406.03469v1](http://arxiv.org/abs/2406.03469v1)|null|
 |**2024-06-05**|**Cell divisions imprint long lasting elastic strain fields in epithelial tissues**|Ali Tahaei et.al.|[2406.03433v1](http://arxiv.org/abs/2406.03433v1)|null|
 |**2024-06-05**|**Neural density functionals: Local learning and pair-correlation matching**|Florian Sammüller et.al.|[2406.03327v1](http://arxiv.org/abs/2406.03327v1)|**[link](https://github.com/sfalmo/local-pair-matching)**|
