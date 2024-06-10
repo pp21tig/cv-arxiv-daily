@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Fast Brownian cluster dynamics**|Alexander P. Antonov et.al.|[2406.04972v1](http://arxiv.org/abs/2406.04972v1)|null|
+|**2024-06-07**|**Freezing, melting and the onset of glassiness in binary mixtures**|Daniele Coslovich et.al.|[2406.04921v1](http://arxiv.org/abs/2406.04921v1)|null|
+|**2024-06-07**|**Destabilization of Alzheimers Amyloid-beta Protofibrils by Bai-calein: Mechanistic Insights from All-atom Molecular Dynamics Simulations**|Sadika Choudhury et.al.|[2406.04852v1](http://arxiv.org/abs/2406.04852v1)|null|
+|**2024-06-07**|**Defects induce phase transition from dynamic to static rippling in graphene**|Fabian L. Thiemann et.al.|[2406.04775v1](http://arxiv.org/abs/2406.04775v1)|null|
+|**2024-06-07**|**Predicting Polymer Properties Based on Multimodal Multitask Pretraining**|Fanmeng Wang et.al.|[2406.04727v1](http://arxiv.org/abs/2406.04727v1)|null|
+|**2024-06-07**|**Modulation instability in dispersive parity-broken systems**|Sudheesh Srivastava et.al.|[2406.04570v1](http://arxiv.org/abs/2406.04570v1)|null|
+|**2024-06-06**|**Exceptionally Large Fluctuations in Orientational Order: The Lessons of Large-Deviation Theory for Liquid Crystalline Systems**|Eleftherios Mainas et.al.|[2406.04509v1](http://arxiv.org/abs/2406.04509v1)|null|
+|**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474v1](http://arxiv.org/abs/2406.04474v1)|null|
+|**2024-06-06**|**Rheological properties of acid-induced carboxymethylcellulose hydrogels**|Gauthier Legrand et.al.|[2406.04453v1](http://arxiv.org/abs/2406.04453v1)|null|
 |**2024-06-06**|**Controlling wall particle interactions with activity**|Luke Neville et.al.|[2406.04209v1](http://arxiv.org/abs/2406.04209v1)|null|
 |**2024-06-06**|**Manipulating the Relaxation Time of Boundary-Dissipative Systems through Bond Dissipation**|Yi Peng et.al.|[2406.04183v1](http://arxiv.org/abs/2406.04183v1)|null|
 |**2024-06-06**|**Resonant phonons: Localization in a structurally ordered crystal**|Albert Beardo et.al.|[2406.04097v1](http://arxiv.org/abs/2406.04097v1)|null|
@@ -6319,6 +6328,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474v1](http://arxiv.org/abs/2406.04474v1)|null|
 |**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029v1](http://arxiv.org/abs/2406.03029v1)|null|
 |**2024-06-03**|**Engineering second-order topological insulators via coupling two first-order topological insulators**|Lizhou Liu et.al.|[2406.01037v1](http://arxiv.org/abs/2406.01037v1)|null|
 |**2024-05-30**|**Material and size dependent corrections to conductance quantization in anomalous Hall effect from anomaly inflow**|Armin Ghazi et.al.|[2405.19935v1](http://arxiv.org/abs/2405.19935v1)|null|
