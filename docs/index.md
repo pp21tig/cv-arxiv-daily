@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Rigorous lower bound of dynamic critical exponents in critical frustration-free systems**|Rintaro Masaoka et.al.|[2406.06415v1](http://arxiv.org/abs/2406.06415v1)|null|
+|**2024-06-10**|**Quadratic dispersion relations in gapless frustration-free systems**|Rintaro Masaoka et.al.|[2406.06414v1](http://arxiv.org/abs/2406.06414v1)|null|
+|**2024-06-10**|**Time-tronics: from temporal printed circuit board to quantum computer**|Krzysztof Giergiel et.al.|[2406.06387v1](http://arxiv.org/abs/2406.06387v1)|null|
+|**2024-06-10**|**Topological transition in cyanobacteria: from motion to structure**|Jan Cammann et.al.|[2406.06314v1](http://arxiv.org/abs/2406.06314v1)|null|
+|**2024-06-10**|**Universality in the mechanics of soft Kirigami**|Yukino Kako et.al.|[2406.06311v1](http://arxiv.org/abs/2406.06311v1)|null|
+|**2024-06-10**|**Quantum enhancements and entropic constraints to Boundary Time Crystals as sensors of AC fields**|Dominic Gribben et.al.|[2406.06273v1](http://arxiv.org/abs/2406.06273v1)|null|
+|**2024-06-10**|**Shear thickening in suspensions of particles with dynamic brush layers**|Hojin Kim et.al.|[2406.06222v1](http://arxiv.org/abs/2406.06222v1)|null|
+|**2024-06-10**|**Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses**|Malak Alaa Eddine et.al.|[2406.06190v1](http://arxiv.org/abs/2406.06190v1)|null|
+|**2024-06-10**|**How emulsified droplets induce the bursting of suspended films of liquid mixtures**|Léa Delance et.al.|[2406.06169v1](http://arxiv.org/abs/2406.06169v1)|null|
+|**2024-06-10**|**Power-law correlation in the homogeneous disordered state of anisotropically self-propelled systems**|Kyosuke Adachi et.al.|[2406.06138v1](http://arxiv.org/abs/2406.06138v1)|null|
+|**2024-06-10**|**Hamonically trapped inertial run-and-tumble particle in one-dimension**|Debraj Dutta et.al.|[2406.06120v1](http://arxiv.org/abs/2406.06120v1)|null|
+|**2024-06-10**|**Space-Time Hopfion Crystals**|Wenbo Lin et.al.|[2406.06096v1](http://arxiv.org/abs/2406.06096v1)|null|
+|**2024-06-10**|**Photoinduced non-reciprocal magnetism**|Ryo Hanai et.al.|[2406.05957v1](http://arxiv.org/abs/2406.05957v1)|null|
+|**2024-06-09**|**The dynamics of machine-learned "softness" in supercooled liquids describe dynamical heterogeneity**|Sean A. Ridout et.al.|[2406.05868v1](http://arxiv.org/abs/2406.05868v1)|null|
+|**2024-06-09**|**Multi-temperature atomic ensemble: nonequilibrium evolution after ultrafast electronic excitation**|Nikita Medvedev et.al.|[2406.05718v1](http://arxiv.org/abs/2406.05718v1)|null|
+|**2024-06-09**|**Predicting edge-localized monovacancy defects in zigzag graphene nanoribbons from Floquet quasienergy spectrum**|Gulshan Kumar et.al.|[2406.05643v1](http://arxiv.org/abs/2406.05643v1)|null|
+|**2024-06-08**|**Microscopic Dynamics of Particle Rearrangement and its Correlation with Stick-slip Behavior in Granular Shear**|Kwangmin Lee et.al.|[2406.05479v1](http://arxiv.org/abs/2406.05479v1)|null|
+|**2024-06-08**|**Deformation localisation in stretched liquid crystal elastomers**|Rabin Poudel et.al.|[2406.05476v1](http://arxiv.org/abs/2406.05476v1)|null|
+|**2024-06-08**|**Pyroresistive response of percolating conductive polymer composites**|Ettore Barbieri et.al.|[2406.05461v1](http://arxiv.org/abs/2406.05461v1)|null|
+|**2024-06-08**|**Generalized symmetry in non-Hermitian systems**|Karin Sim et.al.|[2406.05411v1](http://arxiv.org/abs/2406.05411v1)|null|
 |**2024-06-07**|**Fast Brownian cluster dynamics**|Alexander P. Antonov et.al.|[2406.04972v1](http://arxiv.org/abs/2406.04972v1)|null|
 |**2024-06-07**|**Freezing, melting and the onset of glassiness in binary mixtures**|Daniele Coslovich et.al.|[2406.04921v1](http://arxiv.org/abs/2406.04921v1)|null|
 |**2024-06-07**|**Destabilization of Alzheimers Amyloid-beta Protofibrils by Bai-calein: Mechanistic Insights from All-atom Molecular Dynamics Simulations**|Sadika Choudhury et.al.|[2406.04852v1](http://arxiv.org/abs/2406.04852v1)|null|
@@ -6601,6 +6621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-08**|**Spin and lattice dynamics of a van der Waals antiferromagnet MnPSe $_3$**|Junbo Liao et.al.|[2406.05319v1](http://arxiv.org/abs/2406.05319v1)|null|
 |**2024-05-28**|**Anomalous thermal broadening in the Shastry-Sutherland model and SrCu $_2($BO$_3)_2$**|Zhenjiu Wang et.al.|[2405.18475v1](http://arxiv.org/abs/2405.18475v1)|null|
 |**2024-05-27**|**Thermally-induced mimicry of quantum cluster excitations and implications for the magnetic transition in FePX $_3$**|Harry Lane et.al.|[2405.17308v1](http://arxiv.org/abs/2405.17308v1)|null|
 |**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
