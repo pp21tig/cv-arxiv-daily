@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Periodic phase-separation during meniscus-guided deposition**|René de Bruijn et.al.|[2406.07347v1](http://arxiv.org/abs/2406.07347v1)|null|
+|**2024-06-11**|**Experimental Modeling of Chiral Active Robots and a Minimal Model of Non-Gaussian Displacements**|Yuxuan Zhou et.al.|[2406.07313v1](http://arxiv.org/abs/2406.07313v1)|null|
+|**2024-06-11**|**Evidence of surface $p$-wave superconductivity and higher-order topology in MoTe$_2$**|Sangyun Lee et.al.|[2406.07260v1](http://arxiv.org/abs/2406.07260v1)|null|
+|**2024-06-11**|**Collective dynamics of active dumbbells near a circular obstacle**|Chandranshu Tiwari et.al.|[2406.07164v1](http://arxiv.org/abs/2406.07164v1)|null|
+|**2024-06-11**|**Path-based packing of icosahedral shells into multi-component aggregates**|Nicolò Canestrari et.al.|[2406.07137v1](http://arxiv.org/abs/2406.07137v1)|null|
+|**2024-06-10**|**Hidden correlations in stochastic photoinduced dynamics of a solid-state electrolyte**|Jackson McClellan et.al.|[2406.06832v1](http://arxiv.org/abs/2406.06832v1)|null|
 |**2024-06-10**|**Rigorous lower bound of dynamic critical exponents in critical frustration-free systems**|Rintaro Masaoka et.al.|[2406.06415v1](http://arxiv.org/abs/2406.06415v1)|null|
 |**2024-06-10**|**Quadratic dispersion relations in gapless frustration-free systems**|Rintaro Masaoka et.al.|[2406.06414v1](http://arxiv.org/abs/2406.06414v1)|null|
 |**2024-06-10**|**Time-tronics: from temporal printed circuit board to quantum computer**|Krzysztof Giergiel et.al.|[2406.06387v1](http://arxiv.org/abs/2406.06387v1)|null|
@@ -6352,6 +6358,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172v1](http://arxiv.org/abs/2406.07172v1)|null|
 |**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474v1](http://arxiv.org/abs/2406.04474v1)|null|
 |**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029v1](http://arxiv.org/abs/2406.03029v1)|null|
 |**2024-06-03**|**Engineering second-order topological insulators via coupling two first-order topological insulators**|Lizhou Liu et.al.|[2406.01037v1](http://arxiv.org/abs/2406.01037v1)|null|
