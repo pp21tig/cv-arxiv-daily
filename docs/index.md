@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Topological linear response of hyperbolic Chern insulators**|Canon Sun et.al.|[2406.08388v1](http://arxiv.org/abs/2406.08388v1)|null|
+|**2024-06-12**|**Sequence Complexity and Monomer Rigidity Control the Morphologies and Aging Dynamics of Protein Aggregates**|Ryota Takaki et.al.|[2406.08362v1](http://arxiv.org/abs/2406.08362v1)|null|
+|**2024-06-12**|**Wobbling and Migrating Ferrofluid Droplets**|Aaveg Aggarwal et.al.|[2406.08289v1](http://arxiv.org/abs/2406.08289v1)|null|
+|**2024-06-12**|**Skyrmion blinking from the conical phase**|Rai M. Menezes et.al.|[2406.08230v1](http://arxiv.org/abs/2406.08230v1)|null|
+|**2024-06-12**|**Upper bounds on the highest phonon frequency and superconducting temperature from fundamental physical constants**|K. Trachenko et.al.|[2406.08129v1](http://arxiv.org/abs/2406.08129v1)|null|
+|**2024-06-12**|**Dilute suspensions of Janus rods: the role of bond and shape anisotropy**|Carlo Andrea De Filippo et.al.|[2406.08083v1](http://arxiv.org/abs/2406.08083v1)|null|
+|**2024-06-12**|**Synchronous and Asynchronous Updates of Active Ising Spins in One Dimension**|Anish Kumar et.al.|[2406.08067v1](http://arxiv.org/abs/2406.08067v1)|null|
+|**2024-06-12**|**Dispersion Interaction Between Thin Conducting Cylinders**|Subhojit Pal et.al.|[2406.08047v1](http://arxiv.org/abs/2406.08047v1)|null|
+|**2024-06-12**|**Theory for Tunnel Magnetoresistance Oscillation**|Keisuke Masuda et.al.|[2406.07919v1](http://arxiv.org/abs/2406.07919v1)|null|
+|**2024-06-12**|**Learning dynamical behaviors in physical systems**|Rituparno Mandal et.al.|[2406.07856v1](http://arxiv.org/abs/2406.07856v1)|null|
+|**2024-06-11**|**Conformable Derivative Approach to Granular Gases**|José Weberszpil et.al.|[2406.07748v1](http://arxiv.org/abs/2406.07748v1)|null|
+|**2024-06-11**|**Investigating the Interplay Between Aging and Rejuvenation in Spin Glasses**|J. Freedberg et.al.|[2406.07628v1](http://arxiv.org/abs/2406.07628v1)|null|
 |**2024-06-11**|**Periodic phase-separation during meniscus-guided deposition**|René de Bruijn et.al.|[2406.07347v1](http://arxiv.org/abs/2406.07347v1)|null|
 |**2024-06-11**|**Experimental Modeling of Chiral Active Robots and a Minimal Model of Non-Gaussian Displacements**|Yuxuan Zhou et.al.|[2406.07313v1](http://arxiv.org/abs/2406.07313v1)|null|
 |**2024-06-11**|**Evidence of surface $p$-wave superconductivity and higher-order topology in MoTe$_2$**|Sangyun Lee et.al.|[2406.07260v1](http://arxiv.org/abs/2406.07260v1)|null|
@@ -5881,6 +5893,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Light-induced fictitious magnetic fields for quantum storage in cold atomic ensembles**|Jianmin Wang et.al.|[2406.08251v1](http://arxiv.org/abs/2406.08251v1)|null|
 |**2024-06-05**|**Light-induced large and tunable valley-selective Hall effect in a centrosymmetric system**|Naoya Arakawa et.al.|[2406.02942v1](http://arxiv.org/abs/2406.02942v1)|null|
 |**2024-06-11**|**Transient infrared nanoscopy resolves the millisecond photoswitching dynamics of single lipid vesicles in water**|Thorsten Gölz et.al.|[2406.02513v2](http://arxiv.org/abs/2406.02513v2)|null|
 |**2024-06-03**|**Floquet engineering nearly flat bands through quantum-geometric light-matter coupling with surface polaritons**|Mikołaj Walicki et.al.|[2406.01298v1](http://arxiv.org/abs/2406.01298v1)|null|
