@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Doubled Shapiro steps in a dynamic axion insulator Josephson junction**|Yu-Hang Li et.al.|[2406.09274v1](http://arxiv.org/abs/2406.09274v1)|null|
+|**2024-06-13**|**Elastic scattering on a quantum computer**|Muhammad Yusf et.al.|[2406.09231v1](http://arxiv.org/abs/2406.09231v1)|null|
+|**2024-06-13**|**Link to Densify: Topological Transition During the Compression of Amorphous Ices**|Yair Augusto Gutiérrez Fosado et.al.|[2406.09080v1](http://arxiv.org/abs/2406.09080v1)|null|
+|**2024-06-13**|**Spectroscopy of two-dimensional interacting lattice electrons using symmetry-aware neural backflow transformations**|Imelda Romero et.al.|[2406.09077v1](http://arxiv.org/abs/2406.09077v1)|null|
+|**2024-06-13**|**Entanglement properties of optomagnonic crystal from nonlinear perspective**|M. Wanic et.al.|[2406.09074v1](http://arxiv.org/abs/2406.09074v1)|null|
+|**2024-06-13**|**Continuous time crystals as a PT symmetric state and the emergence of critical exceptional points**|Yuma Nakanishi et.al.|[2406.09018v1](http://arxiv.org/abs/2406.09018v1)|null|
+|**2024-06-13**|**S-SOS: Stochastic Sum-Of-Squares for Parametric Polynomial Optimization**|Richard L. Zhu et.al.|[2406.08954v1](http://arxiv.org/abs/2406.08954v1)|null|
+|**2024-06-12**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v1](http://arxiv.org/abs/2406.08670v1)|null|
+|**2024-06-12**|**A thermodynamic approach to adhesion and deformation of DNA-bound droplets**|Nicolas Judd et.al.|[2406.08618v1](http://arxiv.org/abs/2406.08618v1)|null|
+|**2024-06-12**|**Critical behavior and multistability in quasi-two-dimensional turbulence**|Filip Novotný et.al.|[2406.08566v1](http://arxiv.org/abs/2406.08566v1)|null|
+|**2024-06-12**|**Meandering conduction channels and the tunable nature of quantized charge transport**|Benoit Douçot et.al.|[2406.08548v1](http://arxiv.org/abs/2406.08548v1)|null|
 |**2024-06-12**|**Topological linear response of hyperbolic Chern insulators**|Canon Sun et.al.|[2406.08388v1](http://arxiv.org/abs/2406.08388v1)|null|
 |**2024-06-12**|**Sequence Complexity and Monomer Rigidity Control the Morphologies and Aging Dynamics of Protein Aggregates**|Ryota Takaki et.al.|[2406.08362v1](http://arxiv.org/abs/2406.08362v1)|null|
 |**2024-06-12**|**Wobbling and Migrating Ferrofluid Droplets**|Aaveg Aggarwal et.al.|[2406.08289v1](http://arxiv.org/abs/2406.08289v1)|null|
@@ -6194,6 +6205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Optimal magnetization switching via spin-orbit torque on the surface of a topological insulator**|Grzegorz J. Kwiatkowski et.al.|[2406.09287v1](http://arxiv.org/abs/2406.09287v1)|null|
 |**2024-06-03**|**Memory effects on the current induced propagation of spin textures in NdCo $_5$/Ni$_8$Fe$_2$ bilayers**|Victoria Vega Fernández et.al.|[2406.01091v1](http://arxiv.org/abs/2406.01091v1)|null|
 |**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723v1](http://arxiv.org/abs/2405.10723v1)|null|
 |**2024-05-15**|**Voltage-Driven Breakdown of Electronic Order**|Miguel M. Oliveira et.al.|[2405.09512v1](http://arxiv.org/abs/2405.09512v1)|null|
@@ -6641,6 +6653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v1](http://arxiv.org/abs/2406.08670v1)|null|
 |**2024-06-08**|**Spin and lattice dynamics of a van der Waals antiferromagnet MnPSe $_3$**|Junbo Liao et.al.|[2406.05319v1](http://arxiv.org/abs/2406.05319v1)|null|
 |**2024-05-28**|**Anomalous thermal broadening in the Shastry-Sutherland model and SrCu $_2($BO$_3)_2$**|Zhenjiu Wang et.al.|[2405.18475v1](http://arxiv.org/abs/2405.18475v1)|null|
 |**2024-05-27**|**Thermally-induced mimicry of quantum cluster excitations and implications for the magnetic transition in FePX $_3$**|Harry Lane et.al.|[2405.17308v1](http://arxiv.org/abs/2405.17308v1)|null|
