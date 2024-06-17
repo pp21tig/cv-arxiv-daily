@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Diffusiophoretic Brownian dynamics: characterization of hydrodynamic effects for an active chemoattractive polymer**|Surabhi Jaiswal et.al.|[2406.09785v1](http://arxiv.org/abs/2406.09785v1)|null|
+|**2024-06-14**|**Phantom chain simulations for fracture of star polymer networks with various strand densities**|Yuichi Masubuchi et.al.|[2406.09741v1](http://arxiv.org/abs/2406.09741v1)|null|
+|**2024-06-14**|**Physical networks become what they learn**|Menachem Stern et.al.|[2406.09689v1](http://arxiv.org/abs/2406.09689v1)|null|
+|**2024-06-14**|**Delayed phosphate release can highly improve energy efficiency of muscle contraction**|Jiaxiang Xu et.al.|[2406.09670v1](http://arxiv.org/abs/2406.09670v1)|null|
+|**2024-06-14**|**Energetics of particle-size segregation**|Tomás Trewhela et.al.|[2406.09660v1](http://arxiv.org/abs/2406.09660v1)|null|
+|**2024-06-13**|**Applying Machine Learning to Elucidate Ultrafast Demagnetization Dynamics in Ni and Ni80Fe20**|Hasan Ahmadian Baghbaderani et.al.|[2406.09620v1](http://arxiv.org/abs/2406.09620v1)|null|
+|**2024-06-13**|**Strain rate controls alignment in growing bacterial monolayers**|Blake Langeslay et.al.|[2406.09615v1](http://arxiv.org/abs/2406.09615v1)|null|
+|**2024-06-13**|**Spin-deformation coupling in two-dimensional polar materials**|J. A. Sánchez-Monroy et.al.|[2406.09599v1](http://arxiv.org/abs/2406.09599v1)|null|
+|**2024-06-13**|**Monopole magnetohydrodynamics on a plane: Magnetosonic waves and dynamo instability**|Debarghya Banerjee et.al.|[2406.09562v1](http://arxiv.org/abs/2406.09562v1)|null|
 |**2024-06-13**|**Doubled Shapiro steps in a dynamic axion insulator Josephson junction**|Yu-Hang Li et.al.|[2406.09274v1](http://arxiv.org/abs/2406.09274v1)|null|
 |**2024-06-13**|**Elastic scattering on a quantum computer**|Muhammad Yusf et.al.|[2406.09231v1](http://arxiv.org/abs/2406.09231v1)|null|
 |**2024-06-13**|**Link to Densify: Topological Transition During the Compression of Amorphous Ices**|Yair Augusto Gutiérrez Fosado et.al.|[2406.09080v1](http://arxiv.org/abs/2406.09080v1)|null|
@@ -6379,6 +6388,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Massive Dirac Fermions and Strong Shubnikov-de Haas Oscillations in Topological Insulator Sm,Fe:Bi2Se3 Single Crystals**|Weiyao Zhao et.al.|[2406.09628v1](http://arxiv.org/abs/2406.09628v1)|null|
+|**2024-06-13**|**Ferromagnetism and Topology of the Higher Flat Band in a Fractional Chern Insulator**|Heonjoon Park et.al.|[2406.09591v1](http://arxiv.org/abs/2406.09591v1)|null|
 |**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172v1](http://arxiv.org/abs/2406.07172v1)|null|
 |**2024-06-06**|**Stoichiometry-induced ferromagnetism in altermagnetic candidate MnTe**|Michael Chilcote et.al.|[2406.04474v1](http://arxiv.org/abs/2406.04474v1)|null|
 |**2024-06-05**|**Electric-field-induced magnetic toroidal moment in a time-reversal-odd antiferromagnet**|Takeshi Hayashida et.al.|[2406.03029v1](http://arxiv.org/abs/2406.03029v1)|null|
