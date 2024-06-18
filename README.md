@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Condensate Formation in a Chiral Lattice Gas**|Boyi Wang et.al.|[2406.11807v1](http://arxiv.org/abs/2406.11807v1)|null|
+|**2024-06-17**|**Predicting quantum learnability from landscape fluctuation**|Hao-Kai Zhang et.al.|[2406.11805v1](http://arxiv.org/abs/2406.11805v1)|null|
+|**2024-06-17**|**Mapping Interfacial Energetic Landscape in Organic Solar Cells Reveals Pathways to Reducing Nonradiative Losses**|Gaurab J. Thapa et.al.|[2406.11735v1](http://arxiv.org/abs/2406.11735v1)|null|
+|**2024-06-17**|**Site-percolation transition of run-and-tumble particles**|Soumya K. Saha et.al.|[2406.11726v1](http://arxiv.org/abs/2406.11726v1)|null|
+|**2024-06-17**|**Algebraic depletion interactions in two-temperature mixtures**|Pascal Damman et.al.|[2406.11616v1](http://arxiv.org/abs/2406.11616v1)|null|
+|**2024-06-17**|**Isotropic tensor fields in amorphous solids: Correlation functions of displacement and strain tensor fields**|J. P. Wittmer et.al.|[2406.11588v1](http://arxiv.org/abs/2406.11588v1)|null|
+|**2024-06-17**|**Integer defects, flow localization, and bistability on curved active surfaces**|Rushikesh Shinde et.al.|[2406.11465v1](http://arxiv.org/abs/2406.11465v1)|null|
+|**2024-06-17**|**Progress, problems and prospects of room-temperature superconductivity**|Ivan A. Troyan et.al.|[2406.11344v1](http://arxiv.org/abs/2406.11344v1)|null|
+|**2024-06-17**|**A cascade model for the discontinuous absorbing phase transition between turbulent and laminar flows**|Eric Bertin et.al.|[2406.11324v1](http://arxiv.org/abs/2406.11324v1)|null|
+|**2024-06-17**|**Simulation of chiral motion of excitation within the ground-state manifolds of neutral atoms**|Hao-Yuan Tang et.al.|[2406.11291v1](http://arxiv.org/abs/2406.11291v1)|null|
+|**2024-06-17**|**Emergent Wigner phases in moiré superlattice from deep learning**|Xiang Li et.al.|[2406.11134v1](http://arxiv.org/abs/2406.11134v1)|null|
+|**2024-06-17**|**All-electron $BSE@GW$ method with Numeric Atom-Centered Orbitals for Extended Systems**|Ruiyi Zhou et.al.|[2406.11122v1](http://arxiv.org/abs/2406.11122v1)|null|
+|**2024-06-16**|**Charged drop impinging on particles dispersed over a metallic plate: A method of particle cleaning**|D. Biswal et.al.|[2406.10994v1](http://arxiv.org/abs/2406.10994v1)|null|
+|**2024-06-16**|**Kinetic theory of dilute granular gases having an inverse power law potential**|Satoshi Takada et.al.|[2406.10864v1](http://arxiv.org/abs/2406.10864v1)|null|
+|**2024-06-16**|**Scaling Properties of Liquid Dynamics Predicted from a Single Configuration: Pseudoisomorphs for Harmonic-Bonded Molecules**|Zahraa Sheydaafar et.al.|[2406.10859v1](http://arxiv.org/abs/2406.10859v1)|null|
+|**2024-06-15**|**Trapping of isotropic droplets by disclinations in nematic liquid crystals controlled by surface anchoring and elastic constant disparity**|Nilanthi P. Haputhanthrige et.al.|[2406.10684v1](http://arxiv.org/abs/2406.10684v1)|null|
+|**2024-06-15**|**Photonic realization of chiral hinge states in a Chern-insulator stack**|Han-Rong Xia et.al.|[2406.10637v1](http://arxiv.org/abs/2406.10637v1)|null|
+|**2024-06-15**|**Chemotactic behavior for a self-phoretic Janus particle near a patch source of fuel**|Viviana Mancuso et.al.|[2406.10568v1](http://arxiv.org/abs/2406.10568v1)|null|
+|**2024-06-15**|**Inverse design of programmable shape-morphing kirigami structures**|Xiaoyuan Ying et.al.|[2406.10566v1](http://arxiv.org/abs/2406.10566v1)|null|
+|**2024-06-15**|**Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study**|Dorothy Gogoi et.al.|[2406.10495v1](http://arxiv.org/abs/2406.10495v1)|null|
 |**2024-06-14**|**Diffusiophoretic Brownian dynamics: characterization of hydrodynamic effects for an active chemoattractive polymer**|Surabhi Jaiswal et.al.|[2406.09785v1](http://arxiv.org/abs/2406.09785v1)|null|
 |**2024-06-14**|**Phantom chain simulations for fracture of star polymer networks with various strand densities**|Yuichi Masubuchi et.al.|[2406.09741v1](http://arxiv.org/abs/2406.09741v1)|null|
 |**2024-06-14**|**Physical networks become what they learn**|Menachem Stern et.al.|[2406.09689v1](http://arxiv.org/abs/2406.09689v1)|null|
@@ -5909,6 +5929,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Transverse optical gradient force in untethered rotating metaspinners**|Einstom Engay et.al.|[2406.11489v1](http://arxiv.org/abs/2406.11489v1)|null|
 |**2024-06-12**|**Light-induced fictitious magnetic fields for quantum storage in cold atomic ensembles**|Jianmin Wang et.al.|[2406.08251v1](http://arxiv.org/abs/2406.08251v1)|null|
 |**2024-06-05**|**Light-induced large and tunable valley-selective Hall effect in a centrosymmetric system**|Naoya Arakawa et.al.|[2406.02942v1](http://arxiv.org/abs/2406.02942v1)|null|
 |**2024-06-11**|**Transient infrared nanoscopy resolves the millisecond photoswitching dynamics of single lipid vesicles in water**|Thorsten Gölz et.al.|[2406.02513v2](http://arxiv.org/abs/2406.02513v2)|null|
@@ -6210,6 +6231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Enabling Ab-Initio Molecular Dynamics under Bias: The CP2K+SMEAGOL Interface for Integrating Density Functional Theory and Non-Equilibrium Green Functions**|Christian S. Ahart et.al.|[2406.11494v1](http://arxiv.org/abs/2406.11494v1)|null|
 |**2024-06-13**|**Optimal magnetization switching via spin-orbit torque on the surface of a topological insulator**|Grzegorz J. Kwiatkowski et.al.|[2406.09287v1](http://arxiv.org/abs/2406.09287v1)|null|
 |**2024-06-03**|**Memory effects on the current induced propagation of spin textures in NdCo $_5$/Ni$_8$Fe$_2$ bilayers**|Victoria Vega Fernández et.al.|[2406.01091v1](http://arxiv.org/abs/2406.01091v1)|null|
 |**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723v1](http://arxiv.org/abs/2405.10723v1)|null|
@@ -6660,7 +6682,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-12**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v1](http://arxiv.org/abs/2406.08670v1)|null|
+|**2024-06-17**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v2](http://arxiv.org/abs/2406.08670v2)|null|
 |**2024-06-08**|**Spin and lattice dynamics of a van der Waals antiferromagnet MnPSe $_3$**|Junbo Liao et.al.|[2406.05319v1](http://arxiv.org/abs/2406.05319v1)|null|
 |**2024-05-28**|**Anomalous thermal broadening in the Shastry-Sutherland model and SrCu $_2($BO$_3)_2$**|Zhenjiu Wang et.al.|[2405.18475v1](http://arxiv.org/abs/2405.18475v1)|null|
 |**2024-05-27**|**Thermally-induced mimicry of quantum cluster excitations and implications for the magnetic transition in FePX $_3$**|Harry Lane et.al.|[2405.17308v1](http://arxiv.org/abs/2405.17308v1)|null|
