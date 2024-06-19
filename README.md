@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Borromean supercounterfluids at finite temperatures**|Alexandru Golic et.al.|[2406.12833v1](http://arxiv.org/abs/2406.12833v1)|null|
+|**2024-06-18**|**Wind-Driven Interfacial Evaporation from Cold Water**|Binglin Zeng et.al.|[2406.12522v1](http://arxiv.org/abs/2406.12522v1)|null|
+|**2024-06-18**|**On the analysis of two-time correlation functions: equilibrium vs non-equilibrium systems**|Anastasia Ragulskaya et.al.|[2406.12520v1](http://arxiv.org/abs/2406.12520v1)|null|
+|**2024-06-18**|**The Green's function Monte Carlo combined with projected entangled pair state approach to the frustrated $J_1$-$J_2$ Heisenberg model**|He-Yu Lin et.al.|[2406.12207v1](http://arxiv.org/abs/2406.12207v1)|null|
+|**2024-06-17**|**Inside the Working Mechanism of Meta-generalized Gradient Density Functional Approximations: The Example of Quantum Spin-Hall Insulator 1T`-WTe2**|Li Yin et.al.|[2406.12124v1](http://arxiv.org/abs/2406.12124v1)|null|
+|**2024-06-17**|**4D Printing of Programmable Digital Metamaterials**|Ido Levin et.al.|[2406.12113v1](http://arxiv.org/abs/2406.12113v1)|null|
+|**2024-06-17**|**Relaxation of particle-laden interfaces: geometric and preparation effects**|Gregor Plohl et.al.|[2406.12093v1](http://arxiv.org/abs/2406.12093v1)|null|
 |**2024-06-17**|**Condensate Formation in a Chiral Lattice Gas**|Boyi Wang et.al.|[2406.11807v1](http://arxiv.org/abs/2406.11807v1)|null|
 |**2024-06-17**|**Predicting quantum learnability from landscape fluctuation**|Hao-Kai Zhang et.al.|[2406.11805v1](http://arxiv.org/abs/2406.11805v1)|null|
 |**2024-06-17**|**Mapping Interfacial Energetic Landscape in Organic Solar Cells Reveals Pathways to Reducing Nonradiative Losses**|Gaurab J. Thapa et.al.|[2406.11735v1](http://arxiv.org/abs/2406.11735v1)|null|
@@ -6410,6 +6417,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Observation of Temperature Independent Anomalous Hall Effect in Thin Bismuth from Near Absolute Zero to 300 K Temperature**|Oulin Yu et.al.|[2406.12134v1](http://arxiv.org/abs/2406.12134v1)|null|
 |**2024-06-13**|**Massive Dirac Fermions and Strong Shubnikov-de Haas Oscillations in Topological Insulator Sm,Fe:Bi2Se3 Single Crystals**|Weiyao Zhao et.al.|[2406.09628v1](http://arxiv.org/abs/2406.09628v1)|null|
 |**2024-06-13**|**Ferromagnetism and Topology of the Higher Flat Band in a Fractional Chern Insulator**|Heonjoon Park et.al.|[2406.09591v1](http://arxiv.org/abs/2406.09591v1)|null|
 |**2024-06-11**|**Pushing an Altermagnet to the Ultimate 2D Limit: Evidence of Symmetry Breaking in Monolayers of GdAlSi**|Oleg E. Parfenov et.al.|[2406.07172v1](http://arxiv.org/abs/2406.07172v1)|null|
