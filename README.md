@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Dynamics of colloidal rods rotating in viscoelastic media**|N Narinder et.al.|[2406.14505v1](http://arxiv.org/abs/2406.14505v1)|null|
+|**2024-06-20**|**Electrical switching of Ising-superconducting nonreciprocity for quantum neuronal transistor**|Junlin Xiong et.al.|[2406.14417v1](http://arxiv.org/abs/2406.14417v1)|null|
+|**2024-06-20**|**Molecular simulations of crazes in glassy polymers under cyclic loading**|Tobias Laschuetza et.al.|[2406.14383v1](http://arxiv.org/abs/2406.14383v1)|null|
+|**2024-06-20**|**Cluster Formation induced by local dielectric saturation in Restricted Primitive Model Electrolytes**|David Ribar et.al.|[2406.14316v1](http://arxiv.org/abs/2406.14316v1)|null|
+|**2024-06-20**|**Microscopic and stochastic simulations of chemically active droplets**|Roxanne Berthin et.al.|[2406.14256v1](http://arxiv.org/abs/2406.14256v1)|null|
+|**2024-06-20**|**2024 roadmap on 2D topological insulators**|Bent Weber et.al.|[2406.14209v1](http://arxiv.org/abs/2406.14209v1)|null|
+|**2024-06-20**|**Compact fermionic quantum state preparation with a natural-orbitalizing variational quantum eigensolving scheme**|Pauline Besserve et.al.|[2406.14170v1](http://arxiv.org/abs/2406.14170v1)|null|
+|**2024-06-20**|**Contribution of Andreev reflection to the mobility of surface state electrons on superfluid $^3$ He-B**|Yasumasa Tsutsumi et.al.|[2406.14016v1](http://arxiv.org/abs/2406.14016v1)|null|
+|**2024-06-19**|**Poiseuille flow for a simplified pseduoplastic rheology**|Chris Reese et.al.|[2406.13832v1](http://arxiv.org/abs/2406.13832v1)|null|
+|**2024-06-19**|**Seasonal footprints on ecological time series and jumps in dynamic states of protein configurations from a non-linear forecasting method characterization**|Leonardo Reyes et.al.|[2406.13811v1](http://arxiv.org/abs/2406.13811v1)|null|
+|**2024-06-19**|**Harvesting Deformation Modes for Micromorphic Homogenization from Experiments on Mechanical Metamaterials**|S. Maraghechi et.al.|[2406.13810v1](http://arxiv.org/abs/2406.13810v1)|null|
+|**2024-06-19**|**Competition of vortex core structures in superfluid $^3$ He-B**|Riku Rantanen et.al.|[2406.13649v1](http://arxiv.org/abs/2406.13649v1)|null|
+|**2024-06-19**|**Traveling Fronts and the Smoothing of the Collective-Motion Phase Transition in Vibrated Polar Disks**|Caleb J. Anderson Olivier Dauchot et.al.|[2406.13646v1](http://arxiv.org/abs/2406.13646v1)|null|
+|**2024-06-19**|**3D Visualization Reveals the Cooling Rate Dependent Crystallization near a Wall in Dense Microgel Systems**|M. P. M. Schelling et.al.|[2406.13609v1](http://arxiv.org/abs/2406.13609v1)|null|
+|**2024-06-19**|**Chirality Effects in Molecular Chainmail**|Alexander R. Klotz et.al.|[2406.13590v1](http://arxiv.org/abs/2406.13590v1)|null|
+|**2024-06-19**|**Shape and Size Tunability of Sheets of Interlocked Ring Copolymers**|Juan Luengo-Márquez et.al.|[2406.13561v1](http://arxiv.org/abs/2406.13561v1)|null|
+|**2024-06-19**|**Voltage-controlled non-axisymmetric vibrations of soft electro-active tubes with strain-stiffening effect**|F. Zhu et.al.|[2406.13483v1](http://arxiv.org/abs/2406.13483v1)|null|
+|**2024-06-19**|**Linear stability of turbulent channel flow with one-point closure**|P. V. Kashyap et.al.|[2406.13446v1](http://arxiv.org/abs/2406.13446v1)|null|
+|**2024-06-19**|**Designing necks and wrinkles in inflated auxetic membranes**|Sairam Pamulaparthi Venkata et.al.|[2406.13442v1](http://arxiv.org/abs/2406.13442v1)|null|
+|**2024-06-19**|**Unifying Mixed Gas Adsorption in Molecular Sieve Membranes and MOFs using Machine Learning**|Subhadeep Dasgupta et.al.|[2406.13389v1](http://arxiv.org/abs/2406.13389v1)|null|
 |**2024-06-18**|**Borromean supercounterfluids at finite temperatures**|Alexandru Golic et.al.|[2406.12833v1](http://arxiv.org/abs/2406.12833v1)|null|
 |**2024-06-18**|**Wind-Driven Interfacial Evaporation from Cold Water**|Binglin Zeng et.al.|[2406.12522v1](http://arxiv.org/abs/2406.12522v1)|null|
 |**2024-06-18**|**On the analysis of two-time correlation functions: equilibrium vs non-equilibrium systems**|Anastasia Ragulskaya et.al.|[2406.12520v1](http://arxiv.org/abs/2406.12520v1)|null|
@@ -6238,6 +6258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-19**|**Magnetochiral vortex ratchet effect in two-dimensional arrays of $\varphi_0$ -Josephson junctions**|Simon Reinhardt et.al.|[2406.13819v1](http://arxiv.org/abs/2406.13819v1)|null|
 |**2024-06-17**|**Enabling Ab-Initio Molecular Dynamics under Bias: The CP2K+SMEAGOL Interface for Integrating Density Functional Theory and Non-Equilibrium Green Functions**|Christian S. Ahart et.al.|[2406.11494v1](http://arxiv.org/abs/2406.11494v1)|null|
 |**2024-06-13**|**Optimal magnetization switching via spin-orbit torque on the surface of a topological insulator**|Grzegorz J. Kwiatkowski et.al.|[2406.09287v1](http://arxiv.org/abs/2406.09287v1)|null|
 |**2024-06-03**|**Memory effects on the current induced propagation of spin textures in NdCo $_5$/Ni$_8$Fe$_2$ bilayers**|Victoria Vega Fernández et.al.|[2406.01091v1](http://arxiv.org/abs/2406.01091v1)|null|
@@ -6417,6 +6438,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Quantum anomalous, quantum spin, and quantum valley Hall effects in pentalayer rhombohedral graphene**|Koji Kudo et.al.|[2406.14354v1](http://arxiv.org/abs/2406.14354v1)|null|
+|**2024-06-20**|**Electrical switching of chirality in rhombohedral graphene Chern insulators**|Jing Ding et.al.|[2406.14289v1](http://arxiv.org/abs/2406.14289v1)|null|
 |**2024-06-17**|**Observation of Temperature Independent Anomalous Hall Effect in Thin Bismuth from Near Absolute Zero to 300 K Temperature**|Oulin Yu et.al.|[2406.12134v1](http://arxiv.org/abs/2406.12134v1)|null|
 |**2024-06-13**|**Massive Dirac Fermions and Strong Shubnikov-de Haas Oscillations in Topological Insulator Sm,Fe:Bi2Se3 Single Crystals**|Weiyao Zhao et.al.|[2406.09628v1](http://arxiv.org/abs/2406.09628v1)|null|
 |**2024-06-13**|**Ferromagnetism and Topology of the Higher Flat Band in a Fractional Chern Insulator**|Heonjoon Park et.al.|[2406.09591v1](http://arxiv.org/abs/2406.09591v1)|null|
