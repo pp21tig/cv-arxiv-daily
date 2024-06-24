@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**A Candidate for the Quantum Spin Liquid Ground-State in the Shastry-Sutherland Lattice Material Yb $_2$Be$_2$GeO$_7$**|M. Pula et.al.|[2406.15314v1](http://arxiv.org/abs/2406.15314v1)|null|
+|**2024-06-21**|**The random walk of intermittently self-propelled particles**|Agniva Datta et.al.|[2406.15277v1](http://arxiv.org/abs/2406.15277v1)|null|
+|**2024-06-21**|**HTMPC: A heavily templated C++ library for large scale particle-based mesoscale hydrodynamics simulations using multiparticle collision dynamics**|Elmar Westphal et.al.|[2406.15236v1](http://arxiv.org/abs/2406.15236v1)|null|
+|**2024-06-21**|**Unconstrained dynamic gel swelling generates transient surface deformations**|Alyssa VanZanten et.al.|[2406.15224v1](http://arxiv.org/abs/2406.15224v1)|null|
+|**2024-06-21**|**Inverse Design of Planar Clamped-Free Elastic Rods from Noisy Data**|Dezhong Tong et.al.|[2406.15166v1](http://arxiv.org/abs/2406.15166v1)|null|
+|**2024-06-21**|**Breaking the angular dispersion limit in thin film optics by ultra-strong light-matter coupling**|Andreas Mischok et.al.|[2406.15095v1](http://arxiv.org/abs/2406.15095v1)|null|
+|**2024-06-21**|**Features of heterogeneously charged systems at their liquid-liquid critical point**|Daniele Notarmuzi et.al.|[2406.15072v1](http://arxiv.org/abs/2406.15072v1)|null|
+|**2024-06-21**|**Prospecting for Pluripotency in Metamaterial Design**|Ryan van Mastrigt et.al.|[2406.14980v1](http://arxiv.org/abs/2406.14980v1)|null|
+|**2024-06-21**|**Air drag controls the runout of small laboratory landslides**|Rory T. Cerbus et.al.|[2406.14813v1](http://arxiv.org/abs/2406.14813v1)|null|
+|**2024-06-20**|**Electro-Optic Cavities for In-Situ Measurement of Cavity Fields**|Michael S. Spencer et.al.|[2406.14749v1](http://arxiv.org/abs/2406.14749v1)|null|
+|**2024-06-20**|**Jamming Crossovers in a Confined Driven Polymer in Solution**|Setarehalsadat Changizrezaei et.al.|[2406.14741v1](http://arxiv.org/abs/2406.14741v1)|null|
+|**2024-06-20**|**Short- and long-term avalanche dynamics in 1D-printed microfluidic crystals**|Ronald Terrazas Mallea et.al.|[2406.14736v1](http://arxiv.org/abs/2406.14736v1)|null|
+|**2024-06-20**|**Structural chirality and related properties in the periodic inorganic solids: Review and perspectives**|Eric Bousquet et.al.|[2406.14684v1](http://arxiv.org/abs/2406.14684v1)|null|
 |**2024-06-20**|**Dynamics of colloidal rods rotating in viscoelastic media**|N Narinder et.al.|[2406.14505v1](http://arxiv.org/abs/2406.14505v1)|null|
 |**2024-06-20**|**Electrical switching of Ising-superconducting nonreciprocity for quantum neuronal transistor**|Junlin Xiong et.al.|[2406.14417v1](http://arxiv.org/abs/2406.14417v1)|null|
 |**2024-06-20**|**Molecular simulations of crazes in glassy polymers under cyclic loading**|Tobias Laschuetza et.al.|[2406.14383v1](http://arxiv.org/abs/2406.14383v1)|null|
@@ -6717,6 +6730,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Thermal activated detection of dark particles in a weakly coupled quantum Ising ladder**|Yunjing Gao et.al.|[2406.15024v1](http://arxiv.org/abs/2406.15024v1)|null|
 |**2024-06-17**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v2](http://arxiv.org/abs/2406.08670v2)|null|
 |**2024-06-08**|**Spin and lattice dynamics of a van der Waals antiferromagnet MnPSe $_3$**|Junbo Liao et.al.|[2406.05319v1](http://arxiv.org/abs/2406.05319v1)|null|
 |**2024-05-28**|**Anomalous thermal broadening in the Shastry-Sutherland model and SrCu $_2($BO$_3)_2$**|Zhenjiu Wang et.al.|[2405.18475v1](http://arxiv.org/abs/2405.18475v1)|null|
