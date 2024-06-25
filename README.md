@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Geometrically frustrated, mechanical metamaterial membranes: Large-scale stress accumulation and size-selective assembly**|Micheal Wang et.al.|[2406.16790v1](http://arxiv.org/abs/2406.16790v1)|null|
+|**2024-06-24**|**Hydrodynamically consistent many-body Harada-Sasa relation**|Ramin Golestanian et.al.|[2406.16761v1](http://arxiv.org/abs/2406.16761v1)|null|
+|**2024-06-24**|**Evidence of directional structural superlubricity and Lévy flights in a van der Waals heterostructure**|Maxime Le Ster et.al.|[2406.16709v1](http://arxiv.org/abs/2406.16709v1)|null|
+|**2024-06-24**|**Terahertz Emission From Diamond Nitrogen-Vacancy Centers**|Sándor Kollarics et.al.|[2406.16616v1](http://arxiv.org/abs/2406.16616v1)|null|
+|**2024-06-24**|**A synthetic T-cell receptor-like protein behaves as a Janus particle in solution**|Emily Sakamoto-Rablah et.al.|[2406.16610v1](http://arxiv.org/abs/2406.16610v1)|null|
+|**2024-06-24**|**Bipolarized Weyl semimetals and quantum crystal valley Hall effect in two-dimensional altermagnetic materials**|Chao-Yang Tan et.al.|[2406.16603v1](http://arxiv.org/abs/2406.16603v1)|null|
+|**2024-06-24**|**Is it possible to overheat ice? The activated melting of TIP4P/Ice at solid-vapor coexistence**|Lukasz Baran et.al.|[2406.16574v1](http://arxiv.org/abs/2406.16574v1)|null|
+|**2024-06-24**|**Non-Hermitian Floquet dynamics in absorption spectroscopy**|R M Potvliege et.al.|[2406.16559v1](http://arxiv.org/abs/2406.16559v1)|null|
+|**2024-06-24**|**Preparation and observation of jammed particles with power size distribution**|Daisuke S. Shimamoto et.al.|[2406.16497v1](http://arxiv.org/abs/2406.16497v1)|null|
+|**2024-06-24**|**Micropores can enhance intrinsic fracture energy of hydrogels**|Puyu Cao et.al.|[2406.16353v1](http://arxiv.org/abs/2406.16353v1)|null|
+|**2024-06-23**|**Free Electron Theory for Thin Metal Films**|Philip B. Allen et.al.|[2406.16197v1](http://arxiv.org/abs/2406.16197v1)|null|
+|**2024-06-23**|**Brownian friction dynamics: fluctuations in sliding distance**|Ruibin Xu et.al.|[2406.16139v1](http://arxiv.org/abs/2406.16139v1)|null|
+|**2024-06-23**|**Wave functions in the Critical Phase: a Planar \textit{Sierpiński} Fractal Lattice**|Qi Yao et.al.|[2406.16130v1](http://arxiv.org/abs/2406.16130v1)|null|
+|**2024-06-23**|**Identification and classification of clusters of dipolar colloids in an external field**|Katherine Skipper et.al.|[2406.16076v1](http://arxiv.org/abs/2406.16076v1)|null|
+|**2024-06-23**|**Odd Dipole Screening in Radial Inflation**|Yang Fu et.al.|[2406.16075v1](http://arxiv.org/abs/2406.16075v1)|null|
+|**2024-06-22**|**Efficient Band Structure Calculation for Transitional-Metal Dichalcogenides Using the Semiempirical Pseudopotential Method**|Raj Kumar Paudel et.al.|[2406.15913v1](http://arxiv.org/abs/2406.15913v1)|null|
+|**2024-06-22**|**Anomolous rheology of puller-type microswimmer suspensions**|Haruki Hayano et.al.|[2406.15785v1](http://arxiv.org/abs/2406.15785v1)|null|
 |**2024-06-21**|**A Candidate for the Quantum Spin Liquid Ground-State in the Shastry-Sutherland Lattice Material Yb $_2$Be$_2$GeO$_7$**|M. Pula et.al.|[2406.15314v1](http://arxiv.org/abs/2406.15314v1)|null|
 |**2024-06-21**|**The random walk of intermittently self-propelled particles**|Agniva Datta et.al.|[2406.15277v1](http://arxiv.org/abs/2406.15277v1)|null|
 |**2024-06-21**|**HTMPC: A heavily templated C++ library for large scale particle-based mesoscale hydrodynamics simulations using multiparticle collision dynamics**|Elmar Westphal et.al.|[2406.15236v1](http://arxiv.org/abs/2406.15236v1)|null|
@@ -5969,6 +5986,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Light-induced percolative topological phase transition in type-II Weyl semimetal WTe2**|Xiaoyue Zhou et.al.|[2406.16663v1](http://arxiv.org/abs/2406.16663v1)|null|
+|**2024-06-24**|**Terahertz Emission From Diamond Nitrogen-Vacancy Centers**|Sándor Kollarics et.al.|[2406.16616v1](http://arxiv.org/abs/2406.16616v1)|null|
 |**2024-06-17**|**Transverse optical gradient force in untethered rotating metaspinners**|Einstom Engay et.al.|[2406.11489v1](http://arxiv.org/abs/2406.11489v1)|null|
 |**2024-06-12**|**Light-induced fictitious magnetic fields for quantum storage in cold atomic ensembles**|Jianmin Wang et.al.|[2406.08251v1](http://arxiv.org/abs/2406.08251v1)|null|
 |**2024-06-05**|**Light-induced large and tunable valley-selective Hall effect in a centrosymmetric system**|Naoya Arakawa et.al.|[2406.02942v1](http://arxiv.org/abs/2406.02942v1)|null|
@@ -6451,6 +6470,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Constraints on the orbital flux phase in $A$V$_3$Sb$_5$ from polar Kerr effect**|Hao-Tian Liu et.al.|[2406.16398v1](http://arxiv.org/abs/2406.16398v1)|null|
 |**2024-06-20**|**Quantum anomalous, quantum spin, and quantum valley Hall effects in pentalayer rhombohedral graphene**|Koji Kudo et.al.|[2406.14354v1](http://arxiv.org/abs/2406.14354v1)|null|
 |**2024-06-20**|**Electrical switching of chirality in rhombohedral graphene Chern insulators**|Jing Ding et.al.|[2406.14289v1](http://arxiv.org/abs/2406.14289v1)|null|
 |**2024-06-17**|**Observation of Temperature Independent Anomalous Hall Effect in Thin Bismuth from Near Absolute Zero to 300 K Temperature**|Oulin Yu et.al.|[2406.12134v1](http://arxiv.org/abs/2406.12134v1)|null|
