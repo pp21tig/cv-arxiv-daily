@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Alignment-Induced Self-Organization of Autonomously Steering Microswimmers: Turbulence, Vortices, and Jets**|Segun Goh et.al.|[2406.17704v1](http://arxiv.org/abs/2406.17704v1)|null|
+|**2024-06-25**|**Perovskite nanocrystal self-assemblies in 3D hollow templates**|Etsuki Kobiyama et.al.|[2406.17665v1](http://arxiv.org/abs/2406.17665v1)|null|
+|**2024-06-25**|**Quasiphase transition of a single-file water chain influenced by atomic charges in water model using orientational-biased replica exchange Monte Carlo simulations**|Liang Zhao et.al.|[2406.17621v1](http://arxiv.org/abs/2406.17621v1)|null|
+|**2024-06-25**|**Characterising transport in a quantum gas by measuring Drude weights**|Philipp Schüttelkopf et.al.|[2406.17569v1](http://arxiv.org/abs/2406.17569v1)|null|
+|**2024-06-25**|**Anisotropic Brownian particles under resetting**|Subhasish Chaki et.al.|[2406.17550v1](http://arxiv.org/abs/2406.17550v1)|null|
+|**2024-06-25**|**A microscopic approach to crystallization: challenging the classical/non-classical dichotomy**|James F. Lutsko et.al.|[2406.17543v1](http://arxiv.org/abs/2406.17543v1)|null|
+|**2024-06-24**|**Continuous drive heterodyne microwave sensing with spin qubits in hexagonal boron nitride**|Charlie J. Patrickson et.al.|[2406.17142v1](http://arxiv.org/abs/2406.17142v1)|null|
 |**2024-06-24**|**Geometrically frustrated, mechanical metamaterial membranes: Large-scale stress accumulation and size-selective assembly**|Micheal Wang et.al.|[2406.16790v1](http://arxiv.org/abs/2406.16790v1)|null|
 |**2024-06-24**|**Hydrodynamically consistent many-body Harada-Sasa relation**|Ramin Golestanian et.al.|[2406.16761v1](http://arxiv.org/abs/2406.16761v1)|null|
 |**2024-06-24**|**Evidence of directional structural superlubricity and Lévy flights in a van der Waals heterostructure**|Maxime Le Ster et.al.|[2406.16709v1](http://arxiv.org/abs/2406.16709v1)|null|
@@ -6474,6 +6481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766v1](http://arxiv.org/abs/2406.17766v1)|null|
 |**2024-06-24**|**Constraints on the orbital flux phase in $A$V$_3$Sb$_5$ from polar Kerr effect**|Hao-Tian Liu et.al.|[2406.16398v1](http://arxiv.org/abs/2406.16398v1)|null|
 |**2024-06-20**|**Quantum anomalous, quantum spin, and quantum valley Hall effects in pentalayer rhombohedral graphene**|Koji Kudo et.al.|[2406.14354v1](http://arxiv.org/abs/2406.14354v1)|null|
 |**2024-06-20**|**Electrical switching of chirality in rhombohedral graphene Chern insulators**|Jing Ding et.al.|[2406.14289v1](http://arxiv.org/abs/2406.14289v1)|null|
@@ -6750,6 +6758,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Spin waves and three-dimensionality in the high-pressure antiferromagnetic phase of SrCu $_2$(BO$_3$)$_2$**|E. Fogh et.al.|[2406.17546v1](http://arxiv.org/abs/2406.17546v1)|null|
 |**2024-06-21**|**Thermal activated detection of dark particles in a weakly coupled quantum Ising ladder**|Yunjing Gao et.al.|[2406.15024v1](http://arxiv.org/abs/2406.15024v1)|null|
 |**2024-06-17**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v2](http://arxiv.org/abs/2406.08670v2)|null|
 |**2024-06-08**|**Spin and lattice dynamics of a van der Waals antiferromagnet MnPSe $_3$**|Junbo Liao et.al.|[2406.05319v1](http://arxiv.org/abs/2406.05319v1)|null|
