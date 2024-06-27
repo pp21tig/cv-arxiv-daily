@@ -1098,6 +1098,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids**|Sergei Iskakov et.al.|[2406.18479v1](http://arxiv.org/abs/2406.18479v1)|null|
+|**2024-06-26**|**On the relative packing densities of pistachios and pistachio shells**|Ruben Zakine et.al.|[2406.18386v1](http://arxiv.org/abs/2406.18386v1)|null|
+|**2024-06-26**|**Rapid Polymorphic Screening using Sessile Microdroplets: Competitive Nucleation of Mannitol Polymorphs**|Ruel Cedeno et.al.|[2406.18127v1](http://arxiv.org/abs/2406.18127v1)|null|
+|**2024-06-26**|**Gauge Freedom and Objective Rates in the Morphodynamics of Fluid Deformable Surfaces: the Jaumann Rate vs. the Material Derivative**|Joseph Pollard et.al.|[2406.18014v1](http://arxiv.org/abs/2406.18014v1)|null|
+|**2024-06-25**|**Onset of slow dynamics in dense suspensions of active colloids**|Antina Ghosh et.al.|[2406.17927v1](http://arxiv.org/abs/2406.17927v1)|null|
 |**2024-06-25**|**Alignment-Induced Self-Organization of Autonomously Steering Microswimmers: Turbulence, Vortices, and Jets**|Segun Goh et.al.|[2406.17704v1](http://arxiv.org/abs/2406.17704v1)|null|
 |**2024-06-25**|**Perovskite nanocrystal self-assemblies in 3D hollow templates**|Etsuki Kobiyama et.al.|[2406.17665v1](http://arxiv.org/abs/2406.17665v1)|null|
 |**2024-06-26**|**Quasiphase transition of a single-file water chain influenced by atomic charges in water model using orientational-biased replica exchange Monte Carlo simulations**|Liang Zhao et.al.|[2406.17621v2](http://arxiv.org/abs/2406.17621v2)|null|
@@ -6754,6 +6759,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Understanding the microscopic origin of the magnetic interactions in CoNb $_2$O$_6$**|Amanda A. Konieczna et.al.|[2406.17854v1](http://arxiv.org/abs/2406.17854v1)|null|
 |**2024-06-25**|**Spin waves and three-dimensionality in the high-pressure antiferromagnetic phase of SrCu $_2$(BO$_3$)$_2$**|E. Fogh et.al.|[2406.17546v1](http://arxiv.org/abs/2406.17546v1)|null|
 |**2024-06-21**|**Thermal activated detection of dark particles in a weakly coupled quantum Ising ladder**|Yunjing Gao et.al.|[2406.15024v1](http://arxiv.org/abs/2406.15024v1)|null|
 |**2024-06-17**|**Investigating meV-scale Equilibrium Atomic Dynamics with X-Rays: focus on disordered materials**|Alfred Q. R. Baron et.al.|[2406.08670v2](http://arxiv.org/abs/2406.08670v2)|null|
