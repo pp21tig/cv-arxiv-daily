@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Thermodynamics of underdamped Brownian collisional engines: New insights and resonant phenomena**|Gustavo A. L. Forão et.al.|[2406.19365v1](http://arxiv.org/abs/2406.19365v1)|null|
+|**2024-06-27**|**Phase boundaries promote chemical reactions through localized fluxes**|Alexandra Shelest et.al.|[2406.19266v1](http://arxiv.org/abs/2406.19266v1)|null|
+|**2024-06-27**|**Optimal self-assembly pathways towards colloidal lattices with tunable flexibility**|Yogesh Shelke et.al.|[2406.19260v1](http://arxiv.org/abs/2406.19260v1)|null|
+|**2024-06-27**|**Gauge Invariance of Equilibrium Statistical Mechanics**|Johanna Müller et.al.|[2406.19235v1](http://arxiv.org/abs/2406.19235v1)|null|
+|**2024-06-27**|**Early-stage dynamics of impact-induced hardening of dense suspensions of millimeter-sized particles**|Hirokazu Maruoka et.al.|[2406.19202v1](http://arxiv.org/abs/2406.19202v1)|null|
+|**2024-06-27**|**Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate**|Amin Alibakhshi et.al.|[2406.19145v1](http://arxiv.org/abs/2406.19145v1)|null|
+|**2024-06-27**|**Coagulation-flocculation process on a lattice: Monte Carlo simulations**|V. Blavatska et.al.|[2406.19115v1](http://arxiv.org/abs/2406.19115v1)|null|
+|**2024-06-27**|**Double Mpemba effect in the cooling of trapped colloids**|Isha Malhotra et.al.|[2406.19098v1](http://arxiv.org/abs/2406.19098v1)|null|
+|**2024-06-27**|**Modeling the Efficiency and Effective Temperature of Bacterial Heat Engines**|Roland Wiese et.al.|[2406.19059v1](http://arxiv.org/abs/2406.19059v1)|null|
+|**2024-06-27**|**Slow polymer dynamics in poly(3-hexylthiophene) probed by muon spin relaxation**|S. Takeshita et.al.|[2406.18952v1](http://arxiv.org/abs/2406.18952v1)|null|
+|**2024-06-27**|**A Microscopic Estimation of the Splay Elastic Constant K11 for Nematic Liquid Crystals**|Tien-Lun Ting et.al.|[2406.18852v1](http://arxiv.org/abs/2406.18852v1)|null|
+|**2024-06-27**|**Emergence of metachronal waves in a chain of symmetrically beating filaments**|Narina Jung et.al.|[2406.18823v1](http://arxiv.org/abs/2406.18823v1)|null|
+|**2024-06-26**|**Subharmonic oscillations in the Floquet circuit with the frequency-synthesis dimension**|Bo Lv et.al.|[2406.18769v1](http://arxiv.org/abs/2406.18769v1)|null|
+|**2024-06-26**|**Onset of spontaneous beating and whirling in the follower force model of an active filament**|Ory Schnitzer et.al.|[2406.18756v1](http://arxiv.org/abs/2406.18756v1)|null|
+|**2024-06-26**|**Self-assembly behaviour of diblock copolymer-diblock copolymer under oscillating shear field**|Y. Guo et.al.|[2406.18736v1](http://arxiv.org/abs/2406.18736v1)|null|
+|**2024-06-26**|**Vapour-liquid phase behaviour of primitive models of ionic liquids confined in disordered porous media**|T. Hvozd et.al.|[2406.18715v1](http://arxiv.org/abs/2406.18715v1)|null|
+|**2024-06-26**|**Direct measurement of forces in air-based acoustic levitation systems**|Nina M. Brown et.al.|[2406.18710v1](http://arxiv.org/abs/2406.18710v1)|null|
+|**2024-06-26**|**Molecular dynamics simulations of water-ethanol mixtures. I. Composition trends in thermodynamic properties**|D. B. Bautista et.al.|[2406.18707v1](http://arxiv.org/abs/2406.18707v1)|null|
 |**2024-06-26**|**Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory for molecules and solids**|Sergei Iskakov et.al.|[2406.18479v1](http://arxiv.org/abs/2406.18479v1)|null|
 |**2024-06-26**|**On the relative packing densities of pistachios and pistachio shells**|Ruben Zakine et.al.|[2406.18386v1](http://arxiv.org/abs/2406.18386v1)|null|
 |**2024-06-26**|**Rapid Polymorphic Screening using Sessile Microdroplets: Competitive Nucleation of Mannitol Polymorphs**|Ruel Cedeno et.al.|[2406.18127v1](http://arxiv.org/abs/2406.18127v1)|null|
@@ -6002,6 +6020,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Emergent limit cycles, chaos, and bistability in driven-dissipative atomic arrays**|Victoria Zhang et.al.|[2406.19168v1](http://arxiv.org/abs/2406.19168v1)|null|
+|**2024-06-27**|**Light-induced optical orientation of magnetic moments in transition-metal doped hybrid metal halide perovskites**|Stanislav Bodnar et.al.|[2406.19127v1](http://arxiv.org/abs/2406.19127v1)|null|
 |**2024-06-24**|**Light-induced percolative topological phase transition in type-II Weyl semimetal WTe2**|Xiaoyue Zhou et.al.|[2406.16663v1](http://arxiv.org/abs/2406.16663v1)|null|
 |**2024-06-24**|**Terahertz Emission From Diamond Nitrogen-Vacancy Centers**|Sándor Kollarics et.al.|[2406.16616v1](http://arxiv.org/abs/2406.16616v1)|null|
 |**2024-06-17**|**Transverse optical gradient force in untethered rotating metaspinners**|Einstom Engay et.al.|[2406.11489v1](http://arxiv.org/abs/2406.11489v1)|null|
