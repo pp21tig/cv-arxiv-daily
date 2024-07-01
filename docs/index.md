@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Analytical evaluations of the Path Integral Monte Carlo thermodynamic and Hamiltonian energies for the harmonic oscillator**|Siu A. Chin et.al.|[2406.20039v1](http://arxiv.org/abs/2406.20039v1)|null|
+|**2024-06-28**|**Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case**|Artem Glova et.al.|[2406.20018v1](http://arxiv.org/abs/2406.20018v1)|null|
+|**2024-06-28**|**Abnormal Frequency Response Determined by Saddle Points in Non-Hermitian Crystal Systems**|Kunling Zhou et.al.|[2406.19992v1](http://arxiv.org/abs/2406.19992v1)|null|
+|**2024-06-28**|**Thermodynamic properties of quasi-one-dimensional fluids**|Thomas Franosch et.al.|[2406.19946v1](http://arxiv.org/abs/2406.19946v1)|null|
+|**2024-06-28**|**Collective motion of energy depot active disks**|Juan Pablo Miranda et.al.|[2406.19927v1](http://arxiv.org/abs/2406.19927v1)|null|
+|**2024-06-28**|**Predicting Topological Entanglement Entropy in a Rydberg analog simulator**|Linda Mauron et.al.|[2406.19872v1](http://arxiv.org/abs/2406.19872v1)|null|
+|**2024-06-28**|**Complexity Scaling of Liquid Dynamics**|Ian M. Douglass et.al.|[2406.19858v1](http://arxiv.org/abs/2406.19858v1)|null|
+|**2024-06-28**|**THz Control of Exchange Mode in a Ferrimagnetic Cavity**|Chris Reinhoffer et.al.|[2406.19849v1](http://arxiv.org/abs/2406.19849v1)|null|
+|**2024-06-28**|**Deposit of Red Blood Cells at low concentrations in evaporating droplets: central edge growth and potential applications**|Vahideh Sardari et.al.|[2406.19826v1](http://arxiv.org/abs/2406.19826v1)|null|
+|**2024-06-28**|**Active Ornstein-Uhlenbeck Model for Bacterial Heat Engines**|Roland Wiese et.al.|[2406.19794v1](http://arxiv.org/abs/2406.19794v1)|null|
+|**2024-06-28**|**Structuring in Thin Films during Meniscus-Guided Deposition**|René de Bruijn et.al.|[2406.19779v1](http://arxiv.org/abs/2406.19779v1)|null|
+|**2024-06-28**|**Finite-temperature properties of string-net models**|Anna Ritz-Zwilling et.al.|[2406.19713v1](http://arxiv.org/abs/2406.19713v1)|null|
+|**2024-06-28**|**Monte Carlo simulations of glass-forming liquids beyond Metropolis**|Ludovic Berthier et.al.|[2406.19704v1](http://arxiv.org/abs/2406.19704v1)|null|
+|**2024-06-28**|**Ultrafast carrier dynamics in epitaxial graphene nanoribbons studied by time-resolved terahertz spectroscopy**|Arvind Singh et.al.|[2406.19688v1](http://arxiv.org/abs/2406.19688v1)|null|
+|**2024-06-27**|**Automated 1D Helmholtz coil design for cell biology: Weak magnetic fields alter cytoskeleton dynamics**|Abasalt Bahrami et.al.|[2406.19555v1](http://arxiv.org/abs/2406.19555v1)|null|
+|**2024-06-27**|**Amoeba Monte Carlo algorithms for random trees with controlled branching activity: efficient trial move generation and universal dynamics**|Pieter H. W. van der Hoek et.al.|[2406.19547v1](http://arxiv.org/abs/2406.19547v1)|null|
+|**2024-06-27**|**$N$ -bein formalism for the parameter space of quantum geometry**|Jorge Romero et.al.|[2406.19468v1](http://arxiv.org/abs/2406.19468v1)|null|
 |**2024-06-27**|**Thermodynamics of underdamped Brownian collisional engines: New insights and resonant phenomena**|Gustavo A. L. Forão et.al.|[2406.19365v1](http://arxiv.org/abs/2406.19365v1)|null|
 |**2024-06-27**|**Phase boundaries promote chemical reactions through localized fluxes**|Alexandra Shelest et.al.|[2406.19266v1](http://arxiv.org/abs/2406.19266v1)|null|
 |**2024-06-27**|**Optimal self-assembly pathways towards colloidal lattices with tunable flexibility**|Yogesh Shelke et.al.|[2406.19260v1](http://arxiv.org/abs/2406.19260v1)|null|
