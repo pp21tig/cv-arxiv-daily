@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Rotational dynamics of a disk in a thin film of weakly nematic fluid subject to linear friction**|Abdallah Daddi-Moussa-Ider et.al.|[2407.02267v1](http://arxiv.org/abs/2407.02267v1)|null|
+|**2024-07-02**|**Quantum Electron Dynamics in Helium Ion Injection onto Tungsten Surfaces by Time-Dependent Density Functional Theory**|Atsushi M. Ito et.al.|[2407.02155v1](http://arxiv.org/abs/2407.02155v1)|null|
+|**2024-07-02**|**Study of ion induced Inner Shell Ionization cross section through electron capture mechanism**|Sumana Ghosh et.al.|[2407.02088v1](http://arxiv.org/abs/2407.02088v1)|null|
+|**2024-07-02**|**Flow and clogging behavior of a mixture of particles in a silo**|Sukhada C. Bhure et.al.|[2407.02080v1](http://arxiv.org/abs/2407.02080v1)|null|
+|**2024-07-02**|**Sub-millisecond electric field sensing with an individual rare-earth doped ferroelectric nanocrystal**|Athulya Muraleedharan et.al.|[2407.02000v1](http://arxiv.org/abs/2407.02000v1)|null|
+|**2024-07-02**|**Spectral evidence for NiPS3 as a Mott-Hubbard insulator**|Yifeng Cao et.al.|[2407.01881v1](http://arxiv.org/abs/2407.01881v1)|null|
+|**2024-07-02**|**Universal mechanism of shear thinning in supercooled liquids**|Hideyuki Mizuno et.al.|[2407.01880v1](http://arxiv.org/abs/2407.01880v1)|null|
+|**2024-07-01**|**Chevron patterns in an active nematic liquid crystal film in contact with Smectic A**|M. Carme Calderer et.al.|[2407.01740v1](http://arxiv.org/abs/2407.01740v1)|null|
+|**2024-07-01**|**Localization beyond Dirac and Weyl fermions**|Adesh Singh et.al.|[2407.01689v1](http://arxiv.org/abs/2407.01689v1)|null|
+|**2024-07-01**|**Quantum Simulation with Gauge Fixing: from Ising Lattice Gauge Theory to Dynamical Flux Model**|Junsen Wang et.al.|[2407.01422v1](http://arxiv.org/abs/2407.01422v1)|null|
+|**2024-07-01**|**Tuning and predicting the onset of desiccation cracks in air-dried aqueous clay suspensions**|Vaibhav Raj Singh Parmar et.al.|[2407.01396v1](http://arxiv.org/abs/2407.01396v1)|null|
+|**2024-07-01**|**Bulk and fracture process zone contribution to the rate-dependent adhesion amplification in viscoelastic broad-band materials**|Ali Maghami et.al.|[2407.01347v1](http://arxiv.org/abs/2407.01347v1)|null|
+|**2024-07-01**|**Extending non-adiabatic rate theory to strong electronic couplings in the Marcus inverted regime**|Thomas P Fay et.al.|[2407.01323v1](http://arxiv.org/abs/2407.01323v1)|null|
+|**2024-07-01**|**Current distribution and chirality in the regime of the quantized Hall effect**|Serkan Sirt et.al.|[2407.01277v1](http://arxiv.org/abs/2407.01277v1)|null|
+|**2024-07-01**|**Polarization spontaneous and piezo: fundamentals and their implementation in ab initio calculations**|Pawel Strak et.al.|[2407.01134v1](http://arxiv.org/abs/2407.01134v1)|null|
+|**2024-07-02**|**Adaptive energy reference for machine-learning models of the electronic density of states**|Wei Bin How et.al.|[2407.01068v2](http://arxiv.org/abs/2407.01068v2)|null|
+|**2024-07-01**|**Nonequilibrium relaxation of soft responsive colloids**|José López-Molina et.al.|[2407.01059v1](http://arxiv.org/abs/2407.01059v1)|null|
+|**2024-07-01**|**Effects of polydispersity and concentration on elastocapillary thinning of dilute polymer solutions**|Vincenzo Calabrese et.al.|[2407.00919v1](http://arxiv.org/abs/2407.00919v1)|null|
+|**2024-07-01**|**Impact of Co-Excipient Selection on Hydrophobic Polymer Folding: Insights for Optimal Formulation Design**|Jonathan W. P. Zajac et.al.|[2407.00885v1](http://arxiv.org/abs/2407.00885v1)|null|
+|**2024-07-01**|**Enantiospecificity in NMR Enabled by Chirality-Induced Spin Selectivity**|T. Georgiou et.al.|[2407.00861v1](http://arxiv.org/abs/2407.00861v1)|null|
 |**2024-06-28**|**Analytical evaluations of the Path Integral Monte Carlo thermodynamic and Hamiltonian energies for the harmonic oscillator**|Siu A. Chin et.al.|[2406.20039v1](http://arxiv.org/abs/2406.20039v1)|null|
 |**2024-06-28**|**Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case**|Artem Glova et.al.|[2406.20018v1](http://arxiv.org/abs/2406.20018v1)|null|
 |**2024-06-28**|**Abnormal Frequency Response Determined by Saddle Points in Non-Hermitian Crystal Systems**|Kunling Zhou et.al.|[2406.19992v1](http://arxiv.org/abs/2406.19992v1)|null|
@@ -6033,6 +6053,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
 |**2024-06-27**|**Emergent limit cycles, chaos, and bistability in driven-dissipative atomic arrays**|Victoria Zhang et.al.|[2406.19168v1](http://arxiv.org/abs/2406.19168v1)|null|
 |**2024-06-27**|**Light-induced optical orientation of magnetic moments in transition-metal doped hybrid metal halide perovskites**|Stanislav Bodnar et.al.|[2406.19127v1](http://arxiv.org/abs/2406.19127v1)|null|
 |**2024-06-24**|**Light-induced percolative topological phase transition in type-II Weyl semimetal WTe2**|Xiaoyue Zhou et.al.|[2406.16663v1](http://arxiv.org/abs/2406.16663v1)|null|
@@ -6339,6 +6360,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Description of Molecular Chirality and its Analysis via High Harmonic Generation**|Akihito Kato et.al.|[2407.01947v1](http://arxiv.org/abs/2407.01947v1)|null|
+|**2024-06-29**|**Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response**|Soju Furuta et.al.|[2407.00309v1](http://arxiv.org/abs/2407.00309v1)|null|
 |**2024-06-19**|**Magnetochiral vortex ratchet effect in two-dimensional arrays of $\varphi_0$ -Josephson junctions**|Simon Reinhardt et.al.|[2406.13819v1](http://arxiv.org/abs/2406.13819v1)|null|
 |**2024-06-17**|**Enabling Ab-Initio Molecular Dynamics under Bias: The CP2K+SMEAGOL Interface for Integrating Density Functional Theory and Non-Equilibrium Green Functions**|Christian S. Ahart et.al.|[2406.11494v1](http://arxiv.org/abs/2406.11494v1)|null|
 |**2024-06-13**|**Optimal magnetization switching via spin-orbit torque on the surface of a topological insulator**|Grzegorz J. Kwiatkowski et.al.|[2406.09287v1](http://arxiv.org/abs/2406.09287v1)|null|
@@ -6519,6 +6542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766v1](http://arxiv.org/abs/2406.17766v1)|null|
 |**2024-06-24**|**Constraints on the orbital flux phase in $A$V$_3$Sb$_5$ from polar Kerr effect**|Hao-Tian Liu et.al.|[2406.16398v1](http://arxiv.org/abs/2406.16398v1)|null|
 |**2024-06-20**|**Quantum anomalous, quantum spin, and quantum valley Hall effects in pentalayer rhombohedral graphene**|Koji Kudo et.al.|[2406.14354v1](http://arxiv.org/abs/2406.14354v1)|null|
@@ -6796,6 +6820,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Synthesis and characterization of the novel breathing pyrochlore compound Ba3Tm2Zn5O11**|Lalit Yadav et.al.|[2407.00222v1](http://arxiv.org/abs/2407.00222v1)|null|
 |**2024-06-25**|**Understanding the microscopic origin of the magnetic interactions in CoNb $_2$O$_6$**|Amanda A. Konieczna et.al.|[2406.17854v1](http://arxiv.org/abs/2406.17854v1)|null|
 |**2024-06-25**|**Spin waves and three-dimensionality in the high-pressure antiferromagnetic phase of SrCu $_2$(BO$_3$)$_2$**|E. Fogh et.al.|[2406.17546v1](http://arxiv.org/abs/2406.17546v1)|null|
 |**2024-06-21**|**Thermal activated detection of dark particles in a weakly coupled quantum Ising ladder**|Yunjing Gao et.al.|[2406.15024v1](http://arxiv.org/abs/2406.15024v1)|null|
