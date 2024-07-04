@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Policy-guided Monte Carlo on general state spaces: Application to glass-forming mixtures**|Leonardo Galliano et.al.|[2407.03275v1](http://arxiv.org/abs/2407.03275v1)|null|
+|**2024-07-03**|**Linking microscopic structure to optical properties in soft plasmonic complexes**|Francesco Brasili et.al.|[2407.03124v1](http://arxiv.org/abs/2407.03124v1)|null|
+|**2024-07-03**|**Active Loop Extrusion guides DNA-Protein Condensation**|Ryota Takaki et.al.|[2407.03109v1](http://arxiv.org/abs/2407.03109v1)|null|
+|**2024-07-03**|**Birth, Death, and Horizontal Flight: Malthusian flocks with an easy plane in three dimensions**|John Toner et.al.|[2407.03071v1](http://arxiv.org/abs/2407.03071v1)|null|
+|**2024-07-03**|**Hilbert band complexes and their applications**|Zeying Zhang et.al.|[2407.03064v1](http://arxiv.org/abs/2407.03064v1)|null|
+|**2024-07-03**|**Diffusion of individual nanoparticles in cylindrical diatom frustule**|Naoki Tomioka et.al.|[2407.03028v1](http://arxiv.org/abs/2407.03028v1)|null|
+|**2024-07-03**|**GW effects on the topology of type-II Dirac cones in NiTe $_2$, PtSe$_2$ and PtTe$_2$**|Franz Fischer et.al.|[2407.03012v1](http://arxiv.org/abs/2407.03012v1)|null|
+|**2024-07-03**|**Active Polar Ring Polymer in Shear Flow -- An Analytical Study**|Roland G. Winkler et.al.|[2407.02860v1](http://arxiv.org/abs/2407.02860v1)|null|
+|**2024-07-03**|**Manipulating liquid-liquid phase separation using patterned flow**|Yulin Li et.al.|[2407.02792v1](http://arxiv.org/abs/2407.02792v1)|null|
+|**2024-07-03**|**Scale-dependent sharpening of interfacial fluctuations in shape-based models of dense cellular sheets**|Haicen Yue et.al.|[2407.02760v1](http://arxiv.org/abs/2407.02760v1)|null|
+|**2024-07-03**|**Long-lived magnetization in an atomic spin chain tuned to a diabolic point**|R. J. G. Elbertse et.al.|[2407.02727v1](http://arxiv.org/abs/2407.02727v1)|null|
+|**2024-07-02**|**Thouless pumping in a driven-dissipative Kerr resonator array**|S. Ravets et.al.|[2407.02627v1](http://arxiv.org/abs/2407.02627v1)|null|
 |**2024-07-02**|**Rotational dynamics of a disk in a thin film of weakly nematic fluid subject to linear friction**|Abdallah Daddi-Moussa-Ider et.al.|[2407.02267v1](http://arxiv.org/abs/2407.02267v1)|null|
 |**2024-07-02**|**Quantum Electron Dynamics in Helium Ion Injection onto Tungsten Surfaces by Time-Dependent Density Functional Theory**|Atsushi M. Ito et.al.|[2407.02155v1](http://arxiv.org/abs/2407.02155v1)|null|
 |**2024-07-02**|**Study of ion induced Inner Shell Ionization cross section through electron capture mechanism**|Sumana Ghosh et.al.|[2407.02088v1](http://arxiv.org/abs/2407.02088v1)|null|
@@ -6364,6 +6376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Current-induced motion of nanoscale magnetic torons over the wide range of the Hall angle**|Kotaro Shimizu et.al.|[2407.02983v1](http://arxiv.org/abs/2407.02983v1)|null|
 |**2024-07-02**|**Description of Molecular Chirality and its Analysis via High Harmonic Generation**|Akihito Kato et.al.|[2407.01947v1](http://arxiv.org/abs/2407.01947v1)|null|
 |**2024-06-29**|**Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response**|Soju Furuta et.al.|[2407.00309v1](http://arxiv.org/abs/2407.00309v1)|null|
 |**2024-06-19**|**Magnetochiral vortex ratchet effect in two-dimensional arrays of $\varphi_0$ -Josephson junctions**|Simon Reinhardt et.al.|[2406.13819v1](http://arxiv.org/abs/2406.13819v1)|null|
@@ -6546,6 +6559,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Dimensionality Engineering of Magnetic Anisotropy from Anomalous Hall Effect in Synthetic SrRuO3 Crystals**|Seung Gyo Jeong et.al.|[2407.03231v1](http://arxiv.org/abs/2407.03231v1)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766v1](http://arxiv.org/abs/2406.17766v1)|null|
 |**2024-06-24**|**Constraints on the orbital flux phase in $A$V$_3$Sb$_5$ from polar Kerr effect**|Hao-Tian Liu et.al.|[2406.16398v1](http://arxiv.org/abs/2406.16398v1)|null|
