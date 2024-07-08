@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Asymmetric fluctuations and self-folding of active interfaces**|Liang Zhao et.al.|[2407.04679v1](http://arxiv.org/abs/2407.04679v1)|null|
+|**2024-07-05**|**Experiment on intrinsically nonequilibrium distribution of large ions in charged small nanopores**|Yu Qiao et.al.|[2407.04599v1](http://arxiv.org/abs/2407.04599v1)|null|
+|**2024-07-05**|**Self-Assembly of Active Bivalent Patchy Particles**|Caterina Landi et.al.|[2407.04572v1](http://arxiv.org/abs/2407.04572v1)|null|
+|**2024-07-05**|**Statistical mechanics of crystal nuclei of hard spheres**|Marjolein de Jager et.al.|[2407.04394v1](http://arxiv.org/abs/2407.04394v1)|null|
+|**2024-07-05**|**Existence of a maximum flow rate in electro-osmotic systems**|Sleeba Varghese et.al.|[2407.04390v1](http://arxiv.org/abs/2407.04390v1)|null|
+|**2024-07-05**|**Flow fields around active droplets squeezing through tight confinements**|Subhasish Guchhait et.al.|[2407.04324v1](http://arxiv.org/abs/2407.04324v1)|null|
+|**2024-07-05**|**Singular viscoelastic perturbation to soft lubrication**|Bharti Bharti et.al.|[2407.04319v1](http://arxiv.org/abs/2407.04319v1)|null|
+|**2024-07-05**|**Glass formation in mechanically interlocked ring polymers: the role of induced chain stiffness**|Jian Li et.al.|[2407.04269v1](http://arxiv.org/abs/2407.04269v1)|null|
+|**2024-07-05**|**Conformational and static properties of tagged chains in solvents: effect of chain connectivity in solvent molecules**|Hong-Yao Li et.al.|[2407.04262v1](http://arxiv.org/abs/2407.04262v1)|null|
+|**2024-07-05**|**Nonreciprocal interactions drive capillary waves in active liquid crystals**|Paarth Gulati et.al.|[2407.04196v1](http://arxiv.org/abs/2407.04196v1)|null|
+|**2024-07-04**|**Quantum Convolutional Neural Network for Phase Recognition in Two Dimensions**|Leon C. Sander et.al.|[2407.04114v1](http://arxiv.org/abs/2407.04114v1)|null|
+|**2024-07-04**|**Membrane-mediated interactions between arc-shaped particles strongly depend on membrane curvature**|Francesco Bonazzi et.al.|[2407.04027v1](http://arxiv.org/abs/2407.04027v1)|null|
+|**2024-07-04**|**The interplay of shape and catalyst distribution in the yield of compressible flow microreactors**|G. C. Antunes et.al.|[2407.03944v1](http://arxiv.org/abs/2407.03944v1)|null|
+|**2024-07-04**|**Observation of exceptional line semimetal in three-dimensional non-Hermitian phononic crystals**|Yejian Hu et.al.|[2407.03868v1](http://arxiv.org/abs/2407.03868v1)|null|
+|**2024-07-04**|**Self-chemophoresis in the thin diffuse interface approximation**|Alvaro Domínguez et.al.|[2407.03767v1](http://arxiv.org/abs/2407.03767v1)|null|
+|**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723v1](http://arxiv.org/abs/2407.03723v1)|null|
+|**2024-07-04**|**Control of friction: shortcuts and optimization for the rate- and state-variable equation**|Andrea Plati et.al.|[2407.03696v1](http://arxiv.org/abs/2407.03696v1)|null|
+|**2024-07-04**|**Diffusive dynamics of fractionalized particles and the enhanced conductivity at the border of the neutral-ionic transition**|Yuta Sakai et.al.|[2407.03679v1](http://arxiv.org/abs/2407.03679v1)|null|
+|**2024-07-03**|**Testing the equivalence between the planar Gross-Neveu and Thirring models at $N=1$**|Everlyn Martins et.al.|[2407.03480v1](http://arxiv.org/abs/2407.03480v1)|null|
+|**2024-07-03**|**Predicting solvation free energies for neutral molecules in any solvent with openCOSMO-RS**|Simon Müller et.al.|[2407.03434v1](http://arxiv.org/abs/2407.03434v1)|null|
 |**2024-07-03**|**Policy-guided Monte Carlo on general state spaces: Application to glass-forming mixtures**|Leonardo Galliano et.al.|[2407.03275v1](http://arxiv.org/abs/2407.03275v1)|null|
 |**2024-07-03**|**Linking microscopic structure to optical properties in soft plasmonic complexes**|Francesco Brasili et.al.|[2407.03124v1](http://arxiv.org/abs/2407.03124v1)|null|
 |**2024-07-03**|**Active Loop Extrusion guides DNA-Protein Condensation**|Ryota Takaki et.al.|[2407.03109v1](http://arxiv.org/abs/2407.03109v1)|null|
@@ -6065,6 +6085,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723v1](http://arxiv.org/abs/2407.03723v1)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
 |**2024-06-27**|**Emergent limit cycles, chaos, and bistability in driven-dissipative atomic arrays**|Victoria Zhang et.al.|[2406.19168v1](http://arxiv.org/abs/2406.19168v1)|null|
 |**2024-06-27**|**Light-induced optical orientation of magnetic moments in transition-metal doped hybrid metal halide perovskites**|Stanislav Bodnar et.al.|[2406.19127v1](http://arxiv.org/abs/2406.19127v1)|null|
@@ -6372,6 +6393,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676v1](http://arxiv.org/abs/2407.03676v1)|null|
 |**2024-07-03**|**Current-induced motion of nanoscale magnetic torons over the wide range of the Hall angle**|Kotaro Shimizu et.al.|[2407.02983v1](http://arxiv.org/abs/2407.02983v1)|null|
 |**2024-07-02**|**Description of Molecular Chirality and its Analysis via High Harmonic Generation**|Akihito Kato et.al.|[2407.01947v1](http://arxiv.org/abs/2407.01947v1)|null|
 |**2024-06-29**|**Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response**|Soju Furuta et.al.|[2407.00309v1](http://arxiv.org/abs/2407.00309v1)|null|
@@ -6555,6 +6577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Quantum decoherence by magnetic fluctuations in a candidate axion insulator**|Ruben Saatjian et.al.|[2407.03459v1](http://arxiv.org/abs/2407.03459v1)|null|
 |**2024-07-03**|**Dimensionality Engineering of Magnetic Anisotropy from Anomalous Hall Effect in Synthetic SrRuO3 Crystals**|Seung Gyo Jeong et.al.|[2407.03231v1](http://arxiv.org/abs/2407.03231v1)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
 |**2024-06-25**|**Generalized anomalous Hall crystals in twisted bilayer-trilayer graphene**|Ruiheng Su et.al.|[2406.17766v1](http://arxiv.org/abs/2406.17766v1)|null|
@@ -6834,6 +6857,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering**|Nihad Abuawwad et.al.|[2407.04457v1](http://arxiv.org/abs/2407.04457v1)|null|
 |**2024-06-28**|**Synthesis and characterization of the novel breathing pyrochlore compound Ba3Tm2Zn5O11**|Lalit Yadav et.al.|[2407.00222v1](http://arxiv.org/abs/2407.00222v1)|null|
 |**2024-06-25**|**Understanding the microscopic origin of the magnetic interactions in CoNb $_2$O$_6$**|Amanda A. Konieczna et.al.|[2406.17854v1](http://arxiv.org/abs/2406.17854v1)|null|
 |**2024-06-25**|**Spin waves and three-dimensionality in the high-pressure antiferromagnetic phase of SrCu $_2$(BO$_3$)$_2$**|E. Fogh et.al.|[2406.17546v1](http://arxiv.org/abs/2406.17546v1)|null|
