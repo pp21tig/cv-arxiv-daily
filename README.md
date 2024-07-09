@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Enhancing the Prediction of Glass Dynamics by Incorporating the Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111v1](http://arxiv.org/abs/2407.06111v1)|null|
+|**2024-07-08**|**Colloquium: Synthetic quantum matter in non-standard geometries**|Tobias Grass et.al.|[2407.06105v1](http://arxiv.org/abs/2407.06105v1)|null|
+|**2024-07-08**|**Foams with 3D Spatially Programmed Mechanics Enabled by Autonomous Active Learning on Viscous Thread Printing**|Brett Emery et.al.|[2407.06051v1](http://arxiv.org/abs/2407.06051v1)|null|
+|**2024-07-08**|**Optical reflection signature of an axion dielectric with magnetic current**|Pedro D. S. Silva et.al.|[2407.06028v1](http://arxiv.org/abs/2407.06028v1)|null|
+|**2024-07-08**|**Reactive Molecular Dynamics Simulation on DNA Double Strand Breaks Induced by Hydrogen Elimination**|Hiroaki Nakamura et.al.|[2407.05970v1](http://arxiv.org/abs/2407.05970v1)|null|
+|**2024-07-08**|**Competing nucleation pathways in nanocrystal formation**|Carlos R. Salazar et.al.|[2407.05931v1](http://arxiv.org/abs/2407.05931v1)|null|
+|**2024-07-08**|**Dynamical Swirl Structures Powered by Microswimmers in Active Nematics**|Partha Sarathi Mondal et.al.|[2407.05861v1](http://arxiv.org/abs/2407.05861v1)|null|
+|**2024-07-08**|**Continuous-Wave Nonlinear Polarization Control and Signatures of Criticality in a Perovskite Cavity**|G. Keijsers et.al.|[2407.05856v1](http://arxiv.org/abs/2407.05856v1)|null|
+|**2024-07-08**|**Anomalous behaviour of transport properties in a supercooled water-glycerol mixture**|Alberto Zaragoza et.al.|[2407.05812v1](http://arxiv.org/abs/2407.05812v1)|null|
+|**2024-07-07**|**Reflectance measurements of mm-wave absorbers using frequency-domain continuous wave THz spectroscopy**|Gaganpreet Singh et.al.|[2407.05512v1](http://arxiv.org/abs/2407.05512v1)|null|
+|**2024-07-07**|**Cornerstones are the Key Stones: Using Interpretable Machine Learning to Probe the Clogging Process in 2D Granular Hoppers**|Jesse M. Hanlan et.al.|[2407.05491v1](http://arxiv.org/abs/2407.05491v1)|null|
+|**2024-07-07**|**Complex Smectic Phases in Polymer Grafted Shape-Uniform Cellulose Nano-Crystals**|William S. Fall et.al.|[2407.05401v1](http://arxiv.org/abs/2407.05401v1)|null|
+|**2024-07-07**|**Lipid Lateral Diffusion: Mechanisms and Modulators**|V. K. Sharma et.al.|[2407.05301v1](http://arxiv.org/abs/2407.05301v1)|null|
+|**2024-07-07**|**Vortex reversal is a precursor of confined bacterial turbulence**|Daiki Nishiguchi et.al.|[2407.05269v1](http://arxiv.org/abs/2407.05269v1)|null|
+|**2024-07-07**|**Thermal Preconditioning of Membrane Stress to Control the Shapes of Ultrathin Crystals**|Hao Wan et.al.|[2407.05228v1](http://arxiv.org/abs/2407.05228v1)|null|
+|**2024-07-06**|**Mixing in stratified fluids**|Vaseem A. Shaik et.al.|[2407.05166v1](http://arxiv.org/abs/2407.05166v1)|null|
+|**2024-07-06**|**Emergent Mesoscale Correlations in Active Solids with Noisy Chiral Dynamics**|Amir Shee et.al.|[2407.05113v1](http://arxiv.org/abs/2407.05113v1)|null|
+|**2024-07-06**|**Activity-Induced Stiffness, Entanglement Network and Dynamic Slowdown in Unentangled Semidilute Polymer Solutions**|Jing Li et.al.|[2407.05066v1](http://arxiv.org/abs/2407.05066v1)|null|
+|**2024-07-06**|**Smectic-like bundle formation of planktonic bacteria upon nutrient starvation**|Takuro Shimaya et.al.|[2407.05031v1](http://arxiv.org/abs/2407.05031v1)|null|
+|**2024-07-06**|**Laminar-Turbulent Patterns in Shear Flows : Evasion of Tipping, Saddle-Loop Bifurcation and Log scaling of the Turbulent Fraction**|Pavan V. Kashyap et.al.|[2407.04993v1](http://arxiv.org/abs/2407.04993v1)|null|
 |**2024-07-05**|**Asymmetric fluctuations and self-folding of active interfaces**|Liang Zhao et.al.|[2407.04679v1](http://arxiv.org/abs/2407.04679v1)|null|
 |**2024-07-05**|**Experiment on intrinsically nonequilibrium distribution of large ions in charged small nanopores**|Yu Qiao et.al.|[2407.04599v1](http://arxiv.org/abs/2407.04599v1)|null|
 |**2024-07-05**|**Self-Assembly of Active Bivalent Patchy Particles**|Caterina Landi et.al.|[2407.04572v1](http://arxiv.org/abs/2407.04572v1)|null|
@@ -6085,6 +6105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Light-Induced Mirror Symmetry Breaking and Charge Transport**|Naoya Arakawa et.al.|[2407.05711v1](http://arxiv.org/abs/2407.05711v1)|null|
 |**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723v1](http://arxiv.org/abs/2407.03723v1)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
 |**2024-06-27**|**Emergent limit cycles, chaos, and bistability in driven-dissipative atomic arrays**|Victoria Zhang et.al.|[2406.19168v1](http://arxiv.org/abs/2406.19168v1)|null|
@@ -6857,6 +6878,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Ferromagnetic inter-layer coupling in FeSe $_{1-x}$S$_{x}$ superconductors revealed by inelastic neutron scattering**|Mingwei Ma et.al.|[2407.05548v1](http://arxiv.org/abs/2407.05548v1)|null|
 |**2024-07-05**|**Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering**|Nihad Abuawwad et.al.|[2407.04457v1](http://arxiv.org/abs/2407.04457v1)|null|
 |**2024-06-28**|**Synthesis and characterization of the novel breathing pyrochlore compound Ba3Tm2Zn5O11**|Lalit Yadav et.al.|[2407.00222v1](http://arxiv.org/abs/2407.00222v1)|null|
 |**2024-06-25**|**Understanding the microscopic origin of the magnetic interactions in CoNb $_2$O$_6$**|Amanda A. Konieczna et.al.|[2406.17854v1](http://arxiv.org/abs/2406.17854v1)|null|
