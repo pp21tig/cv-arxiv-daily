@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055v1](http://arxiv.org/abs/2407.07055v1)|null|
+|**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025v1](http://arxiv.org/abs/2407.07025v1)|null|
+|**2024-07-09**|**Cell theories for the chiral crystal phase of hard equilateral triangles**|Yuri Martinez-Raton et.al.|[2407.06895v1](http://arxiv.org/abs/2407.06895v1)|null|
+|**2024-07-09**|**Bubble phase induced by odd interactions**|Lorenzo Caprini et.al.|[2407.06837v1](http://arxiv.org/abs/2407.06837v1)|null|
+|**2024-07-09**|**3D Imaging of directional multi-scale cellulose nanostructures through multi-directional dark-field neutron tomography**|Matteo Busi et.al.|[2407.06728v1](http://arxiv.org/abs/2407.06728v1)|null|
+|**2024-07-09**|**Topologically controlled synthesis of active colloidal bipeds**|Jonas Elschner et.al.|[2407.06577v1](http://arxiv.org/abs/2407.06577v1)|null|
+|**2024-07-09**|**On the fractal dimension of non-Newtonian Hele-Shaw flow subject to Saffman-Taylor instability**|J. Adriazola et.al.|[2407.06476v1](http://arxiv.org/abs/2407.06476v1)|null|
+|**2024-07-08**|**The Mechanics of Nucleation and Growth and the Surface Tensions of Active Matter**|Luke Langford et.al.|[2407.06462v1](http://arxiv.org/abs/2407.06462v1)|null|
+|**2024-07-08**|**Unveiling mussel plaque core ductility: the role of pore distribution and hierarchical structure**|Yulan Lyu et.al.|[2407.06406v1](http://arxiv.org/abs/2407.06406v1)|null|
+|**2024-07-08**|**Dynamics of quantum turbulence in axially rotating thermal counterflow**|Ritesh Dwivedi et.al.|[2407.06311v1](http://arxiv.org/abs/2407.06311v1)|null|
+|**2024-07-08**|**Spin-3/2 nuclear magnetic resonance: Exact solutions for aligned systems and implications for probing Fe-based superconductors**|Jaafar N. Ansari et.al.|[2407.06308v1](http://arxiv.org/abs/2407.06308v1)|null|
 |**2024-07-08**|**Enhancing the Prediction of Glass Dynamics by Incorporating the Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111v1](http://arxiv.org/abs/2407.06111v1)|null|
 |**2024-07-08**|**Colloquium: Synthetic quantum matter in non-standard geometries**|Tobias Grass et.al.|[2407.06105v1](http://arxiv.org/abs/2407.06105v1)|null|
 |**2024-07-08**|**Foams with 3D Spatially Programmed Mechanics Enabled by Autonomous Active Learning on Viscous Thread Printing**|Brett Emery et.al.|[2407.06051v1](http://arxiv.org/abs/2407.06051v1)|null|
@@ -6109,6 +6120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Four no-go theorems on the existence of spin and orbital angular momentum of massless bosons**|Eric Palmerduca et.al.|[2407.06276v1](http://arxiv.org/abs/2407.06276v1)|null|
 |**2024-07-08**|**Light-Induced Mirror Symmetry Breaking and Charge Transport**|Naoya Arakawa et.al.|[2407.05711v1](http://arxiv.org/abs/2407.05711v1)|null|
 |**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723v1](http://arxiv.org/abs/2407.03723v1)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
@@ -6436,7 +6448,7 @@ layout: default
 |**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608v1](http://arxiv.org/abs/2404.07608v1)|null|
 |**2024-04-01**|**Harnessing Interlayer Magnetic Coupling for Efficient, Field-Free Current-Induced Magnetization Switching in a Magnetic Insulator**|Leran Wang et.al.|[2404.00845v1](http://arxiv.org/abs/2404.00845v1)|null|
 |**2024-03-28**|**Challenges in extracting nonlinear current-induced phenomena in Ca2RuO4**|Giordano Mattoni et.al.|[2403.19210v1](http://arxiv.org/abs/2403.19210v1)|null|
-|**2024-03-27**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v1](http://arxiv.org/abs/2403.18817v1)|**[link](https://github.com/archisman-panigrahi/electronic-ordering-signature-resistance-codes)**|
+|**2024-07-09**|**Signatures of electronic ordering in transport in graphene flat bands**|Archisman Panigrahi et.al.|[2403.18817v2](http://arxiv.org/abs/2403.18817v2)|**[link](https://github.com/archisman-panigrahi/electronic-ordering-signature-resistance-codes)**|
 |**2024-03-25**|**Electrically tunable, rapid spin-orbit torque induced modulation of colossal magnetoresistance in Mn $_3$Si$_2$Te$_6$ nanoflakes**|Cheng Tan et.al.|[2403.16684v1](http://arxiv.org/abs/2403.16684v1)|null|
 |**2024-03-23**|**Bilinear magnetoresistance in 2DEG with isotropic cubic Rashba spin-orbit interaction**|A. Krzyzewska et.al.|[2403.15817v1](http://arxiv.org/abs/2403.15817v1)|null|
 |**2024-03-22**|**Electrically Switchable Circular Photogalvanic Effect in Methylammonium Lead Iodide Microcrystals**|Yuqing Zhu et.al.|[2403.15611v1](http://arxiv.org/abs/2403.15611v1)|null|
@@ -6602,6 +6614,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445v1](http://arxiv.org/abs/2407.06445v1)|null|
 |**2024-07-03**|**Quantum decoherence by magnetic fluctuations in a candidate axion insulator**|Ruben Saatjian et.al.|[2407.03459v1](http://arxiv.org/abs/2407.03459v1)|null|
 |**2024-07-03**|**Dimensionality Engineering of Magnetic Anisotropy from Anomalous Hall Effect in Synthetic SrRuO3 Crystals**|Seung Gyo Jeong et.al.|[2407.03231v1](http://arxiv.org/abs/2407.03231v1)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen et.al.|[2407.00281v1](http://arxiv.org/abs/2407.00281v1)|null|
