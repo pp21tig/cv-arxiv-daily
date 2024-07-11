@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Bound States in Continuum via Singular Transfer Matrices**|Ovidiu-Zeno Lipan et.al.|[2407.07879v1](http://arxiv.org/abs/2407.07879v1)|null|
+|**2024-07-10**|**Viscoelastic dip-coating beyond lubrication theory**|Minkush Kansal et.al.|[2407.07833v1](http://arxiv.org/abs/2407.07833v1)|null|
+|**2024-07-10**|**Using Activity to Compartmentalize Binary Mixtures**|Nicholas J Lauersdorf et.al.|[2407.07826v1](http://arxiv.org/abs/2407.07826v1)|null|
+|**2024-07-10**|**Friction through molecular adsorption at the sliding interface of hydrogels: Theory and experiments**|Lola Ciapa et.al.|[2407.07819v1](http://arxiv.org/abs/2407.07819v1)|null|
+|**2024-07-10**|**The positioning of stress fibers in contractile cells minimizes internal mechanical stress**|Lukas Riedel et.al.|[2407.07797v1](http://arxiv.org/abs/2407.07797v1)|null|
+|**2024-07-10**|**Unveiling the Asymmetry in Density within the Shear Bands of Metallic Glasses**|Harald Rösner et.al.|[2407.07733v1](http://arxiv.org/abs/2407.07733v1)|null|
+|**2024-07-10**|**Competing aggregation and iso-density equilibrium lead to band pattern formation in density gradients**|Felix Maurer et.al.|[2407.07676v1](http://arxiv.org/abs/2407.07676v1)|null|
+|**2024-07-10**|**Soft Condensation**|Ambre Bouillant et.al.|[2407.07624v1](http://arxiv.org/abs/2407.07624v1)|null|
+|**2024-07-10**|**Stability Analysis of Cantilever-like Structures with Applications to Soft Robotic Arms**|Siva Prasad Chakri Dhanakoti et.al.|[2407.07601v1](http://arxiv.org/abs/2407.07601v1)|null|
+|**2024-07-10**|**Observation of non-Abelian band topology without time-reversal symmetry**|Yuze Hu et.al.|[2407.07593v1](http://arxiv.org/abs/2407.07593v1)|null|
+|**2024-07-10**|**Buckling by disordered growth**|Rahul G. Ramachandran et.al.|[2407.07540v1](http://arxiv.org/abs/2407.07540v1)|null|
+|**2024-07-10**|**Electronic Correlation and Pseudogap-like Behavior of High-Temperature Superconductor La3Ni2O7**|Yidian Li et.al.|[2407.07501v1](http://arxiv.org/abs/2407.07501v1)|null|
+|**2024-07-10**|**Observation of Klein bottle quadrupole topological insulators in electric circuits**|Xizhou Shen et.al.|[2407.07470v1](http://arxiv.org/abs/2407.07470v1)|null|
+|**2024-07-10**|**Hole Statistics of Equilibrium 2D and 3D Hard-Sphere Crystals**|Haina Wang et.al.|[2407.07390v1](http://arxiv.org/abs/2407.07390v1)|null|
+|**2024-07-10**|**Asymmetric Fluid Flow in Helical Pipes Inspired by Shark Intestines**|Ido Levin et.al.|[2407.07354v1](http://arxiv.org/abs/2407.07354v1)|null|
+|**2024-07-09**|**Analytic Solution for the Linear Rheology of Living Polymers**|Vickie Chen et.al.|[2407.07213v1](http://arxiv.org/abs/2407.07213v1)|null|
+|**2024-07-09**|**Plasmonic Vortices Host Magnetoelectric Interactions**|Atreyie Ghosh et.al.|[2407.07206v1](http://arxiv.org/abs/2407.07206v1)|null|
+|**2024-07-09**|**Upsurge of spontaneous knotting in polar diblock active polymers**|Marin Vatin et.al.|[2407.07191v1](http://arxiv.org/abs/2407.07191v1)|null|
+|**2024-07-09**|**Efficient Electron Spin Relaxation by Chiral Phonons in WSe $_2$ Monolayers**|D. Lagarde et.al.|[2407.07188v1](http://arxiv.org/abs/2407.07188v1)|null|
+|**2024-07-09**|**Electrically tunable spin-orbit coupled photonic lattice in a liquid crystal microcavity**|Marcin Muszyński et.al.|[2407.07161v1](http://arxiv.org/abs/2407.07161v1)|null|
 |**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055v1](http://arxiv.org/abs/2407.07055v1)|null|
 |**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025v1](http://arxiv.org/abs/2407.07025v1)|null|
 |**2024-07-09**|**Cell theories for the chiral crystal phase of hard equilateral triangles**|Yuri Martinez-Raton et.al.|[2407.06895v1](http://arxiv.org/abs/2407.06895v1)|null|
@@ -6430,6 +6450,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Large spin-orbit torque in a-plane $α$-Fe$_{2}$O$_{3}$ /Pt bilayers**|Igor Lyalin et.al.|[2407.07731v1](http://arxiv.org/abs/2407.07731v1)|null|
+|**2024-07-10**|**Thermoelectric cooling of a finite reservoir coupled to a quantum dot**|Stephanie Matern et.al.|[2407.07727v1](http://arxiv.org/abs/2407.07727v1)|null|
+|**2024-07-10**|**Universal nonlinear responses of quantum Hall systems with Galilean invariance**|Tatsuya Amitani et.al.|[2407.07578v1](http://arxiv.org/abs/2407.07578v1)|null|
+|**2024-07-10**|**Bimerons create bimerons: proliferation and aggregation induced by currents and magnetic fields**|Xichao Zhang et.al.|[2407.07303v1](http://arxiv.org/abs/2407.07303v1)|null|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676v1](http://arxiv.org/abs/2407.03676v1)|null|
 |**2024-07-03**|**Current-induced motion of nanoscale magnetic torons over the wide range of the Hall angle**|Kotaro Shimizu et.al.|[2407.02983v1](http://arxiv.org/abs/2407.02983v1)|null|
 |**2024-07-02**|**Description of Molecular Chirality and its Analysis via High Harmonic Generation**|Akihito Kato et.al.|[2407.01947v1](http://arxiv.org/abs/2407.01947v1)|null|
