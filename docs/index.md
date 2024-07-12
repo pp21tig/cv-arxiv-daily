@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Theory for the Anomalous Phase Behavior of Inertial Active Matter**|Jiechao Feng et.al.|[2407.08676v1](http://arxiv.org/abs/2407.08676v1)|null|
+|**2024-07-11**|**Membrane protein clustering from tension and multibody interactions**|Jean-Baptiste Fournier et.al.|[2407.08631v1](http://arxiv.org/abs/2407.08631v1)|null|
+|**2024-07-11**|**Modelling brain tissue elasticity with the Ogden model and an alternative family of constitutive models**|Afshin Anssari-Benam et.al.|[2407.08372v1](http://arxiv.org/abs/2407.08372v1)|null|
+|**2024-07-11**|**Nonlinear vibration and stability of a dielectric elastomer balloon based on a strain-stiffening model**|Amin Alibakhshi et.al.|[2407.08370v1](http://arxiv.org/abs/2407.08370v1)|null|
+|**2024-07-11**|**Force-dependence of the rigid-body motion for an arbitrarily shaped particle in a forced, incompressible Stokes flow**|Alvaro Domínguez et.al.|[2407.08314v1](http://arxiv.org/abs/2407.08314v1)|null|
+|**2024-07-10**|**Influence of trapped magnetic field of Sn-Pb solders on electrical resistivity measurement: an example of superconducting transition of Sn**|Takumi Ichikawa et.al.|[2407.08000v1](http://arxiv.org/abs/2407.08000v1)|null|
+|**2024-07-10**|**Equilibrium states of a liquid bridge between flexible sheets**|Mouad Boudina et.al.|[2407.07994v1](http://arxiv.org/abs/2407.07994v1)|null|
+|**2024-07-10**|**3D E-textile for Exercise Physiology and Clinical Maternal Health Monitoring**|Junyi Zhao et.al.|[2407.07954v1](http://arxiv.org/abs/2407.07954v1)|null|
+|**2024-07-10**|**All-optical method to directly measure the pressure-volume-temperature equation of state of fluids in the diamond anvil cell**|J. E. Proctor et.al.|[2407.07935v1](http://arxiv.org/abs/2407.07935v1)|null|
 |**2024-07-10**|**Bound States in Continuum via Singular Transfer Matrices**|Ovidiu-Zeno Lipan et.al.|[2407.07879v1](http://arxiv.org/abs/2407.07879v1)|null|
 |**2024-07-10**|**Viscoelastic dip-coating beyond lubrication theory**|Minkush Kansal et.al.|[2407.07833v1](http://arxiv.org/abs/2407.07833v1)|null|
 |**2024-07-10**|**Using Activity to Compartmentalize Binary Mixtures**|Nicholas J Lauersdorf et.al.|[2407.07826v1](http://arxiv.org/abs/2407.07826v1)|null|
@@ -6140,6 +6149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Production and stabilization of a spin mixture of ultracold dipolar Bose gases**|Maxime Lecomte et.al.|[2407.08702v1](http://arxiv.org/abs/2407.08702v1)|null|
 |**2024-07-08**|**Four no-go theorems on the existence of spin and orbital angular momentum of massless bosons**|Eric Palmerduca et.al.|[2407.06276v1](http://arxiv.org/abs/2407.06276v1)|null|
 |**2024-07-08**|**Light-Induced Mirror Symmetry Breaking and Charge Transport**|Naoya Arakawa et.al.|[2407.05711v1](http://arxiv.org/abs/2407.05711v1)|null|
 |**2024-07-04**|**Collapse of active nematic order through a two-stage dynamic transition**|Aleksandra Ardaševa et.al.|[2407.03723v1](http://arxiv.org/abs/2407.03723v1)|null|
@@ -6638,6 +6648,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661v1](http://arxiv.org/abs/2407.08661v1)|null|
+|**2024-07-11**|**Peculiarities of measured dependencies of strength of spin-orbit interaction and anisotropy field on current density in FeCoB nanomagnet**|Vadym Zayets et.al.|[2407.08170v1](http://arxiv.org/abs/2407.08170v1)|null|
 |**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445v1](http://arxiv.org/abs/2407.06445v1)|null|
 |**2024-07-03**|**Quantum decoherence by magnetic fluctuations in a candidate axion insulator**|Ruben Saatjian et.al.|[2407.03459v1](http://arxiv.org/abs/2407.03459v1)|null|
 |**2024-07-03**|**Dimensionality Engineering of Magnetic Anisotropy from Anomalous Hall Effect in Synthetic SrRuO3 Crystals**|Seung Gyo Jeong et.al.|[2407.03231v1](http://arxiv.org/abs/2407.03231v1)|null|
