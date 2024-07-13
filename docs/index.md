@@ -6472,7 +6472,7 @@ layout: default
 |**2024-06-17**|**Enabling Ab-Initio Molecular Dynamics under Bias: The CP2K+SMEAGOL Interface for Integrating Density Functional Theory and Non-Equilibrium Green Functions**|Christian S. Ahart et.al.|[2406.11494v1](http://arxiv.org/abs/2406.11494v1)|null|
 |**2024-06-13**|**Optimal magnetization switching via spin-orbit torque on the surface of a topological insulator**|Grzegorz J. Kwiatkowski et.al.|[2406.09287v1](http://arxiv.org/abs/2406.09287v1)|null|
 |**2024-06-03**|**Memory effects on the current induced propagation of spin textures in NdCo $_5$/Ni$_8$Fe$_2$ bilayers**|Victoria Vega Fernández et.al.|[2406.01091v1](http://arxiv.org/abs/2406.01091v1)|null|
-|**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723v1](http://arxiv.org/abs/2405.10723v1)|null|
+|**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723v1](http://arxiv.org/abs/2405.10723v1)|**[link](https://github.com/cig-ucl/eddeep)**|
 |**2024-05-15**|**Voltage-Driven Breakdown of Electronic Order**|Miguel M. Oliveira et.al.|[2405.09512v1](http://arxiv.org/abs/2405.09512v1)|null|
 |**2024-05-02**|**High harmonic generation from electrons moving on topological spin textures**|Atsushi Ono et.al.|[2405.01351v1](http://arxiv.org/abs/2405.01351v1)|null|
 |**2024-05-28**|**Superconducting magnetoelectric effects in mesoscopic hybrid structures**|Mostafa Tanhayi Ahari et.al.|[2404.15553v4](http://arxiv.org/abs/2404.15553v4)|null|
