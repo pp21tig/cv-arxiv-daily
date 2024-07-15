@@ -1102,6 +1102,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Ambiguous Resonances in Multipulse Quantum Sensing with Nitrogen Vacancy Centers**|Lucas Tsunaki et.al.|[2407.09411v1](http://arxiv.org/abs/2407.09411v1)|null|
+|**2024-07-12**|**Analytical expressions for the two basic modes of surface displacement and overall deformation of a free-standing or elastically embedded sphere**|Lukas Fischer et.al.|[2407.09291v1](http://arxiv.org/abs/2407.09291v1)|null|
+|**2024-07-12**|**Origin and properties of the flat band in NbOCl2 monolayer**|Mohammad Ali Mohebpour et.al.|[2407.09071v1](http://arxiv.org/abs/2407.09071v1)|null|
+|**2024-07-11**|**Drying of soft colloidal films**|Keumkyung Kuk et.al.|[2407.08821v1](http://arxiv.org/abs/2407.08821v1)|null|
+|**2024-07-11**|**Algorithmic detection of the crystal structures from three-dimensional real-space analysis**|Sumitava Kundu et.al.|[2407.08808v1](http://arxiv.org/abs/2407.08808v1)|null|
 |**2024-07-11**|**Theory for the Anomalous Phase Behavior of Inertial Active Matter**|Jiechao Feng et.al.|[2407.08676v1](http://arxiv.org/abs/2407.08676v1)|null|
 |**2024-07-11**|**Membrane protein clustering from tension and multibody interactions**|Jean-Baptiste Fournier et.al.|[2407.08631v1](http://arxiv.org/abs/2407.08631v1)|null|
 |**2024-07-11**|**Modelling brain tissue elasticity with the Ogden model and an alternative family of constitutive models**|Afshin Anssari-Benam et.al.|[2407.08372v1](http://arxiv.org/abs/2407.08372v1)|null|
