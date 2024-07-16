@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Modeling drop deformations and rheology of dilute to dense emulsions**|Rodrigo B Reboucas et.al.|[2407.10880v1](http://arxiv.org/abs/2407.10880v1)|null|
+|**2024-07-15**|**Quantum Advancements in Neutron Scattering Reshape Spintronic Devices**|M. E. Henderson et.al.|[2407.10822v1](http://arxiv.org/abs/2407.10822v1)|null|
+|**2024-07-15**|**Phase behavior and crystal nucleation of hard triangular prisms**|Marjolein de Jager et.al.|[2407.10765v1](http://arxiv.org/abs/2407.10765v1)|null|
+|**2024-07-15**|**Edwards thermodynamic framework controls density segregation in cyclically sheared granular materials**|Haiyang Lu et.al.|[2407.10727v1](http://arxiv.org/abs/2407.10727v1)|null|
+|**2024-07-15**|**Ion Selectivity in Uncharged Tapered Nanoslits through Heterogeneous Water Polarization**|Tim Veenstra et.al.|[2407.10658v1](http://arxiv.org/abs/2407.10658v1)|null|
+|**2024-07-15**|**Roadmap for Animate Matter**|Giorgio Volpe et.al.|[2407.10623v1](http://arxiv.org/abs/2407.10623v1)|null|
+|**2024-07-15**|**The Equation of Excluded Volume Effects: A Minor Improvement in the Evaluation of the Inhomogeneity Term**|Kazumi Suematsu et.al.|[2407.10610v1](http://arxiv.org/abs/2407.10610v1)|null|
+|**2024-07-15**|**X-ray diffraction reveals the consequences of strong deformation in thin smectic films: dilation and chevron formation**|Jean de Dieu Niyonzima et.al.|[2407.10598v1](http://arxiv.org/abs/2407.10598v1)|null|
+|**2024-07-15**|**Stochastic Density Functional Theory on Lane Formation in Electric-Field-Driven Ionic Mixtures: Flow-Kernel-Based Formulation**|Hiroshi Frusawa et.al.|[2407.10568v1](http://arxiv.org/abs/2407.10568v1)|null|
+|**2024-07-15**|**Forces from coarse-graining nonequilibrium degrees of freedom: exact results**|Ion Santra et.al.|[2407.10531v1](http://arxiv.org/abs/2407.10531v1)|null|
+|**2024-07-15**|**Pole Analysis of the Inter-Replica Correlation Function in a Two-Replica System as a Binary Mixture: Mean Overlap in the Cluster Glass Phase**|Hiroshi Frusawa et.al.|[2407.10519v1](http://arxiv.org/abs/2407.10519v1)|null|
+|**2024-07-15**|**Coherence of a non-equilibrium polariton condensate across the interaction-mediated phase transition**|P. Comaron et.al.|[2407.10506v1](http://arxiv.org/abs/2407.10506v1)|null|
+|**2024-07-15**|**Crosslinking degree variations enable programming and controlling soft fracture via sideways cracking**|Miguel Angel Moreno-Mateos et.al.|[2407.10501v1](http://arxiv.org/abs/2407.10501v1)|null|
+|**2024-07-15**|**Spontaneous Motion of Liquid Droplets on Soft Gradient Surfaces**|Weiwei Zhao et.al.|[2407.10480v1](http://arxiv.org/abs/2407.10480v1)|null|
+|**2024-07-15**|**A generalized geometric mechanics theory for multi-curve-fold origami: vertex constrained universal configurations**|Zhixuan Wen et.al.|[2407.10447v1](http://arxiv.org/abs/2407.10447v1)|null|
+|**2024-07-14**|**Structural Dynamics of Contractile Injection Systems**|Noah Toyonaga et.al.|[2407.10291v1](http://arxiv.org/abs/2407.10291v1)|null|
+|**2024-07-14**|**The inadequacy of the $ρ$ -T curve for phase transitions in the presence of magnetic fields**|Shengnan Zhang et.al.|[2407.10286v1](http://arxiv.org/abs/2407.10286v1)|null|
+|**2024-07-14**|**Phase induced localization transition**|Tong Liu et.al.|[2407.10043v1](http://arxiv.org/abs/2407.10043v1)|null|
+|**2024-07-14**|**The Lugiato-Lefever equation driven by a double tightly focused pump**|Mateus C. P. dos Santos et.al.|[2407.10036v1](http://arxiv.org/abs/2407.10036v1)|null|
+|**2024-07-13**|**Migration and deformation of a droplet enclosing an active particle**|Sho Kawakami et.al.|[2407.10009v1](http://arxiv.org/abs/2407.10009v1)|null|
 |**2024-07-12**|**Ambiguous Resonances in Multipulse Quantum Sensing with Nitrogen Vacancy Centers**|Lucas Tsunaki et.al.|[2407.09411v1](http://arxiv.org/abs/2407.09411v1)|null|
 |**2024-07-12**|**Analytical expressions for the two basic modes of surface displacement and overall deformation of a free-standing or elastically embedded sphere**|Lukas Fischer et.al.|[2407.09291v1](http://arxiv.org/abs/2407.09291v1)|null|
 |**2024-07-12**|**Origin and properties of the flat band in NbOCl2 monolayer**|Mohammad Ali Mohebpour et.al.|[2407.09071v1](http://arxiv.org/abs/2407.09071v1)|null|
@@ -6649,6 +6669,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Interplay of altermagnetism and pressure in hexagonal and orthorhombic MnTe**|Nayana Devaraj et.al.|[2407.10584v1](http://arxiv.org/abs/2407.10584v1)|null|
 |**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661v1](http://arxiv.org/abs/2407.08661v1)|null|
 |**2024-07-11**|**Peculiarities of measured dependencies of strength of spin-orbit interaction and anisotropy field on current density in FeCoB nanomagnet**|Vadym Zayets et.al.|[2407.08170v1](http://arxiv.org/abs/2407.08170v1)|null|
 |**2024-07-08**|**Unconventional Field-Like Spin-Torques in CrPt $_3$**|Robin Klause et.al.|[2407.06445v1](http://arxiv.org/abs/2407.06445v1)|null|
@@ -6932,6 +6953,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-13**|**Distinct effect of Kondo physics on crystal field splitting in electron and spin spectroscopies**|M. Kornjača et.al.|[2407.09971v1](http://arxiv.org/abs/2407.09971v1)|null|
 |**2024-07-08**|**Ferromagnetic inter-layer coupling in FeSe $_{1-x}$S$_{x}$ superconductors revealed by inelastic neutron scattering**|Mingwei Ma et.al.|[2407.05548v1](http://arxiv.org/abs/2407.05548v1)|null|
 |**2024-07-05**|**Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering**|Nihad Abuawwad et.al.|[2407.04457v1](http://arxiv.org/abs/2407.04457v1)|null|
 |**2024-06-28**|**Synthesis and characterization of the novel breathing pyrochlore compound Ba3Tm2Zn5O11**|Lalit Yadav et.al.|[2407.00222v1](http://arxiv.org/abs/2407.00222v1)|null|
