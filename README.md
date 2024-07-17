@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of Gauge Theories at Finite Temperature and Density**|I-Chi Chen et.al.|[2407.11949v1](http://arxiv.org/abs/2407.11949v1)|null|
+|**2024-07-16**|**Spatiotemporal dynamics of ionic reorganization near biological membrane interfaces**|Hyeongjoo Row et.al.|[2407.11947v1](http://arxiv.org/abs/2407.11947v1)|null|
+|**2024-07-16**|**Adaptive Resolution Force Probe Simulations: Coarse Graining in the Ideal Gas Approximation**|Marco Oestereich et.al.|[2407.11838v1](http://arxiv.org/abs/2407.11838v1)|null|
+|**2024-07-16**|**Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope**|Carlos D. Alas et.al.|[2407.11758v1](http://arxiv.org/abs/2407.11758v1)|null|
+|**2024-07-16**|**Tying knots in particle physics**|Minoru Eto et.al.|[2407.11731v1](http://arxiv.org/abs/2407.11731v1)|null|
+|**2024-07-16**|**Dissociation of red blood cell aggregates in extensional flow**|Midhun Puthumana Melepattu et.al.|[2407.11645v1](http://arxiv.org/abs/2407.11645v1)|null|
+|**2024-07-16**|**Photocatalytic magnetic microgyroscopes with activity-tunable precessional dynamics**|Dolachai Boniface et.al.|[2407.11640v1](http://arxiv.org/abs/2407.11640v1)|null|
+|**2024-07-16**|**Unzipping of knotted DNA via nanopore translocation**|Antonio Suma et.al.|[2407.11567v1](http://arxiv.org/abs/2407.11567v1)|null|
+|**2024-07-16**|**Enhancement of adhesion strength in viscoelastic unsteady contacts**|Cosimo Mandriota et.al.|[2407.11524v1](http://arxiv.org/abs/2407.11524v1)|null|
+|**2024-07-16**|**Using recurrent neural networks to predict aspects of 3-D structure of folded copolymer sequences**|R. G. Reilly et.al.|[2407.11493v1](http://arxiv.org/abs/2407.11493v1)|null|
+|**2024-07-16**|**Glass Transition in Monolayers of Rough Colloidal Ellipsoids**|Jian Liang et.al.|[2407.11479v1](http://arxiv.org/abs/2407.11479v1)|null|
+|**2024-07-16**|**In-situ local imaging of ferromagnetism and superconductivity in RbEuFe $_4$As$_4$**|Huiyuan Man et.al.|[2407.11332v1](http://arxiv.org/abs/2407.11332v1)|null|
+|**2024-07-16**|**Harnessing an elastic flow instability to improve the kinetic performance of chromatographic columns**|Fabrice Gritti et.al.|[2407.11311v1](http://arxiv.org/abs/2407.11311v1)|null|
 |**2024-07-15**|**Modeling drop deformations and rheology of dilute to dense emulsions**|Rodrigo B Reboucas et.al.|[2407.10880v1](http://arxiv.org/abs/2407.10880v1)|null|
 |**2024-07-15**|**Quantum Advancements in Neutron Scattering Reshape Spintronic Devices**|M. E. Henderson et.al.|[2407.10822v1](http://arxiv.org/abs/2407.10822v1)|null|
 |**2024-07-15**|**Phase behavior and crystal nucleation of hard triangular prisms**|Marjolein de Jager et.al.|[2407.10765v1](http://arxiv.org/abs/2407.10765v1)|null|
@@ -6170,6 +6183,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Photocatalytic magnetic microgyroscopes with activity-tunable precessional dynamics**|Dolachai Boniface et.al.|[2407.11640v1](http://arxiv.org/abs/2407.11640v1)|null|
+|**2024-07-15**|**Two-dimensional motion of an impurity under dynamic light-induced dipole forces in an atomic subwavelength array**|Samuel Buckley-Bonanno et.al.|[2407.11113v1](http://arxiv.org/abs/2407.11113v1)|null|
 |**2024-07-11**|**Production and stabilization of a spin mixture of ultracold dipolar Bose gases**|Maxime Lecomte et.al.|[2407.08702v1](http://arxiv.org/abs/2407.08702v1)|null|
 |**2024-07-08**|**Four no-go theorems on the existence of spin and orbital angular momentum of massless bosons**|Eric Palmerduca et.al.|[2407.06276v1](http://arxiv.org/abs/2407.06276v1)|null|
 |**2024-07-08**|**Light-Induced Mirror Symmetry Breaking and Charge Transport**|Naoya Arakawa et.al.|[2407.05711v1](http://arxiv.org/abs/2407.05711v1)|null|
