@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala et.al.|[2407.12747v1](http://arxiv.org/abs/2407.12747v1)|null|
+|**2024-07-17**|**A primary quantum current standard based on the Josephson and the quantum Hall effects**|Sophie Djordjevic et.al.|[2407.12562v1](http://arxiv.org/abs/2407.12562v1)|null|
+|**2024-07-17**|**3He adsorbed on molecular hydrogen surfaces**|M. C. Gordillo et.al.|[2407.12436v1](http://arxiv.org/abs/2407.12436v1)|null|
+|**2024-07-17**|**Influence of different mutual friction models on two-way coupled quantized vortices and normal fluid in superfluid $^4$ He**|Hiromichi Kobayashi et.al.|[2407.12392v1](http://arxiv.org/abs/2407.12392v1)|null|
+|**2024-07-17**|**Delicate Analysis of Interacting Proteins and Their Assemblies by Flow Field-Flow Fractionation Techniques**|Aurélien Urbes et.al.|[2407.12368v1](http://arxiv.org/abs/2407.12368v1)|null|
+|**2024-07-17**|**Scaling Properties of Gelling Systems in Nonlinear Shear Experiments**|Ameur Louhichi et.al.|[2407.12367v1](http://arxiv.org/abs/2407.12367v1)|null|
+|**2024-07-17**|**Flexible String Model of Unsaturated Lipid Bilayer**|Boris Kheyfets et.al.|[2407.12320v1](http://arxiv.org/abs/2407.12320v1)|null|
+|**2024-07-17**|**Efficient condensation on spiked surfaces with superhydrophobic and superhydrophilic coatings**|Kai-Xin Hu et.al.|[2407.12244v1](http://arxiv.org/abs/2407.12244v1)|null|
+|**2024-07-16**|**Emergence of cellular nematic order is a conserved feature of gastrulation in animal embryos**|Xin Li et.al.|[2407.12124v1](http://arxiv.org/abs/2407.12124v1)|null|
 |**2024-07-16**|**Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of Gauge Theories at Finite Temperature and Density**|I-Chi Chen et.al.|[2407.11949v1](http://arxiv.org/abs/2407.11949v1)|null|
 |**2024-07-16**|**Spatiotemporal dynamics of ionic reorganization near biological membrane interfaces**|Hyeongjoo Row et.al.|[2407.11947v1](http://arxiv.org/abs/2407.11947v1)|null|
 |**2024-07-16**|**Adaptive Resolution Force Probe Simulations: Coarse Graining in the Ideal Gas Approximation**|Marco Oestereich et.al.|[2407.11838v1](http://arxiv.org/abs/2407.11838v1)|null|
@@ -6684,6 +6693,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Effects of GaAs buffer layer on quantum anomalous Hall insulator Vy(BixSb1-x)2-yTe3**|Yusuke Nakazawa et.al.|[2407.12268v1](http://arxiv.org/abs/2407.12268v1)|null|
 |**2024-07-15**|**Interplay of altermagnetism and pressure in hexagonal and orthorhombic MnTe**|Nayana Devaraj et.al.|[2407.10584v1](http://arxiv.org/abs/2407.10584v1)|null|
 |**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661v1](http://arxiv.org/abs/2407.08661v1)|null|
 |**2024-07-11**|**Peculiarities of measured dependencies of strength of spin-orbit interaction and anisotropy field on current density in FeCoB nanomagnet**|Vadym Zayets et.al.|[2407.08170v1](http://arxiv.org/abs/2407.08170v1)|null|
@@ -6968,6 +6978,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Helical Spin Dynamics in Commensurate Magnets: a Study on Brochantite, Cu $_4$SO$_4$(OH)$_6$**|S. E. Nikitin et.al.|[2407.12767v1](http://arxiv.org/abs/2407.12767v1)|null|
 |**2024-07-13**|**Distinct effect of Kondo physics on crystal field splitting in electron and spin spectroscopies**|M. Kornjača et.al.|[2407.09971v1](http://arxiv.org/abs/2407.09971v1)|null|
 |**2024-07-08**|**Ferromagnetic inter-layer coupling in FeSe $_{1-x}$S$_{x}$ superconductors revealed by inelastic neutron scattering**|Mingwei Ma et.al.|[2407.05548v1](http://arxiv.org/abs/2407.05548v1)|null|
 |**2024-07-05**|**Kalman filter enhanced Adversarial Bayesian optimization for active sampling in inelastic neutron scattering**|Nihad Abuawwad et.al.|[2407.04457v1](http://arxiv.org/abs/2407.04457v1)|null|
