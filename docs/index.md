@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Characterizing hydrogel behavior under compression with gel-freezing osmometry**|Yanxia Feng et.al.|[2407.13718v1](http://arxiv.org/abs/2407.13718v1)|null|
+|**2024-07-18**|**Tuning collective actuation of active solids by optimizing activity localization**|Davi Lazzari et.al.|[2407.13682v1](http://arxiv.org/abs/2407.13682v1)|null|
+|**2024-07-18**|**Unruh-DeWitt Quantum Computing: Realizing Quantum Shannon Theory With Quantum Fields**|Eric W. Aspling et.al.|[2407.13628v1](http://arxiv.org/abs/2407.13628v1)|null|
+|**2024-07-18**|**Observation of surface Fermi arcs in altermagnetic Weyl semimetal CrSb**|Wenlong Lu et.al.|[2407.13497v1](http://arxiv.org/abs/2407.13497v1)|null|
+|**2024-07-18**|**Transient segregation of different density granular mixtures**|Soniya Kumawat et.al.|[2407.13412v1](http://arxiv.org/abs/2407.13412v1)|null|
+|**2024-07-18**|**Hybridization of terahertz phonons and magnons in disparate and spatially-separated material specimens**|Marcin Białek et.al.|[2407.13305v1](http://arxiv.org/abs/2407.13305v1)|null|
+|**2024-07-18**|**The Dance of Odd-Diffusive Particles: A Fourier Approach**|Amelie Langer et.al.|[2407.13290v1](http://arxiv.org/abs/2407.13290v1)|null|
+|**2024-07-18**|**Capillary lubrication of a spherical particle near a fluid interface**|Aditya Jha et.al.|[2407.13265v1](http://arxiv.org/abs/2407.13265v1)|null|
+|**2024-07-18**|**Water drop impact on thin viscous oil layers**|Surjit Bharatsingh et.al.|[2407.13191v1](http://arxiv.org/abs/2407.13191v1)|null|
+|**2024-07-18**|**Growing tissue sheets on substrates: buds, buckles, and pores**|Hiroshi Noguchi et.al.|[2407.13187v1](http://arxiv.org/abs/2407.13187v1)|null|
+|**2024-07-18**|**Smart polymer solution and thermal conductivity: How important is an exact polymer conformation?**|Mokter M. Chowdhury et.al.|[2407.13063v1](http://arxiv.org/abs/2407.13063v1)|null|
 |**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala et.al.|[2407.12747v1](http://arxiv.org/abs/2407.12747v1)|null|
 |**2024-07-17**|**A primary quantum current standard based on the Josephson and the quantum Hall effects**|Sophie Djordjevic et.al.|[2407.12562v1](http://arxiv.org/abs/2407.12562v1)|null|
 |**2024-07-17**|**3He adsorbed on molecular hydrogen surfaces**|M. C. Gordillo et.al.|[2407.12436v1](http://arxiv.org/abs/2407.12436v1)|null|
@@ -6697,6 +6708,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674v1](http://arxiv.org/abs/2407.13674v1)|null|
+|**2024-07-18**|**Nematic Ising superconductivity with hidden magnetism in few-layer 6R-TaS2**|Shao-Bo Liu et.al.|[2407.13121v1](http://arxiv.org/abs/2407.13121v1)|null|
 |**2024-07-17**|**Effects of GaAs buffer layer on quantum anomalous Hall insulator Vy(BixSb1-x)2-yTe3**|Yusuke Nakazawa et.al.|[2407.12268v1](http://arxiv.org/abs/2407.12268v1)|null|
 |**2024-07-15**|**Interplay of altermagnetism and pressure in hexagonal and orthorhombic MnTe**|Nayana Devaraj et.al.|[2407.10584v1](http://arxiv.org/abs/2407.10584v1)|null|
 |**2024-07-11**|**Self-consistent theory for the fractional quantum anomalous Hall effect in rhombohedral pentalayer graphene**|Ke Huang et.al.|[2407.08661v1](http://arxiv.org/abs/2407.08661v1)|null|
