@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440v1](http://arxiv.org/abs/2407.14440v1)|null|
+|**2024-07-19**|**Natural convection in the cytoplasm: Theoretical predictions of buoyancy-driven flows inside a cell**|Nikhil Desai et.al.|[2407.14385v1](http://arxiv.org/abs/2407.14385v1)|null|
+|**2024-07-19**|**The Dirac fermions in the altermagnet Ce4X3 (X = As, Sb, Bi)**|Xue He et.al.|[2407.14366v1](http://arxiv.org/abs/2407.14366v1)|null|
+|**2024-07-19**|**Photon Generation in Double Superconducting Cavities: Quantum Circuits Implementation**|Jean Paul Louys Sansó et.al.|[2407.14351v1](http://arxiv.org/abs/2407.14351v1)|null|
+|**2024-07-19**|**Magnetotransport in a graphite cylinder under quantizing fields**|N. Kunchur et.al.|[2407.14263v1](http://arxiv.org/abs/2407.14263v1)|null|
+|**2024-07-18**|**Optimizing properties on the critical rigidity manifold of underconstrained central-force networks**|Tyler Hain et.al.|[2407.13939v1](http://arxiv.org/abs/2407.13939v1)|null|
 |**2024-07-18**|**Characterizing hydrogel behavior under compression with gel-freezing osmometry**|Yanxia Feng et.al.|[2407.13718v1](http://arxiv.org/abs/2407.13718v1)|null|
 |**2024-07-18**|**Tuning collective actuation of active solids by optimizing activity localization**|Davi Lazzari et.al.|[2407.13682v1](http://arxiv.org/abs/2407.13682v1)|null|
 |**2024-07-18**|**Unruh-DeWitt Quantum Computing: Realizing Quantum Shannon Theory With Quantum Fields**|Eric W. Aspling et.al.|[2407.13628v1](http://arxiv.org/abs/2407.13628v1)|null|
@@ -6708,6 +6714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071v1](http://arxiv.org/abs/2407.14071v1)|null|
 |**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674v1](http://arxiv.org/abs/2407.13674v1)|null|
 |**2024-07-18**|**Nematic Ising superconductivity with hidden magnetism in few-layer 6R-TaS2**|Shao-Bo Liu et.al.|[2407.13121v1](http://arxiv.org/abs/2407.13121v1)|null|
 |**2024-07-17**|**Effects of GaAs buffer layer on quantum anomalous Hall insulator Vy(BixSb1-x)2-yTe3**|Yusuke Nakazawa et.al.|[2407.12268v1](http://arxiv.org/abs/2407.12268v1)|null|
