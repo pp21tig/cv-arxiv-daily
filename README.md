@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Voltage mapping in subcellular nanodomains using electro-diffusion modeling**|Frédéric Paquin-Lefebvre et.al.|[2407.15697v1](http://arxiv.org/abs/2407.15697v1)|null|
+|**2024-07-22**|**Impact of electron correlations on two-particle charge response in electron- and hole-doped cuprates**|Abhishek Nag et.al.|[2407.15692v1](http://arxiv.org/abs/2407.15692v1)|null|
+|**2024-07-22**|**Coupled dynamics in binary mixtures of colloidal Yukawa systems**|Daniel Weidig et.al.|[2407.15659v1](http://arxiv.org/abs/2407.15659v1)|null|
+|**2024-07-22**|**Viologen-based supramolecular crystal gels: gelation kinetics and sensitivity to temperature**|Julien Bauland et.al.|[2407.15552v1](http://arxiv.org/abs/2407.15552v1)|null|
+|**2024-07-22**|**Optical Micromanipulation of Soft Materials: Applications in Devices and Technologies**|Sanatan Halder et.al.|[2407.15513v1](http://arxiv.org/abs/2407.15513v1)|null|
+|**2024-07-22**|**Non-monotonic constitutive curves and shear banding in dry and wet granular flows**|Christopher Ness et.al.|[2407.15436v1](http://arxiv.org/abs/2407.15436v1)|null|
+|**2024-07-22**|**Nonequilibrium Membrane Dynamics Induced by Active Protein Interactions and Chemical Reactions: A Review**|Hiroshi Noguchi et.al.|[2407.15371v1](http://arxiv.org/abs/2407.15371v1)|null|
+|**2024-07-22**|**Effective medium theory for viscoelasticity of soft jammed solids**|Hideyuki Mizuno et.al.|[2407.15323v1](http://arxiv.org/abs/2407.15323v1)|null|
+|**2024-07-21**|**Binding and dimerization control phase separation in a compartment**|Riccardo Rossetto et.al.|[2407.15179v1](http://arxiv.org/abs/2407.15179v1)|null|
+|**2024-07-21**|**First-principles study of structural and electronic properties of multiferroic oxide Mn3TeO6 under high pressure**|Xiao-Long Pan et.al.|[2407.15150v1](http://arxiv.org/abs/2407.15150v1)|null|
+|**2024-07-21**|**Dynamical arrest in active nematic turbulence**|Ido Lavi et.al.|[2407.15149v1](http://arxiv.org/abs/2407.15149v1)|null|
+|**2024-07-21**|**Tethered flexible polymer under oscillatory linear flow**|A. Lamura et.al.|[2407.15129v1](http://arxiv.org/abs/2407.15129v1)|null|
+|**2024-07-21**|**Holographic nature of critical quantum states of proteins**|Eszter Papp et.al.|[2407.15101v1](http://arxiv.org/abs/2407.15101v1)|null|
+|**2024-07-21**|**Colloidal Clusters as models for chiral active micromotors**|Bipul Biswas et.al.|[2407.15061v1](http://arxiv.org/abs/2407.15061v1)|null|
+|**2024-07-20**|**Multi-dimensional memory in sheared granular materials**|Chloe W. Lindeman et.al.|[2407.14966v1](http://arxiv.org/abs/2407.14966v1)|null|
+|**2024-07-20**|**Generalized Langevin equation for a tagged monomer in a Gaussian semiflexible polymer**|Xavier Durang et.al.|[2407.14886v1](http://arxiv.org/abs/2407.14886v1)|null|
+|**2024-07-20**|**An asymptotically consistent morphoelastic shell model for compressible biological structures with finite-strain deformations**|Xiang Yu et.al.|[2407.14881v1](http://arxiv.org/abs/2407.14881v1)|null|
+|**2024-07-20**|**Non-local quench spectroscopy of fermionic excitations in 1D quantum spin chains**|Saverio Bocini et.al.|[2407.14802v1](http://arxiv.org/abs/2407.14802v1)|null|
+|**2024-07-19**|**Charge Density Waves in the 2.5-Dimensional Quantum Heterostructure**|F. Z. Yang et.al.|[2407.14661v1](http://arxiv.org/abs/2407.14661v1)|null|
+|**2024-07-19**|**Physics of the Edwards-Anderson Spin Glass in Dimensions $d=3,\ldots,8$ from Heuristic Ground State Optimization**|Stefan Boettcher et.al.|[2407.14646v1](http://arxiv.org/abs/2407.14646v1)|null|
 |**2024-07-19**|**Coarse-graining bistability with the Martini force field**|Alexander D. Muratov et.al.|[2407.14440v1](http://arxiv.org/abs/2407.14440v1)|null|
 |**2024-07-19**|**Natural convection in the cytoplasm: Theoretical predictions of buoyancy-driven flows inside a cell**|Nikhil Desai et.al.|[2407.14385v1](http://arxiv.org/abs/2407.14385v1)|null|
 |**2024-07-19**|**The Dirac fermions in the altermagnet Ce4X3 (X = As, Sb, Bi)**|Xue He et.al.|[2407.14366v1](http://arxiv.org/abs/2407.14366v1)|null|
@@ -6209,6 +6229,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Quantum sensing in an exciton-polariton condensate**|Jorge Chávez-Carlos et.al.|[2407.14590v1](http://arxiv.org/abs/2407.14590v1)|null|
 |**2024-07-16**|**Photocatalytic magnetic microgyroscopes with activity-tunable precessional dynamics**|Dolachai Boniface et.al.|[2407.11640v1](http://arxiv.org/abs/2407.11640v1)|null|
 |**2024-07-15**|**Two-dimensional motion of an impurity under dynamic light-induced dipole forces in an atomic subwavelength array**|Samuel Buckley-Bonanno et.al.|[2407.11113v1](http://arxiv.org/abs/2407.11113v1)|null|
 |**2024-07-11**|**Production and stabilization of a spin mixture of ultracold dipolar Bose gases**|Maxime Lecomte et.al.|[2407.08702v1](http://arxiv.org/abs/2407.08702v1)|null|
@@ -6710,6 +6731,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836v1](http://arxiv.org/abs/2407.15836v1)|null|
 |**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071v1](http://arxiv.org/abs/2407.14071v1)|null|
 |**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674v1](http://arxiv.org/abs/2407.13674v1)|null|
 |**2024-07-18**|**Nematic Ising superconductivity with hidden magnetism in few-layer 6R-TaS2**|Shao-Bo Liu et.al.|[2407.13121v1](http://arxiv.org/abs/2407.13121v1)|null|
