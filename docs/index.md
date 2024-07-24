@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687v1](http://arxiv.org/abs/2407.16687v1)|null|
+|**2024-07-23**|**Phase separation of chemokinetic active particles**|Euijoon Kwon et.al.|[2407.16676v1](http://arxiv.org/abs/2407.16676v1)|null|
+|**2024-07-23**|**Nanoscale Water Behavior and Its Impact on Adsorption: A case study with CNTs and Diclofenac**|Patrick R. B. Côrtes et.al.|[2407.16631v1](http://arxiv.org/abs/2407.16631v1)|null|
+|**2024-07-23**|**Trapped Stresses in Simple Yield Stress Materials Influence Their Rheology and Cause Delayed Yielding**|Kasra Farain et.al.|[2407.16619v1](http://arxiv.org/abs/2407.16619v1)|null|
+|**2024-07-23**|**Parrondo's paradox in quantum walks with inhomogeneous coins**|Vikash Mittal et.al.|[2407.16558v1](http://arxiv.org/abs/2407.16558v1)|null|
+|**2024-07-23**|**Defect interactions in the non-reciprocal Cahn-Hilliard model**|Navdeep Rana et.al.|[2407.16547v1](http://arxiv.org/abs/2407.16547v1)|null|
+|**2024-07-23**|**Propulsion Contribution from Individual Filament in Flagellar Bundle**|Jin Zhu et.al.|[2407.16532v1](http://arxiv.org/abs/2407.16532v1)|null|
+|**2024-07-23**|**When Knots are Plectonemes**|Fei Zheng et.al.|[2407.16290v1](http://arxiv.org/abs/2407.16290v1)|null|
+|**2024-07-23**|**Self-Reasoning Assistant Learning for non-Abelian Gauge Fields Design**|Jinyang Sun et.al.|[2407.16255v1](http://arxiv.org/abs/2407.16255v1)|null|
+|**2024-07-23**|**Lattice polymers near a permeable interface**|C J Bradly et.al.|[2407.16228v1](http://arxiv.org/abs/2407.16228v1)|null|
+|**2024-07-23**|**Hermitian and non-Hermitian topology in active matter**|Kazuki Sone et.al.|[2407.16143v1](http://arxiv.org/abs/2407.16143v1)|null|
+|**2024-07-22**|**Residue imaginary velocity induces many-body delocalization**|Shi-Xin Hu et.al.|[2407.15954v1](http://arxiv.org/abs/2407.15954v1)|null|
+|**2024-07-22**|**Field-assisted self-assembly at fluid-fluid interfaces**|Priyanka Biswas et.al.|[2407.15896v1](http://arxiv.org/abs/2407.15896v1)|null|
 |**2024-07-22**|**Voltage mapping in subcellular nanodomains using electro-diffusion modeling**|Frédéric Paquin-Lefebvre et.al.|[2407.15697v1](http://arxiv.org/abs/2407.15697v1)|null|
 |**2024-07-22**|**Impact of electron correlations on two-particle charge response in electron- and hole-doped cuprates**|Abhishek Nag et.al.|[2407.15692v1](http://arxiv.org/abs/2407.15692v1)|null|
 |**2024-07-22**|**Coupled dynamics in binary mixtures of colloidal Yukawa systems**|Daniel Weidig et.al.|[2407.15659v1](http://arxiv.org/abs/2407.15659v1)|null|
