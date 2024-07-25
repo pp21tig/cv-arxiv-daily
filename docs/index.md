@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Physical limits on galvanotaxis depends on cell morphology and orientation**|Ifunanya Nwogbaga et.al.|[2407.17420v1](http://arxiv.org/abs/2407.17420v1)|null|
+|**2024-07-24**|**Kinetic theory applied to pressure-controlled shear flows of frictionless spheres between rigid, bumpy planes**|Dalila Vescovi et.al.|[2407.17397v1](http://arxiv.org/abs/2407.17397v1)|null|
+|**2024-07-24**|**Learning a phenomenological theory for contact-interactions between motile cells from collision experiments**|Tom Brandstätter et.al.|[2407.17268v1](http://arxiv.org/abs/2407.17268v1)|null|
+|**2024-07-24**|**Stochastic density functional theory for ions in a polar solvent**|Pierre Illien et.al.|[2407.17232v1](http://arxiv.org/abs/2407.17232v1)|null|
+|**2024-07-24**|**A one-component patchy-particle icosahedral quasicrystal**|Eva G. Noya et.al.|[2407.17212v1](http://arxiv.org/abs/2407.17212v1)|null|
+|**2024-07-24**|**Partitioning of total charge in matter from geometric phases of electrons**|Joyeta Saha et.al.|[2407.17202v1](http://arxiv.org/abs/2407.17202v1)|null|
+|**2024-07-24**|**Active particles confined in deformable droplets**|Javier Diaz et.al.|[2407.17138v1](http://arxiv.org/abs/2407.17138v1)|null|
+|**2024-07-24**|**Twist-tunable spin control in twisted bilayer bismuthene**|Ludovica Zullo et.al.|[2407.17124v1](http://arxiv.org/abs/2407.17124v1)|null|
+|**2024-07-24**|**Mesoscale Field Theory for Quasicrystals**|Marcello De Donno et.al.|[2407.17091v1](http://arxiv.org/abs/2407.17091v1)|null|
+|**2024-07-24**|**Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear**|Tatsuma Oishi et.al.|[2407.17031v1](http://arxiv.org/abs/2407.17031v1)|null|
+|**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010v1](http://arxiv.org/abs/2407.17010v1)|null|
+|**2024-07-24**|**Fluids with power-law repulsion: Hyperuniformity and energy fluctuations**|Haim Diamant et.al.|[2407.16952v1](http://arxiv.org/abs/2407.16952v1)|null|
+|**2024-07-23**|**Cooperative lattice theory for CO2 adsorption in diamine-appended metal organic framework at humid direct air capture conditions**|Bennett Marshall et.al.|[2407.16879v1](http://arxiv.org/abs/2407.16879v1)|null|
+|**2024-07-23**|**Studying Critical Parameters of Superconductor via Diamond Quantum Sensors**|Kin On Ho et.al.|[2407.16848v1](http://arxiv.org/abs/2407.16848v1)|null|
+|**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
 |**2024-07-23**|**Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses**|Nikolai V. Priezjev et.al.|[2407.16687v1](http://arxiv.org/abs/2407.16687v1)|null|
 |**2024-07-23**|**Phase separation of chemokinetic active particles**|Euijoon Kwon et.al.|[2407.16676v1](http://arxiv.org/abs/2407.16676v1)|null|
 |**2024-07-23**|**Nanoscale Water Behavior and Its Impact on Adsorption: A case study with CNTs and Diclofenac**|Patrick R. B. Côrtes et.al.|[2407.16631v1](http://arxiv.org/abs/2407.16631v1)|null|
@@ -6246,6 +6261,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Coherent Phonons and Quasiparticle Renormalization in Semimetals from First Principles**|C. Emeis et.al.|[2407.17118v1](http://arxiv.org/abs/2407.17118v1)|null|
+|**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
 |**2024-07-19**|**Quantum sensing in an exciton-polariton condensate**|Jorge Chávez-Carlos et.al.|[2407.14590v1](http://arxiv.org/abs/2407.14590v1)|null|
 |**2024-07-16**|**Photocatalytic magnetic microgyroscopes with activity-tunable precessional dynamics**|Dolachai Boniface et.al.|[2407.11640v1](http://arxiv.org/abs/2407.11640v1)|null|
 |**2024-07-15**|**Two-dimensional motion of an impurity under dynamic light-induced dipole forces in an atomic subwavelength array**|Samuel Buckley-Bonanno et.al.|[2407.11113v1](http://arxiv.org/abs/2407.11113v1)|null|
@@ -6560,6 +6577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
 |**2024-07-10**|**Large spin-orbit torque in a-plane $α$-Fe$_{2}$O$_{3}$ /Pt bilayers**|Igor Lyalin et.al.|[2407.07731v1](http://arxiv.org/abs/2407.07731v1)|null|
 |**2024-07-10**|**Thermoelectric cooling of a finite reservoir coupled to a quantum dot**|Stephanie Matern et.al.|[2407.07727v1](http://arxiv.org/abs/2407.07727v1)|null|
 |**2024-07-10**|**Universal nonlinear responses of quantum Hall systems with Galilean invariance**|Tatsuya Amitani et.al.|[2407.07578v1](http://arxiv.org/abs/2407.07578v1)|null|
