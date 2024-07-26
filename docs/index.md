@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Statistical mechanics of frustrated assemblies and incompatible graphs**|José M. Ortiz-Tavárez et.al.|[2407.18210v1](http://arxiv.org/abs/2407.18210v1)|null|
+|**2024-07-25**|**Chemically reactive and aging macromolecular mixtures II: Phase separation and coarsening**|Ruoyao Zhang et.al.|[2407.18171v1](http://arxiv.org/abs/2407.18171v1)|null|
+|**2024-07-25**|**Correlating ultrastability with fragility and surface mobility in vapor deposited tetrahedral glasses**|Fabio Leoni et.al.|[2407.18133v1](http://arxiv.org/abs/2407.18133v1)|null|
+|**2024-07-25**|**Sedimenting microrollers navigate saturated porous media**|Samuel R. Wilson-Whitford et.al.|[2407.18116v1](http://arxiv.org/abs/2407.18116v1)|null|
+|**2024-07-25**|**Anisotropic Cage Evolution in Quasi-two-dimensional Colloidal Fluids**|Noman Hanif Barbhuiya et.al.|[2407.18032v1](http://arxiv.org/abs/2407.18032v1)|null|
+|**2024-07-25**|**Experimental Data Confirm Carrier-Cascade Model for Solid-State Conductance across Proteins**|Eszter Papp et.al.|[2407.17982v1](http://arxiv.org/abs/2407.17982v1)|null|
+|**2024-07-25**|**Tunneling time in coupled-channel systems**|Peng Guo et.al.|[2407.17981v1](http://arxiv.org/abs/2407.17981v1)|null|
+|**2024-07-25**|**Vulnerability of Transport through Evolving Spatial Networks**|Ali Molavi et.al.|[2407.17977v1](http://arxiv.org/abs/2407.17977v1)|null|
+|**2024-07-25**|**Phonon dispersion of nanoscale honeycomb phononic crystal: gigahertz and terahertz spectroscopy comparison**|Michele Diego et.al.|[2407.17746v1](http://arxiv.org/abs/2407.17746v1)|null|
+|**2024-07-24**|**Conformation and dynamics of wet tangentially-driven active filaments**|Loek van Steijn et.al.|[2407.17602v1](http://arxiv.org/abs/2407.17602v1)|null|
 |**2024-07-24**|**Physical limits on galvanotaxis depends on cell morphology and orientation**|Ifunanya Nwogbaga et.al.|[2407.17420v1](http://arxiv.org/abs/2407.17420v1)|null|
 |**2024-07-24**|**Kinetic theory applied to pressure-controlled shear flows of frictionless spheres between rigid, bumpy planes**|Dalila Vescovi et.al.|[2407.17397v1](http://arxiv.org/abs/2407.17397v1)|null|
 |**2024-07-24**|**Learning a phenomenological theory for contact-interactions between motile cells from collision experiments**|Tom Brandstätter et.al.|[2407.17268v1](http://arxiv.org/abs/2407.17268v1)|null|
@@ -6261,6 +6271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
 |**2024-07-24**|**Coherent Phonons and Quasiparticle Renormalization in Semimetals from First Principles**|C. Emeis et.al.|[2407.17118v1](http://arxiv.org/abs/2407.17118v1)|null|
 |**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
 |**2024-07-19**|**Quantum sensing in an exciton-polariton condensate**|Jorge Chávez-Carlos et.al.|[2407.14590v1](http://arxiv.org/abs/2407.14590v1)|null|
@@ -6766,6 +6777,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
 |**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836v1](http://arxiv.org/abs/2407.15836v1)|null|
 |**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071v1](http://arxiv.org/abs/2407.14071v1)|null|
 |**2024-07-18**|**Observation of Ferromagnetic Phase in the Second Moiré Band of Twisted MoTe2**|Liheng An et.al.|[2407.13674v1](http://arxiv.org/abs/2407.13674v1)|null|
@@ -7055,6 +7067,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Magnetic properties of a staggered $S=1$ chain with an alternating single-ion anisotropy direction**|S. Vaidya et.al.|[2407.17894v1](http://arxiv.org/abs/2407.17894v1)|null|
 |**2024-07-17**|**Helical Spin Dynamics in Commensurate Magnets: a Study on Brochantite, Cu $_4$SO$_4$(OH)$_6$**|S. E. Nikitin et.al.|[2407.12767v1](http://arxiv.org/abs/2407.12767v1)|null|
 |**2024-07-13**|**Distinct effect of Kondo physics on crystal field splitting in electron and spin spectroscopies**|M. Kornjača et.al.|[2407.09971v1](http://arxiv.org/abs/2407.09971v1)|null|
 |**2024-07-08**|**Ferromagnetic inter-layer coupling in FeSe $_{1-x}$S$_{x}$ superconductors revealed by inelastic neutron scattering**|Mingwei Ma et.al.|[2407.05548v1](http://arxiv.org/abs/2407.05548v1)|null|
