@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Packing and ejection dynamics of polymers: Role of confinement, polymer stiffness and activity**|Gokul Upadhyay et.al.|[2407.18872v1](http://arxiv.org/abs/2407.18872v1)|null|
+|**2024-07-26**|**Hybrid particle-phase field model and renormalized surface tension in dilute suspensions of nanoparticles**|Alexandra J. Hardy et.al.|[2407.18850v1](http://arxiv.org/abs/2407.18850v1)|null|
+|**2024-07-26**|**Lagrangian Formulation of Nuclear-Electronic Orbital Ehrenfest Dynamics with Real-time TDDFT for Extended Periodic Systems**|Jianhang Xu et.al.|[2407.18842v1](http://arxiv.org/abs/2407.18842v1)|null|
+|**2024-07-26**|**Superfluid Spin-up: 3D Simulations of Postglitch Dynamics in Neutron Stars Cores**|J. R. Fuentes et.al.|[2407.18810v1](http://arxiv.org/abs/2407.18810v1)|null|
+|**2024-07-26**|**Locomotion of Active Polymerlike Worms in Porous Media**|Rosa Sinaasappel et.al.|[2407.18805v1](http://arxiv.org/abs/2407.18805v1)|null|
+|**2024-07-26**|**Structural Reorganizations and Nanodomain Emergence in Lipid Membrane Driven by Ionic Liquids**|J. Gupta et.al.|[2407.18706v1](http://arxiv.org/abs/2407.18706v1)|null|
+|**2024-07-26**|**Comparison of integral equation theories of the liquid state**|Ilian Pihlajamaa et.al.|[2407.18680v1](http://arxiv.org/abs/2407.18680v1)|null|
+|**2024-07-26**|**Fast and Reliable Probabilistic Reflectometry Inversion with Prior-Amortized Neural Posterior Estimation**|Vladimir Starostin et.al.|[2407.18648v1](http://arxiv.org/abs/2407.18648v1)|null|
+|**2024-07-26**|**Diffusion in driven periodic systems: from weak to strong damping regimes**|I. G. Marchenko et.al.|[2407.18592v1](http://arxiv.org/abs/2407.18592v1)|null|
+|**2024-07-26**|**Enhanced Piezoelectricity in Sustainable-by-design Chitosan Nanocomposite Elastomers for Prosthetics, Robotics, and Circular Electronics**|Jacopo Nicoletti et.al.|[2407.18585v1](http://arxiv.org/abs/2407.18585v1)|null|
+|**2024-07-26**|**Diverging shift current responses in the gapless limit of two-dimensional systems**|Hiroki Yoshida et.al.|[2407.18565v1](http://arxiv.org/abs/2407.18565v1)|null|
+|**2024-07-25**|**Computational Phase Transitions in Two-Dimensional Antiferromagnetic Melting**|Zack Weinstein et.al.|[2407.18405v1](http://arxiv.org/abs/2407.18405v1)|null|
+|**2024-07-25**|**Predicting quantum materials properties using novel faithful machine learning embeddings**|Gavin Nop et.al.|[2407.18388v1](http://arxiv.org/abs/2407.18388v1)|null|
 |**2024-07-25**|**Statistical mechanics of frustrated assemblies and incompatible graphs**|José M. Ortiz-Tavárez et.al.|[2407.18210v1](http://arxiv.org/abs/2407.18210v1)|null|
 |**2024-07-25**|**Chemically reactive and aging macromolecular mixtures II: Phase separation and coarsening**|Ruoyao Zhang et.al.|[2407.18171v1](http://arxiv.org/abs/2407.18171v1)|null|
 |**2024-07-25**|**Correlating ultrastability with fragility and surface mobility in vapor deposited tetrahedral glasses**|Fabio Leoni et.al.|[2407.18133v1](http://arxiv.org/abs/2407.18133v1)|null|
