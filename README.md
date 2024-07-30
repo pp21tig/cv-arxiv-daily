@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Hamiltonian Lattice Formulation of Compact Maxwell-Chern-Simons Theory**|Changnan Peng et.al.|[2407.20225v1](http://arxiv.org/abs/2407.20225v1)|null|
+|**2024-07-29**|**Nanowrinkle Waveguide in Graphene for Enabling Secure Dirac Fermion Transport**|Seunghyun Jun et.al.|[2407.20148v1](http://arxiv.org/abs/2407.20148v1)|null|
+|**2024-07-29**|**Stochastic migrations of Marangoni surfers between two lobes of a dumbbell-shaped confinement**|Alakesh Upadhyaya et.al.|[2407.20140v1](http://arxiv.org/abs/2407.20140v1)|null|
+|**2024-07-29**|**Counterfactual rewards promote collective transport using individually controlled swarm microrobots**|Veit-Lorenz Heuthe et.al.|[2407.20041v1](http://arxiv.org/abs/2407.20041v1)|null|
+|**2024-07-29**|**Automating Blueprints for Colloidal Quasicrystal Assembly**|Diogo E. P. Pinto et.al.|[2407.19968v1](http://arxiv.org/abs/2407.19968v1)|null|
+|**2024-07-29**|**Hydrodynamics of pulsating active liquids**|Tirthankar Banerjee et.al.|[2407.19955v1](http://arxiv.org/abs/2407.19955v1)|null|
+|**2024-07-29**|**Viscous liquid dynamics modeled as random walks within overlapping hyperspheres**|Mark F. B. Railton et.al.|[2407.19952v1](http://arxiv.org/abs/2407.19952v1)|null|
+|**2024-07-29**|**Successive ferroelectric orders and magnetoelectric coupling without long-range magnetic order in highly frustrated pyrochlore compounds: Sm $_2$Ti$_{2-x}$V$_x$O$_7$**|S. Mukherjee et.al.|[2407.19883v1](http://arxiv.org/abs/2407.19883v1)|null|
+|**2024-07-29**|**Inspection paradox and jump detection in glassy systems**|Simone Pigolotti et.al.|[2407.19873v1](http://arxiv.org/abs/2407.19873v1)|null|
+|**2024-07-29**|**Activity Waves in Condensed Phases of Quincke Rollers**|Meng Fei Zhang et.al.|[2407.19716v1](http://arxiv.org/abs/2407.19716v1)|null|
+|**2024-07-28**|**Cell Sorting in an Active Nematic Vertex Model**|Jan Rozman et.al.|[2407.19591v1](http://arxiv.org/abs/2407.19591v1)|null|
+|**2024-07-28**|**Criticality enhances the reinforcement of disordered networks by rigid inclusions**|Jordan L. Shivers et.al.|[2407.19563v1](http://arxiv.org/abs/2407.19563v1)|null|
+|**2024-07-28**|**Scaling laws for velocity profile of granular flow in rotating drums**|Hiroki Oba et.al.|[2407.19466v1](http://arxiv.org/abs/2407.19466v1)|null|
+|**2024-07-28**|**Molecular Orbital Electronic Instability in the van der Waals Kagome Semiconductor Nb $_3$Cl$_8$ : Exploring Future Directions**|Yuya Haraguchi et.al.|[2407.19457v1](http://arxiv.org/abs/2407.19457v1)|null|
+|**2024-07-28**|**Topological Phase Transition in Quasi-One-Dimensional Bismuth Iodide Bi4I4**|W. X. Zhao et.al.|[2407.19375v1](http://arxiv.org/abs/2407.19375v1)|null|
+|**2024-07-27**|**On The Effect Of Size On The Kinetics Of Reactions In Solutions**|Manuel Dedola et.al.|[2407.19319v1](http://arxiv.org/abs/2407.19319v1)|null|
+|**2024-07-27**|**How to define temperature in active systems**|Lukas Hecht et.al.|[2407.19281v1](http://arxiv.org/abs/2407.19281v1)|null|
+|**2024-07-27**|**Predicting the Progression of Cancerous Tumors in Mice: A Machine and Deep Learning Intuition**|Amit K Chattopadhyay et.al.|[2407.19277v1](http://arxiv.org/abs/2407.19277v1)|null|
+|**2024-07-27**|**Mesoscale properties of biomolecular condensates emerging from protein chain dynamics**|Nicola Galvanetto et.al.|[2407.19202v1](http://arxiv.org/abs/2407.19202v1)|null|
+|**2024-07-27**|**Exploring the soft pinning effect in the dynamics and the structure dynamics correlation in multicomponent supercooled liquids**|Ehtesham Anwar et.al.|[2407.19189v1](http://arxiv.org/abs/2407.19189v1)|null|
 |**2024-07-26**|**Packing and ejection dynamics of polymers: Role of confinement, polymer stiffness and activity**|Gokul Upadhyay et.al.|[2407.18872v1](http://arxiv.org/abs/2407.18872v1)|null|
 |**2024-07-26**|**Hybrid particle-phase field model and renormalized surface tension in dilute suspensions of nanoparticles**|Alexandra J. Hardy et.al.|[2407.18850v1](http://arxiv.org/abs/2407.18850v1)|null|
 |**2024-07-26**|**Lagrangian Formulation of Nuclear-Electronic Orbital Ehrenfest Dynamics with Real-time TDDFT for Extended Periodic Systems**|Jianhang Xu et.al.|[2407.18842v1](http://arxiv.org/abs/2407.18842v1)|null|
@@ -6280,6 +6300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-28**|**Non-equilibrium States and Interactions in the Topological Insulator and Topological Crystalline Insulator Phases of NaCd4As3**|Tika R Kafle et.al.|[2407.19404v1](http://arxiv.org/abs/2407.19404v1)|null|
 |**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
 |**2024-07-24**|**Coherent Phonons and Quasiparticle Renormalization in Semimetals from First Principles**|C. Emeis et.al.|[2407.17118v1](http://arxiv.org/abs/2407.17118v1)|null|
 |**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
