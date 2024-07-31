@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Substrate stiffness modulates bacterial adhesion and diversity of adherent phenotypes across growth stages**|René Riedel et.al.|[2407.20979v1](http://arxiv.org/abs/2407.20979v1)|null|
+|**2024-07-30**|**Enhanced Interlocking in Granular Jamming Grippers through Hard and Soft Particle Mixtures**|Angel Santarossa et.al.|[2407.20948v1](http://arxiv.org/abs/2407.20948v1)|null|
+|**2024-07-30**|**Exceptional points and non-Hermitian skin effects under nonlinearity of eigenvalues**|Tsuneya Yoshida et.al.|[2407.20895v1](http://arxiv.org/abs/2407.20895v1)|null|
+|**2024-07-30**|**Planar network statistics for two-dimensional rupturing foams**|Joseph Klobusicky et.al.|[2407.20858v1](http://arxiv.org/abs/2407.20858v1)|null|
+|**2024-07-30**|**Hyper-Auxeticity and the Volume Phase Transition of Polymer Gels**|Andrea Ninarello et.al.|[2407.20821v1](http://arxiv.org/abs/2407.20821v1)|null|
+|**2024-07-30**|**Dual origin of effective axion response**|Timur Z. Seidov et.al.|[2407.20767v1](http://arxiv.org/abs/2407.20767v1)|null|
+|**2024-07-30**|**Solvent Quality and Nonbiological Oligomer Folding: Revisiting Conventional Paradigms**|Cedrix J. Dongmo Foumthuim et.al.|[2407.20686v1](http://arxiv.org/abs/2407.20686v1)|null|
+|**2024-07-30**|**Hedgehog topological defects in 3D amorphous solids**|Arabinda Bera et.al.|[2407.20631v1](http://arxiv.org/abs/2407.20631v1)|null|
+|**2024-07-30**|**Escape of an Active Ring from an Attractive Surface: Behaving Like a Self-Propelled Brownian Particle**|Bin Tang et.al.|[2407.20613v1](http://arxiv.org/abs/2407.20613v1)|null|
+|**2024-07-30**|**Constrained motion of self-propelling eccentric disks linked by a spring**|Tian-liang Xu et.al.|[2407.20610v1](http://arxiv.org/abs/2407.20610v1)|null|
+|**2024-07-30**|**Optical effects induced in unmagnetized chiral cold plasma**|Filipe S. Ribeiro et.al.|[2407.20528v1](http://arxiv.org/abs/2407.20528v1)|null|
+|**2024-07-29**|**How are Entanglement Entropies Related to Entropy Bounds?**|Emily Adlam et.al.|[2407.20458v1](http://arxiv.org/abs/2407.20458v1)|null|
+|**2024-07-29**|**Capillary sorting of fiber suspensions by dip coating**|Justin Maddox et.al.|[2407.20436v1](http://arxiv.org/abs/2407.20436v1)|null|
+|**2024-07-29**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392v1](http://arxiv.org/abs/2407.20392v1)|null|
+|**2024-07-29**|**Interplay between local and global order controls bifurcations in nonreciprocal systems without a conservation law**|Kristian Blom et.al.|[2407.20312v1](http://arxiv.org/abs/2407.20312v1)|null|
 |**2024-07-29**|**Hamiltonian Lattice Formulation of Compact Maxwell-Chern-Simons Theory**|Changnan Peng et.al.|[2407.20225v1](http://arxiv.org/abs/2407.20225v1)|null|
 |**2024-07-29**|**Nanowrinkle Waveguide in Graphene for Enabling Secure Dirac Fermion Transport**|Seunghyun Jun et.al.|[2407.20148v1](http://arxiv.org/abs/2407.20148v1)|null|
 |**2024-07-29**|**Stochastic migrations of Marangoni surfers between two lobes of a dumbbell-shaped confinement**|Alakesh Upadhyaya et.al.|[2407.20140v1](http://arxiv.org/abs/2407.20140v1)|null|
@@ -6618,6 +6633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Intrinsic Second Order Spin Current**|Zhi-Fan Zhang et.al.|[2407.20752v1](http://arxiv.org/abs/2407.20752v1)|null|
 |**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
 |**2024-07-10**|**Large spin-orbit torque in a-plane $α$-Fe$_{2}$O$_{3}$ /Pt bilayers**|Igor Lyalin et.al.|[2407.07731v1](http://arxiv.org/abs/2407.07731v1)|null|
 |**2024-07-10**|**Thermoelectric cooling of a finite reservoir coupled to a quantum dot**|Stephanie Matern et.al.|[2407.07727v1](http://arxiv.org/abs/2407.07727v1)|null|
@@ -7097,6 +7113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Direct Observation and Analysis of Low-Energy Magnons with Raman Spectroscopy in Atomically Thin NiPS3**|Woongki Na et.al.|[2407.20480v1](http://arxiv.org/abs/2407.20480v1)|null|
 |**2024-07-25**|**Magnetic properties of a staggered $S=1$ chain with an alternating single-ion anisotropy direction**|S. Vaidya et.al.|[2407.17894v1](http://arxiv.org/abs/2407.17894v1)|null|
 |**2024-07-17**|**Helical Spin Dynamics in Commensurate Magnets: a Study on Brochantite, Cu $_4$SO$_4$(OH)$_6$**|S. E. Nikitin et.al.|[2407.12767v1](http://arxiv.org/abs/2407.12767v1)|null|
 |**2024-07-13**|**Distinct effect of Kondo physics on crystal field splitting in electron and spin spectroscopies**|M. Kornjača et.al.|[2407.09971v1](http://arxiv.org/abs/2407.09971v1)|null|
