@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**A concise 40 T pulse magnet for condensed matter experiments**|Akihiko Ikeda et.al.|[2407.21736v1](http://arxiv.org/abs/2407.21736v1)|null|
+|**2024-07-31**|**Molecular Simulations of Quantized Lamellar Thickening in Polyethylenes with Regularly Spaced Brominated Groups**|Kutlwano Gabana et.al.|[2407.21728v1](http://arxiv.org/abs/2407.21728v1)|null|
+|**2024-07-31**|**Microscopic model for aging of biocondensates**|Hugo Le Roy et.al.|[2407.21710v1](http://arxiv.org/abs/2407.21710v1)|null|
+|**2024-07-31**|**Effect of particle shape on the flow of an hourglass**|Bo Fan et.al.|[2407.21685v1](http://arxiv.org/abs/2407.21685v1)|null|
+|**2024-07-31**|**Unsteady slip pulses under spatially-varying prestress**|Anna Pomyalov et.al.|[2407.21539v1](http://arxiv.org/abs/2407.21539v1)|null|
+|**2024-07-31**|**In-plane dielectric constant and conductivity of confined water**|R. Wang et.al.|[2407.21538v1](http://arxiv.org/abs/2407.21538v1)|null|
+|**2024-07-31**|**Flow regimes and repose angle in a rotating drum filled with highly concave particles**|Weiyi Wang et.al.|[2407.21464v1](http://arxiv.org/abs/2407.21464v1)|null|
+|**2024-07-31**|**Critical surface adsorption of confined binary liquids with locally conserved mass and composition**|Sutapa Roy et.al.|[2407.21451v1](http://arxiv.org/abs/2407.21451v1)|null|
+|**2024-07-30**|**Emergent phases in bent-core patchy colloids**|Anuj Kumar Singh et.al.|[2407.21171v1](http://arxiv.org/abs/2407.21171v1)|null|
+|**2024-07-30**|**Fragmentation and aggregation of cyanobacterial colonies**|Yuri Z. Sinzato et.al.|[2407.21115v1](http://arxiv.org/abs/2407.21115v1)|null|
+|**2024-07-30**|**Hydrogen Diffusion in Magnesium Using Machine Learning Potentials**|Andrea Angeletti et.al.|[2407.21088v1](http://arxiv.org/abs/2407.21088v1)|null|
 |**2024-07-30**|**Substrate stiffness modulates bacterial adhesion and diversity of adherent phenotypes across growth stages**|René Riedel et.al.|[2407.20979v1](http://arxiv.org/abs/2407.20979v1)|null|
 |**2024-07-30**|**Enhanced Interlocking in Granular Jamming Grippers through Hard and Soft Particle Mixtures**|Angel Santarossa et.al.|[2407.20948v1](http://arxiv.org/abs/2407.20948v1)|null|
 |**2024-07-30**|**Exceptional points and non-Hermitian skin effects under nonlinearity of eigenvalues**|Tsuneya Yoshida et.al.|[2407.20895v1](http://arxiv.org/abs/2407.20895v1)|null|
