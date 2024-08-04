@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Thermodynamics of random walking vortex loops in counterflowing superfluids**|Sergey K. Nemirovskii et.al.|[2408.00680v1](http://arxiv.org/abs/2408.00680v1)|null|
+|**2024-08-01**|**Induced smectic ordering and blue phase formation in mixtures of cyanobiphenyls and cholesterol esters**|Natalia A. Kasian et.al.|[2408.00650v1](http://arxiv.org/abs/2408.00650v1)|null|
+|**2024-08-01**|**Propagation of Enzyme-driven Active Fluctuations in Crowded Milieu**|Rik Chakraborty et.al.|[2408.00578v1](http://arxiv.org/abs/2408.00578v1)|null|
+|**2024-08-01**|**Line tension from dual-geometry sessile droplet measurements: Combining contact angle size dependence data for axisymmetric and cylindrical droplets to determine the line tension**|Dmitry V. Tatyanenko et.al.|[2408.00547v1](http://arxiv.org/abs/2408.00547v1)|null|
+|**2024-08-01**|**Plasmonic Brownian Ratchets for Directed Transport of Analytes**|Marciano Palma do Carmo et.al.|[2408.00515v1](http://arxiv.org/abs/2408.00515v1)|null|
+|**2024-08-01**|**Spatio-temporal patterns in Growing Bacterial Suspensions: Impact of Growth dynamics**|Pratikshya Jena et.al.|[2408.00403v1](http://arxiv.org/abs/2408.00403v1)|null|
+|**2024-08-01**|**Cybloids $-$ Creation and Control of Cybernetic Colloids**|Debasish Saha et.al.|[2408.00336v1](http://arxiv.org/abs/2408.00336v1)|null|
+|**2024-08-01**|**Discovery of a metallic room-temperature d-wave altermagnet KV2Se2O**|Bei Jiang et.al.|[2408.00320v1](http://arxiv.org/abs/2408.00320v1)|null|
+|**2024-08-01**|**Invariant Discovery of Features Across Multiple Length Scales: Applications in Microscopy and Autonomous Materials Characterization**|Aditya Raghavan et.al.|[2408.00229v1](http://arxiv.org/abs/2408.00229v1)|null|
+|**2024-07-31**|**Microphase Segregation in Polyelectrolyte Brushes**|Takashi Yokokura et.al.|[2408.00199v1](http://arxiv.org/abs/2408.00199v1)|null|
+|**2024-07-31**|**A dynamical mechanism rooted in the Lorenz system for giant negative and positive mobility of a memory-driven active particle**|Rahil N. Valani et.al.|[2408.00168v1](http://arxiv.org/abs/2408.00168v1)|null|
 |**2024-07-31**|**A concise 40 T pulse magnet for condensed matter experiments**|Akihiko Ikeda et.al.|[2407.21736v1](http://arxiv.org/abs/2407.21736v1)|null|
 |**2024-07-31**|**Molecular Simulations of Quantized Lamellar Thickening in Polyethylenes with Regularly Spaced Brominated Groups**|Kutlwano Gabana et.al.|[2407.21728v1](http://arxiv.org/abs/2407.21728v1)|null|
 |**2024-08-01**|**Microscopic model for aging of biocondensates**|Hugo Le Roy et.al.|[2407.21710v2](http://arxiv.org/abs/2407.21710v2)|null|
@@ -6330,6 +6341,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Tuning photostriction in (PbTiO $_{3}$)$_{n}$/(SrTiO$_{3}$)$_{m}$ superlattices via chemical composition: An $\textit{ab-initio}$ study**|Carmel Dansou et.al.|[2408.00105v1](http://arxiv.org/abs/2408.00105v1)|null|
+|**2024-07-31**|**Tailoring photostriction via superlattices engineering**|Carmel Dansou et.al.|[2408.00101v1](http://arxiv.org/abs/2408.00101v1)|null|
 |**2024-07-28**|**Non-equilibrium States and Interactions in the Topological Insulator and Topological Crystalline Insulator Phases of NaCd4As3**|Tika R Kafle et.al.|[2407.19404v1](http://arxiv.org/abs/2407.19404v1)|null|
 |**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
 |**2024-07-24**|**Coherent Phonons and Quasiparticle Renormalization in Semimetals from First Principles**|C. Emeis et.al.|[2407.17118v1](http://arxiv.org/abs/2407.17118v1)|null|
@@ -6838,6 +6851,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Coexistence of large anomalous Hall effect and topological magnetic skyrmions in a Weyl nodal ring ferromagnet Mn5Ge3**|Hang Li et.al.|[2408.00363v1](http://arxiv.org/abs/2408.00363v1)|null|
 |**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
 |**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836v1](http://arxiv.org/abs/2407.15836v1)|null|
 |**2024-07-19**|**Giant gate-controlled room temperature odd-parity magnetoresistance in magnetized bilayer graphene**|Divya Sahani et.al.|[2407.14071v1](http://arxiv.org/abs/2407.14071v1)|null|
@@ -7128,6 +7142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Evidence of electron interaction with an unidentified bosonic mode in superconductor CsCa $_2$Fe$_4$As$_4$F$_2$**|Peng Li et.al.|[2408.00469v1](http://arxiv.org/abs/2408.00469v1)|null|
 |**2024-07-30**|**Direct Observation and Analysis of Low-Energy Magnons with Raman Spectroscopy in Atomically Thin NiPS3**|Woongki Na et.al.|[2407.20480v1](http://arxiv.org/abs/2407.20480v1)|null|
 |**2024-07-25**|**Magnetic properties of a staggered $S=1$ chain with an alternating single-ion anisotropy direction**|S. Vaidya et.al.|[2407.17894v1](http://arxiv.org/abs/2407.17894v1)|null|
 |**2024-07-17**|**Helical Spin Dynamics in Commensurate Magnets: a Study on Brochantite, Cu $_4$SO$_4$(OH)$_6$**|S. E. Nikitin et.al.|[2407.12767v1](http://arxiv.org/abs/2407.12767v1)|null|
