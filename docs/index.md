@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations**|Emil Jackel et.al.|[2408.01407v1](http://arxiv.org/abs/2408.01407v1)|null|
+|**2024-08-02**|**Tailoring anisotropy in kirigami metamaterial skins with pop-up folding hinges**|Hamid Reza Tohidvand et.al.|[2408.01338v1](http://arxiv.org/abs/2408.01338v1)|null|
+|**2024-08-02**|**Effect of interleaflet friction on the dynamics of molecular rotors in lipid membranes**|Naomi Oppenheimer et.al.|[2408.01280v1](http://arxiv.org/abs/2408.01280v1)|null|
+|**2024-08-02**|**Kinetics of vapor-liquid transition of active matter system under quasi one-dimensional confinement**|Parameshwaran A et.al.|[2408.01195v1](http://arxiv.org/abs/2408.01195v1)|null|
+|**2024-08-02**|**Bosonic Holes in Quadratic Bosonic Systems**|Jia-Ming Hu et.al.|[2408.01059v1](http://arxiv.org/abs/2408.01059v1)|null|
+|**2024-08-02**|**Orientational order in liquid crystal surface induced by evaporation of water droplet**|Yusaku Abe et.al.|[2408.01053v1](http://arxiv.org/abs/2408.01053v1)|null|
+|**2024-08-02**|**Morse Theory and Meron Mediated Interactions Between Disclination Lines in Nematics**|Joseph Pollard et.al.|[2408.01032v1](http://arxiv.org/abs/2408.01032v1)|null|
+|**2024-08-02**|**Extreme-value analysis in nano-biological systems: Applications and Implications**|Kumiko Hayashi et.al.|[2408.01007v1](http://arxiv.org/abs/2408.01007v1)|null|
+|**2024-08-02**|**Instabilities in strongly shear-thinning viscoelastic flows through channels and tubes**|Ramkarn Patne et.al.|[2408.01004v1](http://arxiv.org/abs/2408.01004v1)|null|
+|**2024-08-01**|**Atomistic simulations of out-of-equilibrium quantum nuclear dynamics**|Francesco Libbi et.al.|[2408.00902v1](http://arxiv.org/abs/2408.00902v1)|null|
+|**2024-08-01**|**Classical Benchmarks for Variational Quantum Eigensolver Simulations of the Hubbard Model**|Antonios M. Alvertis et.al.|[2408.00836v1](http://arxiv.org/abs/2408.00836v1)|null|
 |**2024-08-01**|**Thermodynamics of random walking vortex loops in counterflowing superfluids**|Sergey K. Nemirovskii et.al.|[2408.00680v1](http://arxiv.org/abs/2408.00680v1)|null|
 |**2024-08-01**|**Induced smectic ordering and blue phase formation in mixtures of cyanobiphenyls and cholesterol esters**|Natalia A. Kasian et.al.|[2408.00650v1](http://arxiv.org/abs/2408.00650v1)|null|
 |**2024-08-01**|**Propagation of Enzyme-driven Active Fluctuations in Crowded Milieu**|Rik Chakraborty et.al.|[2408.00578v1](http://arxiv.org/abs/2408.00578v1)|null|
@@ -6851,6 +6862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Molecular Beam Epitaxy Growth and Doping Modulation of Topological Semimetal NiTe $_2$**|Liguo Zhang et.al.|[2408.01029v1](http://arxiv.org/abs/2408.01029v1)|null|
 |**2024-08-02**|**Coexistence of large anomalous Hall effect and topological magnetic skyrmions in a Weyl nodal ring ferromagnet Mn5Ge3**|Hang Li et.al.|[2408.00363v2](http://arxiv.org/abs/2408.00363v2)|null|
 |**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
 |**2024-07-22**|**Nonlinear Magnetoelectric Effect under Magnetic Octupole Order: Its Application to a $d$ -Wave Altermagnet and a Pyrochlore Lattice with All-In/All-Out Magnetic Order**|Jun Ōiké et.al.|[2407.15836v1](http://arxiv.org/abs/2407.15836v1)|null|
