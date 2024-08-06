@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Effective Viscosity of a Suspension of Hot Particles**|Osher Arbib et.al.|[2408.02579v1](http://arxiv.org/abs/2408.02579v1)|null|
+|**2024-08-05**|**MetaParticles: Computationally engineered nanomaterials with tunable and responsive properties**|Massimiliano Paesani et.al.|[2408.02564v1](http://arxiv.org/abs/2408.02564v1)|null|
+|**2024-08-05**|**Minimal actuation and control of a soft hydrogel swimmer from flutter instability**|Ariel Surya Boiardi et.al.|[2408.02560v1](http://arxiv.org/abs/2408.02560v1)|null|
+|**2024-08-05**|**Ultimately deformed double-network gels possess positive energetic elasticity**|Chika Imaoka et.al.|[2408.02523v1](http://arxiv.org/abs/2408.02523v1)|null|
+|**2024-08-05**|**Role of softness on transition temperatures for pNIPAM microgels**|Syamjith KS et.al.|[2408.02490v1](http://arxiv.org/abs/2408.02490v1)|null|
+|**2024-08-05**|**Simple and effective mechanical cloaking**|Suzanne M. Fielding et.al.|[2408.02323v1](http://arxiv.org/abs/2408.02323v1)|null|
+|**2024-08-05**|**Intermittent Run Motility of Bacteria in Gels Exhibits Power-Law Distributed Dwell Times**|Agniva Datta et.al.|[2408.02317v1](http://arxiv.org/abs/2408.02317v1)|null|
+|**2024-08-05**|**Extended Generator Coordinate Method: eGCM**|Aurel Bulgac et.al.|[2408.02173v1](http://arxiv.org/abs/2408.02173v1)|null|
+|**2024-08-04**|**Three-phase equilibria of hydrates from computer simulation. I. Finite-size effects in the methane hydrate**|S. Blazquez et.al.|[2408.02098v1](http://arxiv.org/abs/2408.02098v1)|null|
+|**2024-08-04**|**Three-phase equilibria of hydrates from computer simulation. II. Finite-size effects in the carbon dioxide hydrate**|J. Algaba et.al.|[2408.02069v1](http://arxiv.org/abs/2408.02069v1)|null|
+|**2024-08-04**|**Computational Self-Assembly of a Six-Fold Chiral Quasicrystal**|Nydia Roxana Varela-Rosales et.al.|[2408.01984v1](http://arxiv.org/abs/2408.01984v1)|null|
+|**2024-08-04**|**Design and Fabrication of Nano-Particles with Customized Properties using Self-Assembly of Block-Copolymers**|Changhuang Huang et.al.|[2408.01912v1](http://arxiv.org/abs/2408.01912v1)|null|
+|**2024-08-03**|**An evidence of pion condensation**|Wei Zhu et.al.|[2408.01879v1](http://arxiv.org/abs/2408.01879v1)|null|
+|**2024-08-03**|**Three-phase equilibria of hydrates from computer simulation. III. Effect of dispersive interactions in the methane and carbon dioxide hydrates**|J. Algaba et.al.|[2408.01819v1](http://arxiv.org/abs/2408.01819v1)|null|
+|**2024-08-03**|**Self-similarity in partial differential equations and critical phenomena: renormalization group theory for interfacial hydrodynamics**|Ikumi Yoshino et.al.|[2408.01793v1](http://arxiv.org/abs/2408.01793v1)|null|
+|**2024-08-02**|**First-principles investigation of the emergence of multiferroicity and skyrmions in CrI2**|Khimananda Acharya et.al.|[2408.01568v1](http://arxiv.org/abs/2408.01568v1)|null|
+|**2024-08-02**|**Gibbs Sampling gives Quantum Advantage at Constant Temperatures with $O(1)$ -Local Hamiltonians**|Joel Rajakumar et.al.|[2408.01516v1](http://arxiv.org/abs/2408.01516v1)|null|
+|**2024-08-02**|**Frustrated hopping from orbital decoration of a primitive two-dimensional lattice**|Aravind Devarakonda et.al.|[2408.01512v1](http://arxiv.org/abs/2408.01512v1)|null|
 |**2024-08-02**|**Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations**|Emil Jackel et.al.|[2408.01407v1](http://arxiv.org/abs/2408.01407v1)|null|
 |**2024-08-02**|**Tailoring anisotropy in kirigami metamaterial skins with pop-up folding hinges**|Hamid Reza Tohidvand et.al.|[2408.01338v1](http://arxiv.org/abs/2408.01338v1)|null|
 |**2024-08-02**|**Effect of interleaflet friction on the dynamics of molecular rotors in lipid membranes**|Naomi Oppenheimer et.al.|[2408.01280v1](http://arxiv.org/abs/2408.01280v1)|null|
@@ -6858,6 +6876,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Anomalous Hall effect in metallic collinear antiferromagnets with charge-density wave order**|Vladimir A. Zyuzin et.al.|[2408.02516v1](http://arxiv.org/abs/2408.02516v1)|null|
+|**2024-08-05**|**Above-room-temperature intrinsic ferromagnetism in ultrathin van der Waals crystal Fe $_{3+x}$GaTe$_2$**|Gaojie Zhang et.al.|[2408.02259v1](http://arxiv.org/abs/2408.02259v1)|null|
+|**2024-08-04**|**Switchable anomalous Hall effect by selective mirror symmetry breaking in a kagome magnet GdMn6Ge6**|Zicheng Tao et.al.|[2408.02030v1](http://arxiv.org/abs/2408.02030v1)|null|
 |**2024-08-02**|**Molecular Beam Epitaxy Growth and Doping Modulation of Topological Semimetal NiTe $_2$**|Liguo Zhang et.al.|[2408.01029v1](http://arxiv.org/abs/2408.01029v1)|null|
 |**2024-08-02**|**Coexistence of large anomalous Hall effect and topological magnetic skyrmions in a Weyl nodal ring ferromagnet Mn5Ge3**|Hang Li et.al.|[2408.00363v2](http://arxiv.org/abs/2408.00363v2)|null|
 |**2024-07-25**|**Lightwave-driven electrons in a Floquet topological insulator**|Tobias Weitz et.al.|[2407.17917v1](http://arxiv.org/abs/2407.17917v1)|null|
