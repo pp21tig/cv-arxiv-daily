@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Heat production in a stochastic system with nonlinear time-delayed feedback**|Robin A. Kopp et.al.|[2408.03316v1](http://arxiv.org/abs/2408.03316v1)|null|
+|**2024-08-06**|**Dissociation line and driving force for nucleation of the nitrogen hydrate from computer simulation. II. Effect of multiple occupancy**|Miguel J. Torrejón et.al.|[2408.03257v1](http://arxiv.org/abs/2408.03257v1)|null|
+|**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213v1](http://arxiv.org/abs/2408.03213v1)|null|
+|**2024-08-06**|**Controlling moving interfaces in solid state batteries**|Salem Mosleh et.al.|[2408.03175v1](http://arxiv.org/abs/2408.03175v1)|null|
+|**2024-08-06**|**Revealing the Berry phase under the tunneling barrier**|Lior Faeyrman et.al.|[2408.03105v1](http://arxiv.org/abs/2408.03105v1)|null|
+|**2024-08-06**|**Self-consistent theory of $2\times2$ pair density waves in kagome superconductors**|Meng Yao et.al.|[2408.03056v1](http://arxiv.org/abs/2408.03056v1)|null|
+|**2024-08-06**|**Templating Aggregation**|P. L. Krapivsky et.al.|[2408.02910v1](http://arxiv.org/abs/2408.02910v1)|null|
+|**2024-08-05**|**Spontaneous and Induced Oscillations in Confined Epithelia**|Toshi Parmar et.al.|[2408.02806v1](http://arxiv.org/abs/2408.02806v1)|null|
+|**2024-08-05**|**Phonon-Induced Exchange Gate Infidelities in Semiconducting Si-SiGe Spin Qubits**|Matthew Brooks et.al.|[2408.02742v1](http://arxiv.org/abs/2408.02742v1)|null|
+|**2024-08-05**|**Odd-parity effect and scale-dependent viscosity in atomic quantum gases**|Jeff Maki et.al.|[2408.02738v1](http://arxiv.org/abs/2408.02738v1)|null|
 |**2024-08-05**|**Effective Viscosity of a Suspension of Hot Particles**|Osher Arbib et.al.|[2408.02579v1](http://arxiv.org/abs/2408.02579v1)|null|
 |**2024-08-05**|**MetaParticles: Computationally engineered nanomaterials with tunable and responsive properties**|Massimiliano Paesani et.al.|[2408.02564v1](http://arxiv.org/abs/2408.02564v1)|null|
 |**2024-08-05**|**Minimal actuation and control of a soft hydrogel swimmer from flutter instability**|Ariel Surya Boiardi et.al.|[2408.02560v1](http://arxiv.org/abs/2408.02560v1)|null|
@@ -6370,6 +6380,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Chiral Floquet Engineering on Topological Fermions in Chiral Crystals**|Benshu Fan et.al.|[2408.03115v1](http://arxiv.org/abs/2408.03115v1)|null|
+|**2024-08-06**|**On Ambient-light-induced intermolecular Coulombic decay in unbound pyridine monomers**|Shaivi Kesari et.al.|[2408.02981v1](http://arxiv.org/abs/2408.02981v1)|null|
 |**2024-07-31**|**Tuning photostriction in (PbTiO $_{3}$)$_{n}$/(SrTiO$_{3}$)$_{m}$ superlattices via chemical composition: An $\textit{ab-initio}$ study**|Carmel Dansou et.al.|[2408.00105v1](http://arxiv.org/abs/2408.00105v1)|null|
 |**2024-07-31**|**Tailoring photostriction via superlattices engineering**|Carmel Dansou et.al.|[2408.00101v1](http://arxiv.org/abs/2408.00101v1)|null|
 |**2024-07-28**|**Non-equilibrium States and Interactions in the Topological Insulator and Topological Crystalline Insulator Phases of NaCd4As3**|Tika R Kafle et.al.|[2407.19404v1](http://arxiv.org/abs/2407.19404v1)|null|
@@ -6880,6 +6892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Topological Hall-like anomalies from twisted magnetic exchange spring in Nd0.6Sr0.4MnO3 / SrRuO3 heterostructures**|Mrinaleni R S et.al.|[2408.03162v1](http://arxiv.org/abs/2408.03162v1)|null|
 |**2024-08-05**|**Anomalous Hall effect in metallic collinear antiferromagnets with charge-density wave order**|Vladimir A. Zyuzin et.al.|[2408.02516v1](http://arxiv.org/abs/2408.02516v1)|null|
 |**2024-08-05**|**Above-room-temperature intrinsic ferromagnetism in ultrathin van der Waals crystal Fe $_{3+x}$GaTe$_2$**|Gaojie Zhang et.al.|[2408.02259v1](http://arxiv.org/abs/2408.02259v1)|null|
 |**2024-08-06**|**Switchable anomalous Hall effect by selective mirror symmetry breaking in a kagome magnet GdMn6Ge6**|Zicheng Tao et.al.|[2408.02030v2](http://arxiv.org/abs/2408.02030v2)|null|
