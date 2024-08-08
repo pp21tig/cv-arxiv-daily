@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Simplifying FFT-based methods for mechanics with automatic differentiation**|Mohit Pundir et.al.|[2408.03804v1](http://arxiv.org/abs/2408.03804v1)|null|
+|**2024-08-07**|**Fundamental physical constants set the observability and operation of phase and other transitions and increase entropy**|K. Trachenko et.al.|[2408.03773v1](http://arxiv.org/abs/2408.03773v1)|null|
+|**2024-08-07**|**Mechanics of poking a cyst**|Shiheng Zhao et.al.|[2408.03716v1](http://arxiv.org/abs/2408.03716v1)|null|
+|**2024-08-07**|**Resolving the kinetics of an ensemble of muscle myosin motors via a temperature-dependent fitting procedure**|Valentina Buonfiglio et.al.|[2408.03676v1](http://arxiv.org/abs/2408.03676v1)|null|
+|**2024-08-07**|**Molecular dynamics characterization of the free and encapsidated RNA2 of CCMV with the oxRNA model**|Giovanni Mattiotti et.al.|[2408.03662v1](http://arxiv.org/abs/2408.03662v1)|null|
+|**2024-08-06**|**Complex Dynamics in Reaction-Phase Separation Systems**|Dino Osmanovic et.al.|[2408.03458v1](http://arxiv.org/abs/2408.03458v1)|null|
+|**2024-08-06**|**Ultra-soft liquid-ferrofluid interfaces**|Arvind Arun Dev et.al.|[2408.03392v1](http://arxiv.org/abs/2408.03392v1)|null|
+|**2024-08-06**|**Carlo.jl: A general framework for Monte Carlo simulations in Julia**|Lukas Weber et.al.|[2408.03386v1](http://arxiv.org/abs/2408.03386v1)|null|
 |**2024-08-06**|**Heat production in a stochastic system with nonlinear time-delayed feedback**|Robin A. Kopp et.al.|[2408.03316v1](http://arxiv.org/abs/2408.03316v1)|null|
 |**2024-08-06**|**Dissociation line and driving force for nucleation of the nitrogen hydrate from computer simulation. II. Effect of multiple occupancy**|Miguel J. Torrejón et.al.|[2408.03257v1](http://arxiv.org/abs/2408.03257v1)|null|
 |**2024-08-06**|**relentless: Transparent, reproducible molecular dynamics simulations for optimization**|Adithya N Sreenivasan et.al.|[2408.03213v1](http://arxiv.org/abs/2408.03213v1)|null|
@@ -7184,6 +7192,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Paramagnetic fluctuations of the magnetocaloric compound MnFe $_4$Si$_3$**|N. Biniskos et.al.|[2408.03808v1](http://arxiv.org/abs/2408.03808v1)|null|
 |**2024-08-01**|**Evidence of electron interaction with an unidentified bosonic mode in superconductor CsCa $_2$Fe$_4$As$_4$F$_2$**|Peng Li et.al.|[2408.00469v1](http://arxiv.org/abs/2408.00469v1)|null|
 |**2024-07-30**|**Direct Observation and Analysis of Low-Energy Magnons with Raman Spectroscopy in Atomically Thin NiPS3**|Woongki Na et.al.|[2407.20480v1](http://arxiv.org/abs/2407.20480v1)|null|
 |**2024-07-25**|**Magnetic properties of a staggered $S=1$ chain with an alternating single-ion anisotropy direction**|S. Vaidya et.al.|[2407.17894v1](http://arxiv.org/abs/2407.17894v1)|null|
