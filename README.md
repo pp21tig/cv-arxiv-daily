@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**A non-Hermitian loop for a quantum measurement**|Luis E. F. Foa Torres et.al.|[2408.04629v1](http://arxiv.org/abs/2408.04629v1)|null|
+|**2024-08-08**|**Coarse-grained models for phase separation in DNA-based fluids**|Soumen De Karmakar et.al.|[2408.04435v1](http://arxiv.org/abs/2408.04435v1)|null|
+|**2024-08-08**|**Surface potentials of conductors in electrolyte solutions**|Olga I. Vinogradova et.al.|[2408.04434v1](http://arxiv.org/abs/2408.04434v1)|null|
+|**2024-08-08**|**Hierarchical materials with interconnected pores from capillary suspensions for bone tissue engineering**|Souhaila Nider et.al.|[2408.04337v1](http://arxiv.org/abs/2408.04337v1)|null|
+|**2024-08-08**|**Modeling the Influence of Solvation on the Electrochemical Double Layer of Salt / Solvent Mixtures**|Constantin Schwetlick et.al.|[2408.04314v1](http://arxiv.org/abs/2408.04314v1)|null|
+|**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
+|**2024-08-08**|**Molecular dynamics simulations of head-on low-velocity collisions between particles**|Yuki Yoshida et.al.|[2408.04164v1](http://arxiv.org/abs/2408.04164v1)|null|
 |**2024-08-07**|**Simplifying FFT-based methods for mechanics with automatic differentiation**|Mohit Pundir et.al.|[2408.03804v1](http://arxiv.org/abs/2408.03804v1)|null|
 |**2024-08-07**|**Fundamental physical constants set the observability and operation of phase and other transitions and increase entropy**|K. Trachenko et.al.|[2408.03773v1](http://arxiv.org/abs/2408.03773v1)|null|
 |**2024-08-07**|**Mechanics of poking a cyst**|Shiheng Zhao et.al.|[2408.03716v1](http://arxiv.org/abs/2408.03716v1)|null|
@@ -6706,6 +6713,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
 |**2024-07-30**|**Intrinsic Second Order Spin Current**|Zhi-Fan Zhang et.al.|[2407.20752v1](http://arxiv.org/abs/2407.20752v1)|null|
 |**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
 |**2024-07-10**|**Large spin-orbit torque in a-plane $α$-Fe$_{2}$O$_{3}$ /Pt bilayers**|Igor Lyalin et.al.|[2407.07731v1](http://arxiv.org/abs/2407.07731v1)|null|
@@ -6896,6 +6904,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Unconventional Hall effects in a quasi-kagome Kondo Weyl semimetal candidate Ce $_3$TiSb$_5$**|Xiaobo He et.al.|[2408.04438v1](http://arxiv.org/abs/2408.04438v1)|null|
 |**2024-08-06**|**Topological Hall-like anomalies from twisted magnetic exchange spring in Nd0.6Sr0.4MnO3 / SrRuO3 heterostructures**|Mrinaleni R S et.al.|[2408.03162v1](http://arxiv.org/abs/2408.03162v1)|null|
 |**2024-08-05**|**Anomalous Hall effect in metallic collinear antiferromagnets with charge-density wave order**|Vladimir A. Zyuzin et.al.|[2408.02516v1](http://arxiv.org/abs/2408.02516v1)|null|
 |**2024-08-05**|**Above-room-temperature intrinsic ferromagnetism in ultrathin van der Waals crystal Fe $_{3+x}$GaTe$_2$**|Gaojie Zhang et.al.|[2408.02259v1](http://arxiv.org/abs/2408.02259v1)|null|
