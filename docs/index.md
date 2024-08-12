@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Evaluating fracture energy predictions using phase-field and gradient-enhanced damage models for elastomers**|S. Mohammad Mousavi et.al.|[2408.05162v1](http://arxiv.org/abs/2408.05162v1)|null|
+|**2024-08-09**|**Viscoelastic Worthington jets \& droplets produced by bursting bubbles**|Ayush K. Dixit et.al.|[2408.05089v1](http://arxiv.org/abs/2408.05089v1)|null|
+|**2024-08-09**|**A patchy-particle 3-dimensional octagonal quasicrystal**|Akie Kowaguchi et.al.|[2408.05003v1](http://arxiv.org/abs/2408.05003v1)|null|
+|**2024-08-09**|**Receding contact line dynamics on superhydrophobic surfaces**|Lorenzo Betti et.al.|[2408.04992v1](http://arxiv.org/abs/2408.04992v1)|null|
+|**2024-08-08**|**Eigenvector Localization and Universal Regime Transitions in Multiplex Networks: A Perturbative Approach**|Joan Hernàndez Tey et.al.|[2408.04784v1](http://arxiv.org/abs/2408.04784v1)|null|
+|**2024-08-08**|**Modeling Athermal Phonons in Novel Materials using the G4CMP Simulation Toolkit**|Israel Hernandez et.al.|[2408.04732v1](http://arxiv.org/abs/2408.04732v1)|null|
+|**2024-08-08**|**Analytical model for the motion and interaction of two-dimensional active nematic defects**|Cody D. Schimming et.al.|[2408.04706v1](http://arxiv.org/abs/2408.04706v1)|null|
 |**2024-08-08**|**A non-Hermitian loop for a quantum measurement**|Luis E. F. Foa Torres et.al.|[2408.04629v1](http://arxiv.org/abs/2408.04629v1)|null|
 |**2024-08-08**|**Coarse-grained models for phase separation in DNA-based fluids**|Soumen De Karmakar et.al.|[2408.04435v1](http://arxiv.org/abs/2408.04435v1)|null|
 |**2024-08-08**|**Surface potentials of conductors in electrolyte solutions**|Olga I. Vinogradova et.al.|[2408.04434v1](http://arxiv.org/abs/2408.04434v1)|null|
@@ -6717,6 +6724,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Current-induced spin polarisation in Rashba-Dresselhaus systems under different point groups**|Akash Dey et.al.|[2408.05188v1](http://arxiv.org/abs/2408.05188v1)|null|
 |**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
 |**2024-07-30**|**Intrinsic Second Order Spin Current**|Zhi-Fan Zhang et.al.|[2407.20752v1](http://arxiv.org/abs/2407.20752v1)|null|
 |**2024-07-23**|**Light-induced quantum tunnelling current in graphene**|Mohamed Sennary et.al.|[2407.16810v1](http://arxiv.org/abs/2407.16810v1)|null|
@@ -6908,6 +6916,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field**|Ke Huang et.al.|[2408.05139v1](http://arxiv.org/abs/2408.05139v1)|null|
 |**2024-08-08**|**Unconventional Hall effects in a quasi-kagome Kondo Weyl semimetal candidate Ce $_3$TiSb$_5$**|Xiaobo He et.al.|[2408.04438v1](http://arxiv.org/abs/2408.04438v1)|null|
 |**2024-08-06**|**Topological Hall-like anomalies from twisted magnetic exchange spring in Nd0.6Sr0.4MnO3 / SrRuO3 heterostructures**|Mrinaleni R S et.al.|[2408.03162v1](http://arxiv.org/abs/2408.03162v1)|null|
 |**2024-08-05**|**Anomalous Hall effect in metallic collinear antiferromagnets with charge-density wave order**|Vladimir A. Zyuzin et.al.|[2408.02516v1](http://arxiv.org/abs/2408.02516v1)|null|
