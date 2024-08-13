@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Spreading of graphene oxide suspensions droplets on smooth surfaces**|Jennifer Quirke et.al.|[2408.06290v1](http://arxiv.org/abs/2408.06290v1)|null|
+|**2024-08-12**|**Enhanced stability and chaotic condensates in multi-species non-reciprocal mixtures**|Laya Parkavousi et.al.|[2408.06242v1](http://arxiv.org/abs/2408.06242v1)|null|
+|**2024-08-12**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
+|**2024-08-12**|**Motility-induced crystallization and rotating crystallites**|Max Philipp Holl et.al.|[2408.06114v1](http://arxiv.org/abs/2408.06114v1)|null|
+|**2024-08-12**|**Inflation rules for a chiral pentagonal quasiperiodic tiling of stars and hexes**|Viacheslav A. Chizhikov et.al.|[2408.06111v1](http://arxiv.org/abs/2408.06111v1)|null|
+|**2024-08-12**|**Effective and efficient modeling of the hydrodynamics for bacterial flagella**|Baopi Liu et.al.|[2408.06093v1](http://arxiv.org/abs/2408.06093v1)|null|
+|**2024-08-12**|**Graph-Based Feature Engineering to Predict the Dynamical Properties of Condensed Matter**|An Wang et.al.|[2408.06016v1](http://arxiv.org/abs/2408.06016v1)|null|
+|**2024-08-12**|**Kinetoplast DNA: a polymer physicist's Olympic dream**|Davide Michieletto et.al.|[2408.05978v1](http://arxiv.org/abs/2408.05978v1)|null|
+|**2024-08-11**|**Vacuum polarization at the tip of a water drop**|Rouslan Krechetnikov et.al.|[2408.05833v1](http://arxiv.org/abs/2408.05833v1)|null|
+|**2024-08-11**|**Dynamic hysteresis of an oscillatory contact line**|Jiaxing Shen et.al.|[2408.05796v1](http://arxiv.org/abs/2408.05796v1)|null|
+|**2024-08-11**|**Nucleation and phase transition of decagonal quasicrystals**|Tiejun Zhou et.al.|[2408.05753v1](http://arxiv.org/abs/2408.05753v1)|null|
+|**2024-08-10**|**Complexity of two-level systems**|Imre Varga et.al.|[2408.05557v1](http://arxiv.org/abs/2408.05557v1)|null|
+|**2024-08-10**|**Glassy Dynamics from First-Principles Simulations**|Florian Pabst et.al.|[2408.05528v1](http://arxiv.org/abs/2408.05528v1)|null|
+|**2024-08-10**|**From phonons to domain walls, the central peak and critical slowing down**|Ekhard K. H. Salje et.al.|[2408.05521v1](http://arxiv.org/abs/2408.05521v1)|null|
+|**2024-08-10**|**Non-nematicity of the filamentary phase in systems of hard minor circular arcs**|Juan Pedro Ramírez González et.al.|[2408.05471v1](http://arxiv.org/abs/2408.05471v1)|null|
+|**2024-08-10**|**On how to determine surface roughness power spectra**|N. Rodriguez et.al.|[2408.05447v1](http://arxiv.org/abs/2408.05447v1)|null|
+|**2024-08-10**|**Double-eigenvalue bifurcation and multistability in serpentine strips with tunable buckling behaviors**|Qiyao Shi et.al.|[2408.05415v1](http://arxiv.org/abs/2408.05415v1)|null|
+|**2024-08-09**|**Piecewise linear constitutive relations for stretch-limited elastic strings**|Roger Bustamante et.al.|[2408.05309v1](http://arxiv.org/abs/2408.05309v1)|null|
 |**2024-08-09**|**Evaluating fracture energy predictions using phase-field and gradient-enhanced damage models for elastomers**|S. Mohammad Mousavi et.al.|[2408.05162v1](http://arxiv.org/abs/2408.05162v1)|null|
 |**2024-08-09**|**Viscoelastic Worthington jets \& droplets produced by bursting bubbles**|Ayush K. Dixit et.al.|[2408.05089v1](http://arxiv.org/abs/2408.05089v1)|null|
 |**2024-08-09**|**A patchy-particle 3-dimensional octagonal quasicrystal**|Akie Kowaguchi et.al.|[2408.05003v1](http://arxiv.org/abs/2408.05003v1)|null|
@@ -6402,6 +6420,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256v1](http://arxiv.org/abs/2408.06256v1)|null|
+|**2024-08-10**|**Experimental observation of relativistic field-derivative torque in nonlinear THz response of magnetization dynamics**|Arpita Dutta et.al.|[2408.05510v1](http://arxiv.org/abs/2408.05510v1)|null|
+|**2024-08-09**|**Interlayer Dzyaloshinskii-Moriya interactions induced via non-linear phononics in bilayer van der Waals materials**|Ze-Xun Lin et.al.|[2408.05335v1](http://arxiv.org/abs/2408.05335v1)|null|
 |**2024-08-06**|**Chiral Floquet Engineering on Topological Fermions in Chiral Crystals**|Benshu Fan et.al.|[2408.03115v1](http://arxiv.org/abs/2408.03115v1)|null|
 |**2024-08-06**|**On Ambient-light-induced intermolecular Coulombic decay in unbound pyridine monomers**|Shaivi Kesari et.al.|[2408.02981v1](http://arxiv.org/abs/2408.02981v1)|null|
 |**2024-07-31**|**Tuning photostriction in (PbTiO $_{3}$)$_{n}$/(SrTiO$_{3}$)$_{m}$ superlattices via chemical composition: An $\textit{ab-initio}$ study**|Carmel Dansou et.al.|[2408.00105v1](http://arxiv.org/abs/2408.00105v1)|null|
@@ -6916,6 +6937,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**A seamless graphene spin valve based on proximity to van der Waals magnet Cr $_2$Ge$_2$Te$_6$**|Haozhe Yang et.al.|[2408.05759v1](http://arxiv.org/abs/2408.05759v1)|null|
 |**2024-08-09**|**Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field**|Ke Huang et.al.|[2408.05139v1](http://arxiv.org/abs/2408.05139v1)|null|
 |**2024-08-08**|**Unconventional Hall effects in a quasi-kagome Kondo Weyl semimetal candidate Ce $_3$TiSb$_5$**|Xiaobo He et.al.|[2408.04438v1](http://arxiv.org/abs/2408.04438v1)|null|
 |**2024-08-06**|**Topological Hall-like anomalies from twisted magnetic exchange spring in Nd0.6Sr0.4MnO3 / SrRuO3 heterostructures**|Mrinaleni R S et.al.|[2408.03162v1](http://arxiv.org/abs/2408.03162v1)|null|
@@ -7214,6 +7236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Spin dynamics in itinerant antiferromagnet ${\rm\bf SrCr_2As_2}$**|Zhenhua Ning et.al.|[2408.05583v1](http://arxiv.org/abs/2408.05583v1)|null|
 |**2024-08-07**|**Paramagnetic fluctuations of the magnetocaloric compound MnFe $_4$Si$_3$**|N. Biniskos et.al.|[2408.03808v1](http://arxiv.org/abs/2408.03808v1)|null|
 |**2024-08-01**|**Evidence of electron interaction with an unidentified bosonic mode in superconductor CsCa $_2$Fe$_4$As$_4$F$_2$**|Peng Li et.al.|[2408.00469v1](http://arxiv.org/abs/2408.00469v1)|null|
 |**2024-07-30**|**Direct Observation and Analysis of Low-Energy Magnons with Raman Spectroscopy in Atomically Thin NiPS3**|Woongki Na et.al.|[2407.20480v1](http://arxiv.org/abs/2407.20480v1)|null|
