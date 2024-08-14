@@ -1102,9 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Yielding in colloidal gels: from local structure to meso-scale strand breakage and macroscopic failure**|Himangsu Bhaumik et.al.|[2408.07051v1](http://arxiv.org/abs/2408.07051v1)|null|
+|**2024-08-13**|**Impact of evanescent scattering modes and finite dispersion in superconducting junctions**|Daniel Kruti et.al.|[2408.07035v1](http://arxiv.org/abs/2408.07035v1)|null|
+|**2024-08-13**|**Nonequilibrium control of kagome metals**|Francesco Grandi et.al.|[2408.06953v1](http://arxiv.org/abs/2408.06953v1)|null|
+|**2024-08-13**|**The Onset of Intermittency in Active Turbulence**|Kolluru Venkata Kiran et.al.|[2408.06950v1](http://arxiv.org/abs/2408.06950v1)|null|
+|**2024-08-13**|**Simple fluctuations in simple glass formers**|Corentin C. L. Laudicina et.al.|[2408.06933v1](http://arxiv.org/abs/2408.06933v1)|null|
+|**2024-08-13**|**In pursuit of the tetratic phase in hard rectangles**|Denis Dertli et.al.|[2408.06889v1](http://arxiv.org/abs/2408.06889v1)|null|
+|**2024-08-13**|**Density-dependent flow generation in active cytoskeletal fluids**|Tomoka Kashiwabara et.al.|[2408.06879v1](http://arxiv.org/abs/2408.06879v1)|null|
+|**2024-08-13**|**Observation of anomalous classical-to-quantum transitions in many-body systems**|Chenglong You et.al.|[2408.06538v1](http://arxiv.org/abs/2408.06538v1)|null|
+|**2024-08-12**|**Dynamics of polymers in coarse-grained nematic solvents**|Zahra Valei et.al.|[2408.06533v1](http://arxiv.org/abs/2408.06533v1)|null|
 |**2024-08-12**|**Spreading of graphene oxide suspensions droplets on smooth surfaces**|Jennifer Quirke et.al.|[2408.06290v1](http://arxiv.org/abs/2408.06290v1)|null|
 |**2024-08-13**|**Enhanced stability and chaotic condensates in multi-species non-reciprocal mixtures**|Laya Parkavousi et.al.|[2408.06242v2](http://arxiv.org/abs/2408.06242v2)|null|
 |**2024-08-12**|**Graph-based Descriptors for Condensed Matter**|An Wang et.al.|[2408.06156v1](http://arxiv.org/abs/2408.06156v1)|null|
+|**2024-08-12**|**Thermal Stoner-Wohlfarth Model for Magnetodynamics of Single Domain Nanoparticles: Implementation and Validation**|Deniz Mostarac et.al.|[2408.06136v1](http://arxiv.org/abs/2408.06136v1)|null|
 |**2024-08-12**|**Motility-induced crystallization and rotating crystallites**|Max Philipp Holl et.al.|[2408.06114v1](http://arxiv.org/abs/2408.06114v1)|null|
 |**2024-08-12**|**Inflation rules for a chiral pentagonal quasiperiodic tiling of stars and hexes**|Viacheslav A. Chizhikov et.al.|[2408.06111v1](http://arxiv.org/abs/2408.06111v1)|null|
 |**2024-08-13**|**Effective and efficient modeling of the hydrodynamics for bacterial flagella**|Baopi Liu et.al.|[2408.06093v2](http://arxiv.org/abs/2408.06093v2)|null|
