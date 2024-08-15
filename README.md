@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Graph polyhedral divisions in growing cell aggregates**|Urban Železnik et.al.|[2408.07551v1](http://arxiv.org/abs/2408.07551v1)|null|
+|**2024-08-14**|**Work and Activation in a Nematic Polymer Network Ribbon**|H. Singh et.al.|[2408.07502v1](http://arxiv.org/abs/2408.07502v1)|null|
+|**2024-08-14**|**Soliton radiation and role of the energy dissipation in soliton dynamics in an oscillating magnetic field**|Larissa Brizhik et.al.|[2408.07491v1](http://arxiv.org/abs/2408.07491v1)|null|
+|**2024-08-14**|**Predictions of the interfacial free energy along the coexistence line from single-state calculations**|Ignacio Sanchez-Burgos et.al.|[2408.07469v1](http://arxiv.org/abs/2408.07469v1)|null|
+|**2024-08-14**|**Displacement correlations in a two-dimensional colloidal liquid and their relationship with shear strain correlations**|Takeshi Ooshida et.al.|[2408.07458v1](http://arxiv.org/abs/2408.07458v1)|null|
+|**2024-08-14**|**Polymeric Properties of Higher-Order G-Quadruplex Telomeric Structures: Effects of Chemically Inert Crowders**|Deniz Mostarac et.al.|[2408.07415v1](http://arxiv.org/abs/2408.07415v1)|null|
+|**2024-08-14**|**Nematic and smectic phases with proper ferroelectric order**|Grant J. Strachan et.al.|[2408.07381v1](http://arxiv.org/abs/2408.07381v1)|null|
+|**2024-08-14**|**Visualizing $p$ -orbital texture in the charge-density-wave state of CeSbTe**|Xinglu Que et.al.|[2408.07351v1](http://arxiv.org/abs/2408.07351v1)|null|
+|**2024-08-14**|**Enabling microrobotic chemotaxis via reset-free hierarchical reinforcement learning**|Tongzhao Xiong et.al.|[2408.07346v1](http://arxiv.org/abs/2408.07346v1)|null|
+|**2024-08-14**|**Competing addition processes give distinct growth regimes in the assembly of 1D filaments**|Sk Ashif Akram et.al.|[2408.07257v1](http://arxiv.org/abs/2408.07257v1)|null|
 |**2024-08-13**|**Yielding in colloidal gels: from local structure to meso-scale strand breakage and macroscopic failure**|Himangsu Bhaumik et.al.|[2408.07051v1](http://arxiv.org/abs/2408.07051v1)|null|
 |**2024-08-13**|**Impact of evanescent scattering modes and finite dispersion in superconducting junctions**|Daniel Kruti et.al.|[2408.07035v1](http://arxiv.org/abs/2408.07035v1)|null|
 |**2024-08-13**|**Nonequilibrium control of kagome metals**|Francesco Grandi et.al.|[2408.06953v1](http://arxiv.org/abs/2408.06953v1)|null|
@@ -6751,6 +6761,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Kinetomagnetism of chirality and its applications**|Sang-Wook Cheongand Fei-Ting Huang et.al.|[2408.07179v1](http://arxiv.org/abs/2408.07179v1)|null|
 |**2024-08-09**|**Current-induced spin polarisation in Rashba-Dresselhaus systems under different point groups**|Akash Dey et.al.|[2408.05188v1](http://arxiv.org/abs/2408.05188v1)|null|
 |**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
 |**2024-07-30**|**Intrinsic Second Order Spin Current**|Zhi-Fan Zhang et.al.|[2407.20752v1](http://arxiv.org/abs/2407.20752v1)|null|
