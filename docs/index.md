@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Gauge-invariant optical selection rules for excitons**|Tharindu Fernando et.al.|[2408.08311v1](http://arxiv.org/abs/2408.08311v1)|null|
+|**2024-08-15**|**Defects Enhance Stability in 12-fold Symmetric Soft-Matter Quasicrystals**|Alptuğ Ulugöl et.al.|[2408.08168v1](http://arxiv.org/abs/2408.08168v1)|null|
+|**2024-08-15**|**Structural Diversity in Condensed Matter: A General Characterization of Crystals, Amorphous Solids and the Structures Between**|Yueran Wang et.al.|[2408.08154v1](http://arxiv.org/abs/2408.08154v1)|null|
+|**2024-08-15**|**Are crumpled sheets marginally stable?**|Dor Shohat et.al.|[2408.08030v1](http://arxiv.org/abs/2408.08030v1)|null|
+|**2024-08-15**|**The bulk-edge correspondence for curved interfaces**|Alexis Drouot et.al.|[2408.07950v1](http://arxiv.org/abs/2408.07950v1)|null|
+|**2024-08-15**|**Non-electrostatic interactions as random fields in charged liquids**|Li Wan et.al.|[2408.07940v1](http://arxiv.org/abs/2408.07940v1)|null|
+|**2024-08-15**|**Microscopic origin of liquid viscosity from unstable localized modes**|Long-Zhou Huang et.al.|[2408.07937v1](http://arxiv.org/abs/2408.07937v1)|null|
+|**2024-08-15**|**Applications of aligned nanofiber for tissue engineering**|Gayatri Patel et.al.|[2408.07909v1](http://arxiv.org/abs/2408.07909v1)|null|
+|**2024-08-15**|**Active Liquid-Liquid Phase-Separation in a Confining Environment**|Chen Lin et.al.|[2408.07876v1](http://arxiv.org/abs/2408.07876v1)|null|
 |**2024-08-14**|**Graph polyhedral divisions in growing cell aggregates**|Urban Železnik et.al.|[2408.07551v1](http://arxiv.org/abs/2408.07551v1)|null|
 |**2024-08-14**|**Work and Activation in a Nematic Polymer Network Ribbon**|H. Singh et.al.|[2408.07502v1](http://arxiv.org/abs/2408.07502v1)|null|
 |**2024-08-14**|**Soliton radiation and role of the energy dissipation in soliton dynamics in an oscillating magnetic field**|Larissa Brizhik et.al.|[2408.07491v1](http://arxiv.org/abs/2408.07491v1)|null|
