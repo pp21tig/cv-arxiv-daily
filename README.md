@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Kinematics of degree-4 rigid origami vertices: Lorentz transformations, fold-angle multipliers, and rigid-foldable polygon**|Yucai Hu et.al.|[2408.08816v1](http://arxiv.org/abs/2408.08816v1)|null|
+|**2024-08-16**|**Early-time wetting kinetics in surface-directed spinodal decomposition for off-critical quenches: A molecular dynamics study**|Syed Shuja Hasan Zaidi et.al.|[2408.08800v1](http://arxiv.org/abs/2408.08800v1)|null|
+|**2024-08-16**|**A soft-clamped topological waveguide for phonons**|Xiang Xi et.al.|[2408.08717v1](http://arxiv.org/abs/2408.08717v1)|null|
+|**2024-08-16**|**Observation of strong phonon-phonon coupling in one-dimensional van der Waals crystals**|Shaoqi Sun et.al.|[2408.08596v1](http://arxiv.org/abs/2408.08596v1)|null|
+|**2024-08-16**|**In-situ tunneling control in photonic potentials by Rashba-Dresselhaus spin-orbit coupling**|Rafał Mirek et.al.|[2408.08582v1](http://arxiv.org/abs/2408.08582v1)|null|
+|**2024-08-16**|**Mechanistic Modeling of Lipid Nanoparticle Formation for the Delivery of Nucleic Acid Therapeutics**|Pavan K. Inguva et.al.|[2408.08577v1](http://arxiv.org/abs/2408.08577v1)|null|
+|**2024-08-16**|**Quantitative Interpretation of Simulated Polymer Mean-Square Displacements**|George D. J. Phillies et.al.|[2408.08480v1](http://arxiv.org/abs/2408.08480v1)|null|
+|**2024-08-15**|**The Joint Solvation Interaction**|Ali Hassanali et.al.|[2408.08419v1](http://arxiv.org/abs/2408.08419v1)|null|
+|**2024-08-15**|**You Have to Grow Wefts to Fold Them**|Lauren Niu et.al.|[2408.08409v1](http://arxiv.org/abs/2408.08409v1)|null|
+|**2024-08-15**|**A controlled-squeeze gate in superconducting quantum circuits**|Nicolás F. Del Grosso et.al.|[2408.08404v1](http://arxiv.org/abs/2408.08404v1)|null|
+|**2024-08-15**|**Krylov Subspace Methods for Quantum Dynamics with Time-Dependent Generators**|Kazutaka Takahashi et.al.|[2408.08383v1](http://arxiv.org/abs/2408.08383v1)|null|
 |**2024-08-15**|**Gauge-invariant optical selection rules for excitons**|Tharindu Fernando et.al.|[2408.08311v1](http://arxiv.org/abs/2408.08311v1)|null|
 |**2024-08-15**|**Defects Enhance Stability in 12-fold Symmetric Soft-Matter Quasicrystals**|Alptuğ Ulugöl et.al.|[2408.08168v1](http://arxiv.org/abs/2408.08168v1)|null|
 |**2024-08-15**|**Structural Diversity in Condensed Matter: A General Characterization of Crystals, Amorphous Solids and the Structures Between**|Yueran Wang et.al.|[2408.08154v1](http://arxiv.org/abs/2408.08154v1)|null|
@@ -6963,6 +6974,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Multipolar Anisotropy in Anomalous Hall Effect from Spin-Group Symmetry Breaking**|Zheng Liu et.al.|[2408.08810v1](http://arxiv.org/abs/2408.08810v1)|null|
 |**2024-08-11**|**A seamless graphene spin valve based on proximity to van der Waals magnet Cr $_2$Ge$_2$Te$_6$**|Haozhe Yang et.al.|[2408.05759v1](http://arxiv.org/abs/2408.05759v1)|null|
 |**2024-08-09**|**Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field**|Ke Huang et.al.|[2408.05139v1](http://arxiv.org/abs/2408.05139v1)|null|
 |**2024-08-08**|**Unconventional Hall effects in a quasi-kagome Kondo Weyl semimetal candidate Ce $_3$TiSb$_5$**|Xiaobo He et.al.|[2408.04438v1](http://arxiv.org/abs/2408.04438v1)|null|
