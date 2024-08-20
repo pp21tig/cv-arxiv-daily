@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Shape Evolution of Fluid Deformable Surfaces under Active Geometric Forces**|Maik Porrmann et.al.|[2408.09970v1](http://arxiv.org/abs/2408.09970v1)|null|
+|**2024-08-19**|**On the origins of reverse Janssen effect**|Srujal Shah et.al.|[2408.09927v1](http://arxiv.org/abs/2408.09927v1)|null|
+|**2024-08-19**|**Boltzmann approach to collective motion via non-local visual interaction**|Susumu Ito et.al.|[2408.09917v1](http://arxiv.org/abs/2408.09917v1)|null|
+|**2024-08-19**|**Effect of the background flow on the motility induced phase separation**|Soni D. Prajapati et.al.|[2408.09763v1](http://arxiv.org/abs/2408.09763v1)|null|
+|**2024-08-19**|**Room-Temperature Multiferroic Skyrmions in LiNbO3 with enhancement in electric-optical property**|Yalong Yu et.al.|[2408.09738v1](http://arxiv.org/abs/2408.09738v1)|null|
+|**2024-08-18**|**Dynamics of Brownian particles in asymmetric confinement: Insights into Entropic Stochastic Resonance**|Syed Yunus Ali et.al.|[2408.09587v1](http://arxiv.org/abs/2408.09587v1)|null|
+|**2024-08-18**|**Ferroelectric Smectic C Liquid Crystal Phase with Spontaneous Polarization in the Direction of the Director**|Hirotsugu Kikuchi et.al.|[2408.09520v1](http://arxiv.org/abs/2408.09520v1)|null|
+|**2024-08-18**|**Phases and correlations in active nematic granular systems**|Abhishek Sharma et.al.|[2408.09508v1](http://arxiv.org/abs/2408.09508v1)|null|
+|**2024-08-18**|**Stochastic process model for interfacial gap of purely normal elastic rough surface contact**|Yang Xu et.al.|[2408.09433v1](http://arxiv.org/abs/2408.09433v1)|null|
+|**2024-08-18**|**Euler Characteristic Surfaces: A Stable Multiscale Topological Summary of Time Series Data**|Anamika Roy et.al.|[2408.09400v1](http://arxiv.org/abs/2408.09400v1)|null|
+|**2024-08-18**|**Shape effects in binary mixtures of PA12 powder in additive manufacturing**|Sudeshna Roy et.al.|[2408.09322v1](http://arxiv.org/abs/2408.09322v1)|null|
+|**2024-08-17**|**Mono-exponential Current Attenuation with Distance across 16 nm Thick Bacteriorhodopsin Multilayers**|Domenikos Chryssikos et.al.|[2408.09289v1](http://arxiv.org/abs/2408.09289v1)|null|
+|**2024-08-17**|**Current rectification via Photosystem I monolayers induced by their orientation on hydrophilic self-assembled monolayers on titanium nitride**|Jonathan Rojas et.al.|[2408.09276v1](http://arxiv.org/abs/2408.09276v1)|null|
+|**2024-08-17**|**Tuning the mechanical properties of organophilic clay dispersions: particle composition and preshear history effects**|Nikolaos A. Burger et.al.|[2408.09159v1](http://arxiv.org/abs/2408.09159v1)|null|
+|**2024-08-17**|**Demonstrating a Bi-directional Asymmetric Frequency Conversion in Nonlinear Phononic Crystals**|Yeongtae Jang et.al.|[2408.09146v1](http://arxiv.org/abs/2408.09146v1)|null|
+|**2024-08-17**|**Mean-field theory of the uniaxial ferroelectric smectic A liquid crystal phase**|Aitor Erkoreka et.al.|[2408.09137v1](http://arxiv.org/abs/2408.09137v1)|null|
+|**2024-08-16**|**Strain stiffening due to stretching of entangled particles in random packings of granular materials**|Eric Brown et.al.|[2408.09041v1](http://arxiv.org/abs/2408.09041v1)|null|
+|**2024-08-16**|**Tunable Hyperuniformity in Cellular Structures**|Yiwen Tang et.al.|[2408.08976v1](http://arxiv.org/abs/2408.08976v1)|null|
+|**2024-08-16**|**Exact Statistics of Helical Wormlike Chains with Twist-Bend Coupling**|Ashesh Ghosh et.al.|[2408.08954v1](http://arxiv.org/abs/2408.08954v1)|null|
 |**2024-08-16**|**Kinematics of degree-4 rigid origami vertices: Lorentz transformations, fold-angle multipliers, and rigid-foldable polygon**|Yucai Hu et.al.|[2408.08816v1](http://arxiv.org/abs/2408.08816v1)|null|
 |**2024-08-16**|**Early-time wetting kinetics in surface-directed spinodal decomposition for off-critical quenches: A molecular dynamics study**|Syed Shuja Hasan Zaidi et.al.|[2408.08800v1](http://arxiv.org/abs/2408.08800v1)|null|
 |**2024-08-16**|**A soft-clamped topological waveguide for phonons**|Xiang Xi et.al.|[2408.08717v1](http://arxiv.org/abs/2408.08717v1)|null|
@@ -6460,6 +6479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Ultrafast creation of a light induced semimetallic state in strongly excited 1T-TiSe $_2$**|Maximilian Huber et.al.|[2408.08997v1](http://arxiv.org/abs/2408.08997v1)|null|
 |**2024-08-16**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256v2](http://arxiv.org/abs/2408.06256v2)|null|
 |**2024-08-10**|**Experimental observation of relativistic field-derivative torque in nonlinear THz response of magnetization dynamics**|Arpita Dutta et.al.|[2408.05510v1](http://arxiv.org/abs/2408.05510v1)|null|
 |**2024-08-09**|**Interlayer Dzyaloshinskii-Moriya interactions induced via non-linear phononics in bilayer van der Waals materials**|Ze-Xun Lin et.al.|[2408.05335v1](http://arxiv.org/abs/2408.05335v1)|null|
@@ -6785,6 +6805,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Current-Induced Circular Dichroism on Metallic Surfaces: A First-Principles Study**|Farzad Mahfouzi et.al.|[2408.10081v1](http://arxiv.org/abs/2408.10081v1)|null|
 |**2024-08-13**|**Kinetomagnetism of chirality and its applications**|Sang-Wook Cheongand Fei-Ting Huang et.al.|[2408.07179v1](http://arxiv.org/abs/2408.07179v1)|null|
 |**2024-08-09**|**Current-induced spin polarisation in Rashba-Dresselhaus systems under different point groups**|Akash Dey et.al.|[2408.05188v1](http://arxiv.org/abs/2408.05188v1)|null|
 |**2024-08-08**|**Quantum-metric-induced giant and reversible nonreciprocal transport phenomena in chiral loop-current phases of kagome metals**|Rina Tazai et.al.|[2408.04233v1](http://arxiv.org/abs/2408.04233v1)|null|
@@ -6978,6 +6999,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Extended Quantum Anomalous Hall States in Graphene/hBN Moiré Superlattices**|Zhengguang Lu et.al.|[2408.10203v1](http://arxiv.org/abs/2408.10203v1)|null|
+|**2024-08-19**|**Interplay of electronic crystals with integer and fractional Chern insulators in moiré pentalayer graphene**|Dacen Waters et.al.|[2408.10133v1](http://arxiv.org/abs/2408.10133v1)|null|
+|**2024-08-19**|**Diverse Impacts of Spin-Orbit Coupling on Superconductivity in Rhombohedral Graphene**|Jixiang Yang et.al.|[2408.09906v1](http://arxiv.org/abs/2408.09906v1)|null|
 |**2024-08-16**|**Multipolar Anisotropy in Anomalous Hall Effect from Spin-Group Symmetry Breaking**|Zheng Liu et.al.|[2408.08810v1](http://arxiv.org/abs/2408.08810v1)|null|
 |**2024-08-11**|**A seamless graphene spin valve based on proximity to van der Waals magnet Cr $_2$Ge$_2$Te$_6$**|Haozhe Yang et.al.|[2408.05759v1](http://arxiv.org/abs/2408.05759v1)|null|
 |**2024-08-09**|**Fractional quantum anomalous Hall effect in rhombohedral multilayer graphene with a strong displacement field**|Ke Huang et.al.|[2408.05139v1](http://arxiv.org/abs/2408.05139v1)|null|
@@ -7278,6 +7302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**The influence of magnon renormalization and interband coupling on the spin Seebeck effect in YIG**|Yuling Yin et.al.|[2408.10058v1](http://arxiv.org/abs/2408.10058v1)|null|
 |**2024-08-10**|**Spin dynamics in itinerant antiferromagnet ${\rm\bf SrCr_2As_2}$**|Zhenhua Ning et.al.|[2408.05583v1](http://arxiv.org/abs/2408.05583v1)|null|
 |**2024-08-07**|**Paramagnetic fluctuations of the magnetocaloric compound MnFe $_4$Si$_3$**|N. Biniskos et.al.|[2408.03808v1](http://arxiv.org/abs/2408.03808v1)|null|
 |**2024-08-01**|**Evidence of electron interaction with an unidentified bosonic mode in superconductor CsCa $_2$Fe$_4$As$_4$F$_2$**|Peng Li et.al.|[2408.00469v1](http://arxiv.org/abs/2408.00469v1)|null|
@@ -7296,7 +7321,7 @@ layout: default
 |**2024-05-28**|**Anomalous thermal broadening in the Shastry-Sutherland model and SrCu $_2($BO$_3)_2$**|Zhenjiu Wang et.al.|[2405.18475v1](http://arxiv.org/abs/2405.18475v1)|null|
 |**2024-05-27**|**Thermally-induced mimicry of quantum cluster excitations and implications for the magnetic transition in FePX $_3$**|Harry Lane et.al.|[2405.17308v1](http://arxiv.org/abs/2405.17308v1)|null|
 |**2024-05-23**|**Giant splitting of the hydrogen rotational eigenenergies in the C $_2$ filled ice**|Simone Di Cataldo et.al.|[2405.14665v1](http://arxiv.org/abs/2405.14665v1)|null|
-|**2024-05-14**|**Quantum and classical spin dynamics across temperature scales in the S = 1/2 Heisenberg antiferromagnet**|Pyeongjae Park et.al.|[2405.08897v1](http://arxiv.org/abs/2405.08897v1)|null|
+|**2024-08-19**|**Quantum and classical spin dynamics across temperature scales in the S = 1/2 Heisenberg antiferromagnet**|Pyeongjae Park et.al.|[2405.08897v2](http://arxiv.org/abs/2405.08897v2)|null|
 |**2024-05-04**|**Spin dynamics in linear magnetoelectric material Mn $_{3}$Ta$_{2}$O$_{8}$**|Hodaka Kikuchi et.al.|[2405.02589v1](http://arxiv.org/abs/2405.02589v1)|null|
 |**2024-04-25**|**Disentangling spin excitation continua in classical and quantum magnets using 2D nonlinear spectroscopy**|Emily Z. Zhang et.al.|[2404.16935v1](http://arxiv.org/abs/2404.16935v1)|null|
 |**2024-07-02**|**Phonon dispersion of quantum paraelectric SrTiO3 in electric fields**|Henrik Jacobsen et.al.|[2404.16334v2](http://arxiv.org/abs/2404.16334v2)|null|
