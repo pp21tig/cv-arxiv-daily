@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Representation Theory of Solitons**|Clay Cordova et.al.|[2408.11045v1](http://arxiv.org/abs/2408.11045v1)|null|
+|**2024-08-20**|**Theoretical Analysis of the Structure, Thermodynamics, and Shear Elasticity of Deeply Metastable Hard Sphere Fluids**|Subhashish Chaki et.al.|[2408.10922v1](http://arxiv.org/abs/2408.10922v1)|null|
+|**2024-08-20**|**Sparse Regression for Discovery of Constitutive Models from Oscillatory Shear Measurements**|Sachin Shanbhag et.al.|[2408.10762v1](http://arxiv.org/abs/2408.10762v1)|null|
+|**2024-08-20**|**An active filament on a cylindrical surface: morphologies and dynamics**|Chen Shen et.al.|[2408.10677v1](http://arxiv.org/abs/2408.10677v1)|null|
+|**2024-08-20**|**Room-temperature cavity exciton-polariton condensation in perovskite quantum dots**|Ioannis Georgakilas et.al.|[2408.10667v1](http://arxiv.org/abs/2408.10667v1)|null|
+|**2024-08-20**|**Number-operator-based inverse engineering technique in a two level system**|Kiran Thengil et.al.|[2408.10639v1](http://arxiv.org/abs/2408.10639v1)|null|
+|**2024-08-20**|**Thermomechanical Approach to Calculating Mechanical Stresses in Inhomogeneous Ionic Fluids**|Yu. A. Budkov et.al.|[2408.10597v1](http://arxiv.org/abs/2408.10597v1)|null|
+|**2024-08-20**|**Spin-1/2 kagome-lattice antiferromagnets Cs $_2$Cu$_3$SnF$_{12}$ and Rb$_2$Cu$_3$SnF$_{12}$**|Hidekazu Tanaka et.al.|[2408.10476v1](http://arxiv.org/abs/2408.10476v1)|null|
+|**2024-08-19**|**Itinerant A-type Antiferromagnetic Order in Co $_{0.25}$TaSe$_2$**|H. Cein Mandujano et.al.|[2408.10421v1](http://arxiv.org/abs/2408.10421v1)|null|
+|**2024-08-19**|**Flexoelectricity versus Electrostatics in Polar Nematic Liquid Crystals**|Lincoln Paik et.al.|[2408.10347v1](http://arxiv.org/abs/2408.10347v1)|null|
+|**2024-08-19**|**Hysteretic response to different modes of ramping an external field in sparse and dense Ising spin glasses**|Mahajabin Rahman et.al.|[2408.10329v1](http://arxiv.org/abs/2408.10329v1)|null|
+|**2024-08-19**|**Quantum scars in many-body systems**|Andrea Pizzi et.al.|[2408.10301v1](http://arxiv.org/abs/2408.10301v1)|null|
 |**2024-08-19**|**Shape Evolution of Fluid Deformable Surfaces under Active Geometric Forces**|Maik Porrmann et.al.|[2408.09970v1](http://arxiv.org/abs/2408.09970v1)|null|
 |**2024-08-19**|**On the origins of reverse Janssen effect**|Srujal Shah et.al.|[2408.09927v1](http://arxiv.org/abs/2408.09927v1)|null|
 |**2024-08-19**|**Boltzmann approach to collective motion via non-local visual interaction**|Susumu Ito et.al.|[2408.09917v1](http://arxiv.org/abs/2408.09917v1)|null|
@@ -6475,6 +6487,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**High-Throughput Search for Photostrictive Materials based on a Thermodynamic Descriptor**|Zeyu Xiang et.al.|[2408.11044v1](http://arxiv.org/abs/2408.11044v1)|null|
 |**2024-08-16**|**Ultrafast creation of a light induced semimetallic state in strongly excited 1T-TiSe $_2$**|Maximilian Huber et.al.|[2408.08997v1](http://arxiv.org/abs/2408.08997v1)|null|
 |**2024-08-16**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256v2](http://arxiv.org/abs/2408.06256v2)|null|
 |**2024-08-10**|**Experimental observation of relativistic field-derivative torque in nonlinear THz response of magnetization dynamics**|Arpita Dutta et.al.|[2408.05510v1](http://arxiv.org/abs/2408.05510v1)|null|
@@ -6995,6 +7008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Thermal crossover from a Chern insulator to a fractional Chern insulator in pentalayer graphene**|Sankar Das Sarma et.al.|[2408.10931v1](http://arxiv.org/abs/2408.10931v1)|null|
 |**2024-08-19**|**Extended Quantum Anomalous Hall States in Graphene/hBN Moiré Superlattices**|Zhengguang Lu et.al.|[2408.10203v1](http://arxiv.org/abs/2408.10203v1)|null|
 |**2024-08-19**|**Interplay of electronic crystals with integer and fractional Chern insulators in moiré pentalayer graphene**|Dacen Waters et.al.|[2408.10133v1](http://arxiv.org/abs/2408.10133v1)|null|
 |**2024-08-19**|**Diverse Impacts of Spin-Orbit Coupling on Superconductivity in Rhombohedral Graphene**|Jixiang Yang et.al.|[2408.09906v1](http://arxiv.org/abs/2408.09906v1)|null|
@@ -7298,6 +7312,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Low energy phonons in single crystal ZrW $_{2}$O$_{8}$**|R. A. Ewings et.al.|[2408.10797v1](http://arxiv.org/abs/2408.10797v1)|null|
+|**2024-08-20**|**Ground State Magnetic Structure and Magnetic Field Effects in the Layered Honeycomb Antiferromagnet YbOCl**|Zheng Zhang et.al.|[2408.10515v1](http://arxiv.org/abs/2408.10515v1)|null|
 |**2024-08-19**|**The influence of magnon renormalization and interband coupling on the spin Seebeck effect in YIG**|Yuling Yin et.al.|[2408.10058v1](http://arxiv.org/abs/2408.10058v1)|null|
 |**2024-08-10**|**Spin dynamics in itinerant antiferromagnet ${\rm\bf SrCr_2As_2}$**|Zhenhua Ning et.al.|[2408.05583v1](http://arxiv.org/abs/2408.05583v1)|null|
 |**2024-08-07**|**Paramagnetic fluctuations of the magnetocaloric compound MnFe $_4$Si$_3$**|N. Biniskos et.al.|[2408.03808v1](http://arxiv.org/abs/2408.03808v1)|null|
