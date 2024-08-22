@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Two relaxation mechanisms for rejuvenation of stable polymer glass**|Saba Karimi et.al.|[2408.11783v1](http://arxiv.org/abs/2408.11783v1)|null|
+|**2024-08-21**|**Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids**|Anoop Mutneja et.al.|[2408.11647v1](http://arxiv.org/abs/2408.11647v1)|null|
+|**2024-08-21**|**Emergent broadband polarization entanglement from electronic and phononic four-wave mixing indistinguishability**|Diego Sier et.al.|[2408.11602v1](http://arxiv.org/abs/2408.11602v1)|null|
+|**2024-08-21**|**Effects of curvature on growing films of microorganisms**|Yuta Kuroda et.al.|[2408.11581v1](http://arxiv.org/abs/2408.11581v1)|null|
+|**2024-08-21**|**Dissecting mode-coupling theory for supercooled liquids**|Ilian Pihlajamaa et.al.|[2408.11579v1](http://arxiv.org/abs/2408.11579v1)|null|
+|**2024-08-21**|**Achieving specific yet transient bonds between anisotropic colloids**|Muraleedharapai Mayarani et.al.|[2408.11569v1](http://arxiv.org/abs/2408.11569v1)|null|
+|**2024-08-21**|**Collective dynamics and elasto-chemical cluster waves in communicating colloids with explicit size response**|Nils Göth et.al.|[2408.11560v1](http://arxiv.org/abs/2408.11560v1)|null|
+|**2024-08-21**|**Rheological behavior of molybdenum disulfide (MoS2) inks under electric fields: influence of concentration and voltage**|Pedro C Rijo et.al.|[2408.11506v1](http://arxiv.org/abs/2408.11506v1)|null|
+|**2024-08-21**|**Brownian and fractional polymers with self-repulsion**|Samuel Eleutério et.al.|[2408.11503v1](http://arxiv.org/abs/2408.11503v1)|null|
+|**2024-08-21**|**Modified Debye-Hückel-Onsager Theory for Electrical Conductivity in Aqueous Electrolyte Solutions. Nonlocal Electrostatics Approach**|N. N. Kalikin et.al.|[2408.11495v1](http://arxiv.org/abs/2408.11495v1)|null|
+|**2024-08-21**|**Nanostructured multiferroic liquids: on the way to fluid ferroelectric magnets**|Hajnalka Nádasi et.al.|[2408.11442v1](http://arxiv.org/abs/2408.11442v1)|null|
+|**2024-08-21**|**Revealing the nontrivial topological surface states of catalysts for effective photochemical carbon dioxide conversion**|Kangwang Wang et.al.|[2408.11373v1](http://arxiv.org/abs/2408.11373v1)|null|
+|**2024-08-21**|**Non-trivial Topological Surface States Regulation of 1T-OsCoTe $_2$ Enables Selective C-C Coupling for Highly Efficient Photochemical CO$_2$ Reduction Toward C$_{2+}$ hydrocarbons**|Kangwang Wang et.al.|[2408.11369v1](http://arxiv.org/abs/2408.11369v1)|null|
+|**2024-08-21**|**Novel stabilization mechanisms for concentrated emulsions with tunable morphology via amphiphilic polymer-grafted nanoparticles**|Kojiro Suzuki et.al.|[2408.11320v1](http://arxiv.org/abs/2408.11320v1)|null|
+|**2024-08-20**|**Shear banding as a cause of non-monotonic stress relaxation after flow cessation**|Vanessa K. Ward et.al.|[2408.11223v1](http://arxiv.org/abs/2408.11223v1)|null|
+|**2024-08-20**|**Motor-driven microtubule diffusion in a photobleached dynamical coordinate system**|Soichi Hirokawa et.al.|[2408.11216v1](http://arxiv.org/abs/2408.11216v1)|null|
+|**2024-08-20**|**Electron-Electron Interactions, Magnetism, and Superconductivity: Lecture Notes for Introduction to Solid State Physics**|Daniel C. Ralph et.al.|[2408.11169v1](http://arxiv.org/abs/2408.11169v1)|null|
+|**2024-08-20**|**Insights into Protein Unfolding under pH, Temperature, and Shear using Molecular Dynamics Simulations**|Yinhao Jia et.al.|[2408.11147v1](http://arxiv.org/abs/2408.11147v1)|null|
+|**2024-08-20**|**Towards a theory of phase transitions in quantum control landscapes**|Nicolò Beato et.al.|[2408.11110v1](http://arxiv.org/abs/2408.11110v1)|null|
+|**2024-08-20**|**Surface Tension of a Topological Phase**|Saikat Mondal et.al.|[2408.11102v1](http://arxiv.org/abs/2408.11102v1)|null|
 |**2024-08-20**|**Representation Theory of Solitons**|Clay Cordova et.al.|[2408.11045v1](http://arxiv.org/abs/2408.11045v1)|null|
 |**2024-08-20**|**Theoretical Analysis of the Structure, Thermodynamics, and Shear Elasticity of Deeply Metastable Hard Sphere Fluids**|Subhashish Chaki et.al.|[2408.10922v1](http://arxiv.org/abs/2408.10922v1)|null|
 |**2024-08-20**|**Sparse Regression for Discovery of Constitutive Models from Oscillatory Shear Measurements**|Sachin Shanbhag et.al.|[2408.10762v1](http://arxiv.org/abs/2408.10762v1)|null|
@@ -6487,6 +6507,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Robust Protein Electrical Junctions with Permanent Contacts show Activation-less Charge Transport down to 10 K**|Shailendra K. Saxena et.al.|[2408.11409v1](http://arxiv.org/abs/2408.11409v1)|null|
 |**2024-08-20**|**High-Throughput Search for Photostrictive Materials based on a Thermodynamic Descriptor**|Zeyu Xiang et.al.|[2408.11044v1](http://arxiv.org/abs/2408.11044v1)|null|
 |**2024-08-16**|**Ultrafast creation of a light induced semimetallic state in strongly excited 1T-TiSe $_2$**|Maximilian Huber et.al.|[2408.08997v1](http://arxiv.org/abs/2408.08997v1)|null|
 |**2024-08-16**|**Coupler enabled tunable dipole-dipole coupling between optically levitated nanoparticles**|Mian Wu et.al.|[2408.06256v2](http://arxiv.org/abs/2408.06256v2)|null|
@@ -6814,6 +6835,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
 |**2024-08-19**|**Current-Induced Circular Dichroism on Metallic Surfaces: A First-Principles Study**|Farzad Mahfouzi et.al.|[2408.10081v1](http://arxiv.org/abs/2408.10081v1)|null|
 |**2024-08-13**|**Kinetomagnetism of chirality and its applications**|Sang-Wook Cheongand Fei-Ting Huang et.al.|[2408.07179v1](http://arxiv.org/abs/2408.07179v1)|null|
 |**2024-08-09**|**Current-induced spin polarisation in Rashba-Dresselhaus systems under different point groups**|Akash Dey et.al.|[2408.05188v1](http://arxiv.org/abs/2408.05188v1)|null|
@@ -7008,6 +7030,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
+|**2024-08-21**|**Electric-field-tunable topological phases in valley-polarized quantum anomalous Hall systems with inequivalent exchange fields**|Shiyao Pan et.al.|[2408.11468v1](http://arxiv.org/abs/2408.11468v1)|null|
+|**2024-08-21**|**Nonmonotonic Hall effect of Weyl semimetals under magnetic field**|Xiao-Xiao Zhang et.al.|[2408.11265v1](http://arxiv.org/abs/2408.11265v1)|null|
+|**2024-08-20**|**Displacement field-controlled fractional Chern insulators and charge density waves in a graphene/hBN moiré superlattice**|Samuel H. Aronson et.al.|[2408.11220v1](http://arxiv.org/abs/2408.11220v1)|null|
 |**2024-08-20**|**Thermal crossover from a Chern insulator to a fractional Chern insulator in pentalayer graphene**|Sankar Das Sarma et.al.|[2408.10931v1](http://arxiv.org/abs/2408.10931v1)|null|
 |**2024-08-19**|**Extended Quantum Anomalous Hall States in Graphene/hBN Moiré Superlattices**|Zhengguang Lu et.al.|[2408.10203v1](http://arxiv.org/abs/2408.10203v1)|null|
 |**2024-08-19**|**Interplay of electronic crystals with integer and fractional Chern insulators in moiré pentalayer graphene**|Dacen Waters et.al.|[2408.10133v1](http://arxiv.org/abs/2408.10133v1)|null|
