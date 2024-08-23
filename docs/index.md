@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Effect of Frequency-Dependent Viscosity on Molecular Friction in Liquids**|Henrik Kiefer et.al.|[2408.12506v1](http://arxiv.org/abs/2408.12506v1)|null|
+|**2024-08-22**|**Spectral Mechanisms of Solid/Liquid Interfacial Heat Transfer in the Presence of a Meniscus**|Abdullah El-Rifai et.al.|[2408.12485v1](http://arxiv.org/abs/2408.12485v1)|null|
+|**2024-08-22**|**Collective nature of phonon energies in solids beyond harmonic oscillators**|Jaeyun Moon et.al.|[2408.12467v1](http://arxiv.org/abs/2408.12467v1)|null|
+|**2024-08-22**|**Single parameter aging and density scaling**|Tina Hecksher et.al.|[2408.12401v1](http://arxiv.org/abs/2408.12401v1)|null|
+|**2024-08-22**|**Exploring van der Waals cuprate superconductors using a hybrid microwave circuit**|Haolin Jin et.al.|[2408.12383v1](http://arxiv.org/abs/2408.12383v1)|null|
+|**2024-08-21**|**Laser-patterned Thin-film Electrodes: Imaging Ion Accumulation and Trapped Nanoparticles**|Itir Bakis Dogru Yuksel et.al.|[2408.11980v1](http://arxiv.org/abs/2408.11980v1)|null|
 |**2024-08-21**|**Two relaxation mechanisms for rejuvenation of stable polymer glass**|Saba Karimi et.al.|[2408.11783v1](http://arxiv.org/abs/2408.11783v1)|null|
 |**2024-08-21**|**Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids**|Anoop Mutneja et.al.|[2408.11647v1](http://arxiv.org/abs/2408.11647v1)|null|
 |**2024-08-21**|**Emergent broadband polarization entanglement from electronic and phononic four-wave mixing indistinguishability**|Diego Sier et.al.|[2408.11602v1](http://arxiv.org/abs/2408.11602v1)|null|
@@ -7034,6 +7040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584v1](http://arxiv.org/abs/2408.12584v1)|null|
 |**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
 |**2024-08-21**|**Electric-field-tunable topological phases in valley-polarized quantum anomalous Hall systems with inequivalent exchange fields**|Shiyao Pan et.al.|[2408.11468v1](http://arxiv.org/abs/2408.11468v1)|null|
 |**2024-08-21**|**Nonmonotonic Hall effect of Weyl semimetals under magnetic field**|Xiao-Xiao Zhang et.al.|[2408.11265v1](http://arxiv.org/abs/2408.11265v1)|null|
@@ -7342,6 +7349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Magnetization Plateaus in the Two-dimensional S = 1/2 Heisenberg Model with a 3 $\times$ 3 Checkerboard Structure**|Xuyang Liang et.al.|[2408.11899v1](http://arxiv.org/abs/2408.11899v1)|null|
 |**2024-08-20**|**Low energy phonons in single crystal ZrW $_{2}$O$_{8}$**|R. A. Ewings et.al.|[2408.10797v1](http://arxiv.org/abs/2408.10797v1)|null|
 |**2024-08-20**|**Ground State Magnetic Structure and Magnetic Field Effects in the Layered Honeycomb Antiferromagnet YbOCl**|Zheng Zhang et.al.|[2408.10515v1](http://arxiv.org/abs/2408.10515v1)|null|
 |**2024-08-19**|**The influence of magnon renormalization and interband coupling on the spin Seebeck effect in YIG**|Yuling Yin et.al.|[2408.10058v1](http://arxiv.org/abs/2408.10058v1)|null|
