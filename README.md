@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Motion-driven quantum dissipation in an open electronic system with nonlocal interaction**|Yang Wang et.al.|[2408.13163v1](http://arxiv.org/abs/2408.13163v1)|null|
+|**2024-08-23**|**Continuum mechanics of differential growth in disordered granular matter**|Noemie S. Livne et.al.|[2408.13086v1](http://arxiv.org/abs/2408.13086v1)|null|
+|**2024-08-23**|**Contraction response of a polyelectrolyte hydrogel under spatially nonuniform electric fields**|Ekrem Bahceci et.al.|[2408.13014v1](http://arxiv.org/abs/2408.13014v1)|null|
+|**2024-08-23**|**Order metrics of jammed solids: Structures, hyperuniformity, and implications for ultra-stable glasses**|Ding Xu et.al.|[2408.13013v1](http://arxiv.org/abs/2408.13013v1)|null|
+|**2024-08-23**|**Cylindrical Cavity Expansion: A Novel Method for Characterizing the Mechanical Properties of Soft Materials**|Jian Li et.al.|[2408.12920v1](http://arxiv.org/abs/2408.12920v1)|null|
+|**2024-08-23**|**Self-Assembly and Phase Behavior of Janus Rods: Competition Between Shape and Potential Anisotropy**|Jared A. Wood et.al.|[2408.12828v1](http://arxiv.org/abs/2408.12828v1)|null|
+|**2024-08-23**|**Chiral active systems near a substrate: Emergent damping length controlled by fluid friction**|Joscha Mecke et.al.|[2408.12820v1](http://arxiv.org/abs/2408.12820v1)|null|
+|**2024-08-22**|**Anti-correlation between excitations and locally-favored structures in glass-forming systems**|Danqi Lang et.al.|[2408.12738v1](http://arxiv.org/abs/2408.12738v1)|null|
+|**2024-08-22**|**Unifying theory of scaling in drop impact: Forces & maximum spreading diameter**|Vatsal Sanjay et.al.|[2408.12714v1](http://arxiv.org/abs/2408.12714v1)|null|
+|**2024-08-22**|**Selecting Relevant Structural Features for Glassy Dynamics by Information Imbalance**|Anand Sharma et.al.|[2408.12705v1](http://arxiv.org/abs/2408.12705v1)|null|
 |**2024-08-22**|**Effect of Frequency-Dependent Viscosity on Molecular Friction in Liquids**|Henrik Kiefer et.al.|[2408.12506v1](http://arxiv.org/abs/2408.12506v1)|null|
 |**2024-08-22**|**Spectral Mechanisms of Solid/Liquid Interfacial Heat Transfer in the Presence of a Meniscus**|Abdullah El-Rifai et.al.|[2408.12485v1](http://arxiv.org/abs/2408.12485v1)|null|
 |**2024-08-22**|**Collective nature of phonon energies in solids beyond harmonic oscillators**|Jaeyun Moon et.al.|[2408.12467v1](http://arxiv.org/abs/2408.12467v1)|null|
@@ -6513,6 +6523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Unveiling the nature of cathodoluminescence from photon statistics**|Sotatsu Yanagimoto et.al.|[2408.12824v1](http://arxiv.org/abs/2408.12824v1)|null|
 |**2024-08-21**|**Robust Protein Electrical Junctions with Permanent Contacts show Activation-less Charge Transport down to 10 K**|Shailendra K. Saxena et.al.|[2408.11409v1](http://arxiv.org/abs/2408.11409v1)|null|
 |**2024-08-20**|**High-Throughput Search for Photostrictive Materials based on a Thermodynamic Descriptor**|Zeyu Xiang et.al.|[2408.11044v1](http://arxiv.org/abs/2408.11044v1)|null|
 |**2024-08-16**|**Ultrafast creation of a light induced semimetallic state in strongly excited 1T-TiSe $_2$**|Maximilian Huber et.al.|[2408.08997v1](http://arxiv.org/abs/2408.08997v1)|null|
@@ -7345,6 +7356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Fingerprints of supersymmetric spin and charge dynamics observed by inelastic neutron scattering**|B. Wehinger et.al.|[2408.12626v1](http://arxiv.org/abs/2408.12626v1)|null|
 |**2024-08-21**|**Magnetization Plateaus in the Two-dimensional S = 1/2 Heisenberg Model with a 3 $\times$ 3 Checkerboard Structure**|Xuyang Liang et.al.|[2408.11899v1](http://arxiv.org/abs/2408.11899v1)|null|
 |**2024-08-20**|**Low energy phonons in single crystal ZrW $_{2}$O$_{8}$**|R. A. Ewings et.al.|[2408.10797v1](http://arxiv.org/abs/2408.10797v1)|null|
 |**2024-08-20**|**Ground State Magnetic Structure and Magnetic Field Effects in the Layered Honeycomb Antiferromagnet YbOCl**|Zheng Zhang et.al.|[2408.10515v1](http://arxiv.org/abs/2408.10515v1)|null|
