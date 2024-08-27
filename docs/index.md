@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Closed-loop control of active nematic flows**|Katsu Nishiyama et.al.|[2408.14414v1](http://arxiv.org/abs/2408.14414v1)|null|
+|**2024-08-26**|**Non-ideal mixing of lipids: a molecular dynamics perspective**|L. Berezovska et.al.|[2408.14403v1](http://arxiv.org/abs/2408.14403v1)|null|
+|**2024-08-26**|**From irregular to regular eutectic growth in the Al-Al3Ni system: in situ observations during directional solidification**|Paul Chao et.al.|[2408.14346v1](http://arxiv.org/abs/2408.14346v1)|null|
+|**2024-08-26**|**Intracellular order formation through stepwise phase transitions**|Yuika Ueda et.al.|[2408.14242v1](http://arxiv.org/abs/2408.14242v1)|null|
+|**2024-08-26**|**Tension-induced giant actuation in unstructured elastic sheets**|Kexin Guo et.al.|[2408.14239v1](http://arxiv.org/abs/2408.14239v1)|null|
+|**2024-08-26**|**Liquid-liquid phase separation at the interface of an evaporating droplet; formation of a regular lattice pattern**|Vahid Nasirimarekani et.al.|[2408.14129v1](http://arxiv.org/abs/2408.14129v1)|null|
+|**2024-08-26**|**Phantom chain simulations for fracture of star polymer networks on the effect of arm molecular weight**|Yuichi Masubuchi et.al.|[2408.14058v1](http://arxiv.org/abs/2408.14058v1)|null|
+|**2024-08-25**|**Desorption of an active Brownian polymer from a homogeneous attractive surface**|Guo-qiang Feng et.al.|[2408.13743v1](http://arxiv.org/abs/2408.13743v1)|null|
+|**2024-08-25**|**Jamming, Yielding, and Rheology during Submerged Granular Avalanche**|Zhuan Ge et.al.|[2408.13730v1](http://arxiv.org/abs/2408.13730v1)|null|
+|**2024-08-25**|**Giant enhancement of bacterial upstream swimming in macromolecular flows**|Ding Cao et.al.|[2408.13694v1](http://arxiv.org/abs/2408.13694v1)|null|
+|**2024-08-24**|**Enhancement of bacterial rheotaxis in non-Newtonian fluids**|Bryan O. Torres Maldonado et.al.|[2408.13692v1](http://arxiv.org/abs/2408.13692v1)|null|
+|**2024-08-24**|**A toy model for 2-dimensional spin-fluctuation-induced unconventional superconductivity**|Tu M. Cao et.al.|[2408.13663v1](http://arxiv.org/abs/2408.13663v1)|null|
+|**2024-08-24**|**On the Hamiltonian structure of the intrinsic evolution of a closed vortex sheet**|Banavara N. Shashikanth et.al.|[2408.13462v1](http://arxiv.org/abs/2408.13462v1)|null|
+|**2024-08-24**|**Diffusing Wave Microrheology in Polymeric Fluids**|George D. J. Phillies et.al.|[2408.13456v1](http://arxiv.org/abs/2408.13456v1)|null|
+|**2024-08-23**|**Dissociation line and driving force for nucleation of the nitrogen hydrate from computer simulation**|Jesús Algaba et.al.|[2408.13330v1](http://arxiv.org/abs/2408.13330v1)|null|
+|**2024-08-23**|**Transport properties of the square-well fluid from molecular dynamics simulation**|Iván M. Zerón et.al.|[2408.13327v1](http://arxiv.org/abs/2408.13327v1)|null|
+|**2024-08-23**|**Entropy stabilized form chirality in curved rod nematics: structure and symmetries**|Alexandros G. Vanakaras et.al.|[2408.13325v1](http://arxiv.org/abs/2408.13325v1)|null|
+|**2024-08-23**|**Simulation of the THF hydrate-water interfacial free energy from computer simulation**|Miguel J. Torrejón et.al.|[2408.13321v1](http://arxiv.org/abs/2408.13321v1)|null|
 |**2024-08-23**|**Motion-driven quantum dissipation in an open electronic system with nonlocal interaction**|Yang Wang et.al.|[2408.13163v1](http://arxiv.org/abs/2408.13163v1)|null|
 |**2024-08-23**|**Continuum mechanics of differential growth in disordered granular matter**|Noemie S. Livne et.al.|[2408.13086v1](http://arxiv.org/abs/2408.13086v1)|null|
 |**2024-08-23**|**Contraction response of a polyelectrolyte hydrogel under spatially nonuniform electric fields**|Ekrem Bahceci et.al.|[2408.13014v1](http://arxiv.org/abs/2408.13014v1)|null|
@@ -6527,6 +6545,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies**|Mahadi Hasan et.al.|[2408.13927v1](http://arxiv.org/abs/2408.13927v1)|null|
+|**2024-08-25**|**Quantum-enhanced weak absorption estimation with correlated photons**|Zhucheng Zhang et.al.|[2408.13817v1](http://arxiv.org/abs/2408.13817v1)|null|
 |**2024-08-23**|**Unveiling the nature of cathodoluminescence from photon statistics**|Sotatsu Yanagimoto et.al.|[2408.12824v1](http://arxiv.org/abs/2408.12824v1)|null|
 |**2024-08-21**|**Robust Protein Electrical Junctions with Permanent Contacts show Activation-less Charge Transport down to 10 K**|Shailendra K. Saxena et.al.|[2408.11409v1](http://arxiv.org/abs/2408.11409v1)|null|
 |**2024-08-20**|**High-Throughput Search for Photostrictive Materials based on a Thermodynamic Descriptor**|Zeyu Xiang et.al.|[2408.11044v1](http://arxiv.org/abs/2408.11044v1)|null|
@@ -6792,6 +6812,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**One-dimensional Photonic Crystal Structure Enhanced External-Magnetic-Field-Free Spintronic Terahertz High-Field Emitter**|Zehao Yang et.al.|[2408.14054v1](http://arxiv.org/abs/2408.14054v1)|null|
 |**2024-05-13**|**Multiple Bound States in the Continuum: Towards Intense Terahertz Matter Interaction**|Quanlong Yang et.al.|[2405.07426v1](http://arxiv.org/abs/2405.07426v1)|null|
 |**2024-04-18**|**Directional intense terahertz radiation driven by abruptly autofocusing lasers in air**|Xiao-Ran Zheng et.al.|[2404.11846v1](http://arxiv.org/abs/2404.11846v1)|null|
 |**2024-03-19**|**Ultrafast pseudomagnetic fields from electron-nuclear quantum geometry**|Lennart Klebl et.al.|[2403.13070v1](http://arxiv.org/abs/2403.13070v1)|null|
@@ -6856,6 +6877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**Revisiting the Analytical Solution of Spin-Orbit Torque Switched Nanoscale Perpendicular Ferromagnet**|Xue Zhang et.al.|[2408.13703v1](http://arxiv.org/abs/2408.13703v1)|null|
 |**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
 |**2024-08-19**|**Current-Induced Circular Dichroism on Metallic Surfaces: A First-Principles Study**|Farzad Mahfouzi et.al.|[2408.10081v1](http://arxiv.org/abs/2408.10081v1)|null|
 |**2024-08-13**|**Kinetomagnetism of chirality and its applications**|Sang-Wook Cheongand Fei-Ting Huang et.al.|[2408.07179v1](http://arxiv.org/abs/2408.07179v1)|null|
