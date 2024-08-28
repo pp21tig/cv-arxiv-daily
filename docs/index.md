@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Transients in shear thickening suspensions: when hydrodynamics matters**|Shivakumar Athani et.al.|[2408.15130v1](http://arxiv.org/abs/2408.15130v1)|null|
+|**2024-08-27**|**Allosteric communication mediated by protein contact clusters: A dynamical model**|Ahmed A. A. I. Ali et.al.|[2408.15110v1](http://arxiv.org/abs/2408.15110v1)|null|
+|**2024-08-27**|**Resolving the pressure induced 'self-insertion' in skutterudite CoSb3**|Bihan Wang et.al.|[2408.15105v1](http://arxiv.org/abs/2408.15105v1)|null|
+|**2024-08-27**|**Universal Negative Energetic Elasticity in Polymer Chains: Crossovers among Random, Self-Avoiding, and Neighbor-Avoiding Walks**|Nobu C. Shirai et.al.|[2408.14992v1](http://arxiv.org/abs/2408.14992v1)|null|
+|**2024-08-27**|**Fragile-to-strong glass transition in two-dimensional vortex liquids**|Ilaria Maccari et.al.|[2408.14985v1](http://arxiv.org/abs/2408.14985v1)|null|
+|**2024-08-27**|**Phase behavior of symmetric diblock copolymers under 3D soft confinement**|Zhijuan He et.al.|[2408.14863v1](http://arxiv.org/abs/2408.14863v1)|null|
+|**2024-08-27**|**Efficient Simulation of Deformable Particles**|Roshan Maharana et.al.|[2408.14784v1](http://arxiv.org/abs/2408.14784v1)|null|
+|**2024-08-26**|**Controlling assembly and oscillations of elastic membranes with an active fluid**|John Berezney et.al.|[2408.14699v1](http://arxiv.org/abs/2408.14699v1)|null|
+|**2024-08-26**|**Phase Separation, Capillarity, and Odd Surface Flows in Chiral Active Matter**|Luke Langford et.al.|[2408.14686v1](http://arxiv.org/abs/2408.14686v1)|null|
+|**2024-08-26**|**Perturbative power series for block diagonalisation of Hermitian matrices**|Ishan N. H. Mankodi et.al.|[2408.14637v1](http://arxiv.org/abs/2408.14637v1)|null|
+|**2024-08-26**|**Achieving designed texture and flows in bulk active nematics using optimal control theory**|Saptorshi Ghosh et.al.|[2408.14596v1](http://arxiv.org/abs/2408.14596v1)|null|
+|**2024-08-26**|**A recipe for local simulation of strongly-correlated fermionic matter on quantum computers: the 2D Fermi-Hubbard model**|Arash Jafarizadeh et.al.|[2408.14543v1](http://arxiv.org/abs/2408.14543v1)|null|
 |**2024-08-26**|**Closed-loop control of active nematic flows**|Katsu Nishiyama et.al.|[2408.14414v1](http://arxiv.org/abs/2408.14414v1)|null|
 |**2024-08-26**|**Non-ideal mixing of lipids: a molecular dynamics perspective**|L. Berezovska et.al.|[2408.14403v1](http://arxiv.org/abs/2408.14403v1)|null|
 |**2024-08-26**|**From irregular to regular eutectic growth in the Al-Al3Ni system: in situ observations during directional solidification**|Paul Chao et.al.|[2408.14346v1](http://arxiv.org/abs/2408.14346v1)|null|
@@ -7073,6 +7085,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Bounds and anomalies of inhomogeneous anomalous Hall effects**|Christopher Ard et.al.|[2408.15195v1](http://arxiv.org/abs/2408.15195v1)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584v1](http://arxiv.org/abs/2408.12584v1)|null|
 |**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
 |**2024-08-21**|**Electric-field-tunable topological phases in valley-polarized quantum anomalous Hall systems with inequivalent exchange fields**|Shiyao Pan et.al.|[2408.11468v1](http://arxiv.org/abs/2408.11468v1)|null|
@@ -7382,6 +7395,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Connection between f-electron correlations and magnetic excitations in UTe2**|Thomas Halloran et.al.|[2408.14619v1](http://arxiv.org/abs/2408.14619v1)|null|
 |**2024-08-19**|**Fingerprints of supersymmetric spin and charge dynamics observed by inelastic neutron scattering**|B. Wehinger et.al.|[2408.12626v1](http://arxiv.org/abs/2408.12626v1)|null|
 |**2024-08-21**|**Magnetization Plateaus in the Two-dimensional S = 1/2 Heisenberg Model with a 3 $\times$ 3 Checkerboard Structure**|Xuyang Liang et.al.|[2408.11899v1](http://arxiv.org/abs/2408.11899v1)|null|
 |**2024-08-20**|**Low energy phonons in single crystal ZrW $_{2}$O$_{8}$**|R. A. Ewings et.al.|[2408.10797v1](http://arxiv.org/abs/2408.10797v1)|null|
