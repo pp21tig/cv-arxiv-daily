@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Direct measurement of surface interactions experienced by sticky microcapsules made from environmentally benign materials**|Hairou Yu et.al.|[2408.15945v1](http://arxiv.org/abs/2408.15945v1)|null|
+|**2024-08-28**|**Structural transitions of a Semi-Flexible Polyampholyte**|Rakesh Palariya et.al.|[2408.15921v1](http://arxiv.org/abs/2408.15921v1)|null|
+|**2024-08-28**|**A simulation platform for slender, semiflexible, and inextensible fibers with Brownian hydrodynamics and steric repulsion**|Ondrej Maxian et.al.|[2408.15913v1](http://arxiv.org/abs/2408.15913v1)|null|
+|**2024-08-28**|**Polar order in a fluid like ferroelectric with a tilted lamellar structure -- observation of a polar smectic C (SmC ${_\textrm{P}}$ ) phase**|Jordan Hobbs et.al.|[2408.15859v1](http://arxiv.org/abs/2408.15859v1)|null|
+|**2024-08-28**|**How periodic surfaces bend**|Hussein Nassar et.al.|[2408.15856v1](http://arxiv.org/abs/2408.15856v1)|null|
+|**2024-08-28**|**Classifying topological floppy modes in the continuum**|Ian Tan et.al.|[2408.15850v1](http://arxiv.org/abs/2408.15850v1)|null|
+|**2024-08-28**|**Neural density functional theory of liquid-gas phase coexistence**|Florian Sammüller et.al.|[2408.15835v1](http://arxiv.org/abs/2408.15835v1)|**[link](https://github.com/sfalmo/neural-attraction)**|
+|**2024-08-28**|**Brownian Colloids in Optothermal Field: An Experimental Perspective**|G. V. Pavan Kumar et.al.|[2408.15791v1](http://arxiv.org/abs/2408.15791v1)|null|
+|**2024-08-28**|**Self-assembled clusters of magnetically tilted dipoles**|P. D. S. de Lima et.al.|[2408.15790v1](http://arxiv.org/abs/2408.15790v1)|null|
+|**2024-08-28**|**DWR-Drag: A new generation software for the Double Wall-Ring Interfacial Shear Rheometer's data analysis**|P. Sanchez-Puga et.al.|[2408.15755v1](http://arxiv.org/abs/2408.15755v1)|null|
+|**2024-08-28**|**There is Nothing Anomalous about 'Anomalous' Underscreening in Concentrated Electrolytes**|Sophie Baker et.al.|[2408.15685v1](http://arxiv.org/abs/2408.15685v1)|null|
+|**2024-08-28**|**On the elastoplastic behavior in collisional compression of spherical dust aggregates**|Sota Arakawa et.al.|[2408.15573v1](http://arxiv.org/abs/2408.15573v1)|null|
+|**2024-08-28**|**Spin-polarized antiferromagnetic metals**|Soho Shim et.al.|[2408.15532v1](http://arxiv.org/abs/2408.15532v1)|null|
+|**2024-08-28**|**Nonlinear soft-tissue elasticity, remodeling, and degradation described by an extended Finsler geometry**|John D. Clayton et.al.|[2408.15530v1](http://arxiv.org/abs/2408.15530v1)|null|
+|**2024-08-28**|**Understanding long-range opposite charge repulsion in multivalent salt solutions**|Nikhil R. Agrawal et.al.|[2408.15520v1](http://arxiv.org/abs/2408.15520v1)|null|
+|**2024-08-28**|**Lagrangian approach to origami vertex analysis: Kinematics**|Matthew Grasinger et.al.|[2408.15460v1](http://arxiv.org/abs/2408.15460v1)|null|
+|**2024-08-27**|**Integer Topological Defects Reveal Effective Forces in Active Nematics**|Zihui Zhao et.al.|[2408.15431v1](http://arxiv.org/abs/2408.15431v1)|null|
+|**2024-08-27**|**Holographic Foliations: Self-Similar Quasicrystals from Hyperbolic Honeycombs**|Latham Boyle et.al.|[2408.15316v1](http://arxiv.org/abs/2408.15316v1)|null|
 |**2024-08-27**|**Transients in shear thickening suspensions: when hydrodynamics matters**|Shivakumar Athani et.al.|[2408.15130v1](http://arxiv.org/abs/2408.15130v1)|null|
 |**2024-08-27**|**Allosteric communication mediated by protein contact clusters: A dynamical model**|Ahmed A. A. I. Ali et.al.|[2408.15110v1](http://arxiv.org/abs/2408.15110v1)|null|
 |**2024-08-27**|**Resolving the pressure induced 'self-insertion' in skutterudite CoSb3**|Bihan Wang et.al.|[2408.15105v1](http://arxiv.org/abs/2408.15105v1)|null|
@@ -7085,6 +7103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Electric field induced second-order anomalous Hall transport in unconventional Rashba system**|Ankita Bhattacharya et.al.|[2408.15840v1](http://arxiv.org/abs/2408.15840v1)|null|
 |**2024-08-27**|**Bounds and anomalies of inhomogeneous anomalous Hall effects**|Christopher Ard et.al.|[2408.15195v1](http://arxiv.org/abs/2408.15195v1)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584v1](http://arxiv.org/abs/2408.12584v1)|null|
 |**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
@@ -7395,6 +7414,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Spin Excitation Continuum in the Exactly Solvable Triangular-Lattice Spin Liquid CeMgAl11O19**|Bin Gao et.al.|[2408.15957v1](http://arxiv.org/abs/2408.15957v1)|null|
 |**2024-08-26**|**Connection between f-electron correlations and magnetic excitations in UTe2**|Thomas Halloran et.al.|[2408.14619v1](http://arxiv.org/abs/2408.14619v1)|null|
 |**2024-08-19**|**Fingerprints of supersymmetric spin and charge dynamics observed by inelastic neutron scattering**|B. Wehinger et.al.|[2408.12626v1](http://arxiv.org/abs/2408.12626v1)|null|
 |**2024-08-21**|**Magnetization Plateaus in the Two-dimensional S = 1/2 Heisenberg Model with a 3 $\times$ 3 Checkerboard Structure**|Xuyang Liang et.al.|[2408.11899v1](http://arxiv.org/abs/2408.11899v1)|null|
