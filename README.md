@@ -1098,6 +1098,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Symmetry constraints on topological invariants and irreducible band representations**|Jing Zhang et.al.|[2408.16658v1](http://arxiv.org/abs/2408.16658v1)|null|
+|**2024-08-29**|**Universal mechanistic rules for de novo design of enzymes**|Michalis Chatzittofi et.al.|[2408.16639v1](http://arxiv.org/abs/2408.16639v1)|null|
+|**2024-08-29**|**Convective Instability Driven by Diffusiophoresis of Colloids in Binary Liquid Mixtures**|Carmine Anzivino et.al.|[2408.16432v1](http://arxiv.org/abs/2408.16432v1)|null|
+|**2024-08-28**|**Studies of the Fermi-Hubbard Model Using Quantum Computing**|Adam Prokofiew et.al.|[2408.16175v1](http://arxiv.org/abs/2408.16175v1)|null|
+|**2024-08-28**|**Textile hinges enable extreme properties of mechanical metamaterials**|A. S. Meeussen et.al.|[2408.16059v1](http://arxiv.org/abs/2408.16059v1)|null|
 |**2024-08-28**|**Direct measurement of surface interactions experienced by sticky microcapsules made from environmentally benign materials**|Hairou Yu et.al.|[2408.15945v1](http://arxiv.org/abs/2408.15945v1)|null|
 |**2024-08-28**|**Structural transitions of a Semi-Flexible Polyampholyte**|Rakesh Palariya et.al.|[2408.15921v1](http://arxiv.org/abs/2408.15921v1)|null|
 |**2024-08-28**|**A simulation platform for slender, semiflexible, and inextensible fibers with Brownian hydrodynamics and steric repulsion**|Ondrej Maxian et.al.|[2408.15913v1](http://arxiv.org/abs/2408.15913v1)|null|
@@ -7099,6 +7104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Nonlocal Moments in the Chern Bands of Twisted Bilayer Graphene**|Patrick J. Ledwith et.al.|[2408.16761v1](http://arxiv.org/abs/2408.16761v1)|null|
 |**2024-08-28**|**Electric field induced second-order anomalous Hall transport in unconventional Rashba system**|Ankita Bhattacharya et.al.|[2408.15840v1](http://arxiv.org/abs/2408.15840v1)|null|
 |**2024-08-27**|**Bounds and anomalies of inhomogeneous anomalous Hall effects**|Christopher Ard et.al.|[2408.15195v1](http://arxiv.org/abs/2408.15195v1)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584v1](http://arxiv.org/abs/2408.12584v1)|null|
@@ -7410,6 +7416,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Chiral-Split Magnon in Altermagnetic MnTe**|Zheyuan Liu et.al.|[2408.16490v1](http://arxiv.org/abs/2408.16490v1)|null|
 |**2024-08-28**|**Spin Excitation Continuum in the Exactly Solvable Triangular-Lattice Spin Liquid CeMgAl11O19**|Bin Gao et.al.|[2408.15957v1](http://arxiv.org/abs/2408.15957v1)|null|
 |**2024-08-26**|**Connection between f-electron correlations and magnetic excitations in UTe2**|Thomas Halloran et.al.|[2408.14619v1](http://arxiv.org/abs/2408.14619v1)|null|
 |**2024-08-19**|**Fingerprints of supersymmetric spin and charge dynamics observed by inelastic neutron scattering**|B. Wehinger et.al.|[2408.12626v1](http://arxiv.org/abs/2408.12626v1)|null|
