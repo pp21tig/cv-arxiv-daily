@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Frequency-Dependent Conductivity of Concentrated Electrolytes: A Stochastic Density Functional Theory**|Haggai Bonneau et.al.|[2408.17427v1](http://arxiv.org/abs/2408.17427v1)|null|
+|**2024-08-30**|**The Liquid-Gas Transition in Granular Matter : a Question of Effective Friction ?**|O. Coquand et.al.|[2408.17353v1](http://arxiv.org/abs/2408.17353v1)|null|
+|**2024-08-30**|**Dimensional confinement and superdiffusive rotational motion of uniaxial colloids in the presence of cylindrical obstacles**|Vikki Anand Varma et.al.|[2408.17345v1](http://arxiv.org/abs/2408.17345v1)|null|
+|**2024-08-30**|**Impact of ChatGPT on the writing style of condensed matter physicists**|Shaojun Xu et.al.|[2408.17325v1](http://arxiv.org/abs/2408.17325v1)|null|
+|**2024-08-30**|**Gellan-Based Hydrogels and Microgels for culturage heritage: a rheological perspective**|Silvia Franco et.al.|[2408.17247v1](http://arxiv.org/abs/2408.17247v1)|null|
+|**2024-08-30**|**Long-ranged double-layer forces at high ionic strengths, with a modified Restricted Primitive Model**|David Ribar et.al.|[2408.17210v1](http://arxiv.org/abs/2408.17210v1)|null|
+|**2024-08-30**|**Microscopic Structural Study on the Growth History of Granular Heaps Prepared by the Raining Method**|Hanyu Li et.al.|[2408.17147v1](http://arxiv.org/abs/2408.17147v1)|null|
+|**2024-08-30**|**Molecular anatomy of the pressure anisotropy in the interface of one and two component fluids: local thermodynamic description of the interfacial tension**|Takeshi Omori et.al.|[2408.17038v1](http://arxiv.org/abs/2408.17038v1)|null|
+|**2024-08-30**|**Dirac bilinears in condensed matter physics: Relativistic correction for observables and conjugate electromagnetic fields**|Shintaro Hoshino et.al.|[2408.16983v1](http://arxiv.org/abs/2408.16983v1)|null|
+|**2024-08-29**|**Epistatic pathways in evolvable mechanical networks**|Samar Alqatari et.al.|[2408.16926v1](http://arxiv.org/abs/2408.16926v1)|null|
+|**2024-08-29**|**SOLAX: A Python solver for fermionic quantum systems with neural network support**|Louis Thirion et.al.|[2408.16915v1](http://arxiv.org/abs/2408.16915v1)|null|
 |**2024-08-29**|**Symmetry constraints on topological invariants and irreducible band representations**|Jing Zhang et.al.|[2408.16658v1](http://arxiv.org/abs/2408.16658v1)|null|
 |**2024-08-29**|**Universal mechanistic rules for de novo design of enzymes**|Michalis Chatzittofi et.al.|[2408.16639v1](http://arxiv.org/abs/2408.16639v1)|null|
 |**2024-08-29**|**Convective Instability Driven by Diffusiophoresis of Colloids in Binary Liquid Mixtures**|Carmine Anzivino et.al.|[2408.16432v1](http://arxiv.org/abs/2408.16432v1)|null|
@@ -7416,6 +7427,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Magnetic and crystal electric field studies in the rare-earth-based square lattice antiferromagnet NdKNaNbO $_5$**|S. Guchhait et.al.|[2408.17417v1](http://arxiv.org/abs/2408.17417v1)|null|
 |**2024-08-29**|**Chiral-Split Magnon in Altermagnetic MnTe**|Zheyuan Liu et.al.|[2408.16490v1](http://arxiv.org/abs/2408.16490v1)|null|
 |**2024-08-28**|**Spin Excitation Continuum in the Exactly Solvable Triangular-Lattice Spin Liquid CeMgAl11O19**|Bin Gao et.al.|[2408.15957v1](http://arxiv.org/abs/2408.15957v1)|null|
 |**2024-08-26**|**Connection between f-electron correlations and magnetic excitations in UTe2**|Thomas Halloran et.al.|[2408.14619v1](http://arxiv.org/abs/2408.14619v1)|null|
