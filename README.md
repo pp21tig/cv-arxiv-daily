@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Orientational properties of the HGO system in a slit geometry in two-dimensional and three-dimensional case from Monte Carlo simulations and Onsager theory revisited**|Agnieszka Chrzanowska et.al.|[2409.02796v1](http://arxiv.org/abs/2409.02796v1)|null|
+|**2024-09-04**|**Josephson diode effect in one-dimensional quantum wires connected to superconductors with mixed singlet-triplet pairing**|Abhiram Soori et.al.|[2409.02794v1](http://arxiv.org/abs/2409.02794v1)|null|
+|**2024-09-04**|**Margination of artificially stiffened red blood cells**|Revaz D. Chachanidze et.al.|[2409.02776v1](http://arxiv.org/abs/2409.02776v1)|null|
+|**2024-09-04**|**Perspective: Floquet engineering topological states from effective models towards realistic materials**|Fangyang Zhan et.al.|[2409.02774v1](http://arxiv.org/abs/2409.02774v1)|null|
+|**2024-09-04**|**Ion-specific Stability of Gold Nanoparticle Suspensions**|Philipp Ritzert et.al.|[2409.02762v1](http://arxiv.org/abs/2409.02762v1)|null|
+|**2024-09-04**|**Cutting Mechanics of Soft Compressible Solids: Force-radius scaling versus bulk modulus**|Bharath Antarvedi Goda et.al.|[2409.02665v1](http://arxiv.org/abs/2409.02665v1)|null|
+|**2024-09-04**|**UNC-104 transport properties are robust and independent of changes in its cargo binding**|Amir Shee et.al.|[2409.02655v1](http://arxiv.org/abs/2409.02655v1)|null|
+|**2024-09-04**|**Fully-Polarized Topological Isostatic Metamaterials in Three Dimensions**|Zheng Tang et.al.|[2409.02607v1](http://arxiv.org/abs/2409.02607v1)|null|
+|**2024-09-04**|**Solubility of carbon dioxide in water: some useful results for hydrate nucleation**|Jesús Algaba et.al.|[2409.02600v1](http://arxiv.org/abs/2409.02600v1)|null|
+|**2024-09-04**|**Self-induced Floquet magnons in magnetic vortices**|Christopher Heins et.al.|[2409.02583v1](http://arxiv.org/abs/2409.02583v1)|null|
+|**2024-09-04**|**Necking of thin-walled cylinders via bifurcation of incompressible nonlinear elastic solids**|Roberta Springhetti et.al.|[2409.02544v1](http://arxiv.org/abs/2409.02544v1)|null|
+|**2024-09-04**|**Self-consistent approach to the dynamics of excitation energy transfer in multichromophoric systems**|Veljko Janković et.al.|[2409.02496v1](http://arxiv.org/abs/2409.02496v1)|null|
+|**2024-09-04**|**Phase separation in soft repulsive polymer mixtures: foundation and implication for chromatin organization**|Naoki Iso et.al.|[2409.02461v1](http://arxiv.org/abs/2409.02461v1)|null|
+|**2024-09-04**|**Pressure-Tunable Targets for Light Dark Matter Direct Detection: The Case of Solid Helium**|Omar A. Ashour et.al.|[2409.02439v1](http://arxiv.org/abs/2409.02439v1)|null|
+|**2024-09-04**|**Multifractaility, topology and anomalous Hall conductivity on a 30 degrees twisted bilayer honeycomb lattice**|Grigory Bednik et.al.|[2409.02373v1](http://arxiv.org/abs/2409.02373v1)|null|
+|**2024-09-03**|**Interface dynamics of wet active systems**|Fernando Caballero et.al.|[2409.02288v1](http://arxiv.org/abs/2409.02288v1)|null|
+|**2024-09-03**|**The Magnetic Maze: A System With Tunable Scale Invariance**|Tian-Gang Zhou et.al.|[2409.02176v1](http://arxiv.org/abs/2409.02176v1)|null|
+|**2024-09-03**|**Revealing subterahertz atomic vibrations in quantum paraelectrics by surface-sensitive spintronic terahertz spectroscopy**|Zhaodong Chu et.al.|[2409.02073v1](http://arxiv.org/abs/2409.02073v1)|null|
+|**2024-09-03**|**A minimal model of smoothly dividing disk-shaped cells**|Lukas Hupe et.al.|[2409.01959v1](http://arxiv.org/abs/2409.01959v1)|null|
+|**2024-09-03**|**Using test particle sum rules to construct accurate functionals in classical Density Functional Theory**|Melih Gül et.al.|[2409.01750v1](http://arxiv.org/abs/2409.01750v1)|null|
 |**2024-08-30**|**Frequency-Dependent Conductivity of Concentrated Electrolytes: A Stochastic Density Functional Theory**|Haggai Bonneau et.al.|[2408.17427v1](http://arxiv.org/abs/2408.17427v1)|null|
 |**2024-08-30**|**The Liquid-Gas Transition in Granular Matter : a Question of Effective Friction ?**|O. Coquand et.al.|[2408.17353v1](http://arxiv.org/abs/2408.17353v1)|null|
 |**2024-08-30**|**Dimensional confinement and superdiffusive rotational motion of uniaxial colloids in the presence of cylindrical obstacles**|Vikki Anand Varma et.al.|[2408.17345v1](http://arxiv.org/abs/2408.17345v1)|null|
@@ -6587,6 +6607,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Perspective: Floquet engineering topological states from effective models towards realistic materials**|Fangyang Zhan et.al.|[2409.02774v1](http://arxiv.org/abs/2409.02774v1)|null|
 |**2024-08-25**|**Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies**|Mahadi Hasan et.al.|[2408.13927v1](http://arxiv.org/abs/2408.13927v1)|null|
 |**2024-08-25**|**Quantum-enhanced weak absorption estimation with correlated photons**|Zhucheng Zhang et.al.|[2408.13817v1](http://arxiv.org/abs/2408.13817v1)|null|
 |**2024-08-23**|**Unveiling the nature of cathodoluminescence from photon statistics**|Sotatsu Yanagimoto et.al.|[2408.12824v1](http://arxiv.org/abs/2408.12824v1)|null|
@@ -7115,6 +7136,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Perspective: Floquet engineering topological states from effective models towards realistic materials**|Fangyang Zhan et.al.|[2409.02774v1](http://arxiv.org/abs/2409.02774v1)|null|
+|**2024-09-04**|**Electrical control of topological 3Q state in an intercalated van der Waals antiferromagnet**|Junghyun Kim et.al.|[2409.02710v1](http://arxiv.org/abs/2409.02710v1)|null|
+|**2024-09-04**|**Anomalous Hall effects in magnetic weak topological insulator films**|Rui Chen et.al.|[2409.02412v1](http://arxiv.org/abs/2409.02412v1)|null|
+|**2024-09-02**|**Striped magnetization plateau and chirality-reversible anomalous Hall effect in a magnetic kagome metal**|Erjian Cheng et.al.|[2409.01365v1](http://arxiv.org/abs/2409.01365v1)|null|
 |**2024-08-29**|**Nonlocal Moments in the Chern Bands of Twisted Bilayer Graphene**|Patrick J. Ledwith et.al.|[2408.16761v1](http://arxiv.org/abs/2408.16761v1)|null|
 |**2024-08-28**|**Electric field induced second-order anomalous Hall transport in unconventional Rashba system**|Ankita Bhattacharya et.al.|[2408.15840v1](http://arxiv.org/abs/2408.15840v1)|null|
 |**2024-08-27**|**Bounds and anomalies of inhomogeneous anomalous Hall effects**|Christopher Ard et.al.|[2408.15195v1](http://arxiv.org/abs/2408.15195v1)|null|
