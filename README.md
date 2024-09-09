@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Engineering unique localization transition with coupled Hatano-Nelson chains**|Ritaban Samanta et.al.|[2409.04417v1](http://arxiv.org/abs/2409.04417v1)|null|
+|**2024-09-06**|**Origin of yield stress and mechanical plasticity in biological tissues**|Anh Q. Nguyen et.al.|[2409.04383v1](http://arxiv.org/abs/2409.04383v1)|null|
+|**2024-09-06**|**Time-dependent dynamics in the confined lattice Lorentz gas**|A. Squarcini et.al.|[2409.04293v1](http://arxiv.org/abs/2409.04293v1)|null|
+|**2024-09-06**|**Dimensional crossover via confinement in the lattice Lorentz gas**|A. Squarcini et.al.|[2409.04289v1](http://arxiv.org/abs/2409.04289v1)|null|
+|**2024-09-06**|**Electromagnetic field assisted exciton diffusion in moiré superlattices**|A. M. Shentsev et.al.|[2409.04284v1](http://arxiv.org/abs/2409.04284v1)|null|
+|**2024-09-06**|**Why Static Friction Decreases From Single to Multi-asperity Contacts**|Liang Peng et.al.|[2409.04280v1](http://arxiv.org/abs/2409.04280v1)|null|
+|**2024-09-06**|**Collective chemotactic search strategies**|Hugues Meyer et.al.|[2409.04262v1](http://arxiv.org/abs/2409.04262v1)|null|
+|**2024-09-06**|**Hydrodynamic thinning of a coating film induced by a small solid defect: evidence of a time-minimum thickness**|Alice Etienne-Simonetti et.al.|[2409.04260v1](http://arxiv.org/abs/2409.04260v1)|null|
+|**2024-09-06**|**Hidden chiral symmetry for kagome lattice and its analogs**|Tomonari Mizoguchi et.al.|[2409.04239v1](http://arxiv.org/abs/2409.04239v1)|null|
+|**2024-09-06**|**High harmonic spectroscopy reveals anisotropy of the Mott to Charge-Density-Wave phase transition in TiSe $_2$**|Igor Tyulnev et.al.|[2409.04216v1](http://arxiv.org/abs/2409.04216v1)|null|
+|**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199v1](http://arxiv.org/abs/2409.04199v1)|null|
+|**2024-09-06**|**Resonant light scattering by a slab of ultracold atoms**|R. Vatré et.al.|[2409.04148v1](http://arxiv.org/abs/2409.04148v1)|null|
+|**2024-09-06**|**Re-entrant percolation in active Brownian hard disks**|David Evans et.al.|[2409.04141v1](http://arxiv.org/abs/2409.04141v1)|null|
+|**2024-09-06**|**Controlled formation of multi-scale porosity in ionosilica templated by ionic liquid**|Shilpa Sharma et.al.|[2409.04051v1](http://arxiv.org/abs/2409.04051v1)|null|
+|**2024-09-06**|**Freely Suspended Nematic and Smectic Films and Free-Standing Smectic Filaments in the Ferroelectric Nematic Realm**|Keith G. Hedlund et.al.|[2409.04019v1](http://arxiv.org/abs/2409.04019v1)|null|
+|**2024-09-05**|**Free-energy landscape of a polymer in the presence of two nanofluidic entropic traps**|James M. Polson et.al.|[2409.03882v1](http://arxiv.org/abs/2409.03882v1)|null|
 |**2024-09-05**|**Reprogrammable sequencing for physically intelligent under-actuated robots**|Leon M. Kamp et.al.|[2409.03737v1](http://arxiv.org/abs/2409.03737v1)|null|
 |**2024-09-05**|**Multidimensional Terahertz Probes of Quantum Materials**|Albert Liu et.al.|[2409.03719v1](http://arxiv.org/abs/2409.03719v1)|null|
 |**2024-09-05**|**Critical transition between intensive and extensive active droplets**|Jonathan Bauermann et.al.|[2409.03629v1](http://arxiv.org/abs/2409.03629v1)|null|
@@ -6621,6 +6637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154v1](http://arxiv.org/abs/2409.04154v1)|null|
 |**2024-09-04**|**Perspective: Floquet engineering topological states from effective models towards realistic materials**|Fangyang Zhan et.al.|[2409.02774v1](http://arxiv.org/abs/2409.02774v1)|null|
 |**2024-08-25**|**Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies**|Mahadi Hasan et.al.|[2408.13927v1](http://arxiv.org/abs/2408.13927v1)|null|
 |**2024-08-25**|**Quantum-enhanced weak absorption estimation with correlated photons**|Zhucheng Zhang et.al.|[2408.13817v1](http://arxiv.org/abs/2408.13817v1)|null|
@@ -6954,6 +6971,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Exploring the operational limits of Mirnov coil arrays in stellarators by means of a synthetic diagnostic**|Pedro Pons-Villalonga et.al.|[2409.04221v1](http://arxiv.org/abs/2409.04221v1)|null|
 |**2024-08-25**|**Revisiting the Analytical Solution of Spin-Orbit Torque Switched Nanoscale Perpendicular Ferromagnet**|Xue Zhang et.al.|[2408.13703v1](http://arxiv.org/abs/2408.13703v1)|null|
 |**2024-08-21**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v1](http://arxiv.org/abs/2408.11818v1)|null|
 |**2024-08-19**|**Current-Induced Circular Dichroism on Metallic Surfaces: A First-Principles Study**|Farzad Mahfouzi et.al.|[2408.10081v1](http://arxiv.org/abs/2408.10081v1)|null|
@@ -7150,6 +7168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Topological Quantum Materials with Kagome Lattice**|Qi Wang et.al.|[2409.04211v1](http://arxiv.org/abs/2409.04211v1)|null|
 |**2024-09-05**|**Recent advances in understanding and manipulating magnetic and electronic properties of Eu $M_2X_2$ ($M$ = Zn, Cd; $X$ = P, As)**|Xiyu Chen et.al.|[2409.03289v1](http://arxiv.org/abs/2409.03289v1)|null|
 |**2024-09-04**|**Interplay of Charge Density Wave and Magnetism on the Kagomé Lattice**|Yu-Han Lin et.al.|[2409.03063v1](http://arxiv.org/abs/2409.03063v1)|null|
 |**2024-09-04**|**Entropy-Enhanced Fractional Quantum Anomalous Hall Effect**|Gal Shavit et.al.|[2409.02997v1](http://arxiv.org/abs/2409.02997v1)|null|
