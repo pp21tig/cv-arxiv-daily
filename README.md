@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Fast quantum gates for exchange-only qubits using simultaneous exchange pulses**|Irina Heinz et.al.|[2409.05843v1](http://arxiv.org/abs/2409.05843v1)|null|
+|**2024-09-09**|**Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels**|Vinay Kopnar et.al.|[2409.05765v1](http://arxiv.org/abs/2409.05765v1)|null|
+|**2024-09-09**|**Transition path time over a barrier of a colloidal particle in a viscoelastic bath**|Brandon R. Ferrer et.al.|[2409.05651v1](http://arxiv.org/abs/2409.05651v1)|null|
+|**2024-09-09**|**Quantum Oscillations Evidence for Topological Bands in Kagome Metal ScV6Sn6**|Guoxin Zheng et.al.|[2409.05634v1](http://arxiv.org/abs/2409.05634v1)|null|
+|**2024-09-09**|**Interaction between corner and bulk flows during drainage in granular porous media**|Paula Reis et.al.|[2409.05574v1](http://arxiv.org/abs/2409.05574v1)|null|
+|**2024-09-09**|**Systematic Coarse-Graining of Sequence-Dependent Structure and Elasticity of Double-Stranded DNA**|Enrico Skoruppa et.al.|[2409.05510v1](http://arxiv.org/abs/2409.05510v1)|null|
+|**2024-09-09**|**Protocol dependence for avalanches under constant stress in elastoplastic models**|Tristan Jocteur et.al.|[2409.05444v1](http://arxiv.org/abs/2409.05444v1)|null|
+|**2024-09-09**|**Motion Ordering in Cellular Polar-polar and Polar-nonpolar Interactions**|Katsuyoshi Matsushita et.al.|[2409.05333v1](http://arxiv.org/abs/2409.05333v1)|null|
+|**2024-09-08**|**Banded phases in topological flocks**|Charles R. Packard et.al.|[2409.05198v1](http://arxiv.org/abs/2409.05198v1)|null|
+|**2024-09-08**|**Ordering, spontaneous flows and aging in active fluids depositing tracks**|Samuel Bell et.al.|[2409.05195v1](http://arxiv.org/abs/2409.05195v1)|null|
+|**2024-09-08**|**Learning to Classify Quantum Phases of Matter with a Few Measurements**|Mehran Khosrojerdi et.al.|[2409.05188v1](http://arxiv.org/abs/2409.05188v1)|null|
+|**2024-09-08**|**Quasicrystalline 30 $^{\circ}$ twisted bilayer graphene: Fractal patterns and electronic localization properties**|Kevin J. U. Vidarte et.al.|[2409.05126v1](http://arxiv.org/abs/2409.05126v1)|null|
+|**2024-09-08**|**Solvent isotopic effect on the phase transition of lyotropic chromonic liquid crystals: Heavy water makes mesogens less charged**|Jiyong Cheon et.al.|[2409.05097v1](http://arxiv.org/abs/2409.05097v1)|null|
+|**2024-09-08**|**Designing precise dynamical steady states in disordered networks**|Marc Berneman et.al.|[2409.05060v1](http://arxiv.org/abs/2409.05060v1)|null|
+|**2024-09-08**|**Air jet impact craters on granular surfaces: a universal scaling**|Prasad Sonar et.al.|[2409.04988v1](http://arxiv.org/abs/2409.04988v1)|null|
+|**2024-09-08**|**Testing Adam-Gibbs relationship in tapped Granular Packings**|Xinyu Ai et.al.|[2409.04983v1](http://arxiv.org/abs/2409.04983v1)|null|
+|**2024-09-08**|**Boundary accumulations of active rods in microchannels with elliptical cross-section**|Chase Brown et.al.|[2409.04950v1](http://arxiv.org/abs/2409.04950v1)|null|
+|**2024-09-07**|**Light-Activated Motion, Geometry- and Confinement-Induced Optical Effects of 2D Platelets in a Nematic Liquid Crystal**|Antonio Tavera-Vázquez et.al.|[2409.04912v1](http://arxiv.org/abs/2409.04912v1)|null|
+|**2024-09-07**|**Dissipative self-assembly of patchy particles under nonequilibrium drive: a computational study**|Shubhadeep Nag et.al.|[2409.04748v1](http://arxiv.org/abs/2409.04748v1)|null|
+|**2024-09-07**|**Two-dimensional squishy glass: yielding under oscillatory shear**|Sayantan Ghosh et.al.|[2409.04725v1](http://arxiv.org/abs/2409.04725v1)|null|
 |**2024-09-06**|**Engineering unique localization transition with coupled Hatano-Nelson chains**|Ritaban Samanta et.al.|[2409.04417v1](http://arxiv.org/abs/2409.04417v1)|null|
 |**2024-09-06**|**Origin of yield stress and mechanical plasticity in biological tissues**|Anh Q. Nguyen et.al.|[2409.04383v1](http://arxiv.org/abs/2409.04383v1)|null|
 |**2024-09-06**|**Time-dependent dynamics in the confined lattice Lorentz gas**|A. Squarcini et.al.|[2409.04293v1](http://arxiv.org/abs/2409.04293v1)|null|
@@ -6637,6 +6657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Nonperturbative Nonlinear Transport in a Floquet-Weyl Semimetal**|Matthew W. Day et.al.|[2409.04531v1](http://arxiv.org/abs/2409.04531v1)|null|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154v1](http://arxiv.org/abs/2409.04154v1)|null|
 |**2024-09-09**|**Perspective: Floquet engineering topological states from effective models towards realistic materials**|Fangyang Zhan et.al.|[2409.02774v2](http://arxiv.org/abs/2409.02774v2)|null|
 |**2024-08-25**|**Uncovering the complex mechanisms behind nanomaterials-based plasmon-driven photocatalysis through the utilization of Surface-Enhanced Raman Spectroscopies**|Mahadi Hasan et.al.|[2408.13927v1](http://arxiv.org/abs/2408.13927v1)|null|
@@ -7168,6 +7189,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-07**|**FePd2Te2: An Anisotropic Two-Dimensional Ferromagnet with One-Dimensional Fe Chains**|Bingxian Shi et.al.|[2409.04800v1](http://arxiv.org/abs/2409.04800v1)|null|
+|**2024-09-06**|**Unexpected Tuning of the Anomalous Hall Effect in Altermagnetic MnTe Thin Films**|Sara Bey et.al.|[2409.04567v1](http://arxiv.org/abs/2409.04567v1)|null|
+|**2024-09-06**|**Nonperturbative Nonlinear Transport in a Floquet-Weyl Semimetal**|Matthew W. Day et.al.|[2409.04531v1](http://arxiv.org/abs/2409.04531v1)|null|
 |**2024-09-06**|**Topological Quantum Materials with Kagome Lattice**|Qi Wang et.al.|[2409.04211v1](http://arxiv.org/abs/2409.04211v1)|null|
 |**2024-09-05**|**Recent advances in understanding and manipulating magnetic and electronic properties of Eu $M_2X_2$ ($M$ = Zn, Cd; $X$ = P, As)**|Xiyu Chen et.al.|[2409.03289v1](http://arxiv.org/abs/2409.03289v1)|null|
 |**2024-09-04**|**Interplay of Charge Density Wave and Magnetism on the Kagomé Lattice**|Yu-Han Lin et.al.|[2409.03063v1](http://arxiv.org/abs/2409.03063v1)|null|
