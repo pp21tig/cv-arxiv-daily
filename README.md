@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660v1](http://arxiv.org/abs/2409.06660v1)|null|
+|**2024-09-10**|**Synchronization of wave-propelled capillary spinners**|Jack-William Barotta et.al.|[2409.06652v1](http://arxiv.org/abs/2409.06652v1)|null|
+|**2024-09-10**|**Characterization of the spin and crystal field Hamiltonian of erbium dopants in silicon**|Adrian Holzäpfel et.al.|[2409.06571v1](http://arxiv.org/abs/2409.06571v1)|null|
+|**2024-09-10**|**Fingerprints of ordered self-assembled structures in the liquid phase of a hard-core, square-shoulder system**|Michael Wassermair et.al.|[2409.06447v1](http://arxiv.org/abs/2409.06447v1)|null|
+|**2024-09-10**|**Proposal to Observe Transverse Sound in Normal Liquid $^3$ He in Aerogel**|Priya Sharma et.al.|[2409.06363v1](http://arxiv.org/abs/2409.06363v1)|null|
+|**2024-09-10**|**Influence of temperature and crack-tip speed on crack propagation in elastic solids**|B. N. J. Persson et.al.|[2409.06182v1](http://arxiv.org/abs/2409.06182v1)|null|
+|**2024-09-09**|**A Modular and Extensible CHARMM-Compatible Model for All-Atom Simulation of Polypeptoids**|Alex Berlaga et.al.|[2409.06103v1](http://arxiv.org/abs/2409.06103v1)|null|
 |**2024-09-09**|**Fast quantum gates for exchange-only qubits using simultaneous exchange pulses**|Irina Heinz et.al.|[2409.05843v1](http://arxiv.org/abs/2409.05843v1)|null|
 |**2024-09-09**|**Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels**|Vinay Kopnar et.al.|[2409.05765v1](http://arxiv.org/abs/2409.05765v1)|null|
 |**2024-09-09**|**Transition path time over a barrier of a colloidal particle in a viscoelastic bath**|Brandon R. Ferrer et.al.|[2409.05651v1](http://arxiv.org/abs/2409.05651v1)|null|
@@ -7189,6 +7196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Giant anisotropic anomalous Hall effect in antiferromagnetic topological metal NdGaSi**|Anyesh Saraswati et.al.|[2409.06250v1](http://arxiv.org/abs/2409.06250v1)|null|
 |**2024-09-07**|**FePd2Te2: An Anisotropic Two-Dimensional Ferromagnet with One-Dimensional Fe Chains**|Bingxian Shi et.al.|[2409.04800v1](http://arxiv.org/abs/2409.04800v1)|null|
 |**2024-09-06**|**Unexpected Tuning of the Anomalous Hall Effect in Altermagnetic MnTe Thin Films**|Sara Bey et.al.|[2409.04567v1](http://arxiv.org/abs/2409.04567v1)|null|
 |**2024-09-06**|**Nonperturbative Nonlinear Transport in a Floquet-Weyl Semimetal**|Matthew W. Day et.al.|[2409.04531v1](http://arxiv.org/abs/2409.04531v1)|null|
@@ -7513,6 +7521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Magnetic Phase Diagram of ErB $_4$ as Explored by Neutron Scattering**|Simon Flury et.al.|[2409.06436v1](http://arxiv.org/abs/2409.06436v1)|null|
 |**2024-08-30**|**Magnetic and crystal electric field studies in the rare-earth-based square lattice antiferromagnet NdKNaNbO $_5$**|S. Guchhait et.al.|[2408.17417v1](http://arxiv.org/abs/2408.17417v1)|null|
 |**2024-08-29**|**Chiral-Split Magnon in Altermagnetic MnTe**|Zheyuan Liu et.al.|[2408.16490v1](http://arxiv.org/abs/2408.16490v1)|null|
 |**2024-08-28**|**Spin Excitation Continuum in the Exactly Solvable Triangular-Lattice Spin Liquid CeMgAl11O19**|Bin Gao et.al.|[2408.15957v1](http://arxiv.org/abs/2408.15957v1)|null|
