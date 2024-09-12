@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Programmable self-assembly of core-shell ellipsoids at liquid interfaces**|Jack Eatson et.al.|[2409.07443v1](http://arxiv.org/abs/2409.07443v1)|null|
+|**2024-09-11**|**Switchable Crystalline Islands in Super Lubricant Arrays**|Youngki Yeo et.al.|[2409.07225v1](http://arxiv.org/abs/2409.07225v1)|null|
+|**2024-09-11**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v1](http://arxiv.org/abs/2409.07199v1)|null|
+|**2024-09-11**|**Flow is slow at the nanoscale: Revisiting the Green-Kubo relation for friction**|Anna T. Bui et.al.|[2409.07134v1](http://arxiv.org/abs/2409.07134v1)|null|
+|**2024-09-11**|**Phase separation bursting and symmetry breaking inside an evaporating droplet; formation of a flower-like pattern**|Vahid Nasirimarekani et.al.|[2409.07095v1](http://arxiv.org/abs/2409.07095v1)|null|
+|**2024-09-11**|**Physical synchronization of soft self-oscillating limbs for fast and autonomous locomotion**|Alberto Comoretto et.al.|[2409.07011v1](http://arxiv.org/abs/2409.07011v1)|null|
+|**2024-09-11**|**Active Brownian particle under stochastic position and orientation resetting in a harmonic trap**|Amir Shee et.al.|[2409.06920v1](http://arxiv.org/abs/2409.06920v1)|null|
+|**2024-09-10**|**Disorder enhanced exciton transport and quantum information spreading with the assistance of cavity QED**|Weijun Wu et.al.|[2409.06900v1](http://arxiv.org/abs/2409.06900v1)|null|
 |**2024-09-10**|**Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter**|Shengkai Li et.al.|[2409.06660v1](http://arxiv.org/abs/2409.06660v1)|null|
 |**2024-09-10**|**Synchronization of wave-propelled capillary spinners**|Jack-William Barotta et.al.|[2409.06652v1](http://arxiv.org/abs/2409.06652v1)|null|
 |**2024-09-10**|**Characterization of the spin and crystal field Hamiltonian of erbium dopants in silicon**|Adrian Holzäpfel et.al.|[2409.06571v1](http://arxiv.org/abs/2409.06571v1)|null|
@@ -7003,6 +7011,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v1](http://arxiv.org/abs/2409.07199v1)|null|
 |**2024-09-06**|**Exploring the operational limits of Mirnov coil arrays in stellarators by means of a synthetic diagnostic**|Pedro Pons-Villalonga et.al.|[2409.04221v1](http://arxiv.org/abs/2409.04221v1)|null|
 |**2024-08-25**|**Revisiting the Analytical Solution of Spin-Orbit Torque Switched Nanoscale Perpendicular Ferromagnet**|Xue Zhang et.al.|[2408.13703v1](http://arxiv.org/abs/2408.13703v1)|null|
 |**2024-09-08**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v2](http://arxiv.org/abs/2408.11818v2)|null|
@@ -7200,6 +7209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**The chiral torsional anomaly and the Nieh-Yan invariant with and without boundaries**|Johanna Erdmenger et.al.|[2409.06766v1](http://arxiv.org/abs/2409.06766v1)|null|
 |**2024-09-10**|**Giant anisotropic anomalous Hall effect in antiferromagnetic topological metal NdGaSi**|Anyesh Saraswati et.al.|[2409.06250v1](http://arxiv.org/abs/2409.06250v1)|null|
 |**2024-09-07**|**FePd2Te2: An Anisotropic Two-Dimensional Ferromagnet with One-Dimensional Fe Chains**|Bingxian Shi et.al.|[2409.04800v1](http://arxiv.org/abs/2409.04800v1)|null|
 |**2024-09-06**|**Unexpected Tuning of the Anomalous Hall Effect in Altermagnetic MnTe Thin Films**|Sara Bey et.al.|[2409.04567v1](http://arxiv.org/abs/2409.04567v1)|null|
@@ -7525,6 +7535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Topological and Magnetic Properties of a Non-collinear Spin State on a Honeycomb Lattice in a Magnetic Field**|Randy S. Fishman et.al.|[2409.07319v1](http://arxiv.org/abs/2409.07319v1)|null|
 |**2024-09-10**|**Magnetic Phase Diagram of ErB $_4$ as Explored by Neutron Scattering**|Simon Flury et.al.|[2409.06436v1](http://arxiv.org/abs/2409.06436v1)|null|
 |**2024-08-30**|**Magnetic and crystal electric field studies in the rare-earth-based square lattice antiferromagnet NdKNaNbO $_5$**|S. Guchhait et.al.|[2408.17417v1](http://arxiv.org/abs/2408.17417v1)|null|
 |**2024-08-29**|**Chiral-Split Magnon in Altermagnetic MnTe**|Zheyuan Liu et.al.|[2408.16490v1](http://arxiv.org/abs/2408.16490v1)|null|
