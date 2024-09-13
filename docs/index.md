@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Shape, temperature and density interplay in depletion forces**|Itay Azizi et.al.|[2409.08209v1](http://arxiv.org/abs/2409.08209v1)|null|
+|**2024-09-12**|**Reversible Electron-Beam Patterning of Colloidal Nanoparticles at Fluid Interfaces**|Jonathan G. Raybin et.al.|[2409.08192v1](http://arxiv.org/abs/2409.08192v1)|null|
+|**2024-09-12**|**Loading-dependent microscale measures control bulk properties in granular material: an experimental test of the Stress-Force-Fabric relation**|Carmen L. Lee et.al.|[2409.08140v1](http://arxiv.org/abs/2409.08140v1)|null|
+|**2024-09-12**|**Unexpected changes in the band structure within AFM1 state of CeBi**|Yevhen Kushnirenko et.al.|[2409.08125v1](http://arxiv.org/abs/2409.08125v1)|null|
+|**2024-09-12**|**Persistent quantum vibronic dynamics in a $5d^1$ double perovskite oxide**|Naoya Iwahara et.al.|[2409.08095v1](http://arxiv.org/abs/2409.08095v1)|null|
+|**2024-09-12**|**AI-accelerated discovery of high critical temperature superconductors**|Xiao-Qi Han et.al.|[2409.08065v1](http://arxiv.org/abs/2409.08065v1)|null|
+|**2024-09-12**|**Simulating anharmonic vibrational polaritons beyond the long wavelength approximation**|Dipti Jasrasaria et.al.|[2409.07992v1](http://arxiv.org/abs/2409.07992v1)|null|
+|**2024-09-12**|**Evidence for field induced quantum spin liquid behavior in a spin-1/2 honeycomb magnet**|Gaoting Lin et.al.|[2409.07959v1](http://arxiv.org/abs/2409.07959v1)|null|
+|**2024-09-12**|**(Un)buckling mechanics of epithelial monolayers under compression**|Chandraniva Guha Ray et.al.|[2409.07928v1](http://arxiv.org/abs/2409.07928v1)|null|
+|**2024-09-12**|**Towards Timetronics with Photonic Systems**|Ali Emami Kopaei et.al.|[2409.07885v1](http://arxiv.org/abs/2409.07885v1)|null|
+|**2024-09-12**|**Corotation of two quantized vortices coupled with collective modes in self-gravitating Bose-Einstein condensates**|Kenta Asakawa et.al.|[2409.07860v1](http://arxiv.org/abs/2409.07860v1)|null|
+|**2024-09-12**|**Effect of pressure on the carbon dioxide hydrate-water interfacial free energy along its dissociation line**|Cristóbal Romero-Guzmán et.al.|[2409.07844v1](http://arxiv.org/abs/2409.07844v1)|null|
+|**2024-09-12**|**Geometric control and memory in networks of bistable elements**|Dor Shohat et.al.|[2409.07804v1](http://arxiv.org/abs/2409.07804v1)|null|
+|**2024-09-12**|**Mechanical hysterons with tunable interactions of general sign**|Joseph D. Paulsen et.al.|[2409.07726v1](http://arxiv.org/abs/2409.07726v1)|null|
+|**2024-09-12**|**A deep learning approach to search for superconductors from electronic bands**|Jun Li et.al.|[2409.07721v1](http://arxiv.org/abs/2409.07721v1)|null|
+|**2024-09-11**|**Curvature induces and enhances transport of spinning colloids through narrow channels**|Eric Cereceda-López et.al.|[2409.07661v1](http://arxiv.org/abs/2409.07661v1)|null|
+|**2024-09-11**|**Tuned ionic mobility by Ultrafast-laser pulses in Black Silicon**|Christelle Inès K. Mebou et.al.|[2409.07659v1](http://arxiv.org/abs/2409.07659v1)|null|
+|**2024-09-11**|**Anomalous behavior of electric-field Fréedericksz transitions**|Eugene C. Gartland Jr et.al.|[2409.07654v1](http://arxiv.org/abs/2409.07654v1)|null|
+|**2024-09-11**|**Self-organization and memory in a cyclically driven elasto-plastic model of an amorphous solid**|Dheeraj Kumar et.al.|[2409.07621v1](http://arxiv.org/abs/2409.07621v1)|null|
+|**2024-09-11**|**Theory of Nonequilibrium Multicomponent Coexistence**|Yu-Jen Chiu et.al.|[2409.07620v1](http://arxiv.org/abs/2409.07620v1)|null|
 |**2024-09-11**|**Programmable self-assembly of core-shell ellipsoids at liquid interfaces**|Jack Eatson et.al.|[2409.07443v1](http://arxiv.org/abs/2409.07443v1)|null|
 |**2024-09-11**|**Switchable Crystalline Islands in Super Lubricant Arrays**|Youngki Yeo et.al.|[2409.07225v1](http://arxiv.org/abs/2409.07225v1)|null|
 |**2024-09-12**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v2](http://arxiv.org/abs/2409.07199v2)|null|
@@ -7209,6 +7229,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Hierarchy of the third-order anomalous Hall effect: from clean to disorder regime**|Chanchal K. Barman et.al.|[2409.07993v1](http://arxiv.org/abs/2409.07993v1)|null|
+|**2024-09-12**|**Engineering Quantum Anomalous Hall Effect in Monolayer Janus MnBi2SexTe4-x**|Jiale Chen et.al.|[2409.07740v1](http://arxiv.org/abs/2409.07740v1)|null|
+|**2024-09-12**|**Magnetic topological Weyl fermions in half-metallic In $_2$CoSe$_4$**|Xiaosong Bai et.al.|[2409.07727v1](http://arxiv.org/abs/2409.07727v1)|null|
 |**2024-09-10**|**The chiral torsional anomaly and the Nieh-Yan invariant with and without boundaries**|Johanna Erdmenger et.al.|[2409.06766v1](http://arxiv.org/abs/2409.06766v1)|null|
 |**2024-09-10**|**Giant anisotropic anomalous Hall effect in antiferromagnetic topological metal NdGaSi**|Anyesh Saraswati et.al.|[2409.06250v1](http://arxiv.org/abs/2409.06250v1)|null|
 |**2024-09-07**|**FePd2Te2: An Anisotropic Two-Dimensional Ferromagnet with One-Dimensional Fe Chains**|Bingxian Shi et.al.|[2409.04800v1](http://arxiv.org/abs/2409.04800v1)|null|
@@ -7535,6 +7558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Evidence for field induced quantum spin liquid behavior in a spin-1/2 honeycomb magnet**|Gaoting Lin et.al.|[2409.07959v1](http://arxiv.org/abs/2409.07959v1)|null|
 |**2024-09-11**|**Topological and Magnetic Properties of a Non-collinear Spin State on a Honeycomb Lattice in a Magnetic Field**|Randy S. Fishman et.al.|[2409.07319v1](http://arxiv.org/abs/2409.07319v1)|null|
 |**2024-09-10**|**Magnetic Phase Diagram of ErB $_4$ as Explored by Neutron Scattering**|Simon Flury et.al.|[2409.06436v1](http://arxiv.org/abs/2409.06436v1)|null|
 |**2024-08-30**|**Magnetic and crystal electric field studies in the rare-earth-based square lattice antiferromagnet NdKNaNbO $_5$**|S. Guchhait et.al.|[2408.17417v1](http://arxiv.org/abs/2408.17417v1)|null|
