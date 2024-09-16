@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Assembly of Complex Colloidal Systems Using DNA**|William M. Jacobs et.al.|[2409.08988v1](http://arxiv.org/abs/2409.08988v1)|null|
+|**2024-09-13**|**The connection of polaritonic chemistry with the physics of a spin glass**|Dominik Sidler et.al.|[2409.08986v1](http://arxiv.org/abs/2409.08986v1)|null|
+|**2024-09-13**|**Inferring hyperuniformity from local structures via persistent homology**|Abel H. G. Milor et.al.|[2409.08899v1](http://arxiv.org/abs/2409.08899v1)|null|
+|**2024-09-13**|**Effective diffusion along the backbone of combs with finite-span 1D and 2D fingers**|Giovanni Bettarini et.al.|[2409.08855v1](http://arxiv.org/abs/2409.08855v1)|null|
+|**2024-09-13**|**Efficient Pseudomode Representation and Complexity of Quantum Impurity Models**|Julian Thoenniss et.al.|[2409.08816v1](http://arxiv.org/abs/2409.08816v1)|null|
+|**2024-09-13**|**Mean square displacement of intruders in freely cooling multicomponent granular mixtures**|Rubén Gómez González et.al.|[2409.08726v1](http://arxiv.org/abs/2409.08726v1)|null|
+|**2024-09-13**|**Effects of quenched disorder on the kinetics and pathways of phase transition in a soft colloidal system**|Gadha Ramesh et.al.|[2409.08679v1](http://arxiv.org/abs/2409.08679v1)|null|
+|**2024-09-13**|**Structural and dynamical investigation of glassforming smectogen by X-ray diffraction and infra-red spectroscopy aided by density functional theory calculations**|Aleksandra Deptuch et.al.|[2409.08654v1](http://arxiv.org/abs/2409.08654v1)|null|
+|**2024-09-13**|**Study of quantum phase transition and entanglement in coupled top systems with standard and nonstandard symmetries under Floquet formalism**|Rashmi Jangir et.al.|[2409.08567v1](http://arxiv.org/abs/2409.08567v1)|null|
+|**2024-09-13**|**Rigidity transitions in anisotropic networks happen in multiple steps**|William Y. Wang et.al.|[2409.08565v1](http://arxiv.org/abs/2409.08565v1)|null|
+|**2024-09-12**|**Branches, Tie Chains and Entanglements in Bimodal Polyethylene Single Crystals under Uniaxial Tensile Strain**|William S. Fall et.al.|[2409.08399v1](http://arxiv.org/abs/2409.08399v1)|null|
+|**2024-09-12**|**Critical Casimir levitation of colloids above a bull's-eye pattern**|Piotr Nowakowski et.al.|[2409.08366v1](http://arxiv.org/abs/2409.08366v1)|null|
+|**2024-09-12**|**Optical signatures of interlayer electron coherence in a bilayer semiconductor**|Xiaoling Liu et.al.|[2409.08329v1](http://arxiv.org/abs/2409.08329v1)|null|
 |**2024-09-12**|**Shape, temperature and density interplay in depletion forces**|Itay Azizi et.al.|[2409.08209v1](http://arxiv.org/abs/2409.08209v1)|null|
 |**2024-09-12**|**Reversible Electron-Beam Patterning of Colloidal Nanoparticles at Fluid Interfaces**|Jonathan G. Raybin et.al.|[2409.08192v1](http://arxiv.org/abs/2409.08192v1)|null|
 |**2024-09-12**|**Loading-dependent microscale measures control bulk properties in granular material: an experimental test of the Stress-Force-Fabric relation**|Carmen L. Lee et.al.|[2409.08140v1](http://arxiv.org/abs/2409.08140v1)|null|
@@ -6692,6 +6705,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Light-induced cortical excitability reveals programmable shape dynamics in starfish oocytes**|Jinghui Liu et.al.|[2409.08651v1](http://arxiv.org/abs/2409.08651v1)|null|
 |**2024-09-06**|**Nonperturbative Nonlinear Transport in a Floquet-Weyl Semimetal**|Matthew W. Day et.al.|[2409.04531v1](http://arxiv.org/abs/2409.04531v1)|null|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154v1](http://arxiv.org/abs/2409.04154v1)|null|
 |**2024-09-09**|**Perspective: Floquet engineering topological states from effective models towards realistic materials**|Fangyang Zhan et.al.|[2409.02774v2](http://arxiv.org/abs/2409.02774v2)|null|
@@ -7028,7 +7042,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-12**|**Nernst Plateau in the Quantum Limit of Topological Insulators**|Peng-Lu Zhao et.al.|[2409.07199v2](http://arxiv.org/abs/2409.07199v2)|null|
-|**2024-09-06**|**Exploring the operational limits of Mirnov coil arrays in stellarators by means of a synthetic diagnostic**|Pedro Pons-Villalonga et.al.|[2409.04221v1](http://arxiv.org/abs/2409.04221v1)|null|
+|**2024-09-06**|**Exploring the operational limits of Mirnov coil arrays in stellarators by means of a synthetic diagnostic**|Pedro Pons-Villalonga et.al.|[2409.04221v1](http://arxiv.org/abs/2409.04221v1)|**[link](https://github.com/pponsv/synth_mirnov)**|
 |**2024-08-25**|**Revisiting the Analytical Solution of Spin-Orbit Torque Switched Nanoscale Perpendicular Ferromagnet**|Xue Zhang et.al.|[2408.13703v1](http://arxiv.org/abs/2408.13703v1)|null|
 |**2024-09-08**|**Extended quantum anomalous Hall effect in moiré structures: phase transitions and transport**|Adarsh S. Patri et.al.|[2408.11818v2](http://arxiv.org/abs/2408.11818v2)|null|
 |**2024-08-19**|**Current-Induced Circular Dichroism on Metallic Surfaces: A First-Principles Study**|Farzad Mahfouzi et.al.|[2408.10081v1](http://arxiv.org/abs/2408.10081v1)|null|
@@ -7225,6 +7239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Artificial moiré engineering for an ideal BHZ model**|Wangqian Miao et.al.|[2409.08540v1](http://arxiv.org/abs/2409.08540v1)|null|
 |**2024-09-12**|**Hierarchy of the third-order anomalous Hall effect: from clean to disorder regime**|Chanchal K. Barman et.al.|[2409.07993v1](http://arxiv.org/abs/2409.07993v1)|null|
 |**2024-09-12**|**Engineering Quantum Anomalous Hall Effect in Monolayer Janus MnBi2SexTe4-x**|Jiale Chen et.al.|[2409.07740v1](http://arxiv.org/abs/2409.07740v1)|null|
 |**2024-09-12**|**Magnetic topological Weyl fermions in half-metallic In $_2$CoSe$_4$**|Xiaosong Bai et.al.|[2409.07727v1](http://arxiv.org/abs/2409.07727v1)|null|
@@ -7554,6 +7569,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Direct evidence for anisotropic magnetic interaction in $α$-RuCl$_3$ from polarized inelastic neutron scattering**|Markus Braden et.al.|[2409.08854v1](http://arxiv.org/abs/2409.08854v1)|null|
+|**2024-09-12**|**Magnetic diffuse scattering of the $S$ = 5/2 fcc antiferromagnets Ba$_2$MnTeO$_6$ and Ba$_2$MnWO$_6$**|Otto H. J. Mustonen et.al.|[2409.08323v1](http://arxiv.org/abs/2409.08323v1)|null|
 |**2024-09-12**|**Evidence for field induced quantum spin liquid behavior in a spin-1/2 honeycomb magnet**|Gaoting Lin et.al.|[2409.07959v1](http://arxiv.org/abs/2409.07959v1)|null|
 |**2024-09-11**|**Topological and Magnetic Properties of a Non-collinear Spin State on a Honeycomb Lattice in a Magnetic Field**|Randy S. Fishman et.al.|[2409.07319v1](http://arxiv.org/abs/2409.07319v1)|null|
 |**2024-09-10**|**Magnetic Phase Diagram of ErB $_4$ as Explored by Neutron Scattering**|Simon Flury et.al.|[2409.06436v1](http://arxiv.org/abs/2409.06436v1)|null|
