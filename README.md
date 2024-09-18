@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Length scales in electrolytes**|Ioannis Skarmoutsos et.al.|[2409.11179v1](http://arxiv.org/abs/2409.11179v1)|null|
+|**2024-09-17**|**Universally non-diverging Grüneisen parameter at critical points**|Samuel M. Soares et.al.|[2409.11086v1](http://arxiv.org/abs/2409.11086v1)|null|
+|**2024-09-17**|**Influence of media disorder on DNA melting**|Debjyoti Majumdar et.al.|[2409.11030v1](http://arxiv.org/abs/2409.11030v1)|null|
+|**2024-09-17**|**Mapping self-avoiding walk on obstacle-ridden lattice onto chelation of heavy metal ions: Monte Carlo study**|V. Blavatska et.al.|[2409.10974v1](http://arxiv.org/abs/2409.10974v1)|null|
+|**2024-09-17**|**Observation of hydrostatic-pressure-modulated giant caloric effect and electronic topological transition**|Jinying Yang et.al.|[2409.10936v1](http://arxiv.org/abs/2409.10936v1)|null|
+|**2024-09-17**|**Dispersive wave propagation in disordered flexible fibers enhances stress attenuation**|Peng Wang et.al.|[2409.10926v1](http://arxiv.org/abs/2409.10926v1)|null|
+|**2024-09-17**|**Mechanical and thermodynamic routes to the liquid-liquid interfacial tension and mixing free energy by molecular dynamics**|Rei Ogawa et.al.|[2409.10856v1](http://arxiv.org/abs/2409.10856v1)|null|
+|**2024-09-16**|**Disordered Yet Directed: The Emergence of Polar Flocks with Disordered Interactions**|Eloise Lardet et.al.|[2409.10768v1](http://arxiv.org/abs/2409.10768v1)|null|
+|**2024-09-16**|**Universality of the close packing properties and markers of isotropic-to-tetratic phase change in quasi-one-dimensional superdisk fluid**|Sakineh Mizani et.al.|[2409.10742v1](http://arxiv.org/abs/2409.10742v1)|null|
+|**2024-09-16**|**Sticking without contact: Elastohydrodynamic adhesion**|Vincent Bertin et.al.|[2409.10723v1](http://arxiv.org/abs/2409.10723v1)|null|
+|**2024-09-16**|**hklhop: a Selection Tool for Asymmetric Reflections of Spherically Bent Crystal Analysers for High Resolution X-ray Spectroscopy**|Jared E. Abramson et.al.|[2409.10698v1](http://arxiv.org/abs/2409.10698v1)|null|
+|**2024-09-16**|**Excess entropy of strongly coupled Yukawa fluids**|Sergey Khrapak et.al.|[2409.10645v1](http://arxiv.org/abs/2409.10645v1)|null|
 |**2024-09-16**|**Hydrodynamic hovering of swimming bacteria above surfaces**|Pyae Hein Htet et.al.|[2409.10447v1](http://arxiv.org/abs/2409.10447v1)|null|
 |**2024-09-16**|**Role of kinematic constraints in the time reversal symmetry breaking of a model active matter**|Soumen Das et.al.|[2409.10425v1](http://arxiv.org/abs/2409.10425v1)|null|
 |**2024-09-16**|**Hydrodynamic mechanism for stable spindle positioning in meiosis II oocytes**|Weida Liao et.al.|[2409.10401v1](http://arxiv.org/abs/2409.10401v1)|null|
@@ -6725,6 +6737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Cavity-Enhanced Optical Manipulation of Antiferromagnetic Magnon-Pairs**|Tahereh Sadat Parvini et.al.|[2409.10659v1](http://arxiv.org/abs/2409.10659v1)|null|
 |**2024-09-16**|**Thermolectricity in irradiated bilayer graphene flakes**|Cynthia Ihuoma Osuala et.al.|[2409.10380v1](http://arxiv.org/abs/2409.10380v1)|null|
 |**2024-09-13**|**Light-induced cortical excitability reveals programmable shape dynamics in starfish oocytes**|Jinghui Liu et.al.|[2409.08651v1](http://arxiv.org/abs/2409.08651v1)|null|
 |**2024-09-06**|**Nonperturbative Nonlinear Transport in a Floquet-Weyl Semimetal**|Matthew W. Day et.al.|[2409.04531v1](http://arxiv.org/abs/2409.04531v1)|null|
@@ -7261,6 +7274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Proximity-Induced Topological Hall Effect in Fe-doped Monolayer WSe2**|Mengqi Fang et.al.|[2409.11222v1](http://arxiv.org/abs/2409.11222v1)|null|
 |**2024-09-16**|**Magnetization dependent anisotropic topological properties in EuCuP**|Jian Yuan et.al.|[2409.10061v1](http://arxiv.org/abs/2409.10061v1)|null|
 |**2024-09-13**|**Artificial moiré engineering for an ideal BHZ model**|Wangqian Miao et.al.|[2409.08540v1](http://arxiv.org/abs/2409.08540v1)|null|
 |**2024-09-12**|**Hierarchy of the third-order anomalous Hall effect: from clean to disorder regime**|Chanchal K. Barman et.al.|[2409.07993v1](http://arxiv.org/abs/2409.07993v1)|null|
