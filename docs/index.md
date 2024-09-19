@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Mirages in the Energy Landscape of Soft Sphere Packings**|Praharsh Suryadevara et.al.|[2409.12113v1](http://arxiv.org/abs/2409.12113v1)|null|
+|**2024-09-18**|**Shock propagation in a driven hard sphere gas: molecular dynamics simulations and hydrodynamics**|Amit Kumar et.al.|[2409.12086v1](http://arxiv.org/abs/2409.12086v1)|null|
+|**2024-09-18**|**The elastica sling**|Alessandro Cazzolli et.al.|[2409.12075v1](http://arxiv.org/abs/2409.12075v1)|null|
+|**2024-09-18**|**Not-so-glass-like Caging and Fluctuations of an Active Matter Model**|Mingyuan Zheng et.al.|[2409.12037v1](http://arxiv.org/abs/2409.12037v1)|null|
+|**2024-09-18**|**Operator-Projected Variational Quantum Imaginary Time Evolution**|Aeishah Ameera Anuar et.al.|[2409.12018v1](http://arxiv.org/abs/2409.12018v1)|null|
+|**2024-09-18**|**Lifting a granular box by a half-buried rod**|Ting-Heng Hsieh et.al.|[2409.11957v1](http://arxiv.org/abs/2409.11957v1)|null|
+|**2024-09-18**|**Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics**|Ziyue Zou et.al.|[2409.11843v1](http://arxiv.org/abs/2409.11843v1)|null|
+|**2024-09-18**|**Optical Label-Free Microscopy Characterization of Dielectric Nanoparticles**|Berenice Garcia Rodriguez et.al.|[2409.11810v1](http://arxiv.org/abs/2409.11810v1)|null|
+|**2024-09-18**|**Representation theory of Gaussian unitary transformations for bosonic and fermionic systems**|Tommaso Guaita et.al.|[2409.11628v1](http://arxiv.org/abs/2409.11628v1)|null|
+|**2024-09-17**|**Selection Principle for the Screening Parameters in the Mechanical Response of Amorphous Solids**|Pawandeep Kaur et.al.|[2409.11507v1](http://arxiv.org/abs/2409.11507v1)|null|
 |**2024-09-17**|**Length scales in electrolytes**|Ioannis Skarmoutsos et.al.|[2409.11179v1](http://arxiv.org/abs/2409.11179v1)|null|
 |**2024-09-17**|**Universally non-diverging Grüneisen parameter at critical points**|Samuel M. Soares et.al.|[2409.11086v1](http://arxiv.org/abs/2409.11086v1)|null|
 |**2024-09-17**|**Influence of media disorder on DNA melting**|Debjyoti Majumdar et.al.|[2409.11030v1](http://arxiv.org/abs/2409.11030v1)|null|
@@ -6741,6 +6751,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Light-induced Nonlinear Resonant Spin Magnetization**|Sayan Sarkar et.al.|[2409.12142v1](http://arxiv.org/abs/2409.12142v1)|null|
 |**2024-09-16**|**Cavity-Enhanced Optical Manipulation of Antiferromagnetic Magnon-Pairs**|Tahereh Sadat Parvini et.al.|[2409.10659v1](http://arxiv.org/abs/2409.10659v1)|null|
 |**2024-09-16**|**Thermolectricity in irradiated bilayer graphene flakes**|Cynthia Ihuoma Osuala et.al.|[2409.10380v1](http://arxiv.org/abs/2409.10380v1)|null|
 |**2024-09-13**|**Light-induced cortical excitability reveals programmable shape dynamics in starfish oocytes**|Jinghui Liu et.al.|[2409.08651v1](http://arxiv.org/abs/2409.08651v1)|null|
@@ -7278,6 +7289,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Anomalous Hall effect from nonlinear magnetoelectric coupling**|Longju Yu et.al.|[2409.11662v1](http://arxiv.org/abs/2409.11662v1)|null|
 |**2024-09-17**|**Proximity-Induced Topological Hall Effect in Fe-doped Monolayer WSe2**|Mengqi Fang et.al.|[2409.11222v1](http://arxiv.org/abs/2409.11222v1)|null|
 |**2024-09-16**|**Magnetization dependent anisotropic topological properties in EuCuP**|Jian Yuan et.al.|[2409.10061v1](http://arxiv.org/abs/2409.10061v1)|null|
 |**2024-09-13**|**Artificial moiré engineering for an ideal BHZ model**|Wangqian Miao et.al.|[2409.08540v1](http://arxiv.org/abs/2409.08540v1)|null|
