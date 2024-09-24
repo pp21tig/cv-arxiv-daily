@@ -7286,7 +7286,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-18**|**Anomalous Hall effect from nonlinear magnetoelectric coupling**|Longju Yu et.al.|[2409.11662v1](http://arxiv.org/abs/2409.11662v1)|null|
-|**2024-09-17**|**Proximity-Induced Topological Hall Effect in Fe-doped Monolayer WSe2**|Mengqi Fang et.al.|[2409.11222v1](http://arxiv.org/abs/2409.11222v1)|null|
+|**2024-09-23**|**Emerging Topological Hall Effect in Fe-doped Monolayer WSe2**|Mengqi Fang et.al.|[2409.11222v2](http://arxiv.org/abs/2409.11222v2)|null|
 |**2024-09-16**|**Magnetization dependent anisotropic topological properties in EuCuP**|Jian Yuan et.al.|[2409.10061v1](http://arxiv.org/abs/2409.10061v1)|null|
 |**2024-09-13**|**Artificial moiré engineering for an ideal BHZ model**|Wangqian Miao et.al.|[2409.08540v1](http://arxiv.org/abs/2409.08540v1)|null|
 |**2024-09-12**|**Hierarchy of the third-order anomalous Hall effect: from clean to disorder regime**|Chanchal K. Barman et.al.|[2409.07993v1](http://arxiv.org/abs/2409.07993v1)|null|
