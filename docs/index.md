@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**What do clever algorithms for glasses do? Time reparametrization at work**|Federico Ghimenti et.al.|[2409.17121v1](http://arxiv.org/abs/2409.17121v1)|null|
+|**2024-09-25**|**Self-organization and memory in an amorphous solid subject to random loading**|Muhittin Mungan et.al.|[2409.17096v1](http://arxiv.org/abs/2409.17096v1)|null|
+|**2024-09-25**|**Run-and-tumble particle in one-dimensional potentials: mean first-passage time and applications**|Mathis Guéneau et.al.|[2409.16951v1](http://arxiv.org/abs/2409.16951v1)|null|
+|**2024-09-25**|**Optothermal Revolution: Colloids in an Optical Ring Trap**|Rahul Chand et.al.|[2409.16792v1](http://arxiv.org/abs/2409.16792v1)|null|
+|**2024-09-25**|**Non-invertible duality defects in one, two, and three dimensions via gauging spatially modulated symmetry**|Hiromi Ebisu et.al.|[2409.16744v1](http://arxiv.org/abs/2409.16744v1)|null|
+|**2024-09-25**|**Entropy of state transitions in macroscopic active matter**|Francesco Romanò et.al.|[2409.16734v1](http://arxiv.org/abs/2409.16734v1)|null|
+|**2024-09-25**|**Flow of supercooled liquids under dipolar force field**|Kento Maeda et.al.|[2409.16725v1](http://arxiv.org/abs/2409.16725v1)|null|
+|**2024-09-25**|**Deformation of a one dimensional ferromagnetic domain wall due to double exchange interaction with a free electron system**|K. Seremetas et.al.|[2409.16638v1](http://arxiv.org/abs/2409.16638v1)|null|
+|**2024-09-24**|**A random planting model**|Julian Talbot et.al.|[2409.16432v1](http://arxiv.org/abs/2409.16432v1)|null|
 |**2024-09-24**|**Interfacial performance evolution of ceramics-in-polymer composite electrolyte in solid-state lithium metal batteries**|Ao Cheng et.al.|[2409.16250v1](http://arxiv.org/abs/2409.16250v1)|null|
 |**2024-09-24**|**Modified Bridgman formula for the thermal conductivity of complex (dusty) plasma fluids**|Sergey Khrapak et.al.|[2409.16193v1](http://arxiv.org/abs/2409.16193v1)|null|
 |**2024-09-24**|**Epithelial Tissues from the Bottom-Up: Contact Inhibition, Wound Healing, and Force Networks**|Anshuman Pasupalak et.al.|[2409.16128v1](http://arxiv.org/abs/2409.16128v1)|null|
@@ -7313,6 +7322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Exploring the Magnetotransport Signature of antiskyrmions in Mn $_{1.4}$ PtSn**|Andy Thomas et.al.|[2409.16649v1](http://arxiv.org/abs/2409.16649v1)|null|
 |**2024-09-22**|**Linear response of a Chern insulator to finite-frequency electric fields**|Jason G. Kattan et.al.|[2409.14601v1](http://arxiv.org/abs/2409.14601v1)|null|
 |**2024-09-20**|**Tunable Anomalous Hall Effect in a Kagome Ferromagnetic Weyl Semimetal**|Samuel E. Pate et.al.|[2409.13558v1](http://arxiv.org/abs/2409.13558v1)|null|
 |**2024-09-20**|**Quantum geometry in condensed matter**|Tianyu Liu et.al.|[2409.13408v1](http://arxiv.org/abs/2409.13408v1)|null|
