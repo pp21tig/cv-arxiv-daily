@@ -1098,6 +1098,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Identifying Bridges from Asymmetric Load-Bearing Structures in Tapped Granular Packings**|Chijin Zhou et.al.|[2409.18093v1](http://arxiv.org/abs/2409.18093v1)|null|
+|**2024-09-26**|**Intrinsic statistical regularity of topological charges revealed in dynamical disk model**|Ranzhi Sun et.al.|[2409.17940v1](http://arxiv.org/abs/2409.17940v1)|null|
+|**2024-09-26**|**Small Leidenfrost droplet dynamics**|Benjamin Sobac et.al.|[2409.17853v1](http://arxiv.org/abs/2409.17853v1)|null|
+|**2024-09-26**|**Nature of the activity-mediated unjamming transition in confluent cell monolayers**|Souvik Sadhukhan et.al.|[2409.17816v1](http://arxiv.org/abs/2409.17816v1)|null|
+|**2024-09-26**|**Direct measurement of terahertz conductivity in a gated monolayer semiconductor**|Su-Di Chen et.al.|[2409.17633v1](http://arxiv.org/abs/2409.17633v1)|null|
+|**2024-09-26**|**Digital simulation of zero-temperature spontaneous symmetry breaking in a superconducting lattice processor**|Chang-Kang Hu et.al.|[2409.17620v1](http://arxiv.org/abs/2409.17620v1)|null|
+|**2024-09-26**|**Anomalous Conformations and Dynamics of Active Block Copolymers**|Suman Majumder et.al.|[2409.17585v1](http://arxiv.org/abs/2409.17585v1)|null|
+|**2024-09-26**|**Giant Hall effect in a highly conductive frustrated magnet GdCu $_2$**|Kosuke Karube et.al.|[2409.17478v1](http://arxiv.org/abs/2409.17478v1)|null|
+|**2024-09-26**|**Inertia in skyrmions confined to one-dimensional geometries**|Koichiro Takahashi et.al.|[2409.17461v1](http://arxiv.org/abs/2409.17461v1)|null|
+|**2024-09-25**|**Microscopic description of the intermittent dynamics driving logarithmic creep**|Daniel J. Korchinski et.al.|[2409.17415v1](http://arxiv.org/abs/2409.17415v1)|null|
+|**2024-09-25**|**Fatigue failure in glasses under cyclic shear deformation**|Swarnendu Maity et.al.|[2409.17384v1](http://arxiv.org/abs/2409.17384v1)|null|
+|**2024-09-25**|**Zeeman polaritons as a platform for probing Dicke physics in condensed matter**|T. Elijah Kritzell et.al.|[2409.17339v1](http://arxiv.org/abs/2409.17339v1)|null|
+|**2024-09-25**|**Capillary waves in miscible fluids**|Alessandro Carbonaro et.al.|[2409.17333v1](http://arxiv.org/abs/2409.17333v1)|null|
+|**2024-09-25**|**Universality of Dynamic and Thermodynamic Behavior of Polymers near their Glass Transition**|Valeriy V. Ginzburg et.al.|[2409.17291v1](http://arxiv.org/abs/2409.17291v1)|null|
+|**2024-09-25**|**Exploring the expansion of the universe using the Grüneisen parameter**|Lucas Squillante et.al.|[2409.17288v1](http://arxiv.org/abs/2409.17288v1)|null|
+|**2024-09-25**|**Microscopic Geared Mechanisms**|Gan Wang et.al.|[2409.17284v1](http://arxiv.org/abs/2409.17284v1)|null|
+|**2024-09-25**|**Optical conductivity of the Majorana mode at the s- and d-wave topological superconductor edge**|Lina Johnsen Kamra et.al.|[2409.17240v1](http://arxiv.org/abs/2409.17240v1)|null|
+|**2024-09-25**|**Measuring Entanglement by Exploiting its Anti-symmetric Nature**|Peyman Azodi et.al.|[2409.17236v1](http://arxiv.org/abs/2409.17236v1)|null|
+|**2024-09-25**|**Detecting axion dynamics on the surface of magnetic topological insulators**|Zhi-Qiang Gao et.al.|[2409.17230v1](http://arxiv.org/abs/2409.17230v1)|null|
 |**2024-09-25**|**What do clever algorithms for glasses do? Time reparametrization at work**|Federico Ghimenti et.al.|[2409.17121v1](http://arxiv.org/abs/2409.17121v1)|null|
 |**2024-09-25**|**Self-organization and memory in an amorphous solid subject to random loading**|Muhittin Mungan et.al.|[2409.17096v1](http://arxiv.org/abs/2409.17096v1)|null|
 |**2024-09-25**|**Run-and-tumble particle in one-dimensional potentials: mean first-passage time and applications**|Mathis Guéneau et.al.|[2409.16951v1](http://arxiv.org/abs/2409.16951v1)|null|
