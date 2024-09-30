@@ -1102,6 +1102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Connecting anomalous elasticity and sub-Arrhenius structural dynamics in a cell-based model**|Chengling Li et.al.|[2409.18949v1](http://arxiv.org/abs/2409.18949v1)|null|
+|**2024-09-27**|**Shaping terahertz waves using anisotropic shear modes in a van der Waals mineral**|Nicolas M. Kawahala et.al.|[2409.18933v1](http://arxiv.org/abs/2409.18933v1)|null|
+|**2024-09-27**|**The ion activated attractive patchy particles model and its application to the liquid-vapour phase transitions**|Furio Surfaro et.al.|[2409.18929v1](http://arxiv.org/abs/2409.18929v1)|null|
+|**2024-09-27**|**"Faster is slower" in soft/rigid granular mixtures: soft particles induce flow intermittency and avalanches**|Saeed Alborzi et.al.|[2409.18873v1](http://arxiv.org/abs/2409.18873v1)|null|
+|**2024-09-27**|**Balanced Air-Biased Detection of Terahertz Waveforms**|Alexander Holm Ohrt et.al.|[2409.18746v1](http://arxiv.org/abs/2409.18746v1)|null|
+|**2024-09-27**|**Chirality Modulated Accumulation of Chiral Active Particles**|Bhavesh Valecha et.al.|[2409.18703v1](http://arxiv.org/abs/2409.18703v1)|null|
+|**2024-09-27**|**Stress Isotropization in Weakly Jammed Granular Packings**|Félix Benoist et.al.|[2409.18579v1](http://arxiv.org/abs/2409.18579v1)|null|
+|**2024-09-27**|**Self-sustained patchy turbulence in shear-thinning active fluids**|Henning Reinken et.al.|[2409.18576v1](http://arxiv.org/abs/2409.18576v1)|null|
+|**2024-09-27**|**Windmill droplets. Optical-induced rotation of biphase oil-in-water droplets**|Jesús J. del Pozo et.al.|[2409.18539v1](http://arxiv.org/abs/2409.18539v1)|null|
+|**2024-09-27**|**Osmotically-induced rupture of viral capsids**|Felipe B. M. Aguiar et.al.|[2409.18384v1](http://arxiv.org/abs/2409.18384v1)|null|
 |**2024-09-26**|**Identifying Bridges from Asymmetric Load-Bearing Structures in Tapped Granular Packings**|Chijin Zhou et.al.|[2409.18093v1](http://arxiv.org/abs/2409.18093v1)|null|
 |**2024-09-26**|**Intrinsic statistical regularity of topological charges revealed in dynamical disk model**|Ranzhi Sun et.al.|[2409.17940v1](http://arxiv.org/abs/2409.17940v1)|null|
 |**2024-09-26**|**Small Leidenfrost droplet dynamics**|Benjamin Sobac et.al.|[2409.17853v1](http://arxiv.org/abs/2409.17853v1)|null|
@@ -7341,6 +7351,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Altermagnetic variants in thin films of Mn5Si3**|Javier Rial et.al.|[2409.18691v1](http://arxiv.org/abs/2409.18691v1)|null|
 |**2024-09-25**|**Exploring the Magnetotransport Signature of antiskyrmions in Mn $_{1.4}$ PtSn**|Andy Thomas et.al.|[2409.16649v1](http://arxiv.org/abs/2409.16649v1)|null|
 |**2024-09-22**|**Linear response of a Chern insulator to finite-frequency electric fields**|Jason G. Kattan et.al.|[2409.14601v1](http://arxiv.org/abs/2409.14601v1)|null|
 |**2024-09-20**|**Tunable Anomalous Hall Effect in a Kagome Ferromagnetic Weyl Semimetal**|Samuel E. Pate et.al.|[2409.13558v1](http://arxiv.org/abs/2409.13558v1)|null|
