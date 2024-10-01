@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Isovolumetric dividing active matter**|Samantha R. Lish et.al.|[2409.20481v1](http://arxiv.org/abs/2409.20481v1)|null|
+|**2024-09-30**|**Reprogrammable, in-materia matrix-vector multiplication with floppy modes**|Theophile Louvet et.al.|[2409.20425v1](http://arxiv.org/abs/2409.20425v1)|null|
+|**2024-09-30**|**Topology affects diffusion dynamics of ring polymers in dilute solutions**|Prabeen Kumar Pattnayak et.al.|[2409.20386v1](http://arxiv.org/abs/2409.20386v1)|null|
+|**2024-09-30**|**Learning thermodynamics and topological order of the 2D XY model with generative real-valued restricted Boltzmann machines**|Kai Zhang et.al.|[2409.20377v1](http://arxiv.org/abs/2409.20377v1)|null|
+|**2024-09-30**|**Emergent dynamics and spatiotemporal patterns in soft robotic swarms**|R. Pramanik et.al.|[2409.20234v1](http://arxiv.org/abs/2409.20234v1)|null|
+|**2024-09-30**|**Photon-assisted ultrafast electron-hole plasma expansion in direct band semiconductors**|T. Troha et.al.|[2409.20121v1](http://arxiv.org/abs/2409.20121v1)|null|
+|**2024-09-30**|**Guided mechanical self-assembly of bubbles in fiber arrays**|Marwan Chammouma et.al.|[2409.20114v1](http://arxiv.org/abs/2409.20114v1)|null|
+|**2024-09-30**|**Coarsening dynamics of chemotactic aggregates**|Henrik Weyer et.al.|[2409.20100v1](http://arxiv.org/abs/2409.20100v1)|null|
+|**2024-09-30**|**Chemotaxis-induced phase separation**|Henrik Weyer et.al.|[2409.20090v1](http://arxiv.org/abs/2409.20090v1)|null|
+|**2024-09-30**|**Deciphering the Interface Laws of Turing Mixtures and Foams**|Henrik Weyer et.al.|[2409.20070v1](http://arxiv.org/abs/2409.20070v1)|null|
+|**2024-09-30**|**High-efficiency quantum Monte Carlo algorithm for extracting entanglement entropy in interacting fermion systems**|Weilun Jiang et.al.|[2409.20009v1](http://arxiv.org/abs/2409.20009v1)|null|
+|**2024-09-30**|**Instant ZeV-ion-acceleration in Upset Magnetar Origin Bursts**|Jiro Shimoda et.al.|[2409.19915v1](http://arxiv.org/abs/2409.19915v1)|null|
+|**2024-09-29**|**On-Chip Terahertz Spectroscopy for Dual-Gated van der Waals Heterostructures at Cryogenic Temperatures**|Junseok Seo et.al.|[2409.19726v1](http://arxiv.org/abs/2409.19726v1)|null|
+|**2024-09-29**|**Dark-state engineering in Fock-state lattices**|Xuan Zhao et.al.|[2409.19697v1](http://arxiv.org/abs/2409.19697v1)|null|
+|**2024-09-29**|**Pseudo-Riemannian metric: a new perspective on the quantum realm**|Miaomiao Wei et.al.|[2409.19551v1](http://arxiv.org/abs/2409.19551v1)|null|
+|**2024-09-28**|**Higgs-like stiffness and fractons on the verge of phase transitions**|Lucas Squillante et.al.|[2409.19475v1](http://arxiv.org/abs/2409.19475v1)|null|
+|**2024-09-28**|**Spin-polarized transport in quadruple quantum dots attached to ferromagnetic leads**|Piotr Trocha et.al.|[2409.19444v1](http://arxiv.org/abs/2409.19444v1)|null|
+|**2024-09-28**|**Role of intercellular adhesion in modulating tissue fluidity**|Soumyadipta Ray et.al.|[2409.19440v1](http://arxiv.org/abs/2409.19440v1)|null|
+|**2024-09-28**|**Lift Force on a Moving Intruder in Granular Shear Flow**|Hantao He et.al.|[2409.19408v1](http://arxiv.org/abs/2409.19408v1)|null|
+|**2024-09-28**|**Electromagnetic Response for Modulation at Optical Time Scale**|Evgenii E. Narimanov et.al.|[2409.19394v1](http://arxiv.org/abs/2409.19394v1)|null|
 |**2024-09-27**|**Connecting anomalous elasticity and sub-Arrhenius structural dynamics in a cell-based model**|Chengling Li et.al.|[2409.18949v1](http://arxiv.org/abs/2409.18949v1)|null|
 |**2024-09-27**|**Shaping terahertz waves using anisotropic shear modes in a van der Waals mineral**|Nicolas M. Kawahala et.al.|[2409.18933v1](http://arxiv.org/abs/2409.18933v1)|null|
 |**2024-09-27**|**The ion activated attractive patchy particles model and its application to the liquid-vapour phase transitions**|Furio Surfaro et.al.|[2409.18929v1](http://arxiv.org/abs/2409.18929v1)|null|
@@ -6809,6 +6829,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Equilibrium non-linear phononics by electric field fluctuations of terahertz cavities**|Emil Viñas Boström et.al.|[2409.19063v1](http://arxiv.org/abs/2409.19063v1)|null|
 |**2024-09-18**|**Light-induced Nonlinear Resonant Spin Magnetization**|Sayan Sarkar et.al.|[2409.12142v1](http://arxiv.org/abs/2409.12142v1)|null|
 |**2024-09-16**|**Cavity-Enhanced Optical Manipulation of Antiferromagnetic Magnon-Pairs**|Tahereh Sadat Parvini et.al.|[2409.10659v1](http://arxiv.org/abs/2409.10659v1)|null|
 |**2024-09-24**|**Thermolectricity in irradiated bilayer graphene flakes**|Cynthia Ihuoma Osuala et.al.|[2409.10380v2](http://arxiv.org/abs/2409.10380v2)|null|
@@ -7149,6 +7170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-28**|**Imaging the diffusive-to-ballistic crossover of magnetotransport in graphene**|Zachary J. Krebs et.al.|[2409.19468v1](http://arxiv.org/abs/2409.19468v1)|null|
+|**2024-09-28**|**Symmetry requirements for current-induced spin magnetization specific to chiral crystals: Multipole analysis and the hidden spin glide symmetry**|Ryosuke Hirakida et.al.|[2409.19317v1](http://arxiv.org/abs/2409.19317v1)|null|
 |**2024-09-23**|**Charged current neutrino scattering from nucleons**|M. Sajjad Athar et.al.|[2409.14732v1](http://arxiv.org/abs/2409.14732v1)|null|
 |**2024-09-21**|**Hall MHD waves: A fundamental departure from their MHD counterparts**|Swadesh M. Mahajan et.al.|[2409.14129v1](http://arxiv.org/abs/2409.14129v1)|null|
 |**2024-09-20**|**Intrinsic spin Nernst effect in topological Dirac and magnetic Weyl semimetals**|Taiki Matsushita et.al.|[2409.13225v1](http://arxiv.org/abs/2409.13225v1)|null|
