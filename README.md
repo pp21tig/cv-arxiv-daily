@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Statistical mechanics of the flexural Ising model in $D$ dimensions**|Abigail Plummer et.al.|[2410.01797v1](http://arxiv.org/abs/2410.01797v1)|null|
+|**2024-10-02**|**Humidity Sensing Properties of Different Atomic Layers of Graphene on SiO2/Si Substrate**|Qiang Gao et.al.|[2410.01484v1](http://arxiv.org/abs/2410.01484v1)|null|
+|**2024-10-02**|**Four ribbons of double-layer graphene suspending masses for NEMS applications**|Xuge Fan et.al.|[2410.01462v1](http://arxiv.org/abs/2410.01462v1)|null|
+|**2024-10-02**|**Graphene MEMS and NEMS**|Xuge Fan et.al.|[2410.01439v1](http://arxiv.org/abs/2410.01439v1)|null|
+|**2024-10-02**|**Cascades and Kolmogorov's lognormal scaling in two-dimensional bacterial turbulence**|Yongxiang Huang et.al.|[2410.01361v1](http://arxiv.org/abs/2410.01361v1)|null|
+|**2024-10-02**|**Polymer dynamics under tension: mean first passage time for looping**|Wout Laeremans et.al.|[2410.01347v1](http://arxiv.org/abs/2410.01347v1)|null|
+|**2024-10-02**|**Non-Hermitian ultra-strong bosonic condensation through interaction-induced caging**|Mengjie Yang et.al.|[2410.01258v1](http://arxiv.org/abs/2410.01258v1)|null|
+|**2024-10-02**|**Organization and Dynamics of Chromosomes**|D. Thirumalai et.al.|[2410.01219v1](http://arxiv.org/abs/2410.01219v1)|null|
+|**2024-10-02**|**Simulation of Stochastic Non-Equilibrium Thermal Effects of Particle Inclusions within Fluid Interfaces and Membranes**|Dev Jasuja et.al.|[2410.01165v1](http://arxiv.org/abs/2410.01165v1)|null|
+|**2024-10-02**|**Isolated zero-energy flat-bands and intrinsic magnetism in carbon monolayers**|Chaoyu He et.al.|[2410.01142v1](http://arxiv.org/abs/2410.01142v1)|null|
+|**2024-10-01**|**Millikelvin Si-MOSFETs for Quantum Electronics**|Nikolai Yurttagül et.al.|[2410.01077v1](http://arxiv.org/abs/2410.01077v1)|null|
+|**2024-10-01**|**Thermally activated dynamics of annealed glasses near the yielding transition under cyclic shear**|Ian R Graham et.al.|[2410.01062v1](http://arxiv.org/abs/2410.01062v1)|null|
+|**2024-10-01**|**Growth of Stress-Responsive Bacteria in 3D Colonies under Confining Pressure**|Samaneh Rahbar et.al.|[2410.00898v1](http://arxiv.org/abs/2410.00898v1)|null|
+|**2024-10-01**|**Emergence of a hump in the cubic dielectric response of glycerol: a MD study**|Marceau Hénot et.al.|[2410.00867v1](http://arxiv.org/abs/2410.00867v1)|null|
+|**2024-10-01**|**Response of Worm-like Chains to Traveling-Wave Active Forces**|Fabio Cecconi et.al.|[2410.00864v1](http://arxiv.org/abs/2410.00864v1)|null|
+|**2024-10-01**|**Molecular origin of slippery behaviour in tethered liquid layers**|Fabio Rasera et.al.|[2410.00815v1](http://arxiv.org/abs/2410.00815v1)|null|
+|**2024-10-01**|**Self-organized magnon condensation in quasi-one-dimensional edge-shared cuprates**|Cliò Efthimia Agrapidis et.al.|[2410.00734v1](http://arxiv.org/abs/2410.00734v1)|null|
+|**2024-10-01**|**Domain Growth Kinetics in Active Binary Mixtures**|Sayantan Mondal et.al.|[2410.00594v1](http://arxiv.org/abs/2410.00594v1)|null|
+|**2024-10-01**|**Coacervation drives morphological diversity of mRNA encapsulating nanoparticles**|Emmit K. Pert et.al.|[2410.00406v1](http://arxiv.org/abs/2410.00406v1)|null|
+|**2024-10-01**|**Structurally induced magnetic transitions in layered dichalcogenides MoQ2 (Q = S, Se, Te) and double hydroxides (M2+)6Al3(OH)18[Na(H2O)6](SO4)2 6H2O (M2+ = Mn2+, Fe2+) under mechanical deformation**|L. M. Volkova et.al.|[2410.00391v1](http://arxiv.org/abs/2410.00391v1)|null|
 |**2024-09-30**|**Isovolumetric dividing active matter**|Samantha R. Lish et.al.|[2409.20481v1](http://arxiv.org/abs/2409.20481v1)|null|
 |**2024-09-30**|**Reprogrammable, in-materia matrix-vector multiplication with floppy modes**|Theophile Louvet et.al.|[2409.20425v1](http://arxiv.org/abs/2409.20425v1)|null|
 |**2024-09-30**|**Topology affects diffusion dynamics of ring polymers in dilute solutions**|Prabeen Kumar Pattnayak et.al.|[2409.20386v1](http://arxiv.org/abs/2409.20386v1)|null|
@@ -6825,6 +6845,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Atmospheric Pressure Ammonia Synthesis on AuRu Catalysts Enabled by Plasmon-Controlled Hydrogenation and Nitrogen-species Desorption**|Lin Yuan et.al.|[2410.01300v1](http://arxiv.org/abs/2410.01300v1)|null|
+|**2024-10-01**|**Rydberg excitons and polaritons in monolayer transition metal dichalcogenides in a magnetic field**|D. de la Fuente Pico et.al.|[2410.00783v1](http://arxiv.org/abs/2410.00783v1)|null|
 |**2024-09-27**|**Equilibrium non-linear phononics by electric field fluctuations of terahertz cavities**|Emil Viñas Boström et.al.|[2409.19063v1](http://arxiv.org/abs/2409.19063v1)|null|
 |**2024-09-18**|**Light-induced Nonlinear Resonant Spin Magnetization**|Sayan Sarkar et.al.|[2409.12142v1](http://arxiv.org/abs/2409.12142v1)|null|
 |**2024-09-16**|**Cavity-Enhanced Optical Manipulation of Antiferromagnetic Magnon-Pairs**|Tahereh Sadat Parvini et.al.|[2409.10659v1](http://arxiv.org/abs/2409.10659v1)|null|
@@ -7166,6 +7188,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Fast switchable unidirectional magnon emitter**|Yueqi Wang et.al.|[2410.01511v1](http://arxiv.org/abs/2410.01511v1)|null|
+|**2024-09-30**|**Control of spin-orbit torque-driven domain nucleation through geometry in chirally coupled magnetic tracks**|Guillaume Beaulieu et.al.|[2410.00176v1](http://arxiv.org/abs/2410.00176v1)|null|
 |**2024-09-28**|**Imaging the diffusive-to-ballistic crossover of magnetotransport in graphene**|Zachary J. Krebs et.al.|[2409.19468v1](http://arxiv.org/abs/2409.19468v1)|null|
 |**2024-09-28**|**Symmetry requirements for current-induced spin magnetization specific to chiral crystals: Multipole analysis and the hidden spin glide symmetry**|Ryosuke Hirakida et.al.|[2409.19317v1](http://arxiv.org/abs/2409.19317v1)|null|
 |**2024-09-23**|**Charged current neutrino scattering from nucleons**|M. Sajjad Athar et.al.|[2409.14732v1](http://arxiv.org/abs/2409.14732v1)|null|
