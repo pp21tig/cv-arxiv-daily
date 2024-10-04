@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Assessing the pair interactions of pNIPAM microgel particles using optical tweezers**|José Muñetón-Díaz et.al.|[2410.02641v1](http://arxiv.org/abs/2410.02641v1)|null|
+|**2024-10-03**|**Chaitin Phase Transition**|James Purcell et.al.|[2410.02600v1](http://arxiv.org/abs/2410.02600v1)|null|
+|**2024-10-03**|**Spontaneous self-wrapping in chiral active polymers**|Lorenzo Caprini et.al.|[2410.02567v1](http://arxiv.org/abs/2410.02567v1)|null|
+|**2024-10-03**|**Learning classical density functionals for ionic fluids**|Anna T. Bui et.al.|[2410.02556v1](http://arxiv.org/abs/2410.02556v1)|null|
+|**2024-10-03**|**Fighting Exponentially Small Gaps by Counterdiabatic Driving**|Federico Balducci et.al.|[2410.02520v1](http://arxiv.org/abs/2410.02520v1)|null|
+|**2024-10-03**|**A Hitchhiker's Guide To Active Motion**|Tobias Plasczyk et.al.|[2410.02515v1](http://arxiv.org/abs/2410.02515v1)|null|
+|**2024-10-03**|**Quenched shear stresses and shear moduli in disordered elastic networks**|J. P. Wittmer et.al.|[2410.02493v1](http://arxiv.org/abs/2410.02493v1)|null|
+|**2024-10-03**|**Augmented snap-through instability of folded strips**|Tom Marzin et.al.|[2410.02402v1](http://arxiv.org/abs/2410.02402v1)|null|
+|**2024-10-03**|**Taylor's swimming sheet near a soft boundary**|Aditya Jha et.al.|[2410.02278v1](http://arxiv.org/abs/2410.02278v1)|null|
+|**2024-10-03**|**Recent Advances in Graphene-Based Pressure Sensors: A Review**|Zhe Zhang et.al.|[2410.02256v1](http://arxiv.org/abs/2410.02256v1)|null|
+|**2024-10-03**|**Recent Advances in Graphene-Based Humidity Sensors with the Focus of Structural Design: A Review**|Hongliang Ma et.al.|[2410.02255v1](http://arxiv.org/abs/2410.02255v1)|null|
+|**2024-10-03**|**Fast response and highly sensitive flexible humidity sensor based on nanocomposite film of MoS2 and graphene oxide**|Gengwu Ge et.al.|[2410.02245v1](http://arxiv.org/abs/2410.02245v1)|null|
+|**2024-10-03**|**Solvent-cosolvent attraction is sufficient to induce polymer collapse in good solvent mixtures**|Hitesh Garg et.al.|[2410.02211v1](http://arxiv.org/abs/2410.02211v1)|null|
+|**2024-10-03**|**Novel mechanical response of parallelogram-face origami governed by topological characteristics**|Yanxin Feng et.al.|[2410.02174v1](http://arxiv.org/abs/2410.02174v1)|null|
+|**2024-10-02**|**Enhanced rotational diffusion and spontaneous rotation of an active Janus disk in a complex fluid**|Marco De Corato et.al.|[2410.01993v1](http://arxiv.org/abs/2410.01993v1)|null|
+|**2024-10-02**|**Self-assembly of mixed surfactants sodium dodecylsulfate and polyethylene glycol dodecyl ether in aqueous solutions**|Juliano F. Teixeira et.al.|[2410.01983v1](http://arxiv.org/abs/2410.01983v1)|null|
+|**2024-10-02**|**Gapless dispersive continuum in a breathing kagome antiferromagnet**|Asiri Thennakoon et.al.|[2410.01931v1](http://arxiv.org/abs/2410.01931v1)|null|
+|**2024-10-02**|**Boundary shape engineering for the spatial control of confined active particles**|Roberto Di Leonardo et.al.|[2410.01916v1](http://arxiv.org/abs/2410.01916v1)|null|
 |**2024-10-02**|**Statistical mechanics of the flexural Ising model in $D$ dimensions**|Abigail Plummer et.al.|[2410.01797v1](http://arxiv.org/abs/2410.01797v1)|null|
 |**2024-10-02**|**Humidity Sensing Properties of Different Atomic Layers of Graphene on SiO2/Si Substrate**|Qiang Gao et.al.|[2410.01484v1](http://arxiv.org/abs/2410.01484v1)|null|
 |**2024-10-02**|**Four ribbons of double-layer graphene suspending masses for NEMS applications**|Xuge Fan et.al.|[2410.01462v1](http://arxiv.org/abs/2410.01462v1)|null|
@@ -7732,6 +7750,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Contrasting dynamical properties of single-Q and triple-Q magnetic orderings in a triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2410.02180v1](http://arxiv.org/abs/2410.02180v1)|null|
 |**2024-09-16**|**Anomalous quasielastic scattering contribution in the centrosymmetric multi- $\mathbf{q}$ helimagnet SrFeO$_3$**|N. D. Andriushin et.al.|[2409.10214v1](http://arxiv.org/abs/2409.10214v1)|null|
 |**2024-09-13**|**Direct evidence for anisotropic magnetic interaction in $α$-RuCl$_3$ from polarized inelastic neutron scattering**|Markus Braden et.al.|[2409.08854v1](http://arxiv.org/abs/2409.08854v1)|null|
 |**2024-09-12**|**Magnetic diffuse scattering of the $S$ = 5/2 fcc antiferromagnets Ba$_2$MnTeO$_6$ and Ba$_2$MnWO$_6$**|Otto H. J. Mustonen et.al.|[2409.08323v1](http://arxiv.org/abs/2409.08323v1)|null|
