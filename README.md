@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Accelerating Structure Prediction of Molecular Crystals using Actively Trained Moment Tensor Potential**|Nikita Rybin et.al.|[2410.03484v1](http://arxiv.org/abs/2410.03484v1)|null|
+|**2024-10-04**|**Receptors cluster in high-curvature membrane regions for optimal spatial gradient sensing**|Albert Alonso et.al.|[2410.03395v1](http://arxiv.org/abs/2410.03395v1)|**[link](https://github.com/kirkegaardlab/recloc)**|
+|**2024-10-04**|**Elastocapillarity-driven surface growth in tumour spheroids**|D. Riccobelli et.al.|[2410.03344v1](http://arxiv.org/abs/2410.03344v1)|null|
+|**2024-10-04**|**Single excitation migration in molecular chain with an attached molecular structure: non-adiabatic polaron model**|Dalibor Chevizovich et.al.|[2410.03343v1](http://arxiv.org/abs/2410.03343v1)|null|
+|**2024-10-04**|**Ionic association and Wien effect in 2D confined electrolytes**|Damien Toquer et.al.|[2410.03316v1](http://arxiv.org/abs/2410.03316v1)|null|
+|**2024-10-04**|**Probing 3D Velocity Distributions Insights from a Vibrated Dual-Species Granular System**|Rameez Farooq Shah et.al.|[2410.03273v1](http://arxiv.org/abs/2410.03273v1)|null|
+|**2024-10-04**|**Analysis of local structure of mechanical and thermal rearrangements in glasses with the atomic cluster expansion**|Joerg Rottler et.al.|[2410.03216v1](http://arxiv.org/abs/2410.03216v1)|null|
+|**2024-10-04**|**Spontaneously formed phonon frequency combs in van der Waals solid CrXTe $_3$ (X=Ge,Si)**|Lebing Chen et.al.|[2410.03128v1](http://arxiv.org/abs/2410.03128v1)|null|
+|**2024-10-04**|**Exchange striction induced thermal Hall effect in van der Waals antiferromagnet MnPS $_3$**|Heejun Yang et.al.|[2410.03088v1](http://arxiv.org/abs/2410.03088v1)|null|
+|**2024-10-03**|**Multi-Motor Cargo Navigation in Complex Cytoskeletal Networks**|Mason Grieb et.al.|[2410.03004v1](http://arxiv.org/abs/2410.03004v1)|null|
+|**2024-10-03**|**Acoustic signaling enables collective perception and control in active matter systems**|Alexander Ziepke et.al.|[2410.02940v1](http://arxiv.org/abs/2410.02940v1)|null|
+|**2024-10-03**|**Shear thickening inside elastic open-cell foams under dynamic compression**|Samantha M. Livermore et.al.|[2410.02887v1](http://arxiv.org/abs/2410.02887v1)|null|
 |**2024-10-03**|**Assessing the pair interactions of pNIPAM microgel particles using optical tweezers**|José Muñetón-Díaz et.al.|[2410.02641v1](http://arxiv.org/abs/2410.02641v1)|null|
 |**2024-10-03**|**Chaitin Phase Transition**|James Purcell et.al.|[2410.02600v1](http://arxiv.org/abs/2410.02600v1)|null|
 |**2024-10-03**|**Spontaneous self-wrapping in chiral active polymers**|Lorenzo Caprini et.al.|[2410.02567v1](http://arxiv.org/abs/2410.02567v1)|null|
@@ -7206,6 +7218,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Hanle effect in current induced spin orientation**|L. E. Golub et.al.|[2410.02947v1](http://arxiv.org/abs/2410.02947v1)|null|
 |**2024-10-02**|**Fast switchable unidirectional magnon emitter**|Yueqi Wang et.al.|[2410.01511v1](http://arxiv.org/abs/2410.01511v1)|null|
 |**2024-09-30**|**Control of spin-orbit torque-driven domain nucleation through geometry in chirally coupled magnetic tracks**|Guillaume Beaulieu et.al.|[2410.00176v1](http://arxiv.org/abs/2410.00176v1)|null|
 |**2024-09-28**|**Imaging the diffusive-to-ballistic crossover of magnetotransport in graphene**|Zachary J. Krebs et.al.|[2409.19468v1](http://arxiv.org/abs/2409.19468v1)|null|
@@ -7412,6 +7425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Driving the Berry phase anomalous Hall effect in a noncollinear antiferromagnet by domain manipulation**|Yuchuan Yao et.al.|[2410.02990v1](http://arxiv.org/abs/2410.02990v1)|null|
 |**2024-09-27**|**Altermagnetic variants in thin films of Mn5Si3**|Javier Rial et.al.|[2409.18691v1](http://arxiv.org/abs/2409.18691v1)|null|
 |**2024-09-25**|**Exploring the Magnetotransport Signature of antiskyrmions in Mn $_{1.4}$ PtSn**|Andy Thomas et.al.|[2409.16649v1](http://arxiv.org/abs/2409.16649v1)|null|
 |**2024-09-22**|**Linear response of a Chern insulator to finite-frequency electric fields**|Jason G. Kattan et.al.|[2409.14601v1](http://arxiv.org/abs/2409.14601v1)|null|
