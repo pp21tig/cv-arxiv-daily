@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Nonlinear transport theory at the order of quantum metric**|Zhen-Hao Gong et.al.|[2410.04995v1](http://arxiv.org/abs/2410.04995v1)|null|
+|**2024-10-07**|**Quasi-Majorana modes in the $p$ -wave Kitaev chains on a square lattice**|S. Srinidhi et.al.|[2410.04955v1](http://arxiv.org/abs/2410.04955v1)|null|
+|**2024-10-07**|**Transition between cooperative emission regimes in giant perovskite nanocrystals**|Etsuki Kobiyama et.al.|[2410.04938v1](http://arxiv.org/abs/2410.04938v1)|null|
+|**2024-10-07**|**The interplay between topography and contact line pinning mechanisms on flat and superhydrophobic surfaces**|Mahya Meyari et.al.|[2410.04914v1](http://arxiv.org/abs/2410.04914v1)|null|
+|**2024-10-07**|**Mechanisms of electrostatic interactions between two charged dielectric spheres inside a polarizable medium: An effective-dipole analysis**|Yanyu Duan et.al.|[2410.04890v1](http://arxiv.org/abs/2410.04890v1)|null|
+|**2024-10-07**|**Solution landscape of droplet on rough surfaces: wetting transition and directional transport**|Yuze Zhang et.al.|[2410.04829v1](http://arxiv.org/abs/2410.04829v1)|null|
+|**2024-10-07**|**Spotting structural defects in crystals from the topology of vibrational modes**|Long-Zhou Huang et.al.|[2410.04720v1](http://arxiv.org/abs/2410.04720v1)|null|
+|**2024-10-07**|**Atomistic analysis of nematic phase transition in 4-cyano-4 $^{\prime}$-$n$ -alkyl biphenyl liquid crystals: Sampling for the first-order phase transition and the free-energy decomposition**|Shunsuke Ogita et.al.|[2410.04718v1](http://arxiv.org/abs/2410.04718v1)|null|
+|**2024-10-07**|**Dislocations and Fibrations: The Topological Structure of Knotted Smectic Defects**|Paul G. Severino et.al.|[2410.04670v1](http://arxiv.org/abs/2410.04670v1)|null|
+|**2024-10-06**|**Solute dispersion in pre-turbulent confined active nematics**|Tomás Alvim et.al.|[2410.04629v1](http://arxiv.org/abs/2410.04629v1)|null|
+|**2024-10-06**|**Thickness-Driven Transitions Between Novel Magnetic States in Ferromagnetic Films**|Jacob Mankenberg et.al.|[2410.04600v1](http://arxiv.org/abs/2410.04600v1)|null|
+|**2024-10-06**|**Phase segregation lubricates paste extrusion**|Richard T. Benders et.al.|[2410.04593v1](http://arxiv.org/abs/2410.04593v1)|null|
+|**2024-10-06**|**3D printed mesoporous superconductors with periodic order on three length scales and enhanced properties via block copolymer directed self-assembly**|Fei Yu et.al.|[2410.04569v1](http://arxiv.org/abs/2410.04569v1)|null|
+|**2024-10-06**|**Self-consistent electrostatic formalism of bulk electrolytes based on the asymmetric treatment of the short- and long-range ion interactions**|Sahin Buyukdagli et.al.|[2410.04556v1](http://arxiv.org/abs/2410.04556v1)|null|
+|**2024-10-06**|**Ferro-ionic States and Domains Morphology in Hf $_x$Zr$_{1-x}$O$_2$ Nanoparticles**|Eugene A. Eliseev et.al.|[2410.04476v1](http://arxiv.org/abs/2410.04476v1)|null|
+|**2024-10-06**|**Flexible framework of computing binding free energy using the energy representation theory of solution**|Kazuya Okita et.al.|[2410.04423v1](http://arxiv.org/abs/2410.04423v1)|null|
+|**2024-10-06**|**Two dark components of de Sitter Universe**|G. E. Volovik et.al.|[2410.04392v1](http://arxiv.org/abs/2410.04392v1)|null|
+|**2024-10-05**|**Crystal Ball: A Simple Model for Phase Transitions on a Classical Spherical Lattice**|Aidan Bachmann et.al.|[2410.04311v1](http://arxiv.org/abs/2410.04311v1)|null|
+|**2024-10-05**|**Conceptualization and Implementation of a Faster Than Real Time Simulation Tool for Ionic Material and System Modeling**|Max Tepermeister et.al.|[2410.04310v1](http://arxiv.org/abs/2410.04310v1)|null|
+|**2024-10-05**|**Electronic interactions of a new quatertiophene-based surfactants atliquid/gas interface**|Changwoo Bae et.al.|[2410.04145v1](http://arxiv.org/abs/2410.04145v1)|null|
 |**2024-10-04**|**Accelerating Structure Prediction of Molecular Crystals using Actively Trained Moment Tensor Potential**|Nikita Rybin et.al.|[2410.03484v1](http://arxiv.org/abs/2410.03484v1)|null|
 |**2024-10-04**|**Receptors cluster in high-curvature membrane regions for optimal spatial gradient sensing**|Albert Alonso et.al.|[2410.03395v1](http://arxiv.org/abs/2410.03395v1)|**[link](https://github.com/kirkegaardlab/recloc)**|
 |**2024-10-04**|**Elastocapillarity-driven surface growth in tumour spheroids**|D. Riccobelli et.al.|[2410.03344v1](http://arxiv.org/abs/2410.03344v1)|null|
@@ -7222,6 +7242,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-06**|**Reply to "Comment on "Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response""**|Soju Furuta et.al.|[2410.04325v1](http://arxiv.org/abs/2410.04325v1)|null|
 |**2024-10-03**|**Hanle effect in current induced spin orientation**|L. E. Golub et.al.|[2410.02947v1](http://arxiv.org/abs/2410.02947v1)|null|
 |**2024-10-02**|**Fast switchable unidirectional magnon emitter**|Yueqi Wang et.al.|[2410.01511v1](http://arxiv.org/abs/2410.01511v1)|null|
 |**2024-09-30**|**Control of spin-orbit torque-driven domain nucleation through geometry in chirally coupled magnetic tracks**|Guillaume Beaulieu et.al.|[2410.00176v1](http://arxiv.org/abs/2410.00176v1)|null|
