@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Active fluids form system-spanning filamentary networks**|Paarth Gulati et.al.|[2410.07058v1](http://arxiv.org/abs/2410.07058v1)|null|
+|**2024-10-09**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050v1](http://arxiv.org/abs/2410.07050v1)|null|
+|**2024-10-09**|**Precisely controlled colloids: A playground for path-wise non-equilibrium physics**|Cai Dieball et.al.|[2410.07026v1](http://arxiv.org/abs/2410.07026v1)|null|
+|**2024-10-09**|**Universal scaling of quantum caustics in the dynamics of interacting particles**|Monalisa Singh Roy et.al.|[2410.06803v1](http://arxiv.org/abs/2410.06803v1)|null|
+|**2024-10-09**|**Deformation of hydrogel during freezing**|Lila Séguy et.al.|[2410.06766v1](http://arxiv.org/abs/2410.06766v1)|null|
+|**2024-10-09**|**Capture and release of quantum vortices using mechanical devices in low-temperature superfluids**|Sanjay Shukla et.al.|[2410.06650v1](http://arxiv.org/abs/2410.06650v1)|null|
+|**2024-10-09**|**Dual photoisomerization mechanism of azobenzene embedded in a lipid membrane**|Silvio Osella et.al.|[2410.06649v1](http://arxiv.org/abs/2410.06649v1)|null|
+|**2024-10-09**|**High proton conductivity through angstrom-porous titania**|Y. Ji et.al.|[2410.06489v1](http://arxiv.org/abs/2410.06489v1)|null|
+|**2024-10-08**|**Run-and-tumble particles in slit geometry as a splitting probability problem**|Derek Frydel et.al.|[2410.06393v1](http://arxiv.org/abs/2410.06393v1)|null|
+|**2024-10-08**|**Biomimetic Swarm of Active Particles with Coupled Passive-Active Interactions**|Amir Nourhani et.al.|[2410.06274v1](http://arxiv.org/abs/2410.06274v1)|null|
+|**2024-10-08**|**Broken intrinsic symmetry induced magnon-magnon coupling in synthetic ferrimagnets**|Mohammad Tomal Hossain et.al.|[2410.06167v1](http://arxiv.org/abs/2410.06167v1)|null|
+|**2024-10-08**|**Stability of diverse dodecagonal quasicrystals in T-shaped liquid crystalline molecules**|Xin Wang et.al.|[2410.06048v1](http://arxiv.org/abs/2410.06048v1)|null|
+|**2024-10-08**|**Observation of Higgs and Goldstone modes in U(1) symmetry-broken Rydberg atomic systems**|Bang Liu et.al.|[2410.06047v1](http://arxiv.org/abs/2410.06047v1)|null|
+|**2024-10-08**|**Evolution of vortex filaments and reconnections in the Gross-Pitaevski equation and its approximation by the binormal flow equation**|M. Arrayás et.al.|[2410.05971v1](http://arxiv.org/abs/2410.05971v1)|null|
+|**2024-10-08**|**Fluid flow in 3-dimensional porous systems shows power law scaling with Minkowski functionals**|R. A. I. Haque et.al.|[2410.05946v1](http://arxiv.org/abs/2410.05946v1)|null|
+|**2024-10-08**|**Swelling and evaporation determine surface morphology of grafted hydrogel thin films**|Caroline Kopecz-Muller et.al.|[2410.05919v1](http://arxiv.org/abs/2410.05919v1)|null|
+|**2024-10-08**|**Quantum kinetic theory of photons in degenerate plasmas: a field-theoretical approach**|J. L. Figueiredo et.al.|[2410.05917v1](http://arxiv.org/abs/2410.05917v1)|null|
+|**2024-10-08**|**Coupled resonators based on high permittivity dielectrics for microwave sensors**|Shahnam Gorgi Zadeh et.al.|[2410.05831v1](http://arxiv.org/abs/2410.05831v1)|null|
+|**2024-10-08**|**Three-dimensional Abelian and nonAbelian gauge Higgs theories**|Claudio Bonati et.al.|[2410.05823v1](http://arxiv.org/abs/2410.05823v1)|null|
+|**2024-10-08**|**Jamming the Random Lorentz Gas: Configurational Entropy, Crunching Geometry, and Critical Universality**|Giampaolo Folena et.al.|[2410.05784v1](http://arxiv.org/abs/2410.05784v1)|null|
 |**2024-10-07**|**Nonlinear transport theory at the order of quantum metric**|Zhen-Hao Gong et.al.|[2410.04995v1](http://arxiv.org/abs/2410.04995v1)|null|
 |**2024-10-07**|**Quasi-Majorana modes in the $p$ -wave Kitaev chains on a square lattice**|S. Srinidhi et.al.|[2410.04955v1](http://arxiv.org/abs/2410.04955v1)|null|
 |**2024-10-07**|**Transition between cooperative emission regimes in giant perovskite nanocrystals**|Etsuki Kobiyama et.al.|[2410.04938v1](http://arxiv.org/abs/2410.04938v1)|null|
@@ -7446,6 +7466,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-08**|**Tunable high Chern-number quantum anomalous Hall effect through interlayer ferromagnetic coupling in two-dimensional ferromagnet NiSbO3**|Xuebing Peng et.al.|[2410.05718v1](http://arxiv.org/abs/2410.05718v1)|null|
 |**2024-10-03**|**Driving the Berry phase anomalous Hall effect in a noncollinear antiferromagnet by domain manipulation**|Yuchuan Yao et.al.|[2410.02990v1](http://arxiv.org/abs/2410.02990v1)|null|
 |**2024-09-27**|**Altermagnetic variants in thin films of Mn5Si3**|Javier Rial et.al.|[2409.18691v1](http://arxiv.org/abs/2409.18691v1)|null|
 |**2024-09-25**|**Exploring the Magnetotransport Signature of antiskyrmions in Mn $_{1.4}$ PtSn**|Andy Thomas et.al.|[2409.16649v1](http://arxiv.org/abs/2409.16649v1)|null|
