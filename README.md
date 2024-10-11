@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180v1](http://arxiv.org/abs/2410.08180v1)|null|
+|**2024-10-10**|**Specific Iron Binding to Natural Sphingomyelin Membrane Induced by Non-Specific Co-Solutes**|Wenjie Wang et.al.|[2410.08054v1](http://arxiv.org/abs/2410.08054v1)|null|
+|**2024-10-10**|**Current density distribution in the quantum Hall effect**|Serkan Sirt et.al.|[2410.07943v1](http://arxiv.org/abs/2410.07943v1)|null|
+|**2024-10-10**|**Active Polymer Behavior in Two Dimensions: A Comparative Analysis of Tangential and Push-Pull Models**|Giulia Janzen et.al.|[2410.07910v1](http://arxiv.org/abs/2410.07910v1)|null|
+|**2024-10-10**|**Self-Consistent Determination of Single-Impurity Anderson Model Using Hybrid Quantum-Classical Approach on a Spin Quantum Simulator**|Xinfang Nie et.al.|[2410.07808v1](http://arxiv.org/abs/2410.07808v1)|null|
+|**2024-10-10**|**Hydrogen diffusion in garnet: insights from atomistic simulations**|Xin Zhong et.al.|[2410.07724v1](http://arxiv.org/abs/2410.07724v1)|null|
+|**2024-10-10**|**Mechanics of soft-body rolling motion without external torque**|Xudong Liang et.al.|[2410.07644v1](http://arxiv.org/abs/2410.07644v1)|null|
+|**2024-10-10**|**Tight-binding model of Pt-based jacutingaites as combination of the honeycomb and kagome lattices**|G. Santos-Castro et.al.|[2410.07522v1](http://arxiv.org/abs/2410.07522v1)|null|
+|**2024-10-10**|**Interfacial fatigue fracture of pressure sensitive adhesives**|Yichen Wan et.al.|[2410.07506v1](http://arxiv.org/abs/2410.07506v1)|null|
+|**2024-10-09**|**Metamaterials with Negative Compressibility Highlight Evolving Interpretations and Opportunities**|Zachary G. Nicolaou et.al.|[2410.07489v1](http://arxiv.org/abs/2410.07489v1)|null|
+|**2024-10-09**|**Rocking, Rolling, and Hopping: Exploring the Multi-motion Capabilities of Rigid and Soft Ellipsoidal Actuators**|Shih-Yuan Chen et.al.|[2410.07396v1](http://arxiv.org/abs/2410.07396v1)|null|
+|**2024-10-09**|**Direct measurement of the lifetime and coherence time of Cu2O Rydberg excitons**|Poulab Chakrabarti et.al.|[2410.07355v1](http://arxiv.org/abs/2410.07355v1)|null|
+|**2024-10-09**|**Toward hybrid quantum simulations with qubits and qumodes on trapped-ion platforms**|Jack Y. Araz et.al.|[2410.07346v1](http://arxiv.org/abs/2410.07346v1)|null|
 |**2024-10-09**|**Active fluids form system-spanning filamentary networks**|Paarth Gulati et.al.|[2410.07058v1](http://arxiv.org/abs/2410.07058v1)|null|
 |**2024-10-09**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050v1](http://arxiv.org/abs/2410.07050v1)|null|
 |**2024-10-09**|**Precisely controlled colloids: A playground for path-wise non-equilibrium physics**|Cai Dieball et.al.|[2410.07026v1](http://arxiv.org/abs/2410.07026v1)|null|
@@ -7258,6 +7271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Field-free spin-orbit switching of canted magnetization in Pt/Co/Ru/RuO2(101) multilayers**|Yunzhuo Wu et.al.|[2410.07946v1](http://arxiv.org/abs/2410.07946v1)|null|
 |**2024-10-06**|**Reply to "Comment on "Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response""**|Soju Furuta et.al.|[2410.04325v1](http://arxiv.org/abs/2410.04325v1)|null|
 |**2024-10-03**|**Hanle effect in current induced spin orientation**|L. E. Golub et.al.|[2410.02947v1](http://arxiv.org/abs/2410.02947v1)|null|
 |**2024-10-02**|**Fast switchable unidirectional magnon emitter**|Yueqi Wang et.al.|[2410.01511v1](http://arxiv.org/abs/2410.01511v1)|null|
@@ -7466,6 +7480,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Orbital Hall Effect Accompanying Quantum Hall Effect: Landau Levels Cause Orbital Polarized Edge Currents**|Börge Göbel et.al.|[2410.07784v1](http://arxiv.org/abs/2410.07784v1)|null|
 |**2024-10-08**|**Tunable high Chern-number quantum anomalous Hall effect through interlayer ferromagnetic coupling in two-dimensional ferromagnet NiSbO3**|Xuebing Peng et.al.|[2410.05718v1](http://arxiv.org/abs/2410.05718v1)|null|
 |**2024-10-03**|**Driving the Berry phase anomalous Hall effect in a noncollinear antiferromagnet by domain manipulation**|Yuchuan Yao et.al.|[2410.02990v1](http://arxiv.org/abs/2410.02990v1)|null|
 |**2024-09-27**|**Altermagnetic variants in thin films of Mn5Si3**|Javier Rial et.al.|[2409.18691v1](http://arxiv.org/abs/2409.18691v1)|null|
