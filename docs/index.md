@@ -1102,7 +1102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180v1](http://arxiv.org/abs/2410.08180v1)|null|
+|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180v1](http://arxiv.org/abs/2410.08180v1)|**[link](https://github.com/jaehyeokjin/bottom-up-phase-field)**|
 |**2024-10-10**|**Specific Iron Binding to Natural Sphingomyelin Membrane Induced by Non-Specific Co-Solutes**|Wenjie Wang et.al.|[2410.08054v1](http://arxiv.org/abs/2410.08054v1)|null|
 |**2024-10-10**|**Current density distribution in the quantum Hall effect**|Serkan Sirt et.al.|[2410.07943v1](http://arxiv.org/abs/2410.07943v1)|null|
 |**2024-10-10**|**Active Polymer Behavior in Two Dimensions: A Comparative Analysis of Tangential and Push-Pull Models**|Giulia Janzen et.al.|[2410.07910v1](http://arxiv.org/abs/2410.07910v1)|null|
