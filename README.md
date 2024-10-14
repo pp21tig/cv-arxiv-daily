@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Gyromorphs: a new class of functional disordered materials**|Mathias Casiulis et.al.|[2410.09023v1](http://arxiv.org/abs/2410.09023v1)|null|
+|**2024-10-11**|**Macrotransport of active particles in periodic channels and fields: rectification and dispersion**|Zhiwei Peng et.al.|[2410.09007v1](http://arxiv.org/abs/2410.09007v1)|null|
+|**2024-10-11**|**The most severe imperfection governs the buckling strength of pressurized multi-defect hemispherical shells**|Fani Derveni et.al.|[2410.08973v1](http://arxiv.org/abs/2410.08973v1)|null|
+|**2024-10-11**|**Supercritical density fluctuations and structural heterogeneity in supercooled water-glycerol microdroplets**|Sharon Berkowicz et.al.|[2410.08952v1](http://arxiv.org/abs/2410.08952v1)|null|
+|**2024-10-11**|**A machine-learning framework for accelerating spin-lattice relaxation simulations**|Valerio Briganti et.al.|[2410.08912v1](http://arxiv.org/abs/2410.08912v1)|null|
+|**2024-10-11**|**A unified quantum framework for electrons and ions: The self-consistent harmonic approximation on a neural network curved manifold**|Lorenzo Monacelli et.al.|[2410.08882v1](http://arxiv.org/abs/2410.08882v1)|null|
+|**2024-10-11**|**Coherent X-rays reveal anomalous molecular diffusion and cage effects in crowded protein solutions**|Anita Girelli et.al.|[2410.08873v1](http://arxiv.org/abs/2410.08873v1)|null|
+|**2024-10-11**|**A convolutional neural network technique for online tracking of the radius evolution of levitating evaporating microdroplets of pure liquids, liquid mixtures and suspensions**|Kwasi Nyandey et.al.|[2410.08857v1](http://arxiv.org/abs/2410.08857v1)|null|
+|**2024-10-11**|**Hydrodynamic interactions between a sedimenting squirmer and a planar wall**|Henry Shum et.al.|[2410.08774v1](http://arxiv.org/abs/2410.08774v1)|null|
+|**2024-10-11**|**Bodge: Python package for efficient tight-binding modeling of superconducting nanostructures**|Jabir Ali Ouassou et.al.|[2410.08758v1](http://arxiv.org/abs/2410.08758v1)|null|
+|**2024-10-11**|**The role of surface material properties on the behavior of ionic liquids in nanoconfinement: A critical review and perspective**|Irina Nesterova et.al.|[2410.08721v1](http://arxiv.org/abs/2410.08721v1)|null|
+|**2024-10-11**|**Chiral, Topological, and Knotted Colloids in Liquid Crystals**|Ye Yuan et.al.|[2410.08636v1](http://arxiv.org/abs/2410.08636v1)|null|
+|**2024-10-11**|**Snap and Jump: How Elastic Shells Pop Out**|Takara Abe et.al.|[2410.08525v1](http://arxiv.org/abs/2410.08525v1)|null|
+|**2024-10-11**|**Aging of the Linear Viscoelasticity of Glass- and Gel-forming Liquids**|O. Joaquín-Jaime et.al.|[2410.08512v1](http://arxiv.org/abs/2410.08512v1)|null|
+|**2024-10-11**|**Modeling and Simulation of 2D Transducers Based on Suspended Graphene-Based Heterostructures in Nanoelectromechanical Pressure Sensors**|Quan Liu et.al.|[2410.08472v1](http://arxiv.org/abs/2410.08472v1)|null|
+|**2024-10-11**|**Steady Motions of Single Spherical Microswimmers in Non-Newtonian Fluids**|Takuya Kobayashi et.al.|[2410.08443v1](http://arxiv.org/abs/2410.08443v1)|null|
+|**2024-10-11**|**DiffGLE: Differentiable Coarse-Grained Dynamics using Generalized Langevin Equation**|Jinu Jeong et.al.|[2410.08424v1](http://arxiv.org/abs/2410.08424v1)|null|
+|**2024-10-10**|**Granular segregation across flow geometries: a closure model for the particle segregation velocity**|Yifei Duan et.al.|[2410.08350v1](http://arxiv.org/abs/2410.08350v1)|null|
 |**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180v1](http://arxiv.org/abs/2410.08180v1)|**[link](https://github.com/jaehyeokjin/bottom-up-phase-field)**|
 |**2024-10-10**|**Specific Iron Binding to Natural Sphingomyelin Membrane Induced by Non-Specific Co-Solutes**|Wenjie Wang et.al.|[2410.08054v1](http://arxiv.org/abs/2410.08054v1)|null|
 |**2024-10-10**|**Current density distribution in the quantum Hall effect**|Serkan Sirt et.al.|[2410.07943v1](http://arxiv.org/abs/2410.07943v1)|null|
