@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Singular Twist Waves in Chromonic Liquid Crystals**|Silvia Paparini et.al.|[2410.10769v1](http://arxiv.org/abs/2410.10769v1)|null|
+|**2024-10-14**|**Exchange and Microviscosity of Dynamic Nanocompartments**|Romana Shathy et.al.|[2410.10748v1](http://arxiv.org/abs/2410.10748v1)|null|
+|**2024-10-14**|**Spontaneous emergence of phonon angular momentum through hybridization with magnons**|Honglie Ning et.al.|[2410.10693v1](http://arxiv.org/abs/2410.10693v1)|null|
+|**2024-10-14**|**Extreme electron-hole drag and negative mobility in the Dirac plasma of graphene**|L. A. Ponomarenko et.al.|[2410.10640v1](http://arxiv.org/abs/2410.10640v1)|null|
+|**2024-10-14**|**Why hyperdensity functionals describe any equilibrium observable**|Florian Sammüller et.al.|[2410.10534v1](http://arxiv.org/abs/2410.10534v1)|null|
+|**2024-10-14**|**Elastocapillary sequential fluid capture in hummingbird-inspired grooved sheets**|Emmanuel Siéfert et.al.|[2410.10461v1](http://arxiv.org/abs/2410.10461v1)|null|
+|**2024-10-14**|**Anharmonic Vibrational States of Double-Well Potentials in the Solid State from DFT Calculations**|Davide Mitoli et.al.|[2410.10379v1](http://arxiv.org/abs/2410.10379v1)|null|
+|**2024-10-14**|**Shear-Driven Diffusion with Stochastic Resetting**|Iman Abdoli et.al.|[2410.10333v1](http://arxiv.org/abs/2410.10333v1)|null|
+|**2024-10-14**|**Direct Evidence for Density Wave Order in 3He Doped Two Dimensional 4He Supersolid**|J. Knapp et.al.|[2410.10302v1](http://arxiv.org/abs/2410.10302v1)|null|
+|**2024-10-14**|**Tethered Particle Motion Technique in Crowded Media: Compaction of DNA by Globular Macromolecules**|Marc Joyeux et.al.|[2410.10231v1](http://arxiv.org/abs/2410.10231v1)|null|
+|**2024-10-14**|**Manipulation of annular electron beams in plasmas**|Yangchun Liu et.al.|[2410.10196v1](http://arxiv.org/abs/2410.10196v1)|null|
+|**2024-10-14**|**Effective osmotic pressure of foams in short-term dynamics**|Aoi Kaneda et.al.|[2410.10119v1](http://arxiv.org/abs/2410.10119v1)|null|
+|**2024-10-13**|**Drag and torque coefficients of a translating particle with slip at a gas-liquid interface**|Zhi Zhou et.al.|[2410.09956v1](http://arxiv.org/abs/2410.09956v1)|null|
+|**2024-10-13**|**Tracking the Morphological Evolution of Neuronal Dendrites by First-Passage Analysis**|Fabian H. Kreten et.al.|[2410.09868v1](http://arxiv.org/abs/2410.09868v1)|null|
+|**2024-10-13**|**Energy Bands of Incommensurate Systems**|Xin-Yu Guo et.al.|[2410.09793v1](http://arxiv.org/abs/2410.09793v1)|null|
+|**2024-10-13**|**Electrophoretic velocity of ion-releasing colloidal particles**|Evgeny S. Asmolov et.al.|[2410.09774v1](http://arxiv.org/abs/2410.09774v1)|null|
+|**2024-10-13**|**Phonon-Mediated Nonlinear Optical Responses and Quantum Geometry**|Jiaming Hu et.al.|[2410.09677v1](http://arxiv.org/abs/2410.09677v1)|null|
+|**2024-10-12**|**Mid-Infrared Frequency Combs and Pulse Generation based on Single Section Interband Cascade Lasers**|Pavel Abajyan et.al.|[2410.09627v1](http://arxiv.org/abs/2410.09627v1)|null|
+|**2024-10-12**|**Twist and turn. Elastohydrodynamics of microscale active fibres**|Maciej Lisicki et.al.|[2410.09493v1](http://arxiv.org/abs/2410.09493v1)|null|
+|**2024-10-12**|**Discrete state model of a self-aggregating colloidal system with directional interactions**|Salman Fariz Navas et.al.|[2410.09481v1](http://arxiv.org/abs/2410.09481v1)|null|
 |**2024-10-11**|**Gyromorphs: a new class of functional disordered materials**|Mathias Casiulis et.al.|[2410.09023v1](http://arxiv.org/abs/2410.09023v1)|null|
 |**2024-10-11**|**Macrotransport of active particles in periodic channels and fields: rectification and dispersion**|Zhiwei Peng et.al.|[2410.09007v1](http://arxiv.org/abs/2410.09007v1)|null|
 |**2024-10-11**|**The most severe imperfection governs the buckling strength of pressurized multi-defect hemispherical shells**|Fani Derveni et.al.|[2410.08973v1](http://arxiv.org/abs/2410.08973v1)|null|
@@ -7293,6 +7313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-13**|**Large Chiral Orbital Texture and Orbital Edelstein Effect in Co/Al Heterostructure**|Sergey A. Nikolaev et.al.|[2410.09957v1](http://arxiv.org/abs/2410.09957v1)|null|
 |**2024-10-10**|**Field-free spin-orbit switching of canted magnetization in Pt/Co/Ru/RuO2(101) multilayers**|Yunzhuo Wu et.al.|[2410.07946v1](http://arxiv.org/abs/2410.07946v1)|null|
 |**2024-10-06**|**Reply to "Comment on "Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response""**|Soju Furuta et.al.|[2410.04325v1](http://arxiv.org/abs/2410.04325v1)|null|
 |**2024-10-03**|**Hanle effect in current induced spin orientation**|L. E. Golub et.al.|[2410.02947v1](http://arxiv.org/abs/2410.02947v1)|null|
