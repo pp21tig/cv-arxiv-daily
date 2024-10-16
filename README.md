@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Effective viscosity of a two dimensional passive suspension in a liquid crystal solvent**|S. Dang et.al.|[2410.11749v1](http://arxiv.org/abs/2410.11749v1)|null|
+|**2024-10-15**|**Spatially Selective Acoustic Pressure Reporting Using Antibubbles**|Nicolas Moreno Gomez et.al.|[2410.11477v1](http://arxiv.org/abs/2410.11477v1)|null|
+|**2024-10-15**|**Interplay of ethaline and water dynamics in a hydrated eutectic solvent: Deuteron and oxygen magnetic resonance studies of aqueous ethaline**|Yannik Hinz et.al.|[2410.11447v1](http://arxiv.org/abs/2410.11447v1)|null|
+|**2024-10-15**|**Origin of granular axial segregation bands in a rotating tumbler: An interface-mixing driven Rayleigh-Taylor instability**|Umberto d'Ortona et.al.|[2410.11361v1](http://arxiv.org/abs/2410.11361v1)|null|
+|**2024-10-15**|**Density Fluctuations, Solvation Thermodynamics and Coexistence Curves in Grand Canonical Molecular Dynamics Simulations**|Mauricio Sevilla et.al.|[2410.11304v1](http://arxiv.org/abs/2410.11304v1)|null|
+|**2024-10-15**|**Ferroaxial phonons in chiral and polar NiCo2TeO6**|V. A. Martinez et.al.|[2410.11173v1](http://arxiv.org/abs/2410.11173v1)|null|
+|**2024-10-14**|**Anisotropic Anharmonicity Dictates the Thermal Conductivity of Gallium Oxide ( $β-Ga_2O_3$ )**|Abdulaziz Alkandari et.al.|[2410.11106v1](http://arxiv.org/abs/2410.11106v1)|null|
+|**2024-10-14**|**Delayed recovery in a dense suspension of core-shell attractive particles**|Justine Henry et.al.|[2410.11102v1](http://arxiv.org/abs/2410.11102v1)|null|
+|**2024-10-14**|**Absence of Phonon Softening across a Charge Density Wave Transition due to Quantum Fluctuations**|Yubi Chen et.al.|[2410.10992v1](http://arxiv.org/abs/2410.10992v1)|null|
+|**2024-10-14**|**Flagellar damage and recovery in soil bacteria exposed to shear in long microchannels**|Juan Pablo Carrillo-Mora et.al.|[2410.10932v1](http://arxiv.org/abs/2410.10932v1)|null|
 |**2024-10-14**|**Singular Twist Waves in Chromonic Liquid Crystals**|Silvia Paparini et.al.|[2410.10769v1](http://arxiv.org/abs/2410.10769v1)|null|
 |**2024-10-14**|**Exchange and Microviscosity of Dynamic Nanocompartments**|Romana Shathy et.al.|[2410.10748v1](http://arxiv.org/abs/2410.10748v1)|null|
 |**2024-10-14**|**Spontaneous emergence of phonon angular momentum through hybridization with magnons**|Honglie Ning et.al.|[2410.10693v1](http://arxiv.org/abs/2410.10693v1)|null|
@@ -6966,6 +6976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Lattice dynamics and mixing of polar phonons in the rare-earth orthoferrite TbFeO $_{3}$**|R. M. Dubrovin et.al.|[2410.11780v1](http://arxiv.org/abs/2410.11780v1)|null|
 |**2024-10-02**|**Atmospheric Pressure Ammonia Synthesis on AuRu Catalysts Enabled by Plasmon-Controlled Hydrogenation and Nitrogen-species Desorption**|Lin Yuan et.al.|[2410.01300v1](http://arxiv.org/abs/2410.01300v1)|null|
 |**2024-10-01**|**Rydberg excitons and polaritons in monolayer transition metal dichalcogenides in a magnetic field**|D. de la Fuente Pico et.al.|[2410.00783v1](http://arxiv.org/abs/2410.00783v1)|null|
 |**2024-09-27**|**Equilibrium non-linear phononics by electric field fluctuations of terahertz cavities**|Emil Viñas Boström et.al.|[2409.19063v1](http://arxiv.org/abs/2409.19063v1)|null|
