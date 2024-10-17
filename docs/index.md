@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Active nematics in corrugated channels**|Jaideep P. Vaidya et.al.|[2410.12743v1](http://arxiv.org/abs/2410.12743v1)|null|
+|**2024-10-16**|**Hamiltonian bridge: A physics-driven generative framework for targeted pattern control**|Vishaal Krishnan et.al.|[2410.12665v1](http://arxiv.org/abs/2410.12665v1)|null|
+|**2024-10-16**|**Convection Speeds Up the Charging of Porous Electrodes**|Aaron D. Ratschow et.al.|[2410.12653v1](http://arxiv.org/abs/2410.12653v1)|null|
+|**2024-10-16**|**Active Screws: Emergent Active Chiral Nematics of Spinning Self-Propelled Rods**|Debarghya Banerjee et.al.|[2410.12263v1](http://arxiv.org/abs/2410.12263v1)|null|
+|**2024-10-16**|**Criticality of the viscous to inertial transition near jamming in non-Brownian suspensions**|Nishanth Murugan et.al.|[2410.12140v1](http://arxiv.org/abs/2410.12140v1)|null|
+|**2024-10-16**|**Realization of three and four-body interactions between momentum states in a cavity through optical dressing**|Chengyi Luo et.al.|[2410.12132v1](http://arxiv.org/abs/2410.12132v1)|null|
+|**2024-10-15**|**Exchange-enhanced spin-orbit splitting and its density dependence for electrons in monolayer transition metal dichalcogenides**|Igor Rozhansky et.al.|[2410.12125v1](http://arxiv.org/abs/2410.12125v1)|null|
+|**2024-10-15**|**Ultraconfined 1-nm water as nature-inspired electrolyte for blue batteries**|Vasily Artemov et.al.|[2410.11983v1](http://arxiv.org/abs/2410.11983v1)|null|
 |**2024-10-15**|**Effective viscosity of a two dimensional passive suspension in a liquid crystal solvent**|S. Dang et.al.|[2410.11749v1](http://arxiv.org/abs/2410.11749v1)|null|
 |**2024-10-15**|**Spatially Selective Acoustic Pressure Reporting Using Antibubbles**|Nicolas Moreno Gomez et.al.|[2410.11477v1](http://arxiv.org/abs/2410.11477v1)|null|
 |**2024-10-15**|**Interplay of ethaline and water dynamics in a hydrated eutectic solvent: Deuteron and oxygen magnetic resonance studies of aqueous ethaline**|Yannik Hinz et.al.|[2410.11447v1](http://arxiv.org/abs/2410.11447v1)|null|
