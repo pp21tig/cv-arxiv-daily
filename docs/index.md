@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Monte Carlo Study of Critical Fermi Surface with Spatial Disorder Interactions**|Tu Hong et.al.|[2410.13858v1](http://arxiv.org/abs/2410.13858v1)|null|
+|**2024-10-17**|**Influence of Topology on Rheological Properties of Polymer Ring Melts**|Ranajay Datta et.al.|[2410.13797v1](http://arxiv.org/abs/2410.13797v1)|null|
+|**2024-10-17**|**Collective dynamics of dense systems of active polar disks in circular confinement**|Weizhen Tang et.al.|[2410.13705v1](http://arxiv.org/abs/2410.13705v1)|null|
+|**2024-10-17**|**Memory of rotation in residual stress of paste**|Hiroki Matsuda et.al.|[2410.13533v1](http://arxiv.org/abs/2410.13533v1)|null|
+|**2024-10-17**|**Optomechanical micro-rheology of complex fluids at ultra-high frequency**|H. Neshasteh et.al.|[2410.13467v1](http://arxiv.org/abs/2410.13467v1)|null|
+|**2024-10-17**|**Active-hydraulic flows solve the 6-vertex model (and vice versa)**|Camille Jorge et.al.|[2410.13377v1](http://arxiv.org/abs/2410.13377v1)|null|
+|**2024-10-17**|**Zero external magnetic field quantum standard of resistance at the 10-9 level**|D. K. Patel et.al.|[2410.13365v1](http://arxiv.org/abs/2410.13365v1)|null|
+|**2024-10-17**|**Curling morphology of knitted fabrics: Structure and Mechanics**|Kotone Tajiri et.al.|[2410.13307v1](http://arxiv.org/abs/2410.13307v1)|null|
+|**2024-10-17**|**Findings of sub- $T_\mathrm{g}$ endotherm in vapor-deposited ultrastable phenolphthalein glass**|Soichi Tatsumi et.al.|[2410.13209v1](http://arxiv.org/abs/2410.13209v1)|null|
+|**2024-10-17**|**Entropy-Driven Preordering Assists Nucleation in Polyethylene**|Renkuan Cao et.al.|[2410.13128v1](http://arxiv.org/abs/2410.13128v1)|null|
+|**2024-10-16**|**Exploring Quantum Materials with Resonant Inelastic X-Ray Scattering**|M. Mitrano et.al.|[2410.13062v1](http://arxiv.org/abs/2410.13062v1)|null|
+|**2024-10-16**|**Shear stresses in fluid and solid membranes with bending elasticity**|S. Dharmavaram et.al.|[2410.13049v1](http://arxiv.org/abs/2410.13049v1)|null|
+|**2024-10-16**|**Autonomous Stabilization of Floquet States Using Static Dissipation**|Martin Ritter et.al.|[2410.12908v1](http://arxiv.org/abs/2410.12908v1)|null|
 |**2024-10-16**|**Active nematics in corrugated channels**|Jaideep P. Vaidya et.al.|[2410.12743v1](http://arxiv.org/abs/2410.12743v1)|null|
 |**2024-10-16**|**Hamiltonian bridge: A physics-driven generative framework for targeted pattern control**|Vishaal Krishnan et.al.|[2410.12665v1](http://arxiv.org/abs/2410.12665v1)|null|
 |**2024-10-16**|**Convection Speeds Up the Charging of Porous Electrodes**|Aaron D. Ratschow et.al.|[2410.12653v1](http://arxiv.org/abs/2410.12653v1)|null|
@@ -7332,6 +7345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Anatomy of Thermally Interplayed Spin-Orbit Torque Driven Antiferromagnetic Switching**|Wenlong Cai et.al.|[2410.13202v1](http://arxiv.org/abs/2410.13202v1)|null|
 |**2024-10-13**|**Large Chiral Orbital Texture and Orbital Edelstein Effect in Co/Al Heterostructure**|Sergey A. Nikolaev et.al.|[2410.09957v1](http://arxiv.org/abs/2410.09957v1)|null|
 |**2024-10-10**|**Field-free spin-orbit switching of canted magnetization in Pt/Co/Ru/RuO2(101) multilayers**|Yunzhuo Wu et.al.|[2410.07946v1](http://arxiv.org/abs/2410.07946v1)|null|
 |**2024-10-06**|**Reply to "Comment on "Reconsidering the nonlinear emergent inductance: time-varying Joule heating and its impact on the AC electrical response""**|Soju Furuta et.al.|[2410.04325v1](http://arxiv.org/abs/2410.04325v1)|null|
@@ -7542,6 +7556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Zero external magnetic field quantum standard of resistance at the 10-9 level**|D. K. Patel et.al.|[2410.13365v1](http://arxiv.org/abs/2410.13365v1)|null|
 |**2024-10-10**|**Orbital Hall Effect Accompanying Quantum Hall Effect: Landau Levels Cause Orbital Polarized Edge Currents**|Börge Göbel et.al.|[2410.07784v1](http://arxiv.org/abs/2410.07784v1)|null|
 |**2024-10-08**|**Tunable high Chern-number quantum anomalous Hall effect through interlayer ferromagnetic coupling in two-dimensional ferromagnet NiSbO3**|Xuebing Peng et.al.|[2410.05718v1](http://arxiv.org/abs/2410.05718v1)|null|
 |**2024-10-03**|**Driving the Berry phase anomalous Hall effect in a noncollinear antiferromagnet by domain manipulation**|Yuchuan Yao et.al.|[2410.02990v1](http://arxiv.org/abs/2410.02990v1)|null|
