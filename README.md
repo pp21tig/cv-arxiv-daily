@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Onset and impact of plastic deformation in granular compaction**|Joel T. Clemmer et.al.|[2410.14636v1](http://arxiv.org/abs/2410.14636v1)|null|
+|**2024-10-18**|**Impact of the electrode material on the performance of light-emitting electrochemical cells**|Anton Kirch et.al.|[2410.14465v1](http://arxiv.org/abs/2410.14465v1)|null|
+|**2024-10-18**|**Experimental studies on collision between self-propelling liquid crystal droplets in quasi-two-dimensional geometry**|Swarnak Ray et.al.|[2410.14438v1](http://arxiv.org/abs/2410.14438v1)|null|
+|**2024-10-18**|**Attosecond vortices in semiconductor materials**|C. Granados et.al.|[2410.14385v1](http://arxiv.org/abs/2410.14385v1)|null|
+|**2024-10-18**|**Noise-induced transitions from contractile to extensile active stress in isotropic fluids**|Mathieu Dedenon et.al.|[2410.14358v1](http://arxiv.org/abs/2410.14358v1)|null|
+|**2024-10-18**|**Non-Hermitian topology in the quantum Hall effect of graphene**|Burak Özer et.al.|[2410.14329v1](http://arxiv.org/abs/2410.14329v1)|null|
+|**2024-10-18**|**Explicit error bounds with commutator scaling for time-dependent product and multi-product formulas**|Kaoru Mizuta et.al.|[2410.14243v1](http://arxiv.org/abs/2410.14243v1)|null|
+|**2024-10-18**|**Berry monopoles and divergent quantum metric in systems with non-integer band dispersion**|Jamme Omar A. Biscocho et.al.|[2410.14213v1](http://arxiv.org/abs/2410.14213v1)|null|
+|**2024-10-18**|**Additive design of 2-dimensional scissor lattices**|Noah Toyonaga et.al.|[2410.14124v1](http://arxiv.org/abs/2410.14124v1)|null|
+|**2024-10-17**|**Quasi-Perfect State Transfer in Spin Chains via Parametrization of On-Site Energies**|Fateh Bezaz et.al.|[2410.14053v1](http://arxiv.org/abs/2410.14053v1)|null|
+|**2024-10-17**|**A multi-detector neutral helium atom microscope**|Chenyang Zhao et.al.|[2410.13955v1](http://arxiv.org/abs/2410.13955v1)|null|
+|**2024-10-17**|**Explosive rigidity percolation in origami**|Rongxuan Li et.al.|[2410.13945v1](http://arxiv.org/abs/2410.13945v1)|null|
 |**2024-10-17**|**Monte Carlo Study of Critical Fermi Surface with Spatial Disorder Interactions**|Tu Hong et.al.|[2410.13858v1](http://arxiv.org/abs/2410.13858v1)|null|
 |**2024-10-17**|**Influence of Topology on Rheological Properties of Polymer Ring Melts**|Ranajay Datta et.al.|[2410.13797v1](http://arxiv.org/abs/2410.13797v1)|null|
 |**2024-10-17**|**Collective dynamics of dense systems of active polar disks in circular confinement**|Weizhen Tang et.al.|[2410.13705v1](http://arxiv.org/abs/2410.13705v1)|null|
@@ -6997,6 +7009,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Evidence of Floquet electronic steady states in graphene under continuous-wave mid-infrared irradiation**|Yijing Liu et.al.|[2410.13930v1](http://arxiv.org/abs/2410.13930v1)|null|
 |**2024-10-15**|**Lattice dynamics and mixing of polar phonons in the rare-earth orthoferrite TbFeO $_{3}$**|R. M. Dubrovin et.al.|[2410.11780v1](http://arxiv.org/abs/2410.11780v1)|null|
 |**2024-10-02**|**Atmospheric Pressure Ammonia Synthesis on AuRu Catalysts Enabled by Plasmon-Controlled Hydrogenation and Nitrogen-species Desorption**|Lin Yuan et.al.|[2410.01300v1](http://arxiv.org/abs/2410.01300v1)|null|
 |**2024-10-01**|**Rydberg excitons and polaritons in monolayer transition metal dichalcogenides in a magnetic field**|D. de la Fuente Pico et.al.|[2410.00783v1](http://arxiv.org/abs/2410.00783v1)|null|
@@ -7552,6 +7565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Vacancy-induced suppression of CDW order and its impact on magnetic order in kagome antiferromagnet FeGe**|Mason L. Klemm et.al.|[2410.13994v1](http://arxiv.org/abs/2410.13994v1)|null|
 |**2024-10-17**|**Zero external magnetic field quantum standard of resistance at the 10-9 level**|D. K. Patel et.al.|[2410.13365v1](http://arxiv.org/abs/2410.13365v1)|null|
 |**2024-10-10**|**Orbital Hall Effect Accompanying Quantum Hall Effect: Landau Levels Cause Orbital Polarized Edge Currents**|Börge Göbel et.al.|[2410.07784v1](http://arxiv.org/abs/2410.07784v1)|null|
 |**2024-10-08**|**Tunable high Chern-number quantum anomalous Hall effect through interlayer ferromagnetic coupling in two-dimensional ferromagnet NiSbO3**|Xuebing Peng et.al.|[2410.05718v1](http://arxiv.org/abs/2410.05718v1)|null|
