@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Role of obstacle softness in the diffusive behavior of active Particles**|Ankit Gupta et.al.|[2410.16223v1](http://arxiv.org/abs/2410.16223v1)|null|
+|**2024-10-21**|**Bound States-to-Bands in the Continuum in Cylindrical Granular Crystals**|Yeongtae Jang et.al.|[2410.16209v1](http://arxiv.org/abs/2410.16209v1)|null|
+|**2024-10-21**|**Momentum-Resolved Fingerprint of Mottness in Layer-Dimerized Nb $_3$Br$_8$**|Mihir Date et.al.|[2410.16199v1](http://arxiv.org/abs/2410.16199v1)|null|
+|**2024-10-21**|**Non-local detection of coherent Yu-Shiba-Rusinov quantum projections**|Khai Ton That et.al.|[2410.16054v1](http://arxiv.org/abs/2410.16054v1)|null|
+|**2024-10-21**|**Coexistent Topological and Chiral Phonons in Chiral RhGe: An ab initio study**|P. V. Sreenivasa Reddy et.al.|[2410.16000v1](http://arxiv.org/abs/2410.16000v1)|null|
+|**2024-10-21**|**Active Inhomogeneous Mode-Coupling Theory (aIMCT) for Dense Systems of Self-Propelled Particles**|Soumitra Kolya et.al.|[2410.15928v1](http://arxiv.org/abs/2410.15928v1)|null|
+|**2024-10-21**|**Exact Solutions Disentangle Higher-Order Topology in 2D Non-Hermitian Lattices**|Lingfang Li et.al.|[2410.15763v1](http://arxiv.org/abs/2410.15763v1)|null|
+|**2024-10-21**|**3D Optofluidic Control Using Reconfigurable Thermal Barriers**|Falko Schmidt et.al.|[2410.15708v1](http://arxiv.org/abs/2410.15708v1)|null|
+|**2024-10-21**|**Collective excitations in active solids featuring alignment interactions**|Yutaka Kinoshita et.al.|[2410.15594v1](http://arxiv.org/abs/2410.15594v1)|null|
+|**2024-10-20**|**The single edge notch fracture test for viscoelastic elastomers**|Farhad Kamarei et.al.|[2410.15380v1](http://arxiv.org/abs/2410.15380v1)|null|
+|**2024-10-20**|**Non-Hermitian Skin Effect Along Hyperbolic Geodesics**|Ruizhe Shen et.al.|[2410.15278v1](http://arxiv.org/abs/2410.15278v1)|null|
+|**2024-10-20**|**Convolutional Neural Network analysis of optical texture patterns in liquid-crystal skyrmions**|J. Terro et.al.|[2410.15246v1](http://arxiv.org/abs/2410.15246v1)|null|
+|**2024-10-19**|**Synchronization and self-assembly of free capillary spinners**|Nilgun Sungar et.al.|[2410.15228v1](http://arxiv.org/abs/2410.15228v1)|null|
+|**2024-10-19**|**Unifying homogeneous and inhomogeneous rheology of dense suspensions**|Bhanu Prasad Bhowmik et.al.|[2410.15216v1](http://arxiv.org/abs/2410.15216v1)|null|
+|**2024-10-19**|**Tuning the shear and extensional rheology of semi-flexible polyelectrolyte solutions**|H. Moon et.al.|[2410.15132v1](http://arxiv.org/abs/2410.15132v1)|null|
+|**2024-10-19**|**Classifying extended, localized and critical states in quasiperiodic lattices via unsupervised learning**|Bohan Zheng et.al.|[2410.15061v1](http://arxiv.org/abs/2410.15061v1)|null|
+|**2024-10-19**|**Airborne Biomarker Localization Engine (ABLE) for Open Air Point-of-Care Detection**|Jingcheng Ma et.al.|[2410.14956v1](http://arxiv.org/abs/2410.14956v1)|null|
+|**2024-10-18**|**Effects of Ligand vs. Linker on Phase Behavior and Mechanical Properties of Nanoparticle Gels**|Qizan Chen et.al.|[2410.14854v1](http://arxiv.org/abs/2410.14854v1)|null|
+|**2024-10-18**|**Cooperative non-reciprocal emission and quantum sensing of symmetry breaking**|Xin Li et.al.|[2410.14850v1](http://arxiv.org/abs/2410.14850v1)|null|
+|**2024-10-18**|**Long-range order in two-dimensional systems with fluctuating active stresses**|Yann-Edwin Keta et.al.|[2410.14840v1](http://arxiv.org/abs/2410.14840v1)|null|
 |**2024-10-18**|**Onset and impact of plastic deformation in granular compaction**|Joel T. Clemmer et.al.|[2410.14636v1](http://arxiv.org/abs/2410.14636v1)|null|
 |**2024-10-18**|**Impact of the electrode material on the performance of light-emitting electrochemical cells**|Anton Kirch et.al.|[2410.14465v1](http://arxiv.org/abs/2410.14465v1)|null|
 |**2024-10-18**|**Experimental studies on collision between self-propelling liquid crystal droplets in quasi-two-dimensional geometry**|Swarnak Ray et.al.|[2410.14438v1](http://arxiv.org/abs/2410.14438v1)|null|
@@ -7565,6 +7585,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292v1](http://arxiv.org/abs/2410.15292v1)|null|
+|**2024-10-19**|**Giant Topological Hall Effect in Magnetic Weyl Metal Mn $_{2}$Pd$_{0.5}$Ir$_{0.5}$ Sn**|Arnab Bhattacharya et.al.|[2410.15011v1](http://arxiv.org/abs/2410.15011v1)|null|
 |**2024-10-17**|**Vacancy-induced suppression of CDW order and its impact on magnetic order in kagome antiferromagnet FeGe**|Mason L. Klemm et.al.|[2410.13994v1](http://arxiv.org/abs/2410.13994v1)|null|
 |**2024-10-17**|**Zero external magnetic field quantum standard of resistance at the 10-9 level**|D. K. Patel et.al.|[2410.13365v1](http://arxiv.org/abs/2410.13365v1)|null|
 |**2024-10-10**|**Orbital Hall Effect Accompanying Quantum Hall Effect: Landau Levels Cause Orbital Polarized Edge Currents**|Börge Göbel et.al.|[2410.07784v1](http://arxiv.org/abs/2410.07784v1)|null|
@@ -7908,6 +7930,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-19**|**Predicting Fractionalized Multi-Spin Excitations in Resonant Inelastic X-ray Spectra of Frustrated Spin-1/2 Trimer Chains**|Prabhakar et.al.|[2410.15082v1](http://arxiv.org/abs/2410.15082v1)|null|
 |**2024-10-03**|**Contrasting dynamical properties of single-Q and triple-Q magnetic orderings in a triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2410.02180v1](http://arxiv.org/abs/2410.02180v1)|null|
 |**2024-09-16**|**Anomalous quasielastic scattering contribution in the centrosymmetric multi- $\mathbf{q}$ helimagnet SrFeO$_3$**|N. D. Andriushin et.al.|[2409.10214v1](http://arxiv.org/abs/2409.10214v1)|null|
 |**2024-09-13**|**Direct evidence for anisotropic magnetic interaction in $α$-RuCl$_3$ from polarized inelastic neutron scattering**|Markus Braden et.al.|[2409.08854v1](http://arxiv.org/abs/2409.08854v1)|null|
