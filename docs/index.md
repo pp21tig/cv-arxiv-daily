@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Dipolar Attraction of Superparamagnetic Nanoparticles**|Frederik L. Durhuus et.al.|[2410.17201v1](http://arxiv.org/abs/2410.17201v1)|null|
+|**2024-10-22**|**Evidence for a Lattice Supersolid of Subradiant Dipolar Excitons**|Camille Lagoin et.al.|[2410.17162v1](http://arxiv.org/abs/2410.17162v1)|null|
+|**2024-10-22**|**Architecting mechanisms of damage in topological metamaterial**|Leo de Waal et.al.|[2410.17100v1](http://arxiv.org/abs/2410.17100v1)|null|
+|**2024-10-22**|**Crystallization of Binary Nanocrystal Superlattices and the Relevance of Short-Range Attraction**|Emanuele Marino et.al.|[2410.17016v1](http://arxiv.org/abs/2410.17016v1)|null|
+|**2024-10-22**|**Chirality induced phase separation in active circle swimmers**|Divya Kushwaha et.al.|[2410.16984v1](http://arxiv.org/abs/2410.16984v1)|null|
+|**2024-10-22**|**Modulating outcomes of oil drops bursting at a water-air interface**|Varun Kulkarni et.al.|[2410.16961v1](http://arxiv.org/abs/2410.16961v1)|null|
+|**2024-10-22**|**Salt solutions with two or more salts generate ion currents analogous to magnetic field lines**|Patrick B. Warren et.al.|[2410.16862v1](http://arxiv.org/abs/2410.16862v1)|null|
+|**2024-10-22**|**Structure, dynamics and phase transitions in electric field assembled colloidal crystals and glasses**|Indira Barros et.al.|[2410.16792v1](http://arxiv.org/abs/2410.16792v1)|null|
+|**2024-10-22**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776v1](http://arxiv.org/abs/2410.16776v1)|null|
+|**2024-10-21**|**Tunable Crystalline Order and Growth Kinetics in 2D Binary Colloidal Self-assembly Driven by Depletion Interactions**|S. k. Tahmid Shahriar et.al.|[2410.16568v1](http://arxiv.org/abs/2410.16568v1)|null|
+|**2024-10-21**|**Observation of string breaking on a (2 + 1)D Rydberg quantum simulator**|Daniel Gonzalez-Cuadra et.al.|[2410.16558v1](http://arxiv.org/abs/2410.16558v1)|null|
+|**2024-10-21**|**Tuning the buckling sequences of metamaterials using plasticity**|Wenfeng Liu et.al.|[2410.16452v1](http://arxiv.org/abs/2410.16452v1)|null|
 |**2024-10-21**|**Role of obstacle softness in the diffusive behavior of active Particles**|Ankit Gupta et.al.|[2410.16223v1](http://arxiv.org/abs/2410.16223v1)|null|
 |**2024-10-21**|**Bound States-to-Bands in the Continuum in Cylindrical Granular Crystals**|Yeongtae Jang et.al.|[2410.16209v1](http://arxiv.org/abs/2410.16209v1)|null|
 |**2024-10-21**|**Momentum-Resolved Fingerprint of Mottness in Layer-Dimerized Nb $_3$Br$_8$**|Mihir Date et.al.|[2410.16199v1](http://arxiv.org/abs/2410.16199v1)|null|
@@ -7033,6 +7045,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**The Optical HMW Geometric Phase and the Abraham Minkowski Controversy**|J. Hainge et.al.|[2410.17010v1](http://arxiv.org/abs/2410.17010v1)|null|
 |**2024-10-17**|**Evidence of Floquet electronic steady states in graphene under continuous-wave mid-infrared irradiation**|Yijing Liu et.al.|[2410.13930v1](http://arxiv.org/abs/2410.13930v1)|null|
 |**2024-10-15**|**Lattice dynamics and mixing of polar phonons in the rare-earth orthoferrite TbFeO $_{3}$**|R. M. Dubrovin et.al.|[2410.11780v1](http://arxiv.org/abs/2410.11780v1)|null|
 |**2024-10-02**|**Atmospheric Pressure Ammonia Synthesis on AuRu Catalysts Enabled by Plasmon-Controlled Hydrogenation and Nitrogen-species Desorption**|Lin Yuan et.al.|[2410.01300v1](http://arxiv.org/abs/2410.01300v1)|null|
@@ -7589,6 +7602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587v1](http://arxiv.org/abs/2410.16587v1)|null|
 |**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292v1](http://arxiv.org/abs/2410.15292v1)|null|
 |**2024-10-19**|**Giant Topological Hall Effect in Magnetic Weyl Metal Mn $_{2}$Pd$_{0.5}$Ir$_{0.5}$ Sn**|Arnab Bhattacharya et.al.|[2410.15011v1](http://arxiv.org/abs/2410.15011v1)|null|
 |**2024-10-17**|**Vacancy-induced suppression of CDW order and its impact on magnetic order in kagome antiferromagnet FeGe**|Mason L. Klemm et.al.|[2410.13994v1](http://arxiv.org/abs/2410.13994v1)|null|
