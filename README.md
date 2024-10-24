@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Local stress in cylindrically curved lipid membrane: insights into local versus global lateral fluidity models**|Konstantin V. Pinigin et.al.|[2410.18043v1](http://arxiv.org/abs/2410.18043v1)|null|
+|**2024-10-23**|**Non-linear anomalous Edelstein response at altermagnetic interfaces**|Mattia Trama et.al.|[2410.18036v1](http://arxiv.org/abs/2410.18036v1)|null|
+|**2024-10-23**|**Emergence of intermediate range order in jammed packings**|Joseph M. Monti et.al.|[2410.18030v1](http://arxiv.org/abs/2410.18030v1)|null|
+|**2024-10-23**|**Selective excitation of work-generating cycles in nonreciprocal living solids**|Yu-Chen Chao et.al.|[2410.18017v1](http://arxiv.org/abs/2410.18017v1)|null|
+|**2024-10-23**|**Parallel quench and dynamic geometrical order parameter**|Jia-Chen Tang et.al.|[2410.17940v1](http://arxiv.org/abs/2410.17940v1)|null|
+|**2024-10-23**|**Direct observation of thermal hysteresis in the molecular dynamics of orientationally disordered barocalorics**|Frederic Rendell-Bhatti et.al.|[2410.17869v1](http://arxiv.org/abs/2410.17869v1)|null|
+|**2024-10-23**|**Designing complex behaviours using signal-passing allosteric self-assembly**|Jakob Metson et.al.|[2410.17807v1](http://arxiv.org/abs/2410.17807v1)|null|
+|**2024-10-23**|**Scale-free flocking and giant fluctuations in epithelial active solids**|Yuan Shen et.al.|[2410.17705v1](http://arxiv.org/abs/2410.17705v1)|null|
+|**2024-10-23**|**Electrostatics slows down the breakup of liquid bridges on solid surfaces**|Salar Jabbary Farrokhi et.al.|[2410.17679v1](http://arxiv.org/abs/2410.17679v1)|null|
+|**2024-10-23**|**Water cavitation results from the kinetic competition of bulk, surface and surface-defect nucleation events**|Philip Loche et.al.|[2410.17626v1](http://arxiv.org/abs/2410.17626v1)|null|
+|**2024-10-22**|**Drop deformation with soluble surfactants in linear flows: role of adsorption-desorption**|Paul Regazzi et.al.|[2410.17365v1](http://arxiv.org/abs/2410.17365v1)|null|
 |**2024-10-22**|**Dipolar Attraction of Superparamagnetic Nanoparticles**|Frederik L. Durhuus et.al.|[2410.17201v1](http://arxiv.org/abs/2410.17201v1)|null|
 |**2024-10-22**|**Evidence for a Lattice Supersolid of Subradiant Dipolar Excitons**|Camille Lagoin et.al.|[2410.17162v1](http://arxiv.org/abs/2410.17162v1)|null|
 |**2024-10-22**|**Architecting mechanisms of damage in topological metamaterial**|Leo de Waal et.al.|[2410.17100v1](http://arxiv.org/abs/2410.17100v1)|null|
@@ -7041,6 +7052,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Probing the axion-photon coupling with space-based gravitational waves detectors**|Jordan Gué et.al.|[2410.17763v1](http://arxiv.org/abs/2410.17763v1)|null|
 |**2024-10-22**|**The Optical HMW Geometric Phase and the Abraham Minkowski Controversy**|J. Hainge et.al.|[2410.17010v1](http://arxiv.org/abs/2410.17010v1)|null|
 |**2024-10-17**|**Evidence of Floquet electronic steady states in graphene under continuous-wave mid-infrared irradiation**|Yijing Liu et.al.|[2410.13930v1](http://arxiv.org/abs/2410.13930v1)|null|
 |**2024-10-15**|**Lattice dynamics and mixing of polar phonons in the rare-earth orthoferrite TbFeO $_{3}$**|R. M. Dubrovin et.al.|[2410.11780v1](http://arxiv.org/abs/2410.11780v1)|null|
@@ -7598,6 +7610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Weak Ferromagnetism in Altermagnets from Alternating $g$ -Tensor Anisotropy**|Daegeun Jo et.al.|[2410.17386v1](http://arxiv.org/abs/2410.17386v1)|null|
 |**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587v1](http://arxiv.org/abs/2410.16587v1)|null|
 |**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292v1](http://arxiv.org/abs/2410.15292v1)|null|
 |**2024-10-19**|**Giant Topological Hall Effect in Magnetic Weyl Metal Mn $_{2}$Pd$_{0.5}$Ir$_{0.5}$ Sn**|Arnab Bhattacharya et.al.|[2410.15011v1](http://arxiv.org/abs/2410.15011v1)|null|
