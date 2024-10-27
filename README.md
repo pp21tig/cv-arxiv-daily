@@ -1106,7 +1106,7 @@
 |**2024-10-24**|**Collective excitations in liquid carbon tetrachloride: a molecular dynamics study**|Yu. D. Fomin et.al.|[2410.18714v1](http://arxiv.org/abs/2410.18714v1)|null|
 |**2024-10-24**|**How combining integral equation closures with force density functional theory opens new perspectives in the study of inhomogeneous fluids**|S. M. Tschopp et.al.|[2410.18680v1](http://arxiv.org/abs/2410.18680v1)|null|
 |**2024-10-24**|**Phase Behaviour of X-Shaped Liquid Crystalline Molecules**|Dan Wei et.al.|[2410.18361v1](http://arxiv.org/abs/2410.18361v1)|null|
-|**2024-10-24**|**Scale-tailored localization and its observation in non-Hermitian electrical circuits**|Cui-Xian Guo et.al.|[2410.18339v1](http://arxiv.org/abs/2410.18339v1)|null|
+|**2024-10-24**|**Scale-tailored localization and its observation in non-Hermitian electrical circuits**|Cui-Xian Guo et.al.|[2410.18339v1](http://arxiv.org/abs/2410.18339v1)|**[link](https://github.com/g-cx1/stl-code)**|
 |**2024-10-23**|**Pathological Rheology of Non-Stretching Entangled Polymers: Finite-Time Blow-Up Predictions**|Vickie Chen et.al.|[2410.18306v1](http://arxiv.org/abs/2410.18306v1)|null|
 |**2024-10-23**|**Nonrelativistic superfluids in cosmology from a relativistic approach: Revisiting two formulations of superfluidity**|Aline Favero et.al.|[2410.18214v1](http://arxiv.org/abs/2410.18214v1)|null|
 |**2024-10-23**|**Simulating quantum chaos without chaos**|Andi Gu et.al.|[2410.18196v1](http://arxiv.org/abs/2410.18196v1)|null|
