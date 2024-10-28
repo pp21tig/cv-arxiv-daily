@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Proper pair potential for mutually interacting point dipoles**|Lucas H. P. Cunha et.al.|[2410.19716v1](http://arxiv.org/abs/2410.19716v1)|null|
+|**2024-10-25**|**Schwinger Dyson Summation of Perturbation Expansions**|Tom Banks et.al.|[2410.19683v1](http://arxiv.org/abs/2410.19683v1)|null|
+|**2024-10-25**|**Binding memory of liquid molecules**|Shiyi Qin et.al.|[2410.19634v1](http://arxiv.org/abs/2410.19634v1)|null|
+|**2024-10-25**|**On the Existence of Prewetting in Supracritical Fluid Mixtures**|Jan Forsman et.al.|[2410.19534v1](http://arxiv.org/abs/2410.19534v1)|null|
+|**2024-10-25**|**Approaches to tunnel magnetoresistance effect with antiferromagnets**|Katsuhiro Tanaka et.al.|[2410.19513v1](http://arxiv.org/abs/2410.19513v1)|null|
+|**2024-10-25**|**A potpourri of results on molecular communication with active transport**|Phanindra Dewan et.al.|[2410.19411v1](http://arxiv.org/abs/2410.19411v1)|null|
+|**2024-10-25**|**Improving the functionality of non-stretching approximations**|Vickie Chen et.al.|[2410.19299v1](http://arxiv.org/abs/2410.19299v1)|null|
+|**2024-10-25**|**Topological Rigidity and Non-Abelian defect junctions in chiral nematic systems with effective biaxial symmetry**|Jin-Sheng Wu et.al.|[2410.19293v1](http://arxiv.org/abs/2410.19293v1)|null|
+|**2024-10-25**|**Irreversible charging caused by energy dissipation from depinning of droplets on polymer surfaces**|Shuaijia Chen et.al.|[2410.19233v1](http://arxiv.org/abs/2410.19233v1)|null|
+|**2024-10-24**|**Collective behavior of "flexicles"**|Philipp W. A. Schönhöfer et.al.|[2410.19172v1](http://arxiv.org/abs/2410.19172v1)|null|
 |**2024-10-24**|**Superfluidity of quasi-2D He-4 droplets on graphite**|K. M. Kolevski et.al.|[2410.18911v1](http://arxiv.org/abs/2410.18911v1)|null|
 |**2024-10-24**|**Diffusion of impurities in a moderately dense confined granular gas**|Rubén Gómez González et.al.|[2410.18874v1](http://arxiv.org/abs/2410.18874v1)|null|
 |**2024-10-24**|**Corner Flat Bands Induced by $d$-Density Wave and Partial Corner State Modification Due to Competition with $d$ -Wave Superconductivity**|Junming Lao et.al.|[2410.18872v1](http://arxiv.org/abs/2410.18872v1)|null|
@@ -7064,6 +7074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Artificial sunflower: Light-induced deformation of photoactive shells**|Sathvik Sanagala et.al.|[2410.19645v1](http://arxiv.org/abs/2410.19645v1)|null|
 |**2024-10-23**|**Probing the axion-photon coupling with space-based gravitational waves detectors**|Jordan Gué et.al.|[2410.17763v1](http://arxiv.org/abs/2410.17763v1)|null|
 |**2024-10-22**|**The Optical HMW Geometric Phase and the Abraham Minkowski Controversy**|J. Hainge et.al.|[2410.17010v1](http://arxiv.org/abs/2410.17010v1)|null|
 |**2024-10-17**|**Evidence of Floquet electronic steady states in graphene under continuous-wave mid-infrared irradiation**|Yijing Liu et.al.|[2410.13930v1](http://arxiv.org/abs/2410.13930v1)|null|
