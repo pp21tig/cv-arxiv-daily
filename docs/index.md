@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Terahertz chiral photonic-crystal cavities with broken time-reversal symmetry**|Fuyang Tay et.al.|[2410.21171v1](http://arxiv.org/abs/2410.21171v1)|null|
+|**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng et.al.|[2410.21122v1](http://arxiv.org/abs/2410.21122v1)|null|
+|**2024-10-28**|**Confined active particles with spatially dependent Lorentz force: an odd twist to the "best Fokker-Planck approximation"**|René Wittmann et.al.|[2410.21087v1](http://arxiv.org/abs/2410.21087v1)|null|
+|**2024-10-28**|**Inferring the Isotropic-nematic Phase Transition with Generative Machine Learning**|Eric R. Beyerle et.al.|[2410.21034v1](http://arxiv.org/abs/2410.21034v1)|null|
+|**2024-10-28**|**Vapour-Liquid equilibrium and low-temperature liquid-crystal phase diagram of discotic colloids**|Alejandro Cuetos and et.al.|[2410.21003v1](http://arxiv.org/abs/2410.21003v1)|null|
+|**2024-10-28**|**Orbital angular momentum impact on light scattering by phonons tested experimentally**|A. Pylypets et.al.|[2410.20983v1](http://arxiv.org/abs/2410.20983v1)|null|
+|**2024-10-28**|**Stress and Displacement Fields in the Surface of an Elastic Half-Space under the Action of a Constant Shear Load over a Circular Contact Domain**|Emanuel Willert et.al.|[2410.20979v1](http://arxiv.org/abs/2410.20979v1)|null|
+|**2024-10-28**|**Polar charge density wave in a superconductor with crystallographic chirality**|Shangfei Wu et.al.|[2410.20921v1](http://arxiv.org/abs/2410.20921v1)|null|
+|**2024-10-28**|**Origami crawlers: exploring a single origami vertex for complex path navigation**|Davood Farhadi et.al.|[2410.20818v1](http://arxiv.org/abs/2410.20818v1)|null|
+|**2024-10-28**|**Arrested development and traveling waves of active suspensions in nematic liquid crystals**|Jingyi Li et.al.|[2410.20734v1](http://arxiv.org/abs/2410.20734v1)|null|
+|**2024-10-28**|**Life at low Reynolds number isn't such a drag**|Sujit S. Datta et.al.|[2410.20648v1](http://arxiv.org/abs/2410.20648v1)|null|
+|**2024-10-27**|**Dynamics of non-Markovian systems: Markovian embedding vs effective mass approach**|Mateusz Wiśniewski et.al.|[2410.20604v1](http://arxiv.org/abs/2410.20604v1)|null|
+|**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
+|**2024-10-27**|**Behavior of water and aqueous LiCl solutions confined in cylindrical silica pores: A wide temperature range molecular dynamics simulation study**|Siddharth Gautam et.al.|[2410.20576v1](http://arxiv.org/abs/2410.20576v1)|null|
+|**2024-10-27**|**A steady-state frictional crack in a strip**|Efim A. Brener et.al.|[2410.20544v1](http://arxiv.org/abs/2410.20544v1)|null|
+|**2024-10-27**|**Non-volatile multi-state electrothermal resistive switching in a strongly correlated insulator thin-film device**|Farnaz Tahouni-Bonab et.al.|[2410.20521v1](http://arxiv.org/abs/2410.20521v1)|null|
+|**2024-10-27**|**Asymmetric Bending Boundary Layer: the $λ$ -test**|Nathan Vani et.al.|[2410.20511v1](http://arxiv.org/abs/2410.20511v1)|null|
+|**2024-10-27**|**Observation of Temperature-Dependent Capture Cross-Section for Main Deep-Levels in $β$ -Ga2O3**|A. A. Vasilev et.al.|[2410.20509v1](http://arxiv.org/abs/2410.20509v1)|null|
+|**2024-10-27**|**A twenty-first century statistical physics of life**|Pankaj Mehta et.al.|[2410.20506v1](http://arxiv.org/abs/2410.20506v1)|null|
+|**2024-10-27**|**Revealing Molecular Mechanism of Nonmonotonic Relationship between Antifreeze Activity and Chain Length in Polyprolines**|Wentao Yang et.al.|[2410.20447v1](http://arxiv.org/abs/2410.20447v1)|null|
 |**2024-10-25**|**Proper pair potential for mutually interacting point dipoles**|Lucas H. P. Cunha et.al.|[2410.19716v1](http://arxiv.org/abs/2410.19716v1)|null|
 |**2024-10-25**|**Schwinger Dyson Summation of Perturbation Expansions**|Tom Banks et.al.|[2410.19683v1](http://arxiv.org/abs/2410.19683v1)|null|
 |**2024-10-25**|**Binding memory of liquid molecules**|Shiyi Qin et.al.|[2410.19634v1](http://arxiv.org/abs/2410.19634v1)|null|
@@ -7078,6 +7098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-10-25**|**Artificial sunflower: Light-induced deformation of photoactive shells**|Sathvik Sanagala et.al.|[2410.19645v1](http://arxiv.org/abs/2410.19645v1)|null|
 |**2024-10-23**|**Probing the axion-photon coupling with space-based gravitational waves detectors**|Jordan Gué et.al.|[2410.17763v1](http://arxiv.org/abs/2410.17763v1)|null|
 |**2024-10-22**|**The Optical HMW Geometric Phase and the Abraham Minkowski Controversy**|J. Hainge et.al.|[2410.17010v1](http://arxiv.org/abs/2410.17010v1)|null|
@@ -7360,6 +7381,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-09-23**|**Terahertz Control of Linear and Nonlinear Magno-Phononics**|Tianchuang Luo et.al.|[2409.14669v1](http://arxiv.org/abs/2409.14669v1)|null|
 |**2024-08-26**|**One-dimensional Photonic Crystal Structure Enhanced External-Magnetic-Field-Free Spintronic Terahertz High-Field Emitter**|Zehao Yang et.al.|[2408.14054v1](http://arxiv.org/abs/2408.14054v1)|null|
 |**2024-05-13**|**Multiple Bound States in the Continuum: Towards Intense Terahertz Matter Interaction**|Quanlong Yang et.al.|[2405.07426v1](http://arxiv.org/abs/2405.07426v1)|null|
@@ -7426,6 +7448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Impurity radiation seeding of neoclassical tearing mode growth**|Shiyong Zeng et.al.|[2410.20787v1](http://arxiv.org/abs/2410.20787v1)|null|
 |**2024-10-17**|**Anatomy of Thermally Interplayed Spin-Orbit Torque Driven Antiferromagnetic Switching**|Wenlong Cai et.al.|[2410.13202v1](http://arxiv.org/abs/2410.13202v1)|null|
 |**2024-10-13**|**Large Chiral Orbital Texture and Orbital Edelstein Effect in Co/Al Heterostructure**|Sergey A. Nikolaev et.al.|[2410.09957v1](http://arxiv.org/abs/2410.09957v1)|null|
 |**2024-10-10**|**Field-free spin-orbit switching of canted magnetization in Pt/Co/Ru/RuO2(101) multilayers**|Yunzhuo Wu et.al.|[2410.07946v1](http://arxiv.org/abs/2410.07946v1)|null|
@@ -7637,6 +7660,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Effect of antisite disorder on the magnetic and transport properties of a quarternary Heusler alloy**|Srishti Dixit et.al.|[2410.20673v1](http://arxiv.org/abs/2410.20673v1)|null|
 |**2024-10-22**|**Weak Ferromagnetism in Altermagnets from Alternating $g$ -Tensor Anisotropy**|Daegeun Jo et.al.|[2410.17386v1](http://arxiv.org/abs/2410.17386v1)|null|
 |**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587v1](http://arxiv.org/abs/2410.16587v1)|null|
 |**2024-10-20**|**Robust topological interface states in a lateral magnetic-topological heterostructure**|Qun Niu et.al.|[2410.15292v1](http://arxiv.org/abs/2410.15292v1)|null|
@@ -7984,6 +8008,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-27**|**Role of non-magnetic spacers in the magnetic interactions of antiferromagnetic topological insulators MnBi $_{4}$Te$_{7}$ and MnBi$_{2}$Te$_{4}$**|Bing Li et.al.|[2410.20455v1](http://arxiv.org/abs/2410.20455v1)|null|
 |**2024-10-19**|**Predicting Fractionalized Multi-Spin Excitations in Resonant Inelastic X-ray Spectra of Frustrated Spin-1/2 Trimer Chains**|Prabhakar et.al.|[2410.15082v1](http://arxiv.org/abs/2410.15082v1)|null|
 |**2024-10-03**|**Contrasting dynamical properties of single-Q and triple-Q magnetic orderings in a triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2410.02180v1](http://arxiv.org/abs/2410.02180v1)|null|
 |**2024-09-16**|**Anomalous quasielastic scattering contribution in the centrosymmetric multi- $\mathbf{q}$ helimagnet SrFeO$_3$**|N. D. Andriushin et.al.|[2409.10214v1](http://arxiv.org/abs/2409.10214v1)|null|
