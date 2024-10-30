@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Aharonov-Bohm interferometer in inverted-band pn junctions**|Yuhao Zhao et.al.|[2410.22298v1](http://arxiv.org/abs/2410.22298v1)|null|
+|**2024-10-29**|**Driving forces in cell migration and pattern formation in a soft tissue**|Amabile Tatone et.al.|[2410.22273v1](http://arxiv.org/abs/2410.22273v1)|null|
+|**2024-10-29**|**Optimizing Cost through Dynamic Stochastic Resetting**|Deepak Gupta et.al.|[2410.22255v1](http://arxiv.org/abs/2410.22255v1)|null|
+|**2024-10-29**|**Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model**|Chaohong Wang et.al.|[2410.22111v1](http://arxiv.org/abs/2410.22111v1)|null|
+|**2024-10-29**|**Magnetic levitation in the field of a rotating dipole**|Grégoire Le Lay et.al.|[2410.22096v1](http://arxiv.org/abs/2410.22096v1)|null|
+|**2024-10-29**|**Probing chiral symmetry with a topological domain wall sensor**|Glenn Wagner et.al.|[2410.22088v1](http://arxiv.org/abs/2410.22088v1)|null|
+|**2024-10-29**|**Dynamical metastability and re-entrant localization of trapped active elements with speed and orientation fluctuations**|Manish Patel et.al.|[2410.22004v1](http://arxiv.org/abs/2410.22004v1)|null|
+|**2024-10-29**|**Piezoelectric polymer generators: the large bending regime**|E. Sarrey et.al.|[2410.21947v1](http://arxiv.org/abs/2410.21947v1)|null|
+|**2024-10-29**|**Magnetic Order and Long-Range Interactions in Mesoscopic Ising Chains**|Christina Vantaraki et.al.|[2410.21903v1](http://arxiv.org/abs/2410.21903v1)|null|
+|**2024-10-29**|**Understanding Interfacial Ice Premelting: Structure, Adhesion and Nucleation**|Łukasz Baran et.al.|[2410.21893v1](http://arxiv.org/abs/2410.21893v1)|null|
+|**2024-10-29**|**Size-dependency and lattice-discreetness effect on fracture toughness in 2D crystals under antiplanar loading**|Thuy Nguyen et.al.|[2410.21839v1](http://arxiv.org/abs/2410.21839v1)|null|
+|**2024-10-29**|**Mixing order asymmetry in nanoparticle-polymer complexation and precipitation revealed by isothermal titration calorimetry**|Letícia Vitorazi et.al.|[2410.21792v1](http://arxiv.org/abs/2410.21792v1)|null|
+|**2024-10-29**|**Condensation and activator/repressor control of a transcription-regulated biomolecular liquid**|Sam Wilken et.al.|[2410.21624v1](http://arxiv.org/abs/2410.21624v1)|null|
+|**2024-10-28**|**Terahertz Spin-Light Coupling in Proximitized Dirac Materials**|Konstantin S. Denisov et.al.|[2410.21614v1](http://arxiv.org/abs/2410.21614v1)|null|
+|**2024-10-28**|**Self-assembly and non-equilibrium phase coexistence in a binary granular mixture**|A. Plati et.al.|[2410.21576v1](http://arxiv.org/abs/2410.21576v1)|null|
+|**2024-10-28**|**Classical theory of nucleation applied to condensation of a Lennard-Jones fluid**|Yijian Wu et.al.|[2410.21522v1](http://arxiv.org/abs/2410.21522v1)|null|
+|**2024-10-28**|**Cavity Spectroscopy for Strongly Correlated Systems**|Lukas Grunwald et.al.|[2410.21515v1](http://arxiv.org/abs/2410.21515v1)|null|
+|**2024-10-28**|**Pattern formation in coiling of falling viscous threads: Revisiting the geometric model**|Will Sze et.al.|[2410.21503v1](http://arxiv.org/abs/2410.21503v1)|null|
+|**2024-10-28**|**Complete mathematical theory of the jamming transition**|Alessio Zaccone et.al.|[2410.21439v1](http://arxiv.org/abs/2410.21439v1)|null|
 |**2024-10-28**|**Terahertz chiral photonic-crystal cavities with broken time-reversal symmetry**|Fuyang Tay et.al.|[2410.21171v1](http://arxiv.org/abs/2410.21171v1)|null|
 |**2024-10-28**|**Quantum entanglement and Einstein-Podolsky-Rosen steering in magnon frequency comb**|Qianjun Zheng et.al.|[2410.21122v1](http://arxiv.org/abs/2410.21122v1)|null|
 |**2024-10-28**|**Confined active particles with spatially dependent Lorentz force: an odd twist to the "best Fokker-Planck approximation"**|René Wittmann et.al.|[2410.21087v1](http://arxiv.org/abs/2410.21087v1)|null|
@@ -7098,6 +7117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Tuning magnetic interactions with nonequilibrium optical phonon populations**|Milan Kornjača et.al.|[2410.21373v1](http://arxiv.org/abs/2410.21373v1)|null|
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-10-25**|**Artificial sunflower: Light-induced deformation of photoactive shells**|Sathvik Sanagala et.al.|[2410.19645v1](http://arxiv.org/abs/2410.19645v1)|null|
 |**2024-10-23**|**Probing the axion-photon coupling with space-based gravitational waves detectors**|Jordan Gué et.al.|[2410.17763v1](http://arxiv.org/abs/2410.17763v1)|null|
