@@ -1098,6 +1098,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Proof of nonintegrability of the spin- $1$ bilinear-biquadratic chain model**|HaRu K. Park et.al.|[2410.23286v1](http://arxiv.org/abs/2410.23286v1)|null|
+|**2024-10-30**|**Fixing non-positive energies in higher-order homogenization**|Manon Thbaut et.al.|[2410.23188v1](http://arxiv.org/abs/2410.23188v1)|null|
+|**2024-10-30**|**Statistical Mechanics of Multiplectoneme Phases in DNA**|Midas Segers et.al.|[2410.23145v1](http://arxiv.org/abs/2410.23145v1)|null|
+|**2024-10-30**|**The Emergence of Laplace Universality in Correlated Processes**|R. K. Singh et.al.|[2410.23112v1](http://arxiv.org/abs/2410.23112v1)|null|
+|**2024-10-30**|**Numerical evaluation of the real-time photon-instanton cross-section in a superconducting circuit**|Amir Burshtein et.al.|[2410.23062v1](http://arxiv.org/abs/2410.23062v1)|null|
+|**2024-10-30**|**Non-monotonic evolution of contact area in soft contacts during incipient torsional loading**|Bo Zhang et.al.|[2410.23050v1](http://arxiv.org/abs/2410.23050v1)|null|
+|**2024-10-30**|**Generalized many-body perturbation theory for the electron correlation energy**|Yuqi Wang et.al.|[2410.22990v1](http://arxiv.org/abs/2410.22990v1)|null|
+|**2024-10-30**|**Variational formulation of dynamical electronic response functions in Bethe-Salpeter, (screened) Hartree-Fock, Hybrid-DFT approaches**|Giovanni Caldarelli et.al.|[2410.22889v1](http://arxiv.org/abs/2410.22889v1)|null|
+|**2024-10-30**|**Mesoscopic modelling of bio-compatible PLGA polymers with coarse-grained molecular dynamics simulations**|Francesco Maria Bellussi et.al.|[2410.22836v1](http://arxiv.org/abs/2410.22836v1)|null|
+|**2024-10-30**|**Colossal magnetoresistance from spin-polarized polarons in an Ising system**|Ying-Fei Li et.al.|[2410.22727v1](http://arxiv.org/abs/2410.22727v1)|null|
+|**2024-10-30**|**Transferability of the chemical bond-based machine learning model for dipole moment: the GHz to THz dielectric properties of liquid propylene glycol and polypropylene glycol**|Tomohito Amano et.al.|[2410.22718v1](http://arxiv.org/abs/2410.22718v1)|null|
+|**2024-10-30**|**Thermodynamic Basis for Odd Matter**|Martin Ostoja-Starzewski et.al.|[2410.22654v1](http://arxiv.org/abs/2410.22654v1)|null|
+|**2024-10-30**|**Electrostatic self-assembly of neutral particles on a dielectric substrate: A theoretical study via a multiple-image method and an effective-dipole approach**|Xin Li et.al.|[2410.22608v1](http://arxiv.org/abs/2410.22608v1)|null|
+|**2024-10-29**|**A simple yet effective ALE-FE method for the nonlinear planar dynamics of variable-length flexible rods**|Panagiotis Koutsogiannakis et.al.|[2410.22545v1](http://arxiv.org/abs/2410.22545v1)|null|
+|**2024-10-29**|**Fluctuation-dominated phase ordering in the one dimensional Truncated Inverse Distance Square Ising (TIDSI) model**|Souvik Sadhukhan et.al.|[2410.22491v1](http://arxiv.org/abs/2410.22491v1)|null|
+|**2024-10-29**|**Morphogenesis of Spin Cycloids in a Non-collinear Antiferromagnet**|Shashank Kumar Ojha et.al.|[2410.22463v1](http://arxiv.org/abs/2410.22463v1)|null|
+|**2024-10-29**|**Microsecond electro-optic switching in the nematic phase of a ferroelectric nematic liquid crystal**|Kamal Thapa et.al.|[2410.22441v1](http://arxiv.org/abs/2410.22441v1)|null|
+|**2024-10-29**|**Design and control of three-dimensional topological magnetic fields using interwoven helical nanostructures**|John Fullerton et.al.|[2410.22429v1](http://arxiv.org/abs/2410.22429v1)|null|
+|**2024-10-29**|**Zero-point energy of tensor fluctuations on the MPS manifold**|Sebastian Leontica et.al.|[2410.22411v1](http://arxiv.org/abs/2410.22411v1)|null|
 |**2024-10-29**|**Aharonov-Bohm interferometer in inverted-band pn junctions**|Yuhao Zhao et.al.|[2410.22298v1](http://arxiv.org/abs/2410.22298v1)|null|
 |**2024-10-29**|**Driving forces in cell migration and pattern formation in a soft tissue**|Amabile Tatone et.al.|[2410.22273v1](http://arxiv.org/abs/2410.22273v1)|null|
 |**2024-10-29**|**Optimizing Cost through Dynamic Stochastic Resetting**|Deepak Gupta et.al.|[2410.22255v1](http://arxiv.org/abs/2410.22255v1)|null|
@@ -8024,6 +8043,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Magnetic excitations in the noncentrosymmetric magnet Sr2MnSi2O7**|Masahiro Kawamata et.al.|[2410.22741v1](http://arxiv.org/abs/2410.22741v1)|null|
 |**2024-10-27**|**Role of non-magnetic spacers in the magnetic interactions of antiferromagnetic topological insulators MnBi $_{4}$Te$_{7}$ and MnBi$_{2}$Te$_{4}$**|Bing Li et.al.|[2410.20455v1](http://arxiv.org/abs/2410.20455v1)|null|
 |**2024-10-19**|**Predicting Fractionalized Multi-Spin Excitations in Resonant Inelastic X-ray Spectra of Frustrated Spin-1/2 Trimer Chains**|Prabhakar et.al.|[2410.15082v1](http://arxiv.org/abs/2410.15082v1)|null|
 |**2024-10-03**|**Contrasting dynamical properties of single-Q and triple-Q magnetic orderings in a triangular lattice antiferromagnet**|Pyeongjae Park et.al.|[2410.02180v1](http://arxiv.org/abs/2410.02180v1)|null|
