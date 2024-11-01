@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory**|Ludovico Cademartiri et.al.|[2410.24137v1](http://arxiv.org/abs/2410.24137v1)|null|
+|**2024-10-31**|**Transient Elasticity -- A Unifying Framework for Thixotropy, Polymers, and Granular Media**|Mario Liu et.al.|[2410.23921v1](http://arxiv.org/abs/2410.23921v1)|null|
+|**2024-10-31**|**Surface polarization strongly influences electrostatics in a nonlocal medium**|Ali Behjatian et.al.|[2410.23920v1](http://arxiv.org/abs/2410.23920v1)|null|
+|**2024-10-31**|**Lever rule violation and pressure imbalance in a driven granular system**|Soumen Das et.al.|[2410.23863v1](http://arxiv.org/abs/2410.23863v1)|null|
+|**2024-10-31**|**Gardner transition coincides with the emergence of jamming scalings in hard spheres and disks**|Qi Wang et.al.|[2410.23797v1](http://arxiv.org/abs/2410.23797v1)|null|
+|**2024-10-31**|**Designed self-assembly of programmable colloidal atom-electron equivalents**|Xiuyang Xia et.al.|[2410.23784v1](http://arxiv.org/abs/2410.23784v1)|null|
+|**2024-10-31**|**Ferroelectric terpolymer films with enhanced cooling efficiency: An integrated approach considering electrocaloric response and dielectric losses**|Nouh Zeggai et.al.|[2410.23708v1](http://arxiv.org/abs/2410.23708v1)|null|
+|**2024-10-31**|**One-way heat transfer in deep-subwavelength thermophotonics**|Shuihua Yang et.al.|[2410.23651v1](http://arxiv.org/abs/2410.23651v1)|null|
+|**2024-10-31**|**Spatiotemporal pattern formation of membranes induced by surface molecular binding/unbinding**|Hiroshi Noguchi et.al.|[2410.23635v1](http://arxiv.org/abs/2410.23635v1)|null|
+|**2024-10-31**|**Solving the Kinetic Ising Model with Non-Reciprocity**|Gabriel Weiderpass et.al.|[2410.23615v1](http://arxiv.org/abs/2410.23615v1)|null|
+|**2024-10-31**|**Nonlinear edge transport in a quantum Hall system**|Hiroki Isobe et.al.|[2410.23548v1](http://arxiv.org/abs/2410.23548v1)|null|
 |**2024-10-30**|**Proof of nonintegrability of the spin- $1$ bilinear-biquadratic chain model**|HaRu K. Park et.al.|[2410.23286v1](http://arxiv.org/abs/2410.23286v1)|null|
 |**2024-10-30**|**Fixing non-positive energies in higher-order homogenization**|Manon Thbaut et.al.|[2410.23188v1](http://arxiv.org/abs/2410.23188v1)|null|
 |**2024-10-31**|**Statistical Mechanics of Multiplectoneme Phases in DNA**|Midas Segers et.al.|[2410.23145v2](http://arxiv.org/abs/2410.23145v2)|null|
