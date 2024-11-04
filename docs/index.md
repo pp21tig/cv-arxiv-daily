@@ -1111,6 +1111,7 @@ layout: default
 |**2024-10-31**|**Ferroelectric terpolymer films with enhanced cooling efficiency: An integrated approach considering electrocaloric response and dielectric losses**|Nouh Zeggai et.al.|[2410.23708v1](http://arxiv.org/abs/2410.23708v1)|null|
 |**2024-10-31**|**One-way heat transfer in deep-subwavelength thermophotonics**|Shuihua Yang et.al.|[2410.23651v1](http://arxiv.org/abs/2410.23651v1)|null|
 |**2024-10-31**|**Spatiotemporal pattern formation of membranes induced by surface molecular binding/unbinding**|Hiroshi Noguchi et.al.|[2410.23635v1](http://arxiv.org/abs/2410.23635v1)|null|
+|**2024-10-31**|**Restoring Kibble-Zurek Scaling and Defect Freezing in Non-Hermitian Systems under Biorthogonal Framework**|Menghua Deng et.al.|[2410.23633v1](http://arxiv.org/abs/2410.23633v1)|null|
 |**2024-10-31**|**Solving the Kinetic Ising Model with Non-Reciprocity**|Gabriel Weiderpass et.al.|[2410.23615v1](http://arxiv.org/abs/2410.23615v1)|null|
 |**2024-10-31**|**Nonlinear edge transport in a quantum Hall system**|Hiroki Isobe et.al.|[2410.23548v1](http://arxiv.org/abs/2410.23548v1)|null|
 |**2024-10-30**|**Proof of nonintegrability of the spin- $1$ bilinear-biquadratic chain model**|HaRu K. Park et.al.|[2410.23286v1](http://arxiv.org/abs/2410.23286v1)|null|
