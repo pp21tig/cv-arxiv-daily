@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Convolutional neural networks applied to differential dynamic microscopy reduces noise when quantifying heterogeneous dynamics**|Gildardo Martinez et.al.|[2411.02314v1](http://arxiv.org/abs/2411.02314v1)|null|
+|**2024-11-04**|**Terahertz-Induced Nonlinear Response in ZnTe**|Felix Selz et.al.|[2411.02246v1](http://arxiv.org/abs/2411.02246v1)|null|
+|**2024-11-04**|**Modelling floral and arthropod electrostatics using a two-domain AAA-least squares algorithm**|Samuel J. Harris et.al.|[2411.02195v1](http://arxiv.org/abs/2411.02195v1)|null|
+|**2024-11-04**|**Entanglement area law in interacting bosons: from Bose-Hubbard, $φ$ 4, and beyond**|Donghoon Kim et.al.|[2411.02157v1](http://arxiv.org/abs/2411.02157v1)|null|
+|**2024-11-04**|**Crystallization kinetics of equimolar liquid crystalline mixture and its components**|Aleksandra Deptuch et.al.|[2411.02060v1](http://arxiv.org/abs/2411.02060v1)|null|
+|**2024-11-04**|**Discrete Element Simulations of particles interacting via capillary forces using MercuryDPM**|Meysam Bagheri et.al.|[2411.02042v1](http://arxiv.org/abs/2411.02042v1)|null|
+|**2024-11-04**|**Complex Vector Gain-Based Annealer for Minimizing XY Hamiltonians**|James S. Cummins et.al.|[2411.02010v1](http://arxiv.org/abs/2411.02010v1)|null|
+|**2024-11-04**|**Colloidal quasi-2D Methylammonium Lead Bromide Perovskite Nanostructures with Tunable Shape and High Chemical Stability**|Eugen Klein et.al.|[2411.01999v1](http://arxiv.org/abs/2411.01999v1)|null|
+|**2024-11-04**|**Brainbots as smart autonomous active particles with programmable motion**|M. Noirhomme et.al.|[2411.01943v1](http://arxiv.org/abs/2411.01943v1)|null|
+|**2024-11-04**|**Quench switching of Mn2As**|Kamil Olejník et.al.|[2411.01930v1](http://arxiv.org/abs/2411.01930v1)|null|
+|**2024-11-04**|**Probing Chiral Kitaev Spin Liquids via Dangling Boundary Fermions**|Shang-Shun Zhang et.al.|[2411.01784v1](http://arxiv.org/abs/2411.01784v1)|null|
+|**2024-11-03**|**Molecular Transport**|María Camarasa-Gómez et.al.|[2411.01680v1](http://arxiv.org/abs/2411.01680v1)|null|
+|**2024-11-03**|**Curvature of Energy Dispersions in Condensed Matter Quantum Systems**|Tishya Patel et.al.|[2411.01658v1](http://arxiv.org/abs/2411.01658v1)|null|
+|**2024-11-03**|**Wrinkling and imaging of thin curved sheets**|Megha Emerse et.al.|[2411.01616v1](http://arxiv.org/abs/2411.01616v1)|null|
+|**2024-11-03**|**Synergistic Interface Effects in Composite Dielectrics: Insights into Charge Trapping Regulation through Multiscale Modeling**|Haoxiang Zhao et.al.|[2411.01541v1](http://arxiv.org/abs/2411.01541v1)|null|
+|**2024-11-03**|**Rapidly mixing loop representation quantum Monte Carlo for Heisenberg models on star-like bipartite graphs**|Jun Takahashi et.al.|[2411.01452v1](http://arxiv.org/abs/2411.01452v1)|null|
+|**2024-11-02**|**Spatio-temporal fluctuations in the passive and active Riesz gas on the circle**|Leo Touzo et.al.|[2411.01355v1](http://arxiv.org/abs/2411.01355v1)|null|
+|**2024-11-02**|**Ferroelectric nematics: Materials with high permittivity or low resistivity?**|Nataša Vaupotič et.al.|[2411.01311v1](http://arxiv.org/abs/2411.01311v1)|null|
+|**2024-11-02**|**Non-Relativistic Boson Stars as Gravitational Quantum Droplets**|Jorge Mastache et.al.|[2411.01301v1](http://arxiv.org/abs/2411.01301v1)|null|
+|**2024-11-02**|**Probing disorder-induced time-reversal symmetry breaking in Josephson junctions**|Yu Wu et.al.|[2411.01232v1](http://arxiv.org/abs/2411.01232v1)|null|
 |**2024-10-31**|**Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory**|Ludovico Cademartiri et.al.|[2410.24137v1](http://arxiv.org/abs/2410.24137v1)|null|
 |**2024-10-31**|**Transient Elasticity -- A Unifying Framework for Thixotropy, Polymers, and Granular Media**|Mario Liu et.al.|[2410.23921v1](http://arxiv.org/abs/2410.23921v1)|null|
 |**2024-10-31**|**Surface polarization strongly influences electrostatics in a nonlocal medium**|Ali Behjatian et.al.|[2410.23920v1](http://arxiv.org/abs/2410.23920v1)|null|
@@ -7148,6 +7168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**Transverse Current Generation by Circularly Polarized Light in Terahertz-Biased Semiconductor**|Tomohiro Fujimoto et.al.|[2411.00528v1](http://arxiv.org/abs/2411.00528v1)|null|
 |**2024-10-28**|**Tuning magnetic interactions with nonequilibrium optical phonon populations**|Milan Kornjača et.al.|[2410.21373v1](http://arxiv.org/abs/2410.21373v1)|null|
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-10-25**|**Artificial sunflower: Light-induced deformation of photoactive shells**|Sathvik Sanagala et.al.|[2410.19645v1](http://arxiv.org/abs/2410.19645v1)|null|
@@ -7432,6 +7453,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Terahertz-Induced Nonlinear Response in ZnTe**|Felix Selz et.al.|[2411.02246v1](http://arxiv.org/abs/2411.02246v1)|null|
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-09-23**|**Terahertz Control of Linear and Nonlinear Magno-Phononics**|Tianchuang Luo et.al.|[2409.14669v1](http://arxiv.org/abs/2409.14669v1)|null|
 |**2024-08-26**|**One-dimensional Photonic Crystal Structure Enhanced External-Magnetic-Field-Free Spintronic Terahertz High-Field Emitter**|Zehao Yang et.al.|[2408.14054v1](http://arxiv.org/abs/2408.14054v1)|null|
@@ -7499,6 +7521,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Multidimensional coherent spectroscopy of correlated lattice systems**|Jiyu Chen et.al.|[2411.02389v1](http://arxiv.org/abs/2411.02389v1)|null|
 |**2024-10-28**|**Impurity radiation seeding of neoclassical tearing mode growth**|Shiyong Zeng et.al.|[2410.20787v1](http://arxiv.org/abs/2410.20787v1)|null|
 |**2024-10-17**|**Anatomy of Thermally Interplayed Spin-Orbit Torque Driven Antiferromagnetic Switching**|Wenlong Cai et.al.|[2410.13202v1](http://arxiv.org/abs/2410.13202v1)|null|
 |**2024-10-13**|**Large Chiral Orbital Texture and Orbital Edelstein Effect in Co/Al Heterostructure**|Sergey A. Nikolaev et.al.|[2410.09957v1](http://arxiv.org/abs/2410.09957v1)|null|
@@ -7711,6 +7734,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Imprinting electrically switchable scalar spin chirality by anisotropic strain in a Kagome antiferromagnet**|Debjoty Paul et.al.|[2411.01824v1](http://arxiv.org/abs/2411.01824v1)|null|
+|**2024-11-01**|**Extrinsic suppression of anomalous Hall effect in Fe-rich kagome magnet Fe3Sn**|Muhua Liu et.al.|[2411.00746v1](http://arxiv.org/abs/2411.00746v1)|null|
+|**2024-11-01**|**Transverse Current Generation by Circularly Polarized Light in Terahertz-Biased Semiconductor**|Tomohiro Fujimoto et.al.|[2411.00528v1](http://arxiv.org/abs/2411.00528v1)|null|
 |**2024-11-01**|**Effect of antisite disorder on the magnetic and transport properties of a quaternary Heusler alloy**|Srishti Dixit et.al.|[2410.20673v2](http://arxiv.org/abs/2410.20673v2)|null|
 |**2024-10-22**|**Weak Ferromagnetism in Altermagnets from Alternating $g$ -Tensor Anisotropy**|Daegeun Jo et.al.|[2410.17386v1](http://arxiv.org/abs/2410.17386v1)|null|
 |**2024-10-22**|**Tunable Quantum Anomalous Hall Effect via Crystal Order in Spin-Splitting Antiferromagnets**|Wenxuan Zhu et.al.|[2410.16587v1](http://arxiv.org/abs/2410.16587v1)|null|
