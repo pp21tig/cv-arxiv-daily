@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Spontaneous Flows and Quantum Analogies in Heterogeneous Active Nematic Films**|Alexander J. H. Houston et.al.|[2411.03306v1](http://arxiv.org/abs/2411.03306v1)|null|
+|**2024-11-05**|**Enhancement of adhesion strength through microvibrations: modeling and experiments**|Michele Tricarico et.al.|[2411.03182v1](http://arxiv.org/abs/2411.03182v1)|null|
+|**2024-11-05**|**Contrasting thermodynamic and hydrodynamic entrop**|Mahendra K. Verma et.al.|[2411.03135v1](http://arxiv.org/abs/2411.03135v1)|null|
+|**2024-11-05**|**Hotter isn't faster for a melting RNA hairpin**|Huaping Li et.al.|[2411.03072v1](http://arxiv.org/abs/2411.03072v1)|null|
+|**2024-11-05**|**Anisotropic DLVO-like interaction for charge patchiness in colloids and proteins**|Andraž Gnidovec et.al.|[2411.03045v1](http://arxiv.org/abs/2411.03045v1)|null|
+|**2024-11-05**|**Plasmonic Twistronics: Discovery of Plasmonic Skyrmion Bags**|Julian Schwab et.al.|[2411.03032v1](http://arxiv.org/abs/2411.03032v1)|null|
+|**2024-11-05**|**Vibrational similarities in jamming-unjamming of polycrystalline and disordered granular packings**|Juan C. Petit et.al.|[2411.03030v1](http://arxiv.org/abs/2411.03030v1)|null|
+|**2024-11-05**|**Tensegrity-Inspired Polymer Films: Progressive Bending Stiffness through Multipolymeric Patterning**|Rikima Kuwada et.al.|[2411.02982v1](http://arxiv.org/abs/2411.02982v1)|null|
+|**2024-11-05**|**Gauge theory for topological waves in continuum fluids with odd viscosity**|Keisuke Fujii et.al.|[2411.02958v1](http://arxiv.org/abs/2411.02958v1)|null|
+|**2024-11-05**|**Unified percolation scenario for the $α$ and $β$ processes in simple glass formers**|Liang Gao et.al.|[2411.02922v1](http://arxiv.org/abs/2411.02922v1)|null|
+|**2024-11-05**|**Synchronous manipulation of nuclear spins via boron vacancy centers in hexagonal boron nitride**|Fattah Sakuldee et.al.|[2411.02828v1](http://arxiv.org/abs/2411.02828v1)|null|
+|**2024-11-05**|**Hidden dormant phase mediating the glass transition in disordered matter**|Eunyoung Park et.al.|[2411.02691v1](http://arxiv.org/abs/2411.02691v1)|null|
+|**2024-11-04**|**Mpemba effect in the relaxation of an active Brownian particle in a trap without metastable states**|Apurba Biswas et.al.|[2411.02652v1](http://arxiv.org/abs/2411.02652v1)|null|
+|**2024-11-04**|**Multipartite entanglement structures in quantum stabilizer states**|Vaibhav Sharma et.al.|[2411.02630v1](http://arxiv.org/abs/2411.02630v1)|null|
+|**2024-11-04**|**Computing critical exponents in 3D Ising model via pattern recognition/deep learning approach**|Timothy A. Burt et.al.|[2411.02604v1](http://arxiv.org/abs/2411.02604v1)|null|
+|**2024-11-04**|**On the shape of Gaussian scale-free polymer networks**|V. Blavatska et.al.|[2411.02566v1](http://arxiv.org/abs/2411.02566v1)|null|
 |**2024-11-04**|**Convolutional neural networks applied to differential dynamic microscopy reduces noise when quantifying heterogeneous dynamics**|Gildardo Martinez et.al.|[2411.02314v1](http://arxiv.org/abs/2411.02314v1)|null|
 |**2024-11-04**|**Terahertz-Induced Nonlinear Response in ZnTe**|Felix Selz et.al.|[2411.02246v1](http://arxiv.org/abs/2411.02246v1)|null|
 |**2024-11-04**|**Modelling floral and arthropod electrostatics using a two-domain AAA-least squares algorithm**|Samuel J. Harris et.al.|[2411.02195v1](http://arxiv.org/abs/2411.02195v1)|null|
@@ -7734,6 +7750,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Origin of Anomalous Hall effect in Cr-doped RuO $_2$**|Andriy Smolyanyuk et.al.|[2411.02507v1](http://arxiv.org/abs/2411.02507v1)|null|
 |**2024-11-04**|**Imprinting electrically switchable scalar spin chirality by anisotropic strain in a Kagome antiferromagnet**|Debjoty Paul et.al.|[2411.01824v1](http://arxiv.org/abs/2411.01824v1)|null|
 |**2024-11-01**|**Extrinsic suppression of anomalous Hall effect in Fe-rich kagome magnet Fe3Sn**|Muhua Liu et.al.|[2411.00746v1](http://arxiv.org/abs/2411.00746v1)|null|
 |**2024-11-01**|**Transverse Current Generation by Circularly Polarized Light in Terahertz-Biased Semiconductor**|Tomohiro Fujimoto et.al.|[2411.00528v1](http://arxiv.org/abs/2411.00528v1)|null|
