@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Free energy of self-avoiding polymer chain confined between parallel walls**|Marcio S. Gomes-Filho et.al.|[2411.04017v1](http://arxiv.org/abs/2411.04017v1)|null|
+|**2024-11-06**|**Collective Dynamics of Intelligent Active Brownian Particles with Visual Perception and Velocity Alignment in 3D: Spheres, Rods, and Worms**|Zhaoxuan Liu et.al.|[2411.03975v1](http://arxiv.org/abs/2411.03975v1)|null|
+|**2024-11-06**|**Homotopy classification of knotted defects in bounded domains**|Yuta Nozaki et.al.|[2411.03918v1](http://arxiv.org/abs/2411.03918v1)|null|
+|**2024-11-06**|**Non-monotonic motion of sliding droplets on strained soft solids**|Youchuang Chao et.al.|[2411.03915v1](http://arxiv.org/abs/2411.03915v1)|null|
+|**2024-11-06**|**The effects of fibre spatial distribution and relative orientation on the percolation and mechanics of stochastic fibre networks: A model of peptide hydrogels**|Amir Hossein Namdar et.al.|[2411.03894v1](http://arxiv.org/abs/2411.03894v1)|null|
+|**2024-11-06**|**Effect of Random Pinning on the Yielding Transition of Amorphous Solid under Oscillatory Shear**|Roni Chatterjee et.al.|[2411.03874v1](http://arxiv.org/abs/2411.03874v1)|null|
+|**2024-11-06**|**Active magneto gyrator: Memory induced trapped diamagnetism**|M Muhsin et.al.|[2411.03804v1](http://arxiv.org/abs/2411.03804v1)|null|
+|**2024-11-06**|**Estimation of spatial and time scales of collective behaviors of active matters through learning hydrodynamic equations from particle dynamics**|Bappaditya Roy et.al.|[2411.03783v1](http://arxiv.org/abs/2411.03783v1)|null|
+|**2024-11-06**|**Effect of crystal symmetry of lead halide perovskites on the optical orientation of excitons**|Nataliia E. Kopteva et.al.|[2411.03764v1](http://arxiv.org/abs/2411.03764v1)|null|
+|**2024-11-06**|**Effect of applied magnetic fields on the morphology of nematic nanobridges in slit pores**|Pablo Romero-Llorente et.al.|[2411.03757v1](http://arxiv.org/abs/2411.03757v1)|null|
+|**2024-11-06**|**Magic sizes enable minimal-complexity, high-fidelity assembly of programmable shells**|Botond Tyukodi et.al.|[2411.03720v1](http://arxiv.org/abs/2411.03720v1)|null|
+|**2024-11-06**|**Scalar Spin Chirality Hall Effect**|Gyungchoon Go et.al.|[2411.03679v1](http://arxiv.org/abs/2411.03679v1)|null|
+|**2024-11-06**|**Crystalline and polycrystalline regimes in a periodically sheared 2-dimensional system of disks**|Siyuan Su et.al.|[2411.03667v1](http://arxiv.org/abs/2411.03667v1)|null|
+|**2024-11-05**|**Classifying Order-Two Spatial Symmetries in Non-Hermitian Hamiltonians: Point-gapped AZ and AZ $^†$ Classes**|Yifan Wang et.al.|[2411.03410v1](http://arxiv.org/abs/2411.03410v1)|null|
+|**2024-11-05**|**Quasi-electrostatic eigenmode analysis of anisotropic particles**|Asaf Farhi et.al.|[2411.03378v1](http://arxiv.org/abs/2411.03378v1)|null|
 |**2024-11-05**|**Spontaneous Flows and Quantum Analogies in Heterogeneous Active Nematic Films**|Alexander J. H. Houston et.al.|[2411.03306v1](http://arxiv.org/abs/2411.03306v1)|null|
 |**2024-11-05**|**Enhancement of adhesion strength through microvibrations: modeling and experiments**|Michele Tricarico et.al.|[2411.03182v1](http://arxiv.org/abs/2411.03182v1)|null|
 |**2024-11-05**|**Contrasting thermodynamic and hydrodynamic entrop**|Mahendra K. Verma et.al.|[2411.03135v1](http://arxiv.org/abs/2411.03135v1)|null|
@@ -7750,6 +7765,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Coexistence of high electron-mobility, unpaired spins, and superconductivity at high carrier density SrTiO $_3$ -based interfaces**|Thor Hvid-Olsen et.al.|[2411.03824v1](http://arxiv.org/abs/2411.03824v1)|null|
 |**2024-11-04**|**Origin of Anomalous Hall effect in Cr-doped RuO $_2$**|Andriy Smolyanyuk et.al.|[2411.02507v1](http://arxiv.org/abs/2411.02507v1)|null|
 |**2024-11-04**|**Imprinting electrically switchable scalar spin chirality by anisotropic strain in a Kagome antiferromagnet**|Debjoty Paul et.al.|[2411.01824v1](http://arxiv.org/abs/2411.01824v1)|null|
 |**2024-11-01**|**Extrinsic suppression of anomalous Hall effect in Fe-rich kagome magnet Fe3Sn**|Muhua Liu et.al.|[2411.00746v1](http://arxiv.org/abs/2411.00746v1)|null|
