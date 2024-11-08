@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**On the Nonlinear Eshelby Inclusion Problem and its Isomorphic Growth Limit**|J. E. Bonavia et.al.|[2411.04948v1](http://arxiv.org/abs/2411.04948v1)|null|
+|**2024-11-07**|**Concurrence speed limit and its connection with bounds in many body physics**|Shrobona Bagchi et.al.|[2411.04930v1](http://arxiv.org/abs/2411.04930v1)|null|
+|**2024-11-07**|**Fluid flow inside slit-shaped nanopores: the role of surface morphology at the molecular scale**|Giorgia Marcelli et.al.|[2411.04882v1](http://arxiv.org/abs/2411.04882v1)|null|
+|**2024-11-07**|**Robust multimode interference and conversion in topological unidirectional surface magnetoplasmons**|Chao Liu et.al.|[2411.04698v1](http://arxiv.org/abs/2411.04698v1)|null|
+|**2024-11-07**|**Damage due to Ice Crystallization**|Menno Demmenie et.al.|[2411.04670v1](http://arxiv.org/abs/2411.04670v1)|null|
+|**2024-11-07**|**A matter of shape**|Joaquin Garcia-Suarez et.al.|[2411.04641v1](http://arxiv.org/abs/2411.04641v1)|null|
+|**2024-11-07**|**Colossal Dielectric Permittivity and Superparaelectricity in phenyl pyrimidine based liquid crystals**|Yuri P. Panarin et.al.|[2411.04606v1](http://arxiv.org/abs/2411.04606v1)|null|
+|**2024-11-07**|**The Aharonov-Casher Phase: Topological or Geometric?**|Igor Kuzmenko et.al.|[2411.04589v1](http://arxiv.org/abs/2411.04589v1)|null|
+|**2024-11-07**|**Long-Range Correlations under Temperature Gradients: A Molecular Dynamics Study of Simple Fluids**|Hiroyoshi Nakano et.al.|[2411.04416v1](http://arxiv.org/abs/2411.04416v1)|null|
+|**2024-11-07**|**The Effect of a Knot on the Thermal Stability of Protein MJ0366: Insights from Molecular Dynamics and Monte Carlo Simulations**|A. M. Begun et.al.|[2411.04390v1](http://arxiv.org/abs/2411.04390v1)|null|
+|**2024-11-07**|**On the hardness of learning ground state entanglement of geometrically local Hamiltonians**|Adam Bouland et.al.|[2411.04353v1](http://arxiv.org/abs/2411.04353v1)|null|
+|**2024-11-06**|**Odd Viscodiffusive Fluids**|Alhad Deshpande et.al.|[2411.04309v1](http://arxiv.org/abs/2411.04309v1)|null|
+|**2024-11-06**|**Velocity fluctuation and force scaling during driven polymer transport through a nanopore**|Martin Charron et.al.|[2411.04261v1](http://arxiv.org/abs/2411.04261v1)|null|
+|**2024-11-06**|**Durotaxis in viscoelastic fluids**|Vaseem A. Shaik et.al.|[2411.04226v1](http://arxiv.org/abs/2411.04226v1)|null|
 |**2024-11-06**|**Free energy of self-avoiding polymer chain confined between parallel walls**|Marcio S. Gomes-Filho et.al.|[2411.04017v1](http://arxiv.org/abs/2411.04017v1)|null|
 |**2024-11-06**|**Collective Dynamics of Intelligent Active Brownian Particles with Visual Perception and Velocity Alignment in 3D: Spheres, Rods, and Worms**|Zhaoxuan Liu et.al.|[2411.03975v1](http://arxiv.org/abs/2411.03975v1)|null|
 |**2024-11-06**|**Homotopy classification of knotted defects in bounded domains**|Yuta Nozaki et.al.|[2411.03918v1](http://arxiv.org/abs/2411.03918v1)|null|
@@ -7765,6 +7779,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**New mechanism to enhance electron transverse transport by composite formation**|Sang J. Park et.al.|[2411.04433v1](http://arxiv.org/abs/2411.04433v1)|null|
+|**2024-11-06**|**This took us a Weyl: synthesis of a semimetallic Weyl ferromagnet with point Fermi surface**|Ilya Belopolski et.al.|[2411.04179v1](http://arxiv.org/abs/2411.04179v1)|null|
 |**2024-11-06**|**Coexistence of high electron-mobility, unpaired spins, and superconductivity at high carrier density SrTiO $_3$ -based interfaces**|Thor Hvid-Olsen et.al.|[2411.03824v1](http://arxiv.org/abs/2411.03824v1)|null|
 |**2024-11-04**|**Origin of Anomalous Hall effect in Cr-doped RuO $_2$**|Andriy Smolyanyuk et.al.|[2411.02507v1](http://arxiv.org/abs/2411.02507v1)|null|
 |**2024-11-04**|**Imprinting electrically switchable scalar spin chirality by anisotropic strain in a Kagome antiferromagnet**|Debjoty Paul et.al.|[2411.01824v1](http://arxiv.org/abs/2411.01824v1)|null|
