@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Observation of Critical Scaling in Spin Glasses below Tc using the Thermoremanent Magnetization**|G. G. Kenning et.al.|[2411.05776v1](http://arxiv.org/abs/2411.05776v1)|null|
+|**2024-11-08**|**Using optical tweezer electrophoresis to investigate clay nanoplatelet adsorption on Latex microspheres in aqueous media**|Vaibhav Raj Singh Parmar et.al.|[2411.05717v1](http://arxiv.org/abs/2411.05717v1)|null|
+|**2024-11-08**|**Information system for analysis of nanostructure morphology**|Ludia T. Khusainova et.al.|[2411.05674v1](http://arxiv.org/abs/2411.05674v1)|null|
+|**2024-11-08**|**Analysis of the confinement string in (2 + 1)-dimensional Quantum Electrodynamics with a trapped-ion quantum computer**|Arianna Crippa et.al.|[2411.05628v1](http://arxiv.org/abs/2411.05628v1)|null|
+|**2024-11-08**|**Smart navigation through a rotating barrier: Deep reinforcement learning with application to size-based separation of active microagents**|Mohammad Hossein Masoudi et.al.|[2411.05587v1](http://arxiv.org/abs/2411.05587v1)|null|
+|**2024-11-08**|**On-chip Moiré Optical Skyrmion Clusters with Nanoscale Dynamics**|Lan Zhang et.al.|[2411.05576v1](http://arxiv.org/abs/2411.05576v1)|null|
+|**2024-11-08**|**Phase Coexistence in Nonreciprocal Quorum-Sensing Active Matter**|Yu Duan et.al.|[2411.05465v1](http://arxiv.org/abs/2411.05465v1)|null|
+|**2024-11-08**|**Manifestations of the possible thermodynamic origin of water's anomalies in non-classical vapor nucleation at negative pressures**|Yuvraj Singh et.al.|[2411.05430v1](http://arxiv.org/abs/2411.05430v1)|null|
+|**2024-11-08**|**Persistence length and plateau modulus of semiflexible entangled polymers in primitive chain network simulations**|Yuichi Masubuchi et.al.|[2411.05422v1](http://arxiv.org/abs/2411.05422v1)|null|
+|**2024-11-08**|**Learning the rules of peptide self-assembly through data mining with large language models**|Zhenze Yang et.al.|[2411.05421v1](http://arxiv.org/abs/2411.05421v1)|**[link](https://github.com/lamm-mit/peptideminer)**|
+|**2024-11-08**|**Bending Elasticity of the reversible Freely Jointed Chain**|Minsu Yi et.al.|[2411.05347v1](http://arxiv.org/abs/2411.05347v1)|null|
+|**2024-11-08**|**Field-Induced Criticality in YbCu4Au**|T. Taniguchi et.al.|[2411.05280v1](http://arxiv.org/abs/2411.05280v1)|null|
+|**2024-11-07**|**Particle Levitation Velocimetry for boundary layer measurements in high Reynolds number liquid helium turbulence**|Yinghe Qi et.al.|[2411.05202v1](http://arxiv.org/abs/2411.05202v1)|null|
+|**2024-11-07**|**Role of Fluid Forces and Depletion Interactions in Directing Assembly of Aqueous Gold Nanorods on Hydrophobic Surfaces**|NP Vaisakh et.al.|[2411.05080v1](http://arxiv.org/abs/2411.05080v1)|null|
+|**2024-11-07**|**Unification of Finite Symmetries in Simulation of Many-body Systems on Quantum Computers**|Victor M. Bastidas et.al.|[2411.05058v1](http://arxiv.org/abs/2411.05058v1)|null|
 |**2024-11-07**|**On the Nonlinear Eshelby Inclusion Problem and its Isomorphic Growth Limit**|J. E. Bonavia et.al.|[2411.04948v1](http://arxiv.org/abs/2411.04948v1)|null|
 |**2024-11-07**|**Concurrence speed limit and its connection with bounds in many body physics**|Shrobona Bagchi et.al.|[2411.04930v1](http://arxiv.org/abs/2411.04930v1)|null|
 |**2024-11-07**|**Fluid flow inside slit-shaped nanopores: the role of surface morphology at the molecular scale**|Giorgia Marcelli et.al.|[2411.04882v1](http://arxiv.org/abs/2411.04882v1)|null|
@@ -7562,6 +7577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Quantum magnetometry of transient signals with a time resolution of 1.1 nanoseconds**|Konstantin Herb et.al.|[2411.05542v1](http://arxiv.org/abs/2411.05542v1)|null|
 |**2024-11-04**|**Multidimensional coherent spectroscopy of correlated lattice systems**|Jiyu Chen et.al.|[2411.02389v1](http://arxiv.org/abs/2411.02389v1)|null|
 |**2024-10-28**|**Impurity radiation seeding of neoclassical tearing mode growth**|Shiyong Zeng et.al.|[2410.20787v1](http://arxiv.org/abs/2410.20787v1)|null|
 |**2024-10-17**|**Anatomy of Thermally Interplayed Spin-Orbit Torque Driven Antiferromagnetic Switching**|Wenlong Cai et.al.|[2410.13202v1](http://arxiv.org/abs/2410.13202v1)|null|
@@ -8130,6 +8146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Magnetic structure and crystal field states of antiferromagnetic CeNiGe $_3$: Neutron scattering and $μ$ SR investigations**|A. Kataria et.al.|[2411.05656v1](http://arxiv.org/abs/2411.05656v1)|null|
 |**2024-10-30**|**Magnetic excitations in the noncentrosymmetric magnet Sr2MnSi2O7**|Masahiro Kawamata et.al.|[2410.22741v1](http://arxiv.org/abs/2410.22741v1)|null|
 |**2024-10-27**|**Role of non-magnetic spacers in the magnetic interactions of antiferromagnetic topological insulators MnBi $_{4}$Te$_{7}$ and MnBi$_{2}$Te$_{4}$**|Bing Li et.al.|[2410.20455v1](http://arxiv.org/abs/2410.20455v1)|null|
 |**2024-10-19**|**Predicting Fractionalized Multi-Spin Excitations in Resonant Inelastic X-ray Spectra of Frustrated Spin-1/2 Trimer Chains**|Prabhakar et.al.|[2410.15082v1](http://arxiv.org/abs/2410.15082v1)|null|
