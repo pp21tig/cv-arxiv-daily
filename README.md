@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Cell bulging and extrusion in a three-dimensional bubbly vertex model for curved epithelial sheets**|Oliver M. Drozdowski et.al.|[2411.07141v1](http://arxiv.org/abs/2411.07141v1)|null|
+|**2024-11-11**|**Azurin-Based Peptide p28 Arrests the p53-HDM2 Interactions: A Novel Anti-Cancer Pathway**|Albin Joy et.al.|[2411.07124v1](http://arxiv.org/abs/2411.07124v1)|null|
+|**2024-11-11**|**The orientational structure of a model patchy particle fluid: simulations, integral equations, density functional theory and machine learning**|Alessandro Simon et.al.|[2411.06973v1](http://arxiv.org/abs/2411.06973v1)|null|
+|**2024-11-11**|**Metadensity functional theory for classical fluids: Extracting the pair potential**|Stefanie M. Kampa et.al.|[2411.06972v1](http://arxiv.org/abs/2411.06972v1)|null|
+|**2024-11-11**|**Azimuthal variation of apparent contact angles on structured surfaces featuring micrometric ramps, pyramids and staggered cubes at two different inherent wettabilities**|P. Palmetshofer et.al.|[2411.06961v1](http://arxiv.org/abs/2411.06961v1)|null|
+|**2024-11-11**|**3D Printing of Near-Ambient Responsive Liquid Crystal Elastomers with Enhanced Nematic Order and Pluralized Transformation**|Dongxiao Li et.al.|[2411.06931v1](http://arxiv.org/abs/2411.06931v1)|null|
+|**2024-11-11**|**Antiferroelectric order in nematic liquids: Flexoelectricity vs electrostatics**|Peter Medle Rupnik et.al.|[2411.06915v1](http://arxiv.org/abs/2411.06915v1)|null|
+|**2024-11-11**|**Viscoelastic peeling of thin tapes with frictional sliding**|Marco Ceglie et.al.|[2411.06874v1](http://arxiv.org/abs/2411.06874v1)|null|
+|**2024-11-11**|**Mechanism of the Nonequilibrium Phase Transition in Self-Propelled Particles with Alignment**|Ruizhe Yan et.al.|[2411.06818v1](http://arxiv.org/abs/2411.06818v1)|null|
+|**2024-11-11**|**Soft wetting ridge rotation in sessile droplets and capillary bridges**|Boxue Zheng et.al.|[2411.06800v1](http://arxiv.org/abs/2411.06800v1)|null|
+|**2024-11-11**|**Short-range depinning in the presence of velocity-weakening**|Tom W. J. de Geus et.al.|[2411.06732v1](http://arxiv.org/abs/2411.06732v1)|null|
+|**2024-11-11**|**Non-Abelian charge conversion in bilayer binary honeycomb lattice systems**|Chiranjit Mondal et.al.|[2411.06724v1](http://arxiv.org/abs/2411.06724v1)|null|
+|**2024-11-10**|**Chiral quantum optics: recent developments, and future directions**|D. G. Suárez-Forero et.al.|[2411.06495v1](http://arxiv.org/abs/2411.06495v1)|null|
+|**2024-11-10**|**Tetratic Phase in 2D Crystals of Squares**|Robert Löffler et.al.|[2411.06464v1](http://arxiv.org/abs/2411.06464v1)|null|
+|**2024-11-10**|**A fast transferable method for predicting the glass transition temperature of polymers from chemical structure**|Sebastian Brierley-Croft et.al.|[2411.06461v1](http://arxiv.org/abs/2411.06461v1)|null|
+|**2024-11-10**|**Tuning the band topology and topological Hall effect in skyrmion crystals via the spin-orbit coupling**|Arijit Mandal et.al.|[2411.06434v1](http://arxiv.org/abs/2411.06434v1)|null|
+|**2024-11-10**|**Why can a hydrophilic polyelectrolyte precipitate and redissolve below the critical micelle concentration of an oppositely-charged surfactant ?**|Huaisong Yong et.al.|[2411.06355v1](http://arxiv.org/abs/2411.06355v1)|null|
+|**2024-11-09**|**Model-free hydrodynamic theory of the colloidal glass transition**|Haim Diamant et.al.|[2411.06270v1](http://arxiv.org/abs/2411.06270v1)|null|
+|**2024-11-09**|**Solid-liquid interfacial free energy from computer simulations: Challenges and recent advances**|Nicodemo Di Pasquale et.al.|[2411.06231v1](http://arxiv.org/abs/2411.06231v1)|null|
+|**2024-11-09**|**Terahertz-permittivity of Carbon Nitrides: Revealing humidity-enhanced dielectric properties on the picosecond timescales relevant for charge carrier photogeneration**|Reehab Jahangir et.al.|[2411.06226v1](http://arxiv.org/abs/2411.06226v1)|null|
 |**2024-11-08**|**Observation of Critical Scaling in Spin Glasses below Tc using the Thermoremanent Magnetization**|G. G. Kenning et.al.|[2411.05776v1](http://arxiv.org/abs/2411.05776v1)|null|
 |**2024-11-08**|**Using optical tweezer electrophoresis to investigate clay nanoplatelet adsorption on Latex microspheres in aqueous media**|Vaibhav Raj Singh Parmar et.al.|[2411.05717v1](http://arxiv.org/abs/2411.05717v1)|null|
 |**2024-11-08**|**Information system for analysis of nanostructure morphology**|Ludia T. Khusainova et.al.|[2411.05674v1](http://arxiv.org/abs/2411.05674v1)|null|
@@ -7224,6 +7244,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-10**|**Ultrafast light-driven optical rotation and hidden orders in bulk WSe $_2$**|Emmanule Cappelluti et.al.|[2411.06561v1](http://arxiv.org/abs/2411.06561v1)|null|
 |**2024-11-01**|**Transverse Current Generation by Circularly Polarized Light in Terahertz-Biased Semiconductor**|Tomohiro Fujimoto et.al.|[2411.00528v1](http://arxiv.org/abs/2411.00528v1)|null|
 |**2024-10-28**|**Tuning magnetic interactions with nonequilibrium optical phonon populations**|Milan Kornjača et.al.|[2410.21373v1](http://arxiv.org/abs/2410.21373v1)|null|
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
@@ -7791,6 +7812,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Charge transfer spin-polarons and ferromagnetism in weakly doped AB-stacked TMD heterobilayers**|Daniele Guerci et.al.|[2411.05908v1](http://arxiv.org/abs/2411.05908v1)|null|
 |**2024-11-07**|**New mechanism to enhance electron transverse transport by composite formation**|Sang J. Park et.al.|[2411.04433v1](http://arxiv.org/abs/2411.04433v1)|null|
 |**2024-11-06**|**This took us a Weyl: synthesis of a semimetallic Weyl ferromagnet with point Fermi surface**|Ilya Belopolski et.al.|[2411.04179v1](http://arxiv.org/abs/2411.04179v1)|null|
 |**2024-11-06**|**Coexistence of high electron-mobility, unpaired spins, and superconductivity at high carrier density SrTiO $_3$ -based interfaces**|Thor Hvid-Olsen et.al.|[2411.03824v1](http://arxiv.org/abs/2411.03824v1)|null|
