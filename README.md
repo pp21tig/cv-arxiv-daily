@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Non-equilibrium phase transitions in hybrid Voronoi models of cell colonies**|Mattia Miotto et.al.|[2411.08012v1](http://arxiv.org/abs/2411.08012v1)|null|
+|**2024-11-12**|**Transparent and Electrically Switchable Thin Film Tactile Actuators Based on Molecular Orientation**|Abigail Nolin et.al.|[2411.07968v1](http://arxiv.org/abs/2411.07968v1)|null|
+|**2024-11-12**|**Correlated topological flat bands in rhombohedral graphite**|Hongyun Zhang et.al.|[2411.07906v1](http://arxiv.org/abs/2411.07906v1)|null|
+|**2024-11-12**|**$NVU$ view on energy polydisperse Lennard-Jones systems**|Danqi Lang et.al.|[2411.07829v1](http://arxiv.org/abs/2411.07829v1)|null|
+|**2024-11-12**|**Rate- and temperature-dependent strain hardening in glassy polymers: Micromechanisms and constitutive modeling based on molecular dynamics simulations**|Wuyang Zhao et.al.|[2411.07811v1](http://arxiv.org/abs/2411.07811v1)|null|
+|**2024-11-12**|**Relaxation dynamics of poly(ethylene oxide)**|Peter Lunkenheimer et.al.|[2411.07807v1](http://arxiv.org/abs/2411.07807v1)|null|
+|**2024-11-12**|**Diving into a multi-band holographic superconductor**|Xing-Kun Zhang et.al.|[2411.07693v1](http://arxiv.org/abs/2411.07693v1)|null|
+|**2024-11-12**|**Modelling viscoelastic adhesion and friction in sliding contact mechanics**|Cosimo Mandriota et.al.|[2411.07678v1](http://arxiv.org/abs/2411.07678v1)|null|
+|**2024-11-12**|**A Composite Hydrogel of Porous Gold Nanorods and Gelatin: Nanoscale Structure and Rheo-Mechanical Properties**|Irfan Khan et.al.|[2411.07571v1](http://arxiv.org/abs/2411.07571v1)|null|
+|**2024-11-12**|**Protected chaos in a topological lattice**|Haydar Sahin et.al.|[2411.07522v1](http://arxiv.org/abs/2411.07522v1)|null|
+|**2024-11-11**|**Unbounded Tellegen Response in Media with Multiple Resonances**|Timur Z. Seidov et.al.|[2411.07346v1](http://arxiv.org/abs/2411.07346v1)|null|
+|**2024-11-11**|**Wetting, Algebraic Curves and Conformal Invariance**|Andrew O. Parry et.al.|[2411.07344v1](http://arxiv.org/abs/2411.07344v1)|null|
+|**2024-11-11**|**Rubber wear: experiment and theory**|B. N. J. Persson et.al.|[2411.07332v1](http://arxiv.org/abs/2411.07332v1)|null|
+|**2024-11-11**|**Tilted Light, Giant Currents: Engineering Floquet Moiré Patterns for Scalable Photocurrents**|Hernan L. Calvo et.al.|[2411.07316v1](http://arxiv.org/abs/2411.07316v1)|null|
 |**2024-11-11**|**Cell bulging and extrusion in a three-dimensional bubbly vertex model for curved epithelial sheets**|Oliver M. Drozdowski et.al.|[2411.07141v1](http://arxiv.org/abs/2411.07141v1)|null|
 |**2024-11-11**|**Azurin-Based Peptide p28 Arrests the p53-HDM2 Interactions: A Novel Anti-Cancer Pathway**|Albin Joy et.al.|[2411.07124v1](http://arxiv.org/abs/2411.07124v1)|null|
 |**2024-11-11**|**The orientational structure of a model patchy particle fluid: simulations, integral equations, density functional theory and machine learning**|Alessandro Simon et.al.|[2411.06973v1](http://arxiv.org/abs/2411.06973v1)|null|
@@ -7244,6 +7258,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Impact of dipole self-energy on cavity-induced nonadiabatic dynamics**|Csaba Fábri et.al.|[2411.07831v1](http://arxiv.org/abs/2411.07831v1)|null|
+|**2024-11-12**|**Collective multimode strong coupling in plasmonic nanocavities**|Angus Crookes et.al.|[2411.07694v1](http://arxiv.org/abs/2411.07694v1)|null|
+|**2024-11-12**|**Terahertz control of surface topology probed with subatomic resolution**|Vedran Jelic et.al.|[2411.07545v1](http://arxiv.org/abs/2411.07545v1)|null|
 |**2024-11-10**|**Ultrafast light-driven optical rotation and hidden orders in bulk WSe $_2$**|Emmanule Cappelluti et.al.|[2411.06561v1](http://arxiv.org/abs/2411.06561v1)|null|
 |**2024-11-01**|**Transverse Current Generation by Circularly Polarized Light in Terahertz-Biased Semiconductor**|Tomohiro Fujimoto et.al.|[2411.00528v1](http://arxiv.org/abs/2411.00528v1)|null|
 |**2024-10-28**|**Tuning magnetic interactions with nonequilibrium optical phonon populations**|Milan Kornjača et.al.|[2410.21373v1](http://arxiv.org/abs/2410.21373v1)|null|
@@ -7598,6 +7615,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Estimation of spin-orbit torques in the presence of current-induced magnon creation and annihilation**|Paul Noël et.al.|[2411.07999v1](http://arxiv.org/abs/2411.07999v1)|null|
+|**2024-11-12**|**Nonlinear longitudinal and transverse magnetoresistances due to current-induced magnon creation-annihilation processes**|Paul Noël et.al.|[2411.07991v1](http://arxiv.org/abs/2411.07991v1)|null|
 |**2024-11-08**|**Quantum magnetometry of transient signals with a time resolution of 1.1 nanoseconds**|Konstantin Herb et.al.|[2411.05542v1](http://arxiv.org/abs/2411.05542v1)|null|
 |**2024-11-04**|**Multidimensional coherent spectroscopy of correlated lattice systems**|Jiyu Chen et.al.|[2411.02389v1](http://arxiv.org/abs/2411.02389v1)|null|
 |**2024-10-28**|**Impurity radiation seeding of neoclassical tearing mode growth**|Shiyong Zeng et.al.|[2410.20787v1](http://arxiv.org/abs/2410.20787v1)|null|
@@ -7812,6 +7831,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Topological Hall-like behavior of multidomain ferromagnets**|Houssam Sabri et.al.|[2411.07369v1](http://arxiv.org/abs/2411.07369v1)|null|
 |**2024-11-08**|**Charge transfer spin-polarons and ferromagnetism in weakly doped AB-stacked TMD heterobilayers**|Daniele Guerci et.al.|[2411.05908v1](http://arxiv.org/abs/2411.05908v1)|null|
 |**2024-11-07**|**New mechanism to enhance electron transverse transport by composite formation**|Sang J. Park et.al.|[2411.04433v1](http://arxiv.org/abs/2411.04433v1)|null|
 |**2024-11-06**|**This took us a Weyl: synthesis of a semimetallic Weyl ferromagnet with point Fermi surface**|Ilya Belopolski et.al.|[2411.04179v1](http://arxiv.org/abs/2411.04179v1)|null|
