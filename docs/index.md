@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Fluctuations of driven probes reveal nonequilibrium transitions in complex fluids**|Danilo Forastiere et.al.|[2411.08817v1](http://arxiv.org/abs/2411.08817v1)|null|
+|**2024-11-13**|**Adhesive contact mechanics of bio-inspired pillars: exploring hysteresis and detachment modes**|Guido Violano et.al.|[2411.08743v1](http://arxiv.org/abs/2411.08743v1)|null|
+|**2024-11-13**|**Inferring Parameter Distributions in Heterogeneous Motile Particle Ensembles: A Likelihood Approach for Second Order Langevin Models**|Jan Albrecht et.al.|[2411.08692v1](http://arxiv.org/abs/2411.08692v1)|null|
+|**2024-11-13**|**Electrohydrodynamic flow about a colloidal particle suspended in a non-polar fluid**|Zhanwen Wang et.al.|[2411.08613v1](http://arxiv.org/abs/2411.08613v1)|null|
+|**2024-11-13**|**High-Temperature Phase Separation and Charge-Magnon Liquid in Kinetic Antiferromagnets**|Johan Carlström et.al.|[2411.08489v1](http://arxiv.org/abs/2411.08489v1)|null|
+|**2024-11-13**|**Hidden quantum correlations in the ground states of quasiclassical spin systems**|Levente Rózsa et.al.|[2411.08394v1](http://arxiv.org/abs/2411.08394v1)|null|
+|**2024-11-13**|**Two-molecule theory of polyethylene liquids**|Huimin Li et.al.|[2411.08298v1](http://arxiv.org/abs/2411.08298v1)|null|
+|**2024-11-12**|**Emergent functional dynamics of link-bots**|Kyungmin Son et.al.|[2411.08163v1](http://arxiv.org/abs/2411.08163v1)|null|
 |**2024-11-12**|**Non-equilibrium phase transitions in hybrid Voronoi models of cell colonies**|Mattia Miotto et.al.|[2411.08012v1](http://arxiv.org/abs/2411.08012v1)|null|
 |**2024-11-12**|**Transparent and Electrically Switchable Thin Film Tactile Actuators Based on Molecular Orientation**|Abigail Nolin et.al.|[2411.07968v1](http://arxiv.org/abs/2411.07968v1)|null|
 |**2024-11-12**|**Correlated topological flat bands in rhombohedral graphite**|Hongyun Zhang et.al.|[2411.07906v1](http://arxiv.org/abs/2411.07906v1)|null|
@@ -7262,6 +7270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Hearing carrier-envelope offset frequency and phase in air**|Meng Han et.al.|[2411.08304v1](http://arxiv.org/abs/2411.08304v1)|null|
 |**2024-11-12**|**Impact of dipole self-energy on cavity-induced nonadiabatic dynamics**|Csaba Fábri et.al.|[2411.07831v1](http://arxiv.org/abs/2411.07831v1)|null|
 |**2024-11-12**|**Collective multimode strong coupling in plasmonic nanocavities**|Angus Crookes et.al.|[2411.07694v1](http://arxiv.org/abs/2411.07694v1)|null|
 |**2024-11-12**|**Terahertz control of surface topology probed with subatomic resolution**|Vedran Jelic et.al.|[2411.07545v1](http://arxiv.org/abs/2411.07545v1)|null|
@@ -7835,6 +7844,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Anomalous Hall effect from inter-superlattice scattering in a noncollinear antiferromagnet**|Lilia S. Xie et.al.|[2411.08381v1](http://arxiv.org/abs/2411.08381v1)|null|
 |**2024-11-11**|**Topological Hall-like behavior of multidomain ferromagnets**|Houssam Sabri et.al.|[2411.07369v1](http://arxiv.org/abs/2411.07369v1)|null|
 |**2024-11-08**|**Charge transfer spin-polarons and ferromagnetism in weakly doped AB-stacked TMD heterobilayers**|Daniele Guerci et.al.|[2411.05908v1](http://arxiv.org/abs/2411.05908v1)|null|
 |**2024-11-07**|**New mechanism to enhance electron transverse transport by composite formation**|Sang J. Park et.al.|[2411.04433v1](http://arxiv.org/abs/2411.04433v1)|null|
