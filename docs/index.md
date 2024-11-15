@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Inter-Species Interactions in Dual, Fibrous Gel Enable Control of Gel Structure and Rheology**|Mauro L Mugnai et.al.|[2411.09665v1](http://arxiv.org/abs/2411.09665v1)|null|
+|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|null|
+|**2024-11-14**|**Noise-driven odd elastic waves in living chiral active matter**|Sang Hyun Choi et.al.|[2411.09615v1](http://arxiv.org/abs/2411.09615v1)|null|
+|**2024-11-14**|**Tailoring interactions between active nematic defects with reinforcement learning**|Carlos Floyd et.al.|[2411.09588v1](http://arxiv.org/abs/2411.09588v1)|null|
+|**2024-11-14**|**Numerical prediction of the steady-state distribution under stochastic resetting from measurements**|Ron Vatash et.al.|[2411.09563v1](http://arxiv.org/abs/2411.09563v1)|null|
+|**2024-11-14**|**All-optical magnetic imaging with spin defects in van der Waals materials at Angstrom-scale**|Ning Wang et.al.|[2411.09518v1](http://arxiv.org/abs/2411.09518v1)|null|
+|**2024-11-14**|**Faraday Cup Measurements of Triboelectrically Charged Granular Material: A Modular Interpretation Methodology**|Tom F. O'Hara et.al.|[2411.09505v1](http://arxiv.org/abs/2411.09505v1)|null|
+|**2024-11-14**|**Charge-Neutral Electronic Excitations in Quantum Insulators**|Sanfeng Wu et.al.|[2411.09496v1](http://arxiv.org/abs/2411.09496v1)|null|
+|**2024-11-14**|**Diffusive dynamics of charge regulated macro-ion solutions**|Bin Zheng et.al.|[2411.09448v1](http://arxiv.org/abs/2411.09448v1)|null|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|null|
+|**2024-11-14**|**Universal scale-free decay of spatial correlations in $d$ -dimensional interacting particle systems**|Davide Venturelli et.al.|[2411.09326v1](http://arxiv.org/abs/2411.09326v1)|null|
+|**2024-11-14**|**Island formation in heteroepitaxial growth**|Frederik Munko et.al.|[2411.09288v1](http://arxiv.org/abs/2411.09288v1)|null|
+|**2024-11-14**|**Coarsening and universality on a growing surface**|Robert J. H. Ross et.al.|[2411.09172v1](http://arxiv.org/abs/2411.09172v1)|null|
+|**2024-11-14**|**Nonlinear Hall Effect in KTaO $_3$ Two-Dimensional Electron Gases**|Patrick W. Krantz et.al.|[2411.09161v1](http://arxiv.org/abs/2411.09161v1)|null|
+|**2024-11-13**|**Critical states exhibit invariance in both position and momentum spaces**|Tong Liu et.al.|[2411.09067v1](http://arxiv.org/abs/2411.09067v1)|null|
+|**2024-11-13**|**Hidden nonlinear optical susceptibilities in linear polaritonic spectra**|Arghadip Koner et.al.|[2411.09039v1](http://arxiv.org/abs/2411.09039v1)|null|
+|**2024-11-13**|**Use of Electron Paramagnetic resonance (EPR) technique to build quantum computers: n-qubit (n=1,2,3,4) Toffoli Gates**|Sayan Manna et.al.|[2411.09010v1](http://arxiv.org/abs/2411.09010v1)|null|
+|**2024-11-13**|**Single-File Diffusion of Active Brownian Particles**|A. Akintunde et.al.|[2411.08988v1](http://arxiv.org/abs/2411.08988v1)|null|
+|**2024-11-13**|**Emerging Non-Hermitian Topology in a Chiral Driven-Dissipative Bose-Hubbard Model**|Laszlo Rassaert et.al.|[2411.08965v1](http://arxiv.org/abs/2411.08965v1)|null|
+|**2024-11-13**|**Experimental and theoretical evidence of universality in superfluid vortex reconnections**|Piotr Z. Stasiak et.al.|[2411.08942v1](http://arxiv.org/abs/2411.08942v1)|null|
 |**2024-11-13**|**Fluctuations of driven probes reveal nonequilibrium transitions in complex fluids**|Danilo Forastiere et.al.|[2411.08817v1](http://arxiv.org/abs/2411.08817v1)|null|
 |**2024-11-13**|**Adhesive contact mechanics of bio-inspired pillars: exploring hysteresis and detachment modes**|Guido Violano et.al.|[2411.08743v1](http://arxiv.org/abs/2411.08743v1)|null|
 |**2024-11-13**|**Inferring Parameter Distributions in Heterogeneous Motile Particle Ensembles: A Likelihood Approach for Second Order Langevin Models**|Jan Albrecht et.al.|[2411.08692v1](http://arxiv.org/abs/2411.08692v1)|null|
@@ -7270,6 +7290,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Coherently Coupled Carrier and Phonon Dynamics in Elemental Tellurium Probed by Few-Femtosecond Core-Level Transient Absorption**|Jonah R. Adelman et.al.|[2411.09035v1](http://arxiv.org/abs/2411.09035v1)|null|
+|**2024-11-13**|**Many-Body Photon Blockade and Quantum Light Generation from Cavity Quantum Materials**|Benjamin Kass et.al.|[2411.08964v1](http://arxiv.org/abs/2411.08964v1)|null|
 |**2024-11-13**|**Hearing carrier-envelope offset frequency and phase in air**|Meng Han et.al.|[2411.08304v1](http://arxiv.org/abs/2411.08304v1)|null|
 |**2024-11-12**|**Impact of dipole self-energy on cavity-induced nonadiabatic dynamics**|Csaba Fábri et.al.|[2411.07831v1](http://arxiv.org/abs/2411.07831v1)|null|
 |**2024-11-12**|**Collective multimode strong coupling in plasmonic nanocavities**|Angus Crookes et.al.|[2411.07694v1](http://arxiv.org/abs/2411.07694v1)|null|
@@ -7844,6 +7866,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Large anomalous Hall effect and \textit{A}-phase in hexagonal polar magnet Gd $_3$Ni$_8$Sn$_4$**|Arnab Bhattacharya et.al.|[2411.09300v1](http://arxiv.org/abs/2411.09300v1)|null|
+|**2024-11-13**|**Theory of anomalous Hall effect from screened vortex charge in a phase disordered superconductor**|Jay D. Sau et.al.|[2411.08969v1](http://arxiv.org/abs/2411.08969v1)|null|
 |**2024-11-13**|**Anomalous Hall effect from inter-superlattice scattering in a noncollinear antiferromagnet**|Lilia S. Xie et.al.|[2411.08381v1](http://arxiv.org/abs/2411.08381v1)|null|
 |**2024-11-11**|**Topological Hall-like behavior of multidomain ferromagnets**|Houssam Sabri et.al.|[2411.07369v1](http://arxiv.org/abs/2411.07369v1)|null|
 |**2024-11-08**|**Charge transfer spin-polarons and ferromagnetism in weakly doped AB-stacked TMD heterobilayers**|Daniele Guerci et.al.|[2411.05908v1](http://arxiv.org/abs/2411.05908v1)|null|
