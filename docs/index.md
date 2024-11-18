@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Inverse Melting of Polar Order in a Ferroelectric Oxide**|Yang Zhang et.al.|[2411.10445v1](http://arxiv.org/abs/2411.10445v1)|null|
+|**2024-11-15**|**Exploitation-exploration transition in the physics of fluid-driven branching**|J. Tauber et.al.|[2411.10426v1](http://arxiv.org/abs/2411.10426v1)|null|
+|**2024-11-15**|**Geometric dependence of curvature-induced rigidity**|Hanzhang Mao et.al.|[2411.10382v1](http://arxiv.org/abs/2411.10382v1)|null|
+|**2024-11-15**|**Multiscale stress dynamics in sheared liquid foams revealed by tomo-rheoscopy**|Florian Schott et.al.|[2411.10338v1](http://arxiv.org/abs/2411.10338v1)|null|
+|**2024-11-15**|**Energy-GNoME: A Living Database of Selected Materials for Energy Applications**|Paolo De Angelis et.al.|[2411.10125v1](http://arxiv.org/abs/2411.10125v1)|null|
+|**2024-11-15**|**Comprehensive creep compliance characterization of orthotropic materials using a cost-effective automated system**|Jonas M. Maas et.al.|[2411.10044v1](http://arxiv.org/abs/2411.10044v1)|null|
+|**2024-11-15**|**Visualization of atomistic optical waves in crystals**|Jungho Mun et.al.|[2411.09876v1](http://arxiv.org/abs/2411.09876v1)|null|
+|**2024-11-14**|**Magnetic and phonon-induced effects on the non-Markovian dynamics of a single solid-state defect**|Ariel Norambuena et.al.|[2411.09825v1](http://arxiv.org/abs/2411.09825v1)|null|
+|**2024-11-14**|**Economical and versatile subunit design principles for self-assembled DNA origami structures**|Wei-Shao Wei et.al.|[2411.09801v1](http://arxiv.org/abs/2411.09801v1)|null|
 |**2024-11-14**|**Inter-Species Interactions in Dual, Fibrous Gel Enable Control of Gel Structure and Rheology**|Mauro L Mugnai et.al.|[2411.09665v1](http://arxiv.org/abs/2411.09665v1)|null|
 |**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-11-14**|**Noise-driven odd elastic waves in living chiral active matter**|Sang Hyun Choi et.al.|[2411.09615v1](http://arxiv.org/abs/2411.09615v1)|null|
@@ -8226,6 +8235,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Spin excitations arising from anisotropic Dirac spinons in YCu $_3$(OD)$_6$Br$_2$[Br$_{0.33}$(OD)$_{0.67}$ ]**|Lankun Han et.al.|[2411.09883v1](http://arxiv.org/abs/2411.09883v1)|null|
 |**2024-11-08**|**Magnetic structure and crystal field states of antiferromagnetic CeNiGe $_3$: Neutron scattering and $μ$ SR investigations**|A. Kataria et.al.|[2411.05656v1](http://arxiv.org/abs/2411.05656v1)|null|
 |**2024-10-30**|**Magnetic excitations in the noncentrosymmetric magnet Sr2MnSi2O7**|Masahiro Kawamata et.al.|[2410.22741v1](http://arxiv.org/abs/2410.22741v1)|null|
 |**2024-10-27**|**Role of non-magnetic spacers in the magnetic interactions of antiferromagnetic topological insulators MnBi $_{4}$Te$_{7}$ and MnBi$_{2}$Te$_{4}$**|Bing Li et.al.|[2410.20455v1](http://arxiv.org/abs/2410.20455v1)|null|
