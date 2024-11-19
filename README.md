@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Dynamics of Nonequilibrium Dimerization of Model Polymer Chains**|Sangita Mondal et.al.|[2411.11811v1](http://arxiv.org/abs/2411.11811v1)|null|
+|**2024-11-18**|**Active droplets controlled by enzymatic reactions**|Jacques Fries et.al.|[2411.11696v1](http://arxiv.org/abs/2411.11696v1)|null|
+|**2024-11-18**|**The motion of catalytically active colloids approaching a surface**|Julio Melio et.al.|[2411.11656v1](http://arxiv.org/abs/2411.11656v1)|null|
+|**2024-11-18**|**Semi-Dirac fermions in hexagonal close-packed cadmium**|Alaska Subedi et.al.|[2411.11585v1](http://arxiv.org/abs/2411.11585v1)|null|
+|**2024-11-18**|**Universal solution to the Schrieffer-Wolff Transformation Generator**|Leander Reascos et.al.|[2411.11535v1](http://arxiv.org/abs/2411.11535v1)|null|
+|**2024-11-18**|**Asymptotic properties of bridging transitions in sinusoidally-shaped slits**|Alexandr Malijevský et.al.|[2411.11509v1](http://arxiv.org/abs/2411.11509v1)|null|
+|**2024-11-18**|**Computational study of active polar polymer melts: from active reptation to activity induced local alignment**|Javier Oller-Iscar et.al.|[2411.11472v1](http://arxiv.org/abs/2411.11472v1)|null|
+|**2024-11-18**|**Uncovering Electronic Exchange Behavior: Exploring Insights from Simple Models**|Rezaei Mahnaz et.al.|[2411.11346v1](http://arxiv.org/abs/2411.11346v1)|null|
+|**2024-11-18**|**Dirac Magnon in Honeycomb Lattice Magnet NiTiO3**|Hodaka Kikuchi et.al.|[2411.11311v1](http://arxiv.org/abs/2411.11311v1)|null|
+|**2024-11-18**|**Facilitating a 3D granular flow with an obstruction**|Abhijit Sinha et.al.|[2411.11264v1](http://arxiv.org/abs/2411.11264v1)|null|
+|**2024-11-18**|**Toward a Better Understanding of the Photothermal Heating of High-Entropy-Alloy Nanoparticles**|Ngo T. Que et.al.|[2411.11257v1](http://arxiv.org/abs/2411.11257v1)|null|
+|**2024-11-17**|**Stacking correlation length in single-stranded DNA**|Xavier Viader-Godoy et.al.|[2411.11153v1](http://arxiv.org/abs/2411.11153v1)|null|
+|**2024-11-17**|**Multi-topological phases of matter**|Ziteng Wang et.al.|[2411.11121v1](http://arxiv.org/abs/2411.11121v1)|null|
+|**2024-11-17**|**Persistent Homology Reveals the Role of Stiffness in Forming Topological Glasses in Dense Solutions of Ring Polymers**|Shota Goto et.al.|[2411.10970v1](http://arxiv.org/abs/2411.10970v1)|null|
+|**2024-11-16**|**An elastoplastic model approach for the relaxation dynamics of active glasses**|Tanmoy Ghosh et.al.|[2411.10793v1](http://arxiv.org/abs/2411.10793v1)|null|
+|**2024-11-16**|**Symmetry-protected Landau-Zener-Stückelberg-Majorana interference and non-adiabatic topological transport of edge states**|Shi Hu et.al.|[2411.10750v1](http://arxiv.org/abs/2411.10750v1)|null|
+|**2024-11-16**|**Stability frontiers in the AM $_6$X$_6$ kagome metals; The LnNb$_6$Sn$_6$ (Ln:Ce-Lu,Y) family and density-wave transition in LuNb$_6$Sn$_6$**|Brenden R. Ortiz et.al.|[2411.10635v1](http://arxiv.org/abs/2411.10635v1)|null|
+|**2024-11-15**|**Depletion interaction between cylindrical inclusions in polymer brushes**|Ji Woong Yu et.al.|[2411.10607v1](http://arxiv.org/abs/2411.10607v1)|null|
+|**2024-11-15**|**Drag reduction during the side-by-side motion of a pair of intruders in a granular medium**|D. D. Carvalho et.al.|[2411.10602v1](http://arxiv.org/abs/2411.10602v1)|null|
+|**2024-11-15**|**The Low-Temperature Electronic Specific Heats of Disordered Ag-Au Alloys, Revisited**|David Hinojosa-Romero et.al.|[2411.10587v1](http://arxiv.org/abs/2411.10587v1)|null|
 |**2024-11-15**|**Inverse Melting of Polar Order in a Ferroelectric Oxide**|Yang Zhang et.al.|[2411.10445v1](http://arxiv.org/abs/2411.10445v1)|null|
 |**2024-11-15**|**Exploitation-exploration transition in the physics of fluid-driven branching**|J. Tauber et.al.|[2411.10426v1](http://arxiv.org/abs/2411.10426v1)|null|
 |**2024-11-15**|**Geometric dependence of curvature-induced rigidity**|Hanzhang Mao et.al.|[2411.10382v1](http://arxiv.org/abs/2411.10382v1)|null|
@@ -7295,6 +7315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-16**|**Light-Induced Subpicosecond Topological Phase Transition by Tuning Magnetic Order in Antiferromagnetic Dirac Semimetal EuAgAs**|Hao Liu et.al.|[2411.10756v1](http://arxiv.org/abs/2411.10756v1)|null|
 |**2024-11-13**|**Coherently Coupled Carrier and Phonon Dynamics in Elemental Tellurium Probed by Few-Femtosecond Core-Level Transient Absorption**|Jonah R. Adelman et.al.|[2411.09035v1](http://arxiv.org/abs/2411.09035v1)|null|
 |**2024-11-13**|**Many-Body Photon Blockade and Quantum Light Generation from Cavity Quantum Materials**|Benjamin Kass et.al.|[2411.08964v1](http://arxiv.org/abs/2411.08964v1)|null|
 |**2024-11-13**|**Hearing carrier-envelope offset frequency and phase in air**|Meng Han et.al.|[2411.08304v1](http://arxiv.org/abs/2411.08304v1)|null|
@@ -7871,6 +7892,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Anomalous Spectroscopical Effects in an Antiferromagnetic Semiconductor**|Michal Hubert et.al.|[2411.11673v1](http://arxiv.org/abs/2411.11673v1)|null|
+|**2024-11-18**|**Thickness-dependent Topological Phases and Flat Bands in Rhombohedral Multilayer Graphene**|H. B. Xiao et.al.|[2411.11359v1](http://arxiv.org/abs/2411.11359v1)|null|
+|**2024-11-17**|**Altermagnetic Perovskites**|Makoto Naka et.al.|[2411.11025v1](http://arxiv.org/abs/2411.11025v1)|null|
 |**2024-11-14**|**Large anomalous Hall effect and \textit{A}-phase in hexagonal polar magnet Gd $_3$Ni$_8$Sn$_4$**|Arnab Bhattacharya et.al.|[2411.09300v1](http://arxiv.org/abs/2411.09300v1)|null|
 |**2024-11-13**|**Theory of anomalous Hall effect from screened vortex charge in a phase disordered superconductor**|Jay D. Sau et.al.|[2411.08969v1](http://arxiv.org/abs/2411.08969v1)|null|
 |**2024-11-15**|**Anomalous Hall effect from inter-superlattice scattering in a noncollinear antiferromagnet**|Lilia S. Xie et.al.|[2411.08381v2](http://arxiv.org/abs/2411.08381v2)|null|
@@ -8231,6 +8255,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Dirac Magnon in Honeycomb Lattice Magnet NiTiO3**|Hodaka Kikuchi et.al.|[2411.11311v1](http://arxiv.org/abs/2411.11311v1)|null|
 |**2024-11-15**|**Spin excitations arising from anisotropic Dirac spinons in YCu $_3$(OD)$_6$Br$_2$[Br$_{0.33}$(OD)$_{0.67}$ ]**|Lankun Han et.al.|[2411.09883v1](http://arxiv.org/abs/2411.09883v1)|null|
 |**2024-11-08**|**Magnetic structure and crystal field states of antiferromagnetic CeNiGe $_3$: Neutron scattering and $μ$ SR investigations**|A. Kataria et.al.|[2411.05656v1](http://arxiv.org/abs/2411.05656v1)|null|
 |**2024-10-30**|**Magnetic excitations in the noncentrosymmetric magnet Sr2MnSi2O7**|Masahiro Kawamata et.al.|[2410.22741v1](http://arxiv.org/abs/2410.22741v1)|null|
