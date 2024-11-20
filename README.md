@@ -1098,10 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Probing Langmuir monolayer self-assembly in condensed and collapsed phases: grazing incidence X-ray diffraction and X-ray standing waves studies**|K. V. Nikolaev et.al.|[2411.12686v1](http://arxiv.org/abs/2411.12686v1)|null|
+|**2024-11-19**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$ H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545v1](http://arxiv.org/abs/2411.12545v1)|null|
+|**2024-11-19**|**Transitions Between Cooperative and Crowding-Dominated Collective Motion in non-Jammed MDCK Monolayers**|Steven J. Chisolm et.al.|[2411.12515v1](http://arxiv.org/abs/2411.12515v1)|null|
+|**2024-11-19**|**Optothermally Induced Active and Chiral Motion of the Colloidal Structures**|Rahul Chand et.al.|[2411.12488v1](http://arxiv.org/abs/2411.12488v1)|null|
+|**2024-11-19**|**Dynamics of phagocytosis through interplay of forces**|Partha Sarathi Mondal et.al.|[2411.12466v1](http://arxiv.org/abs/2411.12466v1)|null|
+|**2024-11-19**|**Emergence of Disordered Hyperuniformity in Confined Fluids and Soft Matter**|Fabio Leoni et.al.|[2411.12393v1](http://arxiv.org/abs/2411.12393v1)|null|
+|**2024-11-19**|**Transition-path sampling for Run-and-Tumble particles**|Thomas Kiechl et.al.|[2411.12368v1](http://arxiv.org/abs/2411.12368v1)|null|
+|**2024-11-19**|**Double Splay Nematic Order in Confined Polar Fluids**|Zhongjie Ma et.al.|[2411.12336v1](http://arxiv.org/abs/2411.12336v1)|null|
+|**2024-11-19**|**Transport of molecules via polymerization in chemical gradients**|Shashank Ravichandir et.al.|[2411.12325v1](http://arxiv.org/abs/2411.12325v1)|null|
+|**2024-11-19**|**Noncollinear ferroelectric and screw-type antiferroelectric phases in a metal-free hybrid molecular crystal**|Na Wang et.al.|[2411.12260v1](http://arxiv.org/abs/2411.12260v1)|null|
+|**2024-11-19**|**Neural Network-Based Tensor Model for Nematic Liquid Crystals with Accurate Microscopic Information**|Baoming Shi et.al.|[2411.12224v1](http://arxiv.org/abs/2411.12224v1)|null|
+|**2024-11-19**|**Higher-dimensional magnetic Skyrmions**|Sven Bjarke Gudnason et.al.|[2411.12190v1](http://arxiv.org/abs/2411.12190v1)|null|
+|**2024-11-18**|**Hydrodynamic Stokes flow induced by a chemically active patch imprinted on a planar wall**|Mihail N. Popescu et.al.|[2411.12107v1](http://arxiv.org/abs/2411.12107v1)|null|
 |**2024-11-18**|**Dynamics of Nonequilibrium Dimerization of Model Polymer Chains**|Sangita Mondal et.al.|[2411.11811v1](http://arxiv.org/abs/2411.11811v1)|null|
 |**2024-11-18**|**Active droplets controlled by enzymatic reactions**|Jacques Fries et.al.|[2411.11696v1](http://arxiv.org/abs/2411.11696v1)|null|
 |**2024-11-18**|**The motion of catalytically active colloids approaching a surface**|Julio Melio et.al.|[2411.11656v1](http://arxiv.org/abs/2411.11656v1)|null|
-|**2024-11-18**|**Semi-Dirac fermions in hexagonal close-packed cadmium**|Alaska Subedi et.al.|[2411.11585v1](http://arxiv.org/abs/2411.11585v1)|null|
+|**2024-11-19**|**Semi-Dirac fermions in hexagonal close-packed cadmium**|Alaska Subedi et.al.|[2411.11585v2](http://arxiv.org/abs/2411.11585v2)|null|
 |**2024-11-18**|**Universal solution to the Schrieffer-Wolff Transformation Generator**|Leander Reascos et.al.|[2411.11535v1](http://arxiv.org/abs/2411.11535v1)|null|
 |**2024-11-18**|**Asymptotic properties of bridging transitions in sinusoidally-shaped slits**|Alexandr Malijevský et.al.|[2411.11509v1](http://arxiv.org/abs/2411.11509v1)|null|
 |**2024-11-18**|**Computational study of active polar polymer melts: from active reptation to activity induced local alignment**|Javier Oller-Iscar et.al.|[2411.11472v1](http://arxiv.org/abs/2411.11472v1)|null|
@@ -8255,6 +8268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Magnetic ground state and excitations in mixed 3 $d$-4$d$ quasi-1D spin-chain oxide Sr$_3$NiRhO$_6$**|A. Jain et.al.|[2411.12088v1](http://arxiv.org/abs/2411.12088v1)|null|
 |**2024-11-18**|**Dirac Magnon in Honeycomb Lattice Magnet NiTiO3**|Hodaka Kikuchi et.al.|[2411.11311v1](http://arxiv.org/abs/2411.11311v1)|null|
 |**2024-11-15**|**Spin excitations arising from anisotropic Dirac spinons in YCu $_3$(OD)$_6$Br$_2$[Br$_{0.33}$(OD)$_{0.67}$ ]**|Lankun Han et.al.|[2411.09883v1](http://arxiv.org/abs/2411.09883v1)|null|
 |**2024-11-08**|**Magnetic structure and crystal field states of antiferromagnetic CeNiGe $_3$: Neutron scattering and $μ$ SR investigations**|A. Kataria et.al.|[2411.05656v1](http://arxiv.org/abs/2411.05656v1)|null|
