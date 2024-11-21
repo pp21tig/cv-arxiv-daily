@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Crystal to liquid cross-over in the active Calogero-Moser model**|Saikat Santra et.al.|[2411.13478v1](http://arxiv.org/abs/2411.13478v1)|null|
+|**2024-11-20**|**The Dean-Kawasaki equation and stochastic density functional theory**|Pierre Illien et.al.|[2411.13467v1](http://arxiv.org/abs/2411.13467v1)|null|
+|**2024-11-20**|**Dense Suspensions in Rotary Shear**|Naveen Kumar Agrawal et.al.|[2411.13463v1](http://arxiv.org/abs/2411.13463v1)|null|
+|**2024-11-20**|**Elucidating chirality transfer in liquid crystals of viruses**|Eric Grelet et.al.|[2411.13445v1](http://arxiv.org/abs/2411.13445v1)|null|
+|**2024-11-20**|**Symmetry breaking in two dimensions on ultra-fast time scales**|Robert Löffler et.al.|[2411.13433v1](http://arxiv.org/abs/2411.13433v1)|null|
+|**2024-11-20**|**Wavenumber-dependent magnetic losses in YIG-GGG heterostructures at millikelvin temperatures**|David Schmoll et.al.|[2411.13414v1](http://arxiv.org/abs/2411.13414v1)|null|
+|**2024-11-20**|**Sedimentation and structure of squirmer suspensions under gravity**|C. Miguel Barriuso G. et.al.|[2411.13359v1](http://arxiv.org/abs/2411.13359v1)|null|
+|**2024-11-20**|**Topological comparison of flexible and semiflexible chains in polymer melts with $θ$ -chains**|Maurice P. Schmitt et.al.|[2411.13357v1](http://arxiv.org/abs/2411.13357v1)|null|
+|**2024-11-20**|**Characterizing the Hard and Soft Nanoparticle-Protein Corona with Multilayer Adsorption**|Oriol Vilanova et.al.|[2411.13279v1](http://arxiv.org/abs/2411.13279v1)|null|
+|**2024-11-20**|**Gas-induced bulging in pouch-cell batteries: a mechanical model**|Andrea Giudici et.al.|[2411.13197v1](http://arxiv.org/abs/2411.13197v1)|null|
+|**2024-11-20**|**Nano-confinement induced nucleation of ice-VII at room temperature**|Jonggeun Hwang et.al.|[2411.12975v1](http://arxiv.org/abs/2411.12975v1)|null|
+|**2024-11-19**|**Conic sections in ferroelectric nematics: experiments and mathematical modeling**|Priyanka Kumari et.al.|[2411.12903v1](http://arxiv.org/abs/2411.12903v1)|null|
 |**2024-11-19**|**Probing Langmuir monolayer self-assembly in condensed and collapsed phases: grazing incidence X-ray diffraction and X-ray standing waves studies**|K. V. Nikolaev et.al.|[2411.12686v1](http://arxiv.org/abs/2411.12686v1)|null|
 |**2024-11-20**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$ H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545v2](http://arxiv.org/abs/2411.12545v2)|null|
 |**2024-11-19**|**Transitions Between Cooperative and Crowding-Dominated Collective Motion in non-Jammed MDCK Monolayers**|Steven J. Chisolm et.al.|[2411.12515v1](http://arxiv.org/abs/2411.12515v1)|null|
