@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -376,7 +376,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## SFM
 
@@ -455,7 +455,7 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -729,7 +729,7 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -839,7 +839,7 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Image Matching
 
@@ -938,7 +938,7 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## NeRF
 
@@ -1086,7 +1086,7 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## NaRF
 
@@ -1096,14 +1096,14 @@ layout: default
 |**2021-08-18**|**Neural Articulated Radiance Field**|Atsuhiro Noguchi et.al.|[2104.03110v2](http://arxiv.org/abs/2104.03110v2)|**[link](https://github.com/nogu-atsu/NARF)**|
 |**2020-11-11**|**Multi-wavelength high energy gas-filled fiber Raman laser spanning from 1.53 um to 2.4 um**|Abubakar I. Adamu et.al.|[2011.06121v1](http://arxiv.org/abs/2011.06121v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Terahertz
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**Probing Langmuir monolayer self-assembly in condensed and collapsed phases: grazing incidence X-ray diffraction and X-ray standing waves studies**|K. V. Nikolaev et.al.|[2411.12686v1](http://arxiv.org/abs/2411.12686v1)|null|
-|**2024-11-19**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$ H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545v1](http://arxiv.org/abs/2411.12545v1)|null|
+|**2024-11-20**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$ H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545v2](http://arxiv.org/abs/2411.12545v2)|null|
 |**2024-11-19**|**Transitions Between Cooperative and Crowding-Dominated Collective Motion in non-Jammed MDCK Monolayers**|Steven J. Chisolm et.al.|[2411.12515v1](http://arxiv.org/abs/2411.12515v1)|null|
 |**2024-11-19**|**Optothermally Induced Active and Chiral Motion of the Colloidal Structures**|Rahul Chand et.al.|[2411.12488v1](http://arxiv.org/abs/2411.12488v1)|null|
 |**2024-11-19**|**Dynamics of phagocytosis through interplay of forces**|Partha Sarathi Mondal et.al.|[2411.12466v1](http://arxiv.org/abs/2411.12466v1)|null|
@@ -7326,7 +7326,7 @@ layout: default
 |**2022-12-21**|**Shape-tension coupling produces nematic order in an epithelium vertex model**|Jan Rozman et.al.|[2212.11037v1](http://arxiv.org/abs/2212.11037v1)|null|
 |**2022-12-21**|**Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions**|Yongfeng Zhao et.al.|[2212.10996v1](http://arxiv.org/abs/2212.10996v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Light induce
 
@@ -7619,7 +7619,7 @@ layout: default
 |**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
 |**2022-10-25**|**Fast loading of a cold mixture of Sodium and Potassium atoms from compact and versatile cold atomic beam sources**|Sagar Sutradhar et.al.|[2210.14084v1](http://arxiv.org/abs/2210.14084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Intense Terahertz
 
@@ -7687,7 +7687,7 @@ layout: default
 |**2020-07-28**|**Terahertz Strong-Field Physics in Light-Emitting Diodes for Terahertz Detection and Imaging**|Chen Ouyang et.al.|[2007.14093v1](http://arxiv.org/abs/2007.14093v1)|null|
 |**2020-06-17**|**Lightwave Terahertz Quantum Manipulation of Non-equilibrium Superconductor Phases and their Collective Modes**|Martin Mootz et.al.|[2006.09151v2](http://arxiv.org/abs/2006.09151v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Electric Field Terahertz
 
@@ -7903,13 +7903,13 @@ layout: default
 |**2023-02-28**|**Highly-parallelized simulation of a pixelated LArTPC on a GPU**|DUNE Collaboration et.al.|[2212.09807v3](http://arxiv.org/abs/2212.09807v3)|**[link](https://github.com/DUNE/larnd-sim)**|
 |**2022-12-14**|**Ordered creation and motion of skyrmions with surface acoustic wave**|Ruyi Chen et.al.|[2212.06997v1](http://arxiv.org/abs/2212.06997v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## AHE
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-18**|**Anomalous Spectroscopical Effects in an Antiferromagnetic Semiconductor**|Michal Hubert et.al.|[2411.11673v1](http://arxiv.org/abs/2411.11673v1)|null|
+|**2024-11-19**|**Anomalous Spectroscopical Effects in an Antiferromagnetic Semiconductor**|Michal Hubert et.al.|[2411.11673v2](http://arxiv.org/abs/2411.11673v2)|null|
 |**2024-11-18**|**Thickness-dependent Topological Phases and Flat Bands in Rhombohedral Multilayer Graphene**|H. B. Xiao et.al.|[2411.11359v1](http://arxiv.org/abs/2411.11359v1)|null|
 |**2024-11-17**|**Altermagnetic Perovskites**|Makoto Naka et.al.|[2411.11025v1](http://arxiv.org/abs/2411.11025v1)|null|
 |**2024-11-14**|**Large anomalous Hall effect and \textit{A}-phase in hexagonal polar magnet Gd $_3$Ni$_8$Sn$_4$**|Arnab Bhattacharya et.al.|[2411.09300v1](http://arxiv.org/abs/2411.09300v1)|null|
@@ -8266,7 +8266,7 @@ layout: default
 |**2023-02-14**|**Direct evidence of terahertz emission arising from anomalous Hall effect**|V. Mottamchetty et.al.|[2302.07398v1](http://arxiv.org/abs/2302.07398v1)|null|
 |**2023-02-14**|**Pressure-tunable magnetic topological phases in magnetic topological insulator MnSb4Te7**|Lingling Gao et.al.|[2302.07113v1](http://arxiv.org/abs/2302.07113v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## INS
 
@@ -8432,7 +8432,7 @@ layout: default
 |**2023-01-20**|**Inelastic neutron scattering study of crystalline electric field excitations in the caged compounds NdT2Zn20 (T = Co, Rh, and Ir)**|Rikako Yamamoto et.al.|[2301.08507v1](http://arxiv.org/abs/2301.08507v1)|null|
 |**2023-01-12**|**Spectroscopic signatures of fractionalization in octupolar quantum spin ice**|Félix Desrochers et.al.|[2301.05240v1](http://arxiv.org/abs/2301.05240v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
