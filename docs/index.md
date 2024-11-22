@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Hindered stokesian settling of discs and rods**|Yating Zhang et.al.|[2411.14363v1](http://arxiv.org/abs/2411.14363v1)|null|
+|**2024-11-21**|**An unusual phase transition in a non-Hermitian Su-Schrieffer-Heeger model**|A Niveth et.al.|[2411.14328v1](http://arxiv.org/abs/2411.14328v1)|null|
+|**2024-11-21**|**Superconducting $p$ -wave pairing effects on one-dimensional non-Hermitian quasicrystals with power law hopping**|Shaina Gandhi et.al.|[2411.14144v1](http://arxiv.org/abs/2411.14144v1)|null|
+|**2024-11-21**|**Ferroelectric Nanoparticles in Liquid Crystals: The Role of Ionic Transport at Small Concentrations of the Nanoparticles**|Juliya M. Gudenko et.al.|[2411.14118v1](http://arxiv.org/abs/2411.14118v1)|null|
+|**2024-11-21**|**Systematic Fluorination is a Powerful Design Strategy Towards Fluid Molecular Ferroelectrics**|Calum J. Gibb et.al.|[2411.14115v1](http://arxiv.org/abs/2411.14115v1)|null|
+|**2024-11-21**|**Global well-posedness in a Hartree-Fock model for graphene**|William Borrelli et.al.|[2411.14028v1](http://arxiv.org/abs/2411.14028v1)|null|
+|**2024-11-21**|**How do imperfections cause asymmetry in elastic snap-through?**|Andrea Giudici et.al.|[2411.13971v1](http://arxiv.org/abs/2411.13971v1)|null|
+|**2024-11-21**|**Simulating squirmers with smoothed particle dynamics**|Xinwei Cai et.al.|[2411.13893v1](http://arxiv.org/abs/2411.13893v1)|null|
+|**2024-11-21**|**On the geometry of topological defects in glasses**|Zhen Wei Wu et.al.|[2411.13853v1](http://arxiv.org/abs/2411.13853v1)|null|
+|**2024-11-21**|**Effects of Photopatterning Conditions on Azimuthal Surface Anchoring Strength**|Nilanthi P. Haputhanthrige et.al.|[2411.13835v1](http://arxiv.org/abs/2411.13835v1)|null|
+|**2024-11-20**|**Coarse-Grained Simulation Model for Crystalline Polymer Solids by using Breakable Bonds**|Takashi Uneyama et.al.|[2411.13752v1](http://arxiv.org/abs/2411.13752v1)|null|
+|**2024-11-20**|**The Grüneisen parameter applied to critical phenomena and experimental investigations of correlated phenomena in molecular conductors**|Lucas Squillante et.al.|[2411.13743v1](http://arxiv.org/abs/2411.13743v1)|null|
+|**2024-11-20**|**Certain BCS wavefunctions are quantum many-body scars**|Kiryl Pakrouski et.al.|[2411.13651v1](http://arxiv.org/abs/2411.13651v1)|null|
 |**2024-11-20**|**Crystal to liquid cross-over in the active Calogero-Moser model**|Saikat Santra et.al.|[2411.13478v1](http://arxiv.org/abs/2411.13478v1)|null|
 |**2024-11-20**|**The Dean-Kawasaki equation and stochastic density functional theory**|Pierre Illien et.al.|[2411.13467v1](http://arxiv.org/abs/2411.13467v1)|null|
 |**2024-11-20**|**Dense Suspensions in Rotary Shear**|Naveen Kumar Agrawal et.al.|[2411.13463v1](http://arxiv.org/abs/2411.13463v1)|null|
@@ -7344,6 +7357,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Light-induced renormalization of the band structure of chiral tellurium**|G. Gatti et.al.|[2411.13954v1](http://arxiv.org/abs/2411.13954v1)|null|
 |**2024-11-16**|**Light-Induced Subpicosecond Topological Phase Transition by Tuning Magnetic Order in Antiferromagnetic Dirac Semimetal EuAgAs**|Hao Liu et.al.|[2411.10756v1](http://arxiv.org/abs/2411.10756v1)|null|
 |**2024-11-13**|**Coherently Coupled Carrier and Phonon Dynamics in Elemental Tellurium Probed by Few-Femtosecond Core-Level Transient Absorption**|Jonah R. Adelman et.al.|[2411.09035v1](http://arxiv.org/abs/2411.09035v1)|null|
 |**2024-11-13**|**Many-Body Photon Blockade and Quantum Light Generation from Cavity Quantum Materials**|Benjamin Kass et.al.|[2411.08964v1](http://arxiv.org/abs/2411.08964v1)|null|
@@ -7705,6 +7719,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Current-induced brightening of vacancy-related emitters in hexagonal boron nitride**|Corinne Steiner et.al.|[2411.14152v1](http://arxiv.org/abs/2411.14152v1)|null|
+|**2024-11-21**|**Theoretical Studies on the Evolution of Solar Filaments in Response to New Emerging Flux**|Yuhao Chen et.al.|[2411.13839v1](http://arxiv.org/abs/2411.13839v1)|null|
 |**2024-11-12**|**Estimation of spin-orbit torques in the presence of current-induced magnon creation and annihilation**|Paul Noël et.al.|[2411.07999v1](http://arxiv.org/abs/2411.07999v1)|null|
 |**2024-11-12**|**Nonlinear longitudinal and transverse magnetoresistances due to current-induced magnon creation-annihilation processes**|Paul Noël et.al.|[2411.07991v1](http://arxiv.org/abs/2411.07991v1)|null|
 |**2024-11-08**|**Quantum magnetometry of transient signals with a time resolution of 1.1 nanoseconds**|Konstantin Herb et.al.|[2411.05542v1](http://arxiv.org/abs/2411.05542v1)|null|
@@ -7921,6 +7937,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Suppression of Intrinsic Hall Effect through Competing Berry Curvature in Cr $_{1+δ}$Te$_2$**|Prasanta Chowdhury et.al.|[2411.14045v1](http://arxiv.org/abs/2411.14045v1)|null|
 |**2024-11-19**|**Anomalous Spectroscopical Effects in an Antiferromagnetic Semiconductor**|Michal Hubert et.al.|[2411.11673v2](http://arxiv.org/abs/2411.11673v2)|null|
 |**2024-11-18**|**Thickness-dependent Topological Phases and Flat Bands in Rhombohedral Multilayer Graphene**|H. B. Xiao et.al.|[2411.11359v1](http://arxiv.org/abs/2411.11359v1)|null|
 |**2024-11-17**|**Altermagnetic Perovskites**|Makoto Naka et.al.|[2411.11025v1](http://arxiv.org/abs/2411.11025v1)|null|
