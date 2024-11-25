@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Threetangle in the XY-model class with a non-integrable field background**|Jörg Neveling et.al.|[2411.15032v1](http://arxiv.org/abs/2411.15032v1)|null|
+|**2024-11-22**|**Kinetic model for transport in granular mixtures**|Pablo Avilés et.al.|[2411.14912v1](http://arxiv.org/abs/2411.14912v1)|null|
+|**2024-11-22**|**Unique Dielectric Behaviour and Anomalies in Nanoconfined Liquids**|Sayantan Mondal et.al.|[2411.14892v1](http://arxiv.org/abs/2411.14892v1)|null|
+|**2024-11-22**|**Nanoscale Analysis of Surface Modifications on Silanized Glass: Wettability Alteration and Long-Term Stability**|Mohammad Hossein Khoeini et.al.|[2411.14836v1](http://arxiv.org/abs/2411.14836v1)|null|
+|**2024-11-22**|**Entropic tug of war: Topological constraints spontaneously rectify the dynamics of a polymer with heterogeneous fluctuations**|Adam H. T. P. Höfler et.al.|[2411.14778v1](http://arxiv.org/abs/2411.14778v1)|null|
+|**2024-11-22**|**Diffusiophoretic transport of colloids in porous media**|Mobin Alipour et.al.|[2411.14712v1](http://arxiv.org/abs/2411.14712v1)|null|
+|**2024-11-22**|**Boson-fermion universality of mesoscopic entanglement fluctuations in free systems**|Cunzhong Lou et.al.|[2411.14687v1](http://arxiv.org/abs/2411.14687v1)|null|
+|**2024-11-22**|**Quantum dynamics of photophysical aggregates in conjugated polymers**|Henry J. Kantrow et.al.|[2411.14675v1](http://arxiv.org/abs/2411.14675v1)|null|
+|**2024-11-22**|**Morphodynamics of surface-attached active drops**|Alejandro Martinez-Calvo et.al.|[2411.14636v1](http://arxiv.org/abs/2411.14636v1)|null|
+|**2024-11-21**|**The origin of strings and rings in the atomic dynamics of disordered systems**|Omar Hussein et.al.|[2411.14610v1](http://arxiv.org/abs/2411.14610v1)|null|
+|**2024-11-21**|**Transient rheology and morphology in sheared nanolayer polymer films**|Anna Dmochowska et.al.|[2411.14591v1](http://arxiv.org/abs/2411.14591v1)|null|
+|**2024-11-21**|**Theory of Nonequilibrium Crystallization and the Phase Diagram of Active Brownian Spheres**|Daniel Evans et.al.|[2411.14536v1](http://arxiv.org/abs/2411.14536v1)|null|
 |**2024-11-21**|**Hindered stokesian settling of discs and rods**|Yating Zhang et.al.|[2411.14363v1](http://arxiv.org/abs/2411.14363v1)|null|
 |**2024-11-21**|**An unusual phase transition in a non-Hermitian Su-Schrieffer-Heeger model**|A Niveth et.al.|[2411.14328v1](http://arxiv.org/abs/2411.14328v1)|null|
 |**2024-11-21**|**Superconducting $p$ -wave pairing effects on one-dimensional non-Hermitian quasicrystals with power law hopping**|Shaina Gandhi et.al.|[2411.14144v1](http://arxiv.org/abs/2411.14144v1)|null|
@@ -7933,6 +7945,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Manipulating Momentum-Space and Real-Space Topological States in Metallic Strontium Ruthenate Ultrathin Films**|Xuan Zheng et.al.|[2411.14648v1](http://arxiv.org/abs/2411.14648v1)|null|
 |**2024-11-21**|**Suppression of Intrinsic Hall Effect through Competing Berry Curvature in Cr $_{1+δ}$Te$_2$**|Prasanta Chowdhury et.al.|[2411.14045v1](http://arxiv.org/abs/2411.14045v1)|null|
 |**2024-11-19**|**Anomalous Spectroscopical Effects in an Antiferromagnetic Semiconductor**|Michal Hubert et.al.|[2411.11673v2](http://arxiv.org/abs/2411.11673v2)|null|
 |**2024-11-18**|**Thickness-dependent Topological Phases and Flat Bands in Rhombohedral Multilayer Graphene**|H. B. Xiao et.al.|[2411.11359v1](http://arxiv.org/abs/2411.11359v1)|null|
