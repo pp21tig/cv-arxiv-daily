@@ -1098,6 +1098,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520v1](http://arxiv.org/abs/2411.16520v1)|null|
+|**2024-11-25**|**Mixing small proteins with lipids and cholesterol**|Subhadip Basu et.al.|[2411.16423v1](http://arxiv.org/abs/2411.16423v1)|null|
+|**2024-11-25**|**The nonlinear elastic deformation of liquid inclusions embedded in elastomers**|Oluwadara Moronkeji et.al.|[2411.16363v1](http://arxiv.org/abs/2411.16363v1)|null|
+|**2024-11-25**|**Bosonic Peierls state emerging from the one-dimensional Ising-Kondo interaction**|Jingtao Fan et.al.|[2411.16357v1](http://arxiv.org/abs/2411.16357v1)|null|
+|**2024-11-25**|**Spin-dependent photovoltage in graphene/MoS2-based field-effect transistors**|K. Dinar et.al.|[2411.16328v1](http://arxiv.org/abs/2411.16328v1)|null|
+|**2024-11-25**|**Internal motion of soft granular particles under circular shearing: Rate-dependent quaking and its spatial structure**|Jr-Jun Lin et.al.|[2411.16293v1](http://arxiv.org/abs/2411.16293v1)|null|
+|**2024-11-25**|**Steerable dual-trap optical tweezers with confocal position detection using back-scattered light**|Md Arsalan Ashraf et.al.|[2411.16256v1](http://arxiv.org/abs/2411.16256v1)|null|
+|**2024-11-25**|**Mesoscale simulation model for odd fluids**|Yuxing Jiao et.al.|[2411.16212v1](http://arxiv.org/abs/2411.16212v1)|null|
+|**2024-11-25**|**Machine-learning emergent spacetime from linear response in future tabletop quantum gravity experiments**|Koji Hashimoto et.al.|[2411.16052v1](http://arxiv.org/abs/2411.16052v1)|null|
+|**2024-11-24**|**ActiveCheerios: 3D-Printed Marangoni-Driven Active Particles at an Interface**|Jackson K. Wilt et.al.|[2411.16011v1](http://arxiv.org/abs/2411.16011v1)|null|
+|**2024-11-24**|**Stokes flow of incompressible liquid through a conical diffuser with partial slip boundary condition**|Peter Lebedev-Stepanov et.al.|[2411.15853v1](http://arxiv.org/abs/2411.15853v1)|null|
+|**2024-11-24**|**Chiral active fluids: what can we learn from the total momentum?**|Tomer Markovich et.al.|[2411.15812v1](http://arxiv.org/abs/2411.15812v1)|null|
+|**2024-11-24**|**Distinctive Electronic Characteristics and Ultra-high Thermoelectric Power Factor in Be-Fe Intermetallics**|Q. D. Hao et.al.|[2411.15780v1](http://arxiv.org/abs/2411.15780v1)|null|
+|**2024-11-24**|**Simultaneous Measurement of Thermal Conductivity, Heat Capacity, and Interfacial Thermal Conductance by Leveraging Negative Delay-Time Data in Time-Domain Thermoreflectance**|Mingzhen Zhang et.al.|[2411.15767v1](http://arxiv.org/abs/2411.15767v1)|null|
+|**2024-11-24**|**Breaking Mechanical Holography in Combinatorial Metamaterials**|Chaviva Sirote-Katz et.al.|[2411.15760v1](http://arxiv.org/abs/2411.15760v1)|null|
+|**2024-11-23**|**Cooperative motion in equilibrium phases across two-dimension melting in pure and disordered systems**|Saikat Dutta et.al.|[2411.15654v1](http://arxiv.org/abs/2411.15654v1)|null|
+|**2024-11-23**|**Synchronized motion of gold nanoparticles in an optothermal trap**|Ashutosh Shukla et.al.|[2411.15512v1](http://arxiv.org/abs/2411.15512v1)|null|
+|**2024-11-23**|**Excitons and trions in CrSBr bilayers**|M. A. Semina et.al.|[2411.15493v1](http://arxiv.org/abs/2411.15493v1)|null|
+|**2024-11-23**|**String breaking mechanism in a lattice Schwinger model simulator**|Ying Liu et.al.|[2411.15443v1](http://arxiv.org/abs/2411.15443v1)|null|
 |**2024-11-22**|**Threetangle in the XY-model class with a non-integrable field background**|Jörg Neveling et.al.|[2411.15032v1](http://arxiv.org/abs/2411.15032v1)|null|
 |**2024-11-22**|**Kinetic model for transport in granular mixtures**|Pablo Avilés et.al.|[2411.14912v1](http://arxiv.org/abs/2411.14912v1)|null|
 |**2024-11-22**|**Unique Dielectric Behaviour and Anomalies in Nanoconfined Liquids**|Sayantan Mondal et.al.|[2411.14892v1](http://arxiv.org/abs/2411.14892v1)|null|
@@ -7727,6 +7746,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Minimal Acquisition Time Polarized Neutron Imaging of Current Induced Magnetic Fields in Superconducting Multifilamentary YBCO Tape**|Cedric Holme Qvistgaard et.al.|[2411.16473v1](http://arxiv.org/abs/2411.16473v1)|null|
 |**2024-11-21**|**Current-induced brightening of vacancy-related emitters in hexagonal boron nitride**|Corinne Steiner et.al.|[2411.14152v1](http://arxiv.org/abs/2411.14152v1)|null|
 |**2024-11-21**|**Theoretical Studies on the Evolution of Solar Filaments in Response to New Emerging Flux**|Yuhao Chen et.al.|[2411.13839v1](http://arxiv.org/abs/2411.13839v1)|null|
 |**2024-11-12**|**Estimation of spin-orbit torques in the presence of current-induced magnon creation and annihilation**|Paul Noël et.al.|[2411.07999v1](http://arxiv.org/abs/2411.07999v1)|null|
