@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Cyclic phase transition of substrate-modulated 2D dusty plasma driven by oscillatory forces**|Ao Xu et.al.|[2411.17647v1](http://arxiv.org/abs/2411.17647v1)|null|
+|**2024-11-26**|**Realization of inverse-design magnonic logic gates**|Noura Zenbaa et.al.|[2411.17546v1](http://arxiv.org/abs/2411.17546v1)|null|
+|**2024-11-26**|**Initial Stages of Rejuvenation of Vapor-Deposited Glasses during Isothermal Annealing: Contrast Between Experiment and Simulation**|Megan E. Tracy et.al.|[2411.17540v1](http://arxiv.org/abs/2411.17540v1)|null|
+|**2024-11-26**|**Non-equilibrium coexistence between a fluid and a hotter or colder crystal of granular hard disks**|R. Maire et.al.|[2411.17531v1](http://arxiv.org/abs/2411.17531v1)|null|
+|**2024-11-26**|**Emulsion Electrocoalescence in microfluidics: impact of local electric fields**|David Van Assche et.al.|[2411.17478v1](http://arxiv.org/abs/2411.17478v1)|null|
+|**2024-11-26**|**Suppression of hyperuniformity in hydrodynamic scalar active field theories**|Nadia Bihari Padhan et.al.|[2411.17409v1](http://arxiv.org/abs/2411.17409v1)|null|
+|**2024-11-26**|**Emergence of ferroelectric topological insulator as verified by quantum Hall effect of surface states in (Sn,Pb,In)Te films**|Ryutaro Yoshimi et.al.|[2411.17263v1](http://arxiv.org/abs/2411.17263v1)|null|
+|**2024-11-26**|**Controlled angular momentum injection in a magnetically levitated He II droplet**|Sosuke Inui et.al.|[2411.17115v1](http://arxiv.org/abs/2411.17115v1)|null|
+|**2024-11-26**|**Rubber-to-glass adhesion between a rigid sphere and a shape memory polymer substrate of finite thickness**|Changhong Linghu et.al.|[2411.17053v1](http://arxiv.org/abs/2411.17053v1)|null|
+|**2024-11-26**|**Properties and dynamics of generalized squeezed states**|Sahel Ashhab et.al.|[2411.17022v1](http://arxiv.org/abs/2411.17022v1)|null|
+|**2024-11-26**|**Tower of Structured Excited States from Measurements**|Yuxuan Guo et.al.|[2411.17020v1](http://arxiv.org/abs/2411.17020v1)|null|
+|**2024-11-25**|**Electrical contact with dielectric breakdown of interfacial gap**|Yang Xu et.al.|[2411.16981v1](http://arxiv.org/abs/2411.16981v1)|null|
+|**2024-11-25**|**Repulsion and attraction in the interactions of opposite membrane deformations**|Ali Azadbakht et.al.|[2411.16910v1](http://arxiv.org/abs/2411.16910v1)|null|
+|**2024-11-25**|**Polarization and dynamic phases of aligning active matter in periodic obstacle arrays**|Daniel Canavello et.al.|[2411.16882v1](http://arxiv.org/abs/2411.16882v1)|null|
+|**2024-11-25**|**Exact Solvability Of Entanglement For Arbitrary Initial State in an Infinite-Range Floquet System**|Harshit Sharma et.al.|[2411.16670v1](http://arxiv.org/abs/2411.16670v1)|null|
 |**2024-11-25**|**Characterization of Silicon Carbide Biphenylene Network through G0W0-BSE Calculations**|Arushi Singh et.al.|[2411.16520v1](http://arxiv.org/abs/2411.16520v1)|null|
 |**2024-11-25**|**Mixing small proteins with lipids and cholesterol**|Subhadip Basu et.al.|[2411.16423v1](http://arxiv.org/abs/2411.16423v1)|null|
 |**2024-11-25**|**The nonlinear elastic deformation of liquid inclusions embedded in elastomers**|Oluwadara Moronkeji et.al.|[2411.16363v1](http://arxiv.org/abs/2411.16363v1)|null|
