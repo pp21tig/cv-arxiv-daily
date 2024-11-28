@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**PHOENIX -- Paderborn highly optimized and energy efficient solver for two-dimensional nonlinear Schrödinger equations with integrated extensions**|Jan Wingenbach et.al.|[2411.18341v1](http://arxiv.org/abs/2411.18341v1)|null|
+|**2024-11-27**|**Topological defects lead to energy transfer in active nematics**|Daniel J. G. Pearce et.al.|[2411.18214v1](http://arxiv.org/abs/2411.18214v1)|null|
+|**2024-11-27**|**PyMatterSim: a Python Data Analysis Library for Computer Simulations of Materials Science, Physics, Chemistry, and Beyond**|Y. -C. Hu et.al.|[2411.17970v1](http://arxiv.org/abs/2411.17970v1)|null|
+|**2024-11-27**|**Relaxation Dynamics of Entangled Linear Polymer Melts via Molecular Dynamics Simulations**|Alireza F. Behbahani et.al.|[2411.17953v1](http://arxiv.org/abs/2411.17953v1)|null|
+|**2024-11-26**|**Dissipative Forces in Photon-Medium Interactions Using Perturbation Theory**|Raju S. Khatiwada et.al.|[2411.17904v1](http://arxiv.org/abs/2411.17904v1)|null|
+|**2024-11-26**|**Metastability in Coexisting Competing Orders**|Yasamin Masoumi Sefidkhani et.al.|[2411.17871v1](http://arxiv.org/abs/2411.17871v1)|null|
+|**2024-11-26**|**Immobility of isolated swarmer cells due to local liquid depletion**|Ajesh Jose et.al.|[2411.17842v1](http://arxiv.org/abs/2411.17842v1)|null|
+|**2024-11-26**|**Actuation of Cell Sheets in 3D**|Kirsten Endresen et.al.|[2411.17834v1](http://arxiv.org/abs/2411.17834v1)|null|
 |**2024-11-26**|**Cyclic phase transition of substrate-modulated 2D dusty plasma driven by oscillatory forces**|Ao Xu et.al.|[2411.17647v1](http://arxiv.org/abs/2411.17647v1)|null|
 |**2024-11-26**|**Realization of inverse-design magnonic logic gates**|Noura Zenbaa et.al.|[2411.17546v1](http://arxiv.org/abs/2411.17546v1)|null|
 |**2024-11-26**|**Initial Stages of Rejuvenation of Vapor-Deposited Glasses during Isothermal Annealing: Contrast Between Experiment and Simulation**|Megan E. Tracy et.al.|[2411.17540v1](http://arxiv.org/abs/2411.17540v1)|null|
@@ -7761,6 +7769,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Chiral anomaly and internode scatterings in multifold semimetals**|Ipsita Mandal et.al.|[2411.18434v1](http://arxiv.org/abs/2411.18434v1)|null|
+|**2024-11-27**|**Stability and Dynamics of Skyrmion and Skyrmion Bags Explored under the Influence of Out-of-Plane Strain and Its Gradient**|Naim Ahmad et.al.|[2411.18332v1](http://arxiv.org/abs/2411.18332v1)|null|
 |**2024-11-25**|**Minimal Acquisition Time Polarized Neutron Imaging of Current Induced Magnetic Fields in Superconducting Multifilamentary YBCO Tape**|Cedric Holme Qvistgaard et.al.|[2411.16473v1](http://arxiv.org/abs/2411.16473v1)|null|
 |**2024-11-21**|**Current-induced brightening of vacancy-related emitters in hexagonal boron nitride**|Corinne Steiner et.al.|[2411.14152v1](http://arxiv.org/abs/2411.14152v1)|null|
 |**2024-11-21**|**Theoretical Studies on the Evolution of Solar Filaments in Response to New Emerging Flux**|Yuhao Chen et.al.|[2411.13839v1](http://arxiv.org/abs/2411.13839v1)|null|
@@ -8345,6 +8355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Structural and magnetic characterization of CeTa $_7$O$_{19}$ and YbTa$_7$O$_{19}$ with two-dimensional pseudospin-1/2 triangular lattice**|Feihao Pan et.al.|[2411.18045v1](http://arxiv.org/abs/2411.18045v1)|null|
 |**2024-11-18**|**Magnetic ground state and excitations in mixed 3 $d$-4$d$ quasi-1D spin-chain oxide Sr$_3$NiRhO$_6$**|A. Jain et.al.|[2411.12088v1](http://arxiv.org/abs/2411.12088v1)|null|
 |**2024-11-18**|**Dirac Magnon in Honeycomb Lattice Magnet NiTiO3**|Hodaka Kikuchi et.al.|[2411.11311v1](http://arxiv.org/abs/2411.11311v1)|null|
 |**2024-11-15**|**Spin excitations arising from anisotropic Dirac spinons in YCu $_3$(OD)$_6$Br$_2$[Br$_{0.33}$(OD)$_{0.67}$ ]**|Lankun Han et.al.|[2411.09883v1](http://arxiv.org/abs/2411.09883v1)|null|
