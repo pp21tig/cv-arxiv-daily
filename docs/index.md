@@ -1106,7 +1106,7 @@ layout: default
 |**2024-11-27**|**Topological defects lead to energy transfer in active nematics**|Daniel J. G. Pearce et.al.|[2411.18214v1](http://arxiv.org/abs/2411.18214v1)|null|
 |**2024-11-27**|**PyMatterSim: a Python Data Analysis Library for Computer Simulations of Materials Science, Physics, Chemistry, and Beyond**|Y. -C. Hu et.al.|[2411.17970v1](http://arxiv.org/abs/2411.17970v1)|null|
 |**2024-11-27**|**Relaxation Dynamics of Entangled Linear Polymer Melts via Molecular Dynamics Simulations**|Alireza F. Behbahani et.al.|[2411.17953v1](http://arxiv.org/abs/2411.17953v1)|null|
-|**2024-11-26**|**Dissipative Forces in Photon-Medium Interactions Using Perturbation Theory**|Raju S. Khatiwada et.al.|[2411.17904v1](http://arxiv.org/abs/2411.17904v1)|null|
+|**2024-11-26**|**Dissipative Forces in Photon-Medium Interactions Using Perturbation Theory**|Raju S. Khatiwada et.al.|[2411.17904v1](http://arxiv.org/abs/2411.17904v1)|**[link](https://github.com/rskhatiwada/perturbations)**|
 |**2024-11-26**|**Metastability in Coexisting Competing Orders**|Yasamin Masoumi Sefidkhani et.al.|[2411.17871v1](http://arxiv.org/abs/2411.17871v1)|null|
 |**2024-11-26**|**Immobility of isolated swarmer cells due to local liquid depletion**|Ajesh Jose et.al.|[2411.17842v1](http://arxiv.org/abs/2411.17842v1)|null|
 |**2024-11-26**|**Actuation of Cell Sheets in 3D**|Kirsten Endresen et.al.|[2411.17834v1](http://arxiv.org/abs/2411.17834v1)|null|
