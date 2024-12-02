@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**Signatures of the Correlated-Hopping Interaction in Non-Linear Transport through a Quantum Dot**|Ulrich Eckern et.al.|[2411.19850v1](http://arxiv.org/abs/2411.19850v1)|null|
+|**2024-11-29**|**Transition to strong wave turbulence in Bose-Einstein condensates**|Ying Zhu et.al.|[2411.19812v1](http://arxiv.org/abs/2411.19812v1)|null|
+|**2024-11-29**|**The 2024 Motile Active Matter Roadmap**|Gerhard Gompper et.al.|[2411.19783v1](http://arxiv.org/abs/2411.19783v1)|null|
+|**2024-11-29**|**Predictive orientational phase behavior in convex polyhedral entropic crystals**|Sumitava Kundu et.al.|[2411.19707v1](http://arxiv.org/abs/2411.19707v1)|null|
+|**2024-11-29**|**Inverse Design of Mechanical Metamaterials Using a Point-Cloud-Based Deep Generative Model**|Seungwook Hong et.al.|[2411.19681v1](http://arxiv.org/abs/2411.19681v1)|null|
+|**2024-11-29**|**Numerical Calculation of Electric Field Enhancement in Neutron Traps with Rough Walls Coated with Superfluid Helium**|V. D. Kochev et.al.|[2411.19645v1](http://arxiv.org/abs/2411.19645v1)|null|
+|**2024-11-29**|**Simulating phase inversion processes by coupled map lattice: Towards the theoretical design of food texture and quality in dairy processing from fresh cream to butter via whipped cream**|Erika Nozawa et.al.|[2411.19641v1](http://arxiv.org/abs/2411.19641v1)|null|
+|**2024-11-29**|**Synchronization and exceptional points in nonreciprocal active polar mixtures**|Kim L. Kreienkamp et.al.|[2411.19621v1](http://arxiv.org/abs/2411.19621v1)|null|
+|**2024-11-29**|**Adaptive dynamics of Ising spins in one dimension leveraging Reinforcement Learning**|Anish Kumar et.al.|[2411.19602v1](http://arxiv.org/abs/2411.19602v1)|null|
+|**2024-11-28**|**Geometric theory of (extended) time-reversal symmetries in stochastic processes -- Part II: field theory**|Jérémy O'Byrne et.al.|[2411.19299v1](http://arxiv.org/abs/2411.19299v1)|null|
+|**2024-11-28**|**Kirchhoff's analogy for a planar ferromagnetic rod**|G. R. Krishna Chand Avatar et.al.|[2411.19270v1](http://arxiv.org/abs/2411.19270v1)|null|
+|**2024-11-28**|**Strain-induced valley polarization, topological states, and piezomagnetism in two-dimensional altermagnetic V $_2$Te$_2$O, V$_2$STeO, V$_2$SSeO, and V$_2$S$_2$ O**|Jin-Yang Li et.al.|[2411.19237v1](http://arxiv.org/abs/2411.19237v1)|null|
+|**2024-11-28**|**Review on spin-wave RF applications**|Khrystyna O. Levchenko et.al.|[2411.19212v1](http://arxiv.org/abs/2411.19212v1)|null|
+|**2024-11-28**|**Inertial Dynamics of Run-and-Tumble Particle**|Debraj Dutta et.al.|[2411.19186v1](http://arxiv.org/abs/2411.19186v1)|null|
+|**2024-11-28**|**Mathematical analysis of a Muñoz-Delgado model for cigar-shaped Bose-Einstein condensates**|Rolci Cipolatti et.al.|[2411.19157v1](http://arxiv.org/abs/2411.19157v1)|null|
+|**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109v1](http://arxiv.org/abs/2411.19109v1)|null|
+|**2024-11-28**|**Charge transfer induced cubic gauche nitrogen from azides**|Tingting Ye et.al.|[2411.19079v1](http://arxiv.org/abs/2411.19079v1)|null|
+|**2024-11-28**|**A potassium ion channel simulated with a universal neural network potential**|Timothy T. Duignan et.al.|[2411.18931v1](http://arxiv.org/abs/2411.18931v1)|null|
+|**2024-11-28**|**Spontaneous rolling on a 90 degree incline**|Surjyasish Mitra et.al.|[2411.18840v1](http://arxiv.org/abs/2411.18840v1)|null|
+|**2024-11-27**|**The Higgs-Amplitude mode in the optical conductivity in the presence of a supercurrent: Gauge invariant forumulation**|Ke Wang et.al.|[2411.18781v1](http://arxiv.org/abs/2411.18781v1)|null|
 |**2024-11-27**|**PHOENIX -- Paderborn highly optimized and energy efficient solver for two-dimensional nonlinear Schrödinger equations with integrated extensions**|Jan Wingenbach et.al.|[2411.18341v1](http://arxiv.org/abs/2411.18341v1)|null|
 |**2024-11-27**|**Topological defects lead to energy transfer in active nematics**|Daniel J. G. Pearce et.al.|[2411.18214v1](http://arxiv.org/abs/2411.18214v1)|null|
 |**2024-11-27**|**PyMatterSim: a Python Data Analysis Library for Computer Simulations of Materials Science, Physics, Chemistry, and Beyond**|Y. -C. Hu et.al.|[2411.17970v1](http://arxiv.org/abs/2411.17970v1)|null|
@@ -7407,6 +7427,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Light-induced Orbital and Spin Magnetism in $3d$, $4d$, and $5d$ Transition Metals**|Theodoros Adamantopoulos et.al.|[2411.18815v1](http://arxiv.org/abs/2411.18815v1)|null|
 |**2024-11-21**|**Light-induced renormalization of the band structure of chiral tellurium**|G. Gatti et.al.|[2411.13954v1](http://arxiv.org/abs/2411.13954v1)|null|
 |**2024-11-16**|**Light-Induced Subpicosecond Topological Phase Transition by Tuning Magnetic Order in Antiferromagnetic Dirac Semimetal EuAgAs**|Hao Liu et.al.|[2411.10756v1](http://arxiv.org/abs/2411.10756v1)|null|
 |**2024-11-13**|**Coherently Coupled Carrier and Phonon Dynamics in Elemental Tellurium Probed by Few-Femtosecond Core-Level Transient Absorption**|Jonah R. Adelman et.al.|[2411.09035v1](http://arxiv.org/abs/2411.09035v1)|null|
@@ -7769,6 +7790,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**Observation of a non-reciprocal skyrmion Hall effect of hybrid chiral skyrmion tubes in synthetic antiferromagnetic multilayers**|Takaaki Dohi et.al.|[2411.19698v1](http://arxiv.org/abs/2411.19698v1)|null|
 |**2024-11-27**|**Chiral anomaly and internode scatterings in multifold semimetals**|Ipsita Mandal et.al.|[2411.18434v1](http://arxiv.org/abs/2411.18434v1)|null|
 |**2024-11-27**|**Stability and Dynamics of Skyrmion and Skyrmion Bags Explored under the Influence of Out-of-Plane Strain and Its Gradient**|Naim Ahmad et.al.|[2411.18332v1](http://arxiv.org/abs/2411.18332v1)|null|
 |**2024-11-25**|**Minimal Acquisition Time Polarized Neutron Imaging of Current Induced Magnetic Fields in Superconducting Multifilamentary YBCO Tape**|Cedric Holme Qvistgaard et.al.|[2411.16473v1](http://arxiv.org/abs/2411.16473v1)|null|
@@ -7990,6 +8012,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**Magnetic field induced arrested state and observation of spontaneous anomalous Hall effect in TbMn $_6$Sn$_6$**|Tamali Roy et.al.|[2411.18950v1](http://arxiv.org/abs/2411.18950v1)|null|
 |**2024-11-22**|**Manipulating Momentum-Space and Real-Space Topological States in Metallic Strontium Ruthenate Ultrathin Films**|Xuan Zheng et.al.|[2411.14648v1](http://arxiv.org/abs/2411.14648v1)|null|
 |**2024-11-21**|**Suppression of Intrinsic Hall Effect through Competing Berry Curvature in Cr $_{1+δ}$Te$_2$**|Prasanta Chowdhury et.al.|[2411.14045v1](http://arxiv.org/abs/2411.14045v1)|null|
 |**2024-11-19**|**Anomalous Spectroscopical Effects in an Antiferromagnetic Semiconductor**|Michal Hubert et.al.|[2411.11673v2](http://arxiv.org/abs/2411.11673v2)|null|
