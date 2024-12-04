@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Perspective: Time irreversibility in systems observed at coarse resolution**|Cai Dieball et.al.|[2412.02675v1](http://arxiv.org/abs/2412.02675v1)|null|
+|**2024-12-03**|**Frictional Adhesive Contact of Multiferroic Coatings Based on the Hybrid Element Method**|Yanxin Li et.al.|[2412.02558v1](http://arxiv.org/abs/2412.02558v1)|null|
+|**2024-12-03**|**Deformation Measures for Granular Materials**|Matthew R. Kuhn et.al.|[2412.02550v1](http://arxiv.org/abs/2412.02550v1)|null|
+|**2024-12-03**|**Synthetic Altermagnets**|Ali Asgharpour et.al.|[2412.02473v1](http://arxiv.org/abs/2412.02473v1)|null|
+|**2024-12-03**|**Analysis of axisymmetric necking of a circular dielectric membrane based on a one-dimensional model**|Xiang Yu et.al.|[2412.02451v1](http://arxiv.org/abs/2412.02451v1)|null|
+|**2024-12-03**|**Band structure reconstruction in the topological semimetal PrAlSi**|B. X. Gao et.al.|[2412.02203v1](http://arxiv.org/abs/2412.02203v1)|null|
+|**2024-12-03**|**Dynamical renormalization group analysis of $O(n)$ model in steady shear flow**|Harukuni Ikeda et.al.|[2412.02111v1](http://arxiv.org/abs/2412.02111v1)|null|
+|**2024-12-03**|**Migration of active particle in mixtures of rigid and flexible rings**|Meng-Yuan Li et.al.|[2412.02096v1](http://arxiv.org/abs/2412.02096v1)|null|
+|**2024-12-02**|**Cutting Soft Matter: Scaling relations controlled by toughness, friction, and wear**|Bharath Antarvedi Goda et.al.|[2412.02021v1](http://arxiv.org/abs/2412.02021v1)|null|
+|**2024-12-02**|**How friction and adhesion affect the mechanics of deep penetration in soft solids**|Stefano Fregonese et.al.|[2412.02013v1](http://arxiv.org/abs/2412.02013v1)|null|
+|**2024-12-02**|**Terahertz stimulated parametric downconversion of a magnon mode in an antiferromagnet**|Zhuquan Zhang et.al.|[2412.01989v1](http://arxiv.org/abs/2412.01989v1)|null|
+|**2024-12-02**|**Understanding process-structure-property relation for elastoplastic behavior of polymer nanocomposites with agglomeration anomalies and gradient interphase percolation**|Prajakta Prabhune et.al.|[2412.01967v1](http://arxiv.org/abs/2412.01967v1)|null|
+|**2024-12-02**|**Phase behaviour of primitive models of molecular ionic liquids in porous media: effects of cation shape, ion association and disordered confinement**|T. Hvozd et.al.|[2412.01758v1](http://arxiv.org/abs/2412.01758v1)|null|
+|**2024-12-02**|**On the strength of underscreening**|Andreas Härtel et.al.|[2412.01653v1](http://arxiv.org/abs/2412.01653v1)|null|
+|**2024-12-02**|**Discontinuous structural transitions in fluids with competing interactions**|Ana M. Montero et.al.|[2412.01629v1](http://arxiv.org/abs/2412.01629v1)|null|
+|**2024-12-03**|**Double Layer-Interlocked Crystals of Nitrogen-Rich Compounds under Zero-Pressure Conditions**|Zhen Gong et.al.|[2412.01497v2](http://arxiv.org/abs/2412.01497v2)|null|
+|**2024-12-02**|**Machine Learning Analysis of Anomalous Diffusion**|Wenjie Cai et.al.|[2412.01393v1](http://arxiv.org/abs/2412.01393v1)|null|
+|**2024-12-02**|**Charge state dynamics of keV ions in solids**|Radek Holeňák et.al.|[2412.01337v1](http://arxiv.org/abs/2412.01337v1)|null|
+|**2024-12-02**|**Physically Constrained 3D Diffusion for Inverse Design of Fiber-reinforced Polymer Composite Materials**|Pei Xu et.al.|[2412.01321v1](http://arxiv.org/abs/2412.01321v1)|null|
+|**2024-12-02**|**Self organisation of invasive breast cancer driven by the interplay of active and passive nematic dynamics**|Pablo Gottheil et.al.|[2412.01285v1](http://arxiv.org/abs/2412.01285v1)|null|
 |**2024-11-29**|**Signatures of the Correlated-Hopping Interaction in Non-Linear Transport through a Quantum Dot**|Ulrich Eckern et.al.|[2411.19850v1](http://arxiv.org/abs/2411.19850v1)|null|
 |**2024-11-29**|**Transition to strong wave turbulence in Bose-Einstein condensates**|Ying Zhu et.al.|[2411.19812v1](http://arxiv.org/abs/2411.19812v1)|null|
 |**2024-11-29**|**The 2024 Motile Active Matter Roadmap**|Gerhard Gompper et.al.|[2411.19783v1](http://arxiv.org/abs/2411.19783v1)|null|
@@ -7431,6 +7451,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Influence of light, temperature and iron oxidation state on the dissolution rate of combusted iron particles in oxalic acid**|M. Lausch et.al.|[2412.01689v1](http://arxiv.org/abs/2412.01689v1)|null|
+|**2024-12-02**|**Light-induced hysteresis of electronic polarization in antiferromagnet FePS3**|Kyung Ik Sim et.al.|[2412.01239v1](http://arxiv.org/abs/2412.01239v1)|null|
 |**2024-11-27**|**Light-induced Orbital and Spin Magnetism in $3d$, $4d$, and $5d$ Transition Metals**|Theodoros Adamantopoulos et.al.|[2411.18815v1](http://arxiv.org/abs/2411.18815v1)|null|
 |**2024-11-21**|**Light-induced renormalization of the band structure of chiral tellurium**|G. Gatti et.al.|[2411.13954v1](http://arxiv.org/abs/2411.13954v1)|null|
 |**2024-11-16**|**Light-Induced Subpicosecond Topological Phase Transition by Tuning Magnetic Order in Antiferromagnetic Dirac Semimetal EuAgAs**|Hao Liu et.al.|[2411.10756v1](http://arxiv.org/abs/2411.10756v1)|null|
@@ -7726,6 +7748,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Terahertz stimulated parametric downconversion of a magnon mode in an antiferromagnet**|Zhuquan Zhang et.al.|[2412.01989v1](http://arxiv.org/abs/2412.01989v1)|null|
 |**2024-11-04**|**Terahertz-Induced Nonlinear Response in ZnTe**|Felix Selz et.al.|[2411.02246v1](http://arxiv.org/abs/2411.02246v1)|null|
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-09-23**|**Terahertz Control of Linear and Nonlinear Magno-Phononics**|Tianchuang Luo et.al.|[2409.14669v1](http://arxiv.org/abs/2409.14669v1)|null|
@@ -7794,6 +7817,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Room-temperature van der Waals magnetoresistive memories with data writing by orbital current in the Weyl semimetal TaIrTe4**|Dong Li et.al.|[2412.02488v1](http://arxiv.org/abs/2412.02488v1)|null|
+|**2024-12-02**|**Magnetic-Transition-Induced Colossal Magnetoresistance in the Ferrimagnetic Semiconductor Mn $_3$Si$_2$Te$_6$**|Yiyue Zhang et.al.|[2412.01518v1](http://arxiv.org/abs/2412.01518v1)|null|
 |**2024-11-29**|**Observation of a non-reciprocal skyrmion Hall effect of hybrid chiral skyrmion tubes in synthetic antiferromagnetic multilayers**|Takaaki Dohi et.al.|[2411.19698v1](http://arxiv.org/abs/2411.19698v1)|null|
 |**2024-11-27**|**Chiral anomaly and internode scatterings in multifold semimetals**|Ipsita Mandal et.al.|[2411.18434v1](http://arxiv.org/abs/2411.18434v1)|null|
 |**2024-11-27**|**Stability and Dynamics of Skyrmion and Skyrmion Bags Explored under the Influence of Out-of-Plane Strain and Its Gradient**|Naim Ahmad et.al.|[2411.18332v1](http://arxiv.org/abs/2411.18332v1)|null|
@@ -8016,6 +8041,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Anomalous Hall and Nernst effect switching via staggered rotation in a kagome antiferromagnetic semimetal**|Subhadip Pradhan et.al.|[2412.02324v1](http://arxiv.org/abs/2412.02324v1)|null|
 |**2024-11-28**|**Magnetic field induced arrested state and observation of spontaneous anomalous Hall effect in TbMn $_6$Sn$_6$**|Tamali Roy et.al.|[2411.18950v1](http://arxiv.org/abs/2411.18950v1)|null|
 |**2024-11-22**|**Manipulating Momentum-Space and Real-Space Topological States in Metallic Strontium Ruthenate Ultrathin Films**|Xuan Zheng et.al.|[2411.14648v1](http://arxiv.org/abs/2411.14648v1)|null|
 |**2024-11-21**|**Suppression of Intrinsic Hall Effect through Competing Berry Curvature in Cr $_{1+δ}$Te$_2$**|Prasanta Chowdhury et.al.|[2411.14045v1](http://arxiv.org/abs/2411.14045v1)|null|
@@ -8382,6 +8408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**Proximity to quantum criticality in the Ising ferromagnet TbV $_6$Sn$_6$**|Tianxiong Han et.al.|[2412.02010v1](http://arxiv.org/abs/2412.02010v1)|null|
 |**2024-11-27**|**Structural and magnetic characterization of CeTa $_7$O$_{19}$ and YbTa$_7$O$_{19}$ with two-dimensional pseudospin-1/2 triangular lattice**|Feihao Pan et.al.|[2411.18045v1](http://arxiv.org/abs/2411.18045v1)|null|
 |**2024-11-18**|**Magnetic ground state and excitations in mixed 3 $d$-4$d$ quasi-1D spin-chain oxide Sr$_3$NiRhO$_6$**|A. Jain et.al.|[2411.12088v1](http://arxiv.org/abs/2411.12088v1)|null|
 |**2024-11-18**|**Dirac Magnon in Honeycomb Lattice Magnet NiTiO3**|Hodaka Kikuchi et.al.|[2411.11311v1](http://arxiv.org/abs/2411.11311v1)|null|
