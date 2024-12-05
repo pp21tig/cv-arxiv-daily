@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Quantifying the Critical Micelle Concentration of Nonionic and Ionic Surfactants by Self-Consistent Field Theory**|Chao Duan et.al.|[2412.03549v1](http://arxiv.org/abs/2412.03549v1)|null|
+|**2024-12-04**|**Stagnation points at grain contacts generate an elastic flow instability in 3D porous media**|Emily Y. Chen et.al.|[2412.03510v1](http://arxiv.org/abs/2412.03510v1)|null|
+|**2024-12-04**|**Consequences of the failure of equipartition for the p-V behavior of liquid water and the hydration free energy components of a small protein**|Dilipkumar N. Asthagiri et.al.|[2412.03448v1](http://arxiv.org/abs/2412.03448v1)|null|
+|**2024-12-04**|**Liquid Crystal Ground States on Cones with Anti-Twist Boundary Conditions**|Cheng Long et.al.|[2412.03377v1](http://arxiv.org/abs/2412.03377v1)|null|
+|**2024-12-04**|**Specific heat at low temperatures in quasiplanar molecular crystals: Where do glassy anomalies in minimally disordered crystals come from?**|Daria Szewczyk et.al.|[2412.03335v1](http://arxiv.org/abs/2412.03335v1)|null|
+|**2024-12-04**|**Sliding or Rolling? Characterizing single-particle contacts**|Simon Scherrer et.al.|[2412.03329v1](http://arxiv.org/abs/2412.03329v1)|null|
+|**2024-12-04**|**Fingering instability in dewetting capillary nanosuspensions**|Lingyue Liu et.al.|[2412.03306v1](http://arxiv.org/abs/2412.03306v1)|null|
+|**2024-12-04**|**The bcc coating of Lennard-Jones crystal nuclei vanishes with a change of local structure detection algorithm**|Willem Gispen et.al.|[2412.03276v1](http://arxiv.org/abs/2412.03276v1)|null|
+|**2024-12-04**|**Mapping delocalization of impurity bands across archetypal Mott-Anderson transition**|M. Parzer et.al.|[2412.03147v1](http://arxiv.org/abs/2412.03147v1)|null|
+|**2024-12-04**|**A deep neural network approach to solve the Dirac equation**|Chuanxin Wang et.al.|[2412.03090v1](http://arxiv.org/abs/2412.03090v1)|null|
+|**2024-12-04**|**Bulk-like structural, magnetic and optical properties of (111)- and (001)-NiO thin films**|S. Kaur et.al.|[2412.03047v1](http://arxiv.org/abs/2412.03047v1)|null|
+|**2024-12-04**|**String-like Rearrangements Induce Mobility in Supercooled Liquids**|Rahul N. Chacko et.al.|[2412.02923v1](http://arxiv.org/abs/2412.02923v1)|null|
+|**2024-12-03**|**Active phase separation: new phenomenology from non-equilibrium physics**|M. E. Cates et.al.|[2412.02854v1](http://arxiv.org/abs/2412.02854v1)|null|
+|**2024-12-03**|**Damping Enhancement in YIG at Millikelvin Temperatures due to GGG Substrate**|Rostyslav O. Serha et.al.|[2412.02827v1](http://arxiv.org/abs/2412.02827v1)|null|
+|**2024-12-03**|**Phase separation and rheology of segregating binary fluid under shear**|Daniya Davis et.al.|[2412.02774v1](http://arxiv.org/abs/2412.02774v1)|null|
+|**2024-12-03**|**Revisiting Lipid Nanoparticle Composition and Structure: A Critical Take on Simulation Approaches**|Marius F. W. Trollmann et.al.|[2412.02731v1](http://arxiv.org/abs/2412.02731v1)|null|
 |**2024-12-03**|**Perspective: Time irreversibility in systems observed at coarse resolution**|Cai Dieball et.al.|[2412.02675v1](http://arxiv.org/abs/2412.02675v1)|null|
 |**2024-12-03**|**Frictional Adhesive Contact of Multiferroic Coatings Based on the Hybrid Element Method**|Yanxin Li et.al.|[2412.02558v1](http://arxiv.org/abs/2412.02558v1)|null|
 |**2024-12-03**|**Deformation Measures for Granular Materials**|Matthew R. Kuhn et.al.|[2412.02550v1](http://arxiv.org/abs/2412.02550v1)|null|
@@ -7447,6 +7463,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Quantum Optical Binding of Nanoscale Particles**|Henning Rudolph et.al.|[2412.03204v1](http://arxiv.org/abs/2412.03204v1)|null|
 |**2024-12-02**|**Influence of light, temperature and iron oxidation state on the dissolution rate of combusted iron particles in oxalic acid**|M. Lausch et.al.|[2412.01689v1](http://arxiv.org/abs/2412.01689v1)|null|
 |**2024-12-02**|**Light-induced hysteresis of electronic polarization in antiferromagnet FePS3**|Kyung Ik Sim et.al.|[2412.01239v1](http://arxiv.org/abs/2412.01239v1)|null|
 |**2024-11-27**|**Light-induced Orbital and Spin Magnetism in $3d$, $4d$, and $5d$ Transition Metals**|Theodoros Adamantopoulos et.al.|[2411.18815v1](http://arxiv.org/abs/2411.18815v1)|null|
@@ -7813,6 +7830,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Magnetic properties and growth kinetics of Co/Gd bilayers with perpendicular magnetic anisotropy**|T. J. Kools et.al.|[2412.03333v1](http://arxiv.org/abs/2412.03333v1)|null|
+|**2024-12-04**|**Spin polarization driven by molecular vibrations leads to enantioselectivity in chiral molecules**|Shinji Miwa et.al.|[2412.03082v1](http://arxiv.org/abs/2412.03082v1)|null|
+|**2024-12-04**|**Nonlinear spin and orbital Edelstein effect in WTe2**|Xing-Guo Ye et.al.|[2412.02938v1](http://arxiv.org/abs/2412.02938v1)|null|
+|**2024-12-04**|**Orbital anomalous Hall effect in the few-layer Weyl semimetal TaIrTe4**|An-Qi Wang et.al.|[2412.02937v1](http://arxiv.org/abs/2412.02937v1)|null|
 |**2024-12-03**|**Room-temperature van der Waals magnetoresistive memories with data writing by orbital current in the Weyl semimetal TaIrTe4**|Dong Li et.al.|[2412.02488v1](http://arxiv.org/abs/2412.02488v1)|null|
 |**2024-12-02**|**Magnetic-Transition-Induced Colossal Magnetoresistance in the Ferrimagnetic Semiconductor Mn $_3$Si$_2$Te$_6$**|Yiyue Zhang et.al.|[2412.01518v1](http://arxiv.org/abs/2412.01518v1)|null|
 |**2024-11-29**|**Observation of a non-reciprocal skyrmion Hall effect of hybrid chiral skyrmion tubes in synthetic antiferromagnetic multilayers**|Takaaki Dohi et.al.|[2411.19698v1](http://arxiv.org/abs/2411.19698v1)|null|
@@ -8037,6 +8058,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Orbital anomalous Hall effect in the few-layer Weyl semimetal TaIrTe4**|An-Qi Wang et.al.|[2412.02937v1](http://arxiv.org/abs/2412.02937v1)|null|
 |**2024-12-03**|**Anomalous Hall and Nernst effect switching via staggered rotation in a kagome antiferromagnetic semimetal**|Subhadip Pradhan et.al.|[2412.02324v1](http://arxiv.org/abs/2412.02324v1)|null|
 |**2024-11-28**|**Magnetic field induced arrested state and observation of spontaneous anomalous Hall effect in TbMn $_6$Sn$_6$**|Tamali Roy et.al.|[2411.18950v1](http://arxiv.org/abs/2411.18950v1)|null|
 |**2024-11-22**|**Manipulating Momentum-Space and Real-Space Topological States in Metallic Strontium Ruthenate Ultrathin Films**|Xuan Zheng et.al.|[2411.14648v1](http://arxiv.org/abs/2411.14648v1)|null|
@@ -8404,6 +8426,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Absence of altermagnetic magnon band splitting in MnF $_2$**|Vincent C. Morano et.al.|[2412.03545v1](http://arxiv.org/abs/2412.03545v1)|null|
 |**2024-12-02**|**Proximity to quantum criticality in the Ising ferromagnet TbV $_6$Sn$_6$**|Tianxiong Han et.al.|[2412.02010v1](http://arxiv.org/abs/2412.02010v1)|null|
 |**2024-11-27**|**Structural and magnetic characterization of CeTa $_7$O$_{19}$ and YbTa$_7$O$_{19}$ with two-dimensional pseudospin-1/2 triangular lattice**|Feihao Pan et.al.|[2411.18045v1](http://arxiv.org/abs/2411.18045v1)|null|
 |**2024-11-18**|**Magnetic ground state and excitations in mixed 3 $d$-4$d$ quasi-1D spin-chain oxide Sr$_3$NiRhO$_6$**|A. Jain et.al.|[2411.12088v1](http://arxiv.org/abs/2411.12088v1)|null|
