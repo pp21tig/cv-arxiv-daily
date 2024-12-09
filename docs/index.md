@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Locomotion of a Scallop-Inspired Swimmer in Granular Matter**|Hongyi Xiao et.al.|[2412.05266v1](http://arxiv.org/abs/2412.05266v1)|null|
+|**2024-12-06**|**Machine-Learning Electron Dynamics with Moment Propagation Theory: Application to Optical Absorption Spectrum Computation using Real-Time TDDFT**|Nicholas J. Boyer et.al.|[2412.05260v1](http://arxiv.org/abs/2412.05260v1)|null|
+|**2024-12-06**|**Exact Model Reduction for Continuous-Time Open Quantum Dynamics**|Tommaso Grigoletto et.al.|[2412.05102v1](http://arxiv.org/abs/2412.05102v1)|null|
+|**2024-12-06**|**Spatiotemporal distribution of the glycoprotein pherophorin II reveals stochastic geometry of the growing ECM of $Volvox~carteri$**|Benjamin von der Heyde et.al.|[2412.05059v1](http://arxiv.org/abs/2412.05059v1)|null|
+|**2024-12-06**|**Fully independent response in disordered solids**|Mengjie Zu et.al.|[2412.05031v1](http://arxiv.org/abs/2412.05031v1)|null|
+|**2024-12-06**|**Asymptotic methods for confined fluids**|Emmanuel di Bernardo et.al.|[2412.05027v1](http://arxiv.org/abs/2412.05027v1)|null|
+|**2024-12-06**|**Dynamics of Aggregation Processes and Electrophysical Properties of Transformer Oil-Based Magnetic Fluids**|Alexander D. Kurilov et.al.|[2412.04911v1](http://arxiv.org/abs/2412.04911v1)|null|
+|**2024-12-06**|**Polymyxin B-Enriched Exogenous Lung Surfactant: Thermodynamics and Structure**|Nina Královič-Kanjaková et.al.|[2412.04894v1](http://arxiv.org/abs/2412.04894v1)|null|
+|**2024-12-06**|**Ornstein-Uhlenbeck information swimmers with external and internal feedback controls**|Zhanglin Hou et.al.|[2412.04723v1](http://arxiv.org/abs/2412.04723v1)|null|
+|**2024-12-05**|**Why does safety glass bubble?**|Carlos Arauz-Moreno et.al.|[2412.04617v1](http://arxiv.org/abs/2412.04617v1)|null|
+|**2024-12-05**|**The emergence of bulk structure in clusters via isotropic multi-well pair potentials**|Jennifer E. Doyle et.al.|[2412.04588v1](http://arxiv.org/abs/2412.04588v1)|null|
 |**2024-12-05**|**Interfacial and density fluctuations in a lattice model of motility-induced phase separation**|Liheng Yao et.al.|[2412.04450v1](http://arxiv.org/abs/2412.04450v1)|null|
 |**2024-12-05**|**Interatomic Coulombic decay in lithium-doped large helium nanodroplets induced by photoelectron impact excitation**|L. Ben Ltaief et.al.|[2412.04371v1](http://arxiv.org/abs/2412.04371v1)|null|
 |**2024-12-05**|**Anomalous spectrum in a non-Hermitian quasiperiodic chain**|Soumya Ranjan Padhi et.al.|[2412.04344v1](http://arxiv.org/abs/2412.04344v1)|null|
@@ -7479,6 +7490,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform**|Alexey Vylegzhanin et.al.|[2412.04809v1](http://arxiv.org/abs/2412.04809v1)|null|
 |**2024-12-04**|**Quantum Optical Binding of Nanoscale Particles**|Henning Rudolph et.al.|[2412.03204v1](http://arxiv.org/abs/2412.03204v1)|null|
 |**2024-12-02**|**Influence of light, temperature and iron oxidation state on the dissolution rate of combusted iron particles in oxalic acid**|M. Lausch et.al.|[2412.01689v1](http://arxiv.org/abs/2412.01689v1)|null|
 |**2024-12-02**|**Light-induced hysteresis of electronic polarization in antiferromagnet FePS3**|Kyung Ik Sim et.al.|[2412.01239v1](http://arxiv.org/abs/2412.01239v1)|null|
@@ -8444,6 +8456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-05**|**Spin dynamics of an easy-plane Dirac spin liquid in a frustrated XY model: Application to honeycomb cobaltates**|Anjishnu Bose et.al.|[2412.04544v1](http://arxiv.org/abs/2412.04544v1)|null|
 |**2024-12-04**|**Absence of altermagnetic magnon band splitting in MnF $_2$**|Vincent C. Morano et.al.|[2412.03545v1](http://arxiv.org/abs/2412.03545v1)|null|
 |**2024-12-02**|**Proximity to quantum criticality in the Ising ferromagnet TbV $_6$Sn$_6$**|Tianxiong Han et.al.|[2412.02010v1](http://arxiv.org/abs/2412.02010v1)|null|
 |**2024-11-27**|**Structural and magnetic characterization of CeTa $_7$O$_{19}$ and YbTa$_7$O$_{19}$ with two-dimensional pseudospin-1/2 triangular lattice**|Feihao Pan et.al.|[2411.18045v1](http://arxiv.org/abs/2411.18045v1)|null|
