@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Light-induced ultrafast glide-mirror symmetry breaking in black phosphorus**|Changhua Bao et.al.|[2412.06752v1](http://arxiv.org/abs/2412.06752v1)|null|
+|**2024-12-09**|**Effect of simple shear on knotted polymer coils and globules**|Andrey Milchev et.al.|[2412.06577v1](http://arxiv.org/abs/2412.06577v1)|null|
+|**2024-12-09**|**Dynamics of Non-superconducting Pairs in YBa2Cu3O7-δ Below Tc**|Jinzhong Zhang et.al.|[2412.06569v1](http://arxiv.org/abs/2412.06569v1)|null|
+|**2024-12-09**|**Enhanced quantum sensitivity and coherence of symmetric magnetic clusters**|Lorenzo Amato et.al.|[2412.06554v1](http://arxiv.org/abs/2412.06554v1)|null|
+|**2024-12-09**|**Instabilities govern the low-frequency vibrational spectrum of amorphous solids**|Surajit Chakraborty et.al.|[2412.06475v1](http://arxiv.org/abs/2412.06475v1)|null|
+|**2024-12-09**|**Commensurate to Incommensurate Transition of Three Dimensional Charge Density Waves**|Hao Wang et.al.|[2412.06459v1](http://arxiv.org/abs/2412.06459v1)|null|
+|**2024-12-09**|**Anisotropy of acoustic properties of magnetized magnetic fluids with ellipsoidal aggregates**|Alexander D. Kurilov et.al.|[2412.06415v1](http://arxiv.org/abs/2412.06415v1)|null|
+|**2024-12-09**|**Molecular adsorption induces normal stresses at frictional interfaces of hydrogels**|Lola Ciapa et.al.|[2412.06363v1](http://arxiv.org/abs/2412.06363v1)|null|
+|**2024-12-09**|**Experimental observation of repulsively bound magnons**|Zhe Wang et.al.|[2412.06350v1](http://arxiv.org/abs/2412.06350v1)|null|
+|**2024-12-09**|**Cell aspect ratio important for bacterial rheotaxis**|Jiachen Zhong et.al.|[2412.06267v1](http://arxiv.org/abs/2412.06267v1)|null|
+|**2024-12-08**|**Beating of eukaryotic flagella via Hopf bifurcation of a system of stalled molecular motors**|Irene Anello et.al.|[2412.06067v1](http://arxiv.org/abs/2412.06067v1)|null|
+|**2024-12-08**|**Morpho-plastic cellular metamaterials**|Victor Charpentier et.al.|[2412.06022v1](http://arxiv.org/abs/2412.06022v1)|null|
+|**2024-12-08**|**Nonlocal coherent states in an infinite array of boson sites**|A. Sowa et.al.|[2412.05991v1](http://arxiv.org/abs/2412.05991v1)|null|
+|**2024-12-08**|**Theory of Microphase Separation in Elastomers**|Manu Mannattil et.al.|[2412.05910v1](http://arxiv.org/abs/2412.05910v1)|**[link](https://github.com/manu-mannattil/elastomer)**|
+|**2024-12-08**|**Extending Granular Resistive Force Theory to Cohesive Powder-scale Media**|Deniz Kerimoglu et.al.|[2412.05801v1](http://arxiv.org/abs/2412.05801v1)|null|
+|**2024-12-08**|**Lower and upper bounds for configurations of points on a sphere**|Paolo Amore et.al.|[2412.05800v1](http://arxiv.org/abs/2412.05800v1)|null|
+|**2024-12-08**|**The effects of network architecture on the photomechanical performance of azo-acrylate liquid crystal elastomers**|Anastasiia Svanidze et.al.|[2412.05791v1](http://arxiv.org/abs/2412.05791v1)|null|
+|**2024-12-07**|**Elasto-frictional reduced model of a cyclically sheared container filled with particles**|A. Faulconnier et.al.|[2412.05716v1](http://arxiv.org/abs/2412.05716v1)|null|
+|**2024-12-07**|**The role of substrate mechanics in osmotic biofilm spreading**|Anthony Pietz et.al.|[2412.05713v1](http://arxiv.org/abs/2412.05713v1)|null|
+|**2024-12-07**|**Plasmonic Electro-Optic Modulators based on Epsilon-Near-Zero Materials: Comparing the Classical Drift-Diffusion and Schrödinger-Poisson Coupling Models**|Masoud Shabaninezhad et.al.|[2412.05690v1](http://arxiv.org/abs/2412.05690v1)|null|
 |**2024-12-06**|**Locomotion of a Scallop-Inspired Swimmer in Granular Matter**|Hongyi Xiao et.al.|[2412.05266v1](http://arxiv.org/abs/2412.05266v1)|null|
 |**2024-12-06**|**Machine-Learning Electron Dynamics with Moment Propagation Theory: Application to Optical Absorption Spectrum Computation using Real-Time TDDFT**|Nicholas J. Boyer et.al.|[2412.05260v1](http://arxiv.org/abs/2412.05260v1)|null|
 |**2024-12-06**|**Exact Model Reduction for Continuous-Time Open Quantum Dynamics**|Tommaso Grigoletto et.al.|[2412.05102v1](http://arxiv.org/abs/2412.05102v1)|null|
@@ -7490,7 +7510,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform**|Alexey Vylegzhanin et.al.|[2412.04809v1](http://arxiv.org/abs/2412.04809v1)|null|
+|**2024-12-09**|**Light-induced ultrafast glide-mirror symmetry breaking in black phosphorus**|Changhua Bao et.al.|[2412.06752v1](http://arxiv.org/abs/2412.06752v1)|null|
+|**2024-12-09**|**Manipulating the symmetry of photon-dressed electronic states**|Changhua Bao et.al.|[2412.06751v1](http://arxiv.org/abs/2412.06751v1)|null|
+|**2024-12-08**|**Electronic Light Scattering Drives Optical Heating of Nonlocal Media**|Sergey Kharintsev et.al.|[2412.05922v1](http://arxiv.org/abs/2412.05922v1)|null|
+|**2024-12-06**|**Universal approach to light driven "superconductivity" via preformed pairs**|Ke Wang et.al.|[2412.05420v1](http://arxiv.org/abs/2412.05420v1)|null|
+|**2024-12-09**|**Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform**|Alexey Vylegzhanin et.al.|[2412.04809v2](http://arxiv.org/abs/2412.04809v2)|null|
 |**2024-12-04**|**Quantum Optical Binding of Nanoscale Particles**|Henning Rudolph et.al.|[2412.03204v1](http://arxiv.org/abs/2412.03204v1)|null|
 |**2024-12-02**|**Influence of light, temperature and iron oxidation state on the dissolution rate of combusted iron particles in oxalic acid**|M. Lausch et.al.|[2412.01689v1](http://arxiv.org/abs/2412.01689v1)|null|
 |**2024-12-02**|**Light-induced hysteresis of electronic polarization in antiferromagnet FePS3**|Kyung Ik Sim et.al.|[2412.01239v1](http://arxiv.org/abs/2412.01239v1)|null|
@@ -7789,6 +7813,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-07**|**Ultrafast lattice and electron dynamics induced in a PbSe crystal by an intense terahertz pulse**|A. A. Melnikov et.al.|[2412.05704v1](http://arxiv.org/abs/2412.05704v1)|null|
 |**2024-12-02**|**Terahertz stimulated parametric downconversion of a magnon mode in an antiferromagnet**|Zhuquan Zhang et.al.|[2412.01989v1](http://arxiv.org/abs/2412.01989v1)|null|
 |**2024-11-04**|**Terahertz-Induced Nonlinear Response in ZnTe**|Felix Selz et.al.|[2411.02246v1](http://arxiv.org/abs/2411.02246v1)|null|
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
@@ -8086,6 +8111,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Magnetic Switching in Monolayer 2D Diluted Magnetic Semiconductors via Spin-to- Spin Conversion**|Siwei Chen et.al.|[2412.06650v1](http://arxiv.org/abs/2412.06650v1)|null|
+|**2024-12-09**|**On the angular dependence of anomalous Hall current**|Lulu Li et.al.|[2412.06630v1](http://arxiv.org/abs/2412.06630v1)|null|
+|**2024-12-09**|**Real-space study of zero-field correlation in tetralayer rhombohedral graphene**|Yufeng Liu et.al.|[2412.06476v1](http://arxiv.org/abs/2412.06476v1)|null|
+|**2024-12-07**|**Strain-engineering spin-valley locking effect in altermagnetic monolayer with multipiezo properties**|Yuqian Jiang et.al.|[2412.05597v1](http://arxiv.org/abs/2412.05597v1)|null|
+|**2024-12-07**|**Anomalous and nonlinear Hall effects in two-dimensional CrPS $_{4}$**|Lulu Xiong et.al.|[2412.05511v1](http://arxiv.org/abs/2412.05511v1)|null|
+|**2024-12-06**|**A quantized anomalous Hall effect above 4.2 K in stacked topological insulator/magnet bilayers**|Rakshit Jain et.al.|[2412.05380v1](http://arxiv.org/abs/2412.05380v1)|null|
+|**2024-12-06**|**Newly discovered magnetic phase: A brief review on Altermagnets**|R. Tamang et.al.|[2412.05377v1](http://arxiv.org/abs/2412.05377v1)|null|
 |**2024-12-05**|**Transport Signatures of Radial Rashba Spin-Orbit Coupling at Ferromagnet/Superconductor Interfaces**|Andreas Costa et.al.|[2412.03994v1](http://arxiv.org/abs/2412.03994v1)|null|
 |**2024-12-05**|**Confined Magnetization at the Sublattice-Matched Ruthenium Oxide Heterointerface**|Yiyan Fan et.al.|[2412.03830v1](http://arxiv.org/abs/2412.03830v1)|null|
 |**2024-12-04**|**Orbital anomalous Hall effect in the few-layer Weyl semimetal TaIrTe4**|An-Qi Wang et.al.|[2412.02937v1](http://arxiv.org/abs/2412.02937v1)|null|
