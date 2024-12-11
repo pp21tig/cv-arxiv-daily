@@ -1098,6 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Effects of diameter polydispersity and small-range interactions on the structure of biocompatible colloidal nanoparticles**|Aimê Gomes da Mata Kanzaki et.al.|[2412.07719v1](http://arxiv.org/abs/2412.07719v1)|null|
+|**2024-12-10**|**Entropy production of active Brownian particles going from liquid to hexatic and solid phases**|Massimiliano Semeraro et.al.|[2412.07669v1](http://arxiv.org/abs/2412.07669v1)|null|
+|**2024-12-10**|**Quasi-universal behaviour of shear relaxation times in simple fluids**|S. A. Khrapak et.al.|[2412.07663v1](http://arxiv.org/abs/2412.07663v1)|null|
+|**2024-12-10**|**Arbitrary Lagrangian--Eulerian finite element method for lipid membranes**|Amaresh Sahu et.al.|[2412.07596v1](http://arxiv.org/abs/2412.07596v1)|null|
+|**2024-12-10**|**Deterministic Storage of Quantum Information in the Genetic Code**|Roberto Rivelino et.al.|[2412.07504v1](http://arxiv.org/abs/2412.07504v1)|null|
+|**2024-12-10**|**Bacterial liquid-bridge evaporation and deposition**|Kush Kumar Dewangan et.al.|[2412.07423v1](http://arxiv.org/abs/2412.07423v1)|null|
+|**2024-12-10**|**Controlling discrete time crystals via single-site operations in zero-field diamond quantum simulators**|Naoya Egawa et.al.|[2412.07400v1](http://arxiv.org/abs/2412.07400v1)|null|
+|**2024-12-10**|**Magnetic colloidal single particles and \changes{dumbbells} on a tilted washboard moire pattern in a precessing external field**|Farzaneh Farrokhzad et.al.|[2412.07381v1](http://arxiv.org/abs/2412.07381v1)|null|
+|**2024-12-10**|**Controlled Locomotion of a Minimal Soft Structure by Stick-Slip Nonlinearity**|Thomas Barois et.al.|[2412.07343v1](http://arxiv.org/abs/2412.07343v1)|null|
+|**2024-12-10**|**Low-temperature series expansion of square lattice Ising model: A study based on Fisher zeros**|De-Zhang Li et.al.|[2412.07328v1](http://arxiv.org/abs/2412.07328v1)|null|
+|**2024-12-10**|**Bidirectional Mamba state-space model for anomalous diffusion**|Maxime Lavaud et.al.|[2412.07299v1](http://arxiv.org/abs/2412.07299v1)|null|
+|**2024-12-10**|**Relativistic Mott transition in strongly correlated artificial graphene**|Liguo Ma et.al.|[2412.07150v1](http://arxiv.org/abs/2412.07150v1)|null|
+|**2024-12-09**|**Adhesion study at the interface of PDMS-elastomer and borosilicate glass-slide**|Susheel Kumar et.al.|[2412.06997v1](http://arxiv.org/abs/2412.06997v1)|null|
+|**2024-12-09**|**Quantum phases and transitions of bosons on a comb lattice**|Leo Radzihovsky et.al.|[2412.06915v1](http://arxiv.org/abs/2412.06915v1)|null|
 |**2024-12-09**|**Light-induced ultrafast glide-mirror symmetry breaking in black phosphorus**|Changhua Bao et.al.|[2412.06752v1](http://arxiv.org/abs/2412.06752v1)|null|
 |**2024-12-09**|**Effect of simple shear on knotted polymer coils and globules**|Andrey Milchev et.al.|[2412.06577v1](http://arxiv.org/abs/2412.06577v1)|null|
 |**2024-12-09**|**Dynamics of Non-superconducting Pairs in YBa2Cu3O7-δ Below Tc**|Jinzhong Zhang et.al.|[2412.06569v1](http://arxiv.org/abs/2412.06569v1)|null|
@@ -7506,13 +7520,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Proof of Light-Induced Electron Pairing in a Bilayer Structure**|Qiaochu Wan et.al.|[2412.06941v1](http://arxiv.org/abs/2412.06941v1)|null|
 |**2024-12-09**|**Light-induced ultrafast glide-mirror symmetry breaking in black phosphorus**|Changhua Bao et.al.|[2412.06752v1](http://arxiv.org/abs/2412.06752v1)|null|
 |**2024-12-09**|**Manipulating the symmetry of photon-dressed electronic states**|Changhua Bao et.al.|[2412.06751v1](http://arxiv.org/abs/2412.06751v1)|null|
 |**2024-12-08**|**Electronic Light Scattering Drives Optical Heating of Nonlocal Media**|Sergey Kharintsev et.al.|[2412.05922v1](http://arxiv.org/abs/2412.05922v1)|null|
 |**2024-12-06**|**Universal approach to light driven "superconductivity" via preformed pairs**|Ke Wang et.al.|[2412.05420v1](http://arxiv.org/abs/2412.05420v1)|null|
-|**2024-12-09**|**Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform**|Alexey Vylegzhanin et.al.|[2412.04809v2](http://arxiv.org/abs/2412.04809v2)|null|
+|**2024-12-10**|**Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform**|Alexey Vylegzhanin et.al.|[2412.04809v3](http://arxiv.org/abs/2412.04809v3)|null|
 |**2024-12-04**|**Quantum Optical Binding of Nanoscale Particles**|Henning Rudolph et.al.|[2412.03204v1](http://arxiv.org/abs/2412.03204v1)|null|
-|**2024-12-02**|**Influence of light, temperature and iron oxidation state on the dissolution rate of combusted iron particles in oxalic acid**|M. Lausch et.al.|[2412.01689v1](http://arxiv.org/abs/2412.01689v1)|null|
+|**2024-12-10**|**Influence of light, temperature and iron oxidation state on the dissolution rate of combusted iron particles in oxalic acid**|M. Lausch et.al.|[2412.01689v2](http://arxiv.org/abs/2412.01689v2)|null|
 |**2024-12-02**|**Light-induced hysteresis of electronic polarization in antiferromagnet FePS3**|Kyung Ik Sim et.al.|[2412.01239v1](http://arxiv.org/abs/2412.01239v1)|null|
 |**2024-11-27**|**Light-induced Orbital and Spin Magnetism in $3d$, $4d$, and $5d$ Transition Metals**|Theodoros Adamantopoulos et.al.|[2411.18815v1](http://arxiv.org/abs/2411.18815v1)|null|
 |**2024-11-21**|**Light-induced renormalization of the band structure of chiral tellurium**|G. Gatti et.al.|[2411.13954v1](http://arxiv.org/abs/2411.13954v1)|null|
@@ -8107,6 +8122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Absence of ferromagnetic instability and weak spin-orbit coupling effect in AV $_3$Sb$_5$ (A = Cs, Rb, and K)**|Chongze Wang et.al.|[2412.07190v1](http://arxiv.org/abs/2412.07190v1)|null|
 |**2024-12-09**|**Magnetic Switching in Monolayer 2D Diluted Magnetic Semiconductors via Spin-to- Spin Conversion**|Siwei Chen et.al.|[2412.06650v1](http://arxiv.org/abs/2412.06650v1)|null|
 |**2024-12-09**|**On the angular dependence of anomalous Hall current**|Lulu Li et.al.|[2412.06630v1](http://arxiv.org/abs/2412.06630v1)|null|
 |**2024-12-09**|**Real-space study of zero-field correlation in tetralayer rhombohedral graphene**|Yufeng Liu et.al.|[2412.06476v1](http://arxiv.org/abs/2412.06476v1)|null|
