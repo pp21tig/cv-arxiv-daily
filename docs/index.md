@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Smart Holes: Analogue black holes with the right temperature and entropy**|Jiayue Yang et.al.|[2412.08517v1](http://arxiv.org/abs/2412.08517v1)|null|
+|**2024-12-11**|**Polymer Composites Informatics for Flammability, Thermal, Mechanical and Electrical Property Predictions**|Huan Tran et.al.|[2412.08407v1](http://arxiv.org/abs/2412.08407v1)|null|
+|**2024-12-11**|**Nonclassical heat flow in passive chiral solids is third rank, not odd**|Roderic Lakes et.al.|[2412.08309v1](http://arxiv.org/abs/2412.08309v1)|null|
+|**2024-12-11**|**Quantum theory for nonlinear optical effects in the ultra-strong light-matter coupling regime**|Thomas Krieguer et.al.|[2412.08297v1](http://arxiv.org/abs/2412.08297v1)|null|
+|**2024-12-11**|**Viscoelastic lubrication of a submerged cylinder sliding down an incline**|Alexandros T. Oratis et.al.|[2412.08242v1](http://arxiv.org/abs/2412.08242v1)|null|
+|**2024-12-11**|**Role of quantum geometric tensor on wavepacket dynamics in two-dimensional non-Hermitian systems**|Y. -M. Robin Hu et.al.|[2412.08141v1](http://arxiv.org/abs/2412.08141v1)|null|
+|**2024-12-11**|**Bond exchange reactions as a paradigm for mitigating residual stress in polymer matrix fiber composites**|Zhongtong Wang et.al.|[2412.08033v1](http://arxiv.org/abs/2412.08033v1)|null|
+|**2024-12-10**|**Machine Learning-Informed Scattering Correlation Analysis of Sheared Colloids**|Lijie Ding et.al.|[2412.07926v1](http://arxiv.org/abs/2412.07926v1)|null|
+|**2024-12-10**|**Spin-Orbital-Lattice Coupling and the Phonon Zeeman Effect in the Dirac Honeycomb Magnet CoTiO $_3$**|Thuc T. Mai et.al.|[2412.07913v1](http://arxiv.org/abs/2412.07913v1)|null|
+|**2024-12-10**|**Revisiting the Ratchet Principle: When Hidden Symmetries Prevent Steady Currents**|Jessica Metzger et.al.|[2412.07851v1](http://arxiv.org/abs/2412.07851v1)|null|
+|**2024-12-10**|**Symmetry verification for noisy quantum simulations of non-Abelian lattice gauge theories**|Edoardo Ballini et.al.|[2412.07844v1](http://arxiv.org/abs/2412.07844v1)|null|
 |**2024-12-10**|**Effects of diameter polydispersity and small-range interactions on the structure of biocompatible colloidal nanoparticles**|Aimê Gomes da Mata Kanzaki et.al.|[2412.07719v1](http://arxiv.org/abs/2412.07719v1)|null|
 |**2024-12-10**|**Entropy production of active Brownian particles going from liquid to hexatic and solid phases**|Massimiliano Semeraro et.al.|[2412.07669v1](http://arxiv.org/abs/2412.07669v1)|null|
 |**2024-12-10**|**Quasi-universal behaviour of shear relaxation times in simple fluids**|S. A. Khrapak et.al.|[2412.07663v1](http://arxiv.org/abs/2412.07663v1)|null|
@@ -8126,6 +8137,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Intrinsic anomalous Hall effect under anisotropic magnetic dipole versus conventional magnetic dipole**|Satoru Ohgata et.al.|[2412.08078v1](http://arxiv.org/abs/2412.08078v1)|null|
+|**2024-12-11**|**Current density in the anomalous Hall effect regime under weak scattering**|Ning Dai et.al.|[2412.08047v1](http://arxiv.org/abs/2412.08047v1)|null|
 |**2024-12-10**|**Absence of ferromagnetic instability and weak spin-orbit coupling effect in AV $_3$Sb$_5$ (A = Cs, Rb, and K)**|Chongze Wang et.al.|[2412.07190v1](http://arxiv.org/abs/2412.07190v1)|null|
 |**2024-12-09**|**Magnetic Switching in Monolayer 2D Diluted Magnetic Semiconductors via Spin-to- Spin Conversion**|Siwei Chen et.al.|[2412.06650v1](http://arxiv.org/abs/2412.06650v1)|null|
 |**2024-12-09**|**On the angular dependence of anomalous Hall current**|Lulu Li et.al.|[2412.06630v1](http://arxiv.org/abs/2412.06630v1)|null|
