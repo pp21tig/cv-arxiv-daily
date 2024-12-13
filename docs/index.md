@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Periodic splay Fréedericksz transitions in a ferroelectric nematic**|Bijaya Basnet et.al.|[2412.09553v1](http://arxiv.org/abs/2412.09553v1)|null|
+|**2024-12-12**|**Elastic Modulus Versus Cell Packing Density in MDCK Epithelial Monolayers**|Steven J. Chisolm et.al.|[2412.09443v1](http://arxiv.org/abs/2412.09443v1)|null|
+|**2024-12-12**|**Synchrotron X-Ray Multi-Projection Imaging for Multiphase Flow**|Tomas Rosén et.al.|[2412.09368v1](http://arxiv.org/abs/2412.09368v1)|null|
+|**2024-12-12**|**Splitting of nonequilibrium phase transitions in driven Ising models**|Gustavo A. L. Forão et.al.|[2412.09343v1](http://arxiv.org/abs/2412.09343v1)|null|
+|**2024-12-12**|**Impact of Lipid Structural Variations on Bilayer Properties: A Coarse-Grained Molecular Dynamics Study**|Sonam Phuntsho et.al.|[2412.09312v1](http://arxiv.org/abs/2412.09312v1)|null|
+|**2024-12-12**|**Nonlinear Hall Effect in Two-dimensional Materials**|Shuo Wang et.al.|[2412.09298v1](http://arxiv.org/abs/2412.09298v1)|null|
+|**2024-12-12**|**A resetting particle embedded in a viscoelastic bath**|Arup Biswas et.al.|[2412.09260v1](http://arxiv.org/abs/2412.09260v1)|null|
+|**2024-12-12**|**Extended XY model for spinor polariton simulators**|A. Kudlis et.al.|[2412.09245v1](http://arxiv.org/abs/2412.09245v1)|null|
+|**2024-12-12**|**Effect of thermal fluctuations on the average shape of a graphene nanosheet suspended in a shear flow**|Simon Gravelle et.al.|[2412.09139v1](http://arxiv.org/abs/2412.09139v1)|null|
+|**2024-12-12**|**Towards kinetic equations of open systems of active soft matter**|V. I. Gerasimenko et.al.|[2412.09137v1](http://arxiv.org/abs/2412.09137v1)|null|
+|**2024-12-12**|**Particle transport in a correlated ratchet**|Saloni Saxena et.al.|[2412.09103v1](http://arxiv.org/abs/2412.09103v1)|null|
+|**2024-12-12**|**Defect Dynamics in Cholesterics: Beyond the Peach-Koehler Force**|Joseph Pollard et.al.|[2412.08866v1](http://arxiv.org/abs/2412.08866v1)|null|
+|**2024-12-12**|**Influence of Magnetic Field on Surface Andreev Bound States in Superfluid $^3$ He-B Studied by Mobility of Electron Bubble**|Hiroki Ikegami et.al.|[2412.08839v1](http://arxiv.org/abs/2412.08839v1)|null|
+|**2024-12-11**|**New Technologies for Axion and Dark Photon Searches**|Asher Berlin et.al.|[2412.08704v1](http://arxiv.org/abs/2412.08704v1)|null|
 |**2024-12-11**|**Smart Holes: Analogue black holes with the right temperature and entropy**|Jiayue Yang et.al.|[2412.08517v1](http://arxiv.org/abs/2412.08517v1)|null|
 |**2024-12-11**|**Polymer Composites Informatics for Flammability, Thermal, Mechanical and Electrical Property Predictions**|Huan Tran et.al.|[2412.08407v1](http://arxiv.org/abs/2412.08407v1)|null|
 |**2024-12-11**|**Nonclassical heat flow in passive chiral solids is third rank, not odd**|Roderic Lakes et.al.|[2412.08309v1](http://arxiv.org/abs/2412.08309v1)|null|
@@ -8137,6 +8151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Quasi-symmetry Constrained Spin Ferromagnetism in Altermagnets**|Mercè Roig et.al.|[2412.09338v1](http://arxiv.org/abs/2412.09338v1)|null|
 |**2024-12-11**|**Intrinsic anomalous Hall effect under anisotropic magnetic dipole versus conventional magnetic dipole**|Satoru Ohgata et.al.|[2412.08078v1](http://arxiv.org/abs/2412.08078v1)|null|
 |**2024-12-11**|**Current density in the anomalous Hall effect regime under weak scattering**|Ning Dai et.al.|[2412.08047v1](http://arxiv.org/abs/2412.08047v1)|null|
 |**2024-12-10**|**Absence of ferromagnetic instability and weak spin-orbit coupling effect in AV $_3$Sb$_5$ (A = Cs, Rb, and K)**|Chongze Wang et.al.|[2412.07190v1](http://arxiv.org/abs/2412.07190v1)|null|
