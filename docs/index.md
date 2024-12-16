@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Extraordinary resonant transmission in two-terminal fermionic transport**|P. S. Muraev et.al.|[2412.10250v1](http://arxiv.org/abs/2412.10250v1)|null|
+|**2024-12-13**|**Instabilities of ring-rivulets: Impact of substrate wettability**|Stefan Zitz et.al.|[2412.10230v1](http://arxiv.org/abs/2412.10230v1)|**[link](https://github.com/zitzeronion/swalbe.jl)**|
+|**2024-12-13**|**Impact of Mixing on Flavor and Aroma Development in Fermented Foods**|Azarmidokht Gholamipour-Shirazi et.al.|[2412.10190v1](http://arxiv.org/abs/2412.10190v1)|null|
+|**2024-12-13**|**Phase behavior of hard sheared cube family**|Kaustav Chakraborty et.al.|[2412.09963v1](http://arxiv.org/abs/2412.09963v1)|null|
+|**2024-12-13**|**Unsupervised classification of disordered phases in an oppositely charged colloidal system**|Yoshitaka Miyahara et.al.|[2412.09949v1](http://arxiv.org/abs/2412.09949v1)|null|
+|**2024-12-13**|**Piercing soft solids: A mechanical theory for needle insertion**|Stefano Fregonese et.al.|[2412.09809v1](http://arxiv.org/abs/2412.09809v1)|null|
+|**2024-12-13**|**Universality of extreme events in turbulent flows**|Dhawal Buaria et.al.|[2412.09801v1](http://arxiv.org/abs/2412.09801v1)|null|
 |**2024-12-12**|**Periodic splay Fréedericksz transitions in a ferroelectric nematic**|Bijaya Basnet et.al.|[2412.09553v1](http://arxiv.org/abs/2412.09553v1)|null|
 |**2024-12-12**|**Elastic Modulus Versus Cell Packing Density in MDCK Epithelial Monolayers**|Steven J. Chisolm et.al.|[2412.09443v1](http://arxiv.org/abs/2412.09443v1)|null|
 |**2024-12-12**|**Synchrotron X-Ray Multi-Projection Imaging for Multiphase Flow**|Tomas Rosén et.al.|[2412.09368v1](http://arxiv.org/abs/2412.09368v1)|null|
@@ -7859,6 +7866,7 @@ layout: default
 |**2024-10-27**|**Manipulating ferroelectric topological polar structures with twisted light**|Nimish Nazirkar et.al.|[2410.20577v1](http://arxiv.org/abs/2410.20577v1)|null|
 |**2024-09-23**|**Terahertz Control of Linear and Nonlinear Magno-Phononics**|Tianchuang Luo et.al.|[2409.14669v1](http://arxiv.org/abs/2409.14669v1)|null|
 |**2024-08-26**|**One-dimensional Photonic Crystal Structure Enhanced External-Magnetic-Field-Free Spintronic Terahertz High-Field Emitter**|Zehao Yang et.al.|[2408.14054v1](http://arxiv.org/abs/2408.14054v1)|null|
+|**2024-12-13**|**Ultrafast Spin Rotation of Relativistic Lepton Beams via Terahertz Wave in a Dielectric-Lined Waveguide**|Zhong-Peng Li et.al.|[2405.07709v2](http://arxiv.org/abs/2405.07709v2)|null|
 |**2024-05-13**|**Multiple Bound States in the Continuum: Towards Intense Terahertz Matter Interaction**|Quanlong Yang et.al.|[2405.07426v1](http://arxiv.org/abs/2405.07426v1)|null|
 |**2024-04-18**|**Directional intense terahertz radiation driven by abruptly autofocusing lasers in air**|Xiao-Ran Zheng et.al.|[2404.11846v1](http://arxiv.org/abs/2404.11846v1)|null|
 |**2024-03-19**|**Ultrafast pseudomagnetic fields from electron-nuclear quantum geometry**|Lennart Klebl et.al.|[2403.13070v1](http://arxiv.org/abs/2403.13070v1)|null|
