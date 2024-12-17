@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Coalescence of viscoelastic drops on a solid substrate**|Peyman Rostami et.al.|[2412.12058v1](http://arxiv.org/abs/2412.12058v1)|null|
+|**2024-12-16**|**Uniform response theory of non-Hermitian systems: Non-Hermitian physics beyond the exceptional point**|Subhajyoti Bid et.al.|[2412.11932v1](http://arxiv.org/abs/2412.11932v1)|null|
+|**2024-12-16**|**Directional Swimming of B. Subtilis Bacteria Near a Switchable Polar Surface**|Mahesha Kodithuwakku Arachchige et.al.|[2412.11877v1](http://arxiv.org/abs/2412.11877v1)|null|
+|**2024-12-16**|**Reentrant phase behavior in binary topological flocks with nonreciprocal alignment**|Tian Tang et.al.|[2412.11871v1](http://arxiv.org/abs/2412.11871v1)|null|
+|**2024-12-16**|**How glass breaks -- Damage explains the difference between surface and fracture energies in amorphous silica**|Gergely Molnár et.al.|[2412.11817v1](http://arxiv.org/abs/2412.11817v1)|null|
+|**2024-12-16**|**Time-dependent Neural Galerkin Method for Quantum Dynamics**|Alessandro Sinibaldi et.al.|[2412.11778v1](http://arxiv.org/abs/2412.11778v1)|null|
+|**2024-12-16**|**Differentiating Confined from Adsorbed Water in Single-Walled Carbon Nanotubes via Electronic Transport**|Said Pashayev et.al.|[2412.11703v1](http://arxiv.org/abs/2412.11703v1)|null|
+|**2024-12-16**|**CrystalFlow: A Flow-Based Generative Model for Crystalline Materials**|Xiaoshan Luo et.al.|[2412.11693v1](http://arxiv.org/abs/2412.11693v1)|null|
+|**2024-12-16**|**Self-regulated photoresponsive heterogeneous PNIPAM hydrogel actuators**|Jingxuan Li et.al.|[2412.11688v1](http://arxiv.org/abs/2412.11688v1)|null|
+|**2024-12-16**|**Angle-Tuned Gross-Neveu Quantum Criticality in Twisted Bilayer Graphene: A Quantum Monte Carlo Study**|Cheng Huang et.al.|[2412.11382v1](http://arxiv.org/abs/2412.11382v1)|null|
+|**2024-12-16**|**Structure and Dynamic Evolution of Interfaces between Polymer Solutions and Gels and Polymer Interdiffusion: A Molecular Dynamics Study**|Jude Ann Vishnu et.al.|[2412.11346v1](http://arxiv.org/abs/2412.11346v1)|null|
+|**2024-12-15**|**Simple Method for the Direct Measurement of Cohesive Forces Between Microscopic Particles**|Johnathan Hoggarth et.al.|[2412.11311v1](http://arxiv.org/abs/2412.11311v1)|null|
+|**2024-12-15**|**Revisiting altermagnetism in RuO2: a study of laser-pulse induced charge dynamics by time-domain terahertz spectroscopy**|David T. Plouff et.al.|[2412.11240v1](http://arxiv.org/abs/2412.11240v1)|null|
+|**2024-12-15**|**Analog model for Euclidean wormholes: Bose-Einstein condensate with dirty surfaces**|Isaque P. de Freitas et.al.|[2412.11204v1](http://arxiv.org/abs/2412.11204v1)|null|
+|**2024-12-15**|**Competing Orbital Magnetism and Superconductivity in electrostatically defined Josephson Junctions of Alternating Twisted Trilayer Graphene**|Vishal Bhardwaj et.al.|[2412.11135v1](http://arxiv.org/abs/2412.11135v1)|null|
+|**2024-12-15**|**Two characteristic constants of the supercooled liquid transitions of amorphous substances**|Wenlong Jiang et.al.|[2412.11001v1](http://arxiv.org/abs/2412.11001v1)|null|
+|**2024-12-14**|**Evidence for incommensurate antiferromagnetism in nonsymmorphic UPd $_{0.65}$Bi$_2$**|Sanu Mishra et.al.|[2412.10998v1](http://arxiv.org/abs/2412.10998v1)|null|
+|**2024-12-14**|**Flat bands of TaS $_2$ under superlattice potential modulation: A Wannier tight-binding model study**|Thi-Nga Do et.al.|[2412.10994v1](http://arxiv.org/abs/2412.10994v1)|null|
+|**2024-12-14**|**Thermofluidic non-equilibrium assembly of reconfigurable functional structures**|Desmond J. Quinn et.al.|[2412.10928v1](http://arxiv.org/abs/2412.10928v1)|null|
+|**2024-12-14**|**Regulated polarization of active particles in local osmotic flow fields**|Lisa Rohde et.al.|[2412.10914v1](http://arxiv.org/abs/2412.10914v1)|null|
 |**2024-12-13**|**Extraordinary resonant transmission in two-terminal fermionic transport**|P. S. Muraev et.al.|[2412.10250v1](http://arxiv.org/abs/2412.10250v1)|null|
 |**2024-12-13**|**Instabilities of ring-rivulets: Impact of substrate wettability**|Stefan Zitz et.al.|[2412.10230v1](http://arxiv.org/abs/2412.10230v1)|**[link](https://github.com/zitzeronion/swalbe.jl)**|
 |**2024-12-13**|**Impact of Mixing on Flavor and Aroma Development in Fermented Foods**|Azarmidokht Gholamipour-Shirazi et.al.|[2412.10190v1](http://arxiv.org/abs/2412.10190v1)|null|
@@ -8159,6 +8179,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-15**|**Competing Orbital Magnetism and Superconductivity in electrostatically defined Josephson Junctions of Alternating Twisted Trilayer Graphene**|Vishal Bhardwaj et.al.|[2412.11135v1](http://arxiv.org/abs/2412.11135v1)|null|
 |**2024-12-12**|**Quasi-symmetry Constrained Spin Ferromagnetism in Altermagnets**|Mercè Roig et.al.|[2412.09338v1](http://arxiv.org/abs/2412.09338v1)|null|
 |**2024-12-11**|**Intrinsic anomalous Hall effect under anisotropic magnetic dipole versus conventional magnetic dipole**|Satoru Ohgata et.al.|[2412.08078v1](http://arxiv.org/abs/2412.08078v1)|null|
 |**2024-12-11**|**Current density in the anomalous Hall effect regime under weak scattering**|Ning Dai et.al.|[2412.08047v1](http://arxiv.org/abs/2412.08047v1)|null|
