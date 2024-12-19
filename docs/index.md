@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Quantum fluid dimers of hyperbolic exciton-polariton condensates**|Ioannis Georgakilas et.al.|[2412.14147v1](http://arxiv.org/abs/2412.14147v1)|null|
+|**2024-12-18**|**Cooperative polymer dynamics at the crossover between the unentangled and the entangled regimes: theoretical predictions of scattering and linear shear relaxation for polyethylene melts**|M. G. Guenza et.al.|[2412.14138v1](http://arxiv.org/abs/2412.14138v1)|null|
+|**2024-12-18**|**Measuring collective diffusion properties by counting particles in boxes**|Adam Carter et.al.|[2412.14122v1](http://arxiv.org/abs/2412.14122v1)|null|
+|**2024-12-18**|**Kinetic view on dynamic plasticity of crystalline solids**|Elijah Borodin et.al.|[2412.14105v1](http://arxiv.org/abs/2412.14105v1)|null|
+|**2024-12-18**|**Anomalous Diffusion of Superparamagnetic Walkers with Tailored Statistics**|Alessia Gentili et.al.|[2412.13960v1](http://arxiv.org/abs/2412.13960v1)|null|
+|**2024-12-18**|**The effect of ion solvation on ion-induced nucleation -- a generalized Thomson model**|Roni Kroll et.al.|[2412.13944v1](http://arxiv.org/abs/2412.13944v1)|null|
+|**2024-12-18**|**Ion Sieving in Two-Dimensional Membranes from First Principles**|Nicéphore Bonnet et.al.|[2412.13899v1](http://arxiv.org/abs/2412.13899v1)|null|
+|**2024-12-18**|**The Soft-Membrane Surface Forces Apparatus**|Ilyes Jalisse et.al.|[2412.13806v1](http://arxiv.org/abs/2412.13806v1)|null|
+|**2024-12-18**|**Role of viscoelasticity in the adhesion of mushroom-shaped pillars**|Guido Violano et.al.|[2412.13797v1](http://arxiv.org/abs/2412.13797v1)|null|
+|**2024-12-18**|**Discretization of Structured Bosonic Environments at Finite Temperature by Interpolative Decomposition: Theory and Application**|Hideaki Takahashi et.al.|[2412.13793v1](http://arxiv.org/abs/2412.13793v1)|null|
+|**2024-12-18**|**Recursive Algorithm to the Centroid of Free Area for Inherent Structure and Hopping Motion in Deeply Supercooled Binary Hard Disk Systems**|Daigo Mugita et.al.|[2412.13773v1](http://arxiv.org/abs/2412.13773v1)|null|
+|**2024-12-18**|**Structure of a single-quantum vortex in $^3$ He-A**|Riku Rantanen et.al.|[2412.13764v1](http://arxiv.org/abs/2412.13764v1)|null|
+|**2024-12-18**|**The influence of higher order geometric terms on the asymmetry and dynamics of membranes**|Jan Magnus Sischka et.al.|[2412.13761v1](http://arxiv.org/abs/2412.13761v1)|null|
+|**2024-12-18**|**On the construction of explicit analytical driving forces for crack nucleation in the phase field approach to brittle fracture with application to Mohr-Coulomb and Drucker-Prager strength surfaces**|Chockalingam Senthilnathan et.al.|[2412.13700v1](http://arxiv.org/abs/2412.13700v1)|null|
+|**2024-12-18**|**Characterizations of sharp solute-solvent interfaces in hydrophobic environments via cylindrical coordinates**|Hao Xiao et.al.|[2412.13590v1](http://arxiv.org/abs/2412.13590v1)|null|
+|**2024-12-18**|**Length-dependent residence time of contacts in simple polymeric models**|E. Marchi et.al.|[2412.13563v1](http://arxiv.org/abs/2412.13563v1)|null|
+|**2024-12-18**|**Electromagnetic evanescent field associated with surface acoustic wave: Response of metallic thin films**|Takuya Kawada et.al.|[2412.13436v1](http://arxiv.org/abs/2412.13436v1)|null|
+|**2024-12-18**|**Scaling field-theoretic simulation for multi-component mixtures with neural operators**|Emmit K. Pert et.al.|[2412.13415v1](http://arxiv.org/abs/2412.13415v1)|null|
+|**2024-12-17**|**Tunable mechanical properties and air-based lubrication in an acoustically levitated granular material**|Nina M. Brown et.al.|[2412.13282v1](http://arxiv.org/abs/2412.13282v1)|null|
 |**2024-12-17**|**Sliding wear: role of plasticity**|Ruibin Xu et.al.|[2412.13129v1](http://arxiv.org/abs/2412.13129v1)|null|
 |**2024-12-17**|**Phase-field modeling of colloid-polymer mixtures in microgravity**|Lauren Barnes et.al.|[2412.12777v1](http://arxiv.org/abs/2412.12777v1)|null|
 |**2024-12-17**|**Barkhausen noise in the organic ferroelectric copolymer P(VDF:TrFE)**|Andrey Alekseevich Butkevich et.al.|[2412.12671v1](http://arxiv.org/abs/2412.12671v1)|null|
@@ -7902,7 +7921,7 @@ layout: default
 |**2024-12-13**|**Ultrafast Spin Rotation of Relativistic Lepton Beams via Terahertz Wave in a Dielectric-Lined Waveguide**|Zhong-Peng Li et.al.|[2405.07709v2](http://arxiv.org/abs/2405.07709v2)|null|
 |**2024-05-13**|**Multiple Bound States in the Continuum: Towards Intense Terahertz Matter Interaction**|Quanlong Yang et.al.|[2405.07426v1](http://arxiv.org/abs/2405.07426v1)|null|
 |**2024-04-18**|**Directional intense terahertz radiation driven by abruptly autofocusing lasers in air**|Xiao-Ran Zheng et.al.|[2404.11846v1](http://arxiv.org/abs/2404.11846v1)|null|
-|**2024-03-19**|**Ultrafast pseudomagnetic fields from electron-nuclear quantum geometry**|Lennart Klebl et.al.|[2403.13070v1](http://arxiv.org/abs/2403.13070v1)|null|
+|**2024-12-18**|**Ultrafast pseudomagnetic fields from electron-nuclear quantum geometry**|Lennart Klebl et.al.|[2403.13070v2](http://arxiv.org/abs/2403.13070v2)|null|
 |**2023-11-27**|**Avalanche terahertz photon detection in a Rydberg tweezer array**|Chris Nill et.al.|[2311.16365v1](http://arxiv.org/abs/2311.16365v1)|null|
 |**2023-11-17**|**Time- and spectrum-resolved quantum-path interferometry reveals exciton dephasing in MoS $_2$ under strong-field conditions**|Yaxin Liu et.al.|[2311.10286v1](http://arxiv.org/abs/2311.10286v1)|null|
 |**2023-09-12**|**Anharmonic coherent dynamics of the soft phonon mode of a PbTe crystal**|A. A. Melnikov et.al.|[2309.06549v1](http://arxiv.org/abs/2309.06549v1)|null|
