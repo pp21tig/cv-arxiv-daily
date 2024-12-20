@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Oscillations of a Water Droplet onto a Horizontally Vibrating Substrate**|King L. Ng et.al.|[2412.15125v1](http://arxiv.org/abs/2412.15125v1)|null|
+|**2024-12-19**|**Band Structures of One-Dimensional Periodic Materials with Graph Theory**|R. Gerstner et.al.|[2412.15107v1](http://arxiv.org/abs/2412.15107v1)|null|
+|**2024-12-19**|**Topological Landau Theory**|Canon Sun et.al.|[2412.15103v1](http://arxiv.org/abs/2412.15103v1)|null|
+|**2024-12-19**|**Brownian motion at various length scales with hydrodynamic and direct interactions**|Jeffrey C. Everts et.al.|[2412.15017v1](http://arxiv.org/abs/2412.15017v1)|null|
+|**2024-12-19**|**From Nonequilibrium to Equilibrium: Insights from a Two-Population Occupation Model**|Jerome Garnier-Brun et.al.|[2412.14996v1](http://arxiv.org/abs/2412.14996v1)|null|
+|**2024-12-19**|**Frictional contact between solids: A fully Eulerian phase-field approach**|Flavio Lorez et.al.|[2412.14972v1](http://arxiv.org/abs/2412.14972v1)|null|
+|**2024-12-19**|**Taming Landau level mixing in fractional quantum Hall states with deep learning**|Yubing Qian et.al.|[2412.14795v1](http://arxiv.org/abs/2412.14795v1)|null|
+|**2024-12-19**|**Coexisting multiphase and interfacial behaviour of ouzo**|David N. Sibley et.al.|[2412.14774v1](http://arxiv.org/abs/2412.14774v1)|null|
+|**2024-12-19**|**Ground State Phases and Topological Excitations of Spin-1 Bose-Einstein Condensate in Twisted Optical Lattices**|Tian-Tian Li et.al.|[2412.14731v1](http://arxiv.org/abs/2412.14731v1)|null|
+|**2024-12-19**|**From Order to Chimeras: Unraveling Dynamic Patterns in Active Fluids with Nonlinear Growth**|Joydeep Das et.al.|[2412.14729v1](http://arxiv.org/abs/2412.14729v1)|null|
+|**2024-12-19**|**Floquet Theory and Ultrafast Control of Magnetism**|Masahiro Sato et.al.|[2412.14696v1](http://arxiv.org/abs/2412.14696v1)|null|
+|**2024-12-19**|**Real space solution of inhomogeneous elastic wave equation with localized vibration and flat dispersion relation**|Da-Shan Jiang et.al.|[2412.14625v1](http://arxiv.org/abs/2412.14625v1)|null|
+|**2024-12-19**|**Cluster dynamics in macroscopic photoactive particles**|Sára Lévay et.al.|[2412.14419v1](http://arxiv.org/abs/2412.14419v1)|null|
+|**2024-12-19**|**Radius of Gyration in Shear Gradient Direction Governs Steady Shear Viscosity of Rouse-Type Model**|Takashi Uneyama et.al.|[2412.14416v1](http://arxiv.org/abs/2412.14416v1)|null|
+|**2024-12-18**|**The Casimir effect in wetting layers**|Alessio Squarcini et.al.|[2412.14334v1](http://arxiv.org/abs/2412.14334v1)|null|
 |**2024-12-18**|**Quantum fluid dimers of hyperbolic exciton-polariton condensates**|Ioannis Georgakilas et.al.|[2412.14147v1](http://arxiv.org/abs/2412.14147v1)|null|
 |**2024-12-18**|**Cooperative polymer dynamics at the crossover between the unentangled and the entangled regimes: theoretical predictions of scattering and linear shear relaxation for polyethylene melts**|M. G. Guenza et.al.|[2412.14138v1](http://arxiv.org/abs/2412.14138v1)|null|
 |**2024-12-18**|**Measuring collective diffusion properties by counting particles in boxes**|Adam Carter et.al.|[2412.14122v1](http://arxiv.org/abs/2412.14122v1)|null|
@@ -7979,6 +7994,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Resistance of high-temperature superconducting tapes triggered by alternating magnetic field**|Quoc Hung Pham et.al.|[2412.14662v1](http://arxiv.org/abs/2412.14662v1)|null|
 |**2024-12-04**|**Magnetic properties and growth kinetics of Co/Gd bilayers with perpendicular magnetic anisotropy**|T. J. Kools et.al.|[2412.03333v1](http://arxiv.org/abs/2412.03333v1)|null|
 |**2024-12-04**|**Spin polarization driven by molecular vibrations leads to enantioselectivity in chiral molecules**|Shinji Miwa et.al.|[2412.03082v1](http://arxiv.org/abs/2412.03082v1)|null|
 |**2024-12-04**|**Nonlinear spin and orbital Edelstein effect in WTe2**|Xing-Guo Ye et.al.|[2412.02938v1](http://arxiv.org/abs/2412.02938v1)|null|
