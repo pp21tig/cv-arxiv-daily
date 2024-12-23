@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Role of the ratio of tangential to normal stiffness coefficient on the behaviour of vibrofluidised particles**|Alok Tiwari et.al.|[2412.16133v1](http://arxiv.org/abs/2412.16133v1)|null|
+|**2024-12-20**|**Discovery of a non-Hermitian phase transition in a bulk condensed-matter system**|Jingwen Li et.al.|[2412.16012v1](http://arxiv.org/abs/2412.16012v1)|null|
+|**2024-12-20**|**pyRheo: An open-source Python package for complex rheology**|Isaac Y. Miranda-Valdez et.al.|[2412.15941v1](http://arxiv.org/abs/2412.15941v1)|null|
+|**2024-12-20**|**On the relation between fractional charge and statistics**|T. H. Hansson et.al.|[2412.15857v1](http://arxiv.org/abs/2412.15857v1)|null|
+|**2024-12-20**|**Experimental discovery of Sarma state in atomically thick superconducting FeSe films under high magnetic fields**|Wantong Huang et.al.|[2412.15850v1](http://arxiv.org/abs/2412.15850v1)|null|
+|**2024-12-20**|**Up-Converting Luminescent Nanoparticles as Probes of Surface Dynamics in Single Evaporating Microdroplets of Suspension**|Yaroslav Shopa et.al.|[2412.15833v1](http://arxiv.org/abs/2412.15833v1)|null|
+|**2024-12-20**|**Tunability of Dissipative Particle Dynamics simulations for Excluded Volume and Hydrodynamic Interactions in polymer solutions and Rheological predictions**|Sanjay Jana et.al.|[2412.15807v1](http://arxiv.org/abs/2412.15807v1)|null|
+|**2024-12-20**|**Stabilization of active tissue deformation by a dynamic morphogen gradient**|Muhamet Ibrahimi et.al.|[2412.15774v1](http://arxiv.org/abs/2412.15774v1)|null|
+|**2024-12-20**|**Network-forming phase separation of oppositely charged polyelectrolytes forming coacervates in a solvent**|Jiaxing Yuan et.al.|[2412.15753v1](http://arxiv.org/abs/2412.15753v1)|null|
+|**2024-12-20**|**Quark-Quark and Quark-nucleon Potential model Extended-soft-core meson-exchange Interactions**|Th. A. Rijken et.al.|[2412.15732v1](http://arxiv.org/abs/2412.15732v1)|null|
+|**2024-12-20**|**Locomotion on a lubricating fluid with spatial viscosity variations**|Takahiro Kanazawa et.al.|[2412.15656v1](http://arxiv.org/abs/2412.15656v1)|null|
+|**2024-12-20**|**Bi, Cr and Ag dopants in PbTe and SnTe: impact of the host band symmetry on doping properties by ab initio calculations**|A. Łusakowski et.al.|[2412.15512v1](http://arxiv.org/abs/2412.15512v1)|null|
+|**2024-12-20**|**Scattering-Based Structural Inversion of Soft Materials via Kolmogorov-Arnold Networks**|Chi-Huan Tung et.al.|[2412.15474v1](http://arxiv.org/abs/2412.15474v1)|null|
+|**2024-12-19**|**Self-generated electrokinetic flows from active-charged boundary patterns**|Ahis Shrestha et.al.|[2412.15397v1](http://arxiv.org/abs/2412.15397v1)|null|
+|**2024-12-19**|**Double rotatory power reversal and continuous Kerr angle in bi-isotropic media with anomalous Hall current**|Alex Q. Costa et.al.|[2412.15338v1](http://arxiv.org/abs/2412.15338v1)|null|
 |**2024-12-19**|**Oscillations of a Water Droplet onto a Horizontally Vibrating Substrate**|King L. Ng et.al.|[2412.15125v1](http://arxiv.org/abs/2412.15125v1)|null|
 |**2024-12-19**|**Band Structures of One-Dimensional Periodic Materials with Graph Theory**|R. Gerstner et.al.|[2412.15107v1](http://arxiv.org/abs/2412.15107v1)|null|
 |**2024-12-19**|**Topological Landau Theory**|Canon Sun et.al.|[2412.15103v1](http://arxiv.org/abs/2412.15103v1)|null|
@@ -7994,6 +8009,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Investigating the Interplay between Spin-Polarization and Magnetic Damping in $\mathrm{Co}_{x}\mathrm{Fe}_{80-x}\mathrm{B}_{20}$ for Magnonics Applications**|Lorenzo Gnoatto et.al.|[2412.15954v1](http://arxiv.org/abs/2412.15954v1)|null|
+|**2024-12-20**|**Identifying Switching of Antiferromagnets by Spin-Orbit Torques**|Martin Jourdan et.al.|[2412.15885v1](http://arxiv.org/abs/2412.15885v1)|null|
 |**2024-12-19**|**Resistance of high-temperature superconducting tapes triggered by alternating magnetic field**|Quoc Hung Pham et.al.|[2412.14662v1](http://arxiv.org/abs/2412.14662v1)|null|
 |**2024-12-04**|**Magnetic properties and growth kinetics of Co/Gd bilayers with perpendicular magnetic anisotropy**|T. J. Kools et.al.|[2412.03333v1](http://arxiv.org/abs/2412.03333v1)|null|
 |**2024-12-04**|**Spin polarization driven by molecular vibrations leads to enantioselectivity in chiral molecules**|Shinji Miwa et.al.|[2412.03082v1](http://arxiv.org/abs/2412.03082v1)|null|
@@ -8223,6 +8240,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659v1](http://arxiv.org/abs/2412.15659v1)|null|
+|**2024-12-19**|**Double rotatory power reversal and continuous Kerr angle in bi-isotropic media with anomalous Hall current**|Alex Q. Costa et.al.|[2412.15338v1](http://arxiv.org/abs/2412.15338v1)|null|
 |**2024-12-17**|**Metallic collinear antiferromagnets with mirror-symmetric and asymmetric spin-splittings**|Vladimir A. Zyuzin et.al.|[2412.13009v1](http://arxiv.org/abs/2412.13009v1)|null|
 |**2024-12-16**|**Scaling Behavior of Magnetoresistance and Hall Resistivity in Altermagnet CrSb**|Xin Peng et.al.|[2412.12263v1](http://arxiv.org/abs/2412.12263v1)|null|
 |**2024-12-15**|**Competing Orbital Magnetism and Superconductivity in electrostatically defined Josephson Junctions of Alternating Twisted Trilayer Graphene**|Vishal Bhardwaj et.al.|[2412.11135v1](http://arxiv.org/abs/2412.11135v1)|null|
