@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763v1](http://arxiv.org/abs/2412.17763v1)|null|
+|**2024-12-23**|**Trypanosoma brucei moving in microchannels and through constrictions**|Zihan Tan et.al.|[2412.17673v1](http://arxiv.org/abs/2412.17673v1)|null|
+|**2024-12-23**|**Scaling Description of the Relaxation Dynamics and Dynamical Heterogeneity of an Active Glass-forming Liquid**|Subhodeep Dey et.al.|[2412.17666v1](http://arxiv.org/abs/2412.17666v1)|null|
+|**2024-12-23**|**Fluid-Derived Lattices for Unbiased Modeling of Bacterial Colony Growth**|Bryan Verhoef et.al.|[2412.17604v1](http://arxiv.org/abs/2412.17604v1)|null|
+|**2024-12-23**|**Shape of Polystyrene Droplets on Soft PDMS: Exploring the Gap Between Theory and Experiment at the Three-Phase Contact Line**|Khalil Remini et.al.|[2412.17439v1](http://arxiv.org/abs/2412.17439v1)|null|
+|**2024-12-23**|**Spatiotemporal characterization of emergent behavior of self-propelled oil droplet**|Riku Adachi et.al.|[2412.17381v1](http://arxiv.org/abs/2412.17381v1)|null|
+|**2024-12-23**|**Franck-Condon electron emission from polar semiconductor photocathodes**|W. Andreas Schroeder et.al.|[2412.17207v1](http://arxiv.org/abs/2412.17207v1)|null|
+|**2024-12-22**|**Understanding Dynamics in Coarse-Grained Models: V. Extension of Coarse-Grained Dynamics Theory to Non-Hard Sphere Systems**|Jaehyeok Jin et.al.|[2412.17186v1](http://arxiv.org/abs/2412.17186v1)|null|
+|**2024-12-22**|**On the Spectral Shape of the Structural Relaxation in Deeply Supercooled Liquids**|Till Böhmer et.al.|[2412.17014v1](http://arxiv.org/abs/2412.17014v1)|null|
+|**2024-12-22**|**Projected Entangled Pair States for Lattice Gauge Theories with Dynamical Fermions**|Ariel Kelman et.al.|[2412.16951v1](http://arxiv.org/abs/2412.16951v1)|null|
+|**2024-12-22**|**Optical Signature of Flat Bands in Topological Hourglass Semimetal Nb3SiTe6**|Shize Cao et.al.|[2412.16949v1](http://arxiv.org/abs/2412.16949v1)|null|
+|**2024-12-21**|**Spherical to Cartesian Coordinates Transformation for Solid Harmonics Revisited**|Chiara Ribaldone et.al.|[2412.16733v1](http://arxiv.org/abs/2412.16733v1)|null|
+|**2024-12-21**|**Topological metal state in helimagnets**|Yu. B. Kudasov et.al.|[2412.16726v1](http://arxiv.org/abs/2412.16726v1)|null|
+|**2024-12-21**|**Tunable Assembly of Confined Janus Microswimmers in Sub-kHz Electic Fields under Gravity**|Carolina van Baalen et.al.|[2412.16658v1](http://arxiv.org/abs/2412.16658v1)|null|
+|**2024-12-20**|**Active matter as the underpinning agency for extraordinary sensitivity of biological membranes to electric fields**|Anand Mathew et.al.|[2412.16319v1](http://arxiv.org/abs/2412.16319v1)|null|
 |**2024-12-20**|**Role of the ratio of tangential to normal stiffness coefficient on the behaviour of vibrofluidised particles**|Alok Tiwari et.al.|[2412.16133v1](http://arxiv.org/abs/2412.16133v1)|null|
 |**2024-12-20**|**Discovery of a non-Hermitian phase transition in a bulk condensed-matter system**|Jingwen Li et.al.|[2412.16012v1](http://arxiv.org/abs/2412.16012v1)|null|
 |**2024-12-20**|**pyRheo: An open-source Python package for complex rheology**|Isaac Y. Miranda-Valdez et.al.|[2412.15941v1](http://arxiv.org/abs/2412.15941v1)|null|
@@ -7637,6 +7652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763v1](http://arxiv.org/abs/2412.17763v1)|null|
 |**2024-12-17**|**Light-induced thermal noise \textit{anomaly} governed by quantum metric**|Longjun Xiang et.al.|[2412.12662v1](http://arxiv.org/abs/2412.12662v1)|null|
 |**2024-12-12**|**Light-Induced Electron Pairing in a Bilayer Structure**|Qiaochu Wan et.al.|[2412.06941v2](http://arxiv.org/abs/2412.06941v2)|null|
 |**2024-12-09**|**Light-induced ultrafast glide-mirror symmetry breaking in black phosphorus**|Changhua Bao et.al.|[2412.06752v1](http://arxiv.org/abs/2412.06752v1)|null|
@@ -8013,6 +8029,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Electrical Manipulation of Spin Splitting Torque in Altermagnetic RuO2**|Yichi Zhang et.al.|[2412.17013v1](http://arxiv.org/abs/2412.17013v1)|null|
 |**2024-12-20**|**Investigating the Interplay between Spin-Polarization and Magnetic Damping in $\mathrm{Co}_{x}\mathrm{Fe}_{80-x}\mathrm{B}_{20}$ for Magnonics Applications**|Lorenzo Gnoatto et.al.|[2412.15954v1](http://arxiv.org/abs/2412.15954v1)|null|
 |**2024-12-20**|**Identifying Switching of Antiferromagnets by Spin-Orbit Torques**|Martin Jourdan et.al.|[2412.15885v1](http://arxiv.org/abs/2412.15885v1)|null|
 |**2024-12-19**|**Resistance of high-temperature superconducting tapes triggered by alternating magnetic field**|Quoc Hung Pham et.al.|[2412.14662v1](http://arxiv.org/abs/2412.14662v1)|null|
@@ -8244,6 +8261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Axion insulator, Weyl points, quantum anomalous Hall effect and magnetic topological phase transition in Eu3In2As4**|Jingyu Yao et.al.|[2412.16998v1](http://arxiv.org/abs/2412.16998v1)|null|
 |**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659v1](http://arxiv.org/abs/2412.15659v1)|null|
 |**2024-12-19**|**Double rotatory power reversal and continuous Kerr angle in bi-isotropic media with anomalous Hall current**|Alex Q. Costa et.al.|[2412.15338v1](http://arxiv.org/abs/2412.15338v1)|null|
 |**2024-12-17**|**Metallic collinear antiferromagnets with mirror-symmetric and asymmetric spin-splittings**|Vladimir A. Zyuzin et.al.|[2412.13009v1](http://arxiv.org/abs/2412.13009v1)|null|
@@ -8630,6 +8648,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Out-of-plane intensity modulation of spin susceptibility in Ba $_{0.75}$K$_{0.25}$Fe$_{2}$As$_{2}$ as seen via time-of-flight neutron spectroscopy**|Naoki Murai et.al.|[2412.16870v1](http://arxiv.org/abs/2412.16870v1)|null|
 |**2024-12-05**|**Spin dynamics of an easy-plane Dirac spin liquid in a frustrated XY model: Application to honeycomb cobaltates**|Anjishnu Bose et.al.|[2412.04544v1](http://arxiv.org/abs/2412.04544v1)|null|
 |**2024-12-04**|**Absence of altermagnetic magnon band splitting in MnF $_2$**|Vincent C. Morano et.al.|[2412.03545v1](http://arxiv.org/abs/2412.03545v1)|null|
 |**2024-12-02**|**Proximity to quantum criticality in the Ising ferromagnet TbV $_6$Sn$_6$**|Tianxiong Han et.al.|[2412.02010v1](http://arxiv.org/abs/2412.02010v1)|null|
