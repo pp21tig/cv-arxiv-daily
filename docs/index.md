@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Inferring intermediate states by leveraging the many-body Arrhenius law**|Vishwajeet Kumar et.al.|[2412.18574v1](http://arxiv.org/abs/2412.18574v1)|null|
+|**2024-12-24**|**Spontaneous generation of angular momentum in chiral active crystals**|Umberto Marini Bettolo Marconi et.al.|[2412.18289v1](http://arxiv.org/abs/2412.18289v1)|null|
+|**2024-12-24**|**Mechanics of curved crease origami: 1DoF mechanisms, distributed actuation by spontaneous curvature, and cross-talk between multiple folds**|Antonio DeSimone et.al.|[2412.18265v1](http://arxiv.org/abs/2412.18265v1)|null|
+|**2024-12-24**|**Observation of localization of light in photonic quasicrystals of diverse symmetries**|Peng Wang et.al.|[2412.18253v1](http://arxiv.org/abs/2412.18253v1)|null|
+|**2024-12-24**|**Theoretical Study of Nonlinear Absorption of a Strong Electromagnetic Wave in Infinite Semi-parabolic plus Semi-inverse Squared Quantum Wells by Using Quantum Kinetic Equation**|Cao Thi Vi Ba et.al.|[2412.18245v1](http://arxiv.org/abs/2412.18245v1)|null|
+|**2024-12-24**|**Multifluid simulation of shear-induced migration in pressure-driven suspension flows**|Mohammad Noori et.al.|[2412.18242v1](http://arxiv.org/abs/2412.18242v1)|null|
+|**2024-12-24**|**Statistical mechanics of an active wheel rolling in circles**|Shubham Sharma et.al.|[2412.18159v1](http://arxiv.org/abs/2412.18159v1)|null|
+|**2024-12-24**|**Emergence of topological defects and spin liquid in a two-orbital spin-fermion model on the honeycomb lattice**|Kaidi Xu et.al.|[2412.18057v1](http://arxiv.org/abs/2412.18057v1)|null|
+|**2024-12-23**|**Physical interpretation of large Lorentz violation via Weyl semimetals**|Alan Kostelecky et.al.|[2412.18034v1](http://arxiv.org/abs/2412.18034v1)|null|
+|**2024-12-23**|**Equatorial deformation of homogeneous spherical fluid vesicles by a rigid ring**|Pablo Vázquez-Montejo et.al.|[2412.17940v1](http://arxiv.org/abs/2412.17940v1)|null|
+|**2024-12-23**|**Growth of bulk crystals of magnetic topological insulators under peritectic conditions**|Anton I. Sergeev et.al.|[2412.17915v1](http://arxiv.org/abs/2412.17915v1)|null|
 |**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763v1](http://arxiv.org/abs/2412.17763v1)|null|
 |**2024-12-23**|**Trypanosoma brucei moving in microchannels and through constrictions**|Zihan Tan et.al.|[2412.17673v1](http://arxiv.org/abs/2412.17673v1)|null|
 |**2024-12-23**|**Scaling Description of the Relaxation Dynamics and Dynamical Heterogeneity of an Active Glass-forming Liquid**|Subhodeep Dey et.al.|[2412.17666v1](http://arxiv.org/abs/2412.17666v1)|null|
@@ -7652,6 +7663,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Origin of the insulating and superconducting phases in molecular solid $κ$-(BEDT-TTF)$_2$Cu$_2$(CN)$_3$**|Dongbin Shin et.al.|[2412.18088v1](http://arxiv.org/abs/2412.18088v1)|null|
 |**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763v1](http://arxiv.org/abs/2412.17763v1)|null|
 |**2024-12-17**|**Light-induced thermal noise \textit{anomaly} governed by quantum metric**|Longjun Xiang et.al.|[2412.12662v1](http://arxiv.org/abs/2412.12662v1)|null|
 |**2024-12-12**|**Light-Induced Electron Pairing in a Bilayer Structure**|Qiaochu Wan et.al.|[2412.06941v2](http://arxiv.org/abs/2412.06941v2)|null|
@@ -8029,6 +8041,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429v1](http://arxiv.org/abs/2412.18429v1)|null|
 |**2024-12-22**|**Electrical Manipulation of Spin Splitting Torque in Altermagnetic RuO2**|Yichi Zhang et.al.|[2412.17013v1](http://arxiv.org/abs/2412.17013v1)|null|
 |**2024-12-20**|**Investigating the Interplay between Spin-Polarization and Magnetic Damping in $\mathrm{Co}_{x}\mathrm{Fe}_{80-x}\mathrm{B}_{20}$ for Magnonics Applications**|Lorenzo Gnoatto et.al.|[2412.15954v1](http://arxiv.org/abs/2412.15954v1)|null|
 |**2024-12-20**|**Identifying Switching of Antiferromagnets by Spin-Orbit Torques**|Martin Jourdan et.al.|[2412.15885v1](http://arxiv.org/abs/2412.15885v1)|null|
