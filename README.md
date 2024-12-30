@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Emergent cell migration from cell shape deformations and T1 transitions**|Harish P. Jain et.al.|[2412.19686v1](http://arxiv.org/abs/2412.19686v1)|null|
+|**2024-12-27**|**Non-reciprocal interactions preserve the universality class of Potts model**|Soumya K. Saha et.al.|[2412.19664v1](http://arxiv.org/abs/2412.19664v1)|null|
+|**2024-12-27**|**A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**|J. M. Hall et.al.|[2412.19398v1](http://arxiv.org/abs/2412.19398v1)|null|
+|**2024-12-26**|**Microscopic imprints of learned solutions in adaptive resistor networks**|Marcel Guzman et.al.|[2412.19356v1](http://arxiv.org/abs/2412.19356v1)|null|
+|**2024-12-26**|**The irreversible thermodynamics of curved lipid membranes II: Permeability and osmosis**|Ahmad M. Alkadri et.al.|[2412.19300v1](http://arxiv.org/abs/2412.19300v1)|null|
+|**2024-12-26**|**The XY model with vision cone: non-reciprocal vs. reciprocal interactions**|Gabriele Bandini et.al.|[2412.19297v1](http://arxiv.org/abs/2412.19297v1)|null|
+|**2024-12-26**|**Transient Negative Capacitance in Ferroelectric Nematic Liquid Crystals**|Netra Prasad Dhakal et.al.|[2412.19263v1](http://arxiv.org/abs/2412.19263v1)|null|
+|**2024-12-26**|**An active hydroelastic liquid crystal phase of a fluttering ferroelectric nematic**|Xi Chen et.al.|[2412.19061v1](http://arxiv.org/abs/2412.19061v1)|null|
+|**2024-12-26**|**Thermal quantum correlations of a single electron in a double quantum dot with transverse magnetic field**|Vinicius Leitão et.al.|[2412.19046v1](http://arxiv.org/abs/2412.19046v1)|null|
+|**2024-12-25**|**Self-Organized Pattern Formation in Geological Soft Matter**|Julyan H. E. Cartwright et.al.|[2412.18999v1](http://arxiv.org/abs/2412.18999v1)|null|
+|**2024-12-25**|**Topologically constrained obstructed atomic limits in quasi-one-dimensional systems**|Milan Damnjanovic et.al.|[2412.18943v1](http://arxiv.org/abs/2412.18943v1)|null|
+|**2024-12-25**|**A Discrete Formulation of Second Stiefel-Whitney Class for Band Theory**|Ken Shiozaki et.al.|[2412.18796v1](http://arxiv.org/abs/2412.18796v1)|null|
+|**2024-12-25**|**Two interfacial stress formulations constructed from the diffuse interface free energy model**|Takeshi Omori et.al.|[2412.18751v1](http://arxiv.org/abs/2412.18751v1)|null|
+|**2024-12-25**|**Generalized Entropy Theory Investigation of the Relatively High Segmental Fragility of Many Glass-Forming Polymers**|Xiaolei Xu et.al.|[2412.18712v1](http://arxiv.org/abs/2412.18712v1)|null|
+|**2024-12-24**|**Thermal magnetoresistance from magnon scattering from a domain wall in an antiferromagnetic insulator**|Ehsan Faridi et.al.|[2412.18689v1](http://arxiv.org/abs/2412.18689v1)|null|
+|**2024-12-24**|**Robust phase correction techniques for terahertz time-domain reflection spectroscopy**|Kasturie D. Jatkar et.al.|[2412.18662v1](http://arxiv.org/abs/2412.18662v1)|null|
 |**2024-12-24**|**Inferring intermediate states by leveraging the many-body Arrhenius law**|Vishwajeet Kumar et.al.|[2412.18574v1](http://arxiv.org/abs/2412.18574v1)|null|
 |**2024-12-24**|**Spontaneous generation of angular momentum in chiral active crystals**|Umberto Marini Bettolo Marconi et.al.|[2412.18289v1](http://arxiv.org/abs/2412.18289v1)|null|
 |**2024-12-24**|**Mechanics of curved crease origami: 1DoF mechanisms, distributed actuation by spontaneous curvature, and cross-talk between multiple folds**|Antonio DeSimone et.al.|[2412.18265v1](http://arxiv.org/abs/2412.18265v1)|null|
@@ -7659,6 +7675,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**Role of phonon coupling in driving photo-excited Mott insulators towards a transient superconducting steady state**|Sujay Ray et.al.|[2412.19205v1](http://arxiv.org/abs/2412.19205v1)|null|
 |**2024-12-24**|**Origin of the insulating and superconducting phases in molecular solid $κ$-(BEDT-TTF)$_2$Cu$_2$(CN)$_3$**|Dongbin Shin et.al.|[2412.18088v1](http://arxiv.org/abs/2412.18088v1)|null|
 |**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763v1](http://arxiv.org/abs/2412.17763v1)|null|
 |**2024-12-17**|**Light-induced thermal noise \textit{anomaly} governed by quantum metric**|Longjun Xiang et.al.|[2412.12662v1](http://arxiv.org/abs/2412.12662v1)|null|
@@ -8270,12 +8287,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Tailoring Robust Quantum Anomalous Hall Effect via Entropy-Engineering**|Syeda Amina Shabbir et.al.|[2412.19499v1](http://arxiv.org/abs/2412.19499v1)|null|
 |**2024-12-22**|**Axion insulator, Weyl points, quantum anomalous Hall effect and magnetic topological phase transition in Eu3In2As4**|Jingyu Yao et.al.|[2412.16998v1](http://arxiv.org/abs/2412.16998v1)|null|
 |**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659v1](http://arxiv.org/abs/2412.15659v1)|null|
 |**2024-12-19**|**Double rotatory power reversal and continuous Kerr angle in bi-isotropic media with anomalous Hall current**|Alex Q. Costa et.al.|[2412.15338v1](http://arxiv.org/abs/2412.15338v1)|null|
 |**2024-12-17**|**Metallic collinear antiferromagnets with mirror-symmetric and asymmetric spin-splittings**|Vladimir A. Zyuzin et.al.|[2412.13009v1](http://arxiv.org/abs/2412.13009v1)|null|
 |**2024-12-16**|**Scaling Behavior of Magnetoresistance and Hall Resistivity in Altermagnet CrSb**|Xin Peng et.al.|[2412.12263v1](http://arxiv.org/abs/2412.12263v1)|null|
-|**2024-12-15**|**Competing Orbital Magnetism and Superconductivity in electrostatically defined Josephson Junctions of Alternating Twisted Trilayer Graphene**|Vishal Bhardwaj et.al.|[2412.11135v1](http://arxiv.org/abs/2412.11135v1)|null|
+|**2024-12-27**|**Competing Orbital Magnetism and Superconductivity in electrostatically defined Josephson Junctions of Alternating Twisted Trilayer Graphene**|Vishal Bhardwaj et.al.|[2412.11135v2](http://arxiv.org/abs/2412.11135v2)|null|
 |**2024-12-12**|**Quasi-symmetry Constrained Spin Ferromagnetism in Altermagnets**|Mercè Roig et.al.|[2412.09338v1](http://arxiv.org/abs/2412.09338v1)|null|
 |**2024-12-11**|**Intrinsic anomalous Hall effect under anisotropic magnetic dipole versus conventional magnetic dipole**|Satoru Ohgata et.al.|[2412.08078v1](http://arxiv.org/abs/2412.08078v1)|null|
 |**2024-12-11**|**Current density in the anomalous Hall effect regime under weak scattering**|Ning Dai et.al.|[2412.08047v1](http://arxiv.org/abs/2412.08047v1)|null|
@@ -8657,6 +8675,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Wannier states and spin supersolid physics in the triangular antiferromagnet K $_2$Co(SeO$_3$)$_2$**|M. Zhu et.al.|[2412.19693v1](http://arxiv.org/abs/2412.19693v1)|null|
 |**2024-12-22**|**Out-of-plane intensity modulation of spin susceptibility in Ba $_{0.75}$K$_{0.25}$Fe$_{2}$As$_{2}$ as seen via time-of-flight neutron spectroscopy**|Naoki Murai et.al.|[2412.16870v1](http://arxiv.org/abs/2412.16870v1)|null|
 |**2024-12-05**|**Spin dynamics of an easy-plane Dirac spin liquid in a frustrated XY model: Application to honeycomb cobaltates**|Anjishnu Bose et.al.|[2412.04544v1](http://arxiv.org/abs/2412.04544v1)|null|
 |**2024-12-04**|**Absence of altermagnetic magnon band splitting in MnF $_2$**|Vincent C. Morano et.al.|[2412.03545v1](http://arxiv.org/abs/2412.03545v1)|null|
