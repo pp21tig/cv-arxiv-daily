@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Re-programmable self-assembly of magnetic lattices**|Audrey A. Watkins et.al.|[2412.21195v1](http://arxiv.org/abs/2412.21195v1)|null|
+|**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao et.al.|[2412.21112v1](http://arxiv.org/abs/2412.21112v1)|null|
+|**2024-12-30**|**Charge and spin transport in nanoscopic structures with spin-orbit coupling**|A. A. Reynoso et.al.|[2412.20970v1](http://arxiv.org/abs/2412.20970v1)|null|
+|**2024-12-30**|**The Casimir Effect in (3+1)-dimensional lattice Yang-Mills theory at finite temperature: the unexpected universality of quarkiton and glueton boundary states**|Maxim N. Chernodub et.al.|[2412.20794v1](http://arxiv.org/abs/2412.20794v1)|null|
+|**2024-12-30**|**Odd dynamics of passive objects in a chiral active bath**|Cory Hargus et.al.|[2412.20689v1](http://arxiv.org/abs/2412.20689v1)|null|
+|**2024-12-29**|**Voltage laws in nanodomains revealed by asymptotics and simulations of electro-diffusion equations**|Frédéric Paquin-Lefebvre et.al.|[2412.20570v1](http://arxiv.org/abs/2412.20570v1)|null|
+|**2024-12-29**|**Kinetically arrested clusters in active filament arrays**|Sonu Karayat et.al.|[2412.20536v1](http://arxiv.org/abs/2412.20536v1)|null|
+|**2024-12-29**|**Unraveling the temperature-dependent spin-polarized electron transport in iron via spin-wave Doppler shift**|José Solano et.al.|[2412.20531v1](http://arxiv.org/abs/2412.20531v1)|null|
+|**2024-12-29**|**The balance between paraelectricity and ferroelectricity in non-chiral smectic homologs**|Dorota Węgłowska et.al.|[2412.20508v1](http://arxiv.org/abs/2412.20508v1)|null|
+|**2024-12-28**|**Boundary layers and universal distribution in boundary driven active systems**|Pritha Dolai et.al.|[2412.20287v1](http://arxiv.org/abs/2412.20287v1)|null|
+|**2024-12-28**|**Can solvents tie knots? Helical folds of biopolymers in liquid environments**|Rhoslyn Coles et.al.|[2412.20181v1](http://arxiv.org/abs/2412.20181v1)|null|
 |**2024-12-27**|**Emergent cell migration from cell shape deformations and T1 transitions**|Harish P. Jain et.al.|[2412.19686v1](http://arxiv.org/abs/2412.19686v1)|null|
 |**2024-12-27**|**Non-reciprocal interactions preserve the universality class of Potts model**|Soumya K. Saha et.al.|[2412.19664v1](http://arxiv.org/abs/2412.19664v1)|null|
 |**2024-12-27**|**A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**|J. M. Hall et.al.|[2412.19398v1](http://arxiv.org/abs/2412.19398v1)|null|
@@ -7983,6 +7994,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**A Hidden Quantum Paraelectric Phase in SrTiO3 Induced by Terahertz Field**|Wei Li et.al.|[2412.20887v1](http://arxiv.org/abs/2412.20887v1)|null|
 |**2024-12-07**|**Ultrafast lattice and electron dynamics induced in a PbSe crystal by an intense terahertz pulse**|A. A. Melnikov et.al.|[2412.05704v1](http://arxiv.org/abs/2412.05704v1)|null|
 |**2024-12-02**|**Terahertz stimulated parametric downconversion of a magnon mode in an antiferromagnet**|Zhuquan Zhang et.al.|[2412.01989v1](http://arxiv.org/abs/2412.01989v1)|null|
 |**2024-11-04**|**Terahertz-Induced Nonlinear Response in ZnTe**|Felix Selz et.al.|[2411.02246v1](http://arxiv.org/abs/2411.02246v1)|null|
@@ -8287,6 +8299,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-28**|**Magnetic Phase Diagram of Mn3+xSn1-x Epitaxial Thin Films: Extending the Anomalous Hall Effect to Low Temperatures via Intrinsic Alloying**|K. Gas et.al.|[2412.20139v1](http://arxiv.org/abs/2412.20139v1)|null|
+|**2024-12-28**|**An ab-initio study on engineering quantum anomalous Hall effect in compensated antiferromagnet MnBi $_{2}$Te$_{4}$**|Zeyu Li et.al.|[2412.20136v1](http://arxiv.org/abs/2412.20136v1)|null|
+|**2024-12-28**|**Altermagnetism Induced Topological Phase Transitions in Kane-Mele Model**|Zhengtian Li et.al.|[2412.20129v1](http://arxiv.org/abs/2412.20129v1)|null|
 |**2024-12-27**|**Tailoring Robust Quantum Anomalous Hall Effect via Entropy-Engineering**|Syeda Amina Shabbir et.al.|[2412.19499v1](http://arxiv.org/abs/2412.19499v1)|null|
 |**2024-12-22**|**Axion insulator, Weyl points, quantum anomalous Hall effect and magnetic topological phase transition in Eu3In2As4**|Jingyu Yao et.al.|[2412.16998v1](http://arxiv.org/abs/2412.16998v1)|null|
 |**2024-12-20**|**Strain tuning of the nonlinear anomalous Hall effect in MoS2 monolayer**|Yuebei Xiong et.al.|[2412.15659v1](http://arxiv.org/abs/2412.15659v1)|null|
@@ -8675,6 +8690,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Signatures of Kitaev interactions in the van der Waals ferromagnet VI3**|Yiqing Gu et.al.|[2412.21003v1](http://arxiv.org/abs/2412.21003v1)|null|
 |**2024-12-27**|**Wannier states and spin supersolid physics in the triangular antiferromagnet K $_2$Co(SeO$_3$)$_2$**|M. Zhu et.al.|[2412.19693v1](http://arxiv.org/abs/2412.19693v1)|null|
 |**2024-12-22**|**Out-of-plane intensity modulation of spin susceptibility in Ba $_{0.75}$K$_{0.25}$Fe$_{2}$As$_{2}$ as seen via time-of-flight neutron spectroscopy**|Naoki Murai et.al.|[2412.16870v1](http://arxiv.org/abs/2412.16870v1)|null|
 |**2024-12-05**|**Spin dynamics of an easy-plane Dirac spin liquid in a frustrated XY model: Application to honeycomb cobaltates**|Anjishnu Bose et.al.|[2412.04544v1](http://arxiv.org/abs/2412.04544v1)|null|
