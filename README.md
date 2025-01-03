@@ -8083,6 +8083,7 @@
 |**2024-11-25**|**Minimal Acquisition Time Polarized Neutron Imaging of Current Induced Magnetic Fields in Superconducting Multifilamentary YBCO Tape**|Cedric Holme Qvistgaard et.al.|[2411.16473v1](http://arxiv.org/abs/2411.16473v1)|null|
 |**2024-11-21**|**Current-induced brightening of vacancy-related emitters in hexagonal boron nitride**|Corinne Steiner et.al.|[2411.14152v1](http://arxiv.org/abs/2411.14152v1)|null|
 |**2024-11-21**|**Theoretical Studies on the Evolution of Solar Filaments in Response to New Emerging Flux**|Yuhao Chen et.al.|[2411.13839v1](http://arxiv.org/abs/2411.13839v1)|null|
+|**2025-01-02**|**Evidence of orbital Hall current induced correlation in second harmonic response of longitudinal and transverse voltage in light metal-ferromagnet bilayers**|Dhananjaya Mahapatra et.al.|[2411.08346v2](http://arxiv.org/abs/2411.08346v2)|null|
 |**2024-11-12**|**Estimation of spin-orbit torques in the presence of current-induced magnon creation and annihilation**|Paul Noël et.al.|[2411.07999v1](http://arxiv.org/abs/2411.07999v1)|null|
 |**2024-11-12**|**Nonlinear longitudinal and transverse magnetoresistances due to current-induced magnon creation-annihilation processes**|Paul Noël et.al.|[2411.07991v1](http://arxiv.org/abs/2411.07991v1)|null|
 |**2024-11-08**|**Quantum magnetometry of transient signals with a time resolution of 1.1 nanoseconds**|Konstantin Herb et.al.|[2411.05542v1](http://arxiv.org/abs/2411.05542v1)|null|
