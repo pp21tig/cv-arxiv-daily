@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Close-contact melting on hydrophobic textured surfaces: Confinement and meniscus effects**|Nan Hu et.al.|[2501.01340v1](http://arxiv.org/abs/2501.01340v1)|null|
+|**2025-01-02**|**Can hydrodynamic interactions destroy travelling waves formed by non-reciprocity?**|Giulia Pisegna et.al.|[2501.01330v1](http://arxiv.org/abs/2501.01330v1)|null|
+|**2025-01-02**|**Competing Hexagonal and Square Lattices on a Spherical Surface**|Han Xie et.al.|[2501.01270v1](http://arxiv.org/abs/2501.01270v1)|null|
+|**2025-01-02**|**Momentum tunnelling between nanoscale liquid flows**|Baptiste Coquinot et.al.|[2501.01253v1](http://arxiv.org/abs/2501.01253v1)|null|
+|**2025-01-02**|**Self-diffusive dynamics of active Brownian particles at moderate densities**|Rodrigo Soto et.al.|[2501.01251v1](http://arxiv.org/abs/2501.01251v1)|null|
+|**2025-01-02**|**Modulational Instability and Dynamical Growth Blockade in the Nonlinear Hatano-Nelson Model**|Stefano Longhi et.al.|[2501.01226v1](http://arxiv.org/abs/2501.01226v1)|null|
+|**2025-01-02**|**Many-Body Dissipative Particle Dynamics Simulations of Lipid Bilayers with the MDPD-MARTINI Force-Field**|Natalia Kramarz et.al.|[2501.01225v1](http://arxiv.org/abs/2501.01225v1)|null|
+|**2025-01-01**|**New Insights into the Dependence of Glass Transition Temperature and Dynamic Fragility on Molecular Weight in Oligomers and Polymers**|Valeriy V. Ginzburg et.al.|[2501.00956v1](http://arxiv.org/abs/2501.00956v1)|null|
+|**2025-01-01**|**Achievable Information-Energy Exchange in a Brownian Information Engine through Potential Profiling**|Rafna Rafeek et.al.|[2501.00918v1](http://arxiv.org/abs/2501.00918v1)|null|
+|**2025-01-01**|**Morphogenesis of cheese flowers through scraping**|J. Zhang et.al.|[2501.00797v1](http://arxiv.org/abs/2501.00797v1)|null|
+|**2025-01-01**|**Swimming mode determines how well mesoscale swimmers shield their odor in turbulence**|Martin James et.al.|[2501.00789v1](http://arxiv.org/abs/2501.00789v1)|null|
+|**2025-01-01**|**Chiral induced Spin Polarized Electron Current: Origin of the Chiral Induced Spin Selectivity Effect**|J. Fransson et.al.|[2501.00781v1](http://arxiv.org/abs/2501.00781v1)|null|
+|**2024-12-31**|**Self-reconfiguring colloidal active matter**|Stefania Ketzetzi et.al.|[2501.00672v1](http://arxiv.org/abs/2501.00672v1)|null|
+|**2024-12-31**|**Measuring the effective stress parameter using the multiphase lattice Boltzmann method and investigating the source of its hysteresis**|Reihaneh Hosseini et.al.|[2501.00661v1](http://arxiv.org/abs/2501.00661v1)|null|
+|**2024-12-31**|**Gating and tunable confinement of active colloids within patterned environments**|Carolina van Baalen et.al.|[2501.00660v1](http://arxiv.org/abs/2501.00660v1)|null|
+|**2024-12-31**|**A Novel Velocity Discretization for Lattice Boltzmann Method: Application to Compressible Flow**|Navid Afrasiabian et.al.|[2501.00620v1](http://arxiv.org/abs/2501.00620v1)|null|
+|**2024-12-31**|**Phase behavior of Cacio and Pepe sauce**|Giacomo Bartolucci et.al.|[2501.00536v1](http://arxiv.org/abs/2501.00536v1)|null|
+|**2024-12-31**|**Thick liquid crystalline cholesteric shells**|Arda Bulut et.al.|[2501.00516v1](http://arxiv.org/abs/2501.00516v1)|null|
+|**2024-12-31**|**Angle-resolved photoemission of topological materials**|Jaime Sánchez-Barriga et.al.|[2501.00497v1](http://arxiv.org/abs/2501.00497v1)|null|
+|**2024-12-31**|**The Physics of Quantum 2.0: Challenges in understanding Quantum Matter**|Siddhartha Lal et.al.|[2501.00447v1](http://arxiv.org/abs/2501.00447v1)|null|
 |**2024-12-30**|**Re-programmable self-assembly of magnetic lattices**|Audrey A. Watkins et.al.|[2412.21195v1](http://arxiv.org/abs/2412.21195v1)|null|
 |**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao et.al.|[2412.21112v1](http://arxiv.org/abs/2412.21112v1)|null|
 |**2024-12-30**|**Charge and spin transport in nanoscopic structures with spin-orbit coupling**|A. A. Reynoso et.al.|[2412.20970v1](http://arxiv.org/abs/2412.20970v1)|null|
@@ -8066,6 +8086,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Analysis of Measurements of the Magnetic Flux Density in Steel Blocks of the Compact Muon Solenoid Magnet Yoke with Solenoid Coil Fast Discharges**|Vyacheslav Klyukhin et.al.|[2501.01357v1](http://arxiv.org/abs/2501.01357v1)|null|
+|**2025-01-01**|**Current-induced re-entrant superconductivity and extreme nonreciprocal superconducting diode effect in valley-polarized systems**|Yu-Chen Zhuang et.al.|[2501.00835v1](http://arxiv.org/abs/2501.00835v1)|null|
+|**2024-12-31**|**Analysis of nonlinear dynamics in a single magnetic pendulum driven by plate-magnet interaction**|Hoang X. Nguyen et.al.|[2501.00454v1](http://arxiv.org/abs/2501.00454v1)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429v1](http://arxiv.org/abs/2412.18429v1)|null|
 |**2024-12-22**|**Electrical Manipulation of Spin Splitting Torque in Altermagnetic RuO2**|Yichi Zhang et.al.|[2412.17013v1](http://arxiv.org/abs/2412.17013v1)|null|
 |**2024-12-20**|**Investigating the Interplay between Spin-Polarization and Magnetic Damping in $\mathrm{Co}_{x}\mathrm{Fe}_{80-x}\mathrm{B}_{20}$ for Magnonics Applications**|Lorenzo Gnoatto et.al.|[2412.15954v1](http://arxiv.org/abs/2412.15954v1)|null|
@@ -8300,6 +8323,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Three-dimensional quantum anomalous Hall effect in Weyl semimetals**|Zhi-Qiang Zhang et.al.|[2501.01399v1](http://arxiv.org/abs/2501.01399v1)|null|
 |**2024-12-28**|**Magnetic Phase Diagram of Mn3+xSn1-x Epitaxial Thin Films: Extending the Anomalous Hall Effect to Low Temperatures via Intrinsic Alloying**|K. Gas et.al.|[2412.20139v1](http://arxiv.org/abs/2412.20139v1)|null|
 |**2024-12-28**|**An ab-initio study on engineering quantum anomalous Hall effect in compensated antiferromagnet MnBi $_{2}$Te$_{4}$**|Zeyu Li et.al.|[2412.20136v1](http://arxiv.org/abs/2412.20136v1)|null|
 |**2024-12-28**|**Altermagnetism Induced Topological Phase Transitions in Kane-Mele Model**|Zhengtian Li et.al.|[2412.20129v1](http://arxiv.org/abs/2412.20129v1)|null|
@@ -8691,6 +8715,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**A Magnon Band Analysis of GdRu2Si2 in the Field-Polarized State**|G. D. A. Wood et.al.|[2501.01201v1](http://arxiv.org/abs/2501.01201v1)|null|
 |**2024-12-30**|**Signatures of Kitaev interactions in the van der Waals ferromagnet VI3**|Yiqing Gu et.al.|[2412.21003v1](http://arxiv.org/abs/2412.21003v1)|null|
 |**2024-12-27**|**Wannier states and spin supersolid physics in the triangular antiferromagnet K $_2$Co(SeO$_3$)$_2$**|M. Zhu et.al.|[2412.19693v1](http://arxiv.org/abs/2412.19693v1)|null|
 |**2024-12-22**|**Out-of-plane intensity modulation of spin susceptibility in Ba $_{0.75}$K$_{0.25}$Fe$_{2}$As$_{2}$ as seen via time-of-flight neutron spectroscopy**|Naoki Murai et.al.|[2412.16870v1](http://arxiv.org/abs/2412.16870v1)|null|
