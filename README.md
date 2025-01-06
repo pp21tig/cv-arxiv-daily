@@ -1098,6 +1098,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Dense array of elastic hairs obstructing a fluidic channel**|Etienne Jambon-Puillet et.al.|[2501.01875v1](http://arxiv.org/abs/2501.01875v1)|null|
+|**2025-01-03**|**Dynamic wetting of concentrated granular suspensions**|Reza Azizmalayeri et.al.|[2501.01762v1](http://arxiv.org/abs/2501.01762v1)|null|
+|**2025-01-02**|**Architected Dual-Network Solvent-free Adhesives for Stretchable Fabrics**|Gabriela Moreira Lana et.al.|[2501.01522v1](http://arxiv.org/abs/2501.01522v1)|null|
+|**2025-01-02**|**Cavity Quantum Hall Hydrodynamics**|Gabriel Cardoso et.al.|[2501.01492v1](http://arxiv.org/abs/2501.01492v1)|null|
 |**2025-01-02**|**Close-contact melting on hydrophobic textured surfaces: Confinement and meniscus effects**|Nan Hu et.al.|[2501.01340v1](http://arxiv.org/abs/2501.01340v1)|null|
 |**2025-01-02**|**Can hydrodynamic interactions destroy travelling waves formed by non-reciprocity?**|Giulia Pisegna et.al.|[2501.01330v1](http://arxiv.org/abs/2501.01330v1)|null|
 |**2025-01-02**|**Competing Hexagonal and Square Lattices on a Spherical Surface**|Han Xie et.al.|[2501.01270v1](http://arxiv.org/abs/2501.01270v1)|null|
