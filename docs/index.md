@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**MinD the gap: Membrane proteins form 3D patterns in a suspension of liposomes**|Amélie Chardac et.al.|[2501.03179v1](http://arxiv.org/abs/2501.03179v1)|null|
+|**2025-01-06**|**Application of $J$ -Integral to a Random Elastic Medium**|Jan Eliáš et.al.|[2501.03156v1](http://arxiv.org/abs/2501.03156v1)|null|
+|**2025-01-06**|**Cavity quantum electrodynamics of photonic temporal crystals**|Junhyeon Bae et.al.|[2501.03106v1](http://arxiv.org/abs/2501.03106v1)|null|
+|**2025-01-06**|**Analytical solution for the hydrodynamic resistance of a disk in a compressible fluid layer with odd viscosity on a rigid substrate**|Abdallah Daddi-Moussa-Ider et.al.|[2501.03046v1](http://arxiv.org/abs/2501.03046v1)|null|
+|**2025-01-06**|**Exploring strong electronic correlations in the breathing kagome metal Fe $_3$ Sn**|Shivalika Sharma et.al.|[2501.03039v1](http://arxiv.org/abs/2501.03039v1)|null|
+|**2025-01-06**|**Why a Bose-Einstein condensate cannot exist in a system of interacting bosons at ultrahigh temperatures**|Maksim D. Tomchenko et.al.|[2501.03029v1](http://arxiv.org/abs/2501.03029v1)|null|
+|**2025-01-06**|**Gearing of nitrate ions in ammonium nitrate**|Na Du et.al.|[2501.02954v1](http://arxiv.org/abs/2501.02954v1)|null|
+|**2025-01-06**|**Coarse-Grained Molecular Dynamics Simulations for Oxidative Aging of Polymers under Various O2 Concentration**|Takato Ishida et.al.|[2501.02898v1](http://arxiv.org/abs/2501.02898v1)|null|
+|**2025-01-06**|**Viscotaxis of chiral microswimmer in viscosity gradients**|Takuya Kobayashi et.al.|[2501.02805v1](http://arxiv.org/abs/2501.02805v1)|null|
+|**2025-01-05**|**Slow modulation of the contraction patterns in Physarum polycephalum**|Raphael Saiseau et.al.|[2501.02651v1](http://arxiv.org/abs/2501.02651v1)|null|
+|**2025-01-05**|**Hierarchical self-assembly for high-yield addressable complexity at fixed conditions**|Miranda Holmes-Cerfon et.al.|[2501.02611v1](http://arxiv.org/abs/2501.02611v1)|null|
+|**2025-01-05**|**Phase diagram of a biaxial nematogenic lattice model: A Monte Carlo simulation study**|Mrinal Kanti Debnath et.al.|[2501.02567v1](http://arxiv.org/abs/2501.02567v1)|null|
+|**2025-01-05**|**Inverted Temperature Gradients in Gold-Palladium Antenna-Reactor Nanoparticles**|Felix Stete et.al.|[2501.02566v1](http://arxiv.org/abs/2501.02566v1)|null|
+|**2025-01-05**|**Impact of Composition and Chain Length on the Interfacial and Thermodynamic Properties of Cyclic and Linear Polymer Blends**|Oluwatumininu Emmanuel Ayo-Ojo et.al.|[2501.02551v1](http://arxiv.org/abs/2501.02551v1)|null|
+|**2025-01-05**|**Investigation of magnetic ordering with spin reorientation transition and optical properties in DyCo $_{0.5}$Cr$_{0.5}$O$_3$ nanomaterials**|M. M. Islam et.al.|[2501.02544v1](http://arxiv.org/abs/2501.02544v1)|null|
+|**2025-01-05**|**Connecting Shear Thinning and Dynamic Heterogeneity in Supercooled Liquids by Localized Elasticity**|Ke-Qi Zeng et.al.|[2501.02437v1](http://arxiv.org/abs/2501.02437v1)|null|
+|**2025-01-05**|**The effect of stereochemical constraints on the radius of gyration of folded proteins**|Jack A. Logan et.al.|[2501.02424v1](http://arxiv.org/abs/2501.02424v1)|null|
+|**2025-01-04**|**Kovacs-like memory effect in a sheared colloidal glass: role of non-affine flows**|Maitri Mandal et.al.|[2501.02343v1](http://arxiv.org/abs/2501.02343v1)|null|
+|**2025-01-04**|**Entropic organization of topologically modified ring polymers in spherical confinement**|Kingkini Roychoudhury et.al.|[2501.02276v1](http://arxiv.org/abs/2501.02276v1)|null|
+|**2025-01-04**|**Decoding active force fluctuations from spatial trajectories of active systems**|Anisha Majhi et.al.|[2501.02236v1](http://arxiv.org/abs/2501.02236v1)|null|
 |**2025-01-03**|**Dense array of elastic hairs obstructing a fluidic channel**|Etienne Jambon-Puillet et.al.|[2501.01875v1](http://arxiv.org/abs/2501.01875v1)|null|
 |**2025-01-03**|**Dynamic wetting of concentrated granular suspensions**|Reza Azizmalayeri et.al.|[2501.01762v1](http://arxiv.org/abs/2501.01762v1)|null|
 |**2025-01-02**|**Architected Dual-Network Solvent-free Adhesives for Stretchable Fabrics**|Gabriela Moreira Lana et.al.|[2501.01522v1](http://arxiv.org/abs/2501.01522v1)|null|
@@ -7714,6 +7734,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**Investigation of magnetic ordering with spin reorientation transition and optical properties in DyCo $_{0.5}$Cr$_{0.5}$O$_3$ nanomaterials**|M. M. Islam et.al.|[2501.02544v1](http://arxiv.org/abs/2501.02544v1)|null|
 |**2024-12-26**|**Role of phonon coupling in driving photo-excited Mott insulators towards a transient superconducting steady state**|Sujay Ray et.al.|[2412.19205v1](http://arxiv.org/abs/2412.19205v1)|null|
 |**2024-12-24**|**Origin of the insulating and superconducting phases in molecular solid $κ$-(BEDT-TTF)$_2$Cu$_2$(CN)$_3$**|Dongbin Shin et.al.|[2412.18088v1](http://arxiv.org/abs/2412.18088v1)|null|
 |**2024-12-23**|**Topological Properties of Bilayer $α-T_{3}$ Lattice Induced by Polarized Light**|O. Benhaida et.al.|[2412.17763v1](http://arxiv.org/abs/2412.17763v1)|null|
@@ -8094,6 +8115,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Magnetoelectric effect in van der Waals magnets**|Kai-Xuan Zhang et.al.|[2501.02070v1](http://arxiv.org/abs/2501.02070v1)|null|
 |**2025-01-02**|**Analysis of Measurements of the Magnetic Flux Density in Steel Blocks of the Compact Muon Solenoid Magnet Yoke with Solenoid Coil Fast Discharges**|Vyacheslav Klyukhin et.al.|[2501.01357v1](http://arxiv.org/abs/2501.01357v1)|null|
 |**2025-01-01**|**Current-induced re-entrant superconductivity and extreme nonreciprocal superconducting diode effect in valley-polarized systems**|Yu-Chen Zhuang et.al.|[2501.00835v1](http://arxiv.org/abs/2501.00835v1)|null|
 |**2024-12-31**|**Analysis of nonlinear dynamics in a single magnetic pendulum driven by plate-magnet interaction**|Hoang X. Nguyen et.al.|[2501.00454v1](http://arxiv.org/abs/2501.00454v1)|null|
@@ -8331,6 +8353,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Topology meets time-reversal symmetry breaking in FeSe $_{1-x}$Te$_{x}$ superconductor**|M. Roppongi et.al.|[2501.02818v1](http://arxiv.org/abs/2501.02818v1)|null|
+|**2025-01-05**|**Universal classes of disorder scatterings in in-plane anomalous Hall effect**|Guoao Yang et.al.|[2501.02533v1](http://arxiv.org/abs/2501.02533v1)|null|
 |**2025-01-02**|**Three-dimensional quantum anomalous Hall effect in Weyl semimetals**|Zhi-Qiang Zhang et.al.|[2501.01399v1](http://arxiv.org/abs/2501.01399v1)|null|
 |**2024-12-28**|**Magnetic Phase Diagram of Mn3+xSn1-x Epitaxial Thin Films: Extending the Anomalous Hall Effect to Low Temperatures via Intrinsic Alloying**|K. Gas et.al.|[2412.20139v1](http://arxiv.org/abs/2412.20139v1)|null|
 |**2024-12-28**|**An ab-initio study on engineering quantum anomalous Hall effect in compensated antiferromagnet MnBi $_{2}$Te$_{4}$**|Zeyu Li et.al.|[2412.20136v1](http://arxiv.org/abs/2412.20136v1)|null|
