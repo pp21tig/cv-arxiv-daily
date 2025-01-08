@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Elongated particles in flow: Commentary on small angle scattering investigations**|Guan-Rong Huang et.al.|[2501.03976v1](http://arxiv.org/abs/2501.03976v1)|null|
+|**2025-01-07**|**Shapiro Steps Observed in a Two-Dimensional Yukawa Solid Modulated by a One-Dimensional Vibrational Periodic Substrate**|Zhaoye Wang et.al.|[2501.03949v1](http://arxiv.org/abs/2501.03949v1)|null|
+|**2025-01-07**|**Kinetic theory of decentralized learning for smart active matter**|Gerhard Jung et.al.|[2501.03948v1](http://arxiv.org/abs/2501.03948v1)|null|
+|**2025-01-07**|**Red blood cells aggregates transport for finite concentration**|Mehdi Abbasi et.al.|[2501.03860v1](http://arxiv.org/abs/2501.03860v1)|null|
+|**2025-01-07**|**Concentration of Empirical First-Passage Times**|Rick Bebon et.al.|[2501.03810v1](http://arxiv.org/abs/2501.03810v1)|null|
+|**2025-01-07**|**Patterns robust to Disorder in spatially-interacting Generalized Lotka-Volterra Ecosystems**|Alessandro Salvatore et.al.|[2501.03809v1](http://arxiv.org/abs/2501.03809v1)|null|
+|**2025-01-07**|**Influence of the dividing surface notion on the formulation of Tolman's law**|Martin Thomas Horsch et.al.|[2501.03772v1](http://arxiv.org/abs/2501.03772v1)|null|
+|**2025-01-07**|**Confinement and Activity-Driven Dynamics of Semiflexible Polymers in Motility Assays**|Sandip Roy et.al.|[2501.03686v1](http://arxiv.org/abs/2501.03686v1)|null|
+|**2025-01-07**|**The signature of topology in polar and chiral non-magnetic crystal classes**|Giancarlo Soavi et.al.|[2501.03684v1](http://arxiv.org/abs/2501.03684v1)|null|
+|**2025-01-07**|**On the addition of micron-size intruders in a shear-thickening suspension of nanoparticles**|Alice Pelosse et.al.|[2501.03529v1](http://arxiv.org/abs/2501.03529v1)|null|
+|**2025-01-07**|**Zeno Freezing and Anti-Zeno Acceleration of the Dynamic Evolution of Acoustic Topological Boundary States**|Xiao-Meng Zhang et.al.|[2501.03502v1](http://arxiv.org/abs/2501.03502v1)|null|
+|**2025-01-07**|**Critical-like phenomenon in scraping of jamming systems**|Masaya Endo et.al.|[2501.03473v1](http://arxiv.org/abs/2501.03473v1)|null|
+|**2025-01-06**|**Energy injection in an epithelial cell monolayer via negative viscosity**|Molly McCord et.al.|[2501.03401v1](http://arxiv.org/abs/2501.03401v1)|null|
+|**2025-01-06**|**The dipolar Aleppo lattice: Ground state ordering and ergodic dynamics in the absence of vertex frustration**|Gopi Mahato et.al.|[2501.03375v1](http://arxiv.org/abs/2501.03375v1)|null|
+|**2025-01-06**|**Sub-micron Circuit Fabrication on Diamond Anvils for Mesoscopic High-Pressure Experiments**|Z. R. Rehfuss et.al.|[2501.03317v1](http://arxiv.org/abs/2501.03317v1)|null|
 |**2025-01-06**|**MinD the gap: Membrane proteins form 3D patterns in a suspension of liposomes**|Amélie Chardac et.al.|[2501.03179v1](http://arxiv.org/abs/2501.03179v1)|null|
 |**2025-01-06**|**Application of $J$ -Integral to a Random Elastic Medium**|Jan Eliáš et.al.|[2501.03156v1](http://arxiv.org/abs/2501.03156v1)|null|
 |**2025-01-06**|**Cavity quantum electrodynamics of photonic temporal crystals**|Junhyeon Bae et.al.|[2501.03106v1](http://arxiv.org/abs/2501.03106v1)|null|
@@ -8043,6 +8058,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Terahertz-driven ultrafast dynamics of rare-earth nickelates by controlling only the charge degree of freedom**|Gulloo Lal Prajapati et.al.|[2501.03650v1](http://arxiv.org/abs/2501.03650v1)|null|
 |**2024-12-30**|**A Hidden Quantum Paraelectric Phase in SrTiO3 Induced by Terahertz Field**|Wei Li et.al.|[2412.20887v1](http://arxiv.org/abs/2412.20887v1)|null|
 |**2024-12-07**|**Ultrafast lattice and electron dynamics induced in a PbSe crystal by an intense terahertz pulse**|A. A. Melnikov et.al.|[2412.05704v1](http://arxiv.org/abs/2412.05704v1)|null|
 |**2024-12-02**|**Terahertz stimulated parametric downconversion of a magnon mode in an antiferromagnet**|Zhuquan Zhang et.al.|[2412.01989v1](http://arxiv.org/abs/2412.01989v1)|null|
@@ -8115,7 +8131,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-03**|**Magnetoelectric effect in van der Waals magnets**|Kai-Xuan Zhang et.al.|[2501.02070v1](http://arxiv.org/abs/2501.02070v1)|null|
+|**2025-01-07**|**Field-free perpendicular magnetization switching of low critical current density at room temperature in TaIrTe4/ferromagnet heterostructures**|Lujun Wei et.al.|[2501.03712v1](http://arxiv.org/abs/2501.03712v1)|null|
+|**2025-01-07**|**Magnetoelectric effect in van der Waals magnets**|Kai-Xuan Zhang et.al.|[2501.02070v2](http://arxiv.org/abs/2501.02070v2)|null|
 |**2025-01-02**|**Analysis of Measurements of the Magnetic Flux Density in Steel Blocks of the Compact Muon Solenoid Magnet Yoke with Solenoid Coil Fast Discharges**|Vyacheslav Klyukhin et.al.|[2501.01357v1](http://arxiv.org/abs/2501.01357v1)|null|
 |**2025-01-01**|**Current-induced re-entrant superconductivity and extreme nonreciprocal superconducting diode effect in valley-polarized systems**|Yu-Chen Zhuang et.al.|[2501.00835v1](http://arxiv.org/abs/2501.00835v1)|null|
 |**2024-12-31**|**Analysis of nonlinear dynamics in a single magnetic pendulum driven by plate-magnet interaction**|Hoang X. Nguyen et.al.|[2501.00454v1](http://arxiv.org/abs/2501.00454v1)|null|
