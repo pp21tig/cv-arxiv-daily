@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679v1](http://arxiv.org/abs/2501.04679v1)|null|
+|**2025-01-08**|**Bundling architecture in elastic filaments with applied twist**|Amit Dawadi et.al.|[2501.04650v1](http://arxiv.org/abs/2501.04650v1)|null|
+|**2025-01-08**|**Chondrule dust rim growth: Influence of restructuring using molecular dynamics simulations**|Chuchu Xiang et.al.|[2501.04625v1](http://arxiv.org/abs/2501.04625v1)|null|
+|**2025-01-08**|**Motion and hydrodynamic resistance of an elastic bead confined in a square microchannel**|Charles Paul Moore et.al.|[2501.04592v1](http://arxiv.org/abs/2501.04592v1)|null|
+|**2025-01-08**|**The importance of being discrete -- An agent-based model for active nematics and more**|Mathieu Dedenon et.al.|[2501.04559v1](http://arxiv.org/abs/2501.04559v1)|null|
+|**2025-01-08**|**Phenomenological modeling of the stress-free two-way shape-memory effect in semi-crystalline networks: Formulation, numerical simulation, and experimental validation**|Matteo Arricca et.al.|[2501.04552v1](http://arxiv.org/abs/2501.04552v1)|null|
+|**2025-01-08**|**Solvent-triggered shape change in gradient-based 4D printed bilayers: case study on semi-crystalline polymer networks**|Lorenzo Bonetti et.al.|[2501.04546v1](http://arxiv.org/abs/2501.04546v1)|null|
+|**2025-01-08**|**Hallmarks of Spin Textures for High-Harmonic Generation**|Francesco Gabriele et.al.|[2501.04545v1](http://arxiv.org/abs/2501.04545v1)|null|
+|**2025-01-08**|**A numerical toy model of Langevin dynamics provides real-time visualization of colloidal microdroplet evaporation**|Gennadiy Derkachov et.al.|[2501.04456v1](http://arxiv.org/abs/2501.04456v1)|null|
+|**2025-01-08**|**Fate of gapless edge states in two-dimensional topological insulators with Hatsugai-Kohmoto interaction**|Jan Skolimowski et.al.|[2501.04395v1](http://arxiv.org/abs/2501.04395v1)|null|
+|**2025-01-08**|**Comparison of bulk properties of wet granular materials using different capillary force approximations**|Meysam Bagheri et.al.|[2501.04391v1](http://arxiv.org/abs/2501.04391v1)|null|
+|**2025-01-08**|**Novel magnetic-field-free switching behavior in vdW-magnet/oxide heterostructure**|Jihoon Keum et.al.|[2501.04235v1](http://arxiv.org/abs/2501.04235v1)|null|
+|**2025-01-07**|**Exploiting Instabilities to Enable Large Shape Transformations in Dielectric Elastomers**|Daniel Katusele et.al.|[2501.04128v1](http://arxiv.org/abs/2501.04128v1)|null|
 |**2025-01-07**|**Elongated particles in flow: Commentary on small angle scattering investigations**|Guan-Rong Huang et.al.|[2501.03976v1](http://arxiv.org/abs/2501.03976v1)|null|
 |**2025-01-07**|**Shapiro Steps Observed in a Two-Dimensional Yukawa Solid Modulated by a One-Dimensional Vibrational Periodic Substrate**|Zhaoye Wang et.al.|[2501.03949v1](http://arxiv.org/abs/2501.03949v1)|null|
 |**2025-01-07**|**Kinetic theory of decentralized learning for smart active matter**|Gerhard Jung et.al.|[2501.03948v1](http://arxiv.org/abs/2501.03948v1)|null|
@@ -8127,6 +8140,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Novel magnetic-field-free switching behavior in vdW-magnet/oxide heterostructure**|Jihoon Keum et.al.|[2501.04235v1](http://arxiv.org/abs/2501.04235v1)|null|
 |**2025-01-07**|**Field-free perpendicular magnetization switching of low critical current density at room temperature in TaIrTe4/ferromagnet heterostructures**|Lujun Wei et.al.|[2501.03712v1](http://arxiv.org/abs/2501.03712v1)|null|
 |**2025-01-07**|**Magnetoelectric effect in van der Waals magnets**|Kai-Xuan Zhang et.al.|[2501.02070v2](http://arxiv.org/abs/2501.02070v2)|null|
 |**2025-01-02**|**Analysis of Measurements of the Magnetic Flux Density in Steel Blocks of the Compact Muon Solenoid Magnet Yoke with Solenoid Coil Fast Discharges**|Vyacheslav Klyukhin et.al.|[2501.01357v1](http://arxiv.org/abs/2501.01357v1)|null|
