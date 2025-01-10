@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Active Microrheology and Dynamic Phases for Pattern Forming Systems with Competing Interactions**|C. Reichhardt et.al.|[2501.05421v1](http://arxiv.org/abs/2501.05421v1)|null|
+|**2025-01-09**|**Self-propulsion and self-rotation of an inertial chiral active Ornstein-Uhlenbeck particle**|F Sahala et.al.|[2501.05390v1](http://arxiv.org/abs/2501.05390v1)|null|
+|**2025-01-09**|**Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**|Eric Grelet et.al.|[2501.05372v1](http://arxiv.org/abs/2501.05372v1)|null|
+|**2025-01-09**|**Force-Velocity Relationship in Branched Actin Networks: Consequences of Entanglement, Drag and Stall Force**|Magid Badaoui et.al.|[2501.05335v1](http://arxiv.org/abs/2501.05335v1)|null|
+|**2025-01-09**|**Multi-Particle Collision Framework for Active Polar Fluids**|Oleksandr Baziei et.al.|[2501.05167v1](http://arxiv.org/abs/2501.05167v1)|null|
+|**2025-01-09**|**Anisotropic active Brownian particle in two dimensions under stochastic resetting**|Anirban Ghosh et.al.|[2501.05149v1](http://arxiv.org/abs/2501.05149v1)|null|
+|**2025-01-09**|**Effect of particle and substrate wettability on evaporation-driven assembly of colloidal monolayers**|Qingguang Xie et.al.|[2501.05088v1](http://arxiv.org/abs/2501.05088v1)|null|
+|**2025-01-09**|**Finite strain continuum phenomenological model describing the shape-memory effects in multi-phase semi-crystalline networks**|Matteo Arricca et.al.|[2501.05043v1](http://arxiv.org/abs/2501.05043v1)|null|
+|**2025-01-09**|**Three Simple Stokeslet Trajectories**|Benjamin J. Landrum et.al.|[2501.04965v1](http://arxiv.org/abs/2501.04965v1)|null|
+|**2025-01-09**|**A Cold Tracer in a Hot Bath: In and Out of Equilibrium**|Amer Al-Hiyasat et.al.|[2501.04930v1](http://arxiv.org/abs/2501.04930v1)|null|
+|**2025-01-09**|**Stability of a passive viscous droplet in a confined active nematic liquid crystal**|Tanumoy Dhar et.al.|[2501.04918v1](http://arxiv.org/abs/2501.04918v1)|null|
+|**2025-01-08**|**Robust asynchronous optical sampling terahertz spectroscopy using commercially available free-running lasers**|Mayuri Nakagawa et.al.|[2501.04874v1](http://arxiv.org/abs/2501.04874v1)|null|
+|**2025-01-08**|**Training Allostery-Inspired Mechanical Response in Disordered Elastic Networks**|Savannah D. Gowen et.al.|[2501.04838v1](http://arxiv.org/abs/2501.04838v1)|null|
+|**2025-01-08**|**Energy Dynamics Powered by Traction and Stress Control Formation and Motion of +1/2 Topological Defects in Epithelial Cell Monolayers**|Pradip K. Bera et.al.|[2501.04827v1](http://arxiv.org/abs/2501.04827v1)|null|
+|**2025-01-08**|**Giant Kohn anomaly and chiral phonons in the charge density wave phase of 1H-NbSe $_2$**|Susy Exists et.al.|[2501.04821v1](http://arxiv.org/abs/2501.04821v1)|null|
+|**2025-01-08**|**A phase-field model for DNA self-assembly**|Marco Cappa et.al.|[2501.04790v1](http://arxiv.org/abs/2501.04790v1)|null|
+|**2025-01-08**|**Phase diagram, confining strings, and a new universality class in nematopolar matter**|Farzan Vafa et.al.|[2501.04769v1](http://arxiv.org/abs/2501.04769v1)|null|
+|**2025-01-08**|**Microscopic structure and dynamics of shear-thinning suspensions of polydisperse, repulsive vesicles**|Nikolaos Kolezakis et.al.|[2501.04758v1](http://arxiv.org/abs/2501.04758v1)|null|
 |**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679v1](http://arxiv.org/abs/2501.04679v1)|null|
 |**2025-01-08**|**Bundling architecture in elastic filaments with applied twist**|Amit Dawadi et.al.|[2501.04650v1](http://arxiv.org/abs/2501.04650v1)|null|
 |**2025-01-08**|**Chondrule dust rim growth: Influence of restructuring using molecular dynamics simulations**|Chuchu Xiang et.al.|[2501.04625v1](http://arxiv.org/abs/2501.04625v1)|null|
@@ -8384,6 +8402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Correlation between Complex Spin Textures and the Magnetocaloric and Hall Effects in Eu(Ga $_{1-x}$Al$_x$)$_4$ ($x$ = 0.9, 1)**|Kelly J. Neubauer et.al.|[2501.05227v1](http://arxiv.org/abs/2501.05227v1)|null|
 |**2025-01-06**|**Topology meets time-reversal symmetry breaking in FeSe $_{1-x}$Te$_{x}$ superconductor**|M. Roppongi et.al.|[2501.02818v1](http://arxiv.org/abs/2501.02818v1)|null|
 |**2025-01-05**|**Universal classes of disorder scatterings in in-plane anomalous Hall effect**|Guoao Yang et.al.|[2501.02533v1](http://arxiv.org/abs/2501.02533v1)|null|
 |**2025-01-02**|**Three-dimensional quantum anomalous Hall effect in Weyl semimetals**|Zhi-Qiang Zhang et.al.|[2501.01399v1](http://arxiv.org/abs/2501.01399v1)|null|
