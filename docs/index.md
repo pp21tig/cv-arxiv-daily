@@ -1109,6 +1109,7 @@ layout: default
 |**2025-01-09**|**Multi-Particle Collision Framework for Active Polar Fluids**|Oleksandr Baziei et.al.|[2501.05167v1](http://arxiv.org/abs/2501.05167v1)|null|
 |**2025-01-09**|**Anisotropic active Brownian particle in two dimensions under stochastic resetting**|Anirban Ghosh et.al.|[2501.05149v1](http://arxiv.org/abs/2501.05149v1)|null|
 |**2025-01-09**|**Effect of particle and substrate wettability on evaporation-driven assembly of colloidal monolayers**|Qingguang Xie et.al.|[2501.05088v1](http://arxiv.org/abs/2501.05088v1)|null|
+|**2025-01-09**|**Material instability and subsequent restabilization from homogenization of periodic elastic lattices**|Davide Bigoni et.al.|[2501.05044v1](http://arxiv.org/abs/2501.05044v1)|null|
 |**2025-01-09**|**Finite strain continuum phenomenological model describing the shape-memory effects in multi-phase semi-crystalline networks**|Matteo Arricca et.al.|[2501.05043v1](http://arxiv.org/abs/2501.05043v1)|null|
 |**2025-01-09**|**Three Simple Stokeslet Trajectories**|Benjamin J. Landrum et.al.|[2501.04965v1](http://arxiv.org/abs/2501.04965v1)|null|
 |**2025-01-09**|**A Cold Tracer in a Hot Bath: In and Out of Equilibrium**|Amer Al-Hiyasat et.al.|[2501.04930v1](http://arxiv.org/abs/2501.04930v1)|null|
