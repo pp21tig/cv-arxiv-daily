@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**A strong-coupling effective-field theory for asymmetrically charged plates with counterions only**|L. Samaj et.al.|[2501.06153v1](http://arxiv.org/abs/2501.06153v1)|null|
+|**2025-01-10**|**Discontinuous Transition to Active Nematic Turbulence**|Malcolm Hillebrand et.al.|[2501.06085v1](http://arxiv.org/abs/2501.06085v1)|null|
+|**2025-01-10**|**Cellular dynamics emerging from turbulent flows steered by active filaments**|Mehrana R. Nejad et.al.|[2501.05971v1](http://arxiv.org/abs/2501.05971v1)|null|
+|**2025-01-10**|**Entanglement transition in a cluster spin chain coupled with free spins**|Kevissen Sellapillay et.al.|[2501.05937v1](http://arxiv.org/abs/2501.05937v1)|null|
+|**2025-01-10**|**Dynamical Spreading Under Power Law Potential**|Ido Fanto et.al.|[2501.05846v1](http://arxiv.org/abs/2501.05846v1)|null|
+|**2025-01-10**|**Development and Comparison of Model-Based and Data-Driven Approaches for the Prediction of the Mechanical Properties of Lattice Structures**|Chiara Pasini et.al.|[2501.05762v1](http://arxiv.org/abs/2501.05762v1)|null|
+|**2025-01-10**|**Electrostatic interactions between anisotropic particles**|Harshit Joshi et.al.|[2501.05760v1](http://arxiv.org/abs/2501.05760v1)|null|
+|**2025-01-10**|**Mangnon-Phonon-Photon Interactions in Cubic Ferromagnets in the Vicinity of Orientational Phase Transition: Retrospective and Phenomenological Study**|I. V. Bychkov et.al.|[2501.05721v1](http://arxiv.org/abs/2501.05721v1)|null|
+|**2025-01-10**|**Structural transition and emission enhancement in vacancy ordered halide double perovskite Cs $_2$TeCl$_6$ under pressure**|Suvashree Mukherjee et.al.|[2501.05705v1](http://arxiv.org/abs/2501.05705v1)|null|
+|**2025-01-09**|**Kitaev Quantum Spin Liquids**|Yuji Matsuda et.al.|[2501.05608v1](http://arxiv.org/abs/2501.05608v1)|null|
+|**2025-01-09**|**Emergent weight morphologies in deep neural networks**|Pascal de Jong et.al.|[2501.05550v1](http://arxiv.org/abs/2501.05550v1)|null|
 |**2025-01-09**|**Active Microrheology and Dynamic Phases for Pattern Forming Systems with Competing Interactions**|C. Reichhardt et.al.|[2501.05421v1](http://arxiv.org/abs/2501.05421v1)|null|
 |**2025-01-09**|**Self-propulsion and self-rotation of an inertial chiral active Ornstein-Uhlenbeck particle**|F Sahala et.al.|[2501.05390v1](http://arxiv.org/abs/2501.05390v1)|null|
 |**2025-01-09**|**Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**|Eric Grelet et.al.|[2501.05372v1](http://arxiv.org/abs/2501.05372v1)|null|
@@ -7781,6 +7792,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Band structure evolution from kagome to Lieb under periodic driving field**|Gulshan Kumar et.al.|[2501.05685v1](http://arxiv.org/abs/2501.05685v1)|null|
 |**2025-01-07**|**Investigation of magnetic ordering with spin reorientation transition and optical properties in DyCo $_{0.5}$Cr$_{0.5}$O$_3$ nanomaterials**|M. M. Islam et.al.|[2501.02544v2](http://arxiv.org/abs/2501.02544v2)|null|
 |**2024-12-26**|**Role of phonon coupling in driving photo-excited Mott insulators towards a transient superconducting steady state**|Sujay Ray et.al.|[2412.19205v1](http://arxiv.org/abs/2412.19205v1)|null|
 |**2024-12-24**|**Origin of the insulating and superconducting phases in molecular solid $κ$-(BEDT-TTF)$_2$Cu$_2$(CN)$_3$**|Dongbin Shin et.al.|[2412.18088v1](http://arxiv.org/abs/2412.18088v1)|null|
@@ -8403,6 +8415,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Tunable superconductivity coexisting with the anomalous Hall effect in 1T'-WS2**|Md Shafayat Hossain et.al.|[2501.05980v1](http://arxiv.org/abs/2501.05980v1)|null|
+|**2025-01-10**|**Unconventional enhancement of anomalous Hall effect by tilt of Zeeman field in topologically-nontrivial MXenes, $M_2M'$C$_2$O$_2$**|Tetsuro Habe et.al.|[2501.05702v1](http://arxiv.org/abs/2501.05702v1)|null|
 |**2025-01-09**|**Correlation between Complex Spin Textures and the Magnetocaloric and Hall Effects in Eu(Ga $_{1-x}$Al$_x$)$_4$ ($x$ = 0.9, 1)**|Kelly J. Neubauer et.al.|[2501.05227v1](http://arxiv.org/abs/2501.05227v1)|null|
 |**2025-01-06**|**Topology meets time-reversal symmetry breaking in FeSe $_{1-x}$Te$_{x}$ superconductor**|M. Roppongi et.al.|[2501.02818v1](http://arxiv.org/abs/2501.02818v1)|null|
 |**2025-01-05**|**Universal classes of disorder scatterings in in-plane anomalous Hall effect**|Guoao Yang et.al.|[2501.02533v1](http://arxiv.org/abs/2501.02533v1)|null|
