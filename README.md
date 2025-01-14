@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**From Fiber to Fabric: Designing the Mechanics of Machine Knitting**|Cosima du Pasquier et.al.|[2501.07567v1](http://arxiv.org/abs/2501.07567v1)|null|
+|**2025-01-13**|**The shape of cleaved tethered membranes**|A. D. Chen et.al.|[2501.07549v1](http://arxiv.org/abs/2501.07549v1)|null|
+|**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[2501.07546v1](http://arxiv.org/abs/2501.07546v1)|null|
+|**2025-01-13**|**Cells around the corner**|Aniruddh Murali et.al.|[2501.07517v1](http://arxiv.org/abs/2501.07517v1)|null|
+|**2025-01-13**|**Particle-In-Cell Simulations of Quantum Plasmas**|Gregory K. Ngirmang et.al.|[2501.07465v1](http://arxiv.org/abs/2501.07465v1)|null|
+|**2025-01-13**|**Capillary Pressure-Saturation relation derived from the Pore Morphology Method**|Fernando Alonso-Marroquin et.al.|[2501.07355v1](http://arxiv.org/abs/2501.07355v1)|null|
+|**2025-01-13**|**Competing Effects of Local Solvation Structures on Chemical Shift Changes of Liquid Electrolyte**|Qi You et.al.|[2501.07321v1](http://arxiv.org/abs/2501.07321v1)|null|
+|**2025-01-13**|**Coarse-graining dense, deformable active particles**|Mehrana R. Nejad et.al.|[2501.07280v1](http://arxiv.org/abs/2501.07280v1)|null|
+|**2025-01-13**|**Review and analysis of thermophysical properties of a sulfuric acid-water electrolyte**|Laura Oca et.al.|[2501.07258v1](http://arxiv.org/abs/2501.07258v1)|null|
+|**2025-01-13**|**Eigenstate Thermalization Hypothesis: A Short Review**|Mohsen Alishahiha et.al.|[2501.07243v1](http://arxiv.org/abs/2501.07243v1)|null|
+|**2025-01-13**|**Nonvolatile Magnonics in Bilayer Magnetic Insulators**|Jinyang Ni et.al.|[2501.07218v1](http://arxiv.org/abs/2501.07218v1)|null|
+|**2025-01-13**|**Species interconversion of deformable particles yields transient phase separation**|Yiwei Zhang et.al.|[2501.07169v1](http://arxiv.org/abs/2501.07169v1)|null|
+|**2025-01-13**|**Simulating spin $\unicode{x2013}$orbit coupled Bose$\unicode{x2013}$ Einstein condensates: a concise overview for non-experts**|Dylan R. Pollard et.al.|[2501.06998v1](http://arxiv.org/abs/2501.06998v1)|null|
+|**2025-01-12**|**On the origin of heating-induced stiffening and enthalpic reinforcement in elastomeric nanocomposites**|Pierre Kawak et.al.|[2501.06971v1](http://arxiv.org/abs/2501.06971v1)|null|
+|**2025-01-12**|**Towards understanding structure-function relationships in random fiber networks**|Peerasait Prachaseree et.al.|[2501.06958v1](http://arxiv.org/abs/2501.06958v1)|null|
+|**2025-01-12**|**Anomalous Molecular Weight Dependence Reveals the Origin of Mechanical Enhancement in Polymer Nanocomposite**|Tae Yeon Kong et.al.|[2501.06803v1](http://arxiv.org/abs/2501.06803v1)|null|
+|**2025-01-12**|**The 2025 Roadmap to Ultrafast Dynamics: Frontiers of Theoretical and Computational Modelling**|Fabio Caruso et.al.|[2501.06752v1](http://arxiv.org/abs/2501.06752v1)|null|
+|**2025-01-12**|**Theoretical Basis for Classifying Hyperuniform States of Two-Component Systems**|Hiroshi Frusawa et.al.|[2501.06735v1](http://arxiv.org/abs/2501.06735v1)|null|
+|**2025-01-11**|**Self-assembly of chromatic patchy particles with tetrahedrally arranged patches**|Dariusz Tarasewicz et.al.|[2501.06644v1](http://arxiv.org/abs/2501.06644v1)|null|
+|**2025-01-10**|**Electrostatics and viscosity are strongly linked in concentrated antibody solutions**|Fabrizio Camerin et.al.|[2501.06324v1](http://arxiv.org/abs/2501.06324v1)|null|
 |**2025-01-10**|**A strong-coupling effective-field theory for asymmetrically charged plates with counterions only**|L. Samaj et.al.|[2501.06153v1](http://arxiv.org/abs/2501.06153v1)|null|
 |**2025-01-10**|**Discontinuous Transition to Active Nematic Turbulence**|Malcolm Hillebrand et.al.|[2501.06085v1](http://arxiv.org/abs/2501.06085v1)|null|
 |**2025-01-10**|**Cellular dynamics emerging from turbulent flows steered by active filaments**|Mehrana R. Nejad et.al.|[2501.05971v1](http://arxiv.org/abs/2501.05971v1)|null|
@@ -7788,6 +7808,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-11**|**Fermi Level and Light Driven Defect Generation in Silicon Solar Cells**|Andrew Diggs et.al.|[2501.06667v1](http://arxiv.org/abs/2501.06667v1)|null|
 |**2025-01-10**|**Band structure evolution from kagome to Lieb under periodic driving field**|Gulshan Kumar et.al.|[2501.05685v1](http://arxiv.org/abs/2501.05685v1)|null|
 |**2025-01-07**|**Investigation of magnetic ordering with spin reorientation transition and optical properties in DyCo $_{0.5}$Cr$_{0.5}$O$_3$ nanomaterials**|M. M. Islam et.al.|[2501.02544v2](http://arxiv.org/abs/2501.02544v2)|null|
 |**2024-12-26**|**Role of phonon coupling in driving photo-excited Mott insulators towards a transient superconducting steady state**|Sujay Ray et.al.|[2412.19205v1](http://arxiv.org/abs/2412.19205v1)|null|
@@ -8171,6 +8192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Impact of impurities on leakage current induced by High-Energy Density Pulsed Laser Annealing in Si diodes**|Richard Monflier et.al.|[2501.07168v1](http://arxiv.org/abs/2501.07168v1)|null|
+|**2025-01-13**|**Coastal wave refraction in variable currents over a varying bathymetry**|Trygve Halsne et.al.|[2501.07132v1](http://arxiv.org/abs/2501.07132v1)|null|
 |**2025-01-08**|**Novel magnetic-field-free switching behavior in vdW-magnet/oxide heterostructure**|Jihoon Keum et.al.|[2501.04235v1](http://arxiv.org/abs/2501.04235v1)|null|
 |**2025-01-07**|**Field-free perpendicular magnetization switching of low critical current density at room temperature in TaIrTe4/ferromagnet heterostructures**|Lujun Wei et.al.|[2501.03712v1](http://arxiv.org/abs/2501.03712v1)|null|
 |**2025-01-07**|**Magnetoelectric effect in van der Waals magnets**|Kai-Xuan Zhang et.al.|[2501.02070v2](http://arxiv.org/abs/2501.02070v2)|null|
@@ -8411,6 +8434,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
+|**2025-01-13**|**Large Anomalous Hall Effect in a Noncoplanar Magnetic Heterostructure**|Anke Song et.al.|[2501.07019v1](http://arxiv.org/abs/2501.07019v1)|null|
 |**2025-01-10**|**Tunable superconductivity coexisting with the anomalous Hall effect in 1T'-WS2**|Md Shafayat Hossain et.al.|[2501.05980v1](http://arxiv.org/abs/2501.05980v1)|null|
 |**2025-01-10**|**Unconventional enhancement of anomalous Hall effect by tilt of Zeeman field in topologically-nontrivial MXenes, $M_2M'$C$_2$O$_2$**|Tetsuro Habe et.al.|[2501.05702v1](http://arxiv.org/abs/2501.05702v1)|null|
 |**2025-01-09**|**Correlation between Complex Spin Textures and the Magnetocaloric and Hall Effects in Eu(Ga $_{1-x}$Al$_x$)$_4$ ($x$ = 0.9, 1)**|Kelly J. Neubauer et.al.|[2501.05227v1](http://arxiv.org/abs/2501.05227v1)|null|
