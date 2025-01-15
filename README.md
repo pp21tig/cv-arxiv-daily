@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Quantum vortices leave a macroscopic signature in the normal fluid**|Luca Galantucci et.al.|[2501.08309v1](http://arxiv.org/abs/2501.08309v1)|null|
+|**2025-01-14**|**Coiling instability in the kitchen**|Andrzej Herczyński et.al.|[2501.08307v1](http://arxiv.org/abs/2501.08307v1)|null|
+|**2025-01-14**|**Phononic frictional losses of a particle crossing a crystal: linear-response theory**|Gabriele Riva et.al.|[2501.08239v1](http://arxiv.org/abs/2501.08239v1)|null|
+|**2025-01-14**|**Optimal spatial searches with long-range tunneling**|Emma C. King et.al.|[2501.08148v1](http://arxiv.org/abs/2501.08148v1)|null|
+|**2025-01-14**|**Settling dynamics of non-Brownian suspension of spherical and cubic particles in Stokes flow**|Dipankar Kundu et.al.|[2501.08091v1](http://arxiv.org/abs/2501.08091v1)|null|
+|**2025-01-14**|**Hydrodynamics-driven phase-locking and collective motility of sessile active dumbbells**|Urvi Mahendra Bora et.al.|[2501.08065v1](http://arxiv.org/abs/2501.08065v1)|null|
+|**2025-01-14**|**Lyapunov-Schmidt bifurcation analysis of a supported compressible elastic beam**|Ee Hou Yong et.al.|[2501.08028v1](http://arxiv.org/abs/2501.08028v1)|null|
+|**2025-01-14**|**Heterarchical Granular Dynamics**|Benjy Marks et.al.|[2501.07867v1](http://arxiv.org/abs/2501.07867v1)|null|
+|**2025-01-14**|**Simulations of Three-dimensional Nematic Guidance of Microswimmers**|Zeyang Mou et.al.|[2501.07816v1](http://arxiv.org/abs/2501.07816v1)|null|
+|**2025-01-14**|**Sub-critical athermal flow in disordered materials caused by periodic variations of environmental conditions**|Ezequiel E. Ferrero et.al.|[2501.07782v1](http://arxiv.org/abs/2501.07782v1)|null|
+|**2025-01-13**|**Ensemble inequivalence in the design of mixtures with super-Gibbs phase coexistence**|Filipe C. Thewes et.al.|[2501.07734v1](http://arxiv.org/abs/2501.07734v1)|null|
+|**2025-01-13**|**Electrical Control of the Exchange Bias Effect at Ferromagnet-Altermagnet Junctions**|Gaspar De la Barrera et.al.|[2501.07716v1](http://arxiv.org/abs/2501.07716v1)|null|
+|**2025-01-13**|**Elastic Interaction of Pressurized Cavities in Hyperelastic Media: Attraction and Repulsion**|Ali Saeedi et.al.|[2501.07664v1](http://arxiv.org/abs/2501.07664v1)|null|
+|**2025-01-13**|**Active and passive crosslinking of cytoskeleton scaffolds tune the effects of cell inclusions on composite structure**|Katarina Matic et.al.|[2501.07656v1](http://arxiv.org/abs/2501.07656v1)|null|
+|**2025-01-13**|**A mathematical model for the progression of dental caries**|Rene Fabregas et.al.|[2501.07619v1](http://arxiv.org/abs/2501.07619v1)|null|
 |**2025-01-13**|**From Fiber to Fabric: Designing the Mechanics of Machine Knitting**|Cosima du Pasquier et.al.|[2501.07567v1](http://arxiv.org/abs/2501.07567v1)|null|
 |**2025-01-13**|**The shape of cleaved tethered membranes**|A. D. Chen et.al.|[2501.07549v1](http://arxiv.org/abs/2501.07549v1)|null|
 |**2025-01-13**|**Kinesin-driven de-mixing of cytoskeleton composites drives emergent mechanical properties**|Janet Sheung et.al.|[2501.07546v1](http://arxiv.org/abs/2501.07546v1)|null|
@@ -8434,6 +8449,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Quantum anomalous Hall effect for metrology**|Nathaniel J. Huáng et.al.|[2501.07712v1](http://arxiv.org/abs/2501.07712v1)|null|
 |**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
 |**2025-01-13**|**Large Anomalous Hall Effect in a Noncoplanar Magnetic Heterostructure**|Anke Song et.al.|[2501.07019v1](http://arxiv.org/abs/2501.07019v1)|null|
 |**2025-01-10**|**Tunable superconductivity coexisting with the anomalous Hall effect in 1T'-WS2**|Md Shafayat Hossain et.al.|[2501.05980v1](http://arxiv.org/abs/2501.05980v1)|null|
@@ -8833,6 +8849,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Magnetic Interactions in the Polar Ferrimagnet with a Bipartite Structure**|Junbo Liao et.al.|[2501.07894v1](http://arxiv.org/abs/2501.07894v1)|null|
 |**2025-01-02**|**A Magnon Band Analysis of GdRu2Si2 in the Field-Polarized State**|G. D. A. Wood et.al.|[2501.01201v1](http://arxiv.org/abs/2501.01201v1)|null|
 |**2024-12-30**|**Signatures of Kitaev interactions in the van der Waals ferromagnet VI3**|Yiqing Gu et.al.|[2412.21003v1](http://arxiv.org/abs/2412.21003v1)|null|
 |**2024-12-27**|**Wannier states and spin supersolid physics in the triangular antiferromagnet K $_2$Co(SeO$_3$)$_2$**|M. Zhu et.al.|[2412.19693v1](http://arxiv.org/abs/2412.19693v1)|null|
