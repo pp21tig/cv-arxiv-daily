@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**WeTICA: A directed search weighted ensemble based enhanced sampling method to estimate rare event kinetics in a reduced dimensional space**|Sudipta Mitra et.al.|[2501.08926v1](http://arxiv.org/abs/2501.08926v1)|null|
+|**2025-01-15**|**Simulating inverse patchy colloid models**|Daniele Notarmuzi et.al.|[2501.08920v1](http://arxiv.org/abs/2501.08920v1)|null|
+|**2025-01-15**|**General Solution for Elastic Networks on Arbitrary Curved Surfaces in the Absence of Rotational Symmetry**|Yankang Liu et.al.|[2501.08894v1](http://arxiv.org/abs/2501.08894v1)|null|
+|**2025-01-15**|**Ampère phase in frustrated magnets**|N. Rougemaille et.al.|[2501.08859v1](http://arxiv.org/abs/2501.08859v1)|null|
+|**2025-01-15**|**DMCpy: A powder and single crystal neutron diffraction software for DMC**|Jakob Lass et.al.|[2501.08845v1](http://arxiv.org/abs/2501.08845v1)|null|
+|**2025-01-15**|**Enhanced condensate fluidity in modified patchy particle models**|Alena Taskina et.al.|[2501.08836v1](http://arxiv.org/abs/2501.08836v1)|null|
+|**2025-01-15**|**Relative knot probabilities in confined lattice polygons**|EJ Janse van Rensburg et.al.|[2501.08835v1](http://arxiv.org/abs/2501.08835v1)|null|
+|**2025-01-15**|**Quantum disorder induced by nuclear tunneling in lattice**|Yu-Cheng Zhu et.al.|[2501.08801v1](http://arxiv.org/abs/2501.08801v1)|null|
+|**2025-01-15**|**Investigation on non-ergodicity of protein dynamics**|Luca Maggi et.al.|[2501.08754v1](http://arxiv.org/abs/2501.08754v1)|null|
+|**2025-01-15**|**Beyond the band edge: Unveiling high-mobility hot carriers in a two-dimensional conjugated coordination polymer**|Shuai Fu et.al.|[2501.08742v1](http://arxiv.org/abs/2501.08742v1)|null|
+|**2025-01-15**|**Revisiting the properties of superfluid and normal liquid ${}^4$ He using ab initio potentials**|Tommaso Morresi et.al.|[2501.08730v1](http://arxiv.org/abs/2501.08730v1)|null|
+|**2025-01-15**|**The Physics of Life: Exploring Information as a Distinctive Feature of Living Systems**|Stuart Bartlett et.al.|[2501.08683v1](http://arxiv.org/abs/2501.08683v1)|null|
+|**2025-01-15**|**Towards Intelligent Active Particles**|Hartmut Löwen et.al.|[2501.08632v1](http://arxiv.org/abs/2501.08632v1)|null|
+|**2025-01-15**|**Confinement-Driven Acceleration of First-Passage Rates**|Won Kyu Kim et.al.|[2501.08571v1](http://arxiv.org/abs/2501.08571v1)|null|
+|**2025-01-15**|**Finite Disorder Critical Point in the Brittle-to-Ductile Transition of Amorphous Solids in the Presence of Particle Pinning**|Anoop Mutneja et.al.|[2501.08511v1](http://arxiv.org/abs/2501.08511v1)|null|
+|**2025-01-14**|**Energy density and stress fields in quantum systems**|Richard M. Martin et.al.|[2501.08432v1](http://arxiv.org/abs/2501.08432v1)|null|
+|**2025-01-14**|**Theory of the Photomolecular Effect**|Michael J. Landry et.al.|[2501.08373v1](http://arxiv.org/abs/2501.08373v1)|null|
 |**2025-01-14**|**Quantum vortices leave a macroscopic signature in the normal fluid**|Luca Galantucci et.al.|[2501.08309v1](http://arxiv.org/abs/2501.08309v1)|null|
 |**2025-01-14**|**Coiling instability in the kitchen**|Andrzej Herczyński et.al.|[2501.08307v1](http://arxiv.org/abs/2501.08307v1)|null|
 |**2025-01-14**|**Phononic frictional losses of a particle crossing a crystal: linear-response theory**|Gabriele Riva et.al.|[2501.08239v1](http://arxiv.org/abs/2501.08239v1)|null|
@@ -8453,6 +8470,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Electronic structure of the Kramers nodal-line semimetal YAuGe**|Takashi Kurumaji et.al.|[2501.08973v1](http://arxiv.org/abs/2501.08973v1)|null|
 |**2025-01-13**|**Quantum anomalous Hall effect for metrology**|Nathaniel J. Huáng et.al.|[2501.07712v1](http://arxiv.org/abs/2501.07712v1)|null|
 |**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
 |**2025-01-13**|**Large Anomalous Hall Effect in a Noncoplanar Magnetic Heterostructure**|Anke Song et.al.|[2501.07019v1](http://arxiv.org/abs/2501.07019v1)|null|
@@ -8853,6 +8871,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Preformed Cooper Pairs in a Triclinic Iron Pnictide Superconductor**|Zezhong Li et.al.|[2501.08687v1](http://arxiv.org/abs/2501.08687v1)|null|
 |**2025-01-14**|**Magnetic Interactions in the Polar Ferrimagnet with a Bipartite Structure**|Junbo Liao et.al.|[2501.07894v1](http://arxiv.org/abs/2501.07894v1)|null|
 |**2025-01-02**|**A Magnon Band Analysis of GdRu2Si2 in the Field-Polarized State**|G. D. A. Wood et.al.|[2501.01201v1](http://arxiv.org/abs/2501.01201v1)|null|
 |**2024-12-30**|**Signatures of Kitaev interactions in the van der Waals ferromagnet VI3**|Yiqing Gu et.al.|[2412.21003v1](http://arxiv.org/abs/2412.21003v1)|null|
