@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Active contacts create controllable friction**|Rohan Shah et.al.|[2501.09746v1](http://arxiv.org/abs/2501.09746v1)|null|
+|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702v1](http://arxiv.org/abs/2501.09702v1)|null|
+|**2025-01-16**|**Active particle in a very thin interfacial droplet**|Airi N. Kato et.al.|[2501.09652v1](http://arxiv.org/abs/2501.09652v1)|null|
+|**2025-01-16**|**Aging of colloidal gels in microgravity**|Swagata S. Datta et.al.|[2501.09650v1](http://arxiv.org/abs/2501.09650v1)|null|
+|**2025-01-16**|**Supersolid dipolar phases in planar geometry: effects of tilted polarization**|Daniel Lima et.al.|[2501.09641v1](http://arxiv.org/abs/2501.09641v1)|null|
+|**2025-01-16**|**Optimal paths and dynamical symmetry breaking in the current fluctuations of driven diffusive media**|Pablo I. Hurtado et.al.|[2501.09629v1](http://arxiv.org/abs/2501.09629v1)|null|
+|**2025-01-16**|**Polarons in atomic gases and two-dimensional semiconductors**|Pietro Massignan et.al.|[2501.09618v1](http://arxiv.org/abs/2501.09618v1)|null|
+|**2025-01-16**|**From Complexification to Self-Similarity: New Aspects of Quantum Criticality**|Yang Liu et.al.|[2501.09477v1](http://arxiv.org/abs/2501.09477v1)|null|
+|**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472v1](http://arxiv.org/abs/2501.09472v1)|null|
+|**2025-01-16**|**Slowly decaying strain solitons in nonlinear viscoelastic waveguides**|F. E. Garbuzov et.al.|[2501.09415v1](http://arxiv.org/abs/2501.09415v1)|null|
+|**2025-01-16**|**Multiple truly topological unidirectional surface magnetoplasmons at terahertz frequencies**|Shengquan Fan et.al.|[2501.09376v1](http://arxiv.org/abs/2501.09376v1)|null|
+|**2025-01-16**|**Magnetically induced deformation of isotropic magneto-active elastomers and its relation to the magnetorheological effect**|Mehran Roghani et.al.|[2501.09353v1](http://arxiv.org/abs/2501.09353v1)|null|
+|**2025-01-16**|**At low temperatures, glass-forming liquids relax in a simple way**|Francesco Rusciano et.al.|[2501.09288v1](http://arxiv.org/abs/2501.09288v1)|null|
+|**2025-01-16**|**Measuring multisubunit mechanics of geometrically-programmed colloidal assemblies via cryo-EM multi-body refinement**|Thomas E. Videbæk et.al.|[2501.09230v1](http://arxiv.org/abs/2501.09230v1)|null|
+|**2025-01-16**|**Absence of diode effect in chiral type-I superconductor NbGe2**|Dong Li et.al.|[2501.09226v1](http://arxiv.org/abs/2501.09226v1)|null|
 |**2025-01-15**|**WeTICA: A directed search weighted ensemble based enhanced sampling method to estimate rare event kinetics in a reduced dimensional space**|Sudipta Mitra et.al.|[2501.08926v1](http://arxiv.org/abs/2501.08926v1)|null|
 |**2025-01-15**|**Simulating inverse patchy colloid models**|Daniele Notarmuzi et.al.|[2501.08920v1](http://arxiv.org/abs/2501.08920v1)|null|
 |**2025-01-15**|**General Solution for Elastic Networks on Arbitrary Curved Surfaces in the Absence of Rotational Symmetry**|Yankang Liu et.al.|[2501.08894v1](http://arxiv.org/abs/2501.08894v1)|null|
@@ -7844,6 +7859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Active particle in a very thin interfacial droplet**|Airi N. Kato et.al.|[2501.09652v1](http://arxiv.org/abs/2501.09652v1)|null|
 |**2025-01-11**|**Fermi Level and Light Driven Defect Generation in Silicon Solar Cells**|Andrew Diggs et.al.|[2501.06667v1](http://arxiv.org/abs/2501.06667v1)|null|
 |**2025-01-10**|**Band structure evolution from kagome to Lieb under periodic driving field**|Gulshan Kumar et.al.|[2501.05685v1](http://arxiv.org/abs/2501.05685v1)|null|
 |**2025-01-07**|**Investigation of magnetic ordering with spin reorientation transition and optical properties in DyCo $_{0.5}$Cr$_{0.5}$O$_3$ nanomaterials**|M. M. Islam et.al.|[2501.02544v2](http://arxiv.org/abs/2501.02544v2)|null|
@@ -8228,6 +8244,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Tunable spin and orbital torques in Cu-based magnetic heterostructures**|Silvia Damerio et.al.|[2501.09458v1](http://arxiv.org/abs/2501.09458v1)|null|
 |**2025-01-13**|**Impact of impurities on leakage current induced by High-Energy Density Pulsed Laser Annealing in Si diodes**|Richard Monflier et.al.|[2501.07168v1](http://arxiv.org/abs/2501.07168v1)|null|
 |**2025-01-13**|**Coastal wave refraction in variable currents over a varying bathymetry**|Trygve Halsne et.al.|[2501.07132v1](http://arxiv.org/abs/2501.07132v1)|null|
 |**2025-01-08**|**Novel magnetic-field-free switching behavior in vdW-magnet/oxide heterostructure**|Jihoon Keum et.al.|[2501.04235v1](http://arxiv.org/abs/2501.04235v1)|null|
@@ -8470,6 +8487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Anomalous and Planar Hall Effects in Cobalt-Holmium Thin Films Near Magnetic Sublattice Compensation**|Ramesh C Budhani et.al.|[2501.09206v1](http://arxiv.org/abs/2501.09206v1)|null|
 |**2025-01-15**|**Electronic structure of the Kramers nodal-line semimetal YAuGe**|Takashi Kurumaji et.al.|[2501.08973v1](http://arxiv.org/abs/2501.08973v1)|null|
 |**2025-01-13**|**Quantum anomalous Hall effect for metrology**|Nathaniel J. Huáng et.al.|[2501.07712v1](http://arxiv.org/abs/2501.07712v1)|null|
 |**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
