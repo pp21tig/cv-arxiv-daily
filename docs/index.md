@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339v1](http://arxiv.org/abs/2501.10339v1)|null|
+|**2025-01-17**|**Hopper flows of dense suspensions: a 2D microfluidic model system**|Lars Kool et.al.|[2501.10308v1](http://arxiv.org/abs/2501.10308v1)|null|
+|**2025-01-17**|**Intense Laser-Driven Phenomena In Weyl Semimetals**|Amar Bharti et.al.|[2501.10293v1](http://arxiv.org/abs/2501.10293v1)|null|
+|**2025-01-17**|**Investigation of Polymer Association Behaviors in Solvents Using a Coarse-Grained Model**|Xiangyu Zhang et.al.|[2501.10286v1](http://arxiv.org/abs/2501.10286v1)|null|
+|**2025-01-17**|**Beyond the Cassie-Baxter Model: New Insights for Predicting Imbibition in Complex Systems**|Mathis Fricke et.al.|[2501.10255v1](http://arxiv.org/abs/2501.10255v1)|null|
+|**2025-01-17**|**Exploring Unique Characteristics in Stark Many-Body Localization**|Chung Po Ching et.al.|[2501.10211v1](http://arxiv.org/abs/2501.10211v1)|null|
+|**2025-01-17**|**Butterfly Patterns for Stretched Inhomogeneous Gel Networks using Large-Scale Molecular Dynamics Simulations**|Katsumi Hagita et.al.|[2501.10086v1](http://arxiv.org/abs/2501.10086v1)|null|
+|**2025-01-17**|**Emergent scales and spatial correlations at the yielding transition of glassy materials**|Stefano Aime et.al.|[2501.10039v1](http://arxiv.org/abs/2501.10039v1)|null|
+|**2025-01-17**|**Room-Temperature Quantum Anomalous Hall Effect in Terbium monohalide**|Jianqi Zhong et.al.|[2501.09970v1](http://arxiv.org/abs/2501.09970v1)|null|
+|**2025-01-17**|**Irreversible swap algorithms for soft sphere glasses**|Yoshihiko Nishikawa et.al.|[2501.09932v1](http://arxiv.org/abs/2501.09932v1)|null|
+|**2025-01-17**|**Non-Hermitian Aharonov-Bohm Cage in Bosonic Bogoliubov-de Gennes Systems**|Kunling Zhou et.al.|[2501.09915v1](http://arxiv.org/abs/2501.09915v1)|null|
+|**2025-01-17**|**A rigid origami elliptic-hyperbolic vertex duality**|Thomas C. Hull et.al.|[2501.09908v1](http://arxiv.org/abs/2501.09908v1)|null|
+|**2025-01-16**|**Motorized Chromosome Models of Mitosis**|Zhiyu Cao et.al.|[2501.09873v1](http://arxiv.org/abs/2501.09873v1)|null|
+|**2025-01-16**|**An Overview of CV-MDI-QKD**|Alasdair I. Fletcher et.al.|[2501.09818v1](http://arxiv.org/abs/2501.09818v1)|null|
 |**2025-01-16**|**Active contacts create controllable friction**|Rohan Shah et.al.|[2501.09746v1](http://arxiv.org/abs/2501.09746v1)|null|
 |**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702v1](http://arxiv.org/abs/2501.09702v1)|null|
 |**2025-01-16**|**Active particle in a very thin interfacial droplet**|Airi N. Kato et.al.|[2501.09652v1](http://arxiv.org/abs/2501.09652v1)|null|
@@ -8244,6 +8258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Quantitative analysis of vectorial torques in thin 3d Co ferromagnet using orbital-spin conversion**|B. Bony et.al.|[2501.09864v1](http://arxiv.org/abs/2501.09864v1)|null|
 |**2025-01-16**|**Tunable spin and orbital torques in Cu-based magnetic heterostructures**|Silvia Damerio et.al.|[2501.09458v1](http://arxiv.org/abs/2501.09458v1)|null|
 |**2025-01-13**|**Impact of impurities on leakage current induced by High-Energy Density Pulsed Laser Annealing in Si diodes**|Richard Monflier et.al.|[2501.07168v1](http://arxiv.org/abs/2501.07168v1)|null|
 |**2025-01-13**|**Coastal wave refraction in variable currents over a varying bathymetry**|Trygve Halsne et.al.|[2501.07132v1](http://arxiv.org/abs/2501.07132v1)|null|
@@ -8487,11 +8502,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Room-Temperature Quantum Anomalous Hall Effect in Terbium monohalide**|Jianqi Zhong et.al.|[2501.09970v1](http://arxiv.org/abs/2501.09970v1)|null|
 |**2025-01-15**|**Anomalous and Planar Hall Effects in Cobalt-Holmium Thin Films Near Magnetic Sublattice Compensation**|Ramesh C Budhani et.al.|[2501.09206v1](http://arxiv.org/abs/2501.09206v1)|null|
 |**2025-01-15**|**Electronic structure of the Kramers nodal-line semimetal YAuGe**|Takashi Kurumaji et.al.|[2501.08973v1](http://arxiv.org/abs/2501.08973v1)|null|
 |**2025-01-13**|**Quantum anomalous Hall effect for metrology**|Nathaniel J. Huáng et.al.|[2501.07712v1](http://arxiv.org/abs/2501.07712v1)|null|
 |**2025-01-13**|**Micromagnetic formalism for magnetic multipoles**|Myoung-Woo Yoo et.al.|[2501.07513v1](http://arxiv.org/abs/2501.07513v1)|null|
-|**2025-01-13**|**Large Anomalous Hall Effect in a Noncoplanar Magnetic Heterostructure**|Anke Song et.al.|[2501.07019v1](http://arxiv.org/abs/2501.07019v1)|null|
+|**2025-01-17**|**Large Anomalous Hall Effect in a Noncoplanar Magnetic Heterostructure**|Anke Song et.al.|[2501.07019v2](http://arxiv.org/abs/2501.07019v2)|null|
 |**2025-01-10**|**Tunable superconductivity coexisting with the anomalous Hall effect in 1T'-WS2**|Md Shafayat Hossain et.al.|[2501.05980v1](http://arxiv.org/abs/2501.05980v1)|null|
 |**2025-01-10**|**Unconventional enhancement of anomalous Hall effect by tilt of Zeeman field in topologically-nontrivial MXenes, $M_2M'$C$_2$O$_2$**|Tetsuro Habe et.al.|[2501.05702v1](http://arxiv.org/abs/2501.05702v1)|null|
 |**2025-01-09**|**Correlation between Complex Spin Textures and the Magnetocaloric and Hall Effects in Eu(Ga $_{1-x}$Al$_x$)$_4$ ($x$ = 0.9, 1)**|Kelly J. Neubauer et.al.|[2501.05227v1](http://arxiv.org/abs/2501.05227v1)|null|
