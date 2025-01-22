@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**The Rouse ring chain with attractive harmonic potential of spherical symmetry**|Nail Fatkullin et.al.|[2501.12324v1](http://arxiv.org/abs/2501.12324v1)|null|
+|**2025-01-21**|**Symmetry and Critical Dynamics in Supercooled Liquid Crystals: Insights into the Glass Transition**|Szymon Starzonek et.al.|[2501.12201v1](http://arxiv.org/abs/2501.12201v1)|null|
+|**2025-01-21**|**Mesoscopic Collective Dynamics in Liquids and the Dual Model**|Fabio Peluso et.al.|[2501.12180v1](http://arxiv.org/abs/2501.12180v1)|null|
+|**2025-01-21**|**Momentum-dependent electron-phonon coupling in cuprates by RIXS: the roles of phonon symmetry and electronic structure**|Maryia Zinouyeva et.al.|[2501.12089v1](http://arxiv.org/abs/2501.12089v1)|null|
+|**2025-01-21**|**Quantum Dynamics of Dissipative Polarizable Media**|Frank Ernesto Quintela Rodriguez et.al.|[2501.12070v1](http://arxiv.org/abs/2501.12070v1)|null|
+|**2025-01-21**|**Low-Cost 3D printed, Biocompatible Ionic Polymer Membranes for Soft Actuators**|Nils Trümpler et.al.|[2501.12025v1](http://arxiv.org/abs/2501.12025v1)|null|
+|**2025-01-21**|**Metamaterials that learn to change shape**|Yao Du et.al.|[2501.11958v1](http://arxiv.org/abs/2501.11958v1)|null|
+|**2025-01-21**|**Freezing in flat monolayers of soft spherocylinders**|Jaydeep Mandal et.al.|[2501.11952v1](http://arxiv.org/abs/2501.11952v1)|null|
+|**2025-01-21**|**Large Amplitude Oscillatory Extension (LAOE) of dilute polymer solutions**|Steffen M. Recktenwald et.al.|[2501.11950v1](http://arxiv.org/abs/2501.11950v1)|null|
+|**2025-01-21**|**Modeling finite viscoelasticity based on the Green-Naghdi kinematic assumption and generalized strains**|Ju Liu et.al.|[2501.11947v1](http://arxiv.org/abs/2501.11947v1)|null|
+|**2025-01-21**|**3D structure and stability prediction of DNA with multi-way junctions in ionic solutions**|Xunxun Wang et.al.|[2501.11891v1](http://arxiv.org/abs/2501.11891v1)|null|
+|**2025-01-21**|**Repulsive thermal van der Waals interaction in multi-species asymmetric electrolytes driven by external electric fields**|Guangle Du et.al.|[2501.11838v1](http://arxiv.org/abs/2501.11838v1)|null|
+|**2025-01-20**|**Nanopillar-Driven Antibacterial Surfaces: Elucidating Bactericidal Mechanisms and Engineering Nanostructures for Enhanced Efficacy**|Akash Singh et.al.|[2501.11727v1](http://arxiv.org/abs/2501.11727v1)|null|
+|**2025-01-20**|**Quantum confining excitons with electrostatic moiré superlattice**|Liuxin Gu et.al.|[2501.11713v1](http://arxiv.org/abs/2501.11713v1)|null|
+|**2025-01-20**|**Propagation of Gravitational Waves on a Geometric Condensate background of $(R + αR^{2})$ Origin**|Aurindam Mondal et.al.|[2501.11694v1](http://arxiv.org/abs/2501.11694v1)|null|
+|**2025-01-20**|**Imaging signatures of edge currents in a magnetic topological insulator**|G. M. Ferguson et.al.|[2501.11666v1](http://arxiv.org/abs/2501.11666v1)|null|
+|**2025-01-20**|**The $(2+δ)$ -dimensional theory of the electromechanics of lipid membranes: III. Constitutive models**|Yannick A. D. Omar et.al.|[2501.11612v1](http://arxiv.org/abs/2501.11612v1)|null|
+|**2025-01-20**|**Competition between thermocapillary and solutocapillary flows in thin liquid films**|Darsh Kumar et.al.|[2501.11563v1](http://arxiv.org/abs/2501.11563v1)|null|
+|**2025-01-20**|**Hydrodynamic flow field and frictional resistance coefficient of a disk rotating steadily in a compressible fluid layer with odd viscosity on a rigid substrate**|Abdallah Daddi-Moussa-Ider et.al.|[2501.11510v1](http://arxiv.org/abs/2501.11510v1)|null|
+|**2025-01-20**|**Stochastic bubble dynamics in phase-separated scalar active matter**|Mingqi Yan et.al.|[2501.11442v1](http://arxiv.org/abs/2501.11442v1)|null|
 |**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339v1](http://arxiv.org/abs/2501.10339v1)|null|
 |**2025-01-17**|**Hopper flows of dense suspensions: a 2D microfluidic model system**|Lars Kool et.al.|[2501.10308v1](http://arxiv.org/abs/2501.10308v1)|null|
 |**2025-01-17**|**Intense Laser-Driven Phenomena In Weyl Semimetals**|Amar Bharti et.al.|[2501.10293v1](http://arxiv.org/abs/2501.10293v1)|null|
@@ -7873,6 +7893,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Optical control of the crystal structure in the bilayer nickelate superconductor La $_3$Ni$_2$O$_7$ via nonlinear phononics**|Shu Kamiyama et.al.|[2501.11377v1](http://arxiv.org/abs/2501.11377v1)|null|
 |**2025-01-16**|**Active particle in a very thin interfacial droplet**|Airi N. Kato et.al.|[2501.09652v1](http://arxiv.org/abs/2501.09652v1)|null|
 |**2025-01-11**|**Fermi Level and Light Driven Defect Generation in Silicon Solar Cells**|Andrew Diggs et.al.|[2501.06667v1](http://arxiv.org/abs/2501.06667v1)|null|
 |**2025-01-10**|**Band structure evolution from kagome to Lieb under periodic driving field**|Gulshan Kumar et.al.|[2501.05685v1](http://arxiv.org/abs/2501.05685v1)|null|
@@ -8258,6 +8279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-18**|**Multilayered MXenes for future two-dimensional nonvolatile magnetic memories**|P. Kumar et.al.|[2501.10678v1](http://arxiv.org/abs/2501.10678v1)|null|
 |**2025-01-16**|**Quantitative analysis of vectorial torques in thin 3d Co ferromagnet using orbital-spin conversion**|B. Bony et.al.|[2501.09864v1](http://arxiv.org/abs/2501.09864v1)|null|
 |**2025-01-16**|**Tunable spin and orbital torques in Cu-based magnetic heterostructures**|Silvia Damerio et.al.|[2501.09458v1](http://arxiv.org/abs/2501.09458v1)|null|
 |**2025-01-13**|**Impact of impurities on leakage current induced by High-Energy Density Pulsed Laser Annealing in Si diodes**|Richard Monflier et.al.|[2501.07168v1](http://arxiv.org/abs/2501.07168v1)|null|
@@ -8502,6 +8524,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Metallicity and Anomalous Hall Effect in Epitaxially-Strained, Atomically-thin RuO2 Films**|Seung Gyo Jeong et.al.|[2501.11204v1](http://arxiv.org/abs/2501.11204v1)|null|
+|**2025-01-19**|**Surface Reconstructions in Thin-Films of Magnetic Topological Insulator MnBi $_2$Te$_4$**|Shahid Sattar et.al.|[2501.11176v1](http://arxiv.org/abs/2501.11176v1)|null|
+|**2025-01-19**|**A large anomalous Hall effect and Weyl nodes in bulk FeNi $_3$ : a density functional theory study**|Shivani Thakur et.al.|[2501.11025v1](http://arxiv.org/abs/2501.11025v1)|null|
 |**2025-01-17**|**Room-Temperature Quantum Anomalous Hall Effect in Terbium monohalide**|Jianqi Zhong et.al.|[2501.09970v1](http://arxiv.org/abs/2501.09970v1)|null|
 |**2025-01-15**|**Anomalous and Planar Hall Effects in Cobalt-Holmium Thin Films Near Magnetic Sublattice Compensation**|Ramesh C Budhani et.al.|[2501.09206v1](http://arxiv.org/abs/2501.09206v1)|null|
 |**2025-01-15**|**Electronic structure of the Kramers nodal-line semimetal YAuGe**|Takashi Kurumaji et.al.|[2501.08973v1](http://arxiv.org/abs/2501.08973v1)|null|
@@ -8905,6 +8930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**On the pseudo-doublet ground state of the non-Kramers compound SrTm2O4 and its frustrated antiferromagnetic interactions**|D. L. Quintero Castro et.al.|[2501.12035v1](http://arxiv.org/abs/2501.12035v1)|null|
 |**2025-01-15**|**Preformed Cooper Pairs in a Triclinic Iron Pnictide Superconductor**|Zezhong Li et.al.|[2501.08687v1](http://arxiv.org/abs/2501.08687v1)|null|
 |**2025-01-14**|**Magnetic Interactions in the Polar Ferrimagnet with a Bipartite Structure**|Junbo Liao et.al.|[2501.07894v1](http://arxiv.org/abs/2501.07894v1)|null|
 |**2025-01-02**|**A Magnon Band Analysis of GdRu2Si2 in the Field-Polarized State**|G. D. A. Wood et.al.|[2501.01201v1](http://arxiv.org/abs/2501.01201v1)|null|
