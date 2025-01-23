@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Is there a conflict between causality and diamagnetism?**|Niclas Westerberg et.al.|[2501.13098v1](http://arxiv.org/abs/2501.13098v1)|null|
+|**2025-01-22**|**A Denser Hydrogen Inferred from First-Principles Simulations Challenges Jupiter's Interior Models**|Cesare Cozza et.al.|[2501.12925v1](http://arxiv.org/abs/2501.12925v1)|null|
+|**2025-01-22**|**Local slip length and surfactant effects on liquid-infused surfaces**|Sofia Saoncella et.al.|[2501.12872v1](http://arxiv.org/abs/2501.12872v1)|null|
+|**2025-01-22**|**Open questions on defining and computing the vapour-liquid surface tension by virial and test transformation approaches**|Martin Thomas Horsch et.al.|[2501.12755v1](http://arxiv.org/abs/2501.12755v1)|null|
+|**2025-01-22**|**Stretching the Printability Metric in Direct-ink Writing with Highly Extensible Yield-Stress Fluids**|Chaimongkol Saengow et.al.|[2501.12630v1](http://arxiv.org/abs/2501.12630v1)|null|
+|**2025-01-22**|**Entanglement dynamics in collision models and entanglement quilts**|Le Hu et.al.|[2501.12629v1](http://arxiv.org/abs/2501.12629v1)|null|
+|**2025-01-22**|**Ferroelectricity in undoped HfO2 down to one-unit-cell on Si substrate**|Tiantian Wang et.al.|[2501.12616v1](http://arxiv.org/abs/2501.12616v1)|null|
+|**2025-01-22**|**On the nature of rubber wear**|R. Xu et.al.|[2501.12561v1](http://arxiv.org/abs/2501.12561v1)|null|
+|**2025-01-21**|**Director-layer dynamics in the smectic-ZA phase of a ferroelectric nematic liquid crystal**|Arjun Ghimire et.al.|[2501.12541v1](http://arxiv.org/abs/2501.12541v1)|null|
 |**2025-01-21**|**The Rouse ring chain with attractive harmonic potential of spherical symmetry**|Nail Fatkullin et.al.|[2501.12324v1](http://arxiv.org/abs/2501.12324v1)|null|
 |**2025-01-21**|**Symmetry and Critical Dynamics in Supercooled Liquid Crystals: Insights into the Glass Transition**|Szymon Starzonek et.al.|[2501.12201v1](http://arxiv.org/abs/2501.12201v1)|null|
 |**2025-01-21**|**Mesoscopic Collective Dynamics in Liquids and the Dual Model**|Fabio Peluso et.al.|[2501.12180v1](http://arxiv.org/abs/2501.12180v1)|null|
@@ -7889,6 +7898,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**How to Measure and Model Light-Induced Spin Transfer**|Sinéad A. Ryan et.al.|[2501.12416v1](http://arxiv.org/abs/2501.12416v1)|null|
 |**2025-01-20**|**Optical control of the crystal structure in the bilayer nickelate superconductor La $_3$Ni$_2$O$_7$ via nonlinear phononics**|Shu Kamiyama et.al.|[2501.11377v1](http://arxiv.org/abs/2501.11377v1)|null|
 |**2025-01-16**|**Active particle in a very thin interfacial droplet**|Airi N. Kato et.al.|[2501.09652v1](http://arxiv.org/abs/2501.09652v1)|null|
 |**2025-01-11**|**Fermi Level and Light Driven Defect Generation in Silicon Solar Cells**|Andrew Diggs et.al.|[2501.06667v1](http://arxiv.org/abs/2501.06667v1)|null|
@@ -8275,6 +8285,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Current-induced magnetoresistance hysteresis in the kagome superconductor CsV $_3$Sb$_5$**|Han-Xin Lou et.al.|[2501.12646v1](http://arxiv.org/abs/2501.12646v1)|null|
+|**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593v1](http://arxiv.org/abs/2501.12593v1)|null|
+|**2025-01-21**|**Optimization of passive superconductors for shaping stellarator magnetic fields**|Alan A. Kaptanoglu et.al.|[2501.12468v1](http://arxiv.org/abs/2501.12468v1)|null|
 |**2025-01-18**|**Multilayered MXenes for future two-dimensional nonvolatile magnetic memories**|P. Kumar et.al.|[2501.10678v1](http://arxiv.org/abs/2501.10678v1)|null|
 |**2025-01-16**|**Quantitative analysis of vectorial torques in thin 3d Co ferromagnet using orbital-spin conversion**|B. Bony et.al.|[2501.09864v1](http://arxiv.org/abs/2501.09864v1)|null|
 |**2025-01-16**|**Tunable spin and orbital torques in Cu-based magnetic heterostructures**|Silvia Damerio et.al.|[2501.09458v1](http://arxiv.org/abs/2501.09458v1)|null|
@@ -8926,6 +8939,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Theoretical Study of Terahertz Absorption Spectra and Neutron Inelastic Scattering in Frustrated Magnet $\text{Tb}_2\text{Ti}_2\text{O}_7$**|V. V. Klekovkina et.al.|[2501.12941v1](http://arxiv.org/abs/2501.12941v1)|null|
 |**2025-01-21**|**On the pseudo-doublet ground state of the non-Kramers compound SrTm2O4 and its frustrated antiferromagnetic interactions**|D. L. Quintero Castro et.al.|[2501.12035v1](http://arxiv.org/abs/2501.12035v1)|null|
 |**2025-01-15**|**Preformed Cooper Pairs in a Triclinic Iron Pnictide Superconductor**|Zezhong Li et.al.|[2501.08687v1](http://arxiv.org/abs/2501.08687v1)|null|
 |**2025-01-14**|**Magnetic Interactions in the Polar Ferrimagnet with a Bipartite Structure**|Junbo Liao et.al.|[2501.07894v1](http://arxiv.org/abs/2501.07894v1)|null|
