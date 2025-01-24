@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Approach to nonequilibrium: from anomalous to Brownian diffusion via non-Gaussianity**|I. G. Marchenko et.al.|[2501.13875v1](http://arxiv.org/abs/2501.13875v1)|null|
+|**2025-01-23**|**Exploring the role of hydrodynamic interactions in spherically-confined drying colloidal suspensions**|Mayukh Kundu et.al.|[2501.13798v1](http://arxiv.org/abs/2501.13798v1)|null|
+|**2025-01-23**|**Scattering Insights into Shear-Induced Scission of Rod-like Micelles**|Guan-Rong Huang et.al.|[2501.13660v1](http://arxiv.org/abs/2501.13660v1)|null|
+|**2025-01-23**|**Physics of droplet regulation in biological cells**|David Zwicker et.al.|[2501.13639v1](http://arxiv.org/abs/2501.13639v1)|null|
+|**2025-01-23**|**Experimental Realizations of Information Engines: Beyond Proof of Concept**|Rémi Goerlich et.al.|[2501.13593v1](http://arxiv.org/abs/2501.13593v1)|null|
+|**2025-01-23**|**Enhanced and Efficient Extraction of Uranyl Ions from Aqueous Waste through Graphene/CNT-PAMAM Nanocomposites**|Tarun Maity et.al.|[2501.13496v1](http://arxiv.org/abs/2501.13496v1)|null|
+|**2025-01-23**|**Critical evaluations of different implementations of Edwards volume ensemble**|Houfei Yuan et.al.|[2501.13455v1](http://arxiv.org/abs/2501.13455v1)|null|
+|**2025-01-23**|**Algebraic skin effect in two-dimensional non-Hermitian metamaterials**|Mingyang Li et.al.|[2501.13440v1](http://arxiv.org/abs/2501.13440v1)|null|
+|**2025-01-23**|**Compaction of Granular Columns under Thermal Cycling**|Yuxuan Luo et.al.|[2501.13434v1](http://arxiv.org/abs/2501.13434v1)|null|
+|**2025-01-23**|**Geometry-Driven Mechanical Memory in a Random Fibrous Matrix**|Mainak Sarkar et.al.|[2501.13409v1](http://arxiv.org/abs/2501.13409v1)|null|
+|**2025-01-23**|**Native Three-Body Interactions in a Superconducting Lattice Gauge Quantum Simulator**|J. H. Busnaina et.al.|[2501.13383v1](http://arxiv.org/abs/2501.13383v1)|null|
+|**2025-01-23**|**Liquid water transport model in hydrophilic granular : Preliminary validation with drying rate of hierarchical granular**|Hyuga Yasuda et.al.|[2501.13361v1](http://arxiv.org/abs/2501.13361v1)|null|
 |**2025-01-22**|**Is there a conflict between causality and diamagnetism?**|Niclas Westerberg et.al.|[2501.13098v1](http://arxiv.org/abs/2501.13098v1)|null|
 |**2025-01-22**|**A Denser Hydrogen Inferred from First-Principles Simulations Challenges Jupiter's Interior Models**|Cesare Cozza et.al.|[2501.12925v1](http://arxiv.org/abs/2501.12925v1)|null|
 |**2025-01-22**|**Local slip length and surfactant effects on liquid-infused surfaces**|Sofia Saoncella et.al.|[2501.12872v1](http://arxiv.org/abs/2501.12872v1)|null|
@@ -8533,6 +8545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Room temperature observation of the anomalous in-plane Hall effect in epitaxial thin films of a Weyl ferromagnet**|Soumya Sankar et.al.|[2501.13602v1](http://arxiv.org/abs/2501.13602v1)|null|
 |**2025-01-20**|**Metallicity and Anomalous Hall Effect in Epitaxially-Strained, Atomically-thin RuO2 Films**|Seung Gyo Jeong et.al.|[2501.11204v1](http://arxiv.org/abs/2501.11204v1)|null|
 |**2025-01-19**|**Surface Reconstructions in Thin-Films of Magnetic Topological Insulator MnBi $_2$Te$_4$**|Shahid Sattar et.al.|[2501.11176v1](http://arxiv.org/abs/2501.11176v1)|null|
 |**2025-01-19**|**A large anomalous Hall effect and Weyl nodes in bulk FeNi $_3$ : a density functional theory study**|Shivani Thakur et.al.|[2501.11025v1](http://arxiv.org/abs/2501.11025v1)|null|
