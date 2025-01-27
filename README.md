@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Machine Learning Inversion from Small-Angle Scattering for Charged Polymers**|Lijie Ding et.al.|[2501.14647v1](http://arxiv.org/abs/2501.14647v1)|null|
+|**2025-01-24**|**Thermo-Mechanical and Mdchano-Thermal Effects in Liquids Explained by means of the Dual Model of Liquids**|Fabio Peluso et.al.|[2501.14529v1](http://arxiv.org/abs/2501.14529v1)|null|
+|**2025-01-24**|**How does heat propagate in Liquids?**|Fabio Peluso et.al.|[2501.14517v1](http://arxiv.org/abs/2501.14517v1)|null|
+|**2025-01-24**|**Anomalies in the electronic stopping of slow antiprotons in LiF**|Guerda Massillon-JL et.al.|[2501.14381v1](http://arxiv.org/abs/2501.14381v1)|null|
+|**2025-01-24**|**Optimal disk packing of chloroplasts in plant cells**|Nico Schramma et.al.|[2501.14335v1](http://arxiv.org/abs/2501.14335v1)|null|
+|**2025-01-24**|**Multi-scale physics of cryogenic liquid helium-4: Inverse coarse-graining properties of smoothed particle hydrodynamics**|Satori Tsuzuki et.al.|[2501.14244v1](http://arxiv.org/abs/2501.14244v1)|null|
+|**2025-01-24**|**Field Theory of Birhythmicity**|Sergei Shmakov et.al.|[2501.14192v1](http://arxiv.org/abs/2501.14192v1)|null|
+|**2025-01-23**|**Active bacterial baths in droplets**|Cristian Villalobos-Concha et.al.|[2501.14088v1](http://arxiv.org/abs/2501.14088v1)|null|
+|**2025-01-23**|**Exact generalized Bethe eigenstates of the non-integrable alternating Heisenberg chain**|Ronald Melendrez et.al.|[2501.14017v1](http://arxiv.org/abs/2501.14017v1)|null|
 |**2025-01-23**|**Approach to nonequilibrium: from anomalous to Brownian diffusion via non-Gaussianity**|I. G. Marchenko et.al.|[2501.13875v1](http://arxiv.org/abs/2501.13875v1)|null|
 |**2025-01-23**|**Exploring the role of hydrodynamic interactions in spherically-confined drying colloidal suspensions**|Mayukh Kundu et.al.|[2501.13798v1](http://arxiv.org/abs/2501.13798v1)|null|
 |**2025-01-23**|**Scattering Insights into Shear-Induced Scission of Rod-like Micelles**|Guan-Rong Huang et.al.|[2501.13660v1](http://arxiv.org/abs/2501.13660v1)|null|
@@ -8545,6 +8554,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Probing $k$ -Space Alternating Spin Polarization via the Anomalous Hall Effect**|Rui Chen et.al.|[2501.14217v1](http://arxiv.org/abs/2501.14217v1)|null|
 |**2025-01-23**|**Room temperature observation of the anomalous in-plane Hall effect in epitaxial thin films of a Weyl ferromagnet**|Soumya Sankar et.al.|[2501.13602v1](http://arxiv.org/abs/2501.13602v1)|null|
 |**2025-01-20**|**Metallicity and Anomalous Hall Effect in Epitaxially-Strained, Atomically-thin RuO2 Films**|Seung Gyo Jeong et.al.|[2501.11204v1](http://arxiv.org/abs/2501.11204v1)|null|
 |**2025-01-19**|**Surface Reconstructions in Thin-Films of Magnetic Topological Insulator MnBi $_2$Te$_4$**|Shahid Sattar et.al.|[2501.11176v1](http://arxiv.org/abs/2501.11176v1)|null|
