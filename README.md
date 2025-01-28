@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**The droplet size distribution and its dynamics in chemically active emulsions**|Jonathan Bauermann et.al.|[2501.16299v1](http://arxiv.org/abs/2501.16299v1)|null|
+|**2025-01-27**|**Non-Gaussian density fluctuations in the Dean-Kawasaki equation**|Pierre Illien et.al.|[2501.16206v1](http://arxiv.org/abs/2501.16206v1)|null|
+|**2025-01-27**|**Revisiting the phonon theory of liquid heat capacity: low-frequency shear modes and intramolecular vibrations**|Yu Liu et.al.|[2501.16187v1](http://arxiv.org/abs/2501.16187v1)|null|
+|**2025-01-27**|**Acceleration as refrigeration: Acceleration-induced spontaneous symmetry breaking in thermal medium**|Maxim N. Chernodub et.al.|[2501.16129v1](http://arxiv.org/abs/2501.16129v1)|null|
+|**2025-01-27**|**The hidden architecture of equilibrium self-assembly**|Maximilian C. Hübl et.al.|[2501.16107v1](http://arxiv.org/abs/2501.16107v1)|null|
+|**2025-01-27**|**Self-propelled particles undergoing cyclic transitions**|Ye Zhang et.al.|[2501.16048v1](http://arxiv.org/abs/2501.16048v1)|null|
+|**2025-01-27**|**Binary random packing fraction of hyperspheres with small or large size difference: a geometric approach**|H. J. H. Brouwers et.al.|[2501.16005v1](http://arxiv.org/abs/2501.16005v1)|null|
+|**2025-01-27**|**Non-reciprocal interactions drive emergent chiral crystallites**|S. J. Kole et.al.|[2501.15996v1](http://arxiv.org/abs/2501.15996v1)|null|
+|**2025-01-27**|**Probing Glass Formation in Perylene Derivatives via Atomic Scale Simulations and Bayesian Regression**|Eric Lindgren et.al.|[2501.15872v1](http://arxiv.org/abs/2501.15872v1)|null|
+|**2025-01-26**|**Sensitive particle shape dependence of growth-induced mesoscale nematic structure**|Jonas Isensee et.al.|[2501.15681v1](http://arxiv.org/abs/2501.15681v1)|null|
+|**2025-01-26**|**Optimizing the Critical Temperature and Superfluid Density of a Metal-Superconductor Bilayer**|Yutan Zhang et.al.|[2501.15428v1](http://arxiv.org/abs/2501.15428v1)|null|
 |**2025-01-24**|**Machine Learning Inversion from Small-Angle Scattering for Charged Polymers**|Lijie Ding et.al.|[2501.14647v1](http://arxiv.org/abs/2501.14647v1)|null|
 |**2025-01-24**|**Thermo-Mechanical and Mdchano-Thermal Effects in Liquids Explained by means of the Dual Model of Liquids**|Fabio Peluso et.al.|[2501.14529v1](http://arxiv.org/abs/2501.14529v1)|null|
 |**2025-01-24**|**How does heat propagate in Liquids?**|Fabio Peluso et.al.|[2501.14517v1](http://arxiv.org/abs/2501.14517v1)|null|
@@ -7919,6 +7930,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Grain Alignment and Dust Evolution Physics with Polarisation (GRADE-POL). I. Dust Polarisation Modelling for Isolated Starless Cores**|Le Ngoc Tram et.al.|[2501.16079v1](http://arxiv.org/abs/2501.16079v1)|null|
+|**2025-01-27**|**Self-propelled particles undergoing cyclic transitions**|Ye Zhang et.al.|[2501.16048v1](http://arxiv.org/abs/2501.16048v1)|null|
+|**2025-01-26**|**Floquet optical selection rules in black phosphorus**|Benshu Fan et.al.|[2501.15703v1](http://arxiv.org/abs/2501.15703v1)|null|
 |**2025-01-20**|**How to Measure and Model Light-Induced Spin Transfer**|Sinéad A. Ryan et.al.|[2501.12416v1](http://arxiv.org/abs/2501.12416v1)|null|
 |**2025-01-20**|**Optical control of the crystal structure in the bilayer nickelate superconductor La $_3$Ni$_2$O$_7$ via nonlinear phononics**|Shu Kamiyama et.al.|[2501.11377v1](http://arxiv.org/abs/2501.11377v1)|null|
 |**2025-01-16**|**Active particle in a very thin interfacial droplet**|Airi N. Kato et.al.|[2501.09652v1](http://arxiv.org/abs/2501.09652v1)|null|
@@ -8554,6 +8568,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**Giant Anomalous Hall Effect in Kagome Nodal Surface Semimetal Fe $_3$ Ge**|Shu-Xiang Li et.al.|[2501.15424v1](http://arxiv.org/abs/2501.15424v1)|null|
 |**2025-01-24**|**Probing $k$ -Space Alternating Spin Polarization via the Anomalous Hall Effect**|Rui Chen et.al.|[2501.14217v1](http://arxiv.org/abs/2501.14217v1)|null|
 |**2025-01-23**|**Room temperature observation of the anomalous in-plane Hall effect in epitaxial thin films of a Weyl ferromagnet**|Soumya Sankar et.al.|[2501.13602v1](http://arxiv.org/abs/2501.13602v1)|null|
 |**2025-01-20**|**Metallicity and Anomalous Hall Effect in Epitaxially-Strained, Atomically-thin RuO2 Films**|Seung Gyo Jeong et.al.|[2501.11204v1](http://arxiv.org/abs/2501.11204v1)|null|
@@ -8963,7 +8978,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-22**|**Theoretical Study of Terahertz Absorption Spectra and Neutron Inelastic Scattering in Frustrated Magnet $\text{Tb}_2\text{Ti}_2\text{O}_7$**|V. V. Klekovkina et.al.|[2501.12941v1](http://arxiv.org/abs/2501.12941v1)|null|
-|**2025-01-21**|**On the pseudo-doublet ground state of the non-Kramers compound SrTm2O4 and its frustrated antiferromagnetic interactions**|D. L. Quintero Castro et.al.|[2501.12035v1](http://arxiv.org/abs/2501.12035v1)|null|
+|**2025-01-27**|**On the pseudo-doublet ground state of the non-Kramers compound SrTm2O4 and its frustrated antiferromagnetic interactions**|D. L. Quintero Castro et.al.|[2501.12035v2](http://arxiv.org/abs/2501.12035v2)|null|
 |**2025-01-15**|**Preformed Cooper Pairs in a Triclinic Iron Pnictide Superconductor**|Zezhong Li et.al.|[2501.08687v1](http://arxiv.org/abs/2501.08687v1)|null|
 |**2025-01-14**|**Magnetic Interactions in the Polar Ferrimagnet with a Bipartite Structure**|Junbo Liao et.al.|[2501.07894v1](http://arxiv.org/abs/2501.07894v1)|null|
 |**2025-01-02**|**A Magnon Band Analysis of GdRu2Si2 in the Field-Polarized State**|G. D. A. Wood et.al.|[2501.01201v1](http://arxiv.org/abs/2501.01201v1)|null|
