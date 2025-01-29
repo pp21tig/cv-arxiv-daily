@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Interlayer Hopping between Surface Mott Insulator and Bulk Band Insulator in layered 1T-TaS_{2}**|Zijian Lin et.al.|[2501.17140v1](http://arxiv.org/abs/2501.17140v1)|null|
+|**2025-01-28**|**Hovering of an actively driven fluid-lubricated foil**|Stéphane Poulain et.al.|[2501.17080v1](http://arxiv.org/abs/2501.17080v1)|null|
+|**2025-01-28**|**A Variational Theory for Soft Shells**|Andre M. Sonnet et.al.|[2501.17073v1](http://arxiv.org/abs/2501.17073v1)|null|
+|**2025-01-28**|**The fluid dynamics of liquid mushrooms**|Akshay Manoj Bhaskaran et.al.|[2501.17051v1](http://arxiv.org/abs/2501.17051v1)|null|
+|**2025-01-28**|**Numerical insights on the volume phase transition of thermoresponsive hollow microgels**|Leah Rank et.al.|[2501.17020v1](http://arxiv.org/abs/2501.17020v1)|null|
+|**2025-01-28**|**Emergent collective behavior of cohesive, aligning particles**|Jeanine Shea et.al.|[2501.16994v1](http://arxiv.org/abs/2501.16994v1)|null|
+|**2025-01-28**|**Glassforming liquid crystalline equimolar mixtures of MHPOBC and fluorinated compounds -- structural, optical, and dielectric properties**|Aleksandra Deptuch et.al.|[2501.16980v1](http://arxiv.org/abs/2501.16980v1)|null|
+|**2025-01-28**|**The Effect of the Non-Abelian Quantum Metric on Superfluidity**|Kai Chen et.al.|[2501.16965v1](http://arxiv.org/abs/2501.16965v1)|null|
+|**2025-01-28**|**Active chiral rotors: hydrodynamics and chemotaxis**|R. Maity et.al.|[2501.16835v1](http://arxiv.org/abs/2501.16835v1)|null|
+|**2025-01-28**|**Anisotropic galvanomagnetic effects in single-crystal Fe(001) films elucidated by a phenomenological theory**|Haoran Chen et.al.|[2501.16791v1](http://arxiv.org/abs/2501.16791v1)|null|
+|**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
+|**2025-01-28**|**Unconventional Superconducting Phase Diagram of Monolayer WTe2**|Tiancheng Song et.al.|[2501.16699v1](http://arxiv.org/abs/2501.16699v1)|null|
+|**2025-01-27**|**Anti-thixotropic dynamics in attractive colloidal dispersions: a shear restructuring driven by elastic stresses**|Julien Bauland et.al.|[2501.16532v1](http://arxiv.org/abs/2501.16532v1)|null|
+|**2025-01-27**|**Microrheological model for Kelvin-Voigt materials with micro-heterogeneities**|T. N. Azevedo et.al.|[2501.16468v1](http://arxiv.org/abs/2501.16468v1)|null|
+|**2025-01-27**|**Crosstalk analysis in single hole-spin qubits within highly anisotropic g-tensors**|Yaser Hajati et.al.|[2501.16464v1](http://arxiv.org/abs/2501.16464v1)|null|
 |**2025-01-27**|**The droplet size distribution and its dynamics in chemically active emulsions**|Jonathan Bauermann et.al.|[2501.16299v1](http://arxiv.org/abs/2501.16299v1)|null|
 |**2025-01-27**|**Non-Gaussian density fluctuations in the Dean-Kawasaki equation**|Pierre Illien et.al.|[2501.16206v1](http://arxiv.org/abs/2501.16206v1)|null|
 |**2025-01-27**|**Revisiting the phonon theory of liquid heat capacity: low-frequency shear modes and intramolecular vibrations**|Yu Liu et.al.|[2501.16187v1](http://arxiv.org/abs/2501.16187v1)|null|
@@ -7934,6 +7949,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
+|**2025-01-27**|**Phase-matched electron-photon interactions enabled by 3D-printed helical waveguides**|Masoud Taleb et.al.|[2501.16486v1](http://arxiv.org/abs/2501.16486v1)|null|
 |**2025-01-27**|**Grain Alignment and Dust Evolution Physics with Polarisation (GRADE-POL). I. Dust Polarisation Modelling for Isolated Starless Cores**|Le Ngoc Tram et.al.|[2501.16079v1](http://arxiv.org/abs/2501.16079v1)|null|
 |**2025-01-27**|**Self-propelled particles undergoing cyclic transitions**|Ye Zhang et.al.|[2501.16048v1](http://arxiv.org/abs/2501.16048v1)|null|
 |**2025-01-26**|**Floquet optical selection rules in black phosphorus**|Benshu Fan et.al.|[2501.15703v1](http://arxiv.org/abs/2501.15703v1)|null|
@@ -8981,6 +8998,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Low-temperature magnetic behaviour on the triangular lattice in hexagonal Ba $_3$Tb(BO$_3$)$_3$**|Nicola Kelly et.al.|[2501.17052v1](http://arxiv.org/abs/2501.17052v1)|null|
 |**2025-01-22**|**Theoretical Study of Terahertz Absorption Spectra and Neutron Inelastic Scattering in Frustrated Magnet $\text{Tb}_2\text{Ti}_2\text{O}_7$**|V. V. Klekovkina et.al.|[2501.12941v1](http://arxiv.org/abs/2501.12941v1)|null|
 |**2025-01-27**|**On the pseudo-doublet ground state of the non-Kramers compound SrTm2O4 and its frustrated antiferromagnetic interactions**|D. L. Quintero Castro et.al.|[2501.12035v2](http://arxiv.org/abs/2501.12035v2)|null|
 |**2025-01-15**|**Preformed Cooper Pairs in a Triclinic Iron Pnictide Superconductor**|Zezhong Li et.al.|[2501.08687v1](http://arxiv.org/abs/2501.08687v1)|null|
