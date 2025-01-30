@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Self-organised dynamics and emergent shape spaces of active isotropic fluid surfaces**|Da Gao et.al.|[2501.17849v1](http://arxiv.org/abs/2501.17849v1)|null|
+|**2025-01-29**|**Distinguishing Ordered Phases using Machine Learning and Classical Shadows**|Leandro Morais et.al.|[2501.17837v1](http://arxiv.org/abs/2501.17837v1)|null|
+|**2025-01-29**|**Cell Deformation Signatures along the Apical-Basal Axis: A 3D Continuum Mechanics Shell Model**|Jairo M. Rojas et.al.|[2501.17810v1](http://arxiv.org/abs/2501.17810v1)|null|
+|**2025-01-29**|**Intermittent molecular motion and first passage statistics for the NMR relaxation of confined water**|Simon Gravelle et.al.|[2501.17596v1](http://arxiv.org/abs/2501.17596v1)|null|
+|**2025-01-29**|**Field-induced upward bending of a magnetoelastomer cantilever residing on a horizontal plane: an unconventional cilium**|O. V. Stolbov et.al.|[2501.17580v1](http://arxiv.org/abs/2501.17580v1)|null|
+|**2025-01-29**|**Quantifying the amplitudes of ultrafast magnetization fluctuations in Sm $_{0.7}$Er$_{0.3}$FeO$_{3}$ using femtosecond noise correlation spectroscopy**|M. A. Weiss et.al.|[2501.17531v1](http://arxiv.org/abs/2501.17531v1)|null|
+|**2025-01-29**|**Bacterial dimensions sensitively regulate surface diffusivity and residence time**|Premkumar Leishangthem et.al.|[2501.17477v1](http://arxiv.org/abs/2501.17477v1)|null|
+|**2025-01-28**|**Linear-time classical approximate optimization of cubic-lattice classical spin glasses**|Adil A. Gangat et.al.|[2501.17267v1](http://arxiv.org/abs/2501.17267v1)|null|
 |**2025-01-28**|**Interlayer Hopping between Surface Mott Insulator and Bulk Band Insulator in layered 1T-TaS_{2}**|Zijian Lin et.al.|[2501.17140v1](http://arxiv.org/abs/2501.17140v1)|null|
 |**2025-01-28**|**Hovering of an actively driven fluid-lubricated foil**|Stéphane Poulain et.al.|[2501.17080v1](http://arxiv.org/abs/2501.17080v1)|null|
 |**2025-01-28**|**A Variational Theory for Soft Shells**|Andre M. Sonnet et.al.|[2501.17073v1](http://arxiv.org/abs/2501.17073v1)|null|
@@ -8585,6 +8593,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Magnetic metastability driven Anomalous Hall Effect in Fe $_{x}$TaS$_2$**|Mohamad Numan et.al.|[2501.17453v1](http://arxiv.org/abs/2501.17453v1)|null|
 |**2025-01-26**|**Giant Anomalous Hall Effect in Kagome Nodal Surface Semimetal Fe $_3$ Ge**|Shu-Xiang Li et.al.|[2501.15424v1](http://arxiv.org/abs/2501.15424v1)|null|
 |**2025-01-24**|**Probing $k$ -Space Alternating Spin Polarization via the Anomalous Hall Effect**|Rui Chen et.al.|[2501.14217v1](http://arxiv.org/abs/2501.14217v1)|null|
 |**2025-01-23**|**Room temperature observation of the anomalous in-plane Hall effect in epitaxial thin films of a Weyl ferromagnet**|Soumya Sankar et.al.|[2501.13602v1](http://arxiv.org/abs/2501.13602v1)|null|
