@@ -1113,7 +1113,7 @@ layout: default
 |**2025-01-29**|**Simulating Curved Lipid Membranes Using Anchored Frozen Patches**|James Tallman et.al.|[2501.17989v1](http://arxiv.org/abs/2501.17989v1)|null|
 |**2025-01-29**|**Athermal creep deformation of ultrastable amorphous solids**|Pinaki Chaudhuri et.al.|[2501.17952v1](http://arxiv.org/abs/2501.17952v1)|null|
 |**2025-01-29**|**String Breaking in a $2+1$D $\mathbb{Z}_2$ Lattice Gauge Theory**|Umberto Borla et.al.|[2501.17929v1](http://arxiv.org/abs/2501.17929v1)|null|
-|**2025-01-29**|**Large-scale stochastic simulation of open quantum systems**|Aaron Sander et.al.|[2501.17913v1](http://arxiv.org/abs/2501.17913v1)|null|
+|**2025-01-29**|**Large-scale stochastic simulation of open quantum systems**|Aaron Sander et.al.|[2501.17913v1](http://arxiv.org/abs/2501.17913v1)|**[link](https://github.com/cda-tum/mqt-yaqs)**|
 |**2025-01-29**|**Self-organised dynamics and emergent shape spaces of active isotropic fluid surfaces**|Da Gao et.al.|[2501.17849v1](http://arxiv.org/abs/2501.17849v1)|null|
 |**2025-01-29**|**Distinguishing Ordered Phases using Machine Learning and Classical Shadows**|Leandro Morais et.al.|[2501.17837v1](http://arxiv.org/abs/2501.17837v1)|null|
 |**2025-01-29**|**Cell Deformation Signatures along the Apical-Basal Axis: A 3D Continuum Mechanics Shell Model**|Jairo M. Rojas et.al.|[2501.17810v1](http://arxiv.org/abs/2501.17810v1)|null|
