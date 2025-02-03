@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Mechanical Properties of the Meninges: Large Language Model Assisted Systematic Review of over 25,000 Studies**|Brandon P. Chelstrom et.al.|[2501.19359v1](http://arxiv.org/abs/2501.19359v1)|null|
+|**2025-01-31**|**Reactive Fluid Ferroelectrics: A Gateway to the Next Generation of Ferroelectric Liquid Crystalline Polymer Networks**|Stuart R Berrow et.al.|[2501.19333v1](http://arxiv.org/abs/2501.19333v1)|null|
+|**2025-01-31**|**A Metal-Insulator Transition of the Buried MnO2 Monolayer in Complex Oxide Heterostructure**|Heng-Jui Liu et.al.|[2501.19289v1](http://arxiv.org/abs/2501.19289v1)|null|
+|**2025-01-31**|**Optimal constrained control for generally damped Brownian heat engines**|Monojit Chatterjee et.al.|[2501.19124v1](http://arxiv.org/abs/2501.19124v1)|null|
+|**2025-01-31**|**Towards numerically exact computation of conductivity in the thermodynamic limit of interacting lattice models**|Jeremija Kovačević et.al.|[2501.19118v1](http://arxiv.org/abs/2501.19118v1)|null|
+|**2025-01-31**|**Impact of Nanoscopic Impurity Aggregates on Cavitation in Water**|Marin Šako et.al.|[2501.19039v1](http://arxiv.org/abs/2501.19039v1)|null|
+|**2025-01-31**|**Synthesis of spherical mesoporous silica beads with tunable size, stiffness and porosity**|M. Milani et.al.|[2501.18947v1](http://arxiv.org/abs/2501.18947v1)|null|
+|**2025-01-31**|**Three-dimensional chiral active Ornstein-Uhlenbeck model for helical motion of microorganisms**|Leon Lettermann et.al.|[2501.18927v1](http://arxiv.org/abs/2501.18927v1)|null|
+|**2025-01-31**|**BARCODE: Biomaterial Activity Readouts to Categorize, Optimize, Design and Engineer for high throughput screening and characterization of dynamically restructuring soft materials**|Qiaopeng Chen et.al.|[2501.18822v1](http://arxiv.org/abs/2501.18822v1)|null|
+|**2025-01-31**|**Physics-informed Neural Model Predictive Control of Interacting Active Brownian Particles**|Titus Quah et.al.|[2501.18809v1](http://arxiv.org/abs/2501.18809v1)|null|
+|**2025-01-30**|**Hydrated Cable Bacteria Exhibit Protonic Conductivity Over Long Distances**|Bradley G. Lusk et.al.|[2501.18651v1](http://arxiv.org/abs/2501.18651v1)|null|
 |**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547v1](http://arxiv.org/abs/2501.18547v1)|null|
 |**2025-01-30**|**Fractonic self-duality and covariant magnetic fractons**|Erica Bertolini et.al.|[2501.18510v1](http://arxiv.org/abs/2501.18510v1)|null|
 |**2025-01-30**|**Nonequilibrium friction and free energy estimates for kinetic coarse-graining -- Driven particles in responsive media**|Sebastian Milster et.al.|[2501.18484v1](http://arxiv.org/abs/2501.18484v1)|null|
@@ -7965,6 +7976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Correlations drive the attosecond response of strongly-correlated insulators**|Romain Cazali et.al.|[2501.19238v1](http://arxiv.org/abs/2501.19238v1)|null|
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
 |**2025-01-27**|**Phase-matched electron-photon interactions enabled by 3D-printed helical waveguides**|Masoud Taleb et.al.|[2501.16486v1](http://arxiv.org/abs/2501.16486v1)|null|
 |**2025-01-27**|**Grain Alignment and Dust Evolution Physics with Polarisation (GRADE-POL). I. Dust Polarisation Modelling for Isolated Starless Cores**|Le Ngoc Tram et.al.|[2501.16079v1](http://arxiv.org/abs/2501.16079v1)|null|
