@@ -7999,7 +7999,7 @@ layout: default
 |**2024-12-12**|**Light-Induced Electron Pairing in a Bilayer Structure**|Qiaochu Wan et.al.|[2412.06941v2](http://arxiv.org/abs/2412.06941v2)|null|
 |**2024-12-09**|**Light-induced ultrafast glide-mirror symmetry breaking in black phosphorus**|Changhua Bao et.al.|[2412.06752v1](http://arxiv.org/abs/2412.06752v1)|null|
 |**2024-12-09**|**Manipulating the symmetry of photon-dressed electronic states**|Changhua Bao et.al.|[2412.06751v1](http://arxiv.org/abs/2412.06751v1)|null|
-|**2024-12-08**|**Electronic Light Scattering Drives Optical Heating of Nonlocal Media**|Sergey Kharintsev et.al.|[2412.05922v1](http://arxiv.org/abs/2412.05922v1)|null|
+|**2025-02-02**|**Photo-Heating of Optically Transparent Solids Driven by Electronic Light Scattering**|Sergey Kharintsev et.al.|[2412.05922v2](http://arxiv.org/abs/2412.05922v2)|null|
 |**2024-12-06**|**Universal approach to light driven "superconductivity" via preformed pairs**|Ke Wang et.al.|[2412.05420v1](http://arxiv.org/abs/2412.05420v1)|null|
 |**2024-12-10**|**Light-induced magnetic trapping for cold alkali atoms using a combined optical tweezers and nanofibre platform**|Alexey Vylegzhanin et.al.|[2412.04809v3](http://arxiv.org/abs/2412.04809v3)|null|
 |**2024-12-04**|**Quantum Optical Binding of Nanoscale Particles**|Henning Rudolph et.al.|[2412.03204v1](http://arxiv.org/abs/2412.03204v1)|null|
