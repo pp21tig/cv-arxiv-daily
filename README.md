@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Fluctuation Dissipation Relations for the Non-Reciprocal Cahn-Hilliard Model**|Martin Kjøllesdal Johnsrud et.al.|[2502.02524v1](http://arxiv.org/abs/2502.02524v1)|null|
+|**2025-02-04**|**Hydroelastic scattering and trapping of microswimmers**|Sagnik Garai et.al.|[2502.02462v1](http://arxiv.org/abs/2502.02462v1)|null|
+|**2025-02-04**|**Topological Tenfold Classification and the Entanglement of Two Qubits**|Nadav Orion et.al.|[2502.02427v1](http://arxiv.org/abs/2502.02427v1)|null|
+|**2025-02-04**|**Emergent clogging of continuum particle suspensions in constricted channels**|Anushka Herale et.al.|[2502.02396v1](http://arxiv.org/abs/2502.02396v1)|null|
+|**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
+|**2025-02-04**|**Flow rate from a vertical silo with a tilted orifice**|Ryan Kozlowski et.al.|[2502.02306v1](http://arxiv.org/abs/2502.02306v1)|null|
+|**2025-02-04**|**Anomalous Creep as a Precursor to Failure in Granular Materials**|Kasra Farain et.al.|[2502.02288v1](http://arxiv.org/abs/2502.02288v1)|null|
+|**2025-02-04**|**Strengthening by softening: Rigidity increase of a curved sheet from nonlinear regime of deformation**|Nino Quillent-Elinguel et.al.|[2502.02159v1](http://arxiv.org/abs/2502.02159v1)|null|
+|**2025-02-04**|**Role of Molecular Structure in Defining the Dynamical Landscape of Deep Eutectic Solvents at Nanoscale**|T. Rinesh et.al.|[2502.02120v1](http://arxiv.org/abs/2502.02120v1)|null|
+|**2025-02-03**|**Nonaffine motion in flowing highly polydisperse granular media**|Pablo Eduardo Illing et.al.|[2502.01605v1](http://arxiv.org/abs/2502.01605v1)|null|
+|**2025-02-03**|**Searching for fixed points of dynamical systems by the Explorative Relaxation Reditribution Method**|Eliodoro Chiavazzo et.al.|[2502.01571v1](http://arxiv.org/abs/2502.01571v1)|null|
+|**2025-02-03**|**Origin of slow earthquake statistics in low-friction soft granular shear**|Yuto Sasaki et.al.|[2502.01355v1](http://arxiv.org/abs/2502.01355v1)|null|
+|**2025-02-03**|**Spontaneous emergence of run-and-tumble-like dynamics in coupled self-propelled robots: experiment and theory**|Somnath Paramanick et.al.|[2502.01257v1](http://arxiv.org/abs/2502.01257v1)|null|
+|**2025-02-03**|**Temperature dependence of nonlinear elastic moduli of polystyrene**|Andrey V. Belashov et.al.|[2502.01176v1](http://arxiv.org/abs/2502.01176v1)|null|
+|**2025-02-02**|**Lorentz-violating pseudovectors in effective field theories for quantum gravity**|Hollis Williams et.al.|[2502.00890v1](http://arxiv.org/abs/2502.00890v1)|null|
+|**2025-02-02**|**Effect of 2 $^\text{nd}$ harmonic current--phase relation on a behavior of a Josephson Traveling Wave Parametric Amplifier**|Claudio Guarcello et.al.|[2502.00804v1](http://arxiv.org/abs/2502.00804v1)|null|
+|**2025-02-02**|**Harnessing Discrete Differential Geometry: A Virtual Playground for the Bilayer Soft Robotics**|Jiahao Li et.al.|[2502.00714v1](http://arxiv.org/abs/2502.00714v1)|null|
+|**2025-02-01**|**Influence of transition mutations and disorder on charge localization and transfer along B-DNA sequences**|Pavlos Banev et.al.|[2502.00516v1](http://arxiv.org/abs/2502.00516v1)|null|
+|**2025-02-01**|**Quantitative relations between nearest-neighbor persistence and slow heterogeneous dynamics in supercooled liquids**|Katrianna S. Sarkar et.al.|[2502.00485v1](http://arxiv.org/abs/2502.00485v1)|null|
+|**2025-02-01**|**Momentum distribution of He-3 in one dimension**|Massimo Boninsegni et.al.|[2502.00389v1](http://arxiv.org/abs/2502.00389v1)|null|
 |**2025-01-31**|**Mechanical Properties of the Meninges: Large Language Model Assisted Systematic Review of over 25,000 Studies**|Brandon P. Chelstrom et.al.|[2501.19359v1](http://arxiv.org/abs/2501.19359v1)|null|
 |**2025-01-31**|**Reactive Fluid Ferroelectrics: A Gateway to the Next Generation of Ferroelectric Liquid Crystalline Polymer Networks**|Stuart R Berrow et.al.|[2501.19333v1](http://arxiv.org/abs/2501.19333v1)|null|
 |**2025-01-31**|**A Metal-Insulator Transition of the Buried MnO2 Monolayer in Complex Oxide Heterostructure**|Heng-Jui Liu et.al.|[2501.19289v1](http://arxiv.org/abs/2501.19289v1)|null|
@@ -7976,6 +7996,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
+|**2025-02-04**|**Molecular Pseudorotation in Phthalocyanines as a Tool for Magnetic Field Control at the Nanoscale**|Raphael Wilhelmer et.al.|[2502.02169v1](http://arxiv.org/abs/2502.02169v1)|null|
+|**2025-02-03**|**Origin of phonon decoherence**|Yiming Pan et.al.|[2502.01529v1](http://arxiv.org/abs/2502.01529v1)|null|
+|**2025-02-04**|**Nonclassical dynamics of Néel vector and magnetization accompanied by THz and high-harmonic radiation from ultrafast-light-driven NiO antiferromagnet insulator**|Federico Garcia-Gaitan et.al.|[2502.00849v2](http://arxiv.org/abs/2502.00849v2)|null|
+|**2025-02-02**|**Light-induced reorientation transition in an antiferromagnetic semiconductor**|Bryan T. Fichera et.al.|[2502.00642v1](http://arxiv.org/abs/2502.00642v1)|null|
 |**2025-01-31**|**Correlations drive the attosecond response of strongly-correlated insulators**|Romain Cazali et.al.|[2501.19238v1](http://arxiv.org/abs/2501.19238v1)|null|
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
 |**2025-01-27**|**Phase-matched electron-photon interactions enabled by 3D-printed helical waveguides**|Masoud Taleb et.al.|[2501.16486v1](http://arxiv.org/abs/2501.16486v1)|null|
@@ -8369,6 +8394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-01**|**Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides**|Mahmoud Zeer et.al.|[2502.00449v1](http://arxiv.org/abs/2502.00449v1)|null|
 |**2025-01-22**|**Current-induced magnetoresistance hysteresis in the kagome superconductor CsV $_3$Sb$_5$**|Han-Xin Lou et.al.|[2501.12646v1](http://arxiv.org/abs/2501.12646v1)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593v1](http://arxiv.org/abs/2501.12593v1)|null|
 |**2025-01-21**|**Optimization of passive superconductors for shaping stellarator magnetic fields**|Alan A. Kaptanoglu et.al.|[2501.12468v1](http://arxiv.org/abs/2501.12468v1)|null|
@@ -8617,6 +8643,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Anomalous Hall effect in highly c-plane oriented Mn $_{3}$ Ge/Si(100) thin films grown by pulsed laser deposition**|Indraneel Sinha et.al.|[2502.00809v2](http://arxiv.org/abs/2502.00809v2)|null|
 |**2025-01-29**|**Magnetic metastability driven Anomalous Hall Effect in Fe $_{x}$TaS$_2$**|Mohamad Numan et.al.|[2501.17453v1](http://arxiv.org/abs/2501.17453v1)|null|
 |**2025-01-26**|**Giant Anomalous Hall Effect in Kagome Nodal Surface Semimetal Fe $_3$ Ge**|Shu-Xiang Li et.al.|[2501.15424v1](http://arxiv.org/abs/2501.15424v1)|null|
 |**2025-01-24**|**Probing $k$ -Space Alternating Spin Polarization via the Anomalous Hall Effect**|Rui Chen et.al.|[2501.14217v1](http://arxiv.org/abs/2501.14217v1)|null|
