@@ -1098,7 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-04**|**Fluctuation Dissipation Relations for the Non-Reciprocal Cahn-Hilliard Model**|Martin Kjøllesdal Johnsrud et.al.|[2502.02524v1](http://arxiv.org/abs/2502.02524v1)|null|
+|**2025-02-05**|**Fragile topology on solid grounds and the Thouless conjecture**|Simon Becker et.al.|[2502.03442v1](http://arxiv.org/abs/2502.03442v1)|null|
+|**2025-02-05**|**Time scale competition in the Active Coagulation Model**|Matteo Paoluzzi et.al.|[2502.03372v1](http://arxiv.org/abs/2502.03372v1)|null|
+|**2025-02-05**|**Analytical solution for the polydisperse random close packing problem in 2D**|Mathias Casiulis et.al.|[2502.03354v1](http://arxiv.org/abs/2502.03354v1)|null|
+|**2025-02-05**|**Spontaneous Twist of Ferroelectric Smectic Blocks in Polar Fluids**|Hiroya Nishikawa et.al.|[2502.03319v1](http://arxiv.org/abs/2502.03319v1)|null|
+|**2025-02-05**|**Mie-enhanced micro-focused Brillouin light scattering with wavevector resolution**|Jakub Krčma et.al.|[2502.03262v1](http://arxiv.org/abs/2502.03262v1)|null|
+|**2025-02-05**|**Luminescence thermometry based on photon emitters in nanophotonic silicon waveguides**|Kilian Sandholzer et.al.|[2502.03222v1](http://arxiv.org/abs/2502.03222v1)|null|
+|**2025-02-05**|**Spin photonic topological metasurface based on kagome lattice and leaky-wave application**|Sayyed Ahmad Abtahi et.al.|[2502.03193v1](http://arxiv.org/abs/2502.03193v1)|null|
+|**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181v1](http://arxiv.org/abs/2502.03181v1)|null|
+|**2025-02-05**|**Investigating the Bouncing Barrier with Collision Simulations of Compressed Dust Aggregates**|Haruto Oshiro et.al.|[2502.03107v1](http://arxiv.org/abs/2502.03107v1)|null|
+|**2025-02-05**|**Imprinting of skyrmions and bimerons in an antiferromagnet**|Coline Thevenard et.al.|[2502.03055v1](http://arxiv.org/abs/2502.03055v1)|null|
+|**2025-02-05**|**Quantitative thermodynamic analyses of nucleation, evolution and stabilization of surface nanobubbles**|Lili Lan et.al.|[2502.02916v1](http://arxiv.org/abs/2502.02916v1)|null|
+|**2025-02-05**|**Supercooled Liquid Water Diffusivity at Temperatures near the Glass Transition Temperature**|R. Scott Smith et.al.|[2502.02876v1](http://arxiv.org/abs/2502.02876v1)|null|
+|**2025-02-05**|**A chain stretch-based gradient-enhanced model for damage and fracture in elastomers**|S. Mohammad Mousavi et.al.|[2502.02822v1](http://arxiv.org/abs/2502.02822v1)|null|
+|**2025-02-05**|**Can one hear the shape of a crystal?**|Haina Wang et.al.|[2502.02819v1](http://arxiv.org/abs/2502.02819v1)|null|
+|**2025-02-05**|**Sliding of a liquid spherical droplet in an external insoluble liquid at low Reynolds numbers**|Peter Lebedev-Stepanov et.al.|[2502.02814v1](http://arxiv.org/abs/2502.02814v1)|null|
+|**2025-02-04**|**Pore network models for the evaporation of complex fluids in porous media**|Romane Le Dizès Castell et.al.|[2502.02746v1](http://arxiv.org/abs/2502.02746v1)|null|
+|**2025-02-05**|**Fluctuation Dissipation Relations for the Non-Reciprocal Cahn-Hilliard Model**|Martin Kjøllesdal Johnsrud et.al.|[2502.02524v2](http://arxiv.org/abs/2502.02524v2)|null|
 |**2025-02-04**|**Hydroelastic scattering and trapping of microswimmers**|Sagnik Garai et.al.|[2502.02462v1](http://arxiv.org/abs/2502.02462v1)|null|
 |**2025-02-04**|**Topological Tenfold Classification and the Entanglement of Two Qubits**|Nadav Orion et.al.|[2502.02427v1](http://arxiv.org/abs/2502.02427v1)|null|
 |**2025-02-04**|**Emergent clogging of continuum particle suspensions in constricted channels**|Anushka Herale et.al.|[2502.02396v1](http://arxiv.org/abs/2502.02396v1)|null|
@@ -8394,6 +8410,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Symmetry Analysis of the Non-Hermitian Electro-Optic Effect in Crystals**|Sylvain Lannebère et.al.|[2502.03399v1](http://arxiv.org/abs/2502.03399v1)|null|
+|**2025-02-05**|**Imprinting of skyrmions and bimerons in an antiferromagnet**|Coline Thevenard et.al.|[2502.03055v1](http://arxiv.org/abs/2502.03055v1)|null|
 |**2025-02-01**|**Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides**|Mahmoud Zeer et.al.|[2502.00449v1](http://arxiv.org/abs/2502.00449v1)|null|
 |**2025-01-22**|**Current-induced magnetoresistance hysteresis in the kagome superconductor CsV $_3$Sb$_5$**|Han-Xin Lou et.al.|[2501.12646v1](http://arxiv.org/abs/2501.12646v1)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593v1](http://arxiv.org/abs/2501.12593v1)|null|
@@ -8643,6 +8661,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Unconventional anomalous Hall effect in hexagonal polar magnet Y_3Co_8Sn_4**|Afsar Ahmed et.al.|[2502.03452v1](http://arxiv.org/abs/2502.03452v1)|null|
+|**2025-02-05**|**Altermagnetic spin splitting and symmetry-enforced partial spin degeneracy in hexagonal MnTe**|Suman Rooj et.al.|[2502.03088v1](http://arxiv.org/abs/2502.03088v1)|null|
+|**2025-02-05**|**Significant Chiral Magnetotransport Magnified by Multiple Weyl Nodes**|Bo Zhang et.al.|[2502.03015v1](http://arxiv.org/abs/2502.03015v1)|null|
 |**2025-02-04**|**Anomalous Hall effect in highly c-plane oriented Mn $_{3}$ Ge/Si(100) thin films grown by pulsed laser deposition**|Indraneel Sinha et.al.|[2502.00809v2](http://arxiv.org/abs/2502.00809v2)|null|
 |**2025-01-29**|**Magnetic metastability driven Anomalous Hall Effect in Fe $_{x}$TaS$_2$**|Mohamad Numan et.al.|[2501.17453v1](http://arxiv.org/abs/2501.17453v1)|null|
 |**2025-01-26**|**Giant Anomalous Hall Effect in Kagome Nodal Surface Semimetal Fe $_3$ Ge**|Shu-Xiang Li et.al.|[2501.15424v1](http://arxiv.org/abs/2501.15424v1)|null|
