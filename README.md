@@ -1098,11 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Shape-asymmetry and flexibility in active cross-stream migration in nonuniform shear**|Derek C. Gomes et.al.|[2502.04316v1](http://arxiv.org/abs/2502.04316v1)|null|
+|**2025-02-06**|**Octagonal tilings with three prototiles**|April Lynne D. Say-awen et.al.|[2502.04133v1](http://arxiv.org/abs/2502.04133v1)|null|
+|**2025-02-06**|**Spontaneous helix formation in polar smectic phase**|Ewa Gorecka et.al.|[2502.04042v1](http://arxiv.org/abs/2502.04042v1)|null|
+|**2025-02-06**|**Search for Stable States in Two-Body Excitations of the Hubbard Model on the Honeycomb Lattice**|Petar Sinilkov et.al.|[2502.04015v1](http://arxiv.org/abs/2502.04015v1)|null|
+|**2025-02-06**|**Quantifying Ionic Liquid Affinity and Its Effect on Phospholipid Membrane Structure and Dynamics**|V. K. Sharma et.al.|[2502.04005v1](http://arxiv.org/abs/2502.04005v1)|null|
+|**2025-02-06**|**Simulation of the thermocapillary assembly of a colloidal cluster during the evaporation of a liquid film in an unevenly heated cell**|Kristina N. Kondrashova et.al.|[2502.03991v1](http://arxiv.org/abs/2502.03991v1)|null|
+|**2025-02-06**|**Phase diagram of the hard-sphere potential model in three and four dimensions using a pseudo-hard-sphere potential**|Edwin A. Bedolla-Montiel et.al.|[2502.03959v1](http://arxiv.org/abs/2502.03959v1)|null|
+|**2025-02-06**|**Crystal tensor properties of magnetic materials with and without spin-orbit coupling. Application of spin point groups as approximate symmetries**|Jesus Etxebarria et.al.|[2502.03934v1](http://arxiv.org/abs/2502.03934v1)|null|
+|**2025-02-06**|**Memory-induced current reversal of Brownian motors**|Mateusz Wiśniewski et.al.|[2502.03932v1](http://arxiv.org/abs/2502.03932v1)|null|
+|**2025-02-06**|**Free Growth under Tension**|Chenyun Yao et.al.|[2502.03927v1](http://arxiv.org/abs/2502.03927v1)|null|
+|**2025-02-06**|**Unifying shear thinning behaviors of meso-scaled particle suspensions**|Yuan Lin et.al.|[2502.03857v1](http://arxiv.org/abs/2502.03857v1)|null|
+|**2025-02-06**|**Experimental validation of the diverse incident angle performance of a pulse-width-dependent antenna based on a waveform-selective metasurface in a reverberation chamber**|Kaito Ozawa et.al.|[2502.03807v1](http://arxiv.org/abs/2502.03807v1)|null|
+|**2025-02-06**|**A Multiscale Approach to Structural Relaxation and Diffusion in Metallic Glasses**|Anh D. Phan et.al.|[2502.03753v1](http://arxiv.org/abs/2502.03753v1)|null|
+|**2025-02-06**|**Twist, splay, and uniform domains in ferroelectric nematic liquid crystals**|Maxim O. Lavrentovich et.al.|[2502.03747v1](http://arxiv.org/abs/2502.03747v1)|null|
+|**2025-02-05**|**Multidisciplinary Science in the Multimessenger Era**|Eric Burns et.al.|[2502.03577v1](http://arxiv.org/abs/2502.03577v1)|null|
 |**2025-02-05**|**Fragile topology on solid grounds and the Thouless conjecture**|Simon Becker et.al.|[2502.03442v1](http://arxiv.org/abs/2502.03442v1)|null|
 |**2025-02-05**|**Time scale competition in the Active Coagulation Model**|Matteo Paoluzzi et.al.|[2502.03372v1](http://arxiv.org/abs/2502.03372v1)|null|
 |**2025-02-05**|**Analytical solution for the polydisperse random close packing problem in 2D**|Mathias Casiulis et.al.|[2502.03354v1](http://arxiv.org/abs/2502.03354v1)|null|
 |**2025-02-05**|**Spontaneous Twist of Ferroelectric Smectic Blocks in Polar Fluids**|Hiroya Nishikawa et.al.|[2502.03319v1](http://arxiv.org/abs/2502.03319v1)|null|
-|**2025-02-05**|**Mie-enhanced micro-focused Brillouin light scattering with wavevector resolution**|Jakub Krčma et.al.|[2502.03262v1](http://arxiv.org/abs/2502.03262v1)|**[link](https://github.com/CEITECmagnonics/Mie-enhancedMicro-focusedBrillouinLightScatteringWithWavevectorResolution)**|
+|**2025-02-06**|**Mie-enhanced micro-focused Brillouin light scattering with wavevector resolution**|Jakub Krčma et.al.|[2502.03262v2](http://arxiv.org/abs/2502.03262v2)|**[link](https://github.com/CEITECmagnonics/Mie-enhancedMicro-focusedBrillouinLightScatteringWithWavevectorResolution)**|
 |**2025-02-05**|**Luminescence thermometry based on photon emitters in nanophotonic silicon waveguides**|Kilian Sandholzer et.al.|[2502.03222v1](http://arxiv.org/abs/2502.03222v1)|null|
 |**2025-02-05**|**Spin photonic topological metasurface based on kagome lattice and leaky-wave application**|Sayyed Ahmad Abtahi et.al.|[2502.03193v1](http://arxiv.org/abs/2502.03193v1)|null|
 |**2025-02-05**|**Separation between long- and short-range part of the Coulomb interaction in low dimensional systems: implications for the macroscopic screening length and the collective charge excitations**|Pierluigi Cudazzo et.al.|[2502.03181v1](http://arxiv.org/abs/2502.03181v1)|null|
@@ -8015,7 +8030,7 @@
 |**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
 |**2025-02-04**|**Molecular Pseudorotation in Phthalocyanines as a Tool for Magnetic Field Control at the Nanoscale**|Raphael Wilhelmer et.al.|[2502.02169v1](http://arxiv.org/abs/2502.02169v1)|null|
 |**2025-02-03**|**Origin of phonon decoherence**|Yiming Pan et.al.|[2502.01529v1](http://arxiv.org/abs/2502.01529v1)|null|
-|**2025-02-04**|**Nonclassical dynamics of Néel vector and magnetization accompanied by THz and high-harmonic radiation from ultrafast-light-driven NiO antiferromagnet insulator**|Federico Garcia-Gaitan et.al.|[2502.00849v2](http://arxiv.org/abs/2502.00849v2)|null|
+|**2025-02-06**|**Nonclassical dynamics of Néel vector and magnetization accompanied by THz and high-harmonic radiation from ultrafast-light-driven NiO antiferromagnet insulator**|Federico Garcia-Gaitan et.al.|[2502.00849v3](http://arxiv.org/abs/2502.00849v3)|null|
 |**2025-02-02**|**Light-induced reorientation transition in an antiferromagnetic semiconductor**|Bryan T. Fichera et.al.|[2502.00642v1](http://arxiv.org/abs/2502.00642v1)|null|
 |**2025-01-31**|**Correlations drive the attosecond response of strongly-correlated insulators**|Romain Cazali et.al.|[2501.19238v1](http://arxiv.org/abs/2501.19238v1)|null|
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
@@ -8410,6 +8425,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Correlated helimagnetic configuration in a nonsymmorphic magnetic nodal semimetal**|Xi Luo et.al.|[2502.03832v1](http://arxiv.org/abs/2502.03832v1)|null|
+|**2025-02-05**|**Realizing Quantitative Quasiparticle Modeling of Skyrmion Dynamics in Arbitrary Potentials**|Maarten A. Brems et.al.|[2502.03541v1](http://arxiv.org/abs/2502.03541v1)|null|
 |**2025-02-05**|**Symmetry Analysis of the Non-Hermitian Electro-Optic Effect in Crystals**|Sylvain Lannebère et.al.|[2502.03399v1](http://arxiv.org/abs/2502.03399v1)|null|
 |**2025-02-05**|**Imprinting of skyrmions and bimerons in an antiferromagnet**|Coline Thevenard et.al.|[2502.03055v1](http://arxiv.org/abs/2502.03055v1)|null|
 |**2025-02-01**|**Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides**|Mahmoud Zeer et.al.|[2502.00449v1](http://arxiv.org/abs/2502.00449v1)|null|
@@ -8661,6 +8678,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Elasto-Hall conductivity and the anomalous Hall effect in altermagnets**|Keigo Takahashi et.al.|[2502.03517v1](http://arxiv.org/abs/2502.03517v1)|null|
 |**2025-02-05**|**Unconventional anomalous Hall effect in hexagonal polar magnet Y_3Co_8Sn_4**|Afsar Ahmed et.al.|[2502.03452v1](http://arxiv.org/abs/2502.03452v1)|null|
 |**2025-02-05**|**Altermagnetic spin splitting and symmetry-enforced partial spin degeneracy in hexagonal MnTe**|Suman Rooj et.al.|[2502.03088v1](http://arxiv.org/abs/2502.03088v1)|null|
 |**2025-02-05**|**Significant Chiral Magnetotransport Magnified by Multiple Weyl Nodes**|Bo Zhang et.al.|[2502.03015v1](http://arxiv.org/abs/2502.03015v1)|null|
@@ -9075,6 +9093,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**An inelastic neutron scattering study of the magnetic field dependence of the quantum dipolar garnet: Yb $_3$Ga$_5$O$_{12}$**|Edward Riordan et.al.|[2502.04127v1](http://arxiv.org/abs/2502.04127v1)|null|
 |**2025-01-28**|**Low-temperature magnetic behaviour on the triangular lattice in hexagonal Ba $_3$Tb(BO$_3$)$_3$**|Nicola Kelly et.al.|[2501.17052v1](http://arxiv.org/abs/2501.17052v1)|null|
 |**2025-01-22**|**Theoretical Study of Terahertz Absorption Spectra and Neutron Inelastic Scattering in Frustrated Magnet $\text{Tb}_2\text{Ti}_2\text{O}_7$**|V. V. Klekovkina et.al.|[2501.12941v1](http://arxiv.org/abs/2501.12941v1)|null|
 |**2025-01-27**|**On the pseudo-doublet ground state of the non-Kramers compound SrTm2O4 and its frustrated antiferromagnetic interactions**|D. L. Quintero Castro et.al.|[2501.12035v2](http://arxiv.org/abs/2501.12035v2)|null|
