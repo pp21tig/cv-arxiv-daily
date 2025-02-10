@@ -1098,11 +1098,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Stirring supercooled colloidal liquids at the particle scale**|Piotr Habdas et.al.|[2502.05166v1](http://arxiv.org/abs/2502.05166v1)|null|
+|**2025-02-07**|**Disentangling the Effects of Curvature and Misorientation on the Shrinkage Behavior of Loop-Shaped Grain Boundaries**|Fabrizio Camerin et.al.|[2502.05112v1](http://arxiv.org/abs/2502.05112v1)|null|
+|**2025-02-07**|**Viscoelasticity reduces the droplet size in mucosalivary film fragmentation during intense respiratory events**|Mogeng Li et.al.|[2502.05105v1](http://arxiv.org/abs/2502.05105v1)|null|
+|**2025-02-07**|**Linear-limit aging times of three monoalcohols**|Jan Philipp Gabriel et.al.|[2502.04971v1](http://arxiv.org/abs/2502.04971v1)|null|
+|**2025-02-07**|**Unified description of viscous, viscoelastic, or elastic thin active films on substrates**|Henning Reinken et.al.|[2502.04802v1](http://arxiv.org/abs/2502.04802v1)|null|
+|**2025-02-07**|**Self-limiting states of polar misfits: Frustrated assembly of warped-jigsaw particles**|Michael Wang et.al.|[2502.04633v1](http://arxiv.org/abs/2502.04633v1)|null|
+|**2025-02-06**|**Towards Accurate Mixed Quantum Classical Simulations of Vibrational Polaritonic Chemistry**|Muhammad R. Hasyim et.al.|[2502.04570v1](http://arxiv.org/abs/2502.04570v1)|null|
+|**2025-02-06**|**Lattice stitching by eigenvector continuation for Holstein polaron**|Elham Torabian et.al.|[2502.04500v1](http://arxiv.org/abs/2502.04500v1)|null|
+|**2025-02-06**|**Fermions and the Renormalisation Group at Large N**|Charlie Cresswell-Hogg et.al.|[2502.04473v1](http://arxiv.org/abs/2502.04473v1)|null|
 |**2025-02-06**|**Shape-asymmetry and flexibility in active cross-stream migration in nonuniform shear**|Derek C. Gomes et.al.|[2502.04316v1](http://arxiv.org/abs/2502.04316v1)|null|
 |**2025-02-06**|**Octagonal tilings with three prototiles**|April Lynne D. Say-awen et.al.|[2502.04133v1](http://arxiv.org/abs/2502.04133v1)|null|
 |**2025-02-06**|**Spontaneous helix formation in polar smectic phase**|Ewa Gorecka et.al.|[2502.04042v1](http://arxiv.org/abs/2502.04042v1)|null|
 |**2025-02-06**|**Search for Stable States in Two-Body Excitations of the Hubbard Model on the Honeycomb Lattice**|Petar Sinilkov et.al.|[2502.04015v1](http://arxiv.org/abs/2502.04015v1)|null|
-|**2025-02-06**|**Quantifying Ionic Liquid Affinity and Its Effect on Phospholipid Membrane Structure and Dynamics**|V. K. Sharma et.al.|[2502.04005v1](http://arxiv.org/abs/2502.04005v1)|null|
+|**2025-02-07**|**Quantifying Ionic Liquid Affinity and Its Effect on Phospholipid Membrane Structure and Dynamics**|V. K. Sharma et.al.|[2502.04005v2](http://arxiv.org/abs/2502.04005v2)|null|
 |**2025-02-06**|**Simulation of the thermocapillary assembly of a colloidal cluster during the evaporation of a liquid film in an unevenly heated cell**|Kristina N. Kondrashova et.al.|[2502.03991v1](http://arxiv.org/abs/2502.03991v1)|null|
 |**2025-02-06**|**Phase diagram of the hard-sphere potential model in three and four dimensions using a pseudo-hard-sphere potential**|Edwin A. Bedolla-Montiel et.al.|[2502.03959v1](http://arxiv.org/abs/2502.03959v1)|null|
 |**2025-02-06**|**Crystal tensor properties of magnetic materials with and without spin-orbit coupling. Application of spin point groups as approximate symmetries**|Jesus Etxebarria et.al.|[2502.03934v1](http://arxiv.org/abs/2502.03934v1)|null|
@@ -8425,6 +8434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Chirality-induced spin selectivity based on orbital Edelstein effect in an analytically solvable model**|Börge Göbel et.al.|[2502.04978v1](http://arxiv.org/abs/2502.04978v1)|null|
 |**2025-02-06**|**Correlated helimagnetic configuration in a nonsymmorphic magnetic nodal semimetal**|Xi Luo et.al.|[2502.03832v1](http://arxiv.org/abs/2502.03832v1)|null|
 |**2025-02-05**|**Realizing Quantitative Quasiparticle Modeling of Skyrmion Dynamics in Arbitrary Potentials**|Maarten A. Brems et.al.|[2502.03541v1](http://arxiv.org/abs/2502.03541v1)|null|
 |**2025-02-05**|**Symmetry Analysis of the Non-Hermitian Electro-Optic Effect in Crystals**|Sylvain Lannebère et.al.|[2502.03399v1](http://arxiv.org/abs/2502.03399v1)|null|
@@ -8678,6 +8688,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Unraveling effects of competing interactions and frustration in vdW ferromagnetic Fe3GeTe2 nanoflake devices**|Rajeswari Roy Chowdhury et.al.|[2502.05018v1](http://arxiv.org/abs/2502.05018v1)|null|
+|**2025-02-07**|**Discovery of a large magnetic nonlinear Hall effect in an altermagnet**|Lei Han et.al.|[2502.04920v1](http://arxiv.org/abs/2502.04920v1)|null|
+|**2025-02-07**|**Sign-reversal and non-monotonicity of chirality-related anomalous Hall effect in highly conductive metals**|Ryunosuke Terasawa et.al.|[2502.04886v1](http://arxiv.org/abs/2502.04886v1)|null|
+|**2025-02-06**|**Giant coercivity and enhanced intrinsic anomalous Hall effect at vanishing magnetization in a compensated kagome ferrimagnet**|Jonathan M. DeStefano et.al.|[2502.04560v1](http://arxiv.org/abs/2502.04560v1)|null|
 |**2025-02-05**|**Elasto-Hall conductivity and the anomalous Hall effect in altermagnets**|Keigo Takahashi et.al.|[2502.03517v1](http://arxiv.org/abs/2502.03517v1)|null|
 |**2025-02-05**|**Unconventional anomalous Hall effect in hexagonal polar magnet Y_3Co_8Sn_4**|Afsar Ahmed et.al.|[2502.03452v1](http://arxiv.org/abs/2502.03452v1)|null|
 |**2025-02-05**|**Altermagnetic spin splitting and symmetry-enforced partial spin degeneracy in hexagonal MnTe**|Suman Rooj et.al.|[2502.03088v1](http://arxiv.org/abs/2502.03088v1)|null|
@@ -9093,6 +9107,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Spin dynamics and magnetic excitations of quasi-1D spin chain Ca $_3$ZnMnO$_6$**|Suheon Lee et.al.|[2502.04919v1](http://arxiv.org/abs/2502.04919v1)|null|
 |**2025-02-06**|**An inelastic neutron scattering study of the magnetic field dependence of the quantum dipolar garnet: Yb $_3$Ga$_5$O$_{12}$**|Edward Riordan et.al.|[2502.04127v1](http://arxiv.org/abs/2502.04127v1)|null|
 |**2025-01-28**|**Low-temperature magnetic behaviour on the triangular lattice in hexagonal Ba $_3$Tb(BO$_3$)$_3$**|Nicola Kelly et.al.|[2501.17052v1](http://arxiv.org/abs/2501.17052v1)|null|
 |**2025-01-22**|**Theoretical Study of Terahertz Absorption Spectra and Neutron Inelastic Scattering in Frustrated Magnet $\text{Tb}_2\text{Ti}_2\text{O}_7$**|V. V. Klekovkina et.al.|[2501.12941v1](http://arxiv.org/abs/2501.12941v1)|null|
