@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Strong coupling between a dielectric nanocavity and a monolayer transition metal dichalcogenide**|F. Schröder et.al.|[2502.06529v1](http://arxiv.org/abs/2502.06529v1)|null|
+|**2025-02-10**|**Silica Aerogel Thin Film on Improving Solar Cell Efficiency**|Yan Che et.al.|[2502.06375v1](http://arxiv.org/abs/2502.06375v1)|null|
+|**2025-02-10**|**Oscillatory collective motion in viscoelastic and elastic active fluids and solids under circular confinement**|Henning Reinken et.al.|[2502.06312v1](http://arxiv.org/abs/2502.06312v1)|null|
+|**2025-02-10**|**Dynamics and clustering of sedimenting disc lattices**|Harshit Joshi et.al.|[2502.06308v1](http://arxiv.org/abs/2502.06308v1)|null|
+|**2025-02-10**|**Rheologically tuned modes of collective transport in active viscoelastic films**|Henning Reinken et.al.|[2502.06294v1](http://arxiv.org/abs/2502.06294v1)|null|
+|**2025-02-10**|**Fermion mediated pairing in the Ruderman-Kittel-Kasuya-Yosida to Efimov transition regime**|Geyue Cai et.al.|[2502.06266v1](http://arxiv.org/abs/2502.06266v1)|null|
+|**2025-02-10**|**Dynamical Spreading Under Power Law Potential**|Ido Fanto et.al.|[2502.06256v1](http://arxiv.org/abs/2502.06256v1)|null|
+|**2025-02-10**|**Self-organized criticality driven by droplet influx and random fusion**|Bohan Lyu et.al.|[2502.06236v1](http://arxiv.org/abs/2502.06236v1)|null|
+|**2025-02-10**|**Unveiling Optimal Diffusion for Infection Control in Brownian Particle Systems**|Kaito Takahashi et.al.|[2502.06230v1](http://arxiv.org/abs/2502.06230v1)|null|
+|**2025-02-10**|**Enhanced diffusion over a periodic trap by hydrodynamic coupling to an elastic mode**|Juliette Lacherez et.al.|[2502.06214v1](http://arxiv.org/abs/2502.06214v1)|null|
+|**2025-02-10**|**Effects of particle angularity on granular self-organization**|Dominik Krengel et.al.|[2502.06085v1](http://arxiv.org/abs/2502.06085v1)|null|
+|**2025-02-09**|**Thermodynamic Cost of Steady State Erasure**|Deepak Gupta et.al.|[2502.06014v1](http://arxiv.org/abs/2502.06014v1)|null|
+|**2025-02-09**|**Giant Electro-Viscous Effects in Polar Fluids with Paraelectric-Modulated Antiferroelectric-Ferroelectric Phase Sequence**|Hiroya Nishikawa et.al.|[2502.05929v1](http://arxiv.org/abs/2502.05929v1)|null|
+|**2025-02-09**|**Enhanced collective vibrations in granular materials**|Shihori Koyama et.al.|[2502.05893v1](http://arxiv.org/abs/2502.05893v1)|null|
+|**2025-02-09**|**Exact solution of the relationship between the eigenvalue discreteness and the behavior of eigenstates in Su-Schrieffer-Heeger lattices**|Huitong Wei et.al.|[2502.05865v1](http://arxiv.org/abs/2502.05865v1)|null|
+|**2025-02-09**|**Ultrafast X-ray induced damage and nonthermal melting in cadmium sulfide**|Nikita Medvedev et.al.|[2502.05799v1](http://arxiv.org/abs/2502.05799v1)|null|
+|**2025-02-09**|**Dynamic Control of Third-order Nonlinear Optical Properties of Gold Nanoparticle/Liquid Crystal Composites under External Electric Fields**|Shengwei Wang et.al.|[2502.05736v1](http://arxiv.org/abs/2502.05736v1)|null|
+|**2025-02-08**|**Quantization of Carrollian Fermions**|Ertuğrul Ekiz et.al.|[2502.05645v1](http://arxiv.org/abs/2502.05645v1)|null|
+|**2025-02-08**|**Power-law decay of force on cell membrane tethers reflects long-ranged relaxation of membrane tension**|Emeline Laborie et.al.|[2502.05601v1](http://arxiv.org/abs/2502.05601v1)|null|
+|**2025-02-08**|**Collective Hysteron Behavior in Nonlinear Flow Networks**|Lauren E. Altman et.al.|[2502.05570v1](http://arxiv.org/abs/2502.05570v1)|null|
 |**2025-02-07**|**Stirring supercooled colloidal liquids at the particle scale**|Piotr Habdas et.al.|[2502.05166v1](http://arxiv.org/abs/2502.05166v1)|null|
 |**2025-02-07**|**Disentangling the Effects of Curvature and Misorientation on the Shrinkage Behavior of Loop-Shaped Grain Boundaries**|Fabrizio Camerin et.al.|[2502.05112v1](http://arxiv.org/abs/2502.05112v1)|null|
 |**2025-02-07**|**Viscoelasticity reduces the droplet size in mucosalivary film fragmentation during intense respiratory events**|Mogeng Li et.al.|[2502.05105v1](http://arxiv.org/abs/2502.05105v1)|null|
@@ -8040,6 +8060,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-08**|**Data-driven Low-rank Approximation for Electron-hole Kernel and Acceleration of Time-dependent GW Calculations**|Bowen Hou et.al.|[2502.05635v1](http://arxiv.org/abs/2502.05635v1)|null|
 |**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
 |**2025-02-04**|**Molecular Pseudorotation in Phthalocyanines as a Tool for Magnetic Field Control at the Nanoscale**|Raphael Wilhelmer et.al.|[2502.02169v1](http://arxiv.org/abs/2502.02169v1)|null|
 |**2025-02-03**|**Origin of phonon decoherence**|Yiming Pan et.al.|[2502.01529v1](http://arxiv.org/abs/2502.01529v1)|null|
@@ -8692,6 +8713,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Topological Phase Transitions in Kagome Ferromagnets: The Role of Intrinsic Rashba Spin-Orbit Coupling**|Ritwik Das et.al.|[2502.06686v1](http://arxiv.org/abs/2502.06686v1)|null|
+|**2025-02-10**|**Hedgehog-like spin texture in Sb-doped MnBi $_2$Te$_4$**|Meng Zeng et.al.|[2502.06416v1](http://arxiv.org/abs/2502.06416v1)|null|
 |**2025-02-07**|**Unraveling effects of competing interactions and frustration in vdW ferromagnetic Fe3GeTe2 nanoflake devices**|Rajeswari Roy Chowdhury et.al.|[2502.05018v1](http://arxiv.org/abs/2502.05018v1)|null|
 |**2025-02-07**|**Discovery of a large magnetic nonlinear Hall effect in an altermagnet**|Lei Han et.al.|[2502.04920v1](http://arxiv.org/abs/2502.04920v1)|null|
 |**2025-02-07**|**Sign-reversal and non-monotonicity of chirality-related anomalous Hall effect in highly conductive metals**|Ryunosuke Terasawa et.al.|[2502.04886v1](http://arxiv.org/abs/2502.04886v1)|null|
@@ -9111,6 +9134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Observation of Magnon-Polarons in the Fermi-Hubbard Model**|Max L. Prichard et.al.|[2502.06757v1](http://arxiv.org/abs/2502.06757v1)|null|
 |**2025-02-07**|**Spin dynamics and magnetic excitations of quasi-1D spin chain Ca $_3$ZnMnO$_6$**|Suheon Lee et.al.|[2502.04919v1](http://arxiv.org/abs/2502.04919v1)|null|
 |**2025-02-06**|**An inelastic neutron scattering study of the magnetic field dependence of the quantum dipolar garnet: Yb $_3$Ga$_5$O$_{12}$**|Edward Riordan et.al.|[2502.04127v1](http://arxiv.org/abs/2502.04127v1)|null|
 |**2025-01-28**|**Low-temperature magnetic behaviour on the triangular lattice in hexagonal Ba $_3$Tb(BO$_3$)$_3$**|Nicola Kelly et.al.|[2501.17052v1](http://arxiv.org/abs/2501.17052v1)|null|
