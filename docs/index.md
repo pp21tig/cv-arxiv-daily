@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Hydrodynamic stresses in a multi-species suspension of active Janus colloids**|Gennaro Tucci et.al.|[2502.07744v1](http://arxiv.org/abs/2502.07744v1)|null|
+|**2025-02-11**|**Revisiting Phase Transitions of Yttrium: Insights from Density Functional Theory**|Paras Patel et.al.|[2502.07686v1](http://arxiv.org/abs/2502.07686v1)|null|
+|**2025-02-11**|**Theory of Generalized Hertzian Hyperspheres**|Ulf R. Pedersen et.al.|[2502.07665v1](http://arxiv.org/abs/2502.07665v1)|null|
+|**2025-02-11**|**Predicting structure and swelling of microgels with different crosslinker concentrations combining machine-learning with numerical simulations**|Susana Marín-Aguilar et.al.|[2502.07482v1](http://arxiv.org/abs/2502.07482v1)|null|
+|**2025-02-11**|**Topological superconductivity in hourglass Dirac chain metals (Ti, Hf)IrGe**|Pavan Kumar Meena et.al.|[2502.07475v1](http://arxiv.org/abs/2502.07475v1)|null|
+|**2025-02-11**|**Non-adiabaticity from first principles: the exact-factorization approach for solids**|Galit Cohen et.al.|[2502.07439v1](http://arxiv.org/abs/2502.07439v1)|null|
+|**2025-02-11**|**Origins of the anomalous Hall conductivity in the symmetry enforced Fe3GeTe2 nodal-line ferromagnet**|Mikel García-Díez et.al.|[2502.07420v1](http://arxiv.org/abs/2502.07420v1)|null|
+|**2025-02-11**|**Explainable Multimodal Machine Learning for Revealing Structure-Property Relationships in Carbon Nanotube Fibers**|Daisuke Kimura et.al.|[2502.07400v1](http://arxiv.org/abs/2502.07400v1)|null|
+|**2025-02-11**|**Colloidal Model for Investigating Optimal Efficiency in Weakly Coupled Ratchet Motors**|José Martín-Roca et.al.|[2502.07362v1](http://arxiv.org/abs/2502.07362v1)|null|
+|**2025-02-11**|**The Sand Atlas**|Ilija Vego et.al.|[2502.07235v1](http://arxiv.org/abs/2502.07235v1)|null|
+|**2025-02-10**|**Does Entanglement Correlation in Ground State Guarantee Quantum Energy Teleportation?**|Taisanul Haque et.al.|[2502.07097v1](http://arxiv.org/abs/2502.07097v1)|null|
+|**2025-02-10**|**Majorana quasiparticles in atomic spin chains on superconductors**|Stephan Rachel et.al.|[2502.07089v1](http://arxiv.org/abs/2502.07089v1)|null|
+|**2025-02-10**|**Liquid crystalline structures formed by sphere-rod amphiphilic molecules in solvents**|Nilanthi P. Haputhanthrige et.al.|[2502.07037v1](http://arxiv.org/abs/2502.07037v1)|null|
+|**2025-02-10**|**Emergence of Order in Chemically Active Droplets: Temporal Dynamics and Collective Behavior**|Sobiya Ashraf et.al.|[2502.07009v1](http://arxiv.org/abs/2502.07009v1)|null|
 |**2025-02-10**|**Strong coupling between a dielectric nanocavity and a monolayer transition metal dichalcogenide**|F. Schröder et.al.|[2502.06529v1](http://arxiv.org/abs/2502.06529v1)|null|
 |**2025-02-10**|**Silica Aerogel Thin Film on Improving Solar Cell Efficiency**|Yan Che et.al.|[2502.06375v1](http://arxiv.org/abs/2502.06375v1)|null|
 |**2025-02-10**|**Oscillatory collective motion in viscoelastic and elastic active fluids and solids under circular confinement**|Henning Reinken et.al.|[2502.06312v1](http://arxiv.org/abs/2502.06312v1)|null|
@@ -8459,6 +8473,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**From surface Fermi arcs to Fermi loops in the Dirac semimetal Cd3As2**|An-Qi Wang et.al.|[2502.07499v1](http://arxiv.org/abs/2502.07499v1)|null|
 |**2025-02-07**|**Chirality-induced spin selectivity based on orbital Edelstein effect in an analytically solvable model**|Börge Göbel et.al.|[2502.04978v1](http://arxiv.org/abs/2502.04978v1)|null|
 |**2025-02-06**|**Correlated helimagnetic configuration in a nonsymmorphic magnetic nodal semimetal**|Xi Luo et.al.|[2502.03832v1](http://arxiv.org/abs/2502.03832v1)|null|
 |**2025-02-05**|**Realizing Quantitative Quasiparticle Modeling of Skyrmion Dynamics in Arbitrary Potentials**|Maarten A. Brems et.al.|[2502.03541v1](http://arxiv.org/abs/2502.03541v1)|null|
