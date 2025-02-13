@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Stretching Response of a Polymer Chain with Deformable Bonds**|Jie Zhu et.al.|[2502.08602v1](http://arxiv.org/abs/2502.08602v1)|null|
+|**2025-02-12**|**Ferri- and Ferro-Electric Switching in Spontaneously Chiral Polar Liquid Crystals**|Jordan Hobbs et.al.|[2502.08551v1](http://arxiv.org/abs/2502.08551v1)|null|
+|**2025-02-12**|**Monolayer transition metal dichalcogenides under finite-pulse polarized radiation**|Alejandro S. Gómez et.al.|[2502.08546v1](http://arxiv.org/abs/2502.08546v1)|null|
+|**2025-02-12**|**Broken symmetries associated with a Kagome chiral charge order**|Zi-Jia Cheng et.al.|[2502.08537v1](http://arxiv.org/abs/2502.08537v1)|null|
+|**2025-02-12**|**A comprehensive approach to incorporating intermolecular dispersion into the openCOSMO-RS model. Part 2: Atomic polarizabilities**|Daria Grigorash et.al.|[2502.08520v1](http://arxiv.org/abs/2502.08520v1)|null|
+|**2025-02-12**|**Amoeboid propulsion of active solid bodies, vesicles and droplets: a comparison**|Reiner Kree et.al.|[2502.08420v1](http://arxiv.org/abs/2502.08420v1)|null|
+|**2025-02-12**|**Emergent dimer-model topological order and quasi-particle excitations in liquid crystals: combinatorial vortex lattices**|Cuiling Meng et.al.|[2502.08314v1](http://arxiv.org/abs/2502.08314v1)|null|
+|**2025-02-12**|**Breakdown of Magic Numbers in Spherical Confinement**|Junwei Wang et.al.|[2502.08188v1](http://arxiv.org/abs/2502.08188v1)|null|
+|**2025-02-12**|**Chiral Topological Phononic Quasiparticles in Enantiomeric Crystals SrSi $_2$ and BaSi$_2$**|Yong-Kun Wang et.al.|[2502.08185v1](http://arxiv.org/abs/2502.08185v1)|null|
+|**2025-02-11**|**Automated Microsolvation for Minimum Energy Path Construction in Solution**|Paul L. Türtscher et.al.|[2502.07965v1](http://arxiv.org/abs/2502.07965v1)|null|
+|**2025-02-11**|**Magnetic order through Kondo coupling to quantum spin liquids**|M. A. Keskiner et.al.|[2502.07884v1](http://arxiv.org/abs/2502.07884v1)|null|
 |**2025-02-11**|**Hydrodynamic stresses in a multi-species suspension of active Janus colloids**|Gennaro Tucci et.al.|[2502.07744v1](http://arxiv.org/abs/2502.07744v1)|null|
 |**2025-02-11**|**Revisiting Phase Transitions of Yttrium: Insights from Density Functional Theory**|Paras Patel et.al.|[2502.07686v1](http://arxiv.org/abs/2502.07686v1)|null|
 |**2025-02-11**|**Theory of Generalized Hertzian Hyperspheres**|Ulf R. Pedersen et.al.|[2502.07665v1](http://arxiv.org/abs/2502.07665v1)|null|
@@ -8396,6 +8407,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Efficiently Laser Driven Terahertz Surface Plasmon Polaritons on Long Metal Wire**|Shuoting Shao et.al.|[2502.08048v1](http://arxiv.org/abs/2502.08048v1)|null|
+|**2025-02-11**|**Terahertz electroluminescence from Dirac-Landau polaritons**|B. Benhamou-Bui et.al.|[2502.07897v1](http://arxiv.org/abs/2502.07897v1)|null|
 |**2025-01-07**|**Terahertz-driven ultrafast dynamics of rare-earth nickelates by controlling only the charge degree of freedom**|Gulloo Lal Prajapati et.al.|[2501.03650v1](http://arxiv.org/abs/2501.03650v1)|null|
 |**2024-12-30**|**A Hidden Quantum Paraelectric Phase in SrTiO3 Induced by Terahertz Field**|Wei Li et.al.|[2412.20887v1](http://arxiv.org/abs/2412.20887v1)|null|
 |**2024-12-07**|**Ultrafast lattice and electron dynamics induced in a PbSe crystal by an intense terahertz pulse**|A. A. Melnikov et.al.|[2412.05704v1](http://arxiv.org/abs/2412.05704v1)|null|
@@ -8724,6 +8737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Epitaxial growth and transport properties of a metallic altermagnet CrSb on a GaAs (001) substrate**|Seiji Aota et.al.|[2502.08117v1](http://arxiv.org/abs/2502.08117v1)|null|
 |**2025-02-10**|**Topological Phase Transitions in Kagome Ferromagnets: The Role of Intrinsic Rashba Spin-Orbit Coupling**|Ritwik Das et.al.|[2502.06686v1](http://arxiv.org/abs/2502.06686v1)|null|
 |**2025-02-10**|**Hedgehog-like spin texture in Sb-doped MnBi $_2$Te$_4$**|Meng Zeng et.al.|[2502.06416v1](http://arxiv.org/abs/2502.06416v1)|null|
 |**2025-02-07**|**Unraveling effects of competing interactions and frustration in vdW ferromagnetic Fe3GeTe2 nanoflake devices**|Rajeswari Roy Chowdhury et.al.|[2502.05018v1](http://arxiv.org/abs/2502.05018v1)|null|
