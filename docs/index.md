@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Collective migration and topological phase transitions in confluent epithelia**|Leonardo Puggioni et.al.|[2502.09554v1](http://arxiv.org/abs/2502.09554v1)|null|
+|**2025-02-13**|**Run-and-tumble particles with 1D Coulomb interaction: the active jellium model and the non-reciprocal self-gravitating gas**|Léo Touzo et.al.|[2502.09466v1](http://arxiv.org/abs/2502.09466v1)|null|
+|**2025-02-13**|**Coherent detection of the oscillating acoustoelectric effect in graphene**|Yicheng Mou et.al.|[2502.09465v1](http://arxiv.org/abs/2502.09465v1)|null|
+|**2025-02-13**|**Dialectics of antimicrobial peptides II: Theoretical models of pore formation and membrane protection**|Oleg V. Kondrashov et.al.|[2502.09424v1](http://arxiv.org/abs/2502.09424v1)|null|
+|**2025-02-13**|**Dialectics of antimicrobial peptides I: common mechanisms of offensive and protecting roles of the peptides**|Marta V. Volovik et.al.|[2502.09408v1](http://arxiv.org/abs/2502.09408v1)|null|
+|**2025-02-13**|**Entanglement behavior and localization properties in monitored fermion systems**|Giulia Piccitto et.al.|[2502.09401v1](http://arxiv.org/abs/2502.09401v1)|null|
+|**2025-02-13**|**Angle-dependent dissipation effects in topological insulator-based Josephson junctions**|Ardamon Sten et.al.|[2502.09397v1](http://arxiv.org/abs/2502.09397v1)|null|
+|**2025-02-13**|**Phase space contraction rate for classical mixed states**|Mohamed Sahbani et.al.|[2502.09361v1](http://arxiv.org/abs/2502.09361v1)|null|
+|**2025-02-13**|**NextGenPB: an analytically-enabled super resolution and local (de)refinement Poisson-Boltzmann Equation solver**|Vincenzo Di Florio et.al.|[2502.09323v1](http://arxiv.org/abs/2502.09323v1)|null|
+|**2025-02-13**|**The quest for new materials: the network theory and machine learning perspectives**|Jacopo Moi et.al.|[2502.09250v1](http://arxiv.org/abs/2502.09250v1)|null|
+|**2025-02-13**|**Water-in-water PEG/DEX/protein microgel emulsions: effect of microgel particle size on the rate of emulsion phase separation**|Andrzej Balis et.al.|[2502.09197v1](http://arxiv.org/abs/2502.09197v1)|null|
+|**2025-02-13**|**Fundamental Theory of Current-Induced Motion of Magnetic Skyrmions**|Yuto Ohki et.al.|[2502.09191v1](http://arxiv.org/abs/2502.09191v1)|null|
+|**2025-02-13**|**Sliding dynamics of a particle in a soap film**|Youna Louyer et.al.|[2502.09179v1](http://arxiv.org/abs/2502.09179v1)|null|
+|**2025-02-13**|**Universal criterion for selective outcomes under stochastic resetting**|Suvam Pal et.al.|[2502.09127v1](http://arxiv.org/abs/2502.09127v1)|null|
+|**2025-02-13**|**Basic mechanisms for understanding container-content interactions: a fundamental perspective and application to polymer materials**|Emmanuelle Feschet-Chassot et.al.|[2502.09070v1](http://arxiv.org/abs/2502.09070v1)|null|
+|**2025-02-13**|**Critical Motility-Induced Phase Separation in Three Dimensions is Consistent with Ising Universality**|Jiechao Feng et.al.|[2502.09069v1](http://arxiv.org/abs/2502.09069v1)|null|
 |**2025-02-12**|**Stretching Response of a Polymer Chain with Deformable Bonds**|Jie Zhu et.al.|[2502.08602v1](http://arxiv.org/abs/2502.08602v1)|null|
 |**2025-02-12**|**Ferri- and Ferro-Electric Switching in Spontaneously Chiral Polar Liquid Crystals**|Jordan Hobbs et.al.|[2502.08551v1](http://arxiv.org/abs/2502.08551v1)|null|
 |**2025-02-12**|**Monolayer transition metal dichalcogenides under finite-pulse polarized radiation**|Alejandro S. Gómez et.al.|[2502.08546v1](http://arxiv.org/abs/2502.08546v1)|null|
@@ -8486,6 +8502,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Fundamental Theory of Current-Induced Motion of Magnetic Skyrmions**|Yuto Ohki et.al.|[2502.09191v1](http://arxiv.org/abs/2502.09191v1)|null|
 |**2025-02-11**|**From surface Fermi arcs to Fermi loops in the Dirac semimetal Cd3As2**|An-Qi Wang et.al.|[2502.07499v1](http://arxiv.org/abs/2502.07499v1)|null|
 |**2025-02-07**|**Chirality-induced spin selectivity based on orbital Edelstein effect in an analytically solvable model**|Börge Göbel et.al.|[2502.04978v1](http://arxiv.org/abs/2502.04978v1)|null|
 |**2025-02-06**|**Correlated helimagnetic configuration in a nonsymmorphic magnetic nodal semimetal**|Xi Luo et.al.|[2502.03832v1](http://arxiv.org/abs/2502.03832v1)|null|
