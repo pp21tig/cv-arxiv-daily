@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Gapping the spin-nodal planes of an anisotropic p-wave magnet to induce a large anomalous Hall effect**|Rinsuke Yamada et.al.|[2502.10386v1](http://arxiv.org/abs/2502.10386v1)|null|
+|**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi et.al.|[2502.10345v1](http://arxiv.org/abs/2502.10345v1)|null|
+|**2025-02-14**|**Variationally optimizing infinite projected entangled-pair states at large bond dimensions: A split-CTMRG approach**|Jan Naumann et.al.|[2502.10298v1](http://arxiv.org/abs/2502.10298v1)|null|
+|**2025-02-14**|**Deep learning-based holography for T-linear resistivity**|Byoungjoon Ahn et.al.|[2502.10245v1](http://arxiv.org/abs/2502.10245v1)|null|
+|**2025-02-14**|**Strong field physics in open quantum systems**|Neda Boroumand et.al.|[2502.10240v1](http://arxiv.org/abs/2502.10240v1)|null|
+|**2025-02-14**|**Panoscopic non-equilibrium fluctuation identity**|Juliana Caspers et.al.|[2502.10175v1](http://arxiv.org/abs/2502.10175v1)|null|
+|**2025-02-14**|**Microwave pulse transparency in Flux-qubit based superconducting quantum metamaterial**|S. Galovic et.al.|[2502.10130v1](http://arxiv.org/abs/2502.10130v1)|null|
+|**2025-02-14**|**Balloon regime: Drop elasticity leads to complete rebound**|D. Díaz et.al.|[2502.10081v1](http://arxiv.org/abs/2502.10081v1)|null|
+|**2025-02-14**|**Transverse vortices induced by modulated granular shear flows of elongated particles**|Sára Lévay et.al.|[2502.10079v1](http://arxiv.org/abs/2502.10079v1)|null|
+|**2025-02-14**|**Multifunctional Altermagnet with Large Out-of-Plane Piezoelectric Response in Janus V $_{2}$ AsBrO Monolayer**|Qiuyue Ma et.al.|[2502.10055v1](http://arxiv.org/abs/2502.10055v1)|null|
+|**2025-02-14**|**The N-link model for slender rods in a viscous fluid: well-posedness and convergence to classical elastohydrodynamics equations**|Clément Moreau et.al.|[2502.09988v1](http://arxiv.org/abs/2502.09988v1)|null|
+|**2025-02-14**|**Evidence of magnetoelastic coupling and magnetic phase coexistence in Mn $_{1.7}$Fe$_{1.3}$ Si Heusler Alloy**|Kulbhushan Mishra et.al.|[2502.09910v1](http://arxiv.org/abs/2502.09910v1)|null|
+|**2025-02-14**|**Rigorous lower bound of the dynamical critical exponent of the Ising model**|Rintaro Masaoka et.al.|[2502.09908v1](http://arxiv.org/abs/2502.09908v1)|null|
+|**2025-02-14**|**Superconductivity and a van Hove singularity confined to the surface of a topological semimetal**|Md Shafayat Hossain et.al.|[2502.09878v1](http://arxiv.org/abs/2502.09878v1)|null|
+|**2025-02-14**|**Direct experimental measurement of many-body hydrodynamic interactions with optical tweezers**|Dae Yeon Kim et.al.|[2502.09841v1](http://arxiv.org/abs/2502.09841v1)|null|
+|**2025-02-13**|**A tutorial for mesoscale computer simulations of lipid membranes: tether pulling, tubulation and fluctuation**|Maitane Muñoz-Basagoiti et.al.|[2502.09798v1](http://arxiv.org/abs/2502.09798v1)|null|
 |**2025-02-13**|**Collective migration and topological phase transitions in confluent epithelia**|Leonardo Puggioni et.al.|[2502.09554v1](http://arxiv.org/abs/2502.09554v1)|null|
 |**2025-02-13**|**Run-and-tumble particles with 1D Coulomb interaction: the active jellium model and the non-reciprocal self-gravitating gas**|Léo Touzo et.al.|[2502.09466v1](http://arxiv.org/abs/2502.09466v1)|null|
 |**2025-02-13**|**Coherent detection of the oscillating acoustoelectric effect in graphene**|Yicheng Mou et.al.|[2502.09465v1](http://arxiv.org/abs/2502.09465v1)|null|
@@ -8097,6 +8113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Light-induced dissipationless states in magnetic topological insulators with hexagonal warping**|Mohammad Shafiei et.al.|[2502.10164v1](http://arxiv.org/abs/2502.10164v1)|null|
 |**2025-02-08**|**Data-driven Low-rank Approximation for Electron-hole Kernel and Acceleration of Time-dependent GW Calculations**|Bowen Hou et.al.|[2502.05635v1](http://arxiv.org/abs/2502.05635v1)|null|
 |**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
 |**2025-02-04**|**Molecular Pseudorotation in Phthalocyanines as a Tool for Magnetic Field Control at the Nanoscale**|Raphael Wilhelmer et.al.|[2502.02169v1](http://arxiv.org/abs/2502.02169v1)|null|
@@ -8498,6 +8515,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Single-molecule phosphorescence and intersystem crossing in a coupled exciton-plasmon system**|Abhishek Grewal et.al.|[2502.10150v1](http://arxiv.org/abs/2502.10150v1)|null|
 |**2025-02-13**|**Fundamental Theory of Current-Induced Motion of Magnetic Skyrmions**|Yuto Ohki et.al.|[2502.09191v1](http://arxiv.org/abs/2502.09191v1)|null|
 |**2025-02-11**|**From surface Fermi arcs to Fermi loops in the Dirac semimetal Cd3As2**|An-Qi Wang et.al.|[2502.07499v1](http://arxiv.org/abs/2502.07499v1)|null|
 |**2025-02-07**|**Chirality-induced spin selectivity based on orbital Edelstein effect in an analytically solvable model**|Börge Göbel et.al.|[2502.04978v1](http://arxiv.org/abs/2502.04978v1)|null|
@@ -8754,6 +8772,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Gapping the spin-nodal planes of an anisotropic p-wave magnet to induce a large anomalous Hall effect**|Rinsuke Yamada et.al.|[2502.10386v1](http://arxiv.org/abs/2502.10386v1)|null|
+|**2025-02-14**|**Spontaneous in-plane anomalous Hall response observed in a ferromagnetic oxide**|Shinichi Nishihaya et.al.|[2502.10018v1](http://arxiv.org/abs/2502.10018v1)|null|
 |**2025-02-12**|**Epitaxial growth and transport properties of a metallic altermagnet CrSb on a GaAs (001) substrate**|Seiji Aota et.al.|[2502.08117v1](http://arxiv.org/abs/2502.08117v1)|null|
 |**2025-02-10**|**Topological Phase Transitions in Kagome Ferromagnets: The Role of Intrinsic Rashba Spin-Orbit Coupling**|Ritwik Das et.al.|[2502.06686v1](http://arxiv.org/abs/2502.06686v1)|null|
 |**2025-02-10**|**Hedgehog-like spin texture in Sb-doped MnBi $_2$Te$_4$**|Meng Zeng et.al.|[2502.06416v1](http://arxiv.org/abs/2502.06416v1)|null|
