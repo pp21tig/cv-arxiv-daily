@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**AI-guided transition path sampling of lipid flip-flop and membrane nanoporation**|Matthias Post et.al.|[2502.11894v1](http://arxiv.org/abs/2502.11894v1)|null|
+|**2025-02-17**|**Active gel theory for cell migration with two myosin isoforms**|Nils O. Winkler et.al.|[2502.11833v1](http://arxiv.org/abs/2502.11833v1)|null|
+|**2025-02-17**|**Rheological response of soft Solid/Liquid Composites**|Elina Gilbert et.al.|[2502.11750v1](http://arxiv.org/abs/2502.11750v1)|null|
+|**2025-02-17**|**Time crystal optomechanics**|J. T. Mäkinen et.al.|[2502.11730v1](http://arxiv.org/abs/2502.11730v1)|null|
+|**2025-02-17**|**Effects of antiferromagnetic coupling and pinning on domain wall dynamics in synthetic ferrimagnets**|Sougata Mallick et.al.|[2502.11621v1](http://arxiv.org/abs/2502.11621v1)|null|
+|**2025-02-17**|**High Quality Single Crystal of Kitaev Spin Liquid Candidate Material RuBr3 Synthesized under High Pressure**|Bowen Zhang et.al.|[2502.11479v1](http://arxiv.org/abs/2502.11479v1)|null|
+|**2025-02-17**|**Why is the strength of a polymer network so low?**|Shaswat Mohanty et.al.|[2502.11339v1](http://arxiv.org/abs/2502.11339v1)|null|
+|**2025-02-17**|**Diffuse-charge dynamics across a capacitive interface in a DC electric field**|Shuozhen Zhao et.al.|[2502.11319v1](http://arxiv.org/abs/2502.11319v1)|null|
+|**2025-02-16**|**Microscopic contact line dynamics dictate the emergent behaviors of particle rafts**|Ranit Mukherjee et.al.|[2502.11315v1](http://arxiv.org/abs/2502.11315v1)|null|
+|**2025-02-16**|**Active Solids: Defect Self-Propulsion Without Flow**|Fridtjof Brauns et.al.|[2502.11296v1](http://arxiv.org/abs/2502.11296v1)|null|
+|**2025-02-16**|**Coherent Spin Pumping Originated from Sub-Terahertz Néel Vector Dynamics in Easy Plane α-Fe2O3/Pt**|Gregory Fritjofson et.al.|[2502.11281v1](http://arxiv.org/abs/2502.11281v1)|null|
+|**2025-02-16**|**Microvortex Dynamics in Tubular Fluid Membranes**|Udaya Maurya et.al.|[2502.11206v1](http://arxiv.org/abs/2502.11206v1)|null|
+|**2025-02-16**|**Classical elasticity meets quantum complexity: A connection from the holographic lens**|Yuanceng Xu et.al.|[2502.11081v1](http://arxiv.org/abs/2502.11081v1)|null|
+|**2025-02-16**|**Electrothermal manipulation of current-induced phase transitions in ferrimagnetic Mn $_3$Si$_2$Te$_6$**|Jiaqi Fang et.al.|[2502.11048v1](http://arxiv.org/abs/2502.11048v1)|null|
+|**2025-02-16**|**Egg yolk as a model for gelation: from rheometry to flow physics**|Maxwell Marsh et.al.|[2502.10952v1](http://arxiv.org/abs/2502.10952v1)|null|
+|**2025-02-15**|**Signature of glassy dynamics in dynamic modes decompositions**|Zachary G. Nicolaou et.al.|[2502.10918v1](http://arxiv.org/abs/2502.10918v1)|null|
+|**2025-02-15**|**Dephasing enhanced transport of spin excitations in a two dimensional lossy lattice**|Andrei Skalkin et.al.|[2502.10854v1](http://arxiv.org/abs/2502.10854v1)|null|
+|**2025-02-15**|**Filtering Spin and Orbital Moment in Centrosymmetric Systems**|Luciano Jacopo DOnofrio et.al.|[2502.10773v1](http://arxiv.org/abs/2502.10773v1)|null|
+|**2025-02-15**|**Wrapping nonspherical vesicles at bio-membranes**|Ajit Kumar Sahu et.al.|[2502.10767v1](http://arxiv.org/abs/2502.10767v1)|null|
+|**2025-02-15**|**Multi-Carrier Thermal Transport in Electronic and Energy Conversion Devices**|Te-Huan Liu et.al.|[2502.10664v1](http://arxiv.org/abs/2502.10664v1)|null|
 |**2025-02-14**|**Gapping the spin-nodal planes of an anisotropic p-wave magnet to induce a large anomalous Hall effect**|Rinsuke Yamada et.al.|[2502.10386v1](http://arxiv.org/abs/2502.10386v1)|null|
 |**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi et.al.|[2502.10345v1](http://arxiv.org/abs/2502.10345v1)|null|
 |**2025-02-14**|**Variationally optimizing infinite projected entangled-pair states at large bond dimensions: A split-CTMRG approach**|Jan Naumann et.al.|[2502.10298v1](http://arxiv.org/abs/2502.10298v1)|null|
@@ -8117,6 +8137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Floquet topological state induced by light-driven band inversion in SnTe**|F. Chassot et.al.|[2502.11967v1](http://arxiv.org/abs/2502.11967v1)|null|
 |**2025-02-14**|**Light-induced dissipationless states in magnetic topological insulators with hexagonal warping**|Mohammad Shafiei et.al.|[2502.10164v1](http://arxiv.org/abs/2502.10164v1)|null|
 |**2025-02-08**|**Data-driven Low-rank Approximation for Electron-hole Kernel and Acceleration of Time-dependent GW Calculations**|Bowen Hou et.al.|[2502.05635v1](http://arxiv.org/abs/2502.05635v1)|null|
 |**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
@@ -8519,6 +8540,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-16**|**Electrothermal manipulation of current-induced phase transitions in ferrimagnetic Mn $_3$Si$_2$Te$_6$**|Jiaqi Fang et.al.|[2502.11048v1](http://arxiv.org/abs/2502.11048v1)|null|
+|**2025-02-16**|**Nonlocal Electrical Detection of Reciprocal Orbital Edelstein Effect**|Weiguang Gao et.al.|[2502.11040v1](http://arxiv.org/abs/2502.11040v1)|null|
 |**2025-02-14**|**Single-molecule phosphorescence and intersystem crossing in a coupled exciton-plasmon system**|Abhishek Grewal et.al.|[2502.10150v1](http://arxiv.org/abs/2502.10150v1)|null|
 |**2025-02-13**|**Fundamental Theory of Current-Induced Motion of Magnetic Skyrmions**|Yuto Ohki et.al.|[2502.09191v1](http://arxiv.org/abs/2502.09191v1)|null|
 |**2025-02-11**|**From surface Fermi arcs to Fermi loops in the Dirac semimetal Cd3As2**|An-Qi Wang et.al.|[2502.07499v1](http://arxiv.org/abs/2502.07499v1)|null|
@@ -8776,6 +8799,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Anatomy of anomalous Hall effect due to magnetic fluctuations**|Ola Kenji Forslund et.al.|[2502.11702v1](http://arxiv.org/abs/2502.11702v1)|null|
+|**2025-02-16**|**Itinerant topological magnons and spin excitons in twisted transition metal dichalcogenides: Mapping electron topology to spin counterpart**|Wei-Tao Zhou et.al.|[2502.10991v1](http://arxiv.org/abs/2502.10991v1)|null|
 |**2025-02-14**|**Gapping the spin-nodal planes of an anisotropic p-wave magnet to induce a large anomalous Hall effect**|Rinsuke Yamada et.al.|[2502.10386v1](http://arxiv.org/abs/2502.10386v1)|null|
 |**2025-02-14**|**Spontaneous in-plane anomalous Hall response observed in a ferromagnetic oxide**|Shinichi Nishihaya et.al.|[2502.10018v1](http://arxiv.org/abs/2502.10018v1)|null|
 |**2025-02-12**|**Epitaxial growth and transport properties of a metallic altermagnet CrSb on a GaAs (001) substrate**|Seiji Aota et.al.|[2502.08117v1](http://arxiv.org/abs/2502.08117v1)|null|
