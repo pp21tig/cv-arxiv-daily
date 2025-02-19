@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Hydrodynamic stability and pattern formation in hexatic epithelial layers**|Josep-Maria Armengol-Collado et.al.|[2502.13104v1](http://arxiv.org/abs/2502.13104v1)|null|
+|**2025-02-18**|**Generalized Polarization and time-resolved fluorescence provide evidence for different populations of Laurdan in lipid vesicles**|M. Bacalum et.al.|[2502.13091v1](http://arxiv.org/abs/2502.13091v1)|null|
+|**2025-02-18**|**Fluorescent molecular rotor-based polymer materials for local microviscosity mapping in microfluidic channels**|Dharshana Nalatamby et.al.|[2502.13003v1](http://arxiv.org/abs/2502.13003v1)|null|
+|**2025-02-18**|**Fabrication and characterization of bimetallic silica-based and 3D-printed active colloidal cubes**|Silvana A. Caipa Cure et.al.|[2502.12941v1](http://arxiv.org/abs/2502.12941v1)|null|
+|**2025-02-18**|**Form and function in biological filaments: A physicist's review**|Jan Cammann et.al.|[2502.12731v1](http://arxiv.org/abs/2502.12731v1)|null|
+|**2025-02-18**|**No time for surface charge: how bulk conductivity hides charge patterns from KPFM in contact-electrified surfaces**|Felix Pertl et.al.|[2502.12718v1](http://arxiv.org/abs/2502.12718v1)|null|
+|**2025-02-18**|**Bacterial swimming and accumulation on endothelial cell surfaces**|Xin-Xin Xu et.al.|[2502.12580v1](http://arxiv.org/abs/2502.12580v1)|null|
+|**2025-02-18**|**Instability of a fluctuating biomimetic membrane driven by an applied uniform DC electric field**|Zongxin Yu et.al.|[2502.12551v1](http://arxiv.org/abs/2502.12551v1)|null|
+|**2025-02-18**|**Ultrasound measurement technique for the single-turn-coil magnets**|T. Nomura et.al.|[2502.12533v1](http://arxiv.org/abs/2502.12533v1)|null|
+|**2025-02-18**|**Fundamental Origin of Viscosity in 2D Simple Liquids**|Dong Huang et.al.|[2502.12522v1](http://arxiv.org/abs/2502.12522v1)|null|
+|**2025-02-18**|**Nonmonotonic concentration dependence of the self-diffusion coefficient of surfactants in wormlike micellar solutions**|Yusuke Koide et.al.|[2502.12472v1](http://arxiv.org/abs/2502.12472v1)|null|
+|**2025-02-18**|**Analytical Diagonalization of Fermi Gas-like Hamiltonians using the Sommerfeld-Watson Transformation**|G. Diniz et.al.|[2502.12402v1](http://arxiv.org/abs/2502.12402v1)|null|
 |**2025-02-17**|**AI-guided transition path sampling of lipid flip-flop and membrane nanoporation**|Matthias Post et.al.|[2502.11894v1](http://arxiv.org/abs/2502.11894v1)|null|
 |**2025-02-17**|**Active gel theory for cell migration with two myosin isoforms**|Nils O. Winkler et.al.|[2502.11833v1](http://arxiv.org/abs/2502.11833v1)|null|
 |**2025-02-17**|**Rheological response of soft Solid/Liquid Composites**|Elina Gilbert et.al.|[2502.11750v1](http://arxiv.org/abs/2502.11750v1)|null|
