@@ -1098,6 +1098,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Quorum sensing and absorbing phase transitions in colloidal active matter**|Thibault Lefranc et.al.|[2502.13919v1](http://arxiv.org/abs/2502.13919v1)|null|
+|**2025-02-19**|**Inherited Berry curvature of phonons in Dirac materials with time-reversal symmetry**|Sayandip Ghosh et.al.|[2502.13814v1](http://arxiv.org/abs/2502.13814v1)|null|
+|**2025-02-19**|**Impact of friction and grain shape on the morphology of sheared granular media**|Huzaif Rahim et.al.|[2502.13739v1](http://arxiv.org/abs/2502.13739v1)|null|
+|**2025-02-19**|**Interfacial superconductivity in the type-III heterostructure SnSe $_2$/PtTe$_2$**|Jun Fan et.al.|[2502.13690v1](http://arxiv.org/abs/2502.13690v1)|null|
+|**2025-02-19**|**Time-delayed Newton's law of cooling with a finite-rate thermal quench. Impact on the Mpemba and Kovacs effects**|Andrés Santos et.al.|[2502.13665v1](http://arxiv.org/abs/2502.13665v1)|null|
+|**2025-02-19**|**Controlling deposition and characterising dynamics of thin liquid films with high temporal and spatial resolution**|G Le Lay et.al.|[2502.13552v1](http://arxiv.org/abs/2502.13552v1)|null|
+|**2025-02-19**|**Diffusion Transients in Motility-Induced Phase Separation**|Shubhadip Nayak et.al.|[2502.13504v1](http://arxiv.org/abs/2502.13504v1)|null|
+|**2025-02-19**|**Desmearing two-dimensional small-angle neutron scattering data by central moment expansions**|Guan-Rong Huang et.al.|[2502.13488v1](http://arxiv.org/abs/2502.13488v1)|null|
+|**2025-02-18**|**Intelligent Soft Matter: Towards Embodied Intelligence**|Vladimir A. Baulin et.al.|[2502.13224v1](http://arxiv.org/abs/2502.13224v1)|null|
 |**2025-02-18**|**Hydrodynamic stability and pattern formation in hexatic epithelial layers**|Josep-Maria Armengol-Collado et.al.|[2502.13104v1](http://arxiv.org/abs/2502.13104v1)|null|
 |**2025-02-18**|**Generalized Polarization and time-resolved fluorescence provide evidence for different populations of Laurdan in lipid vesicles**|M. Bacalum et.al.|[2502.13091v1](http://arxiv.org/abs/2502.13091v1)|null|
 |**2025-02-18**|**Fluorescent molecular rotor-based polymer materials for local microviscosity mapping in microfluidic channels**|Dharshana Nalatamby et.al.|[2502.13003v1](http://arxiv.org/abs/2502.13003v1)|null|
@@ -8151,7 +8160,7 @@
 |**2025-02-04**|**Photo-induced Dynamics and Momentum Distribution of Chiral Charge Density Waves in 1T-TiSe $_{2}$**|Qingzheng Qiu et.al.|[2502.02314v1](http://arxiv.org/abs/2502.02314v1)|null|
 |**2025-02-04**|**Molecular Pseudorotation in Phthalocyanines as a Tool for Magnetic Field Control at the Nanoscale**|Raphael Wilhelmer et.al.|[2502.02169v1](http://arxiv.org/abs/2502.02169v1)|null|
 |**2025-02-03**|**Origin of phonon decoherence**|Yiming Pan et.al.|[2502.01529v1](http://arxiv.org/abs/2502.01529v1)|null|
-|**2025-02-06**|**Nonclassical dynamics of Néel vector and magnetization accompanied by THz and high-harmonic radiation from ultrafast-light-driven NiO antiferromagnet insulator**|Federico Garcia-Gaitan et.al.|[2502.00849v3](http://arxiv.org/abs/2502.00849v3)|null|
+|**2025-02-19**|**Nonclassical dynamics of Néel vector and magnetization accompanied by THz and high-harmonic radiation from ultrafast-light-driven NiO antiferromagnet insulator**|Federico Garcia-Gaitan et.al.|[2502.00849v4](http://arxiv.org/abs/2502.00849v4)|null|
 |**2025-02-02**|**Light-induced reorientation transition in an antiferromagnetic semiconductor**|Bryan T. Fichera et.al.|[2502.00642v1](http://arxiv.org/abs/2502.00642v1)|null|
 |**2025-01-31**|**Correlations drive the attosecond response of strongly-correlated insulators**|Romain Cazali et.al.|[2501.19238v1](http://arxiv.org/abs/2501.19238v1)|null|
 |**2025-01-28**|**Tunable quantum light by modulated free electrons**|Valerio Di Giulio et.al.|[2501.16771v1](http://arxiv.org/abs/2501.16771v1)|null|
@@ -8807,6 +8816,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355v1](http://arxiv.org/abs/2502.13355v1)|null|
+|**2025-02-18**|**Cartesian Nodal Lines and Magnetic Kramers Weyl Nodes in Spin-Split Antiferromagnets**|Zheng-Yang Zhuang et.al.|[2502.13212v1](http://arxiv.org/abs/2502.13212v1)|null|
 |**2025-02-17**|**Anatomy of anomalous Hall effect due to magnetic fluctuations**|Ola Kenji Forslund et.al.|[2502.11702v1](http://arxiv.org/abs/2502.11702v1)|null|
 |**2025-02-16**|**Itinerant topological magnons and spin excitons in twisted transition metal dichalcogenides: Mapping electron topology to spin counterpart**|Wei-Tao Zhou et.al.|[2502.10991v1](http://arxiv.org/abs/2502.10991v1)|null|
 |**2025-02-14**|**Gapping the spin-nodal planes of an anisotropic p-wave magnet to induce a large anomalous Hall effect**|Rinsuke Yamada et.al.|[2502.10386v1](http://arxiv.org/abs/2502.10386v1)|null|
