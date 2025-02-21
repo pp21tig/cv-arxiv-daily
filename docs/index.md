@@ -1102,6 +1102,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Nonadiabatic quantum geometry and optical conductivity**|Raffaele Resta et.al.|[2502.14697v1](http://arxiv.org/abs/2502.14697v1)|null|
+|**2025-02-20**|**Topological phase transition through tunable nearest-neighbor interactions in a one-dimensional lattice**|Rajashri Parida et.al.|[2502.14603v1](http://arxiv.org/abs/2502.14603v1)|null|
+|**2025-02-20**|**Mesoscopic heterogeneity in biomolecular condensates from sequence patterning**|Luke K. Davis et.al.|[2502.14587v1](http://arxiv.org/abs/2502.14587v1)|null|
+|**2025-02-20**|**The diffusive dynamics and electrochemical regulation of weak polyelectrolytes across liquid interfaces**|Giulia Laura Celora et.al.|[2502.14555v1](http://arxiv.org/abs/2502.14555v1)|null|
+|**2025-02-20**|**Nearly Complete Segregation of Submerged Grains in a Rotating Drum**|Yu Chen et.al.|[2502.14287v1](http://arxiv.org/abs/2502.14287v1)|null|
 |**2025-02-19**|**Quorum sensing and absorbing phase transitions in colloidal active matter**|Thibault Lefranc et.al.|[2502.13919v1](http://arxiv.org/abs/2502.13919v1)|null|
 |**2025-02-19**|**Inherited Berry curvature of phonons in Dirac materials with time-reversal symmetry**|Sayandip Ghosh et.al.|[2502.13814v1](http://arxiv.org/abs/2502.13814v1)|null|
 |**2025-02-19**|**Impact of friction and grain shape on the morphology of sheared granular media**|Huzaif Rahim et.al.|[2502.13739v1](http://arxiv.org/abs/2502.13739v1)|null|
@@ -8820,6 +8825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Non-Hermitian linear perturbation to a Hamiltonian with a constant electromagnetic field and Hall conductivity**|Jorge A. Lizarraga et.al.|[2502.14579v1](http://arxiv.org/abs/2502.14579v1)|null|
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355v1](http://arxiv.org/abs/2502.13355v1)|null|
 |**2025-02-18**|**Cartesian Nodal Lines and Magnetic Kramers Weyl Nodes in Spin-Split Antiferromagnets**|Zheng-Yang Zhuang et.al.|[2502.13212v1](http://arxiv.org/abs/2502.13212v1)|null|
 |**2025-02-17**|**Anatomy of anomalous Hall effect due to magnetic fluctuations**|Ola Kenji Forslund et.al.|[2502.11702v1](http://arxiv.org/abs/2502.11702v1)|null|
