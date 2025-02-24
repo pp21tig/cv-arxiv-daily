@@ -1098,7 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Nonadiabatic quantum geometry and optical conductivity**|Raffaele Resta et.al.|[2502.14697v1](http://arxiv.org/abs/2502.14697v1)|null|
+|**2025-02-21**|**Controlling curvature of self-assembling surfaces via patchy particle design**|Andraž Gnidovec et.al.|[2502.15668v1](http://arxiv.org/abs/2502.15668v1)|null|
+|**2025-02-21**|**Cavity QED Control of Quantum Hall Stripes**|Lorenzo Graziotto et.al.|[2502.15490v1](http://arxiv.org/abs/2502.15490v1)|null|
+|**2025-02-21**|**String Formation and Arrested Ordering Kinetics in Nematics Induced by Polar Particles**|Pawan Kumar Mishra et.al.|[2502.15477v1](http://arxiv.org/abs/2502.15477v1)|null|
+|**2025-02-21**|**Evidence for magnetic crystallization waves at the surface of $^3$ He crystal**|Igor Todoshchenko et.al.|[2502.15404v1](http://arxiv.org/abs/2502.15404v1)|null|
+|**2025-02-21**|**Developing an unfolding-incorporated coarse-grained polymer model for fibrinogen to study the mechanical behaviour**|Vivek Sharma et.al.|[2502.15387v1](http://arxiv.org/abs/2502.15387v1)|null|
+|**2025-02-21**|**Learning Chern Numbers of Topological Insulators with Gauge Equivariant Neural Networks**|Longde Huang et.al.|[2502.15376v1](http://arxiv.org/abs/2502.15376v1)|null|
+|**2025-02-21**|**Collective behaviors of self-propelled particles with tunable alignment angles**|Zichen Qin et.al.|[2502.15301v1](http://arxiv.org/abs/2502.15301v1)|null|
+|**2025-02-21**|**Sol-gel transition in heteroassociative RNA-protein solutions: A quantitative comparison of coarse-grained simulations and the Semenov-Rubinstein theory**|Xinxiang Chen et.al.|[2502.15289v1](http://arxiv.org/abs/2502.15289v1)|null|
+|**2025-02-21**|**Self-assembly of Dipolar Crystals from Magnetic Colloids**|Anuj Kumar Singh et.al.|[2502.15265v1](http://arxiv.org/abs/2502.15265v1)|null|
+|**2025-02-21**|**Turing patterns on polymerized membranes: a coarse-grained lattice modelling with internal degree of freedom for polymer direction**|F. Kato et.al.|[2502.15231v1](http://arxiv.org/abs/2502.15231v1)|null|
+|**2025-02-21**|**Self-assembly of anisotropic particles on curved surfaces**|Gautam Bordia et.al.|[2502.15225v1](http://arxiv.org/abs/2502.15225v1)|null|
+|**2025-02-21**|**Boundary-Driven Complex Brillouin Zone in Non-Hermitian Electric Circuits**|Yung Kim et.al.|[2502.15149v1](http://arxiv.org/abs/2502.15149v1)|null|
+|**2025-02-20**|**Chiral ground states in a nematic liquid crystal confined to a cylinder with homeotropic anchoring**|Lucas Myers et.al.|[2502.15083v1](http://arxiv.org/abs/2502.15083v1)|null|
+|**2025-02-20**|**The Modified Airy Function Approximation Applied to the Double-Well Potential**|N. Wine et.al.|[2502.15063v1](http://arxiv.org/abs/2502.15063v1)|null|
+|**2025-02-20**|**Dissipative anomalies of stresses in soft amorphous solids: footprints of density singularities**|Anier Hernandez-Garcia et.al.|[2502.15044v1](http://arxiv.org/abs/2502.15044v1)|null|
+|**2025-02-20**|**Expanding the reach of diffusing wave spectroscopy and tracer bead microrheology**|Manuel Helfer et.al.|[2502.14973v1](http://arxiv.org/abs/2502.14973v1)|null|
+|**2025-02-21**|**Nonadiabatic quantum geometry and optical conductivity**|Raffaele Resta et.al.|[2502.14697v2](http://arxiv.org/abs/2502.14697v2)|null|
 |**2025-02-20**|**Topological phase transition through tunable nearest-neighbor interactions in a one-dimensional lattice**|Rajashri Parida et.al.|[2502.14603v1](http://arxiv.org/abs/2502.14603v1)|null|
 |**2025-02-20**|**Mesoscopic heterogeneity in biomolecular condensates from sequence patterning**|Luke K. Davis et.al.|[2502.14587v1](http://arxiv.org/abs/2502.14587v1)|null|
 |**2025-02-20**|**The diffusive dynamics and electrochemical regulation of weak polyelectrolytes across liquid interfaces**|Giulia Laura Celora et.al.|[2502.14555v1](http://arxiv.org/abs/2502.14555v1)|null|
@@ -8159,6 +8175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Triplet J-driven DNP, a proposal to increase the sensitivity of solution-state NMR without microwave**|Maria Grazia Concilio et.al.|[2502.15269v1](http://arxiv.org/abs/2502.15269v1)|null|
 |**2025-02-17**|**Floquet topological state induced by light-driven band inversion in SnTe**|F. Chassot et.al.|[2502.11967v1](http://arxiv.org/abs/2502.11967v1)|null|
 |**2025-02-14**|**Light-induced dissipationless states in magnetic topological insulators with hexagonal warping**|Mohammad Shafiei et.al.|[2502.10164v1](http://arxiv.org/abs/2502.10164v1)|null|
 |**2025-02-08**|**Data-driven Low-rank Approximation for Electron-hole Kernel and Acceleration of Time-dependent GW Calculations**|Bowen Hou et.al.|[2502.05635v1](http://arxiv.org/abs/2502.05635v1)|null|
@@ -8821,6 +8838,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Two-dimensional fully-compensated Ferrimagnetism**|Yichen Liu et.al.|[2502.15308v1](http://arxiv.org/abs/2502.15308v1)|null|
 |**2025-02-18**|**Non-Hermitian linear perturbation to a Hamiltonian with a constant electromagnetic field and Hall conductivity**|Jorge A. Lizarraga et.al.|[2502.14579v1](http://arxiv.org/abs/2502.14579v1)|null|
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355v1](http://arxiv.org/abs/2502.13355v1)|null|
 |**2025-02-18**|**Cartesian Nodal Lines and Magnetic Kramers Weyl Nodes in Spin-Split Antiferromagnets**|Zheng-Yang Zhuang et.al.|[2502.13212v1](http://arxiv.org/abs/2502.13212v1)|null|
