@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Magnetic phase diagram of multiferroic and magnetocaloric TmFeO3**|K. I. Tkachenko et.al.|[2502.17291v1](http://arxiv.org/abs/2502.17291v1)|null|
+|**2025-02-24**|**Additional jamming transition in 2D bidisperse granular packings**|Juan C. Petit et.al.|[2502.17266v1](http://arxiv.org/abs/2502.17266v1)|null|
+|**2025-02-24**|**Particle geometry space: An integrated characterization of particle shape, surface area, volume, specific surface, and size distribution**|Priya Tripathi et.al.|[2502.17243v1](http://arxiv.org/abs/2502.17243v1)|null|
+|**2025-02-24**|**Training and re-training liquid crystal elastomer metamaterials for pluripotent functionality**|Savannah D. Gowen et.al.|[2502.17238v1](http://arxiv.org/abs/2502.17238v1)|null|
+|**2025-02-24**|**The large-charge expansion in nonrelativistic conformal field theories**|Vito Pellizzani et.al.|[2502.17224v1](http://arxiv.org/abs/2502.17224v1)|null|
+|**2025-02-24**|**Structural Anisotropy Stabilises Asymmetric Beating in Instability Driven Filaments**|Bethany Clarke et.al.|[2502.17140v1](http://arxiv.org/abs/2502.17140v1)|null|
+|**2025-02-24**|**Insights into Formation of Bicontinuous Emulsion Gels via in-situ (Ultra-)Small Angle X-ray Scattering**|Meyer T. Alting et.al.|[2502.17096v1](http://arxiv.org/abs/2502.17096v1)|null|
+|**2025-02-24**|**Mechanical non-reciprocity programmed by shear jamming in soft composite solids**|Chang Xu et.al.|[2502.17083v1](http://arxiv.org/abs/2502.17083v1)|null|
+|**2025-02-24**|**Investigating the relation between elastic and relaxation properties of dry, frictional granular media during shear deformation**|Aurélien Rigotti et.al.|[2502.17021v1](http://arxiv.org/abs/2502.17021v1)|null|
+|**2025-02-24**|**High second harmonic generation in ferroelectric nematic liquid crystals by doping with optimally oriented chromophores**|J. Ortega et.al.|[2502.17004v1](http://arxiv.org/abs/2502.17004v1)|null|
+|**2025-02-24**|**Dynamics of soft interacting particles on a comb**|Davide Venturelli et.al.|[2502.16951v1](http://arxiv.org/abs/2502.16951v1)|null|
+|**2025-02-24**|**Anti-aligning Self-propelled Model of Two Species: Emergence of \textit{Self-organized Heterogeneous Aligned and Clustered Order}**|Takahiro Oki et.al.|[2502.16821v1](http://arxiv.org/abs/2502.16821v1)|null|
+|**2025-02-23**|**Callan-Rubakov effects in topological insulators**|Yusuke O. Nakai et.al.|[2502.16729v1](http://arxiv.org/abs/2502.16729v1)|null|
+|**2025-02-23**|**Topologically cloaked magnetic colloidal transport**|Anna M. E. B. Rossi et.al.|[2502.16563v1](http://arxiv.org/abs/2502.16563v1)|null|
+|**2025-02-23**|**Spontaneous Chiral Symmetry Breaking in Polydisperse Achiral Near-Rigid Nematogens**|William S. Fall et.al.|[2502.16526v1](http://arxiv.org/abs/2502.16526v1)|null|
+|**2025-02-23**|**Curved crack paths are predicted by elastic-charges**|Oran Szachter et.al.|[2502.16508v1](http://arxiv.org/abs/2502.16508v1)|null|
+|**2025-02-23**|**Turbulence-Induced Fluctuating Interfaces in Heterogeneously-Active Suspensions**|Siddhartha Mukherjee et.al.|[2502.16443v1](http://arxiv.org/abs/2502.16443v1)|null|
+|**2025-02-22**|**Turbulent-like flows in quasi two-dimensional dense suspensions of motile colloids**|Rui Luo et.al.|[2502.16381v1](http://arxiv.org/abs/2502.16381v1)|null|
+|**2025-02-22**|**Effect of Particle Shape on Stratification in Drying Films of Binary Colloidal Mixtures**|Binghan Liu et.al.|[2502.16122v1](http://arxiv.org/abs/2502.16122v1)|null|
+|**2025-02-22**|**Observation of mechanical kink control and generation via phonons**|Kai Qian et.al.|[2502.16117v1](http://arxiv.org/abs/2502.16117v1)|null|
 |**2025-02-21**|**Controlling curvature of self-assembling surfaces via patchy particle design**|Andraž Gnidovec et.al.|[2502.15668v1](http://arxiv.org/abs/2502.15668v1)|null|
 |**2025-02-21**|**Cavity QED Control of Quantum Hall Stripes**|Lorenzo Graziotto et.al.|[2502.15490v1](http://arxiv.org/abs/2502.15490v1)|null|
 |**2025-02-21**|**String Formation and Arrested Ordering Kinetics in Nematics Induced by Polar Particles**|Pawan Kumar Mishra et.al.|[2502.15477v1](http://arxiv.org/abs/2502.15477v1)|null|
@@ -8179,6 +8199,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Spin noise reveals spin dynamics and recharging of lead halide perovskite nanocrystals**|V. O. Kozlov et.al.|[2502.17276v1](http://arxiv.org/abs/2502.17276v1)|null|
+|**2025-02-24**|**Continuous Scatterplot and Image Moments for Time-Varying Bivariate Field Analysis of Electronic Structure Evolution**|Mohit Sharma et.al.|[2502.17118v1](http://arxiv.org/abs/2502.17118v1)|null|
 |**2025-02-21**|**Triplet J-driven DNP, a proposal to increase the sensitivity of solution-state NMR without microwave**|Maria Grazia Concilio et.al.|[2502.15269v1](http://arxiv.org/abs/2502.15269v1)|null|
 |**2025-02-17**|**Floquet topological state induced by light-driven band inversion in SnTe**|F. Chassot et.al.|[2502.11967v1](http://arxiv.org/abs/2502.11967v1)|null|
 |**2025-02-14**|**Light-induced dissipationless states in magnetic topological insulators with hexagonal warping**|Mohammad Shafiei et.al.|[2502.10164v1](http://arxiv.org/abs/2502.10164v1)|null|
@@ -8842,6 +8864,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Fractional topological states in rhombohedral multilayer graphene modulated by kagome superlattice**|Yanran Shi et.al.|[2502.17320v1](http://arxiv.org/abs/2502.17320v1)|null|
+|**2025-02-24**|**Sliding ferroelectric control of unconventional magnetism in stacked bilayers**|Yongqian Zhu et.al.|[2502.17095v1](http://arxiv.org/abs/2502.17095v1)|null|
 |**2025-02-21**|**Two-dimensional fully-compensated Ferrimagnetism**|Yichen Liu et.al.|[2502.15308v1](http://arxiv.org/abs/2502.15308v1)|null|
 |**2025-02-18**|**Non-Hermitian linear perturbation to a Hamiltonian with a constant electromagnetic field and Hall conductivity**|Jorge A. Lizarraga et.al.|[2502.14579v1](http://arxiv.org/abs/2502.14579v1)|null|
 |**2025-02-19**|**Enhancement of temperature of quantum anomalous Hall effect in two-dimensional germanene/magnetic semiconductor heterostructures**|Qing-Han Yang et.al.|[2502.13355v1](http://arxiv.org/abs/2502.13355v1)|null|
