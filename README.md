@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**From Champagne to Confined Polymer:Natural and Artifical Bubble Nucleation**|Carlos Arauz-Moreno et.al.|[2502.18399v1](http://arxiv.org/abs/2502.18399v1)|null|
+|**2025-02-25**|**Controllable Interlocking from Irregularity in Two-Phase Composites**|Chelsea Fox et.al.|[2502.18392v1](http://arxiv.org/abs/2502.18392v1)|null|
+|**2025-02-25**|**The Maximum $T_c$ of Conventional Superconductors at Ambient Pressure**|Kun Gao et.al.|[2502.18281v1](http://arxiv.org/abs/2502.18281v1)|null|
+|**2025-02-25**|**Table-top three-dimensional photoemission orbital tomography with a femtosecond extreme ultraviolet light source**|Wiebke Bennecke et.al.|[2502.18269v1](http://arxiv.org/abs/2502.18269v1)|null|
+|**2025-02-25**|**Magnetodielectric Properties in Two Dimensional Magnetic Insulators**|Koushik Dey et.al.|[2502.18154v1](http://arxiv.org/abs/2502.18154v1)|null|
+|**2025-02-25**|**Seeing the unseen: laser speckles as a tool for coagulation tracking**|Christoph Haessig et.al.|[2502.18106v1](http://arxiv.org/abs/2502.18106v1)|null|
+|**2025-02-25**|**Revisiting the spin-orbit scattering in small-sized superconducting particles in the magnetic field**|Serguei N. Burmistrov et.al.|[2502.17998v1](http://arxiv.org/abs/2502.17998v1)|null|
+|**2025-02-25**|**Analysis methodology of coherent oscillations in time- and angle-resolved photoemission spectroscopy**|Nicolas Gauthier et.al.|[2502.17988v1](http://arxiv.org/abs/2502.17988v1)|null|
+|**2025-02-25**|**A Peanut-hull-PLA based 3D printing filament with antimicrobial effect**|Sabarinathan Palaniyappan et.al.|[2502.17975v1](http://arxiv.org/abs/2502.17975v1)|null|
+|**2025-02-25**|**Non-Markovian effects on the steady state properties of a damped harmonic oscillator**|Faisal Farooq et.al.|[2502.17891v1](http://arxiv.org/abs/2502.17891v1)|null|
+|**2025-02-25**|**Colloidal Magnus effect in polymer solutions**|Marco De Corato et.al.|[2502.17825v1](http://arxiv.org/abs/2502.17825v1)|null|
+|**2025-02-24**|**Mesoscale Modeling of an Active Colloid's Motion**|Matthew Dobson et.al.|[2502.17641v1](http://arxiv.org/abs/2502.17641v1)|null|
 |**2025-02-24**|**Magnetic phase diagram of multiferroic and magnetocaloric TmFeO3**|K. I. Tkachenko et.al.|[2502.17291v1](http://arxiv.org/abs/2502.17291v1)|null|
 |**2025-02-24**|**Additional jamming transition in 2D bidisperse granular packings**|Juan C. Petit et.al.|[2502.17266v1](http://arxiv.org/abs/2502.17266v1)|null|
 |**2025-02-25**|**Particle geometry space: An integrated characterization of particle shape, surface area, volume, specific surface, and size distribution**|Priya Tripathi et.al.|[2502.17243v2](http://arxiv.org/abs/2502.17243v2)|null|
@@ -8601,6 +8613,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Electrically Tunable Magnonic Bound States in the Continuum**|Xi-guang Wang et.al.|[2502.18260v1](http://arxiv.org/abs/2502.18260v1)|null|
+|**2025-02-25**|**Multimode operation of a superconducting nanowire switch in the nanosecond regime**|Zoltán Scherübl et.al.|[2502.17980v1](http://arxiv.org/abs/2502.17980v1)|null|
 |**2025-02-16**|**Electrothermal manipulation of current-induced phase transitions in ferrimagnetic Mn $_3$Si$_2$Te$_6$**|Jiaqi Fang et.al.|[2502.11048v1](http://arxiv.org/abs/2502.11048v1)|null|
 |**2025-02-16**|**Nonlocal Electrical Detection of Reciprocal Orbital Edelstein Effect**|Weiguang Gao et.al.|[2502.11040v1](http://arxiv.org/abs/2502.11040v1)|null|
 |**2025-02-14**|**Single-molecule phosphorescence and intersystem crossing in a coupled exciton-plasmon system**|Abhishek Grewal et.al.|[2502.10150v1](http://arxiv.org/abs/2502.10150v1)|null|
@@ -8860,6 +8874,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Continuously tunable anomalous Hall crystals in rhombohedral heptalayer graphene**|Hanxiao Xiang et.al.|[2502.18031v1](http://arxiv.org/abs/2502.18031v1)|null|
 |**2025-02-24**|**Fractional topological states in rhombohedral multilayer graphene modulated by kagome superlattice**|Yanran Shi et.al.|[2502.17320v1](http://arxiv.org/abs/2502.17320v1)|null|
 |**2025-02-24**|**Sliding ferroelectric control of unconventional magnetism in stacked bilayers**|Yongqian Zhu et.al.|[2502.17095v1](http://arxiv.org/abs/2502.17095v1)|null|
 |**2025-02-21**|**Two-dimensional fully-compensated Ferrimagnetism**|Yichen Liu et.al.|[2502.15308v1](http://arxiv.org/abs/2502.15308v1)|null|
