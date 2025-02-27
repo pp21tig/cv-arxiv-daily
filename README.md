@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**The chiral SYK model in three-dimensional holography**|Alexander Altland et.al.|[2502.19370v1](http://arxiv.org/abs/2502.19370v1)|null|
+|**2025-02-26**|**Quantum geometric moment encodes stacking order of moiré matter**|Surat Layek et.al.|[2502.19365v1](http://arxiv.org/abs/2502.19365v1)|null|
+|**2025-02-26**|**Thresholdless nonlinearity-induced edge solitons in trimer arrays**|Magnus Johansson et.al.|[2502.19330v1](http://arxiv.org/abs/2502.19330v1)|null|
+|**2025-02-26**|**Time-Reversal Mirror inside a granular suspension: a way of measuring the ultrasound diffusion coefficient**|Y. Abraham et.al.|[2502.19304v1](http://arxiv.org/abs/2502.19304v1)|null|
+|**2025-02-26**|**U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**|Solomon Asghar et.al.|[2502.19253v1](http://arxiv.org/abs/2502.19253v1)|null|
+|**2025-02-26**|**Enhanced Efficiency in Shear-Loaded Brownian Gyrators**|Iman Abdoli et.al.|[2502.19222v1](http://arxiv.org/abs/2502.19222v1)|null|
+|**2025-02-26**|**Embodying mechano-fluidic memory in soft machines to program behaviors upon interactions**|Alberto Comoretto et.al.|[2502.19192v1](http://arxiv.org/abs/2502.19192v1)|null|
+|**2025-02-26**|**Bayesian optimization to infer parameters in viscoelasticity**|Isaac Y. Miranda-Valdez et.al.|[2502.19132v1](http://arxiv.org/abs/2502.19132v1)|null|
+|**2025-02-26**|**Light-Emitting Microfibers from Lotus Root for Eco-friendly Optical Waveguides and Biosensing**|X. Yang et.al.|[2502.19057v1](http://arxiv.org/abs/2502.19057v1)|null|
+|**2025-02-26**|**Machine learning short-ranged many-body interactions in colloidal systems using descriptors based on Voronoi cells**|Rinske M. Alkemade et.al.|[2502.19044v1](http://arxiv.org/abs/2502.19044v1)|null|
+|**2025-02-26**|**The Rise of Refractory Transition-Metal Nitride Films for Advanced Electronics and Plasmonics**|Jiachang Bi et.al.|[2502.18989v1](http://arxiv.org/abs/2502.18989v1)|null|
+|**2025-02-26**|**Unveiling Crystalline Order from Glassy Behavior of Charged Rods at Very Low Salt Concentrations**|Hanna Anop et.al.|[2502.18920v1](http://arxiv.org/abs/2502.18920v1)|null|
+|**2025-02-26**|**Pinch-point Singularities in Stress-Stress Correlations Reveal Rigidity in Colloidal Gels**|Albert Countryman et.al.|[2502.18796v1](http://arxiv.org/abs/2502.18796v1)|null|
+|**2025-02-26**|**High-Velocity Magnetic Domain Wall Motion Driven by Out-of-Plane Acoustic Spin**|Jiacheng Lu et.al.|[2502.18783v1](http://arxiv.org/abs/2502.18783v1)|null|
+|**2025-02-26**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743v1](http://arxiv.org/abs/2502.18743v1)|null|
+|**2025-02-25**|**Nonlinear contractile response of actomyosin active gels to control signals**|James Clarke et.al.|[2502.18672v1](http://arxiv.org/abs/2502.18672v1)|null|
+|**2025-02-25**|**Topolectrical circuits $-$ recent experimental advances and developments**|Haydar Sahin et.al.|[2502.18563v1](http://arxiv.org/abs/2502.18563v1)|null|
 |**2025-02-25**|**From Champagne to Confined Polymer:Natural and Artifical Bubble Nucleation**|Carlos Arauz-Moreno et.al.|[2502.18399v1](http://arxiv.org/abs/2502.18399v1)|null|
 |**2025-02-25**|**Controllable Interlocking from Irregularity in Two-Phase Composites**|Chelsea Fox et.al.|[2502.18392v1](http://arxiv.org/abs/2502.18392v1)|null|
 |**2025-02-25**|**The Maximum $T_c$ of Conventional Superconductors at Ambient Pressure**|Kun Gao et.al.|[2502.18281v1](http://arxiv.org/abs/2502.18281v1)|null|
@@ -8207,6 +8224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Novel approach for non-invasive phase-sensitive 2D imaging of biological objects with photovoltaic trapping**|Lusine Tsarukyan et.al.|[2502.19001v1](http://arxiv.org/abs/2502.19001v1)|null|
 |**2025-02-24**|**Spin noise reveals spin dynamics and recharging of lead halide perovskite nanocrystals**|V. O. Kozlov et.al.|[2502.17276v1](http://arxiv.org/abs/2502.17276v1)|null|
 |**2025-02-24**|**Continuous Scatterplot and Image Moments for Time-Varying Bivariate Field Analysis of Electronic Structure Evolution**|Mohit Sharma et.al.|[2502.17118v1](http://arxiv.org/abs/2502.17118v1)|null|
 |**2025-02-21**|**Triplet J-driven DNP, a proposal to increase the sensitivity of solution-state NMR without microwave**|Maria Grazia Concilio et.al.|[2502.15269v1](http://arxiv.org/abs/2502.15269v1)|null|
