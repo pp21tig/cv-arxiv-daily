@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Half-Metallic Fe/MgO Superlattice: An Ideal Candidate for Magnetic Tunnel Junction Electrodes**|Nicholas A. Lanzillo et.al.|[2502.20365v1](http://arxiv.org/abs/2502.20365v1)|null|
+|**2025-02-27**|**Silver(I) complexes with nitrile ligands: new materials with versatile applications**|Karolina Gutmańska et.al.|[2502.20324v1](http://arxiv.org/abs/2502.20324v1)|null|
+|**2025-02-27**|**Geometry and Mechanics of Non-Euclidean Curved-Crease Origami**|Zhixuan Wen et.al.|[2502.20147v1](http://arxiv.org/abs/2502.20147v1)|null|
+|**2025-02-27**|**Spontaneous Magnon Decays from Nonrelativistic Time-Reversal Symmetry Breaking in Altermagnets**|Rintaro Eto et.al.|[2502.20146v1](http://arxiv.org/abs/2502.20146v1)|null|
+|**2025-02-27**|**Dynamics of a Bottom-Heavy Janus Particle Near a Wall Under Shear Flow**|Zohreh Jalilvand et.al.|[2502.19857v1](http://arxiv.org/abs/2502.19857v1)|null|
+|**2025-02-27**|**Applications of the Quantum Phase Difference Estimation Algorithm to the Excitation Energies in Spin Systems on a NISQ Device**|Boni Paul et.al.|[2502.19809v1](http://arxiv.org/abs/2502.19809v1)|null|
+|**2025-02-26**|**Translational diffusion in supercooled water at and near the glass transition temperature -- 136 K**|Greg A. Kimmel et.al.|[2502.19627v1](http://arxiv.org/abs/2502.19627v1)|null|
+|**2025-02-26**|**Confined colloidal droplets dry to form circular mazes**|Ilaria Beechey-Newman et.al.|[2502.19604v1](http://arxiv.org/abs/2502.19604v1)|null|
+|**2025-02-26**|**Anomalous Long-range Hard-wall Repulsion between Polymers in Solvent Mixtures and Its Implication for Biomolecular Condensates**|Luofu Liu et.al.|[2502.19581v1](http://arxiv.org/abs/2502.19581v1)|null|
+|**2025-02-26**|**Odd Active Solids: Vortices, Velocity Oscillations and Dissipation-Free Modes**|Lorenzo Caprini et.al.|[2502.19579v1](http://arxiv.org/abs/2502.19579v1)|null|
+|**2025-02-26**|**Theta electromagnetism in quantum spin ice: Microscopic analysis of improper symmetries**|Gautam K. Naik et.al.|[2502.19482v1](http://arxiv.org/abs/2502.19482v1)|null|
+|**2025-02-26**|**'t Hooft anomalies in metals**|Dominic V. Else et.al.|[2502.19471v1](http://arxiv.org/abs/2502.19471v1)|null|
 |**2025-02-26**|**The chiral SYK model in three-dimensional holography**|Alexander Altland et.al.|[2502.19370v1](http://arxiv.org/abs/2502.19370v1)|null|
 |**2025-02-26**|**Quantum geometric moment encodes stacking order of moiré matter**|Surat Layek et.al.|[2502.19365v1](http://arxiv.org/abs/2502.19365v1)|null|
 |**2025-02-26**|**Thresholdless nonlinearity-induced edge solitons in trimer arrays**|Magnus Johansson et.al.|[2502.19330v1](http://arxiv.org/abs/2502.19330v1)|null|
@@ -8224,6 +8236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Search for magnetic field expulsion in optically driven K $_3$C$_{60}$**|G. De Vecchi et.al.|[2502.20276v1](http://arxiv.org/abs/2502.20276v1)|null|
 |**2025-02-26**|**Novel approach for non-invasive phase-sensitive 2D imaging of biological objects with photovoltaic trapping**|Lusine Tsarukyan et.al.|[2502.19001v1](http://arxiv.org/abs/2502.19001v1)|null|
 |**2025-02-24**|**Spin noise reveals spin dynamics and recharging of lead halide perovskite nanocrystals**|V. O. Kozlov et.al.|[2502.17276v1](http://arxiv.org/abs/2502.17276v1)|null|
 |**2025-02-24**|**Continuous Scatterplot and Image Moments for Time-Varying Bivariate Field Analysis of Electronic Structure Evolution**|Mohit Sharma et.al.|[2502.17118v1](http://arxiv.org/abs/2502.17118v1)|null|
@@ -8631,6 +8644,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Numerical analysis of the Landau--Lifshitz--Bloch equation with spin-torques**|Agus L. Soenjaya et.al.|[2502.20098v1](http://arxiv.org/abs/2502.20098v1)|null|
 |**2025-02-25**|**Electrically Tunable Magnonic Bound States in the Continuum**|Xi-guang Wang et.al.|[2502.18260v1](http://arxiv.org/abs/2502.18260v1)|null|
 |**2025-02-25**|**Multimode operation of a superconducting nanowire switch in the nanosecond regime**|Zoltán Scherübl et.al.|[2502.17980v1](http://arxiv.org/abs/2502.17980v1)|null|
 |**2025-02-16**|**Electrothermal manipulation of current-induced phase transitions in ferrimagnetic Mn $_3$Si$_2$Te$_6$**|Jiaqi Fang et.al.|[2502.11048v1](http://arxiv.org/abs/2502.11048v1)|null|
