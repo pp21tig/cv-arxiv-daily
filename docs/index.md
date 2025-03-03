@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Self Consistent Field Theory of isotropic-nematic interfaces and disclinations in a semiflexible molecule nematic**|Longyu Qing et.al.|[2502.21218v1](http://arxiv.org/abs/2502.21218v1)|null|
+|**2025-02-28**|**Approximation of anisotropic pair potentials using multivariate interpolation**|Mohammadreza Fakhraei et.al.|[2502.21203v1](http://arxiv.org/abs/2502.21203v1)|null|
+|**2025-02-28**|**Applications of Enhanced Sampling Methods to Biomolecular Self-Assembly: A Review**|Mason Hooten et.al.|[2502.21148v1](http://arxiv.org/abs/2502.21148v1)|null|
+|**2025-02-28**|**Comparative Analysis of Granular Material Flow: Discrete Element Method and Smoothed Particle Hydrodynamics Approaches**|Jaekwang Kim et.al.|[2502.21032v1](http://arxiv.org/abs/2502.21032v1)|null|
+|**2025-02-28**|**The $s\pm$ pairing symmetry in the pressured La$_3$Ni$_2$O$_7$ from electron-phonon coupling**|Yucong Yin et.al.|[2502.21016v1](http://arxiv.org/abs/2502.21016v1)|null|
+|**2025-02-28**|**Melting of non reciprocal solids: how dislocations propel and fission in flowing crystals**|Stéphane Guillet et.al.|[2502.21007v1](http://arxiv.org/abs/2502.21007v1)|null|
+|**2025-02-28**|**Dual tunability of selective reflection by light and electric field for self-organizing materials**|Mateusz Mrukiewicz et.al.|[2502.21003v1](http://arxiv.org/abs/2502.21003v1)|null|
+|**2025-02-28**|**Ferroelectricity in the nematic liquid crystal under the direct current electric field**|Mateusz Mrukiewicz et.al.|[2502.20970v1](http://arxiv.org/abs/2502.20970v1)|null|
+|**2025-02-28**|**Mean Field Approaches to Lattice Gauge Theories: A Review**|Pierpaolo Fontana et.al.|[2502.20928v1](http://arxiv.org/abs/2502.20928v1)|null|
+|**2025-02-28**|**Noise-to-current ratio divergence as a fingerprint of dispersing Majorana edge modes**|Leo Katayama et.al.|[2502.20921v1](http://arxiv.org/abs/2502.20921v1)|null|
+|**2025-02-28**|**Dynamics of DNA-Templated Ultrafine Silver Nanowires Formation**|Qifei Ma et.al.|[2502.20913v1](http://arxiv.org/abs/2502.20913v1)|null|
+|**2025-02-28**|**GHz helical acoustic drum modes on a chip**|N. Ashurbekov et.al.|[2502.20899v1](http://arxiv.org/abs/2502.20899v1)|null|
+|**2025-02-28**|**Efimov Effect in Long-range Quantum Spin Chains**|Ning Sun et.al.|[2502.20759v1](http://arxiv.org/abs/2502.20759v1)|null|
+|**2025-02-28**|**Thermally driven two-sphere microswimmer with internal feedback control**|Jun Li et.al.|[2502.20752v1](http://arxiv.org/abs/2502.20752v1)|null|
+|**2025-02-28**|**Variational Transformer Ansatz for the Density Operator of Steady States in Dissipative Quantum Many-Body Systems**|Lu Wei et.al.|[2502.20723v1](http://arxiv.org/abs/2502.20723v1)|null|
+|**2025-02-27**|**Simple molecules and complex chemistry in a protoplanetary disk: A JWST investigation of the highly inclined disk d216-0939**|Alexey Potapov et.al.|[2502.20472v1](http://arxiv.org/abs/2502.20472v1)|null|
 |**2025-02-27**|**Half-Metallic Fe/MgO Superlattice: An Ideal Candidate for Magnetic Tunnel Junction Electrodes**|Nicholas A. Lanzillo et.al.|[2502.20365v1](http://arxiv.org/abs/2502.20365v1)|null|
 |**2025-02-27**|**Silver(I) complexes with nitrile ligands: new materials with versatile applications**|Karolina Gutmańska et.al.|[2502.20324v1](http://arxiv.org/abs/2502.20324v1)|null|
 |**2025-02-27**|**Geometry and Mechanics of Non-Euclidean Curved-Crease Origami**|Zhixuan Wen et.al.|[2502.20147v1](http://arxiv.org/abs/2502.20147v1)|null|
@@ -8648,6 +8664,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Order parameter fluctuation effects on current-induced magnetization**|Genta Furuya et.al.|[2502.20624v1](http://arxiv.org/abs/2502.20624v1)|null|
 |**2025-02-27**|**Numerical analysis of the Landau--Lifshitz--Bloch equation with spin-torques**|Agus L. Soenjaya et.al.|[2502.20098v1](http://arxiv.org/abs/2502.20098v1)|null|
 |**2025-02-25**|**Electrically Tunable Magnonic Bound States in the Continuum**|Xi-guang Wang et.al.|[2502.18260v1](http://arxiv.org/abs/2502.18260v1)|null|
 |**2025-02-25**|**Multimode operation of a superconducting nanowire switch in the nanosecond regime**|Zoltán Scherübl et.al.|[2502.17980v1](http://arxiv.org/abs/2502.17980v1)|null|
@@ -8910,6 +8927,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Spontaneous Anomalous Hall Effect in Two-Dimensional Altermagnets**|Sajjan Sheoran et.al.|[2502.21095v1](http://arxiv.org/abs/2502.21095v1)|null|
+|**2025-02-28**|**Linear magnetoresistance, anomalous Hall effect and de Haas-van Alphen oscillations in antiferromagnetic SmAg $_2$Ge$_2$ single crystals**|Kanchan Bala et.al.|[2502.20951v1](http://arxiv.org/abs/2502.20951v1)|null|
 |**2025-02-25**|**Continuously tunable anomalous Hall crystals in rhombohedral heptalayer graphene**|Hanxiao Xiang et.al.|[2502.18031v1](http://arxiv.org/abs/2502.18031v1)|null|
 |**2025-02-24**|**Fractional topological states in rhombohedral multilayer graphene modulated by kagome superlattice**|Yanran Shi et.al.|[2502.17320v1](http://arxiv.org/abs/2502.17320v1)|null|
 |**2025-02-24**|**Sliding ferroelectric control of unconventional magnetism in stacked bilayers**|Yongqian Zhu et.al.|[2502.17095v1](http://arxiv.org/abs/2502.17095v1)|null|
