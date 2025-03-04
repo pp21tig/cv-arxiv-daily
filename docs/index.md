@@ -1109,7 +1109,7 @@ layout: default
 |**2025-02-28**|**The $s\pm$ pairing symmetry in the pressured La$_3$Ni$_2$O$_7$ from electron-phonon coupling**|Yucong Yin et.al.|[2502.21016v1](http://arxiv.org/abs/2502.21016v1)|null|
 |**2025-02-28**|**Melting of non reciprocal solids: how dislocations propel and fission in flowing crystals**|Stéphane Guillet et.al.|[2502.21007v1](http://arxiv.org/abs/2502.21007v1)|null|
 |**2025-02-28**|**Dual tunability of selective reflection by light and electric field for self-organizing materials**|Mateusz Mrukiewicz et.al.|[2502.21003v1](http://arxiv.org/abs/2502.21003v1)|null|
-|**2025-02-28**|**Ferroelectricity in the nematic liquid crystal under the direct current electric field**|Mateusz Mrukiewicz et.al.|[2502.20970v1](http://arxiv.org/abs/2502.20970v1)|null|
+|**2025-03-03**|**Ferroelectricity in the nematic liquid crystal under the direct current electric field**|Mateusz Mrukiewicz et.al.|[2502.20970v2](http://arxiv.org/abs/2502.20970v2)|null|
 |**2025-02-28**|**Mean Field Approaches to Lattice Gauge Theories: A Review**|Pierpaolo Fontana et.al.|[2502.20928v1](http://arxiv.org/abs/2502.20928v1)|null|
 |**2025-02-28**|**Noise-to-current ratio divergence as a fingerprint of dispersing Majorana edge modes**|Leo Katayama et.al.|[2502.20921v1](http://arxiv.org/abs/2502.20921v1)|null|
 |**2025-02-28**|**Dynamics of DNA-Templated Ultrafine Silver Nanowires Formation**|Qifei Ma et.al.|[2502.20913v1](http://arxiv.org/abs/2502.20913v1)|null|
