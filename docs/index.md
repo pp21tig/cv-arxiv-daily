@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Viscosity of polymer melts using non-affine theory based on vibrational modes**|Ankit Singh et.al.|[2503.02806v1](http://arxiv.org/abs/2503.02806v1)|null|
+|**2025-03-04**|**Elastic Pseudoturbulence in Polymer Solutions**|Mithun Ravisankar et.al.|[2503.02785v1](http://arxiv.org/abs/2503.02785v1)|null|
+|**2025-03-04**|**Selective electron-phonon coupling strength from nonequilibrium optical spectroscopy: The case of MgB $_2$**|S. Mor et.al.|[2503.02779v1](http://arxiv.org/abs/2503.02779v1)|null|
+|**2025-03-04**|**Twist deformation of physical trefoil knots**|Taiki Goto et.al.|[2503.02531v1](http://arxiv.org/abs/2503.02531v1)|null|
+|**2025-03-04**|**THz-Driven Coherent Phonon Fingerprints of Hidden Symmetry Breaking in 2D Layered Hybrid Perovskites**|Joanna M. Urban et.al.|[2503.02529v1](http://arxiv.org/abs/2503.02529v1)|null|
+|**2025-03-04**|**Spiral folding of a flexible chain of chiral active particles**|Shalabh K. Anand et.al.|[2503.02447v1](http://arxiv.org/abs/2503.02447v1)|null|
+|**2025-03-04**|**Giant moment increase by ultrafast laser light**|Sangeeta Sharma et.al.|[2503.02396v1](http://arxiv.org/abs/2503.02396v1)|null|
+|**2025-03-04**|**Exploring the world of rhamnolipids: A critical review of their production, interfacial properties, and potential application**|Eduardo Guzman et.al.|[2503.02307v1](http://arxiv.org/abs/2503.02307v1)|null|
+|**2025-03-03**|**Statistical mechanics of a cold tracer in a hot bath**|Amer Al-Hiyasat et.al.|[2503.01998v1](http://arxiv.org/abs/2503.01998v1)|null|
+|**2025-03-03**|**Topology of the simplest gene switch**|Aleksandra Nelson et.al.|[2503.01717v1](http://arxiv.org/abs/2503.01717v1)|null|
+|**2025-03-03**|**Can machines learn density functionals? Past, present, and future of ML in DFT**|Ryosuke Akashi et.al.|[2503.01709v1](http://arxiv.org/abs/2503.01709v1)|null|
+|**2025-03-03**|**Dynamics of single Au nanoparticles on graphene simultaneously in real- and diffraction space by time-series convergent beam electron diffraction**|Sara Mustafi et.al.|[2503.01705v1](http://arxiv.org/abs/2503.01705v1)|null|
+|**2025-03-03**|**Hydrogen bond-driven interactions between chitosan and biobased surfactants: A study of bulk behavior and surface adsorption**|Ana Puente-Santamaria et.al.|[2503.01683v1](http://arxiv.org/abs/2503.01683v1)|null|
+|**2025-03-03**|**Is Triboelectricity Confusing, Confused or Complex?**|Karl P. Olson et.al.|[2503.01600v1](http://arxiv.org/abs/2503.01600v1)|null|
+|**2025-03-03**|**Tracking Cluster Continuity and Dynamics in Time-Series Data: Application to Chromatin Polymer Simulations**|Ryo Nakanishi et.al.|[2503.01523v1](http://arxiv.org/abs/2503.01523v1)|null|
+|**2025-03-03**|**Dynamical exponents as an emergent property at interacting topological quantum critical points**|Fan Yang et.al.|[2503.01512v1](http://arxiv.org/abs/2503.01512v1)|null|
+|**2025-03-03**|**The emergent dynamics of double-folded randomly branching ring polymers**|Elham Ghobadpour et.al.|[2503.01446v1](http://arxiv.org/abs/2503.01446v1)|null|
+|**2025-03-03**|**Poromechanical modelling of responsive hydrogel pumps**|Joseph J. Webber et.al.|[2503.01435v1](http://arxiv.org/abs/2503.01435v1)|null|
+|**2025-03-03**|**Beyond Born-Oppenheimer Green's function theories: absolute and relational**|Ville J. Härkönen et.al.|[2503.01417v1](http://arxiv.org/abs/2503.01417v1)|null|
+|**2025-03-03**|**Temporal Correlations and Inelastic Dynamics in a Vibrated Binary Granular Mixture**|Rameez Farooq Shah et.al.|[2503.01414v1](http://arxiv.org/abs/2503.01414v1)|null|
 |**2025-02-28**|**Self Consistent Field Theory of isotropic-nematic interfaces and disclinations in a semiflexible molecule nematic**|Longyu Qing et.al.|[2502.21218v1](http://arxiv.org/abs/2502.21218v1)|null|
 |**2025-02-28**|**Approximation of anisotropic pair potentials using multivariate interpolation**|Mohammadreza Fakhraei et.al.|[2502.21203v1](http://arxiv.org/abs/2502.21203v1)|null|
 |**2025-02-28**|**Applications of Enhanced Sampling Methods to Biomolecular Self-Assembly: A Review**|Mason Hooten et.al.|[2502.21148v1](http://arxiv.org/abs/2502.21148v1)|null|
@@ -8664,6 +8684,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Visualizing the breakdown of the quantum anomalous Hall effect**|George M. Ferguson et.al.|[2503.02633v1](http://arxiv.org/abs/2503.02633v1)|null|
+|**2025-03-02**|**Inefficiency of the orbit Hall effect on spin torque in transition metal/ferromagnet bilayers**|Yizhuo Song et.al.|[2503.00910v1](http://arxiv.org/abs/2503.00910v1)|null|
 |**2025-02-28**|**Order parameter fluctuation effects on current-induced magnetization**|Genta Furuya et.al.|[2502.20624v1](http://arxiv.org/abs/2502.20624v1)|null|
 |**2025-02-27**|**Numerical analysis of the Landau--Lifshitz--Bloch equation with spin-torques**|Agus L. Soenjaya et.al.|[2502.20098v1](http://arxiv.org/abs/2502.20098v1)|null|
 |**2025-02-25**|**Electrically Tunable Magnonic Bound States in the Continuum**|Xi-guang Wang et.al.|[2502.18260v1](http://arxiv.org/abs/2502.18260v1)|null|
@@ -8927,6 +8949,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Polycrystalline Morphology and Anomalous Hall Effect in RF-Sputtered Co2MnGa Films**|Carter E. Wade et.al.|[2503.02821v1](http://arxiv.org/abs/2503.02821v1)|null|
+|**2025-03-04**|**Visualizing the breakdown of the quantum anomalous Hall effect**|George M. Ferguson et.al.|[2503.02633v1](http://arxiv.org/abs/2503.02633v1)|null|
+|**2025-03-02**|**Electrical switching of Chern insulators in moire rhombohedral heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v1](http://arxiv.org/abs/2503.00837v1)|null|
 |**2025-02-28**|**Spontaneous Anomalous Hall Effect in Two-Dimensional Altermagnets**|Sajjan Sheoran et.al.|[2502.21095v1](http://arxiv.org/abs/2502.21095v1)|null|
 |**2025-02-28**|**Linear magnetoresistance, anomalous Hall effect and de Haas-van Alphen oscillations in antiferromagnetic SmAg $_2$Ge$_2$ single crystals**|Kanchan Bala et.al.|[2502.20951v1](http://arxiv.org/abs/2502.20951v1)|null|
 |**2025-02-25**|**Continuously tunable anomalous Hall crystals in rhombohedral heptalayer graphene**|Hanxiao Xiang et.al.|[2502.18031v1](http://arxiv.org/abs/2502.18031v1)|null|
@@ -9362,6 +9387,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Universal whirling magnetic orders in non-Heisenberg Tsai-type quasicrystal approximants**|Farid Labib et.al.|[2503.01517v2](http://arxiv.org/abs/2503.01517v2)|null|
 |**2025-02-10**|**Observation of Magnon-Polarons in the Fermi-Hubbard Model**|Max L. Prichard et.al.|[2502.06757v1](http://arxiv.org/abs/2502.06757v1)|null|
 |**2025-02-07**|**Spin dynamics and magnetic excitations of quasi-1D spin chain Ca $_3$ZnMnO$_6$**|Suheon Lee et.al.|[2502.04919v1](http://arxiv.org/abs/2502.04919v1)|null|
 |**2025-02-06**|**An inelastic neutron scattering study of the magnetic field dependence of the quantum dipolar garnet: Yb $_3$Ga$_5$O$_{12}$**|Edward Riordan et.al.|[2502.04127v1](http://arxiv.org/abs/2502.04127v1)|null|
