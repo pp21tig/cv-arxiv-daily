@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Ultra-stretchable and Self-Healable Vitrimers with Tuneable Damping and Mechanical Response**|Jiaxin Zhao et.al.|[2503.03701v1](http://arxiv.org/abs/2503.03701v1)|null|
+|**2025-03-05**|**A model for boundary-driven tissue morphogenesis**|Daniel S. Alber et.al.|[2503.03688v1](http://arxiv.org/abs/2503.03688v1)|null|
+|**2025-03-05**|**The Roles of Size, Packing, and Cohesion in the Emergence of Force Chains in Granular Packings**|Ankit Shrivastava et.al.|[2503.03668v1](http://arxiv.org/abs/2503.03668v1)|null|
+|**2025-03-05**|**Bacterial Turbulence in Shear Thinning Fluid**|Hongyi Bian et.al.|[2503.03638v1](http://arxiv.org/abs/2503.03638v1)|null|
+|**2025-03-05**|**Modelling of the dewetting of ultra-thin liquid films on chemically patterned substrates: linear spectrum and deposition patterns**|Tilman Richter et.al.|[2503.03627v1](http://arxiv.org/abs/2503.03627v1)|null|
+|**2025-03-05**|**Structure and dynamics of a Rouse polymer in a fluctuating correlated medium**|Pietro Luigi Muzzeddu et.al.|[2503.03572v1](http://arxiv.org/abs/2503.03572v1)|null|
+|**2025-03-05**|**On the possibility of chiral symmetry breaking in liquid hydrogen peroxide**|Roberto Menta et.al.|[2503.03385v1](http://arxiv.org/abs/2503.03385v1)|null|
+|**2025-03-05**|**Gate-tunable band-edge in few-layer MoS $_2$**|Michele Masseroni et.al.|[2503.03371v1](http://arxiv.org/abs/2503.03371v1)|null|
+|**2025-03-05**|**Momentum-Resolved Signatures of Carrier Screening Effects on Electron-Phonon Coupling in MoS $_2$**|Yiming Pan et.al.|[2503.03363v1](http://arxiv.org/abs/2503.03363v1)|null|
+|**2025-03-05**|**Polydispersity-driven dynamical differences between two- and three-dimensional supercooled liquids**|Ilian Pihlajamaa et.al.|[2503.03320v1](http://arxiv.org/abs/2503.03320v1)|null|
+|**2025-03-05**|**Low-temperature structural study of smectic C $_A$* glass by X-ray diffraction**|Aleksandra Deptuch et.al.|[2503.03309v1](http://arxiv.org/abs/2503.03309v1)|null|
+|**2025-03-05**|**Universal law for the dispersal of motile microorganisms in porous media**|T. Pietrangeli et.al.|[2503.03273v1](http://arxiv.org/abs/2503.03273v1)|null|
+|**2025-03-05**|**Dynamics of stiff filaments in size-polydisperse hard sphere fluids**|Thokchom Premkumar Meitei et.al.|[2503.03264v1](http://arxiv.org/abs/2503.03264v1)|null|
+|**2025-03-05**|**Glassy Behavior and Anomalous Transport in Chimney Ladder Crystals Induced by Soft Optical Phonons**|Srinivas V. Mandyam et.al.|[2503.03155v1](http://arxiv.org/abs/2503.03155v1)|null|
+|**2025-03-05**|**State-dependent friction for a moving liquid contact line over rough solid surfaces**|Caishan Yan et.al.|[2503.03118v1](http://arxiv.org/abs/2503.03118v1)|null|
+|**2025-03-04**|**Collective neutral excitations as sensitive probe for the quality of 2D charge carrier systems in ultra-pure GaAs quantum wells**|Ursula Wurstbauer et.al.|[2503.03052v1](http://arxiv.org/abs/2503.03052v1)|null|
+|**2025-03-04**|**Self-sustained frictional cooling in active matter**|Alexander P. Antonov et.al.|[2503.02996v1](http://arxiv.org/abs/2503.02996v1)|null|
+|**2025-03-04**|**Nitrogen and hydrogen intercalation into crystalline fullerite C $_{60}$ and photoluminescent studies in a wide temperature range**|V. Zoryansky et.al.|[2503.02920v1](http://arxiv.org/abs/2503.02920v1)|null|
 |**2025-03-04**|**Viscosity of polymer melts using non-affine theory based on vibrational modes**|Ankit Singh et.al.|[2503.02806v1](http://arxiv.org/abs/2503.02806v1)|null|
 |**2025-03-04**|**Elastic Pseudoturbulence in Polymer Solutions**|Mithun Ravisankar et.al.|[2503.02785v1](http://arxiv.org/abs/2503.02785v1)|null|
 |**2025-03-04**|**Selective electron-phonon coupling strength from nonequilibrium optical spectroscopy: The case of MgB $_2$**|S. Mor et.al.|[2503.02779v1](http://arxiv.org/abs/2503.02779v1)|null|
@@ -8272,6 +8290,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Bicircular Light Induced Multi-State Geometric Current**|Zhichao Guo et.al.|[2503.03393v1](http://arxiv.org/abs/2503.03393v1)|null|
 |**2025-02-27**|**Search for magnetic field expulsion in optically driven K $_3$C$_{60}$**|G. De Vecchi et.al.|[2502.20276v1](http://arxiv.org/abs/2502.20276v1)|null|
 |**2025-02-26**|**Novel approach for non-invasive phase-sensitive 2D imaging of biological objects with photovoltaic trapping**|Lusine Tsarukyan et.al.|[2502.19001v1](http://arxiv.org/abs/2502.19001v1)|null|
 |**2025-02-24**|**Spin noise reveals spin dynamics and recharging of lead halide perovskite nanocrystals**|V. O. Kozlov et.al.|[2502.17276v1](http://arxiv.org/abs/2502.17276v1)|null|
@@ -8945,6 +8964,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Quantum Geometric Engineering of Dual Hall Effects in 2D Antiferromagnetic Bilayers via Interlayer Magnetic Coupling**|Zhenning Sun et.al.|[2503.03143v1](http://arxiv.org/abs/2503.03143v1)|null|
 |**2025-03-04**|**Polycrystalline Morphology and Anomalous Hall Effect in RF-Sputtered Co2MnGa Films**|Carter E. Wade et.al.|[2503.02821v1](http://arxiv.org/abs/2503.02821v1)|null|
 |**2025-03-04**|**Visualizing the breakdown of the quantum anomalous Hall effect**|George M. Ferguson et.al.|[2503.02633v1](http://arxiv.org/abs/2503.02633v1)|null|
 |**2025-03-02**|**Electrical switching of Chern insulators in moire rhombohedral heptalayer graphene**|Zhiyu Wang et.al.|[2503.00837v1](http://arxiv.org/abs/2503.00837v1)|null|
@@ -9383,6 +9403,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Revealing the electron-spin fluctuation coupling by photoemission in CaKFe4As4**|Peng Li et.al.|[2503.03473v1](http://arxiv.org/abs/2503.03473v1)|null|
+|**2025-03-05**|**Lattice dynamics of hexagonal ZnMgS**|Abdelmahjid Elmahjoubi et.al.|[2503.03381v1](http://arxiv.org/abs/2503.03381v1)|null|
 |**2025-03-04**|**Universal whirling magnetic orders in non-Heisenberg Tsai-type quasicrystal approximants**|Farid Labib et.al.|[2503.01517v2](http://arxiv.org/abs/2503.01517v2)|null|
 |**2025-02-10**|**Observation of Magnon-Polarons in the Fermi-Hubbard Model**|Max L. Prichard et.al.|[2502.06757v1](http://arxiv.org/abs/2502.06757v1)|null|
 |**2025-02-07**|**Spin dynamics and magnetic excitations of quasi-1D spin chain Ca $_3$ZnMnO$_6$**|Suheon Lee et.al.|[2502.04919v1](http://arxiv.org/abs/2502.04919v1)|null|
