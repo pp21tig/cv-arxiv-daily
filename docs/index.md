@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Capacitive response of biological membranes**|Jafar Farhadi et.al.|[2503.04677v1](http://arxiv.org/abs/2503.04677v1)|null|
+|**2025-03-06**|**Predicting Heteropolymer Phase Separation Using Two-Chain Contact Maps**|Jessica Jin et.al.|[2503.04659v1](http://arxiv.org/abs/2503.04659v1)|null|
+|**2025-03-06**|**Annihilation-limited Long-range Exciton Transport in High-mobility Conjugated Copolymer Films**|Yuping Shi et.al.|[2503.04627v1](http://arxiv.org/abs/2503.04627v1)|null|
+|**2025-03-06**|**Reversal of tracer advection and Hall drift in an interacting chiral fluid**|Erik Kalz et.al.|[2503.04544v1](http://arxiv.org/abs/2503.04544v1)|null|
+|**2025-03-06**|**Synthetic and cosmological axion hybridization: entangled photons, (HBT) and quantum beats**|Daniel Boyanovsky et.al.|[2503.04533v1](http://arxiv.org/abs/2503.04533v1)|null|
+|**2025-03-06**|**A microstructural model of transversely isotropic, fibre-reinforced hydrogels**|Matthew G. Hennessy et.al.|[2503.04485v1](http://arxiv.org/abs/2503.04485v1)|null|
+|**2025-03-06**|**Identical Suppression of Spin and Charge Density Wave Transitions in La $_4$Ni$_3$O$_{10}$ by Pressure**|Rustem Khasanov et.al.|[2503.04400v1](http://arxiv.org/abs/2503.04400v1)|null|
+|**2025-03-06**|**Capillary jet in a slab of foam**|Théophile Gaichies et.al.|[2503.04345v1](http://arxiv.org/abs/2503.04345v1)|null|
+|**2025-03-06**|**Observation of collective charge excitations in a cuprate superconductor**|Xunyang Hong et.al.|[2503.04334v1](http://arxiv.org/abs/2503.04334v1)|null|
+|**2025-03-06**|**Euler buckling on curved surfaces**|Shiheng Zhao et.al.|[2503.04303v1](http://arxiv.org/abs/2503.04303v1)|null|
+|**2025-03-06**|**AppQSim: Application-oriented benchmarks for Hamiltonian simulation on a quantum computer**|Etienne Granet et.al.|[2503.04298v1](http://arxiv.org/abs/2503.04298v1)|null|
+|**2025-03-06**|**Nematic order from phase synchronization of shape oscillations**|Ioannis Hadjifrangiskou et.al.|[2503.04282v1](http://arxiv.org/abs/2503.04282v1)|null|
+|**2025-03-06**|**Spin-lattice relaxation of NV centers in nanodiamonds adsorbed on conducting and non-conducting surfaces**|Izidor Benedičič et.al.|[2503.04172v1](http://arxiv.org/abs/2503.04172v1)|null|
+|**2025-03-06**|**Stress-stress correlations in two-dimensional amorphous and crystalline solids**|Jimin Bai et.al.|[2503.04028v1](http://arxiv.org/abs/2503.04028v1)|null|
+|**2025-03-05**|**The mechanics of the squash nick shot**|Mithun Ravisankar et.al.|[2503.03906v1](http://arxiv.org/abs/2503.03906v1)|null|
+|**2025-03-05**|**Emergent turbulence and coarsening arrest in active-spinner fluids**|Biswajit Maji et.al.|[2503.03843v1](http://arxiv.org/abs/2503.03843v1)|null|
+|**2025-03-05**|**Emergent active turbulence and intermittency in dense algal suspensions of Chlamydomonas reinhardtii**|Prince Vibek Baruah et.al.|[2503.03834v1](http://arxiv.org/abs/2503.03834v1)|null|
+|**2025-03-05**|**Anomalous Thickness Dependence of the Vortex Pearl Length in Few-Layer NbSe2**|Nofar Fridman et.al.|[2503.03815v1](http://arxiv.org/abs/2503.03815v1)|null|
+|**2025-03-05**|**Evolution of a kink-antikink ensemble in a quantum vacuum**|Mainak Mukhopadhyay et.al.|[2503.03808v1](http://arxiv.org/abs/2503.03808v1)|null|
 |**2025-03-05**|**Ultra-stretchable and Self-Healable Vitrimers with Tuneable Damping and Mechanical Response**|Jiaxin Zhao et.al.|[2503.03701v1](http://arxiv.org/abs/2503.03701v1)|null|
 |**2025-03-05**|**A model for boundary-driven tissue morphogenesis**|Daniel S. Alber et.al.|[2503.03688v1](http://arxiv.org/abs/2503.03688v1)|null|
 |**2025-03-05**|**The Roles of Size, Packing, and Cohesion in the Emergence of Force Chains in Granular Packings**|Ankit Shrivastava et.al.|[2503.03668v1](http://arxiv.org/abs/2503.03668v1)|null|
@@ -8294,6 +8313,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Quench of the electronic order in a strongly-coupled charge-density-wave system by enhanced lattice fluctuations**|Manuel Tuniz et.al.|[2503.04658v1](http://arxiv.org/abs/2503.04658v1)|null|
+|**2025-03-06**|**Quantum interference and occupation control in high harmonic generation from monolayer $WS_2$**|Minjeong Kim et.al.|[2503.04335v1](http://arxiv.org/abs/2503.04335v1)|null|
+|**2025-03-05**|**Indirect probing of light-induced nonadiabatic dynamics in lossy nanocavities**|Krisztián Szabó et.al.|[2503.03865v1](http://arxiv.org/abs/2503.03865v1)|null|
 |**2025-03-05**|**Bicircular Light Induced Multi-State Geometric Current**|Zhichao Guo et.al.|[2503.03393v1](http://arxiv.org/abs/2503.03393v1)|null|
 |**2025-02-27**|**Search for magnetic field expulsion in optically driven K $_3$C$_{60}$**|G. De Vecchi et.al.|[2502.20276v1](http://arxiv.org/abs/2502.20276v1)|null|
 |**2025-02-26**|**Novel approach for non-invasive phase-sensitive 2D imaging of biological objects with photovoltaic trapping**|Lusine Tsarukyan et.al.|[2502.19001v1](http://arxiv.org/abs/2502.19001v1)|null|
@@ -8968,6 +8990,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Anomalous Hall effect in Dirac semimetal probed by in-plane magnetic field**|Shinichi Nishihaya et.al.|[2503.04195v1](http://arxiv.org/abs/2503.04195v1)|null|
+|**2025-03-06**|**Chiral currents at zero magnetic field in some two-dimensional superconductors**|Chandra M. Varma et.al.|[2503.04115v1](http://arxiv.org/abs/2503.04115v1)|null|
 |**2025-03-05**|**Quantum Geometric Engineering of Dual Hall Effects in 2D Antiferromagnetic Bilayers via Interlayer Magnetic Coupling**|Zhenning Sun et.al.|[2503.03143v1](http://arxiv.org/abs/2503.03143v1)|null|
 |**2025-03-04**|**Polycrystalline Morphology and Anomalous Hall Effect in RF-Sputtered Co2MnGa Films**|Carter E. Wade et.al.|[2503.02821v1](http://arxiv.org/abs/2503.02821v1)|null|
 |**2025-03-04**|**Visualizing the breakdown of the quantum anomalous Hall effect**|George M. Ferguson et.al.|[2503.02633v1](http://arxiv.org/abs/2503.02633v1)|null|
