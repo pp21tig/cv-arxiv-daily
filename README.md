@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Equilibrium phases and phase transitions in multicritical magnetic polymers**|Alberto Raiola et.al.|[2503.05616v1](http://arxiv.org/abs/2503.05616v1)|null|
+|**2025-03-07**|**Geometric Optimization of Patterned Conductive Polymer Composite-based Strain Sensors Toward Enhanced Sensing Performance**|Jia-Chen Shang et.al.|[2503.05603v1](http://arxiv.org/abs/2503.05603v1)|null|
+|**2025-03-07**|**Global graph features unveiled by unsupervised geometric deep learning**|Mirja Granfors et.al.|[2503.05560v1](http://arxiv.org/abs/2503.05560v1)|null|
+|**2025-03-07**|**Step-by-step design guide of a cryogenic three-axis vector magnet**|Gaia Da Prato et.al.|[2503.05459v1](http://arxiv.org/abs/2503.05459v1)|null|
+|**2025-03-07**|**First-passage-time statistics of active Brownian particles: A perturbative approach**|Yanis Baouche et.al.|[2503.05401v1](http://arxiv.org/abs/2503.05401v1)|null|
+|**2025-03-07**|**Optical pumping and initialization of a hole spin in site-controlled InGaAs pyramidal quantum dots**|R. A. Barcan et.al.|[2503.05400v1](http://arxiv.org/abs/2503.05400v1)|null|
+|**2025-03-07**|**Deciphering the dual chemotaxis strategy of bacteria in porous media**|Sönke Beier et.al.|[2503.05286v1](http://arxiv.org/abs/2503.05286v1)|null|
+|**2025-03-07**|**Possible superconductivity in very thin magnesium films**|Giovanni Alberto Ummarino et.al.|[2503.05184v1](http://arxiv.org/abs/2503.05184v1)|null|
+|**2025-03-07**|**Collective Dynamics and Topological Locking in Knotted Ring Polymers: A Novel Phenomenological Theory**|Anna Lappala et.al.|[2503.05134v1](http://arxiv.org/abs/2503.05134v1)|null|
+|**2025-03-07**|**High Harmonic Generation from a Noble Metal**|Shima Gholam-Mirzaei et.al.|[2503.05073v1](http://arxiv.org/abs/2503.05073v1)|null|
+|**2025-03-07**|**Multi-phase-field Models of Biological Tissues**|Siavash Monfared et.al.|[2503.05053v1](http://arxiv.org/abs/2503.05053v1)|null|
+|**2025-03-06**|**Giant mobility of surface-trapped ionic charges following liquid tribocharging**|Zouhir Benrahla et.al.|[2503.04987v1](http://arxiv.org/abs/2503.04987v1)|null|
+|**2025-03-06**|**Revealing Quantum Geometry in Nonlinear Quantum Materials**|Yiyang Jiang et.al.|[2503.04943v1](http://arxiv.org/abs/2503.04943v1)|null|
 |**2025-03-06**|**Capacitive response of biological membranes**|Jafar Farhadi et.al.|[2503.04677v1](http://arxiv.org/abs/2503.04677v1)|null|
 |**2025-03-06**|**Predicting Heteropolymer Phase Separation Using Two-Chain Contact Maps**|Jessica Jin et.al.|[2503.04659v1](http://arxiv.org/abs/2503.04659v1)|null|
 |**2025-03-06**|**Annihilation-limited Long-range Exciton Transport in High-mobility Conjugated Copolymer Films**|Yuping Shi et.al.|[2503.04627v1](http://arxiv.org/abs/2503.04627v1)|null|
@@ -8309,6 +8322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**All-optical stochastic switching of magnetization textures in Fe $_3$Sn$_2$**|Jonathan T. Weber et.al.|[2503.05660v1](http://arxiv.org/abs/2503.05660v1)|null|
 |**2025-03-06**|**Quench of the electronic order in a strongly-coupled charge-density-wave system by enhanced lattice fluctuations**|Manuel Tuniz et.al.|[2503.04658v1](http://arxiv.org/abs/2503.04658v1)|null|
 |**2025-03-06**|**Quantum interference and occupation control in high harmonic generation from monolayer $WS_2$**|Minjeong Kim et.al.|[2503.04335v1](http://arxiv.org/abs/2503.04335v1)|null|
 |**2025-03-05**|**Indirect probing of light-induced nonadiabatic dynamics in lossy nanocavities**|Krisztián Szabó et.al.|[2503.03865v1](http://arxiv.org/abs/2503.03865v1)|null|
@@ -8721,6 +8735,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Separating the bulk and interface contribution of spin-orbit torque in ferromagnet-Heavy metal bilayers tuned by variation of resistivity of heavy metal**|Abu Bakkar Miah et.al.|[2503.05341v1](http://arxiv.org/abs/2503.05341v1)|null|
 |**2025-03-04**|**Visualizing the breakdown of the quantum anomalous Hall effect**|George M. Ferguson et.al.|[2503.02633v1](http://arxiv.org/abs/2503.02633v1)|null|
 |**2025-03-02**|**Inefficiency of the orbit Hall effect on spin torque in transition metal/ferromagnet bilayers**|Yizhuo Song et.al.|[2503.00910v1](http://arxiv.org/abs/2503.00910v1)|null|
 |**2025-02-28**|**Order parameter fluctuation effects on current-induced magnetization**|Genta Furuya et.al.|[2502.20624v1](http://arxiv.org/abs/2502.20624v1)|null|
@@ -9427,6 +9442,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Electronic Structure, Magnetic and Pairing Tendencies of Alternating Single-layer Bilayer Stacking Nickelate La $_5$Ni$_3$O$_{11}$ Under Pressure**|Yang Zhang et.al.|[2503.05075v1](http://arxiv.org/abs/2503.05075v1)|null|
 |**2025-03-05**|**Revealing the electron-spin fluctuation coupling by photoemission in CaKFe4As4**|Peng Li et.al.|[2503.03473v1](http://arxiv.org/abs/2503.03473v1)|null|
 |**2025-03-05**|**Lattice dynamics of hexagonal ZnMgS**|Abdelmahjid Elmahjoubi et.al.|[2503.03381v1](http://arxiv.org/abs/2503.03381v1)|null|
 |**2025-03-04**|**Universal whirling magnetic orders in non-Heisenberg Tsai-type quasicrystal approximants**|Farid Labib et.al.|[2503.01517v2](http://arxiv.org/abs/2503.01517v2)|null|
