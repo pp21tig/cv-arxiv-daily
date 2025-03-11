@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions**|Anoop Mutneja et.al.|[2503.07436v1](http://arxiv.org/abs/2503.07436v1)|null|
+|**2025-03-10**|**Freedericskz Transitions in the Nematic and Smectic ZA Phases of DIO**|J. T. Gleeson et.al.|[2503.07412v1](http://arxiv.org/abs/2503.07412v1)|null|
+|**2025-03-10**|**Opening Krylov space to access all-time dynamics via dynamical symmetries**|Nicolas Loizeau et.al.|[2503.07403v1](http://arxiv.org/abs/2503.07403v1)|null|
+|**2025-03-10**|**Molecular Weight-Dependent Evaporation Dynamics and Morphology of PEG Sessile Drops on Hydrophobic Substrates**|Feiyu An et.al.|[2503.07372v1](http://arxiv.org/abs/2503.07372v1)|null|
+|**2025-03-10**|**Hydrodynamic nuclear analogs with active wave-particle clusters**|Rahil N. Valani et.al.|[2503.07201v1](http://arxiv.org/abs/2503.07201v1)|null|
+|**2025-03-10**|**Photometric Decision-Making During the Dawn Choruses of Cicadas**|Rakesh Khanna A. et.al.|[2503.07121v1](http://arxiv.org/abs/2503.07121v1)|null|
+|**2025-03-10**|**High temperature 1H DOSY NMR reveals sourdough fermentation of wheat flour alters the molecular structure of water-extractable arabinoxylans**|Pasquinel Weckx et.al.|[2503.07071v1](http://arxiv.org/abs/2503.07071v1)|null|
+|**2025-03-09**|**Antiferroelectric switching inside ferroelastic domain walls**|Guangming Lu et.al.|[2503.06672v1](http://arxiv.org/abs/2503.06672v1)|null|
+|**2025-03-09**|**Efficient single-precision simulations of nematohydrodynamics**|Guilherme N. C. Amaral et.al.|[2503.06610v1](http://arxiv.org/abs/2503.06610v1)|null|
+|**2025-03-09**|**Don't look back: Ordering and defect cloaking in non-reciprocal lattice XY models**|Pankaj Popli et.al.|[2503.06480v1](http://arxiv.org/abs/2503.06480v1)|null|
+|**2025-03-09**|**Reflection of Phase Anisotropy on Molecule**|Yoshiaki Uchida et.al.|[2503.06409v1](http://arxiv.org/abs/2503.06409v1)|null|
+|**2025-03-08**|**Magnetic Equivariant K-theory**|Higinio Serrano et.al.|[2503.06267v1](http://arxiv.org/abs/2503.06267v1)|null|
+|**2025-03-08**|**Cell mechanics, environmental geometry, and cell polarity control cell-cell collision outcomes**|Yongtian Luo et.al.|[2503.06239v1](http://arxiv.org/abs/2503.06239v1)|null|
+|**2025-03-08**|**Scaling laws of shrinkage induced fragmentation phenomena**|Roland Szatmári et.al.|[2503.06177v1](http://arxiv.org/abs/2503.06177v1)|null|
+|**2025-03-08**|**Driven Polymer Translocation through a Nanopore from a Confining Channel**|Soheila Emamyari et.al.|[2503.06173v1](http://arxiv.org/abs/2503.06173v1)|null|
+|**2025-03-08**|**Skyrmions in Nanotechnology: Fundamental Properties, Experimental Advances, and Emerging Applications**|Davi Rodrigues et.al.|[2503.06159v1](http://arxiv.org/abs/2503.06159v1)|null|
+|**2025-03-08**|**The study of double kicked top: a classical and quantum perspective**|Avadhut V. Purohit et.al.|[2503.06103v1](http://arxiv.org/abs/2503.06103v1)|null|
+|**2025-03-08**|**Geometrically Templated Dynamic Wrinkling from Suspended Poly(vinyl alcohol) Soap Films**|Yuchong Gao et.al.|[2503.06065v1](http://arxiv.org/abs/2503.06065v1)|null|
+|**2025-03-08**|**Controllable and Continuous Quantum Phase Transitions in Intrinsic Magnetic Topological Insulator**|Shengjie Xu et.al.|[2503.06044v1](http://arxiv.org/abs/2503.06044v1)|null|
+|**2025-03-08**|**Modeling dynamic impact, shock waves, and injury in liver tissue with a constrained mixture theory**|John D. Clayton et.al.|[2503.06023v1](http://arxiv.org/abs/2503.06023v1)|null|
 |**2025-03-07**|**Equilibrium phases and phase transitions in multicritical magnetic polymers**|Alberto Raiola et.al.|[2503.05616v1](http://arxiv.org/abs/2503.05616v1)|null|
 |**2025-03-07**|**Geometric Optimization of Patterned Conductive Polymer Composite-based Strain Sensors Toward Enhanced Sensing Performance**|Jia-Chen Shang et.al.|[2503.05603v1](http://arxiv.org/abs/2503.05603v1)|null|
 |**2025-03-07**|**Global graph features unveiled by unsupervised geometric deep learning**|Mirja Granfors et.al.|[2503.05560v1](http://arxiv.org/abs/2503.05560v1)|null|
@@ -9001,6 +9021,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Origin of Cusp-Like Feature in Hall Resistivity of Uniaxial Ferromagnet in Non-Orthogonal Hall Geometry**|Banik Rai et.al.|[2503.07163v1](http://arxiv.org/abs/2503.07163v1)|null|
+|**2025-03-10**|**Occurrence of chemically tuned spin-texture controlled large intrinsic anomalous Hall effect in epitaxial $Mn_{3+x}Pt_{1-x}$ thin Films**|Indraneel Sinha et.al.|[2503.06952v1](http://arxiv.org/abs/2503.06952v1)|null|
 |**2025-03-06**|**Anomalous Hall effect in Dirac semimetal probed by in-plane magnetic field**|Shinichi Nishihaya et.al.|[2503.04195v1](http://arxiv.org/abs/2503.04195v1)|null|
 |**2025-03-06**|**Chiral currents at zero magnetic field in some two-dimensional superconductors**|Chandra M. Varma et.al.|[2503.04115v1](http://arxiv.org/abs/2503.04115v1)|null|
 |**2025-03-05**|**Quantum Geometric Engineering of Dual Hall Effects in 2D Antiferromagnetic Bilayers via Interlayer Magnetic Coupling**|Zhenning Sun et.al.|[2503.03143v1](http://arxiv.org/abs/2503.03143v1)|null|
