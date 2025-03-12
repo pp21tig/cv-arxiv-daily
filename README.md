@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Elastic Plateau-Rayleigh instability in soft cylinders: Surface elasticity and periodic beading**|F. Magni et.al.|[2503.08660v1](http://arxiv.org/abs/2503.08660v1)|null|
+|**2025-03-11**|**Interplay of entanglement structures and stabilizer entropy in spin models**|Michele Viscardi et.al.|[2503.08620v1](http://arxiv.org/abs/2503.08620v1)|null|
+|**2025-03-11**|**Shear-Rate Dependent Surface Tension of Glass-Forming Fluids**|Linnea Heitmeier et.al.|[2503.08611v1](http://arxiv.org/abs/2503.08611v1)|null|
+|**2025-03-11**|**Tunable Octdong and Spindle-Torus Fermi Surfaces in Kramers Nodal Line Metals**|Gabriele Domaine et.al.|[2503.08571v1](http://arxiv.org/abs/2503.08571v1)|null|
+|**2025-03-11**|**Hydrodynamic Interaction and Geometric Memory Effect Drive Directed Swimming of Chlamydomonas reinhardtii near Periodic Microstructures**|Chunhe Li et.al.|[2503.08376v1](http://arxiv.org/abs/2503.08376v1)|null|
+|**2025-03-11**|**Spin-lattice coupling and lattice anharmonicity across structural phase transitions in spin-orbit coupled K2IrBr6**|S. Bhatia et.al.|[2503.08204v1](http://arxiv.org/abs/2503.08204v1)|null|
+|**2025-03-11**|**Rayleigh-B{é}nard Convection with Phase Change Close to the Critical Point**|Valentin Mouet et.al.|[2503.08191v1](http://arxiv.org/abs/2503.08191v1)|null|
+|**2025-03-11**|**A quantum Monte Carlo algorithm for arbitrary high-spin Hamiltonians**|Arman Babakhani et.al.|[2503.08039v1](http://arxiv.org/abs/2503.08039v1)|null|
+|**2025-03-10**|**Sergeants and Soldiers in Chiral Nematic Liquid Crystal**|Yoshiaki Uchida et.al.|[2503.07873v1](http://arxiv.org/abs/2503.07873v1)|null|
+|**2025-03-10**|**Tuning the Size and Stiffness of Inflatable Particles**|Nidhi Pashine et.al.|[2503.07850v1](http://arxiv.org/abs/2503.07850v1)|null|
+|**2025-03-10**|**Directional Locking and Hysteresis in Stripe and Bubble Forming Systems on One-Dimensional Periodic Substrates with a Rotating Drive**|C. Reichhardt et.al.|[2503.07831v1](http://arxiv.org/abs/2503.07831v1)|null|
+|**2025-03-10**|**Effect of imaginary gauge on wave transport in driven-dissipative systems**|I. Komis et.al.|[2503.07786v1](http://arxiv.org/abs/2503.07786v1)|null|
+|**2025-03-10**|**Path-dependency and emergent computing under vectorial driving**|Colin M. Meulblok et.al.|[2503.07764v1](http://arxiv.org/abs/2503.07764v1)|null|
+|**2025-03-10**|**Heat-to-motion conversion for quantum active matter**|Alexander-Georg Penner et.al.|[2503.07751v1](http://arxiv.org/abs/2503.07751v1)|null|
+|**2025-03-10**|**Phase Diagram of the Non-Reciprocal Cahn-Hilliard Model and the Effects of Symmetry**|Martin Kjøllesdal Johnsrud et.al.|[2503.07579v1](http://arxiv.org/abs/2503.07579v1)|null|
+|**2025-03-10**|**Three-phase equilibria of CO $_2$ hydrate from computer simulation in presence of NaCl**|A. Borrero et.al.|[2503.07502v1](http://arxiv.org/abs/2503.07502v1)|null|
 |**2025-03-10**|**Finite deformations induce friction hysteresis in normal wavy contacts**|M. Ceglie et.al.|[2503.07495v1](http://arxiv.org/abs/2503.07495v1)|null|
 |**2025-03-10**|**Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions**|Anoop Mutneja et.al.|[2503.07436v1](http://arxiv.org/abs/2503.07436v1)|null|
 |**2025-03-10**|**Freedericskz Transitions in the Nematic and Smectic ZA Phases of DIO**|J. T. Gleeson et.al.|[2503.07412v1](http://arxiv.org/abs/2503.07412v1)|null|
@@ -9022,6 +9038,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Tunable Octdong and Spindle-Torus Fermi Surfaces in Kramers Nodal Line Metals**|Gabriele Domaine et.al.|[2503.08571v1](http://arxiv.org/abs/2503.08571v1)|null|
 |**2025-03-10**|**Origin of Cusp-Like Feature in Hall Resistivity of Uniaxial Ferromagnet in Non-Orthogonal Hall Geometry**|Banik Rai et.al.|[2503.07163v1](http://arxiv.org/abs/2503.07163v1)|null|
 |**2025-03-10**|**Occurrence of chemically tuned spin-texture controlled large intrinsic anomalous Hall effect in epitaxial $Mn_{3+x}Pt_{1-x}$ thin Films**|Indraneel Sinha et.al.|[2503.06952v1](http://arxiv.org/abs/2503.06952v1)|null|
 |**2025-03-06**|**Anomalous Hall effect in Dirac semimetal probed by in-plane magnetic field**|Shinichi Nishihaya et.al.|[2503.04195v1](http://arxiv.org/abs/2503.04195v1)|null|
