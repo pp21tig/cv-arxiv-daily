@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Evolution of Adaptive Force Chains in Reconfigurable Granular Metamaterials**|Sven Witthaus et.al.|[2503.09564v1](http://arxiv.org/abs/2503.09564v1)|null|
+|**2025-03-12**|**A Fresh Perspective on Water Dynamics in Aqueous Salt Solutions**|Rolf Zeißler et.al.|[2503.09405v1](http://arxiv.org/abs/2503.09405v1)|null|
+|**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362v1](http://arxiv.org/abs/2503.09362v1)|null|
+|**2025-03-12**|**PolyMorph: Extension of PolyHoop for tissue morphogenesis coupled to chemical signaling**|Nicolas Pascal Guido Müller et.al.|[2503.09319v1](http://arxiv.org/abs/2503.09319v1)|null|
+|**2025-03-12**|**Eigen-SNAP gate for photonic qubits in a cavity-transmon system**|Marcus Meschede et.al.|[2503.09292v1](http://arxiv.org/abs/2503.09292v1)|null|
+|**2025-03-12**|**Graph-Dynamics correspondence in metallic glass-forming liquids**|Xin-Jia Zhou et.al.|[2503.09278v1](http://arxiv.org/abs/2503.09278v1)|null|
+|**2025-03-12**|**Cooperation and competing of antipolar charge order and superconducting states in a quasi-2D superatomic metallic crystal**|Shuya Xing et.al.|[2503.09216v1](http://arxiv.org/abs/2503.09216v1)|null|
+|**2025-03-12**|**Dense suspensions as trainable rheological metafluids**|Hojin Kim et.al.|[2503.09063v1](http://arxiv.org/abs/2503.09063v1)|null|
+|**2025-03-12**|**Extreme resilience and dissipation in heterogeneous disordered materials**|Jehoon Moon et.al.|[2503.09056v1](http://arxiv.org/abs/2503.09056v1)|null|
+|**2025-03-11**|**Hydrostatic Newton-Cartan Membranes**|Domingo Gallegos et.al.|[2503.08947v1](http://arxiv.org/abs/2503.08947v1)|null|
+|**2025-03-11**|**Deciphering the Scattering of Mechanically Driven Polymers using Deep Learning**|Lijie Ding et.al.|[2503.08913v1](http://arxiv.org/abs/2503.08913v1)|null|
+|**2025-03-11**|**Modeling and computation of the effective elastic behavior of parallelogram origami metamaterials**|Hu Xu et.al.|[2503.08894v1](http://arxiv.org/abs/2503.08894v1)|null|
+|**2025-03-11**|**Quantum Averaging for High-Fidelity Quantum Logic Gates**|Kristian D. Barajas et.al.|[2503.08886v1](http://arxiv.org/abs/2503.08886v1)|null|
+|**2025-03-11**|**Real-time simulation enabled navigation control of magnetic soft continuum robots in confined lumens**|Dezhong Tong et.al.|[2503.08864v1](http://arxiv.org/abs/2503.08864v1)|null|
+|**2025-03-11**|**A generalized framework for viscous and non-viscous damping models**|Soumya Kanti Ganguly et.al.|[2503.08804v1](http://arxiv.org/abs/2503.08804v1)|null|
 |**2025-03-11**|**Elastic Plateau-Rayleigh instability in soft cylinders: Surface elasticity and periodic beading**|F. Magni et.al.|[2503.08660v1](http://arxiv.org/abs/2503.08660v1)|null|
 |**2025-03-11**|**Interplay of entanglement structures and stabilizer entropy in spin models**|Michele Viscardi et.al.|[2503.08620v1](http://arxiv.org/abs/2503.08620v1)|null|
 |**2025-03-11**|**Shear-Rate Dependent Surface Tension of Glass-Forming Fluids**|Linnea Heitmeier et.al.|[2503.08611v1](http://arxiv.org/abs/2503.08611v1)|null|
@@ -8359,6 +8374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Ultraviolet Light-Induced Microwave Mode Tuning in a Rutile TiO $_2$ Whispering Gallery Resonator**|Catriona A. Thomson et.al.|[2503.08981v1](http://arxiv.org/abs/2503.08981v1)|null|
 |**2025-03-07**|**All-optical stochastic switching of magnetization textures in Fe $_3$Sn$_2$**|Jonathan T. Weber et.al.|[2503.05660v1](http://arxiv.org/abs/2503.05660v1)|null|
 |**2025-03-06**|**Quench of the electronic order in a strongly-coupled charge-density-wave system by enhanced lattice fluctuations**|Manuel Tuniz et.al.|[2503.04658v1](http://arxiv.org/abs/2503.04658v1)|null|
 |**2025-03-09**|**Quantum interference and occupation control in high harmonic generation from monolayer $WS_2$**|Minjeong Kim et.al.|[2503.04335v2](http://arxiv.org/abs/2503.04335v2)|null|
@@ -8772,6 +8788,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602v1](http://arxiv.org/abs/2503.09602v1)|null|
+|**2025-03-11**|**Orbital splitter effect and spatial resolution of current-induced orbital accumulation**|Niels Henrik Aase et.al.|[2503.08831v1](http://arxiv.org/abs/2503.08831v1)|null|
 |**2025-03-07**|**Separating the bulk and interface contribution of spin-orbit torque in ferromagnet-Heavy metal bilayers tuned by variation of resistivity of heavy metal**|Abu Bakkar Miah et.al.|[2503.05341v1](http://arxiv.org/abs/2503.05341v1)|null|
 |**2025-03-04**|**Visualizing the breakdown of the quantum anomalous Hall effect**|George M. Ferguson et.al.|[2503.02633v1](http://arxiv.org/abs/2503.02633v1)|null|
 |**2025-03-02**|**Inefficiency of the orbit Hall effect on spin torque in transition metal/ferromagnet bilayers**|Yizhuo Song et.al.|[2503.00910v1](http://arxiv.org/abs/2503.00910v1)|null|
@@ -9038,6 +9056,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Elastic Response and Instabilities of Anomalous Hall Crystals**|Félix Desrochers et.al.|[2503.08784v1](http://arxiv.org/abs/2503.08784v1)|null|
 |**2025-03-11**|**Tunable Octdong and Spindle-Torus Fermi Surfaces in Kramers Nodal Line Metals**|Gabriele Domaine et.al.|[2503.08571v1](http://arxiv.org/abs/2503.08571v1)|null|
 |**2025-03-10**|**Origin of Cusp-Like Feature in Hall Resistivity of Uniaxial Ferromagnet in Non-Orthogonal Hall Geometry**|Banik Rai et.al.|[2503.07163v1](http://arxiv.org/abs/2503.07163v1)|null|
 |**2025-03-10**|**Occurrence of chemically tuned spin-texture controlled large intrinsic anomalous Hall effect in epitaxial $Mn_{3+x}Pt_{1-x}$ thin Films**|Indraneel Sinha et.al.|[2503.06952v1](http://arxiv.org/abs/2503.06952v1)|null|
