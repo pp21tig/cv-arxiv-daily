@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Hierarchical Bayesian inference for uncertainty quantification of thermal grease rheology**|Pranay P. Nagrani et.al.|[2503.10608v1](http://arxiv.org/abs/2503.10608v1)|null|
+|**2025-03-13**|**Phase locking and fractional Shapiro steps in collective dynamics of microparticles**|Seemant Mishra et.al.|[2503.10536v1](http://arxiv.org/abs/2503.10536v1)|null|
+|**2025-03-13**|**Comment on Boosting large scale capacitive harvesting of osmotic power by dynamical matching of ion exchange kinetics**|Nan Wu et.al.|[2503.10418v1](http://arxiv.org/abs/2503.10418v1)|null|
+|**2025-03-13**|**A Fluctuation Theory of Transport Properties in Liquid-Phase Solutions**|Yury A. Budkov et.al.|[2503.10303v1](http://arxiv.org/abs/2503.10303v1)|null|
+|**2025-03-12**|**The Cahn-Hilliard-Navier-Stokes Framework for Multiphase Fluid Flows: Laminar, Turbulent, and Active**|Nadia Bihari Padhan et.al.|[2503.10293v1](http://arxiv.org/abs/2503.10293v1)|null|
+|**2025-03-13**|**Flow birefringence of shear-thinning fluid in a Hele-Shaw cell**|Misa Kawaguchi et.al.|[2503.10261v1](http://arxiv.org/abs/2503.10261v1)|null|
+|**2025-03-13**|**Memory effect by coupling between translational and rotational Brownian motion in water-ethanol mixtures**|Ken Judai et.al.|[2503.10189v1](http://arxiv.org/abs/2503.10189v1)|null|
+|**2025-03-12**|**Two-dimensional antiferromagnets with non-relativistic spin splitting switchable by electric polarization**|Himanshu Mavani et.al.|[2503.09877v1](http://arxiv.org/abs/2503.09877v1)|null|
+|**2025-03-12**|**Dielectrocapillarity for exquisite control of fluids**|Anna T. Bui et.al.|[2503.09855v1](http://arxiv.org/abs/2503.09855v1)|null|
+|**2025-03-12**|**Stabilizing steady-state properties of open quantum systems with parameter engineering**|Koray Aydoğan et.al.|[2503.09847v1](http://arxiv.org/abs/2503.09847v1)|null|
+|**2025-03-12**|**Peridynamics based model of anticrack-type fracture in brittle foams**|Shucheta Shegufta et.al.|[2503.09784v1](http://arxiv.org/abs/2503.09784v1)|null|
+|**2025-03-12**|**A first principles approach to electromechanics in liquids**|Anna T. Bui et.al.|[2503.09768v1](http://arxiv.org/abs/2503.09768v1)|null|
+|**2025-03-12**|**Multi-Timescale Quantum Averaging Theory for Driven Quantum Systems**|Kristian D. Barajas et.al.|[2503.09761v1](http://arxiv.org/abs/2503.09761v1)|null|
 |**2025-03-12**|**Evolution of Adaptive Force Chains in Reconfigurable Granular Metamaterials**|Sven Witthaus et.al.|[2503.09564v1](http://arxiv.org/abs/2503.09564v1)|null|
 |**2025-03-12**|**A Fresh Perspective on Water Dynamics in Aqueous Salt Solutions**|Rolf Zeißler et.al.|[2503.09405v1](http://arxiv.org/abs/2503.09405v1)|null|
 |**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362v1](http://arxiv.org/abs/2503.09362v1)|null|
@@ -8378,6 +8391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Nonequilibrium hysteretic phase transitions in periodically light-driven superconductors**|Huanyu Zhang et.al.|[2503.10146v1](http://arxiv.org/abs/2503.10146v1)|null|
 |**2025-03-12**|**Ultraviolet Light-Induced Microwave Mode Tuning in a Rutile TiO $_2$ Whispering Gallery Resonator**|Catriona A. Thomson et.al.|[2503.08981v1](http://arxiv.org/abs/2503.08981v1)|null|
 |**2025-03-07**|**All-optical stochastic switching of magnetization textures in Fe $_3$Sn$_2$**|Jonathan T. Weber et.al.|[2503.05660v1](http://arxiv.org/abs/2503.05660v1)|null|
 |**2025-03-06**|**Quench of the electronic order in a strongly-coupled charge-density-wave system by enhanced lattice fluctuations**|Manuel Tuniz et.al.|[2503.04658v1](http://arxiv.org/abs/2503.04658v1)|null|
@@ -8792,6 +8806,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Current-linear emergent induction of pinned skyrmion textures in an oxide bilayer**|Ludwig Scheuchenpflug et.al.|[2503.10600v1](http://arxiv.org/abs/2503.10600v1)|null|
+|**2025-03-13**|**Quantized crystalline-electromagnetic responses in insulators**|Sachin Vaidya et.al.|[2503.09970v1](http://arxiv.org/abs/2503.09970v1)|null|
+|**2025-03-12**|**Two-dimensional antiferromagnets with non-relativistic spin splitting switchable by electric polarization**|Himanshu Mavani et.al.|[2503.09877v1](http://arxiv.org/abs/2503.09877v1)|null|
 |**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602v1](http://arxiv.org/abs/2503.09602v1)|null|
 |**2025-03-11**|**Orbital splitter effect and spatial resolution of current-induced orbital accumulation**|Niels Henrik Aase et.al.|[2503.08831v1](http://arxiv.org/abs/2503.08831v1)|null|
 |**2025-03-07**|**Separating the bulk and interface contribution of spin-orbit torque in ferromagnet-Heavy metal bilayers tuned by variation of resistivity of heavy metal**|Abu Bakkar Miah et.al.|[2503.05341v1](http://arxiv.org/abs/2503.05341v1)|null|
@@ -9505,6 +9522,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Crystal field splittings and magnetic ground state of the Jeff = 1/2 square lattice antiferromagnets YbBi2ClO4 and YbBi2IO4**|Pyeongjae Park et.al.|[2503.09739v1](http://arxiv.org/abs/2503.09739v1)|null|
 |**2025-03-07**|**Electronic Structure, Magnetic and Pairing Tendencies of Alternating Single-layer Bilayer Stacking Nickelate La $_5$Ni$_3$O$_{11}$ Under Pressure**|Yang Zhang et.al.|[2503.05075v1](http://arxiv.org/abs/2503.05075v1)|null|
 |**2025-03-05**|**Revealing the electron-spin fluctuation coupling by photoemission in CaKFe4As4**|Peng Li et.al.|[2503.03473v1](http://arxiv.org/abs/2503.03473v1)|null|
 |**2025-03-05**|**Lattice dynamics of hexagonal ZnMgS**|Abdelmahjid Elmahjoubi et.al.|[2503.03381v1](http://arxiv.org/abs/2503.03381v1)|null|
