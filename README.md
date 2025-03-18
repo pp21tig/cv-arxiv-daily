@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Quantum crystal spin Hall effect in two-dimensional altermagnetic systems**|Pan-jun Feng et.al.|[2503.13397v1](http://arxiv.org/abs/2503.13397v1)|null|
+|**2025-03-17**|**Neuromorphic Computing with Microfluidic Memristors**|Nico C. X. Stuhlmüller et.al.|[2503.13386v1](http://arxiv.org/abs/2503.13386v1)|null|
+|**2025-03-17**|**3D morphology formation in a mixture of three differently averse components**|Emilio N. M. Cirillo et.al.|[2503.13338v1](http://arxiv.org/abs/2503.13338v1)|null|
+|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294v1](http://arxiv.org/abs/2503.13294v1)|null|
+|**2025-03-17**|**Fragility and thermal expansion control crystal melting and the glass transition**|Alessio Zaccone et.al.|[2503.13270v1](http://arxiv.org/abs/2503.13270v1)|null|
+|**2025-03-17**|**Exact Results in Stochastic Processes with Division, Death, and Diffusion: Spatial Correlations, Marginal Entropy Production, and Macroscopic Currents**|Samuel Cameron et.al.|[2503.13150v1](http://arxiv.org/abs/2503.13150v1)|null|
+|**2025-03-17**|**Engineering tunable fractional Shapiro steps in colloidal transport**|Andris P. Stikuts et.al.|[2503.13049v1](http://arxiv.org/abs/2503.13049v1)|null|
+|**2025-03-17**|**Revisiting the Extraction of Coupling Strength for Polaron Hopping from $ab~initio$ Approach**|Hala Houmsi et.al.|[2503.12983v1](http://arxiv.org/abs/2503.12983v1)|null|
+|**2025-03-17**|**Entropic bottlenecks to nematic ordering in an $RP^{2}$ apolar spin model**|B. Kamala Latha et.al.|[2503.12970v1](http://arxiv.org/abs/2503.12970v1)|null|
+|**2025-03-17**|**Frustration-free free fermions and beyond**|Rintaro Masaoka et.al.|[2503.12879v1](http://arxiv.org/abs/2503.12879v1)|null|
+|**2025-03-17**|**Combinatorial Design of Floppy Modes and Frustrated Loops in Metamaterials**|Wenfeng Liu et.al.|[2503.12867v1](http://arxiv.org/abs/2503.12867v1)|null|
+|**2025-03-17**|**A Jellium Model for the Anomalous Hall Crystal**|Tomohiro Soejima et.al.|[2503.12704v1](http://arxiv.org/abs/2503.12704v1)|null|
+|**2025-03-16**|**Shear jamming transition in alternating shear rotation for frictional and frictionless suspensions**|Pappu Acharya et.al.|[2503.12681v1](http://arxiv.org/abs/2503.12681v1)|null|
+|**2025-03-16**|**Impact and spreading dynamics of a drop of fiber suspension on a solid substrate**|Sreeram Rajesh et.al.|[2503.12577v1](http://arxiv.org/abs/2503.12577v1)|null|
+|**2025-03-16**|**Power Spectra of Velocity Fluctuations in Granular Heap Flow**|ShuChang Yu et.al.|[2503.12558v1](http://arxiv.org/abs/2503.12558v1)|null|
+|**2025-03-16**|**The topological spectrum of high dimensional quantum states**|Robert de Mello Koch et.al.|[2503.12540v1](http://arxiv.org/abs/2503.12540v1)|null|
+|**2025-03-16**|**Non-reciprocity and multibody interactions in acoustically levitated particle systems: A three body problem**|Brady Wu et.al.|[2503.12327v1](http://arxiv.org/abs/2503.12327v1)|null|
+|**2025-03-16**|**Numerical methods for unraveling inter-particle potentials in colloidal suspensions: A comparative study for two-dimensional suspensions**|Clare R. Rees-Zimmerman et.al.|[2503.12323v1](http://arxiv.org/abs/2503.12323v1)|null|
+|**2025-03-15**|**Degenerate Fluid Polyamorphism Induced by Symmetrical Molecular Interconversion**|Mikhail A. Anisimov et.al.|[2503.12138v1](http://arxiv.org/abs/2503.12138v1)|null|
+|**2025-03-15**|**Optical excitation and detection of high-frequency Sezawa modes in Si/SiO2 system decorated with Ni80Fe20 nanodot arrays**|Piotr Graczyk et.al.|[2503.12021v1](http://arxiv.org/abs/2503.12021v1)|null|
 |**2025-03-14**|**Large Thermal Hall Effect in MnPS3**|Mohamed Nawwar et.al.|[2503.11639v1](http://arxiv.org/abs/2503.11639v1)|null|
 |**2025-03-14**|**Direct observation of angular momentum transfer among crystal lattice modes**|Olga Minakova et.al.|[2503.11626v1](http://arxiv.org/abs/2503.11626v1)|null|
 |**2025-03-14**|**Excitability and oscillations of active droplets**|Ivar S. Haugerud et.al.|[2503.11604v1](http://arxiv.org/abs/2503.11604v1)|null|
@@ -8407,6 +8427,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**Light-induced quantum friction of carbon nanotubes in water**|Tanuja Kistwal et.al.|[2503.12580v1](http://arxiv.org/abs/2503.12580v1)|null|
+|**2025-03-15**|**Photostriction Facilitates Relaxation of Lattice Distortion in Two-Dimensional Perovskites**|Jin Zhang et.al.|[2503.12119v1](http://arxiv.org/abs/2503.12119v1)|null|
 |**2025-03-14**|**First principles prediction of wavelength-dependent isomerization quantum yields of a second-generation molecular nanomotor**|Jesús Lucia-Tamudo et.al.|[2503.11045v1](http://arxiv.org/abs/2503.11045v1)|null|
 |**2025-03-14**|**Nonequilibrium hysteretic phase transitions in periodically light-driven superconductors**|Huanyu Zhang et.al.|[2503.10146v2](http://arxiv.org/abs/2503.10146v2)|null|
 |**2025-03-12**|**Ultraviolet Light-Induced Microwave Mode Tuning in a Rutile TiO $_2$ Whispering Gallery Resonator**|Catriona A. Thomson et.al.|[2503.08981v1](http://arxiv.org/abs/2503.08981v1)|null|
@@ -8823,6 +8845,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-15**|**Spin orientation by electric current in altermagnets**|L. E. Golub et.al.|[2503.12203v1](http://arxiv.org/abs/2503.12203v1)|null|
 |**2025-03-14**|**Electrical Spin-Flip Current Switching in Layered Diluted Magnetic Semiconductors for Ultralow-Power Spintronics**|Lan-Anh T. Nguyen et.al.|[2503.11193v1](http://arxiv.org/abs/2503.11193v1)|null|
 |**2025-03-13**|**Current-linear emergent induction of pinned skyrmion textures in an oxide bilayer**|Ludwig Scheuchenpflug et.al.|[2503.10600v1](http://arxiv.org/abs/2503.10600v1)|null|
 |**2025-03-13**|**Quantized crystalline-electromagnetic responses in insulators**|Sachin Vaidya et.al.|[2503.09970v1](http://arxiv.org/abs/2503.09970v1)|null|
@@ -9095,6 +9118,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Enhanced anomalous Hall effect in the topological Kagome metal Cs(V $_{1-x}$Mn$_x$)$_3$Sb$_5$**|Xinmin Wang et.al.|[2503.13351v1](http://arxiv.org/abs/2503.13351v1)|null|
+|**2025-03-16**|**Diverse Magnetic Phase Diagram and Anomalous Hall Effect in Antiferromagetic LuMn $_6$Sn$_6$**|Shirin Mozaffari et.al.|[2503.12359v1](http://arxiv.org/abs/2503.12359v1)|null|
 |**2025-03-14**|**Stark difference in the in-plane anomalous Hall response in Zintl compounds EuA2Sb2 (A = Zn, Cd) thin films**|Hsiang Lee et.al.|[2503.11087v1](http://arxiv.org/abs/2503.11087v1)|null|
 |**2025-03-14**|**Observation of High-Temperature Dissipationless Fractional Chern Insulator**|Heonjoon Park et.al.|[2503.10989v1](http://arxiv.org/abs/2503.10989v1)|null|
 |**2025-03-14**|**Spin Texture Control and Magnetic Gap Engineering in a Ferromagnetic Insulator-Topological Insulator Sandwiched Heterostructure**|Mohammad T. H. Bhuiyan et.al.|[2503.10979v1](http://arxiv.org/abs/2503.10979v1)|null|
@@ -9544,6 +9569,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Chiral magnon splitting in altermagnetic CrSb from first principles**|Yi-Fan Zhang et.al.|[2503.12920v1](http://arxiv.org/abs/2503.12920v1)|null|
+|**2025-03-17**|**Abundance of spin liquids in the $S=1$ bilinear-biquadratic model on the pyrochlore lattice, and its application to $\mathrm{NaCaNi}_2\mathrm{F}_7$**|Rico Pohle et.al.|[2503.12776v1](http://arxiv.org/abs/2503.12776v1)|null|
 |**2025-03-14**|**Altermagnetic splitting of magnons in hematite ( $α$-Fe$_2$O$_3$ )**|Rhea Hoyer et.al.|[2503.11623v1](http://arxiv.org/abs/2503.11623v1)|null|
 |**2025-03-12**|**Crystal field splittings and magnetic ground state of the Jeff = 1/2 square lattice antiferromagnets YbBi2ClO4 and YbBi2IO4**|Pyeongjae Park et.al.|[2503.09739v1](http://arxiv.org/abs/2503.09739v1)|null|
 |**2025-03-07**|**Electronic Structure, Magnetic and Pairing Tendencies of Alternating Single-layer Bilayer Stacking Nickelate La $_5$Ni$_3$O$_{11}$ Under Pressure**|Yang Zhang et.al.|[2503.05075v1](http://arxiv.org/abs/2503.05075v1)|null|
