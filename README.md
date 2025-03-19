@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Inescapable anisotropy of non-reciprocal XY models**|Dawid Dopierala et.al.|[2503.14466v1](http://arxiv.org/abs/2503.14466v1)|null|
+|**2025-03-18**|**Local formation of knotted screw dislocations in smectic liquid crystals**|Robert Cardona et.al.|[2503.14415v1](http://arxiv.org/abs/2503.14415v1)|null|
+|**2025-03-18**|**Universal scaling in one-dimensional non-reciprocal matter**|Shuoguang Liu et.al.|[2503.14384v1](http://arxiv.org/abs/2503.14384v1)|null|
+|**2025-03-18**|**Odd electrical circuits**|Harry Walden et.al.|[2503.14383v1](http://arxiv.org/abs/2503.14383v1)|null|
+|**2025-03-18**|**Frustration-free free fermions**|Seishiro Ono et.al.|[2503.14312v1](http://arxiv.org/abs/2503.14312v1)|null|
+|**2025-03-18**|**A novel method for quantifying enzyme immobilization in porous carriers using simple NMR relaxometry**|M. Raquel Serial et.al.|[2503.14308v1](http://arxiv.org/abs/2503.14308v1)|null|
+|**2025-03-18**|**An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials**|Liang Wan et.al.|[2503.14294v1](http://arxiv.org/abs/2503.14294v1)|null|
+|**2025-03-18**|**CINNAMON: A hybrid approach to change point detection and parameter estimation in single-particle tracking data**|Jakub Malinowski et.al.|[2503.14253v1](http://arxiv.org/abs/2503.14253v1)|null|
+|**2025-03-18**|**Fluid mechanics of sarcomeres as porous media**|John Severn et.al.|[2503.14202v1](http://arxiv.org/abs/2503.14202v1)|null|
+|**2025-03-18**|**In situ vs ex situ: Comparing the structure of PNIPAM microgels at the air/water and air/solid interfaces**|Hayden Robertson et.al.|[2503.14181v1](http://arxiv.org/abs/2503.14181v1)|null|
+|**2025-03-18**|**Capillary-driven thinning of DNA solutions**|Vincenzo Calabrese et.al.|[2503.14145v1](http://arxiv.org/abs/2503.14145v1)|null|
+|**2025-03-18**|**Enhancing Swelling Kinetics of pNIPAM Lyogels: The Role of Crosslinking, Copolymerization, and Solvent**|Kathrin Marina Eckert et.al.|[2503.14134v1](http://arxiv.org/abs/2503.14134v1)|null|
+|**2025-03-18**|**Machine Learning-Integrated Modeling of Thermal Properties and Relaxation Dynamics in Metallic Glasses**|Ngo T. Que et.al.|[2503.14092v1](http://arxiv.org/abs/2503.14092v1)|null|
+|**2025-03-18**|**ARPES studies of Hf(0001) surface: flat bands formation in the dice lattice**|Laxman Nagireddy et.al.|[2503.14050v1](http://arxiv.org/abs/2503.14050v1)|null|
+|**2025-03-18**|**Dynamical Classification of Supercooled Liquids: Critical Cooling Rates and Entropic Signatures**|B Zhang et.al.|[2503.13960v1](http://arxiv.org/abs/2503.13960v1)|null|
+|**2025-03-18**|**Time-domain identification of distinct mechanisms for competing charge density waves in a rare-earth tritelluride**|Yifan Su et.al.|[2503.13936v1](http://arxiv.org/abs/2503.13936v1)|null|
+|**2025-03-18**|**Spontaneous Partial Order Driven by Intermolecular Interactions -- Structure and Dynamics of Ice**|Tianran Chen et.al.|[2503.13897v1](http://arxiv.org/abs/2503.13897v1)|null|
+|**2025-03-18**|**Unveiling the Quadrupole Waves in Spin Nematics**|Jieming Sheng et.al.|[2503.13888v1](http://arxiv.org/abs/2503.13888v1)|null|
+|**2025-03-18**|**Advances and challenges of SCAN and r2SCAN density functionals in transition-metal compounds**|Yubo Zhang et.al.|[2503.13852v1](http://arxiv.org/abs/2503.13852v1)|null|
+|**2025-03-18**|**Carbonic anhydrase II simulated with a universal neural network potential**|Timothy T. Duignan et.al.|[2503.13789v1](http://arxiv.org/abs/2503.13789v1)|null|
 |**2025-03-17**|**Quantum crystal spin Hall effect in two-dimensional altermagnetic systems**|Pan-jun Feng et.al.|[2503.13397v1](http://arxiv.org/abs/2503.13397v1)|null|
 |**2025-03-17**|**Neuromorphic Computing with Microfluidic Memristors**|Nico C. X. Stuhlmüller et.al.|[2503.13386v1](http://arxiv.org/abs/2503.13386v1)|null|
 |**2025-03-17**|**3D morphology formation in a mixture of three differently averse components**|Emilio N. M. Cirillo et.al.|[2503.13338v1](http://arxiv.org/abs/2503.13338v1)|null|
@@ -8428,6 +8448,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Impact of Cooperativity on the Spatial and Temporal Evolution of the Light-induced Spin-State Switching of the Fe(phen) $_2$(SCN)$_2$ Spin-Crossover Complex**|Chetana Badala Viswanatha et.al.|[2503.13918v1](http://arxiv.org/abs/2503.13918v1)|null|
 |**2025-03-16**|**Light-induced quantum friction of carbon nanotubes in water**|Tanuja Kistwal et.al.|[2503.12580v1](http://arxiv.org/abs/2503.12580v1)|null|
 |**2025-03-15**|**Photostriction Facilitates Relaxation of Lattice Distortion in Two-Dimensional Perovskites**|Jin Zhang et.al.|[2503.12119v1](http://arxiv.org/abs/2503.12119v1)|null|
 |**2025-03-14**|**First principles prediction of wavelength-dependent isomerization quantum yields of a second-generation molecular nanomotor**|Jesús Lucia-Tamudo et.al.|[2503.11045v1](http://arxiv.org/abs/2503.11045v1)|null|
@@ -9119,6 +9140,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Competing Quantum Orders in 6R-TaS $_2$ : Unconventional Superconductivity, Charge Order, and an Anomalous Hall Effect phase**|V. Sazgari et.al.|[2503.13944v1](http://arxiv.org/abs/2503.13944v1)|null|
+|**2025-03-17**|**Quantized Magneto-Terahertz Effects in the Antiferromagnetic Topological Insulator MnBi $_2$Te$_4$ Thin Films**|Xingyue Han et.al.|[2503.13651v1](http://arxiv.org/abs/2503.13651v1)|null|
 |**2025-03-17**|**Enhanced anomalous Hall effect in the topological Kagome metal Cs(V $_{1-x}$Mn$_x$)$_3$Sb$_5$**|Xinmin Wang et.al.|[2503.13351v1](http://arxiv.org/abs/2503.13351v1)|null|
 |**2025-03-16**|**Diverse Magnetic Phase Diagram and Anomalous Hall Effect in Antiferromagetic LuMn $_6$Sn$_6$**|Shirin Mozaffari et.al.|[2503.12359v1](http://arxiv.org/abs/2503.12359v1)|null|
 |**2025-03-14**|**Stark difference in the in-plane anomalous Hall response in Zintl compounds EuA2Sb2 (A = Zn, Cd) thin films**|Hsiang Lee et.al.|[2503.11087v1](http://arxiv.org/abs/2503.11087v1)|null|
@@ -9570,6 +9593,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Unveiling the Quadrupole Waves in Spin Nematics**|Jieming Sheng et.al.|[2503.13888v1](http://arxiv.org/abs/2503.13888v1)|null|
+|**2025-03-18**|**Dynamics and stability of U(1) spin liquids beyond mean-field theory**|Josef Willsher et.al.|[2503.13831v1](http://arxiv.org/abs/2503.13831v1)|null|
 |**2025-03-17**|**Chiral magnon splitting in altermagnetic CrSb from first principles**|Yi-Fan Zhang et.al.|[2503.12920v1](http://arxiv.org/abs/2503.12920v1)|null|
 |**2025-03-17**|**Abundance of spin liquids in the $S=1$ bilinear-biquadratic model on the pyrochlore lattice, and its application to $\mathrm{NaCaNi}_2\mathrm{F}_7$**|Rico Pohle et.al.|[2503.12776v1](http://arxiv.org/abs/2503.12776v1)|null|
 |**2025-03-14**|**Altermagnetic splitting of magnons in hematite ( $α$-Fe$_2$O$_3$ )**|Rhea Hoyer et.al.|[2503.11623v1](http://arxiv.org/abs/2503.11623v1)|null|
