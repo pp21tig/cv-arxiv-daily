@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Active wetting transitions induced by rotational noise at solid interfaces**|Suchismita Das et.al.|[2503.15476v1](http://arxiv.org/abs/2503.15476v1)|null|
+|**2025-03-19**|**Self-aligned pillar arrays embedding site-controlled single quantum dots for enhanced non-classical light emission**|Gediminas Juska et.al.|[2503.15458v1](http://arxiv.org/abs/2503.15458v1)|null|
+|**2025-03-19**|**Mechanism of Shape Symmetry Breaking in Surfactant Mediated Crystal Growth**|Sam Oaks-Leaf et.al.|[2503.15419v1](http://arxiv.org/abs/2503.15419v1)|null|
+|**2025-03-19**|**Separation of variables for higher rank integrable models: review of recent progress**|Fedor Levkovich-Maslyuk et.al.|[2503.15398v1](http://arxiv.org/abs/2503.15398v1)|null|
+|**2025-03-19**|**Engineering interaction potentials for stabilizing quantum quasicrystal phases**|Matheus Grossklags et.al.|[2503.15359v1](http://arxiv.org/abs/2503.15359v1)|null|
+|**2025-03-19**|**Charging dynamics of electric double layer capacitors including beyond-mean-field electrostatic correlations**|David Fertig et.al.|[2503.15171v1](http://arxiv.org/abs/2503.15171v1)|null|
+|**2025-03-19**|**Continuous-time random walk model for the diffusive motion of helicases**|V. Rodriguez-Franco et.al.|[2503.15064v1](http://arxiv.org/abs/2503.15064v1)|null|
+|**2025-03-19**|**Ideal Weyl fermions and double Kagome bands in a series of distorted armchair-type all- $\emph{sp}^{2}$ carbon networks**|Yun-Yun Bai et.al.|[2503.14993v1](http://arxiv.org/abs/2503.14993v1)|null|
+|**2025-03-19**|**Intumescent Polymer-Particle Hydrogels Expand the Retardancy Window for Wildfire Defense**|Changxin Dong et.al.|[2503.14923v1](http://arxiv.org/abs/2503.14923v1)|null|
+|**2025-03-19**|**Evolving transport properties of dynamic hydrogels enable self-tuning of short- and long-term cargo delivery**|Samya Sen et.al.|[2503.14915v1](http://arxiv.org/abs/2503.14915v1)|null|
+|**2025-03-19**|**On the planar impact of a disc and a square particle considering the impact angle and particle orientation**|Dominik Krengel et.al.|[2503.14822v1](http://arxiv.org/abs/2503.14822v1)|null|
+|**2025-03-19**|**Elasticity of a Freely Jointed Chain with Quenched Disorder**|Minsu Yi et.al.|[2503.14817v1](http://arxiv.org/abs/2503.14817v1)|null|
+|**2025-03-18**|**Perfectly harmonic spin cycloid and multi- $Q$ textures in the Weyl semimetal GdAlSi**|Ryota Nakano et.al.|[2503.14768v1](http://arxiv.org/abs/2503.14768v1)|null|
+|**2025-03-18**|**Costs and benefits of phytoplankton motility**|Peyman Fahimi et.al.|[2503.14625v1](http://arxiv.org/abs/2503.14625v1)|null|
+|**2025-03-18**|**Interacting non-Hermitian edge and cluster bursts on a digital quantum processor**|Jin Ming Koh et.al.|[2503.14595v1](http://arxiv.org/abs/2503.14595v1)|null|
+|**2025-03-18**|**Optimal and efficient qubit routing for quantum simulation**|Joris Kattemölle et.al.|[2503.14592v1](http://arxiv.org/abs/2503.14592v1)|null|
 |**2025-03-18**|**Inescapable anisotropy of non-reciprocal XY models**|Dawid Dopierala et.al.|[2503.14466v1](http://arxiv.org/abs/2503.14466v1)|null|
 |**2025-03-18**|**Local formation of knotted screw dislocations in smectic liquid crystals**|Robert Cardona et.al.|[2503.14415v1](http://arxiv.org/abs/2503.14415v1)|null|
 |**2025-03-18**|**Universal scaling in one-dimensional non-reciprocal matter**|Shuoguang Liu et.al.|[2503.14384v1](http://arxiv.org/abs/2503.14384v1)|null|
@@ -8452,6 +8468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**Robust strong-field theory model for ultrafast electron transport through metal-insulator-metal tunneling nanojunctions**|Boyang Ma et.al.|[2503.14531v1](http://arxiv.org/abs/2503.14531v1)|null|
 |**2025-03-18**|**Impact of Cooperativity on the Spatial and Temporal Evolution of the Light-induced Spin-State Switching of the Fe(phen) $_2$(SCN)$_2$ Spin-Crossover Complex**|Chetana Badala Viswanatha et.al.|[2503.13918v1](http://arxiv.org/abs/2503.13918v1)|null|
 |**2025-03-16**|**Light-induced quantum friction of carbon nanotubes in water**|Tanuja Kistwal et.al.|[2503.12580v1](http://arxiv.org/abs/2503.12580v1)|null|
 |**2025-03-15**|**Photostriction Facilitates Relaxation of Lattice Distortion in Two-Dimensional Perovskites**|Jin Zhang et.al.|[2503.12119v1](http://arxiv.org/abs/2503.12119v1)|null|
@@ -9144,6 +9161,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
 |**2025-03-18**|**Competing Quantum Orders in 6R-TaS $_2$ : Unconventional Superconductivity, Charge Order, and an Anomalous Hall Effect phase**|V. Sazgari et.al.|[2503.13944v1](http://arxiv.org/abs/2503.13944v1)|null|
 |**2025-03-19**|**Quantized Magneto-Terahertz Effects in the Antiferromagnetic Topological Insulator MnBi $_2$Te$_4$ Thin Films**|Xingyue Han et.al.|[2503.13651v2](http://arxiv.org/abs/2503.13651v2)|null|
 |**2025-03-17**|**Enhanced anomalous Hall effect in the topological Kagome metal Cs(V $_{1-x}$Mn$_x$)$_3$Sb$_5$**|Xinmin Wang et.al.|[2503.13351v1](http://arxiv.org/abs/2503.13351v1)|null|
