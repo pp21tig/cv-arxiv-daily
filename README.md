@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Anatomy of torques from orbital Rashba textures: the case of Co/Al interfaces**|A. Pezo et.al.|[2503.16319v1](http://arxiv.org/abs/2503.16319v1)|null|
+|**2025-03-20**|**Anomalous Chiral Anomaly in Spin-1 Fermionic Systems**|Shantonu Mukherjee et.al.|[2503.16241v1](http://arxiv.org/abs/2503.16241v1)|null|
+|**2025-03-20**|**Dynamics of the vortex line density in superfluids under thermal activation**|Sergey Nemirovskii et.al.|[2503.16190v1](http://arxiv.org/abs/2503.16190v1)|null|
+|**2025-03-20**|**Exciton Binding Energies in 2D Materials: Insights from Braneworld Physics**|Antoine Honet et.al.|[2503.16174v1](http://arxiv.org/abs/2503.16174v1)|null|
+|**2025-03-20**|**Exploring nonlinear ion dynamics in polymer electrolytes from the perspective of hopping models**|Alina Wettstein et.al.|[2503.16136v1](http://arxiv.org/abs/2503.16136v1)|null|
+|**2025-03-20**|**Elastic displacements and viscous hydrodynamic flows in wedge-shaped geometries featuring a straight edge: Green's functions for forces oriented parallel to the edge**|Abdallah Daddi-Moussa-Ider et.al.|[2503.16116v1](http://arxiv.org/abs/2503.16116v1)|null|
+|**2025-03-20**|**Event Soliton Formation in Mixed Energy-Momentum Gaps of Nonlinear Spacetime Crystals**|Liang Zhang et.al.|[2503.16113v1](http://arxiv.org/abs/2503.16113v1)|null|
+|**2025-03-20**|**Exact Fluctuating Hydrodynamics of the Scaled Light-Heavy Model**|Shilpa Prakash et.al.|[2503.16103v1](http://arxiv.org/abs/2503.16103v1)|null|
+|**2025-03-20**|**Hydrodynamic Interactions in Particle Suspensions: A Perspective on Stokesian Dynamics**|Kim William Torre et.al.|[2503.16083v1](http://arxiv.org/abs/2503.16083v1)|null|
+|**2025-03-20**|**Simultaneous active and diffusive behaviour of asymmetric microclusters in a photophoretic trap**|Anita Pahi et.al.|[2503.16059v1](http://arxiv.org/abs/2503.16059v1)|null|
+|**2025-03-20**|**Negative specific heats: where Clausius and Boltzmann entropies separate**|Lander Bogers et.al.|[2503.15999v1](http://arxiv.org/abs/2503.15999v1)|null|
+|**2025-03-20**|**Normal and inverse magnetocaloric effects in structurally disordered Laves phase Y $_{1-x}$Gd$_{x}$Co$_{2}$ (0 $\leq$ x $\leq$ 1) compounds**|Natalia Pierunek et.al.|[2503.15912v1](http://arxiv.org/abs/2503.15912v1)|null|
+|**2025-03-20**|**Beam Spliter and Localization Induced by Controlled Perturbations after Time Boundary**|Jing Wang et.al.|[2503.15869v1](http://arxiv.org/abs/2503.15869v1)|null|
+|**2025-03-20**|**Collecting Particles in Confined Spaces by Active Filamentous Matter**|R. Sinaasappel et.al.|[2503.15755v1](http://arxiv.org/abs/2503.15755v1)|null|
+|**2025-03-19**|**Transient Chirality in the Gelation of Adhesive Spinner Monolayers**|Yujie Jiang et.al.|[2503.15744v1](http://arxiv.org/abs/2503.15744v1)|null|
+|**2025-03-19**|**Interfacial Cavitation with Surface Tension: New Insights into Failure of Particle Reinforced Polymers**|Xuanhe Li et.al.|[2503.15631v1](http://arxiv.org/abs/2503.15631v1)|null|
+|**2025-03-19**|**A quantum monomer-dimer model on Penrose tilings**|Jeet Shah et.al.|[2503.15588v1](http://arxiv.org/abs/2503.15588v1)|null|
 |**2025-03-19**|**Active wetting transitions induced by rotational noise at solid interfaces**|Suchismita Das et.al.|[2503.15476v1](http://arxiv.org/abs/2503.15476v1)|null|
 |**2025-03-19**|**Self-aligned pillar arrays embedding site-controlled single quantum dots for enhanced non-classical light emission**|Gediminas Juska et.al.|[2503.15458v1](http://arxiv.org/abs/2503.15458v1)|null|
 |**2025-03-19**|**Mechanism of Shape Symmetry Breaking in Surfactant Mediated Crystal Growth**|Sam Oaks-Leaf et.al.|[2503.15419v1](http://arxiv.org/abs/2503.15419v1)|null|
@@ -8884,6 +8901,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Diode and selective routing functionalities controlled by geometry in current-induced spin-orbit torque driven magnetic domain wall devices**|Elena M. Stetco et.al.|[2503.15873v1](http://arxiv.org/abs/2503.15873v1)|null|
 |**2025-03-15**|**Spin orientation by electric current in altermagnets**|L. E. Golub et.al.|[2503.12203v1](http://arxiv.org/abs/2503.12203v1)|null|
 |**2025-03-14**|**Electrical Spin-Flip Current Switching in Layered Diluted Magnetic Semiconductors for Ultralow-Power Spintronics**|Lan-Anh T. Nguyen et.al.|[2503.11193v1](http://arxiv.org/abs/2503.11193v1)|null|
 |**2025-03-13**|**Current-linear emergent induction of pinned skyrmion textures in an oxide bilayer**|Ludwig Scheuchenpflug et.al.|[2503.10600v1](http://arxiv.org/abs/2503.10600v1)|null|
@@ -9157,6 +9175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Kinetomagnetism and Altermagnetism**|Sang-Wook Cheong et.al.|[2503.16277v1](http://arxiv.org/abs/2503.16277v1)|null|
 |**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
 |**2025-03-18**|**Competing Quantum Orders in 6R-TaS $_2$ : Unconventional Superconductivity, Charge Order, and an Anomalous Hall Effect phase**|V. Sazgari et.al.|[2503.13944v1](http://arxiv.org/abs/2503.13944v1)|null|
 |**2025-03-19**|**Quantized Magneto-Terahertz Effects in the Antiferromagnetic Topological Insulator MnBi $_2$Te$_4$ Thin Films**|Xingyue Han et.al.|[2503.13651v2](http://arxiv.org/abs/2503.13651v2)|null|
