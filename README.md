@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**The Energy Barrier of Precritical Nuclei in Hard Spheres is Consistent with Predictions**|Lars Kürten et.al.|[2503.17270v1](http://arxiv.org/abs/2503.17270v1)|null|
+|**2025-03-21**|**Controlled Floquet Dynamics and Topological Bound States in Continuum via Colored Quantum Random Walks**|Zahra Jalali-Mola et.al.|[2503.17263v1](http://arxiv.org/abs/2503.17263v1)|null|
+|**2025-03-21**|**Colloidal Pivots Enable Brownian Metamaterials and Machines**|Julio Melio et.al.|[2503.17196v1](http://arxiv.org/abs/2503.17196v1)|null|
+|**2025-03-21**|**Quantum geometric tensors from sub-bundle geometry**|Marius A. Oancea et.al.|[2503.17163v1](http://arxiv.org/abs/2503.17163v1)|null|
+|**2025-03-21**|**The inconvenient truth about flocks**|Ananyo Maitra et.al.|[2503.17064v1](http://arxiv.org/abs/2503.17064v1)|null|
+|**2025-03-21**|**Wall torque controls curvature-driven propulsion in bacterial baths**|Nicola Pellicciotta et.al.|[2503.17021v1](http://arxiv.org/abs/2503.17021v1)|null|
+|**2025-03-21**|**Fluctuations of local plastic strain in granular media**|I. Awada et.al.|[2503.17010v1](http://arxiv.org/abs/2503.17010v1)|null|
+|**2025-03-21**|**Thermodynamically consistent lattice Monte Carlo method for active particles**|Ki-Won Kim et.al.|[2503.16958v1](http://arxiv.org/abs/2503.16958v1)|null|
+|**2025-03-21**|**A nonlinear model of shearable elastic rod from an origami-like microstructure displaying folding and faulting**|M. Paradiso et.al.|[2503.16887v1](http://arxiv.org/abs/2503.16887v1)|null|
+|**2025-03-21**|**Opening and closing a bandgap via alternating softening and hardening nonlinearities**|Weijian Jiao et.al.|[2503.16802v1](http://arxiv.org/abs/2503.16802v1)|null|
+|**2025-03-20**|**Perturbing finite temperature multicomponent DFT 1D Kohn-Sham systems: Peierls Gap & Kohn Anomaly**|Adrian D. Scheppe et.al.|[2503.16705v1](http://arxiv.org/abs/2503.16705v1)|null|
+|**2025-03-20**|**Sub-singularities for shaping thin sheets**|Thomas A. Witten et.al.|[2503.16701v1](http://arxiv.org/abs/2503.16701v1)|null|
 |**2025-03-20**|**Anatomy of torques from orbital Rashba textures: the case of Co/Al interfaces**|A. Pezo et.al.|[2503.16319v1](http://arxiv.org/abs/2503.16319v1)|null|
 |**2025-03-20**|**Anomalous Chiral Anomaly in Spin-1 Fermionic Systems**|Shantonu Mukherjee et.al.|[2503.16241v1](http://arxiv.org/abs/2503.16241v1)|null|
 |**2025-03-20**|**Dynamics of the vortex line density in superfluids under thermal activation**|Sergey Nemirovskii et.al.|[2503.16190v1](http://arxiv.org/abs/2503.16190v1)|null|
@@ -8481,6 +8493,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Light-induced persistent electronic chirality in achiral molecules probed with transient absorption circular dichroism spectroscopy**|Torsha Moitra et.al.|[2503.16986v1](http://arxiv.org/abs/2503.16986v1)|null|
+|**2025-03-21**|**Photoinduced phase transitions and lattice deformation in 2D NbOX $_{2}$ (X=Cl, Br, I)**|Carmel Dansou et.al.|[2503.16787v1](http://arxiv.org/abs/2503.16787v1)|null|
+|**2025-03-21**|**Unraveling phase transformation with phononic hyperbolicity using off-resonant terahertz light**|H. Cui et.al.|[2503.16762v1](http://arxiv.org/abs/2503.16762v1)|null|
 |**2025-03-16**|**Robust strong-field theory model for ultrafast electron transport through metal-insulator-metal tunneling nanojunctions**|Boyang Ma et.al.|[2503.14531v1](http://arxiv.org/abs/2503.14531v1)|null|
 |**2025-03-18**|**Impact of Cooperativity on the Spatial and Temporal Evolution of the Light-induced Spin-State Switching of the Fe(phen) $_2$(SCN)$_2$ Spin-Crossover Complex**|Chetana Badala Viswanatha et.al.|[2503.13918v1](http://arxiv.org/abs/2503.13918v1)|null|
 |**2025-03-16**|**Light-induced quantum friction of carbon nanotubes in water**|Tanuja Kistwal et.al.|[2503.12580v1](http://arxiv.org/abs/2503.12580v1)|null|
@@ -8901,6 +8916,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Current-induced Zero Resistance in Trigonal Fulde-Ferrell Superconductors**|Akito Daido et.al.|[2503.16923v1](http://arxiv.org/abs/2503.16923v1)|null|
 |**2025-03-20**|**Diode and selective routing functionalities controlled by geometry in current-induced spin-orbit torque driven magnetic domain wall devices**|Elena M. Stetco et.al.|[2503.15873v1](http://arxiv.org/abs/2503.15873v1)|null|
 |**2025-03-15**|**Spin orientation by electric current in altermagnets**|L. E. Golub et.al.|[2503.12203v1](http://arxiv.org/abs/2503.12203v1)|null|
 |**2025-03-14**|**Electrical Spin-Flip Current Switching in Layered Diluted Magnetic Semiconductors for Ultralow-Power Spintronics**|Lan-Anh T. Nguyen et.al.|[2503.11193v1](http://arxiv.org/abs/2503.11193v1)|null|
@@ -9175,6 +9191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Strain-tunable anomalous Hall plateau in antiferromagnet CoNb $_3$S$_6$**|Long Chen et.al.|[2503.16643v1](http://arxiv.org/abs/2503.16643v1)|null|
 |**2025-03-20**|**Kinetomagnetism and Altermagnetism**|Sang-Wook Cheong et.al.|[2503.16277v1](http://arxiv.org/abs/2503.16277v1)|null|
 |**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
 |**2025-03-18**|**Competing Quantum Orders in 6R-TaS $_2$ : Unconventional Superconductivity, Charge Order, and an Anomalous Hall Effect phase**|V. Sazgari et.al.|[2503.13944v1](http://arxiv.org/abs/2503.13944v1)|null|
