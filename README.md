@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939v1](http://arxiv.org/abs/2503.18939v1)|null|
+|**2025-03-24**|**On the temperature, pressure and composition effects in the properties of water-methanol mixtures. I. Density, excess mixing volume and enthalpy, and self-diffusion coefficients from molecular dynamics simulations**|M. Cruz Sanchez et.al.|[2503.18901v1](http://arxiv.org/abs/2503.18901v1)|null|
+|**2025-03-24**|**Scaling properties of diblock copolymers: dynamic simulations study**|K. Haydukivska et.al.|[2503.18881v1](http://arxiv.org/abs/2503.18881v1)|null|
+|**2025-03-24**|**Dome-like pressure-temperature phase diagram of the cooperative Jahn--Teller distortion in NaNiO $_2$**|Liam A. V. Nagle-Cocco et.al.|[2503.18833v1](http://arxiv.org/abs/2503.18833v1)|null|
+|**2025-03-24**|**Adhesion differentials control the rheology of biomimetic emulsions**|Quentin Guigue et.al.|[2503.18782v1](http://arxiv.org/abs/2503.18782v1)|null|
+|**2025-03-24**|**Capillary force-driven particle orientation in rod networks**|Lingyue Liu et.al.|[2503.18744v1](http://arxiv.org/abs/2503.18744v1)|null|
+|**2025-03-24**|**Accurate Formula for the Effective Conductivity of Highly Clustered Two-Phase Materials**|Murray Skolnick et.al.|[2503.18715v1](http://arxiv.org/abs/2503.18715v1)|null|
+|**2025-03-24**|**Parametric instability of ultracold Bose gases with long-range interaction and quantum fluctuations trapped in optical lattices**|Etienne Wamba et.al.|[2503.18576v1](http://arxiv.org/abs/2503.18576v1)|null|
+|**2025-03-24**|**Influence of Aspect Ratio and Deformation on the Isotropic-Nematic Crossover in Quasi-One-Dimensional Hard Superellipses**|Sakineh Mizani et.al.|[2503.18534v1](http://arxiv.org/abs/2503.18534v1)|null|
+|**2025-03-24**|**Breakdown of the Stokes-Einstein relation in Stillinger-Weber Silicon**|Himani Rautela et.al.|[2503.18498v1](http://arxiv.org/abs/2503.18498v1)|null|
+|**2025-03-24**|**Rietveld Refinement and NMR Crystallographic Investigations of Multicomponent Crystals Containing Alkali Metal Chlorides and Urea**|Cameron S. Vojvodin et.al.|[2503.18475v1](http://arxiv.org/abs/2503.18475v1)|null|
+|**2025-03-24**|**Uncovering the underlying mechanisms of phase transitions in chiral active particles**|Dongrun Jian et.al.|[2503.18388v1](http://arxiv.org/abs/2503.18388v1)|null|
+|**2025-03-24**|**A Promising Method for Strongly Correlated Electrons in Two Dimensions: Gutzwiller-Guided Density Matrix Renormalization Group**|Hui-Ke Jin et.al.|[2503.18374v1](http://arxiv.org/abs/2503.18374v1)|null|
+|**2025-03-23**|**Critical role of the motor density and distribution on polar active polymers**|Surabhi Jaiswal et.al.|[2503.18099v1](http://arxiv.org/abs/2503.18099v1)|null|
+|**2025-03-23**|**Pseudo-giant number fluctuations and nematic order in microswimmer suspensions**|Ismail El Korde et.al.|[2503.18068v1](http://arxiv.org/abs/2503.18068v1)|null|
+|**2025-03-23**|**Unravel the rotational and translational behavior of a single squirmer in flexible polymer solutions at different Reynolds numbers**|Yuan Zhou et.al.|[2503.17989v1](http://arxiv.org/abs/2503.17989v1)|null|
+|**2025-03-23**|**Hybridization of colloidal handlebodies with singular defects and topological solitons in chiral liquid crystals**|Jun-Yong Lee et.al.|[2503.17942v1](http://arxiv.org/abs/2503.17942v1)|null|
+|**2025-03-22**|**Enhanced Crystallization and Evaporation Retardation in Mixed Surfactant Systems at the Air-Water Interface: A Study on Chain Length Compatibility and Molecular Ratio**|Kulsuma Begum et.al.|[2503.17787v1](http://arxiv.org/abs/2503.17787v1)|null|
+|**2025-03-22**|**Flocking Beyond One Species: Novel Phase Coexistence in a Generalized Two-Species Vicsek Model**|Eloise Lardet et.al.|[2503.17617v1](http://arxiv.org/abs/2503.17617v1)|null|
+|**2025-03-21**|**Lanczos-Pascal approach to correlation functions in chaotic quantum systems**|Merlin Füllgraf et.al.|[2503.17555v1](http://arxiv.org/abs/2503.17555v1)|null|
 |**2025-03-24**|**The Energy Barrier of Precritical Nuclei in Hard Spheres is Consistent with Predictions**|Lars Kürten et.al.|[2503.17270v2](http://arxiv.org/abs/2503.17270v2)|null|
 |**2025-03-21**|**Controlled Floquet Dynamics and Topological Bound States in Continuum via Colored Quantum Random Walks**|Zahra Jalali-Mola et.al.|[2503.17263v1](http://arxiv.org/abs/2503.17263v1)|null|
 |**2025-03-21**|**Colloidal Pivots Enable Brownian Metamaterials and Machines**|Julio Melio et.al.|[2503.17196v1](http://arxiv.org/abs/2503.17196v1)|null|
@@ -8493,6 +8513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-23**|**Comparison of near-field light intensities: plasmon nanofocusing vs localized plasmon resonance**|Tongyao Li et.al.|[2503.17960v1](http://arxiv.org/abs/2503.17960v1)|null|
 |**2025-03-21**|**Light-induced persistent electronic chirality in achiral molecules probed with transient absorption circular dichroism spectroscopy**|Torsha Moitra et.al.|[2503.16986v1](http://arxiv.org/abs/2503.16986v1)|null|
 |**2025-03-21**|**Photoinduced phase transitions and lattice deformation in 2D NbOX $_{2}$ (X=Cl, Br, I)**|Carmel Dansou et.al.|[2503.16787v1](http://arxiv.org/abs/2503.16787v1)|null|
 |**2025-03-21**|**Unraveling phase transformation with phononic hyperbolicity using off-resonant terahertz light**|H. Cui et.al.|[2503.16762v1](http://arxiv.org/abs/2503.16762v1)|null|
@@ -9647,12 +9668,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Emergent ferromagnetic ladder excitations in heavy fermion superconductor CeSb $_{2}$**|Zhaoyang Shan et.al.|[2503.18439v1](http://arxiv.org/abs/2503.18439v1)|null|
 |**2025-03-18**|**Unveiling the Quadrupole Waves in Spin Nematics**|Jieming Sheng et.al.|[2503.13888v1](http://arxiv.org/abs/2503.13888v1)|null|
 |**2025-03-18**|**Dynamics and stability of U(1) spin liquids beyond mean-field theory**|Josef Willsher et.al.|[2503.13831v1](http://arxiv.org/abs/2503.13831v1)|null|
 |**2025-03-17**|**Chiral magnon splitting in altermagnetic CrSb from first principles**|Yi-Fan Zhang et.al.|[2503.12920v1](http://arxiv.org/abs/2503.12920v1)|null|
 |**2025-03-17**|**Abundance of spin liquids in the $S=1$ bilinear-biquadratic model on the pyrochlore lattice, and its application to $\mathrm{NaCaNi}_2\mathrm{F}_7$**|Rico Pohle et.al.|[2503.12776v1](http://arxiv.org/abs/2503.12776v1)|null|
 |**2025-03-20**|**Altermagnetic splitting of magnons in hematite ( $α$-Fe$_2$O$_3$ )**|Rhea Hoyer et.al.|[2503.11623v2](http://arxiv.org/abs/2503.11623v2)|null|
-|**2025-03-12**|**Crystal field splittings and magnetic ground state of the Jeff = 1/2 square lattice antiferromagnets YbBi2ClO4 and YbBi2IO4**|Pyeongjae Park et.al.|[2503.09739v1](http://arxiv.org/abs/2503.09739v1)|null|
+|**2025-03-24**|**Crystal field splittings and magnetic ground state of the square-lattice antiferromagnets YbBi2ClO4 and YbBi2IO4 with Jeff = 1/2**|Pyeongjae Park et.al.|[2503.09739v2](http://arxiv.org/abs/2503.09739v2)|null|
 |**2025-03-07**|**Electronic Structure, Magnetic and Pairing Tendencies of Alternating Single-layer Bilayer Stacking Nickelate La $_5$Ni$_3$O$_{11}$ Under Pressure**|Yang Zhang et.al.|[2503.05075v1](http://arxiv.org/abs/2503.05075v1)|null|
 |**2025-03-05**|**Revealing the electron-spin fluctuation coupling by photoemission in CaKFe4As4**|Peng Li et.al.|[2503.03473v1](http://arxiv.org/abs/2503.03473v1)|null|
 |**2025-03-05**|**Lattice dynamics of hexagonal ZnMgS**|Abdelmahjid Elmahjoubi et.al.|[2503.03381v1](http://arxiv.org/abs/2503.03381v1)|null|
