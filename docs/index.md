@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Emergence of distinct exact mobility edges in a quasiperiodic chain**|Sanchayan Banerjee et.al.|[2503.19834v1](http://arxiv.org/abs/2503.19834v1)|null|
+|**2025-03-25**|**TopoGEN: topology-driven microstructure generation for in silico modeling of fiber network mechanics**|Sara Cardona et.al.|[2503.19832v1](http://arxiv.org/abs/2503.19832v1)|null|
+|**2025-03-25**|**A collision model for very flexible Cosserat rods and immersed-boundary fluid-structure coupling**|Bastian Löhrer et.al.|[2503.19741v1](http://arxiv.org/abs/2503.19741v1)|null|
+|**2025-03-25**|**Excitability and travelling waves in renewable active matter**|Abhishek M et.al.|[2503.19687v1](http://arxiv.org/abs/2503.19687v1)|null|
+|**2025-03-25**|**Topological kicks enhance colloidal diffusivity in topological turbulence**|Timofey Kozhukhov et.al.|[2503.19664v1](http://arxiv.org/abs/2503.19664v1)|null|
+|**2025-03-25**|**Floquet control of topological phases and Hall effects in Z2 nodal line semimetals**|Pu Liu et.al.|[2503.19614v1](http://arxiv.org/abs/2503.19614v1)|null|
+|**2025-03-25**|**Axisymmetric thermoviscous and thermal expansion flows for microfluidics**|Weida Liao et.al.|[2503.19593v1](http://arxiv.org/abs/2503.19593v1)|null|
+|**2025-03-25**|**Perturbative aspects of the supersymmetric three-dimensional massive QED**|A. C. Lehum et.al.|[2503.19575v1](http://arxiv.org/abs/2503.19575v1)|null|
+|**2025-03-25**|**Rubber Wear: History, Mechanisms, and Perspectives**|R. Xu et.al.|[2503.19494v1](http://arxiv.org/abs/2503.19494v1)|null|
+|**2025-03-25**|**Towards a multi-dimensional picture of classical nucleation: The example of liquid condensation through theory and rare event sampling**|Yijian Wu et.al.|[2503.19473v1](http://arxiv.org/abs/2503.19473v1)|null|
+|**2025-03-25**|**Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks**|Ludovic Jami et.al.|[2503.19229v1](http://arxiv.org/abs/2503.19229v1)|null|
+|**2025-03-24**|**On the constitutive behavior of linear viscoelastic solids under the plane stress condition**|Bojan B. Guzina et.al.|[2503.19137v1](http://arxiv.org/abs/2503.19137v1)|null|
+|**2025-03-24**|**The crack pattern of indented cohesive granular media**|Marie-Julie Dalbe et.al.|[2503.19087v1](http://arxiv.org/abs/2503.19087v1)|null|
+|**2025-03-24**|**Effect of variable relative permittivity on the thermodynamics of asymmetric valency aqueous salts**|A. O. Quiñones et.al.|[2503.19047v1](http://arxiv.org/abs/2503.19047v1)|null|
 |**2025-03-24**|**Simulation of Fermionic circuits using Majorana Propagation**|Aaron Miller et.al.|[2503.18939v1](http://arxiv.org/abs/2503.18939v1)|null|
 |**2025-03-24**|**On the temperature, pressure and composition effects in the properties of water-methanol mixtures. I. Density, excess mixing volume and enthalpy, and self-diffusion coefficients from molecular dynamics simulations**|M. Cruz Sanchez et.al.|[2503.18901v1](http://arxiv.org/abs/2503.18901v1)|null|
 |**2025-03-24**|**Scaling properties of diblock copolymers: dynamic simulations study**|K. Haydukivska et.al.|[2503.18881v1](http://arxiv.org/abs/2503.18881v1)|null|
@@ -8517,6 +8531,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Ultrafast decoupling of polarization and strain in ferroelectric BaTiO $_3$**|Le Phuong Hoang et.al.|[2503.19808v1](http://arxiv.org/abs/2503.19808v1)|null|
+|**2025-03-25**|**Valley optoelectronics based on meta-waveguide photodetectors**|Chi Li et.al.|[2503.19565v1](http://arxiv.org/abs/2503.19565v1)|null|
 |**2025-03-23**|**Comparison of near-field light intensities: plasmon nanofocusing vs localized plasmon resonance**|Tongyao Li et.al.|[2503.17960v1](http://arxiv.org/abs/2503.17960v1)|null|
 |**2025-03-21**|**Light-induced persistent electronic chirality in achiral molecules probed with transient absorption circular dichroism spectroscopy**|Torsha Moitra et.al.|[2503.16986v1](http://arxiv.org/abs/2503.16986v1)|null|
 |**2025-03-21**|**Photoinduced phase transitions and lattice deformation in 2D NbOX $_{2}$ (X=Cl, Br, I)**|Carmel Dansou et.al.|[2503.16787v1](http://arxiv.org/abs/2503.16787v1)|null|
@@ -8941,6 +8957,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Vibrational Instabilities in Charge Transport through Molecular Nanojunctions: The Role of Nonconservative Current-Induced Electronic Forces**|Martin Mäck et.al.|[2503.19773v1](http://arxiv.org/abs/2503.19773v1)|null|
+|**2025-03-25**|**Bleaching of the Terahertz Magneto-Photogalvanic Effect in CdHgTe Crystals with Kane Fermions**|M. D. Moldavskaya et.al.|[2503.19583v1](http://arxiv.org/abs/2503.19583v1)|null|
 |**2025-03-21**|**Current-induced Zero Resistance in Trigonal Fulde-Ferrell Superconductors**|Akito Daido et.al.|[2503.16923v1](http://arxiv.org/abs/2503.16923v1)|null|
 |**2025-03-20**|**Diode and selective routing functionalities controlled by geometry in current-induced spin-orbit torque driven magnetic domain wall devices**|Elena M. Stetco et.al.|[2503.15873v1](http://arxiv.org/abs/2503.15873v1)|null|
 |**2025-03-15**|**Spin orientation by electric current in altermagnets**|L. E. Golub et.al.|[2503.12203v1](http://arxiv.org/abs/2503.12203v1)|null|
@@ -9216,6 +9234,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Floquet control of topological phases and Hall effects in Z2 nodal line semimetals**|Pu Liu et.al.|[2503.19614v1](http://arxiv.org/abs/2503.19614v1)|null|
+|**2025-03-25**|**Symmetry-Constrained Anomalous Transport in the Altermagnetic Material CuX $_2$ (X=F,Cl)**|Zhengxuan Wang et.al.|[2503.19234v1](http://arxiv.org/abs/2503.19234v1)|null|
 |**2025-03-20**|**Strain-tunable anomalous Hall plateau in antiferromagnet CoNb $_3$S$_6$**|Long Chen et.al.|[2503.16643v1](http://arxiv.org/abs/2503.16643v1)|null|
 |**2025-03-20**|**Kinetomagnetism and Altermagnetism**|Sang-Wook Cheong et.al.|[2503.16277v1](http://arxiv.org/abs/2503.16277v1)|null|
 |**2025-03-19**|**Electric-field-induced fully-compensated ferrimagnetism in experimentally synthesized monolayer MnSe**|Liguo Zhang et.al.|[2503.14834v1](http://arxiv.org/abs/2503.14834v1)|null|
@@ -9672,6 +9692,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Magnetic excitations in a trilayer antiferromagnetic Heisenberg model**|Lan-Ye He et.al.|[2503.19716v1](http://arxiv.org/abs/2503.19716v1)|null|
 |**2025-03-24**|**Emergent ferromagnetic ladder excitations in heavy fermion superconductor CeSb $_{2}$**|Zhaoyang Shan et.al.|[2503.18439v1](http://arxiv.org/abs/2503.18439v1)|null|
 |**2025-03-18**|**Unveiling the Quadrupole Waves in Spin Nematics**|Jieming Sheng et.al.|[2503.13888v1](http://arxiv.org/abs/2503.13888v1)|null|
 |**2025-03-18**|**Dynamics and stability of U(1) spin liquids beyond mean-field theory**|Josef Willsher et.al.|[2503.13831v1](http://arxiv.org/abs/2503.13831v1)|null|
