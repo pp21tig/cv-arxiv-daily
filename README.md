@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
+|**2025-03-26**|**Flow of a two-dimensional liquid foam: Impact of surfactant type and boundary conditions**|Farshad Nazari et.al.|[2503.20710v1](http://arxiv.org/abs/2503.20710v1)|null|
+|**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|null|
+|**2025-03-26**|**When invariants matter: The role of I1 and I2 in neural network models of incompressible hyperelasticity**|Franz Dammaß et.al.|[2503.20598v1](http://arxiv.org/abs/2503.20598v1)|null|
+|**2025-03-26**|**To detect strong nugget with an acoustic array**|Haoyang Qi et.al.|[2503.20597v1](http://arxiv.org/abs/2503.20597v1)|null|
+|**2025-03-26**|**Structured Random Binding: a minimal model of protein-protein interactions**|Ling-Nan Zou et.al.|[2503.20581v1](http://arxiv.org/abs/2503.20581v1)|null|
+|**2025-03-26**|**Experiments and modeling of mechanically-soft, hard magnetorheological foams with potential applications in haptic sensing**|Zehui Lin et.al.|[2503.20580v1](http://arxiv.org/abs/2503.20580v1)|null|
+|**2025-03-26**|**Multiparticle Collision Dynamics Simulations of the Flagellar Apparatus in Chlamydomonas reinhardtii**|Sai Venkata Ramana Ambadipudi et.al.|[2503.20553v1](http://arxiv.org/abs/2503.20553v1)|null|
+|**2025-03-26**|**Experimental Signatures for Identifying Distinct Origins of Color Field Generation**|Subramanya Bhat K. N. et.al.|[2503.20522v1](http://arxiv.org/abs/2503.20522v1)|null|
+|**2025-03-26**|**Load-dependent resistive-force theory for helical filaments**|Pyae Hein Htet et.al.|[2503.20520v1](http://arxiv.org/abs/2503.20520v1)|null|
+|**2025-03-26**|**Topological states in one-dimensional $\mathcal{P}\mathcal{T}$ -symmetric systems**|Vladimir Gasparian et.al.|[2503.20486v1](http://arxiv.org/abs/2503.20486v1)|null|
+|**2025-03-26**|**Cavity quantum electrodynamics with single perovskite quantum dots**|Zakaria Said et.al.|[2503.20411v1](http://arxiv.org/abs/2503.20411v1)|null|
+|**2025-03-26**|**Emergent properties and the multiscale characterization challenge in condensed matter, from crystals to complex materials: a Review**|Elisabetta Nocerino et.al.|[2503.20266v1](http://arxiv.org/abs/2503.20266v1)|null|
+|**2025-03-26**|**Active magneto gyrator as a tunable heat engine or heat pump**|F. Adersh et.al.|[2503.20128v1](http://arxiv.org/abs/2503.20128v1)|null|
+|**2025-03-25**|**Drops on architected elastic substrates: A repertoire of regimes at the turn of a knob**|Sergio Santos et.al.|[2503.20091v1](http://arxiv.org/abs/2503.20091v1)|null|
+|**2025-03-25**|**$π$ /4 phase shift in the angular magnetoresistance of infinite layer nickelates**|Yoav Mairovich et.al.|[2503.20070v1](http://arxiv.org/abs/2503.20070v1)|null|
+|**2025-03-25**|**Variational M-Partite Geometric Entanglement Algorithm**|Vahid Azimi-Mousolou et.al.|[2503.20056v1](http://arxiv.org/abs/2503.20056v1)|null|
+|**2025-03-25**|**Scaling laws for passive polymer dynamics in active turbulence**|Zahra K. Valei et.al.|[2503.19985v1](http://arxiv.org/abs/2503.19985v1)|null|
 |**2025-03-25**|**Emergence of distinct exact mobility edges in a quasiperiodic chain**|Sanchayan Banerjee et.al.|[2503.19834v1](http://arxiv.org/abs/2503.19834v1)|null|
 |**2025-03-25**|**TopoGEN: topology-driven microstructure generation for in silico modeling of fiber network mechanics**|Sara Cardona et.al.|[2503.19832v1](http://arxiv.org/abs/2503.19832v1)|null|
 |**2025-03-25**|**A collision model for very flexible Cosserat rods and immersed-boundary fluid-structure coupling**|Bastian Löhrer et.al.|[2503.19741v1](http://arxiv.org/abs/2503.19741v1)|null|
@@ -8953,6 +8971,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Controlling magnetic damping with spintronic thermal effects in Py/Fe3O4-PANI bilayers**|José Laurentino et.al.|[2503.20733v1](http://arxiv.org/abs/2503.20733v1)|null|
+|**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
 |**2025-03-25**|**Vibrational Instabilities in Charge Transport through Molecular Nanojunctions: The Role of Nonconservative Current-Induced Electronic Forces**|Martin Mäck et.al.|[2503.19773v1](http://arxiv.org/abs/2503.19773v1)|null|
 |**2025-03-25**|**Bleaching of the Terahertz Magneto-Photogalvanic Effect in CdHgTe Crystals with Kane Fermions**|M. D. Moldavskaya et.al.|[2503.19583v1](http://arxiv.org/abs/2503.19583v1)|null|
 |**2025-03-21**|**Current-induced Zero Resistance in Trigonal Fulde-Ferrell Superconductors**|Akito Daido et.al.|[2503.16923v1](http://arxiv.org/abs/2503.16923v1)|null|
@@ -9230,6 +9250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Large asymmetric anomalous Nernst effect in the antiferromagnet SrIr $_{0.8}$Sn$_{0.2}$O$_3$**|Dongliang Gong et.al.|[2503.20135v1](http://arxiv.org/abs/2503.20135v1)|null|
 |**2025-03-25**|**Floquet control of topological phases and Hall effects in Z2 nodal line semimetals**|Pu Liu et.al.|[2503.19614v1](http://arxiv.org/abs/2503.19614v1)|null|
 |**2025-03-25**|**Symmetry-Constrained Anomalous Transport in the Altermagnetic Material CuX $_2$ (X=F,Cl)**|Zhengxuan Wang et.al.|[2503.19234v1](http://arxiv.org/abs/2503.19234v1)|null|
 |**2025-03-20**|**Strain-tunable anomalous Hall plateau in antiferromagnet CoNb $_3$S$_6$**|Long Chen et.al.|[2503.16643v1](http://arxiv.org/abs/2503.16643v1)|null|
