@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Fracton and Non-Lorentzian Particle Duality: Gauge Field Couplings and Geometric Implications**|M. M. Ahmadi-Jahmani et.al.|[2503.21660v1](http://arxiv.org/abs/2503.21660v1)|null|
+|**2025-03-27**|**Odd Droplets: Fluids with Odd Viscosity and Highly Deformable Interfaces**|Hugo França et.al.|[2503.21649v1](http://arxiv.org/abs/2503.21649v1)|null|
+|**2025-03-27**|**Effects of non-equilibrium in ultrafast irradiation of matter**|Nikita Medvedev et.al.|[2503.21647v1](http://arxiv.org/abs/2503.21647v1)|null|
+|**2025-03-27**|**Dielectric permittivity of water confined in stacks of charged lipid layers: extracting profiles from molecular dynamics simulations using a modified Poisson-Boltzmann equation**|Ludovic Gardré et.al.|[2503.21593v1](http://arxiv.org/abs/2503.21593v1)|null|
+|**2025-03-27**|**The role of the effective mass in two-dimensional Dirac electric quantum dots**|Ş. Kuru et.al.|[2503.21398v1](http://arxiv.org/abs/2503.21398v1)|null|
+|**2025-03-27**|**Forces and symmetry breaking of a living meso-swimmer**|Rafael A. Lara et.al.|[2503.21396v1](http://arxiv.org/abs/2503.21396v1)|null|
+|**2025-03-27**|**Ultrafast Saddletronics**|Sangeeta Sharma et.al.|[2503.21376v1](http://arxiv.org/abs/2503.21376v1)|null|
+|**2025-03-27**|**Effects of Stirring Time on Formation of Microplastics Fragmented from Photo-aged Polypropylene**|Kazuya Haremaki et.al.|[2503.21373v1](http://arxiv.org/abs/2503.21373v1)|null|
+|**2025-03-27**|**Computer simulations of the bacterial ribosome using a general purpose coarse-grained model MARTINI**|Josef Cikhart et.al.|[2503.21357v1](http://arxiv.org/abs/2503.21357v1)|null|
+|**2025-03-27**|**Insight into magnetocaloric properties of Mn2Nb molecular magnet by relaxation calorimetry: A comprehensive case study**|Robert Pelka et.al.|[2503.21343v1](http://arxiv.org/abs/2503.21343v1)|null|
+|**2025-03-27**|**A theoretical framework for investigating the role of stiffness heterogeneity in structure and dynamics of flexible polymer**|Arvind Saini et.al.|[2503.21205v1](http://arxiv.org/abs/2503.21205v1)|null|
+|**2025-03-27**|**Topological Peierls instabilities in more than one dimension**|Santiago Palumbo et.al.|[2503.21063v1](http://arxiv.org/abs/2503.21063v1)|null|
+|**2025-03-26**|**Nonlocality-enabled inverse design of Dirac-type and higher-order degeneracies for traveling and evanescent waves in phononic crystals**|Sharat Paul et.al.|[2503.21020v1](http://arxiv.org/abs/2503.21020v1)|null|
+|**2025-03-26**|**A computational study of nematic core structure and disclination interactions in elastically anisotropic nematics**|Lucas Myers et.al.|[2503.20997v1](http://arxiv.org/abs/2503.20997v1)|null|
+|**2025-03-26**|**Active Hydrodynamic Theory of Euchromatin and Heterochromatin**|S. Alex Rautu et.al.|[2503.20964v1](http://arxiv.org/abs/2503.20964v1)|null|
+|**2025-03-26**|**A brief introduction to fluctuation theorems: from theory to experiments**|Thalyta T. Martins et.al.|[2503.20894v1](http://arxiv.org/abs/2503.20894v1)|null|
 |**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
 |**2025-03-26**|**Flow of a two-dimensional liquid foam: Impact of surfactant type and boundary conditions**|Farshad Nazari et.al.|[2503.20710v1](http://arxiv.org/abs/2503.20710v1)|null|
 |**2025-03-26**|**(Dis)continuous buckling transition in elastic shell mediated by contact**|Takara Abe et.al.|[2503.20670v1](http://arxiv.org/abs/2503.20670v1)|null|
@@ -8545,6 +8561,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
+|**2025-03-27**|**Anisotropic light-tailored RKKY interaction in two-dimensional $d$ -wave altermagnets**|Mohsen Yarmohammadi et.al.|[2503.21698v1](http://arxiv.org/abs/2503.21698v1)|null|
+|**2025-03-27**|**Illuminating Protein Dynamics: A Review of Computational Methods for Studying Photoactive Proteins**|Sylwia Czach et.al.|[2503.21418v1](http://arxiv.org/abs/2503.21418v1)|null|
+|**2025-03-27**|**Collective emission and selective-radiance in atomic clouds and arrays coupled to a microring resonator**|Deepak A. Suresh et.al.|[2503.21121v1](http://arxiv.org/abs/2503.21121v1)|null|
 |**2025-03-25**|**Ultrafast decoupling of polarization and strain in ferroelectric BaTiO $_3$**|Le Phuong Hoang et.al.|[2503.19808v1](http://arxiv.org/abs/2503.19808v1)|null|
 |**2025-03-25**|**Valley optoelectronics based on meta-waveguide photodetectors**|Chi Li et.al.|[2503.19565v1](http://arxiv.org/abs/2503.19565v1)|null|
 |**2025-03-23**|**Comparison of near-field light intensities: plasmon nanofocusing vs localized plasmon resonance**|Tongyao Li et.al.|[2503.17960v1](http://arxiv.org/abs/2503.17960v1)|null|
@@ -8971,6 +8991,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Emergent Non-Markovian Gain in Open Quantum Systems**|H. Z. Shen et.al.|[2503.21739v1](http://arxiv.org/abs/2503.21739v1)|null|
 |**2025-03-26**|**Controlling magnetic damping with spintronic thermal effects in Py/Fe3O4-PANI bilayers**|José Laurentino et.al.|[2503.20733v1](http://arxiv.org/abs/2503.20733v1)|null|
 |**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
 |**2025-03-25**|**Vibrational Instabilities in Charge Transport through Molecular Nanojunctions: The Role of Nonconservative Current-Induced Electronic Forces**|Martin Mäck et.al.|[2503.19773v1](http://arxiv.org/abs/2503.19773v1)|null|
@@ -9250,6 +9271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
 |**2025-03-26**|**Large asymmetric anomalous Nernst effect in the antiferromagnet SrIr $_{0.8}$Sn$_{0.2}$O$_3$**|Dongliang Gong et.al.|[2503.20135v1](http://arxiv.org/abs/2503.20135v1)|null|
 |**2025-03-27**|**Floquet control of topological phases and Hall effects in Z2 nodal line semimetals**|Pu Liu et.al.|[2503.19614v2](http://arxiv.org/abs/2503.19614v2)|null|
 |**2025-03-25**|**Symmetry-Constrained Anomalous Transport in the Altermagnetic Material CuX $_2$ (X=F,Cl)**|Zhengxuan Wang et.al.|[2503.19234v1](http://arxiv.org/abs/2503.19234v1)|null|
@@ -9709,6 +9731,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**BaCo $_2$(AsO$_4$)$_2$ : Strong Kitaev, After All**|Pavel A. Maksimov et.al.|[2503.20859v1](http://arxiv.org/abs/2503.20859v1)|null|
 |**2025-03-25**|**Magnetic excitations in a trilayer antiferromagnetic Heisenberg model**|Lan-Ye He et.al.|[2503.19716v1](http://arxiv.org/abs/2503.19716v1)|null|
 |**2025-03-24**|**Emergent ferromagnetic ladder excitations in heavy fermion superconductor CeSb $_{2}$**|Zhaoyang Shan et.al.|[2503.18439v1](http://arxiv.org/abs/2503.18439v1)|null|
 |**2025-03-18**|**Unveiling the Quadrupole Waves in Spin Nematics**|Jieming Sheng et.al.|[2503.13888v1](http://arxiv.org/abs/2503.13888v1)|null|
