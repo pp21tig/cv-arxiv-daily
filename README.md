@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Quantum algorithms for cooling: a simple case study**|Daniel Molpeceres et.al.|[2503.24330v1](http://arxiv.org/abs/2503.24330v1)|null|
+|**2025-03-31**|**Thermal transport in superconductor heterostructures: some recent progress**|Paramita Dutta et.al.|[2503.24327v1](http://arxiv.org/abs/2503.24327v1)|null|
+|**2025-03-31**|**Multiscale Insights of Domain Unfolding in Fibrin Mechanical Response**|Vivek Sharma et.al.|[2503.24315v1](http://arxiv.org/abs/2503.24315v1)|null|
+|**2025-03-31**|**Dynamical properties of particulate composites derived from ultradense stealthy hyperuniform sphere packings**|Carlo Vanoni et.al.|[2503.24297v1](http://arxiv.org/abs/2503.24297v1)|null|
+|**2025-03-31**|**Magnetic Confinement of a Bubble of Supercooled $^3$ He-A**|Luke Whitehead et.al.|[2503.24288v1](http://arxiv.org/abs/2503.24288v1)|null|
+|**2025-03-31**|**Ranked percolation model for the caking time of amorphous molecular powders**|Vasco C. Braz et.al.|[2503.24256v1](http://arxiv.org/abs/2503.24256v1)|null|
+|**2025-03-31**|**Asymptotic Freedom and Finite-size Scaling of Two-dimensional Classical Heisenberg Model**|Dingyun Yao et.al.|[2503.24226v1](http://arxiv.org/abs/2503.24226v1)|null|
+|**2025-03-31**|**Tunable macroscopic defect patterns induced by a low-frequency AC electric field in ferroelectric nematic liquid crystals**|Natalia Podoliak et.al.|[2503.24176v1](http://arxiv.org/abs/2503.24176v1)|null|
+|**2025-03-31**|**Effect of Interlayer Stacking on the Electronic Properties of 1 $T$-TaS$_2$**|Nelson Hua et.al.|[2503.24124v1](http://arxiv.org/abs/2503.24124v1)|null|
+|**2025-03-31**|**Renormalized mechanics and stochastic thermodynamics of growing model protocells**|Jordan L. Shivers et.al.|[2503.24120v1](http://arxiv.org/abs/2503.24120v1)|null|
+|**2025-03-31**|**Phase Separation in Mixtures of Nematic and Isotropic Fluids**|Margarida M. Telo da Gama et.al.|[2503.24101v1](http://arxiv.org/abs/2503.24101v1)|null|
+|**2025-03-31**|**Relevance of the Computational Models of Bacterial Interactions in the simulation of Biofilm Growth**|Gabriel Santos-Díaz et.al.|[2503.23998v1](http://arxiv.org/abs/2503.23998v1)|null|
+|**2025-03-31**|**Non-Abelian Gauge Enhances Self-Healing for Non-Hermitian Topological Su-Schrieffer-Heeger Chain**|Yazhuang Miao et.al.|[2503.23978v1](http://arxiv.org/abs/2503.23978v1)|null|
+|**2025-03-31**|**Dynamical Networking using Gaussian fields**|Nadine du Toit et.al.|[2503.23929v1](http://arxiv.org/abs/2503.23929v1)|null|
+|**2025-03-31**|**He-Mg compounds and helium-driven nonmetal transition in metallic magnesium**|Y. S. Huang et.al.|[2503.23874v1](http://arxiv.org/abs/2503.23874v1)|null|
+|**2025-03-31**|**Theory of hydrodynamic forces in electric double layers**|C. Cramail et.al.|[2503.23853v1](http://arxiv.org/abs/2503.23853v1)|null|
+|**2025-03-31**|**Three-dimensional Optical Reconstruction of colloidal electrokinetics via multiplane imaging**|Flip de Jong et.al.|[2503.23839v1](http://arxiv.org/abs/2503.23839v1)|null|
+|**2025-03-31**|**Realization of a non-Hermitian Haldane model in circuits**|Rujiang Li et.al.|[2503.23737v1](http://arxiv.org/abs/2503.23737v1)|null|
+|**2025-03-31**|**Vapor-mediated wetting and imbibition control on micropatterned surfaces**|Ze Xu et.al.|[2503.23699v1](http://arxiv.org/abs/2503.23699v1)|null|
+|**2025-03-31**|**Twisted Nodal Superconductors**|J. H. Pixley et.al.|[2503.23683v1](http://arxiv.org/abs/2503.23683v1)|null|
 |**2025-03-28**|**Comment on "Solvent-Induced Negative Energetic Elasticity in a Lattice Polymer Chain''**|L. K. R. Duarte et.al.|[2503.22614v1](http://arxiv.org/abs/2503.22614v1)|null|
 |**2025-03-28**|**Transforming Siliconization into Slippery Liquid-like Coatings**|Hernán Barrio-Zhang et.al.|[2503.22591v1](http://arxiv.org/abs/2503.22591v1)|null|
 |**2025-03-28**|**Cracking Down on Fracture to Functionalise Damage**|Leo de Waal et.al.|[2503.22556v1](http://arxiv.org/abs/2503.22556v1)|null|
@@ -8580,6 +8600,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Light-Driven Skyrmion Crystal Generation in Plasmonic Metasurfaces Through the Inverse Faraday Effect**|Xingyu Yang et.al.|[2503.23800v1](http://arxiv.org/abs/2503.23800v1)|null|
 |**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
 |**2025-03-27**|**Anisotropic light-tailored RKKY interaction in two-dimensional $d$ -wave altermagnets**|Mohsen Yarmohammadi et.al.|[2503.21698v1](http://arxiv.org/abs/2503.21698v1)|null|
 |**2025-03-27**|**Illuminating Protein Dynamics: A Review of Computational Methods for Studying Photoactive Proteins**|Sylwia Czach et.al.|[2503.21418v1](http://arxiv.org/abs/2503.21418v1)|null|
@@ -9010,6 +9031,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**Magnetoelectric control of spin helicity and nonreciprocal charge transport in a multiferroic metal**|Daiki Yamaguchi et.al.|[2503.23261v1](http://arxiv.org/abs/2503.23261v1)|null|
 |**2025-03-27**|**Emergent Non-Markovian Gain in Open Quantum Systems**|H. Z. Shen et.al.|[2503.21739v1](http://arxiv.org/abs/2503.21739v1)|null|
 |**2025-03-26**|**Controlling magnetic damping with spintronic thermal effects in Py/Fe3O4-PANI bilayers**|José Laurentino et.al.|[2503.20733v1](http://arxiv.org/abs/2503.20733v1)|null|
 |**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
@@ -9020,7 +9042,7 @@
 |**2025-03-15**|**Spin orientation by electric current in altermagnets**|L. E. Golub et.al.|[2503.12203v1](http://arxiv.org/abs/2503.12203v1)|null|
 |**2025-03-14**|**Electrical Spin-Flip Current Switching in Layered Diluted Magnetic Semiconductors for Ultralow-Power Spintronics**|Lan-Anh T. Nguyen et.al.|[2503.11193v1](http://arxiv.org/abs/2503.11193v1)|null|
 |**2025-03-13**|**Current-linear emergent induction of pinned skyrmion textures in an oxide bilayer**|Ludwig Scheuchenpflug et.al.|[2503.10600v1](http://arxiv.org/abs/2503.10600v1)|null|
-|**2025-03-13**|**Quantized crystalline-electromagnetic responses in insulators**|Sachin Vaidya et.al.|[2503.09970v1](http://arxiv.org/abs/2503.09970v1)|null|
+|**2025-03-31**|**Quantized crystalline-electromagnetic responses in insulators**|Sachin Vaidya et.al.|[2503.09970v2](http://arxiv.org/abs/2503.09970v2)|null|
 |**2025-03-12**|**Two-dimensional antiferromagnets with non-relativistic spin splitting switchable by electric polarization**|Himanshu Mavani et.al.|[2503.09877v1](http://arxiv.org/abs/2503.09877v1)|null|
 |**2025-03-12**|**Odd-parity altermagnetism through sublattice currents: From Haldane-Hubbard model to general bipartite lattices**|Yu-Ping Lin et.al.|[2503.09602v1](http://arxiv.org/abs/2503.09602v1)|null|
 |**2025-03-11**|**Orbital splitter effect and spatial resolution of current-induced orbital accumulation**|Niels Henrik Aase et.al.|[2503.08831v1](http://arxiv.org/abs/2503.08831v1)|null|
@@ -9290,6 +9312,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Altermagnetism and Weak Ferromagnetism**|I. V. Solovyev et.al.|[2503.23735v1](http://arxiv.org/abs/2503.23735v1)|null|
 |**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
 |**2025-03-26**|**Large asymmetric anomalous Nernst effect in the antiferromagnet SrIr $_{0.8}$Sn$_{0.2}$O$_3$**|Dongliang Gong et.al.|[2503.20135v1](http://arxiv.org/abs/2503.20135v1)|null|
 |**2025-03-27**|**Floquet control of topological phases and Hall effects in Z2 nodal line semimetals**|Pu Liu et.al.|[2503.19614v2](http://arxiv.org/abs/2503.19614v2)|null|
@@ -9750,6 +9773,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Revealing the Low Temperature Phase of FAPbI $_3$ using Machine-Learned Potential**|Sangita Dutta et.al.|[2503.23974v1](http://arxiv.org/abs/2503.23974v1)|null|
+|**2025-03-28**|**Detection of anyon braiding through pump-probe spectroscopy**|Xu Yang et.al.|[2503.22792v1](http://arxiv.org/abs/2503.22792v1)|null|
 |**2025-03-27**|**Emergent Hidden Multipolar State in the Triangular Lattice Magnet TmZn2GaO5**|Matthew Ennis et.al.|[2503.22009v1](http://arxiv.org/abs/2503.22009v1)|null|
 |**2025-03-26**|**BaCo $_2$(AsO$_4$)$_2$ : Strong Kitaev, After All**|Pavel A. Maksimov et.al.|[2503.20859v1](http://arxiv.org/abs/2503.20859v1)|null|
 |**2025-03-25**|**Magnetic excitations in a trilayer antiferromagnetic Heisenberg model**|Lan-Ye He et.al.|[2503.19716v1](http://arxiv.org/abs/2503.19716v1)|null|
