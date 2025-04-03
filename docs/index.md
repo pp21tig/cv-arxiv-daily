@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Effects of Dynamic Bonds on the Kinetic Pathways of Supramolecular Diblock Copolymers Disorder-Order Transition**|Xiangyu Zhang et.al.|[2504.01877v1](http://arxiv.org/abs/2504.01877v1)|null|
+|**2025-04-02**|**The protein escape process at the ribosomal exit tunnel has conserved mechanisms across the domains of life**|Phuong Thuy Bui et.al.|[2504.01731v1](http://arxiv.org/abs/2504.01731v1)|null|
+|**2025-04-02**|**Shape transitions of sedimenting confined droplets and capsules: from oblate to bullet-like geometries**|Danilo P. F. Silva et.al.|[2504.01581v1](http://arxiv.org/abs/2504.01581v1)|null|
+|**2025-04-02**|**Surface forces and frictional properties of adsorbed bio-based cationic polysaccharide thin films in salted aqueous medium**|Lionel Bureau et.al.|[2504.01510v1](http://arxiv.org/abs/2504.01510v1)|null|
+|**2025-04-02**|**Subcritical Pitchfork Bifurcation Transition of a Single Nanoparticle in Strong Confinement**|Jeongmin Kim et.al.|[2504.01353v1](http://arxiv.org/abs/2504.01353v1)|null|
+|**2025-04-02**|**Weyl Semimetals: from Principles, Materials to Applications**|Mengyuan Zhong et.al.|[2504.01300v1](http://arxiv.org/abs/2504.01300v1)|null|
+|**2025-04-01**|**Hydrodynamics of the electronic Fermi liquid: a pedagogical overview**|Aaron Hui et.al.|[2504.01249v1](http://arxiv.org/abs/2504.01249v1)|null|
+|**2025-04-01**|**Minimal pole representation for spectral functions**|Lei Zhang et.al.|[2504.01163v1](http://arxiv.org/abs/2504.01163v1)|null|
+|**2025-04-01**|**Surfactants Screen Slide Electrification**|Xiaomei Li et.al.|[2504.01084v1](http://arxiv.org/abs/2504.01084v1)|null|
+|**2025-04-01**|**Bimodality of local structural ordering in extremely confined hard disks**|A. Trokhymchuk et.al.|[2504.00945v1](http://arxiv.org/abs/2504.00945v1)|null|
+|**2025-04-01**|**Passive objects in a chiral active bath: from micro to macro**|Cory Hargus et.al.|[2504.00811v1](http://arxiv.org/abs/2504.00811v1)|null|
+|**2025-04-01**|**Shear Stress Build-up Under Constant Strain Conditions in Soft Glassy Materials**|Vivek Kumar et.al.|[2504.00806v1](http://arxiv.org/abs/2504.00806v1)|null|
+|**2025-04-02**|**Dissipation-Driven Transition of Particles from Dispersive to Flat Bands**|Yutao Hu et.al.|[2504.00796v2](http://arxiv.org/abs/2504.00796v2)|null|
+|**2025-04-01**|**Bridging-induced Aggregation in Neutral Polymers: Dynamics and Morphologies**|Hitesh Garg et.al.|[2504.00703v1](http://arxiv.org/abs/2504.00703v1)|null|
+|**2025-04-01**|**Magnetic Pillar Induced Poiseuille-like Flow in Microfluidic Channels with Viscous and Viscoelastic Fluids**|Charles Paul Moore et.al.|[2504.00645v1](http://arxiv.org/abs/2504.00645v1)|null|
+|**2025-04-01**|**Complex magnetic exchange, anisotropy and skyrmionic textures in two-dimensional FeXZ $_{2}$ (\textit{X} = Nb, Ta and \textit{Z} = S, Se, Te) ferromagnets**|Soheil Ershadrad et.al.|[2504.00643v1](http://arxiv.org/abs/2504.00643v1)|null|
+|**2025-04-01**|**Light-driven modulation of proximity-enhanced functionalities in hybrid nano-scale systems**|Mattia Benini et.al.|[2504.00551v1](http://arxiv.org/abs/2504.00551v1)|null|
+|**2025-04-01**|**Unifying Interpretations of Phase Transitions in the Vicsek Model: Correlation Length as a Diagnostic Tool**|Wenhao Yu et.al.|[2504.00511v1](http://arxiv.org/abs/2504.00511v1)|null|
+|**2025-04-01**|**Engineering living worms and active crystals with colloidal "feedback-pullers"**|Sonja Tarama et.al.|[2504.00471v1](http://arxiv.org/abs/2504.00471v1)|null|
+|**2025-04-01**|**Turbulent diffusion and dispersion in a superfluid**|Yuan Tang et.al.|[2504.00353v1](http://arxiv.org/abs/2504.00353v1)|null|
 |**2025-03-31**|**Quantum algorithms for cooling: a simple case study**|Daniel Molpeceres et.al.|[2503.24330v1](http://arxiv.org/abs/2503.24330v1)|null|
 |**2025-03-31**|**Thermal transport in superconductor heterostructures: some recent progress**|Paramita Dutta et.al.|[2503.24327v1](http://arxiv.org/abs/2503.24327v1)|null|
 |**2025-03-31**|**Multiscale Insights of Domain Unfolding in Fibrin Mechanical Response**|Vivek Sharma et.al.|[2503.24315v1](http://arxiv.org/abs/2503.24315v1)|null|
@@ -8604,6 +8624,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Controlling photo-excited electron-spin by light-polarization in ultrafast-pumped altermagnets**|Amir Eskandari-asl et.al.|[2504.01640v1](http://arxiv.org/abs/2504.01640v1)|null|
+|**2025-04-01**|**Light-driven modulation of proximity-enhanced functionalities in hybrid nano-scale systems**|Mattia Benini et.al.|[2504.00551v1](http://arxiv.org/abs/2504.00551v1)|null|
+|**2025-03-31**|**Dynamical Generation of Higher-order Spin-Orbit Couplings, Topology and Persistent Spin Texture in Light-Irradiated Altermagnets**|Sayed Ali Akbar Ghorashi et.al.|[2504.00122v1](http://arxiv.org/abs/2504.00122v1)|null|
 |**2025-03-31**|**Light-Driven Skyrmion Crystal Generation in Plasmonic Metasurfaces Through the Inverse Faraday Effect**|Xingyu Yang et.al.|[2503.23800v1](http://arxiv.org/abs/2503.23800v1)|null|
 |**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
 |**2025-03-27**|**Anisotropic light-tailored RKKY interaction in two-dimensional $d$ -wave altermagnets**|Mohsen Yarmohammadi et.al.|[2503.21698v1](http://arxiv.org/abs/2503.21698v1)|null|
@@ -9035,6 +9058,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Interface-Generated Spin Current Induced Magnetoresistance in RuO2/Py Heterostructures**|Akashdeep Akashdeep et.al.|[2504.00230v2](http://arxiv.org/abs/2504.00230v2)|null|
 |**2025-04-01**|**Magnetoelectric control of spin helicity and nonreciprocal charge transport in a multiferroic metal**|Daiki Yamaguchi et.al.|[2503.23261v2](http://arxiv.org/abs/2503.23261v2)|null|
 |**2025-03-27**|**Emergent Non-Markovian Gain in Open Quantum Systems**|H. Z. Shen et.al.|[2503.21739v1](http://arxiv.org/abs/2503.21739v1)|null|
 |**2025-03-26**|**Controlling magnetic damping with spintronic thermal effects in Py/Fe3O4-PANI bilayers**|José Laurentino et.al.|[2503.20733v1](http://arxiv.org/abs/2503.20733v1)|null|
@@ -9316,6 +9340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Toroid, Altermagnetic and Noncentrosymmetric ordering in metals**|V. P. Mineev et.al.|[2504.01686v1](http://arxiv.org/abs/2504.01686v1)|null|
 |**2025-03-31**|**Altermagnetism and Weak Ferromagnetism**|I. V. Solovyev et.al.|[2503.23735v1](http://arxiv.org/abs/2503.23735v1)|null|
 |**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
 |**2025-03-26**|**Large asymmetric anomalous Nernst effect in the antiferromagnet SrIr $_{0.8}$Sn$_{0.2}$O$_3$**|Dongliang Gong et.al.|[2503.20135v1](http://arxiv.org/abs/2503.20135v1)|null|
