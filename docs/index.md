@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Non-linear elasticity effects and stratification in brushes of branched polyelectrolytes**|Inna O. Lebedeva et.al.|[2504.02783v1](http://arxiv.org/abs/2504.02783v1)|null|
+|**2025-04-03**|**Anomalous vortex Hall effect in a ferromagnet/superconductor heterostructure**|Weideng Sun et.al.|[2504.02752v1](http://arxiv.org/abs/2504.02752v1)|null|
+|**2025-04-03**|**Atrial constitutive neural networks**|Mathias Peirlinck et.al.|[2504.02748v1](http://arxiv.org/abs/2504.02748v1)|null|
+|**2025-04-03**|**Topological signatures of collective dynamics and turbulent-like energy cascades in active granular matter**|Zihan Zheng et.al.|[2504.02588v1](http://arxiv.org/abs/2504.02588v1)|null|
+|**2025-04-03**|**Aging of ring polymeric topological glass formers via thermal quench**|Arabinda Behera et.al.|[2504.02557v1](http://arxiv.org/abs/2504.02557v1)|null|
+|**2025-04-03**|**Rigid m-percolation in limited-valence gels**|J. C. Neves et.al.|[2504.02474v1](http://arxiv.org/abs/2504.02474v1)|null|
+|**2025-04-03**|**Optimal first-passage times of active Brownian particles under stochastic resetting**|Yanis Baouche et.al.|[2504.02466v1](http://arxiv.org/abs/2504.02466v1)|null|
+|**2025-04-03**|**Designing optimal elastic filaments for viscous propulsion**|Mariia Dvoriashyna et.al.|[2504.02424v1](http://arxiv.org/abs/2504.02424v1)|null|
+|**2025-04-03**|**Response of magnetic particle to rotating magnetic field in viscoelastic fluid**|Han Gao et.al.|[2504.02389v1](http://arxiv.org/abs/2504.02389v1)|null|
+|**2025-04-03**|**Exact characterization of anisotropic properties in confined hard-sphere systems**|Ana M. Montero et.al.|[2504.02347v1](http://arxiv.org/abs/2504.02347v1)|null|
+|**2025-04-03**|**Experimental evidence of non-equilibrium phase separation in supercritical fluids**|Juho Lee et.al.|[2504.02219v1](http://arxiv.org/abs/2504.02219v1)|null|
+|**2025-04-02**|**Matrix-based Induced Metric with Non Commutative Gauge Fields**|Leandro de Paula et.al.|[2504.02105v1](http://arxiv.org/abs/2504.02105v1)|null|
 |**2025-04-02**|**Effects of Dynamic Bonds on the Kinetic Pathways of Supramolecular Diblock Copolymers Disorder-Order Transition**|Xiangyu Zhang et.al.|[2504.01877v1](http://arxiv.org/abs/2504.01877v1)|null|
 |**2025-04-02**|**The protein escape process at the ribosomal exit tunnel has conserved mechanisms across the domains of life**|Phuong Thuy Bui et.al.|[2504.01731v1](http://arxiv.org/abs/2504.01731v1)|null|
 |**2025-04-02**|**Shape transitions of sedimenting confined droplets and capsules: from oblate to bullet-like geometries**|Danilo P. F. Silva et.al.|[2504.01581v1](http://arxiv.org/abs/2504.01581v1)|null|
@@ -8624,6 +8636,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**In situ and real-time ultrafast spectroscopy of photoinduced reactions in perovskite nanomaterials**|Gi Rim Han et.al.|[2504.02331v1](http://arxiv.org/abs/2504.02331v1)|null|
 |**2025-04-02**|**Controlling photo-excited electron-spin by light-polarization in ultrafast-pumped altermagnets**|Amir Eskandari-asl et.al.|[2504.01640v1](http://arxiv.org/abs/2504.01640v1)|null|
 |**2025-04-01**|**Light-driven modulation of proximity-enhanced functionalities in hybrid nano-scale systems**|Mattia Benini et.al.|[2504.00551v1](http://arxiv.org/abs/2504.00551v1)|null|
 |**2025-03-31**|**Dynamical Generation of Higher-order Spin-Orbit Couplings, Topology and Persistent Spin Texture in Light-Irradiated Altermagnets**|Sayed Ali Akbar Ghorashi et.al.|[2504.00122v1](http://arxiv.org/abs/2504.00122v1)|null|
