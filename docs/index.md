@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512v1](http://arxiv.org/abs/2504.03512v1)|null|
+|**2025-04-04**|**Hierarchical woven fibrillar structures in developing single gyroids in butterflies**|Anna-Lee Jessop et.al.|[2504.03459v1](http://arxiv.org/abs/2504.03459v1)|null|
+|**2025-04-04**|**Competition of light- and phonon-dressing in microwave-dressed Bose polarons**|G. M. Koutentakis et.al.|[2504.03411v1](http://arxiv.org/abs/2504.03411v1)|null|
+|**2025-04-04**|**Chemo-mechanical motility modes of partially wetting liquid droplets**|Florian Voss et.al.|[2504.03297v1](http://arxiv.org/abs/2504.03297v1)|null|
+|**2025-04-04**|**Topological defects in polar active matter**|Luiza Angheluta et.al.|[2504.03284v1](http://arxiv.org/abs/2504.03284v1)|null|
+|**2025-04-04**|**Accurate extrapolation of MP2 correlation energies for small correlation-consistent core-valence basis sets**|E. Fabiano et.al.|[2504.03239v1](http://arxiv.org/abs/2504.03239v1)|null|
+|**2025-04-04**|**Topological sorting of magnetic colloidal bipeds**|Aneena Rinu Perayil et.al.|[2504.03216v1](http://arxiv.org/abs/2504.03216v1)|null|
+|**2025-04-04**|**Transfer of active motion from medium to probe via the induced friction and noise**|Ji-Hui Pei et.al.|[2504.03210v1](http://arxiv.org/abs/2504.03210v1)|null|
+|**2025-04-04**|**The strain-stiffening critical exponents in polymer networks and their universality**|Zibin Zhang et.al.|[2504.03200v1](http://arxiv.org/abs/2504.03200v1)|null|
+|**2025-04-03**|**Micelle Formation of Diblock Copolymers Driven by Cononsolvency Effect**|Xiangyu Zhang et.al.|[2504.03042v1](http://arxiv.org/abs/2504.03042v1)|null|
+|**2025-04-03**|**Theory of polyelectrolyte dendrigrafts**|Oleg V. Borisov et.al.|[2504.03021v1](http://arxiv.org/abs/2504.03021v1)|null|
+|**2025-04-03**|**Selective colloid transport across planar polymer brushes**|Mikhail Y. Laktionov et.al.|[2504.03008v1](http://arxiv.org/abs/2504.03008v1)|null|
+|**2025-04-03**|**Elastic instability of wormlike micelle solution flow in serpentine channels**|Emily Y. Chen et.al.|[2504.02951v1](http://arxiv.org/abs/2504.02951v1)|null|
 |**2025-04-03**|**Non-linear elasticity effects and stratification in brushes of branched polyelectrolytes**|Inna O. Lebedeva et.al.|[2504.02783v1](http://arxiv.org/abs/2504.02783v1)|null|
 |**2025-04-03**|**Anomalous vortex Hall effect in a ferromagnet/superconductor heterostructure**|Weideng Sun et.al.|[2504.02752v1](http://arxiv.org/abs/2504.02752v1)|null|
 |**2025-04-03**|**Atrial constitutive neural networks**|Mathias Peirlinck et.al.|[2504.02748v1](http://arxiv.org/abs/2504.02748v1)|null|
