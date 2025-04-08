@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Screening properties of charge regulated zwitterionic macroion solutions**|Rashmi Kandari et.al.|[2504.05246v1](http://arxiv.org/abs/2504.05246v1)|null|
+|**2025-04-07**|**IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films**|Joan Montes de Oca et.al.|[2504.05179v1](http://arxiv.org/abs/2504.05179v1)|null|
+|**2025-04-07**|**Weak thermal fluctuations impede steering of chiral magnetic nanobots**|Ashwani Kr. Tripathi et.al.|[2504.05069v1](http://arxiv.org/abs/2504.05069v1)|null|
+|**2025-04-07**|**Topological transition between gapless phases in quantum walks**|Ranjith R Kumar et.al.|[2504.05023v1](http://arxiv.org/abs/2504.05023v1)|null|
+|**2025-04-07**|**Deformation of the Heisenberg-Weyl algebra and the Lie superalgebra $\mathfrak{osp}\left( {1|2} \right)$ : exact solution for the quantum harmonic oscillator with a position-dependent mass**|E. I. Jafarov et.al.|[2504.04933v1](http://arxiv.org/abs/2504.04933v1)|null|
+|**2025-04-07**|**Palatable pellets -- a fundamental framework to produce sustainable pellets via extrusion**|Richard T. Benders et.al.|[2504.04838v1](http://arxiv.org/abs/2504.04838v1)|null|
+|**2025-04-07**|**X-ray particle tracking velocimetry for rheological characterization: Application to material extrusion additive manufacturing**|Julian Kattinger et.al.|[2504.04830v1](http://arxiv.org/abs/2504.04830v1)|null|
+|**2025-04-07**|**How to build transfer matrices, one wave at a time**|Joaquin Garcia-Suarez et.al.|[2504.04822v1](http://arxiv.org/abs/2504.04822v1)|null|
+|**2025-04-07**|**Taming Flat Bands with Breathing Superlattices**|Moru Song et.al.|[2504.04759v1](http://arxiv.org/abs/2504.04759v1)|null|
+|**2025-04-07**|**Competing effect of disorder on phase separation in active systems: from facilitated to hindered growth and rough interfaces**|Pratikshya Jena et.al.|[2504.04750v1](http://arxiv.org/abs/2504.04750v1)|null|
+|**2025-04-06**|**Self-alignment and anti-self-alignment suppress motility-induced phase separation in active systems**|Marco Musacchio et.al.|[2504.04644v1](http://arxiv.org/abs/2504.04644v1)|null|
+|**2025-04-06**|**Topology and Kinetic Pathways of Colloidosome Assembly and Disassembly**|Raymond Adkins et.al.|[2504.04628v1](http://arxiv.org/abs/2504.04628v1)|null|
+|**2025-04-06**|**Capturing AI's Attention: Physics of Repetition, Hallucination, Bias and Beyond**|Frank Yingjie Huo et.al.|[2504.04600v1](http://arxiv.org/abs/2504.04600v1)|null|
+|**2025-04-06**|**Non-Equilibrium Dynamics of Hard Spheres in the Fluid, Crystalline, and Glassy Regimes**|Matthew Kafker et.al.|[2504.04599v1](http://arxiv.org/abs/2504.04599v1)|null|
+|**2025-04-06**|**Coupled femto-excitons, free carriers and light**|Deepika Gill et.al.|[2504.04476v1](http://arxiv.org/abs/2504.04476v1)|null|
+|**2025-04-06**|**TensorSymmetry: a package to get symmetry-adapted tensors disentangling spin-orbit coupling effect and establishing analytical relationship with magnetic order**|Rui-Chun Xiao et.al.|[2504.04424v1](http://arxiv.org/abs/2504.04424v1)|null|
+|**2025-04-06**|**On the influence of electrolytic gradient orientation on phoretic transport in dead-end pores**|Kushagra Tiwari et.al.|[2504.04380v1](http://arxiv.org/abs/2504.04380v1)|null|
+|**2025-04-05**|**Bacterial Glass Transition**|Martin Maliet et.al.|[2504.04205v1](http://arxiv.org/abs/2504.04205v1)|null|
+|**2025-04-05**|**Variational autoencoders understand knot topology**|Anna Braghetto et.al.|[2504.04179v1](http://arxiv.org/abs/2504.04179v1)|null|
+|**2025-04-05**|**Observing the Glass and Jamming Transitions of Dense Granular Material in Microgravity**|Christopher Mayo et.al.|[2504.04161v1](http://arxiv.org/abs/2504.04161v1)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512v1](http://arxiv.org/abs/2504.03512v1)|null|
 |**2025-04-07**|**Hierarchical woven fibrillar structures in developing single gyroids in butterflies**|Anna-Lee Jessop et.al.|[2504.03459v2](http://arxiv.org/abs/2504.03459v2)|null|
 |**2025-04-04**|**Competition of light- and phonon-dressing in microwave-dressed Bose polarons**|G. M. Koutentakis et.al.|[2504.03411v1](http://arxiv.org/abs/2504.03411v1)|null|
@@ -8649,6 +8669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Ultrafast switchable polar and magnetic orders by nonlinear light-matter interaction**|Haoyu Wei et.al.|[2504.04662v1](http://arxiv.org/abs/2504.04662v1)|null|
 |**2025-04-03**|**In situ and real-time ultrafast spectroscopy of photoinduced reactions in perovskite nanomaterials**|Gi Rim Han et.al.|[2504.02331v1](http://arxiv.org/abs/2504.02331v1)|null|
 |**2025-04-02**|**Controlling photo-excited electron-spin by light-polarization in ultrafast-pumped altermagnets**|Amir Eskandari-asl et.al.|[2504.01640v1](http://arxiv.org/abs/2504.01640v1)|null|
 |**2025-04-01**|**Light-driven modulation of proximity-enhanced functionalities in hybrid nano-scale systems**|Mattia Benini et.al.|[2504.00551v1](http://arxiv.org/abs/2504.00551v1)|null|
@@ -9366,6 +9387,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Topological Hall effect in ferromagnetic Weyl semimetal Mn $_5$Ge$_3$ originating in competing dipolar interaction and magnetocrystalline anisotropy**|Achintya Low et.al.|[2504.05252v1](http://arxiv.org/abs/2504.05252v1)|null|
+|**2025-04-07**|**Superconductivity, Anomalous Hall Effect, and Stripe Order in Rhombohedral Hexalayer Graphene**|Erin Morissette et.al.|[2504.05129v1](http://arxiv.org/abs/2504.05129v1)|null|
+|**2025-04-06**|**Surface Dominated Quantum Geometry-Induced Nonlinear Transport in the van der Waals Antiferromagnet CrSBr**|Kamal Das et.al.|[2504.04526v1](http://arxiv.org/abs/2504.04526v1)|null|
 |**2025-04-02**|**Toroid, Altermagnetic and Noncentrosymmetric ordering in metals**|V. P. Mineev et.al.|[2504.01686v1](http://arxiv.org/abs/2504.01686v1)|null|
 |**2025-03-31**|**Altermagnetism and Weak Ferromagnetism**|I. V. Solovyev et.al.|[2503.23735v1](http://arxiv.org/abs/2503.23735v1)|null|
 |**2025-03-27**|**Optical control of orbital magnetism in magic angle twisted bilayer graphene**|Eylon Persky et.al.|[2503.21750v1](http://arxiv.org/abs/2503.21750v1)|null|
