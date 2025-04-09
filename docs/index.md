@@ -1102,6 +1102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Uniform deposition of particles in large scale by drying of binary droplets**|Zechao Jiang et.al.|[2504.06152v1](http://arxiv.org/abs/2504.06152v1)|null|
+|**2025-04-08**|**Characteristic exciton energy scales in antiferromagnetic NiPS $_3$**|Jacob A. Warshauer et.al.|[2504.06053v1](http://arxiv.org/abs/2504.06053v1)|null|
+|**2025-04-08**|**3D evolution of protein networks and lipid globules in heat-treated egg yolk**|Felix Wittwer et.al.|[2504.06032v1](http://arxiv.org/abs/2504.06032v1)|null|
+|**2025-04-08**|**Inverse Design of Parameter-Controlled Disclination Paths**|Yehonatan Tsubery et.al.|[2504.05870v1](http://arxiv.org/abs/2504.05870v1)|null|
+|**2025-04-07**|**Contact theorems for electrolyte-filled hollow charged nanoparticles: Non-linear osmotic pressure in confined electrolytes**|Marcelo Lozada-Cassou et.al.|[2504.05467v1](http://arxiv.org/abs/2504.05467v1)|null|
+|**2025-04-07**|**Field-tunable quantum disordered ground state in the triangular-lattice antiferromagnet TlYbSe2**|Bishnu P. Belbase et.al.|[2504.05436v1](http://arxiv.org/abs/2504.05436v1)|null|
 |**2025-04-07**|**Screening properties of charge regulated zwitterionic macroion solutions**|Rashmi Kandari et.al.|[2504.05246v1](http://arxiv.org/abs/2504.05246v1)|null|
 |**2025-04-07**|**IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films**|Joan Montes de Oca et.al.|[2504.05179v1](http://arxiv.org/abs/2504.05179v1)|null|
 |**2025-04-07**|**Weak thermal fluctuations impede steering of chiral magnetic nanobots**|Ashwani Kr. Tripathi et.al.|[2504.05069v1](http://arxiv.org/abs/2504.05069v1)|null|
@@ -9387,6 +9393,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Moiré enhanced flat band in rhombohedral graphene**|Hongyun Zhang et.al.|[2504.06251v1](http://arxiv.org/abs/2504.06251v1)|null|
 |**2025-04-07**|**Topological Hall effect in ferromagnetic Weyl semimetal Mn $_5$Ge$_3$ originating in competing dipolar interaction and magnetocrystalline anisotropy**|Achintya Low et.al.|[2504.05252v1](http://arxiv.org/abs/2504.05252v1)|null|
 |**2025-04-07**|**Superconductivity, Anomalous Hall Effect, and Stripe Order in Rhombohedral Hexalayer Graphene**|Erin Morissette et.al.|[2504.05129v1](http://arxiv.org/abs/2504.05129v1)|null|
 |**2025-04-06**|**Surface Dominated Quantum Geometry-Induced Nonlinear Transport in the van der Waals Antiferromagnet CrSBr**|Kamal Das et.al.|[2504.04526v1](http://arxiv.org/abs/2504.04526v1)|null|
@@ -9852,6 +9859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques**|E. Kushwaha et.al.|[2504.06113v1](http://arxiv.org/abs/2504.06113v1)|null|
 |**2025-04-02**|**Revealing the Low Temperature Phase of FAPbI $_3$ using A Machine-Learned Potential**|Sangita Dutta et.al.|[2503.23974v2](http://arxiv.org/abs/2503.23974v2)|null|
 |**2025-03-28**|**Detection of anyon braiding through pump-probe spectroscopy**|Xu Yang et.al.|[2503.22792v1](http://arxiv.org/abs/2503.22792v1)|null|
 |**2025-03-27**|**Emergent Hidden Multipolar State in the Triangular Lattice Magnet TmZn2GaO5**|Matthew Ennis et.al.|[2503.22009v1](http://arxiv.org/abs/2503.22009v1)|null|
