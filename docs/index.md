@@ -1102,9 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Computing Canonical Averages with Quantum and Classical Optimizers: Thermodynamic Reweighting for QUBO Models of Physical Systems**|Francesco Slongo et.al.|[2504.07094v1](http://arxiv.org/abs/2504.07094v1)|null|
+|**2025-04-09**|**Spin state of iron in I-42d-type Mg2SiO4 at ultra-high pressures**|Tianqi Wan et.al.|[2504.07067v1](http://arxiv.org/abs/2504.07067v1)|null|
+|**2025-04-09**|**Minimal mechanism for fluidic flocks in interacting active colloids**|Arvin Gopal Subramaniam et.al.|[2504.07050v1](http://arxiv.org/abs/2504.07050v1)|null|
+|**2025-04-09**|**Harnessing non-equilibrium forces to optimize work extraction**|Kristian Stølevik Olsen et.al.|[2504.07049v1](http://arxiv.org/abs/2504.07049v1)|null|
+|**2025-04-09**|**Kinetic phase diagram for two-step nucleation in colloid-polymer mixtures**|Willem Gispen et.al.|[2504.06922v1](http://arxiv.org/abs/2504.06922v1)|null|
+|**2025-04-09**|**Activated solids: Spontaneous deformations, non-affine fluctuations, softening, and failure**|Parswa Nath et.al.|[2504.06914v1](http://arxiv.org/abs/2504.06914v1)|null|
+|**2025-04-09**|**Solid-State Maser with Microwatt Output Power at Moderate Cryogenic Temperatures**|Yefim Varshavsky et.al.|[2504.06846v1](http://arxiv.org/abs/2504.06846v1)|null|
+|**2025-04-09**|**Rhombohedral graphite junctions as a platform for continuous tuning between topologically trivial and non-trivial electronic phases**|Luke Soneji et.al.|[2504.06759v1](http://arxiv.org/abs/2504.06759v1)|null|
+|**2025-04-09**|**Transport of electrolytes across nanochannels: the role of slip**|F. Carusela et.al.|[2504.06708v1](http://arxiv.org/abs/2504.06708v1)|null|
+|**2025-04-09**|**Localization of deformation in the central hub of hub-and-spoke kirigami**|Jason Barckicke et.al.|[2504.06626v1](http://arxiv.org/abs/2504.06626v1)|null|
+|**2025-04-08**|**On the interfacial properties of hydroquinone: realistic and coarse-grained molecular models from computer simulation**|M. J. Torrejón et.al.|[2504.06361v1](http://arxiv.org/abs/2504.06361v1)|null|
 |**2025-04-08**|**Uniform deposition of particles in large scale by drying of binary droplets**|Zechao Jiang et.al.|[2504.06152v1](http://arxiv.org/abs/2504.06152v1)|null|
 |**2025-04-08**|**Characteristic exciton energy scales in antiferromagnetic NiPS $_3$**|Jacob A. Warshauer et.al.|[2504.06053v1](http://arxiv.org/abs/2504.06053v1)|null|
 |**2025-04-08**|**3D evolution of protein networks and lipid globules in heat-treated egg yolk**|Felix Wittwer et.al.|[2504.06032v1](http://arxiv.org/abs/2504.06032v1)|null|
+|**2025-04-08**|**Have you tried turning it off and on again? Stochastic resetting for enhanced sampling**|Ofir Blumer et.al.|[2504.05982v1](http://arxiv.org/abs/2504.05982v1)|null|
 |**2025-04-08**|**Inverse Design of Parameter-Controlled Disclination Paths**|Yehonatan Tsubery et.al.|[2504.05870v1](http://arxiv.org/abs/2504.05870v1)|null|
 |**2025-04-07**|**Contact theorems for electrolyte-filled hollow charged nanoparticles: Non-linear osmotic pressure in confined electrolytes**|Marcelo Lozada-Cassou et.al.|[2504.05467v1](http://arxiv.org/abs/2504.05467v1)|null|
 |**2025-04-07**|**Field-tunable quantum disordered ground state in the triangular-lattice antiferromagnet TlYbSe2**|Bishnu P. Belbase et.al.|[2504.05436v1](http://arxiv.org/abs/2504.05436v1)|null|
@@ -8675,6 +8687,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Light-field dressing of transient photo-excited states above $E_F$**|Fei Wang et.al.|[2504.06728v1](http://arxiv.org/abs/2504.06728v1)|null|
 |**2025-04-07**|**Ultrafast switchable polar and magnetic orders by nonlinear light-matter interaction**|Haoyu Wei et.al.|[2504.04662v1](http://arxiv.org/abs/2504.04662v1)|null|
 |**2025-04-03**|**In situ and real-time ultrafast spectroscopy of photoinduced reactions in perovskite nanomaterials**|Gi Rim Han et.al.|[2504.02331v1](http://arxiv.org/abs/2504.02331v1)|null|
 |**2025-04-02**|**Controlling photo-excited electron-spin by light-polarization in ultrafast-pumped altermagnets**|Amir Eskandari-asl et.al.|[2504.01640v1](http://arxiv.org/abs/2504.01640v1)|null|
@@ -9393,6 +9406,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Signatures of unconventional superconductivity near reentrant and fractional quantum anomalous Hall insulators**|Fan Xu et.al.|[2504.06972v1](http://arxiv.org/abs/2504.06972v1)|null|
 |**2025-04-08**|**Moiré enhanced flat band in rhombohedral graphene**|Hongyun Zhang et.al.|[2504.06251v1](http://arxiv.org/abs/2504.06251v1)|null|
 |**2025-04-07**|**Topological Hall effect in ferromagnetic Weyl semimetal Mn $_5$Ge$_3$ originating in competing dipolar interaction and magnetocrystalline anisotropy**|Achintya Low et.al.|[2504.05252v1](http://arxiv.org/abs/2504.05252v1)|null|
 |**2025-04-07**|**Superconductivity, Anomalous Hall Effect, and Stripe Order in Rhombohedral Hexalayer Graphene**|Erin Morissette et.al.|[2504.05129v1](http://arxiv.org/abs/2504.05129v1)|null|
@@ -9859,6 +9873,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials**|Aaron T. Breidenbach et.al.|[2504.06491v1](http://arxiv.org/abs/2504.06491v1)|null|
 |**2025-04-08**|**Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques**|E. Kushwaha et.al.|[2504.06113v1](http://arxiv.org/abs/2504.06113v1)|null|
 |**2025-04-02**|**Revealing the Low Temperature Phase of FAPbI $_3$ using A Machine-Learned Potential**|Sangita Dutta et.al.|[2503.23974v2](http://arxiv.org/abs/2503.23974v2)|null|
 |**2025-03-28**|**Detection of anyon braiding through pump-probe spectroscopy**|Xu Yang et.al.|[2503.22792v1](http://arxiv.org/abs/2503.22792v1)|null|
