@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Localization and Topology in Noncentrosymmetric Superconductors with Disorder**|Jinkun Wang et.al.|[2504.07930v1](http://arxiv.org/abs/2504.07930v1)|null|
+|**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834v1](http://arxiv.org/abs/2504.07834v1)|null|
+|**2025-04-10**|**Interference-caged quantum many-body scars: the Fock space topological localization and interference zeros**|Tao-Lin Tan et.al.|[2504.07780v1](http://arxiv.org/abs/2504.07780v1)|null|
+|**2025-04-10**|**Active Matter Flocking via Predictive Alignment**|Julian Giraldo-Barreto et.al.|[2504.07778v1](http://arxiv.org/abs/2504.07778v1)|null|
+|**2025-04-10**|**Role of activity and dissipation in achieving precise beating in cilia: Insights from the rower model**|Subhajit Gupta et.al.|[2504.07681v1](http://arxiv.org/abs/2504.07681v1)|null|
+|**2025-04-10**|**Homogeneous nucleation rate of carbon dioxide hydrate formation under experimental condition from Seeding simulations**|I. M. Zerón et.al.|[2504.07492v1](http://arxiv.org/abs/2504.07492v1)|null|
+|**2025-04-10**|**Orientational ordering in active nematic solids**|Haiqian Yang et.al.|[2504.07354v1](http://arxiv.org/abs/2504.07354v1)|null|
+|**2025-04-09**|**Flow-driven Stretch Fluctuations Cause Anomalous Rate-Thinning In Elongating Associative Polymers**|Songyue Liu et.al.|[2504.07281v1](http://arxiv.org/abs/2504.07281v1)|null|
+|**2025-04-09**|**Bistability and charge-density blowup in the onset of drop Quincke rotation**|Gunnar G. Peng et.al.|[2504.07276v1](http://arxiv.org/abs/2504.07276v1)|null|
+|**2025-04-09**|**Tuning Diblock Copolymer Morphology by Adding Associative Homopolymers**|Xiangyu Zhang et.al.|[2504.07241v1](http://arxiv.org/abs/2504.07241v1)|null|
+|**2025-04-09**|**Quantum Geometry: Revisiting electronic scales in quantum matter**|Nishchhal Verma et.al.|[2504.07173v1](http://arxiv.org/abs/2504.07173v1)|null|
 |**2025-04-09**|**Computing Canonical Averages with Quantum and Classical Optimizers: Thermodynamic Reweighting for QUBO Models of Physical Systems**|Francesco Slongo et.al.|[2504.07094v1](http://arxiv.org/abs/2504.07094v1)|null|
 |**2025-04-09**|**Spin state of iron in I-42d-type Mg2SiO4 at ultra-high pressures**|Tianqi Wan et.al.|[2504.07067v1](http://arxiv.org/abs/2504.07067v1)|null|
 |**2025-04-09**|**Minimal mechanism for fluidic flocks in interacting active colloids**|Arvin Gopal Subramaniam et.al.|[2504.07050v1](http://arxiv.org/abs/2504.07050v1)|null|
@@ -9869,6 +9880,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|null|
+|**2025-04-10**|**Quantifying the Phase Diagram and Hamiltonian of $S=1/2$ Kagome Antiferromagnets: Bridging Theory and Experiment**|Shengtao Jiang et.al.|[2504.07387v1](http://arxiv.org/abs/2504.07387v1)|null|
 |**2025-04-08**|**Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials**|Aaron T. Breidenbach et.al.|[2504.06491v1](http://arxiv.org/abs/2504.06491v1)|null|
 |**2025-04-08**|**Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques**|E. Kushwaha et.al.|[2504.06113v1](http://arxiv.org/abs/2504.06113v1)|null|
 |**2025-04-02**|**Revealing the Low Temperature Phase of FAPbI $_3$ using A Machine-Learned Potential**|Sangita Dutta et.al.|[2503.23974v2](http://arxiv.org/abs/2503.23974v2)|null|
