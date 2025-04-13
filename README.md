@@ -9880,7 +9880,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|null|
+|**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|**[link](https://github.com/albanbloorriley/rgd_lp)**|
 |**2025-04-10**|**Quantifying the Phase Diagram and Hamiltonian of $S=1/2$ Kagome Antiferromagnets: Bridging Theory and Experiment**|Shengtao Jiang et.al.|[2504.07387v1](http://arxiv.org/abs/2504.07387v1)|null|
 |**2025-04-08**|**Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials**|Aaron T. Breidenbach et.al.|[2504.06491v1](http://arxiv.org/abs/2504.06491v1)|null|
 |**2025-04-08**|**Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques**|E. Kushwaha et.al.|[2504.06113v1](http://arxiv.org/abs/2504.06113v1)|null|
