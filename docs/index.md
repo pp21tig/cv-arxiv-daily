@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Shapiro resonances in ac-self-modulated exciton-polariton Josephson junctions**|I. Carraro Haddad et.al.|[2504.08708v1](http://arxiv.org/abs/2504.08708v1)|null|
+|**2025-04-11**|**Autophoretic skating along permeable surfaces**|Günther Turk et.al.|[2504.08702v1](http://arxiv.org/abs/2504.08702v1)|null|
+|**2025-04-11**|**A Generic Explanation of the Mechanism of Co-solvency**|Xiangyu Zhang et.al.|[2504.08688v1](http://arxiv.org/abs/2504.08688v1)|null|
+|**2025-04-11**|**Optimal Control in Soft and Active Matter**|José Alvarado et.al.|[2504.08676v1](http://arxiv.org/abs/2504.08676v1)|null|
+|**2025-04-11**|**Collective actuation in active solids in the presence of a polarizing field: a review of the dynamical regimes**|Paul Baconnier et.al.|[2504.08599v1](http://arxiv.org/abs/2504.08599v1)|null|
+|**2025-04-11**|**Reentrant transition to collective actuation in active solids with a polarizing field**|Paul Baconnier et.al.|[2504.08572v1](http://arxiv.org/abs/2504.08572v1)|null|
+|**2025-04-11**|**Fragmentation; polyhedron reconstruction; 3d scanning**|Janos Torok et.al.|[2504.08563v1](http://arxiv.org/abs/2504.08563v1)|null|
+|**2025-04-11**|**Localized plasmonic meron-antimeron pairs in doubly degenerate orbitals**|Jie Yang et.al.|[2504.08558v1](http://arxiv.org/abs/2504.08558v1)|null|
+|**2025-04-11**|**Phase separation in a chiral active fluid of inertial self-spinning disks**|Pasquale Digregorio et.al.|[2504.08533v1](http://arxiv.org/abs/2504.08533v1)|null|
+|**2025-04-11**|**Clifford algebras and liquid crystalline fermions**|N. Johnson et.al.|[2504.08519v1](http://arxiv.org/abs/2504.08519v1)|null|
+|**2025-04-11**|**Lift force in chiral, compressible granular matter**|Jarosław Pawłowski et.al.|[2504.08516v1](http://arxiv.org/abs/2504.08516v1)|null|
+|**2025-04-11**|**Intracellular phagosome shell is rigid enough to transfer outside torque to the inner spherical particle**|Srestha Roy et.al.|[2504.08498v1](http://arxiv.org/abs/2504.08498v1)|null|
+|**2025-04-11**|**Elasticity of bidisperse attractive particle systems**|Yaqi Zhao et.al.|[2504.08434v1](http://arxiv.org/abs/2504.08434v1)|null|
+|**2025-04-11**|**Towards quantitative understanding of quantum dot ensemble capacitance-voltage spectroscopy**|Nico F. Brosda et.al.|[2504.08429v1](http://arxiv.org/abs/2504.08429v1)|null|
+|**2025-04-11**|**Designing atomic-scale resistive circuits in topological insulators through vacancy-induced localized modes**|Cunyuan Jiang et.al.|[2504.08416v1](http://arxiv.org/abs/2504.08416v1)|null|
+|**2025-04-11**|**A mesoscopic model for the rheology of dilute and semidilute solutions of wormlike micelles**|Avishek Kumar et.al.|[2504.08354v1](http://arxiv.org/abs/2504.08354v1)|null|
+|**2025-04-11**|**Stochastic elastohydrodynamics of soft valves**|Mengfei He et.al.|[2504.08248v1](http://arxiv.org/abs/2504.08248v1)|null|
+|**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185v1](http://arxiv.org/abs/2504.08185v1)|null|
+|**2025-04-10**|**Spin Qubit Properties of the Boron-Vacancy/Carbon Defect in the Two-Dimensional Hexagonal Boron Nitride**|Sergey Stolbov et.al.|[2504.08099v1](http://arxiv.org/abs/2504.08099v1)|null|
+|**2025-04-10**|**Fringe around a Beet Slice: Wetting-induced Dimple in a Thin Liquid Film**|Zhengyang Liu et.al.|[2504.08092v1](http://arxiv.org/abs/2504.08092v1)|null|
 |**2025-04-10**|**Localization and Topology in Noncentrosymmetric Superconductors with Disorder**|Jinkun Wang et.al.|[2504.07930v1](http://arxiv.org/abs/2504.07930v1)|null|
 |**2025-04-10**|**Inverse Design of Block Polymer Materials with Desired Nanoscale Structure and Macroscale Properties**|Vinson Liao et.al.|[2504.07834v1](http://arxiv.org/abs/2504.07834v1)|null|
 |**2025-04-10**|**Interference-caged quantum many-body scars: the Fock space topological localization and interference zeros**|Tao-Lin Tan et.al.|[2504.07780v1](http://arxiv.org/abs/2504.07780v1)|null|
@@ -8698,6 +8718,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**A simple method for detection and quantitative estimation of deep levels in a barrier layer of AlGaN/GaN HEMT strucutres by analysis of light induced threshold voltage shift**|Maciej Matys et.al.|[2504.08625v1](http://arxiv.org/abs/2504.08625v1)|null|
+|**2025-04-11**|**Nonclassical states of light induced via measurement in a bimodalsystem**|R. Chakrabarti et.al.|[2504.08515v1](http://arxiv.org/abs/2504.08515v1)|null|
+|**2025-04-11**|**Contrasting Light-Induced Spin Torque in Antiferromagnetic and Altermagnetic Systems**|J. Zhou et.al.|[2504.08199v1](http://arxiv.org/abs/2504.08199v1)|null|
+|**2025-04-11**|**Scalable universal quantum gates between nitrogen-vacancy centers in levitated nanodiamonds arrays**|Guangyu Zhang et.al.|[2504.08194v1](http://arxiv.org/abs/2504.08194v1)|null|
+|**2025-04-11**|**Light-Induced Spin Slanting in 2D Multiferroic Magnet**|Jiangyu Zhao et.al.|[2504.08185v1](http://arxiv.org/abs/2504.08185v1)|null|
 |**2025-04-09**|**Light-field dressing of transient photo-excited states above $E_F$**|Fei Wang et.al.|[2504.06728v1](http://arxiv.org/abs/2504.06728v1)|null|
 |**2025-04-07**|**Ultrafast switchable polar and magnetic orders by nonlinear light-matter interaction**|Haoyu Wei et.al.|[2504.04662v1](http://arxiv.org/abs/2504.04662v1)|null|
 |**2025-04-03**|**In situ and real-time ultrafast spectroscopy of photoinduced reactions in perovskite nanomaterials**|Gi Rim Han et.al.|[2504.02331v1](http://arxiv.org/abs/2504.02331v1)|null|
@@ -9060,6 +9085,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Positive Terahertz Photoconductivity in CdHgTe Under Hydrostatic Pressure**|Ivan Yahniuk et.al.|[2504.08319v1](http://arxiv.org/abs/2504.08319v1)|null|
 |**2025-02-21**|**Efficiently Laser Driven Terahertz Surface Plasmon Polaritons on Long Metal Wire**|Shuoting Shao et.al.|[2502.08048v2](http://arxiv.org/abs/2502.08048v2)|null|
 |**2025-02-11**|**Terahertz electroluminescence from Dirac-Landau polaritons**|B. Benhamou-Bui et.al.|[2502.07897v1](http://arxiv.org/abs/2502.07897v1)|null|
 |**2025-01-07**|**Terahertz-driven ultrafast dynamics of rare-earth nickelates by controlling only the charge degree of freedom**|Gulloo Lal Prajapati et.al.|[2501.03650v1](http://arxiv.org/abs/2501.03650v1)|null|
@@ -9417,6 +9443,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Synthesis of intrinsic magnetic topological insulator MnBi2nTe3n+1 family by chemical vapor transport method with feedback regulation**|Heng Zhang et.al.|[2504.08397v1](http://arxiv.org/abs/2504.08397v1)|null|
+|**2025-04-11**|**Anomalous Hall Effect in Type IV 2D Collinear Magnets**|Ling Bai et.al.|[2504.08197v1](http://arxiv.org/abs/2504.08197v1)|null|
+|**2025-04-10**|**Exciton fractional Chern insulators in moiré heterostructures**|Raul Perea-Causin et.al.|[2504.08026v1](http://arxiv.org/abs/2504.08026v1)|null|
 |**2025-04-09**|**Signatures of unconventional superconductivity near reentrant and fractional quantum anomalous Hall insulators**|Fan Xu et.al.|[2504.06972v1](http://arxiv.org/abs/2504.06972v1)|null|
 |**2025-04-08**|**Moiré enhanced flat band in rhombohedral graphene**|Hongyun Zhang et.al.|[2504.06251v1](http://arxiv.org/abs/2504.06251v1)|null|
 |**2025-04-07**|**Topological Hall effect in ferromagnetic Weyl semimetal Mn $_5$Ge$_3$ originating in competing dipolar interaction and magnetocrystalline anisotropy**|Achintya Low et.al.|[2504.05252v1](http://arxiv.org/abs/2504.05252v1)|null|
