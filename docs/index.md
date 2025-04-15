@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Quantum Liouvillian Tomography**|Diogo Aguiar et.al.|[2504.10393v1](http://arxiv.org/abs/2504.10393v1)|null|
+|**2025-04-14**|**MIPS is a Maxwell fluid with an extended and non-monotonic crossover**|José Martín-Roca et.al.|[2504.10332v1](http://arxiv.org/abs/2504.10332v1)|null|
+|**2025-04-14**|**Performance of a Brownian information engine through potential profiling: Optimum output requisites, Heating-to-Refrigeration transition and their Re-entrance**|Rafna Rafeek et.al.|[2504.10311v1](http://arxiv.org/abs/2504.10311v1)|null|
+|**2025-04-14**|**Elastic displacements in wedge-shaped geometries with a straight edge: Green's functions for perpendicular forces**|Abdallah Daddi-Moussa-Ider et.al.|[2504.10239v1](http://arxiv.org/abs/2504.10239v1)|null|
+|**2025-04-14**|**Preliminary experimental investigation on the interaction of a subaqueous dune like granular structure with a turbulent open channel flow**|Durbar Roy et.al.|[2504.10111v1](http://arxiv.org/abs/2504.10111v1)|null|
+|**2025-04-14**|**Performances in solving the Bethe-Salpeter equation with the Yambo code**|Petru Milev et.al.|[2504.10096v1](http://arxiv.org/abs/2504.10096v1)|null|
+|**2025-04-14**|**Influence of packing protocol on fractal exponents in dense polydisperse packings**|Artem A. Vladimirov et.al.|[2504.10095v1](http://arxiv.org/abs/2504.10095v1)|null|
+|**2025-04-14**|**Giant and anisotropic magnetostriction in $β$-O$_{2}$ at 110 T**|Akihiko Ikeda et.al.|[2504.10085v1](http://arxiv.org/abs/2504.10085v1)|null|
+|**2025-04-14**|**Long-range magnetic interactions in Nd $_2$PdSi$_3$ and the formation of skyrmion phases in centrosymmetric metals**|Viviane Peçanha-Antonio et.al.|[2504.10075v1](http://arxiv.org/abs/2504.10075v1)|null|
+|**2025-04-14**|**Deconfined Quantum Critical Point: A Review of Progress**|Yi Cui et.al.|[2504.10027v1](http://arxiv.org/abs/2504.10027v1)|null|
+|**2025-04-14**|**Many-Body Colloidal Dynamics under Stochastic Resetting: Competing Effects of Particle Interactions on the Steady State Distribution**|Ron Vatash et.al.|[2504.10015v1](http://arxiv.org/abs/2504.10015v1)|null|
+|**2025-04-14**|**Enhancement and Suppression of Active Particle Movement Due to Membrane Deformations**|Adam Hitin Bialus et.al.|[2504.09922v1](http://arxiv.org/abs/2504.09922v1)|null|
+|**2025-04-14**|**A mechanical approach to facilitate the formation of dodecagonal quasicrystals and their approximants**|Zhehua Jiang et.al.|[2504.09894v1](http://arxiv.org/abs/2504.09894v1)|null|
+|**2025-04-14**|**Evaporative Refrigeration Effect in Evaporation and Condensation between Two Parallel Plates**|Peiyi Chen et.al.|[2504.09864v1](http://arxiv.org/abs/2504.09864v1)|null|
+|**2025-04-14**|**Stiffness, strength, energy dissipation and reusability in heterogeneous architected polycrystals**|Seunghwan Lee et.al.|[2504.09817v1](http://arxiv.org/abs/2504.09817v1)|null|
+|**2025-04-14**|**A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation**|Siyuan Niu et.al.|[2504.09813v1](http://arxiv.org/abs/2504.09813v1)|null|
+|**2025-04-14**|**Quantum Phase diagrams and transitions for Chern topological insulators**|Ralph M. Kaufmann et.al.|[2504.09770v1](http://arxiv.org/abs/2504.09770v1)|null|
+|**2025-04-13**|**Activity drives self-assembly of passive soft inclusions in active nematics**|Ahmet Umut Akduman et.al.|[2504.09693v1](http://arxiv.org/abs/2504.09693v1)|null|
+|**2025-04-13**|**Variational principle for the time evolution operator, its usefulness in effective theories of condensed matter systems and a glimpse into the role played by the quantum geometry of unitary transformations**|Michael Vogl et.al.|[2504.09512v1](http://arxiv.org/abs/2504.09512v1)|null|
+|**2025-04-13**|**Magnetic Interactions between Nanoscale Domains in Correlated Liquids**|Mohammadhasan Dinpajooh et.al.|[2504.09422v1](http://arxiv.org/abs/2504.09422v1)|null|
 |**2025-04-11**|**Shapiro resonances in ac-self-modulated exciton-polariton Josephson junctions**|I. Carraro Haddad et.al.|[2504.08708v1](http://arxiv.org/abs/2504.08708v1)|null|
 |**2025-04-11**|**Autophoretic skating along permeable surfaces**|Günther Turk et.al.|[2504.08702v1](http://arxiv.org/abs/2504.08702v1)|null|
 |**2025-04-11**|**A Generic Explanation of the Mechanism of Co-solvency**|Xiangyu Zhang et.al.|[2504.08688v1](http://arxiv.org/abs/2504.08688v1)|null|
@@ -9161,6 +9181,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**AC Current-Driven Magnetization Switching and Nonlinear Hall Rectification in a Magnetic Topological Insulator**|Yuto Kiyonaga et.al.|[2504.10450v1](http://arxiv.org/abs/2504.10450v1)|null|
+|**2025-04-14**|**Berry curvature-induced intrinsic spin Hall effect in light-element-based CrN system for magnetization switching**|Gaurav K. Shukla et.al.|[2504.09918v1](http://arxiv.org/abs/2504.09918v1)|null|
+|**2025-04-11**|**Tunable Magnon Polaritons via Eddy-Current-Induced Dissipation in Metallic-Banded YIG Spheres**|Tatsushi Uno et.al.|[2504.08917v1](http://arxiv.org/abs/2504.08917v1)|null|
 |**2025-04-02**|**Interface-Generated Spin Current Induced Magnetoresistance in RuO2/Py Heterostructures**|Akashdeep Akashdeep et.al.|[2504.00230v2](http://arxiv.org/abs/2504.00230v2)|null|
 |**2025-04-01**|**Magnetoelectric control of spin helicity and nonreciprocal charge transport in a multiferroic metal**|Daiki Yamaguchi et.al.|[2503.23261v2](http://arxiv.org/abs/2503.23261v2)|null|
 |**2025-03-27**|**Emergent Non-Markovian Gain in Open Quantum Systems**|H. Z. Shen et.al.|[2503.21739v1](http://arxiv.org/abs/2503.21739v1)|null|
@@ -9443,6 +9466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Tailoring Neel orders in Layered Topological Antiferromagnets**|Xiaotian Yang et.al.|[2504.10237v1](http://arxiv.org/abs/2504.10237v1)|null|
 |**2025-04-11**|**Synthesis of intrinsic magnetic topological insulator MnBi2nTe3n+1 family by chemical vapor transport method with feedback regulation**|Heng Zhang et.al.|[2504.08397v1](http://arxiv.org/abs/2504.08397v1)|null|
 |**2025-04-11**|**Anomalous Hall Effect in Type IV 2D Collinear Magnets**|Ling Bai et.al.|[2504.08197v1](http://arxiv.org/abs/2504.08197v1)|null|
 |**2025-04-10**|**Exciton fractional Chern insulators in moiré heterostructures**|Raul Perea-Causin et.al.|[2504.08026v1](http://arxiv.org/abs/2504.08026v1)|null|
