@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method**|Weicheng Huang et.al.|[2504.11417v1](http://arxiv.org/abs/2504.11417v1)|null|
+|**2025-04-15**|**Dynamical Casimir effect in superconducting cavities: from photon generation to universal quantum gates**|Fernando C. Lombardo et.al.|[2504.11361v1](http://arxiv.org/abs/2504.11361v1)|null|
+|**2025-04-15**|**Deciphering the Structure of Push-Pull Conjugated Polymer Aggregates in Solution and Film**|Thomas P. Chaney et.al.|[2504.11359v1](http://arxiv.org/abs/2504.11359v1)|null|
+|**2025-04-15**|**Organisation and dynamics of individual DNA segments in topologically complex genomes**|Saminathan Ramakrishnan et.al.|[2504.11340v1](http://arxiv.org/abs/2504.11340v1)|null|
+|**2025-04-15**|**Crystal nucleation and growth in high-entropy alloys revealed by atomic electron tomography**|Yakun Yuan et.al.|[2504.11325v1](http://arxiv.org/abs/2504.11325v1)|null|
+|**2025-04-15**|**Giant Magnetocaloric Effect in Spin Supersolid Candidate Na $_2$BaCo(PO$_4$)$_2$**|Junsen Xiang et.al.|[2504.11298v1](http://arxiv.org/abs/2504.11298v1)|null|
+|**2025-04-15**|**Remote electric-field control of antiferromagnetic magnon-polaritons**|Dmitriy Yavorskiy et.al.|[2504.11293v1](http://arxiv.org/abs/2504.11293v1)|null|
+|**2025-04-15**|**Discontinuous depinning/yielding transition of elastic manifolds with tailored internal elasticity**|E. A. Jagla et.al.|[2504.11180v1](http://arxiv.org/abs/2504.11180v1)|null|
+|**2025-04-15**|**Nonreciprocal Spin-Wave Propagation in Anisotropy-Graded Iron Films Prepared by Nitrogen Implantation**|L. Christienne et.al.|[2504.11145v1](http://arxiv.org/abs/2504.11145v1)|null|
+|**2025-04-15**|**Modeling dislocations in quasicrystals through amplitude equations**|Marcello De Donno et.al.|[2504.11039v1](http://arxiv.org/abs/2504.11039v1)|null|
+|**2025-04-15**|**From Heteropolymer Stiffness Distributions to Effective Homopolymers: A Conformational Analysis of Intrinsically Disordered Proteins**|Yannick Witzky et.al.|[2504.11027v1](http://arxiv.org/abs/2504.11027v1)|null|
+|**2025-04-15**|**Tunable self-emulsification via viscoelastic control of Marangoni-driven interfacial instabilities**|Christoph Haessig et.al.|[2504.11021v1](http://arxiv.org/abs/2504.11021v1)|null|
+|**2025-04-15**|**Floquet realization of prethermal Meissner phase in a two-leg flux ladder**|Biswajit Paul et.al.|[2504.11017v1](http://arxiv.org/abs/2504.11017v1)|null|
+|**2025-04-15**|**Phonon-polaritons in Zn(1-x)MgxTe (x<0.09): A Raman scattering study**|D. Singh et.al.|[2504.10977v1](http://arxiv.org/abs/2504.10977v1)|null|
+|**2025-04-14**|**Biomechanics of orientationally ordered epithelial tissue**|Patrick W. Alford et.al.|[2504.10689v1](http://arxiv.org/abs/2504.10689v1)|null|
 |**2025-04-14**|**Quantum Liouvillian Tomography**|Diogo Aguiar et.al.|[2504.10393v1](http://arxiv.org/abs/2504.10393v1)|null|
 |**2025-04-14**|**MIPS is a Maxwell fluid with an extended and non-monotonic crossover**|José Martín-Roca et.al.|[2504.10332v1](http://arxiv.org/abs/2504.10332v1)|null|
 |**2025-04-14**|**Performance of a Brownian information engine through potential profiling: Optimum output requisites, Heating-to-Refrigeration transition and their Re-entrance**|Rafna Rafeek et.al.|[2504.10311v1](http://arxiv.org/abs/2504.10311v1)|null|
@@ -9101,6 +9116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Generation of Relativistic Structured Spin-Polarized Lepton Beams**|Zhong-Peng Li et.al.|[2504.11113v1](http://arxiv.org/abs/2504.11113v1)|null|
 |**2025-04-11**|**Positive Terahertz Photoconductivity in CdHgTe Under Hydrostatic Pressure**|Ivan Yahniuk et.al.|[2504.08319v1](http://arxiv.org/abs/2504.08319v1)|null|
 |**2025-02-21**|**Efficiently Laser Driven Terahertz Surface Plasmon Polaritons on Long Metal Wire**|Shuoting Shao et.al.|[2502.08048v2](http://arxiv.org/abs/2502.08048v2)|null|
 |**2025-02-11**|**Terahertz electroluminescence from Dirac-Landau polaritons**|B. Benhamou-Bui et.al.|[2502.07897v1](http://arxiv.org/abs/2502.07897v1)|null|
@@ -9462,6 +9478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Planar Hall effect in ultrathin topological insulator films**|Mohammad Shafiei et.al.|[2504.10980v1](http://arxiv.org/abs/2504.10980v1)|null|
 |**2025-04-14**|**Tailoring Neel orders in Layered Topological Antiferromagnets**|Xiaotian Yang et.al.|[2504.10237v1](http://arxiv.org/abs/2504.10237v1)|null|
 |**2025-04-11**|**Synthesis of intrinsic magnetic topological insulator MnBi2nTe3n+1 family by chemical vapor transport method with feedback regulation**|Heng Zhang et.al.|[2504.08397v1](http://arxiv.org/abs/2504.08397v1)|null|
 |**2025-04-11**|**Anomalous Hall Effect in Type IV 2D Collinear Magnets**|Ling Bai et.al.|[2504.08197v1](http://arxiv.org/abs/2504.08197v1)|null|
