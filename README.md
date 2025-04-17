@@ -1098,6 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Dzyaloshinskii-Moriya Interaction and Dipole-Exchange Curvature Effects on the Spin-Wave Spectra of Magnetic Nanotubes**|B. Mimica-Figari et.al.|[2504.12219v1](http://arxiv.org/abs/2504.12219v1)|null|
+|**2025-04-16**|**Elastic wave propagation in magneto-active fibre composites**|Harold Berjamin et.al.|[2504.12176v1](http://arxiv.org/abs/2504.12176v1)|null|
+|**2025-04-16**|**Energy Cascades in Driven Granular Liquids : A new Universality Class? I : Model and Symmetries**|O. Coquand et.al.|[2504.12166v1](http://arxiv.org/abs/2504.12166v1)|null|
+|**2025-04-16**|**Pressure-tuned spin chains in brochantite, Cu $_4$SO$_4$(OH)$_6$**|Victoria A. Ginga et.al.|[2504.12057v1](http://arxiv.org/abs/2504.12057v1)|null|
+|**2025-04-16**|**Refining the Understanding of Operator Size Dynamics in Open Quantum Systems**|Haolin Jiang et.al.|[2504.12056v1](http://arxiv.org/abs/2504.12056v1)|null|
+|**2025-04-16**|**Fluctuation induced network patterns in active matter with spatially correlated noise**|Sebastian Fehlinger et.al.|[2504.12041v1](http://arxiv.org/abs/2504.12041v1)|null|
+|**2025-04-16**|**Periodic Potential for Point Defects in a 2D Hexagonal Colloidal Lattice**|Huang Xicheng et.al.|[2504.12038v1](http://arxiv.org/abs/2504.12038v1)|null|
+|**2025-04-16**|**Epstein zeta method for many-body lattice sums**|Andreas A. Buchheit et.al.|[2504.11989v1](http://arxiv.org/abs/2504.11989v1)|null|
+|**2025-04-16**|**Dirac Representation for Lattice Spin Operators: Spin- $1/2$ and Spin-$1$ cases**|Maseim Bassis Kenmoe et.al.|[2504.11917v1](http://arxiv.org/abs/2504.11917v1)|null|
+|**2025-04-16**|**Twist Grain Boundary phases in proper ferroelectric liquid crystals realm**|Damian Pociecha et.al.|[2504.11862v1](http://arxiv.org/abs/2504.11862v1)|null|
+|**2025-04-16**|**Bloch phonon-polaritons with anomalous dispersion in polaritonic Fourier crystals**|Sergey G. Menabde et.al.|[2504.11842v1](http://arxiv.org/abs/2504.11842v1)|null|
+|**2025-04-16**|**Density-field structures in a few systems undergoing velocity ordering**|Subir K. Das et.al.|[2504.11817v1](http://arxiv.org/abs/2504.11817v1)|null|
+|**2025-04-16**|**Phase Separation in Active Binary Mixtures With Chemical Reaction**|Sayantan Mondal et.al.|[2504.11806v1](http://arxiv.org/abs/2504.11806v1)|null|
+|**2025-04-16**|**Infrared Imaging of Photochromic Contrast in Thiazolothiazole-Embedded Polymer Films**|Nuren Z. Shuchi et.al.|[2504.11690v1](http://arxiv.org/abs/2504.11690v1)|null|
+|**2025-04-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thinning Medium**|Sayantan Mondal et.al.|[2504.11683v1](http://arxiv.org/abs/2504.11683v1)|null|
+|**2025-04-15**|**Dynamical electronic correlation and chiral magnetism in van der Waals magnet Fe4GeTe2**|Md. Nur Hasan et.al.|[2504.11563v1](http://arxiv.org/abs/2504.11563v1)|null|
 |**2025-04-15**|**A tutorial on simulating nonlinear behaviors of flexible structures with the discrete differential geometry (DDG) method**|Weicheng Huang et.al.|[2504.11417v1](http://arxiv.org/abs/2504.11417v1)|null|
 |**2025-04-15**|**Dynamical Casimir effect in superconducting cavities: from photon generation to universal quantum gates**|Fernando C. Lombardo et.al.|[2504.11361v1](http://arxiv.org/abs/2504.11361v1)|null|
 |**2025-04-15**|**Deciphering the Structure of Push-Pull Conjugated Polymer Aggregates in Solution and Film**|Thomas P. Chaney et.al.|[2504.11359v1](http://arxiv.org/abs/2504.11359v1)|null|
@@ -8749,6 +8765,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Infrared Imaging of Photochromic Contrast in Thiazolothiazole-Embedded Polymer Films**|Nuren Z. Shuchi et.al.|[2504.11690v1](http://arxiv.org/abs/2504.11690v1)|null|
 |**2025-04-14**|**A simple method for detection and quantitative estimation of deep levels in a barrier layer of AlGaN/GaN HEMT structures by analysis of light induced threshold voltage shift**|Maciej Matys et.al.|[2504.08625v2](http://arxiv.org/abs/2504.08625v2)|null|
 |**2025-04-11**|**Nonclassical states of light induced via measurement in a bimodalsystem**|R. Chakrabarti et.al.|[2504.08515v1](http://arxiv.org/abs/2504.08515v1)|null|
 |**2025-04-11**|**Contrasting Light-Induced Spin Torque in Antiferromagnetic and Altermagnetic Systems**|J. Zhou et.al.|[2504.08199v1](http://arxiv.org/abs/2504.08199v1)|null|
