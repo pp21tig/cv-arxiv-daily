@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Instability and stress fluctuations of a probe driven through a worm-like micellar fluid**|Abhishek Ghadai et.al.|[2504.13080v1](http://arxiv.org/abs/2504.13080v1)|null|
+|**2025-04-17**|**Topological defect engineering enables size and shape control in self-assembly**|Lara Koehler et.al.|[2504.13073v1](http://arxiv.org/abs/2504.13073v1)|null|
+|**2025-04-17**|**Cavity-enhanced spectroscopy of individual nuclear spins in a dense bath**|Alexander Ulanowski et.al.|[2504.12957v1](http://arxiv.org/abs/2504.12957v1)|null|
+|**2025-04-17**|**Osmolyte-Modulated Differential Capacitance and Disjoining Pressure for Nanoconfined Electrolytes: A Modified Poisson-Boltzmann Theory**|Victoria A. Vasileva et.al.|[2504.12941v1](http://arxiv.org/abs/2504.12941v1)|null|
+|**2025-04-17**|**Phase field model of Coulomb explosion damage in solid induced by ultrashort laser**|Lihong Ao et.al.|[2504.12774v1](http://arxiv.org/abs/2504.12774v1)|null|
+|**2025-04-17**|**Model calculations of the strains associated with surface acoustic waves**|Takuya Kawada et.al.|[2504.12752v1](http://arxiv.org/abs/2504.12752v1)|null|
+|**2025-04-17**|**Rheology of dilute granular gases with hard-core and inverse power-law potentials**|Yuria Kobayashi et.al.|[2504.12686v1](http://arxiv.org/abs/2504.12686v1)|null|
+|**2025-04-17**|**Topologically Directed Simulations Reveal the Impact of Geometric Constraints on Knotted Proteins**|Agnese Barbensi et.al.|[2504.12659v1](http://arxiv.org/abs/2504.12659v1)|null|
+|**2025-04-17**|**Rare-Event-Induced Ergodicity Breaking in Logarithmic Aging Systems**|Chunyan Li et.al.|[2504.12658v1](http://arxiv.org/abs/2504.12658v1)|null|
+|**2025-04-17**|**Accelerated Collapse Kinetics of Charged Polymers in Good Solvent: Role of Counterion Condensation**|Susmita Ghosh et.al.|[2504.12642v1](http://arxiv.org/abs/2504.12642v1)|null|
+|**2025-04-17**|**Crystal growth, structure and physical properties of quasi-one-dimensional tellurides Fe $_{4-x}$VTe$_{4-y}$ ($x=1.01$, $y=0.74$) and V$_{4.64}$Te$_4$**|S. N. Sun et.al.|[2504.12630v1](http://arxiv.org/abs/2504.12630v1)|null|
+|**2025-04-17**|**Coarse-Grained Force Fields via Rotational Entropy Corrections to Free Energy Landscapes of Diffusing Molecules**|J. M. Hall et.al.|[2504.12592v1](http://arxiv.org/abs/2504.12592v1)|null|
+|**2025-04-17**|**Observation of the Axion quasiparticle in 2D MnBi $_2$Te$_4$**|Jian-Xiang Qiu et.al.|[2504.12572v1](http://arxiv.org/abs/2504.12572v1)|null|
 |**2025-04-16**|**Dzyaloshinskii-Moriya Interaction and Dipole-Exchange Curvature Effects on the Spin-Wave Spectra of Magnetic Nanotubes**|B. Mimica-Figari et.al.|[2504.12219v1](http://arxiv.org/abs/2504.12219v1)|null|
 |**2025-04-16**|**Elastic wave propagation in magneto-active fibre composites**|Harold Berjamin et.al.|[2504.12176v1](http://arxiv.org/abs/2504.12176v1)|null|
 |**2025-04-16**|**Energy Cascades in Driven Granular Liquids : A new Universality Class? I : Model and Symmetries**|O. Coquand et.al.|[2504.12166v1](http://arxiv.org/abs/2504.12166v1)|null|
@@ -9210,6 +9223,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Current-driven dynamics of antiferromagnetic domain-wall skyrmions**|Wooyon Kim et.al.|[2504.12653v1](http://arxiv.org/abs/2504.12653v1)|null|
 |**2025-04-14**|**AC Current-Driven Magnetization Switching and Nonlinear Hall Rectification in a Magnetic Topological Insulator**|Yuto Kiyonaga et.al.|[2504.10450v1](http://arxiv.org/abs/2504.10450v1)|null|
 |**2025-04-14**|**Berry curvature-induced intrinsic spin Hall effect in light-element-based CrN system for magnetization switching**|Gaurav K. Shukla et.al.|[2504.09918v1](http://arxiv.org/abs/2504.09918v1)|null|
 |**2025-04-11**|**Tunable Magnon Polaritons via Eddy-Current-Induced Dissipation in Metallic-Banded YIG Spheres**|Tatsushi Uno et.al.|[2504.08917v1](http://arxiv.org/abs/2504.08917v1)|null|
@@ -9495,6 +9509,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Accessing quasi-flat $\textit{f}$ -bands to harvest large Berry curvature in NdGaSi**|Anyesh Saraswati et.al.|[2504.12784v1](http://arxiv.org/abs/2504.12784v1)|null|
+|**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
 |**2025-04-15**|**Planar Hall effect in ultrathin topological insulator films**|Mohammad Shafiei et.al.|[2504.10980v1](http://arxiv.org/abs/2504.10980v1)|null|
 |**2025-04-14**|**Tailoring Neel orders in Layered Topological Antiferromagnets**|Xiaotian Yang et.al.|[2504.10237v1](http://arxiv.org/abs/2504.10237v1)|null|
 |**2025-04-11**|**Synthesis of intrinsic magnetic topological insulator MnBi2nTe3n+1 family by chemical vapor transport method with feedback regulation**|Heng Zhang et.al.|[2504.08397v1](http://arxiv.org/abs/2504.08397v1)|null|
@@ -9967,6 +9983,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
+|**2025-04-16**|**Chiral crossroads in $\mathrm{Ho_3ScO_6}$ : a tale of frustration in maple leaf lattice**|Pratyay Ghosh et.al.|[2504.12387v1](http://arxiv.org/abs/2504.12387v1)|null|
 |**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|**[link](https://github.com/albanbloorriley/rgd_lp)**|
 |**2025-04-10**|**Quantifying the Phase Diagram and Hamiltonian of $S=1/2$ Kagome Antiferromagnets: Bridging Theory and Experiment**|Shengtao Jiang et.al.|[2504.07387v1](http://arxiv.org/abs/2504.07387v1)|null|
 |**2025-04-08**|**Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials**|Aaron T. Breidenbach et.al.|[2504.06491v1](http://arxiv.org/abs/2504.06491v1)|null|
