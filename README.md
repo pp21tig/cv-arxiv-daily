@@ -1098,6 +1098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Comment on "The inconvenient truth about flocks" by Chen et al**|Hugues Chaté et.al.|[2504.13683v1](http://arxiv.org/abs/2504.13683v1)|null|
+|**2025-04-18**|**Fermi surface evolution in Weyl semimetal t-PtBi $_2$ probed by transverse transport properties**|F. Caglieris et.al.|[2504.13661v1](http://arxiv.org/abs/2504.13661v1)|null|
+|**2025-04-18**|**Long-range electron coherence in Kagome metals**|Chunyu et.al.|[2504.13564v1](http://arxiv.org/abs/2504.13564v1)|null|
+|**2025-04-18**|**Emergence of rotating clusters in active Brownian particles with visual perception**|Radha Madhab Chandra et.al.|[2504.13550v1](http://arxiv.org/abs/2504.13550v1)|null|
+|**2025-04-18**|**Sliding of liquid droplets on thin viscoelastic soft layers**|Menghua Zhao et.al.|[2504.13473v1](http://arxiv.org/abs/2504.13473v1)|null|
+|**2025-04-17**|**The configurational entropy of random trees**|Pieter H. W. van der Hoek et.al.|[2504.13364v1](http://arxiv.org/abs/2504.13364v1)|null|
+|**2025-04-17**|**Two-field theory for phase coexistence of active Brownian particles**|Pablo Perez-Bastías et.al.|[2504.13327v1](http://arxiv.org/abs/2504.13327v1)|null|
+|**2025-04-17**|**Novel phenomena in transition-metal oxide thin films and heterostructures with strong correlations and spin-orbit coupling**|Satoshi Okamoto et.al.|[2504.13269v1](http://arxiv.org/abs/2504.13269v1)|null|
+|**2025-04-17**|**The $β$ -decay spectrum of Tritiated graphene: combining nuclear quantum mechanics with Density Functional Theory**|Andrea Casale et.al.|[2504.13259v1](http://arxiv.org/abs/2504.13259v1)|null|
+|**2025-04-17**|**Quantum precursors to Kolmogorov-Arnold-Moser theorem in Floquet spin- $J$ systems**|Jesús A. Segura-Landa et.al.|[2504.13257v1](http://arxiv.org/abs/2504.13257v1)|null|
 |**2025-04-17**|**Instability and stress fluctuations of a probe driven through a worm-like micellar fluid**|Abhishek Ghadai et.al.|[2504.13080v1](http://arxiv.org/abs/2504.13080v1)|null|
 |**2025-04-17**|**Topological defect engineering enables size and shape control in self-assembly**|Lara Koehler et.al.|[2504.13073v1](http://arxiv.org/abs/2504.13073v1)|null|
 |**2025-04-17**|**Cavity-enhanced spectroscopy of individual nuclear spins in a dense bath**|Alexander Ulanowski et.al.|[2504.12957v1](http://arxiv.org/abs/2504.12957v1)|null|
@@ -9223,6 +9233,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Single-molecule electroluminescence: crossover from weak to strong coupling**|Andrés Bejarano et.al.|[2504.13657v1](http://arxiv.org/abs/2504.13657v1)|null|
 |**2025-04-17**|**Current-driven dynamics of antiferromagnetic domain-wall skyrmions**|Wooyon Kim et.al.|[2504.12653v1](http://arxiv.org/abs/2504.12653v1)|null|
 |**2025-04-14**|**AC Current-Driven Magnetization Switching and Nonlinear Hall Rectification in a Magnetic Topological Insulator**|Yuto Kiyonaga et.al.|[2504.10450v1](http://arxiv.org/abs/2504.10450v1)|null|
 |**2025-04-14**|**Berry curvature-induced intrinsic spin Hall effect in light-element-based CrN system for magnetization switching**|Gaurav K. Shukla et.al.|[2504.09918v1](http://arxiv.org/abs/2504.09918v1)|null|
@@ -9509,6 +9520,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Isotropic and anisotropic spin-dependent transport in epitaxial Fe $_3$ Si**|Nozomi Soya et.al.|[2504.13721v1](http://arxiv.org/abs/2504.13721v1)|null|
 |**2025-04-17**|**Accessing quasi-flat $\textit{f}$ -bands to harvest large Berry curvature in NdGaSi**|Anyesh Saraswati et.al.|[2504.12784v1](http://arxiv.org/abs/2504.12784v1)|null|
 |**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
 |**2025-04-15**|**Planar Hall effect in ultrathin topological insulator films**|Mohammad Shafiei et.al.|[2504.10980v1](http://arxiv.org/abs/2504.10980v1)|null|
@@ -9990,7 +10002,7 @@
 |**2025-04-08**|**Identifying Universal Spin Excitations in Spin-1/2 Kagome Quantum Spin Liquid Materials**|Aaron T. Breidenbach et.al.|[2504.06491v1](http://arxiv.org/abs/2504.06491v1)|null|
 |**2025-04-08**|**Interplay between trimer structure and magnetic ground state in Ba5Ru3O12 probed by Neutron and muSR techniques**|E. Kushwaha et.al.|[2504.06113v1](http://arxiv.org/abs/2504.06113v1)|null|
 |**2025-04-02**|**Revealing the Low Temperature Phase of FAPbI $_3$ using A Machine-Learned Potential**|Sangita Dutta et.al.|[2503.23974v2](http://arxiv.org/abs/2503.23974v2)|null|
-|**2025-03-28**|**Detection of anyon braiding through pump-probe spectroscopy**|Xu Yang et.al.|[2503.22792v1](http://arxiv.org/abs/2503.22792v1)|null|
+|**2025-03-28**|**Detection of anyon braiding through pump-probe spectroscopy**|Xu Yang et.al.|[2503.22792v1](http://arxiv.org/abs/2503.22792v1)|**[link](https://github.com/rtbuechele17osu/TC-pump-probe)**|
 |**2025-03-27**|**Emergent Hidden Multipolar State in the Triangular Lattice Magnet TmZn2GaO5**|Matthew Ennis et.al.|[2503.22009v1](http://arxiv.org/abs/2503.22009v1)|null|
 |**2025-04-02**|**BaCo $_2$(AsO$_4$)$_2$ : Strong Kitaev, After All**|Pavel A. Maksimov et.al.|[2503.20859v2](http://arxiv.org/abs/2503.20859v2)|null|
 |**2025-03-25**|**Magnetic excitations in a trilayer antiferromagnetic Heisenberg model**|Lan-Ye He et.al.|[2503.19716v1](http://arxiv.org/abs/2503.19716v1)|null|
