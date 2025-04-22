@@ -1098,6 +1098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Tracer dynamics in an interacting active bath: fluctuations and energy partition**|Ritwick Sarkar et.al.|[2504.15250v1](http://arxiv.org/abs/2504.15250v1)|null|
+|**2025-04-21**|**Swap Monte Carlo for diatomic molecules**|Till Böhmer et.al.|[2504.15238v1](http://arxiv.org/abs/2504.15238v1)|null|
+|**2025-04-21**|**Rydberg Atoms in a Ladder Geometry: Quench Dynamics and Floquet Engineering**|Mainak Pal et.al.|[2504.15230v1](http://arxiv.org/abs/2504.15230v1)|null|
+|**2025-04-21**|**Bubble-assisted micromixing via thermally excited intrinsic air within microfluidic systems**|Seyed Shahriar Riazi et.al.|[2504.15124v1](http://arxiv.org/abs/2504.15124v1)|null|
+|**2025-04-21**|**Electronic stopping cross sections of tungsten to swift ions and comparisons with models**|Tiago F. Silva et.al.|[2504.15111v1](http://arxiv.org/abs/2504.15111v1)|null|
+|**2025-04-21**|**Learning via mechanosensitivity and activity in cytoskeletal networks**|Deb S. Banerjee et.al.|[2504.15107v1](http://arxiv.org/abs/2504.15107v1)|null|
+|**2025-04-21**|**Optimizations of electronic stopping cross section measurements using the backscattering method**|Victor Pires et.al.|[2504.15106v1](http://arxiv.org/abs/2504.15106v1)|null|
+|**2025-04-21**|**Ordering and association of patchy particles in narrow channels**|Péter Gurin et.al.|[2504.15067v1](http://arxiv.org/abs/2504.15067v1)|null|
+|**2025-04-21**|**Fickian Yet non-Gaussian Diffusion in Complex Molecular Fluids via a non-local diffusion framework**|H. Srinivasan et.al.|[2504.15020v1](http://arxiv.org/abs/2504.15020v1)|null|
+|**2025-04-21**|**Vector pulse magnet**|Kosuke Noda et.al.|[2504.14896v1](http://arxiv.org/abs/2504.14896v1)|null|
+|**2025-04-21**|**Partial-Wetting Phenomena in Active Matter**|Jing Zhang et.al.|[2504.14818v1](http://arxiv.org/abs/2504.14818v1)|null|
+|**2025-04-21**|**Extending the Low-Frequency Limit of Time-Domain Thermoreflectance via Periodic Waveform Analysis**|Mingzhen Zhang et.al.|[2504.14781v1](http://arxiv.org/abs/2504.14781v1)|null|
+|**2025-04-20**|**Path sampling challenges in large biomolecular systems: RETIS and REPPTIS for ABL-imatinib kinetics**|Wouter Vervust et.al.|[2504.14722v1](http://arxiv.org/abs/2504.14722v1)|null|
+|**2025-04-20**|**Quantum Simulation of the Unruh Temperature the Thermal Properties of Virtually Evolving Bose-Einstein Condensates**|Imad-Eddine Chorfi et.al.|[2504.14685v1](http://arxiv.org/abs/2504.14685v1)|null|
+|**2025-04-20**|**A Review on the Applications of Density Functional Theory to the FQH System**|Yi Yang et.al.|[2504.14558v1](http://arxiv.org/abs/2504.14558v1)|null|
+|**2025-04-20**|**Multifractional Brownian motion with telegraphic, stochastically varying exponent**|Michał Balcerek et.al.|[2504.14546v1](http://arxiv.org/abs/2504.14546v1)|null|
+|**2025-04-19**|**Wave characteristics and anisotropic homogenization theory of soft matters layered structure**|Rui. Guo et.al.|[2504.14271v1](http://arxiv.org/abs/2504.14271v1)|null|
+|**2025-04-19**|**Bacteria exploit torque-induced buckling instability for flagellar wrapping**|Takuro Kataoka et.al.|[2504.14207v1](http://arxiv.org/abs/2504.14207v1)|null|
 |**2025-04-18**|**Comment on "The inconvenient truth about flocks" by Chen et al**|Hugues Chaté et.al.|[2504.13683v1](http://arxiv.org/abs/2504.13683v1)|null|
 |**2025-04-18**|**Fermi surface evolution in Weyl semimetal t-PtBi $_2$ probed by transverse transport properties**|F. Caglieris et.al.|[2504.13661v1](http://arxiv.org/abs/2504.13661v1)|null|
 |**2025-04-18**|**Long-range electron coherence in Kagome metals**|Chunyu et.al.|[2504.13564v1](http://arxiv.org/abs/2504.13564v1)|null|
@@ -8788,6 +8806,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-19**|**Bulk photogalvanic current control and gap spectroscopy in 2D hexagonal materials**|Anna Galler et.al.|[2504.14236v1](http://arxiv.org/abs/2504.14236v1)|null|
 |**2025-04-16**|**Infrared Imaging of Photochromic Contrast in Thiazolothiazole-Embedded Polymer Films**|Nuren Z. Shuchi et.al.|[2504.11690v1](http://arxiv.org/abs/2504.11690v1)|null|
 |**2025-04-14**|**A simple method for detection and quantitative estimation of deep levels in a barrier layer of AlGaN/GaN HEMT structures by analysis of light induced threshold voltage shift**|Maciej Matys et.al.|[2504.08625v2](http://arxiv.org/abs/2504.08625v2)|null|
 |**2025-04-11**|**Nonclassical states of light induced via measurement in a bimodalsystem**|R. Chakrabarti et.al.|[2504.08515v1](http://arxiv.org/abs/2504.08515v1)|null|
