@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Bayesian Parameter Identification in the Landau-de Gennes Theory for Nematic Liquid Crystals**|Heiko Gimperlein et.al.|[2504.16029v1](http://arxiv.org/abs/2504.16029v1)|null|
+|**2025-04-22**|**Defects, Sound Damping, and the Boson Peak in Amorphous Solids**|Elijah Flenner et.al.|[2504.15878v1](http://arxiv.org/abs/2504.15878v1)|null|
+|**2025-04-22**|**Emergent epithelial elasticity governed by interfacial surface mechanics and substrate interaction**|Urska Andrensek et.al.|[2504.15673v1](http://arxiv.org/abs/2504.15673v1)|null|
+|**2025-04-22**|**Coupled Instantons In A Four-Well Potential With Application To The Tunneling Of A Composite Particle**|Pervez Hoodbhoy et.al.|[2504.15607v1](http://arxiv.org/abs/2504.15607v1)|null|
+|**2025-04-22**|**Nonreciprocal wave-mediated interactions power a classical time crystal**|Mia C. Morrell et.al.|[2504.15495v1](http://arxiv.org/abs/2504.15495v1)|null|
+|**2025-04-21**|**Nernst power factor and figure of merit in compensated semimetal ScSb**|Antu Laha et.al.|[2504.15450v1](http://arxiv.org/abs/2504.15450v1)|null|
+|**2025-04-21**|**Helicons in multi-Weyl semimetals**|Shiv Kumar Ram et.al.|[2504.15426v1](http://arxiv.org/abs/2504.15426v1)|null|
+|**2025-04-21**|**Bacterial chemotaxis considering memory effects**|Manuel Mayo et.al.|[2504.15405v1](http://arxiv.org/abs/2504.15405v1)|null|
+|**2025-04-21**|**Non-Hermitian wave turbulence**|Xander M. de Wit et.al.|[2504.15403v1](http://arxiv.org/abs/2504.15403v1)|null|
+|**2025-04-21**|**Bacterial chemotaxis considering memory effects (letter)**|Manuel Mayo et.al.|[2504.15385v1](http://arxiv.org/abs/2504.15385v1)|null|
+|**2025-04-21**|**Interacting Chern insulator transition on the sphere: revealing the Gross-Neveu-Yukawa criticality**|Zhi-Qiang Gao et.al.|[2504.15338v1](http://arxiv.org/abs/2504.15338v1)|null|
 |**2025-04-21**|**Tracer dynamics in an interacting active bath: fluctuations and energy partition**|Ritwick Sarkar et.al.|[2504.15250v1](http://arxiv.org/abs/2504.15250v1)|null|
 |**2025-04-21**|**Swap Monte Carlo for diatomic molecules**|Till Böhmer et.al.|[2504.15238v1](http://arxiv.org/abs/2504.15238v1)|null|
 |**2025-04-21**|**Rydberg Atoms in a Ladder Geometry: Quench Dynamics and Floquet Engineering**|Mainak Pal et.al.|[2504.15230v1](http://arxiv.org/abs/2504.15230v1)|null|
@@ -10014,6 +10025,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**From Spin Waves to Monte Carlo Simulations: Compiling an Experimental Exchange Interaction Dataset for Magnetic Materials**|Mojtaba Alaei et.al.|[2504.15764v1](http://arxiv.org/abs/2504.15764v1)|null|
 |**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
 |**2025-04-16**|**Chiral crossroads in $\mathrm{Ho_3ScO_6}$ : a tale of frustration in maple leaf lattice**|Pratyay Ghosh et.al.|[2504.12387v1](http://arxiv.org/abs/2504.12387v1)|null|
 |**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|**[link](https://github.com/albanbloorriley/rgd_lp)**|
