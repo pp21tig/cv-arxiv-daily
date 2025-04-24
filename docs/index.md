@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924v1](http://arxiv.org/abs/2504.16924v1)|null|
+|**2025-04-23**|**Polarity from the Bottom Up: A Computational Framework for Predicting Spontaneous Polar Order**|Jordan Hobbs et.al.|[2504.16810v1](http://arxiv.org/abs/2504.16810v1)|null|
+|**2025-04-23**|**Geometry of T1 transitions in epithelia**|Pierre A. Haas et.al.|[2504.16765v1](http://arxiv.org/abs/2504.16765v1)|null|
+|**2025-04-23**|**Photo-generated charge-transfer excitons in NiO revealed by ultrafast time-resolved resonant inelastic x-ray scattering**|Giacomo Merzoni et.al.|[2504.16653v1](http://arxiv.org/abs/2504.16653v1)|null|
+|**2025-04-23**|**On the $in$ existence of a ":splay(-bend)" nematic phase**|Giorgio Cinacchi et.al.|[2504.16614v1](http://arxiv.org/abs/2504.16614v1)|null|
+|**2025-04-23**|**Temperature switchable self-propulsion activity of liquid crystalline microdroplets**|Manoj Kumar et.al.|[2504.16554v1](http://arxiv.org/abs/2504.16554v1)|null|
+|**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539v1](http://arxiv.org/abs/2504.16539v1)|null|
+|**2025-04-23**|**Non-equilibrium dynamics of disordered fractal spring network with active forces**|Debjyoti Majumdar et.al.|[2504.16510v1](http://arxiv.org/abs/2504.16510v1)|null|
+|**2025-04-23**|**A strategy for the enhancement of barocaloric performance in plastic crystal solid solutions**|Frederic Rendell-Bhatti et.al.|[2504.16488v1](http://arxiv.org/abs/2504.16488v1)|null|
+|**2025-04-23**|**Mumott -- a Python package for the analysis of multi-modal tensor tomography data**|Leonard C. Nielsen et.al.|[2504.16446v1](http://arxiv.org/abs/2504.16446v1)|null|
+|**2025-04-22**|**Unifying Measurement Schemes in 2-D Terahertz Spectroscopy**|Albert Liu et.al.|[2504.16199v1](http://arxiv.org/abs/2504.16199v1)|null|
 |**2025-04-22**|**Bayesian Parameter Identification in the Landau-de Gennes Theory for Nematic Liquid Crystals**|Heiko Gimperlein et.al.|[2504.16029v1](http://arxiv.org/abs/2504.16029v1)|null|
 |**2025-04-22**|**Defects, Sound Damping, and the Boson Peak in Amorphous Solids**|Elijah Flenner et.al.|[2504.15878v1](http://arxiv.org/abs/2504.15878v1)|null|
 |**2025-04-22**|**Emergent epithelial elasticity governed by interfacial surface mechanics and substrate interaction**|Urska Andrensek et.al.|[2504.15673v1](http://arxiv.org/abs/2504.15673v1)|null|
@@ -8821,6 +8832,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Microscopic theory of the inverse Faraday effect in a multiorbital model: Role of orbital magnetic moment and electric dipole**|Kosuke Tazuke et.al.|[2504.16490v1](http://arxiv.org/abs/2504.16490v1)|null|
 |**2025-04-19**|**Bulk photogalvanic current control and gap spectroscopy in 2D hexagonal materials**|Anna Galler et.al.|[2504.14236v1](http://arxiv.org/abs/2504.14236v1)|null|
 |**2025-04-16**|**Infrared Imaging of Photochromic Contrast in Thiazolothiazole-Embedded Polymer Films**|Nuren Z. Shuchi et.al.|[2504.11690v1](http://arxiv.org/abs/2504.11690v1)|null|
 |**2025-04-14**|**A simple method for detection and quantitative estimation of deep levels in a barrier layer of AlGaN/GaN HEMT structures by analysis of light induced threshold voltage shift**|Maciej Matys et.al.|[2504.08625v2](http://arxiv.org/abs/2504.08625v2)|null|
