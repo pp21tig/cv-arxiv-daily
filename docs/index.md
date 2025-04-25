@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask et.al.|[2504.17778v1](http://arxiv.org/abs/2504.17778v1)|null|
+|**2025-04-24**|**Dynamical gauge invariance of statistical mechanics**|Johanna Müller et.al.|[2504.17599v1](http://arxiv.org/abs/2504.17599v1)|null|
+|**2025-04-24**|**New self-organized benzo[b]thiophene-based materials for GHz applications**|Agnieszka Mieczkowska et.al.|[2504.17499v1](http://arxiv.org/abs/2504.17499v1)|null|
+|**2025-04-24**|**A local quantized marker for topological magnons from circular dichroism**|Baptiste Bermond et.al.|[2504.17374v1](http://arxiv.org/abs/2504.17374v1)|null|
+|**2025-04-24**|**Probing molecular concentration in cell nuclei with Brillouin microscopy**|Lucie Vovard et.al.|[2504.17362v1](http://arxiv.org/abs/2504.17362v1)|null|
+|**2025-04-24**|**Polydisperse polymer networks with irregular topologies**|Jason Mulderrig et.al.|[2504.17239v1](http://arxiv.org/abs/2504.17239v1)|null|
+|**2025-04-24**|**Hyperuniform Mixing of Binary Active Spinners**|Rui Liu et.al.|[2504.17197v1](http://arxiv.org/abs/2504.17197v1)|null|
+|**2025-04-23**|**Type-II Weyl nodes, flat bands, and evidence for a topological Hall-effect in the new ferromagnet FeCr $_3$Te$_6$**|Shyam Raj Karullithodi et.al.|[2504.17035v1](http://arxiv.org/abs/2504.17035v1)|null|
+|**2025-04-23**|**Some Peculiarities of Dielectric Spectroscopy in Ferroelectric Nematics**|Yuri P. Panarin et.al.|[2504.16967v1](http://arxiv.org/abs/2504.16967v1)|null|
 |**2025-04-23**|**Ultradense Sphere Packings Derived From Disordered Stealthy Hyperuniform Ground States**|Jaeuk Kim et.al.|[2504.16924v1](http://arxiv.org/abs/2504.16924v1)|null|
 |**2025-04-23**|**Polarity from the Bottom Up: A Computational Framework for Predicting Spontaneous Polar Order**|Jordan Hobbs et.al.|[2504.16810v1](http://arxiv.org/abs/2504.16810v1)|null|
 |**2025-04-23**|**Geometry of T1 transitions in epithelia**|Pierre A. Haas et.al.|[2504.16765v1](http://arxiv.org/abs/2504.16765v1)|null|
@@ -8832,6 +8841,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Bringing light into the Landau-Lifshitz-Gilbert equation: Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons**|Felipe Reyes-Osorio et.al.|[2504.17769v1](http://arxiv.org/abs/2504.17769v1)|null|
+|**2025-04-24**|**Light-driven lattice metastability for enhanced superconductivity in FeSe/SrTiO3**|Qiang Zou et.al.|[2504.17359v1](http://arxiv.org/abs/2504.17359v1)|null|
 |**2025-04-23**|**Microscopic theory of the inverse Faraday effect in a multiorbital model: Role of orbital magnetic moment and electric dipole**|Kosuke Tazuke et.al.|[2504.16490v1](http://arxiv.org/abs/2504.16490v1)|null|
 |**2025-04-19**|**Bulk photogalvanic current control and gap spectroscopy in 2D hexagonal materials**|Anna Galler et.al.|[2504.14236v1](http://arxiv.org/abs/2504.14236v1)|null|
 |**2025-04-16**|**Infrared Imaging of Photochromic Contrast in Thiazolothiazole-Embedded Polymer Films**|Nuren Z. Shuchi et.al.|[2504.11690v1](http://arxiv.org/abs/2504.11690v1)|null|
@@ -9291,6 +9302,7 @@ layout: default
 |**2025-03-26**|**Edelstein Effect in Isotropic and Anisotropic Rashba Models**|Irene Gaiardoni et.al.|[2503.20712v1](http://arxiv.org/abs/2503.20712v1)|null|
 |**2025-03-25**|**Vibrational Instabilities in Charge Transport through Molecular Nanojunctions: The Role of Nonconservative Current-Induced Electronic Forces**|Martin Mäck et.al.|[2503.19773v1](http://arxiv.org/abs/2503.19773v1)|null|
 |**2025-03-25**|**Bleaching of the Terahertz Magneto-Photogalvanic Effect in CdHgTe Crystals with Kane Fermions**|M. D. Moldavskaya et.al.|[2503.19583v1](http://arxiv.org/abs/2503.19583v1)|null|
+|**2025-04-23**|**A three-axis Nanopositioner based on Near-Field Acoustic Levitation and Electromagnetic Actuation**|K. S. Vikrant et.al.|[2503.19175v2](http://arxiv.org/abs/2503.19175v2)|null|
 |**2025-04-17**|**Nonreciprocal Current-induced Zero-Resistance State in Valley-Polarized Superconductors**|Akito Daido et.al.|[2503.16923v2](http://arxiv.org/abs/2503.16923v2)|null|
 |**2025-03-20**|**Diode and selective routing functionalities controlled by geometry in current-induced spin-orbit torque driven magnetic domain wall devices**|Elena M. Stetco et.al.|[2503.15873v1](http://arxiv.org/abs/2503.15873v1)|null|
 |**2025-03-15**|**Spin orientation by electric current in altermagnets**|L. E. Golub et.al.|[2503.12203v1](http://arxiv.org/abs/2503.12203v1)|null|
@@ -9566,6 +9578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Type-II Weyl nodes, flat bands, and evidence for a topological Hall-effect in the new ferromagnet FeCr $_3$Te$_6$**|Shyam Raj Karullithodi et.al.|[2504.17035v1](http://arxiv.org/abs/2504.17035v1)|null|
 |**2025-04-18**|**Isotropic and anisotropic spin-dependent transport in epitaxial Fe $_3$ Si**|Nozomi Soya et.al.|[2504.13721v1](http://arxiv.org/abs/2504.13721v1)|null|
 |**2025-04-17**|**Accessing quasi-flat $\textit{f}$ -bands to harvest large Berry curvature in NdGaSi**|Anyesh Saraswati et.al.|[2504.12784v1](http://arxiv.org/abs/2504.12784v1)|null|
 |**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
@@ -10041,6 +10054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Magnetically disordered ground state in the triangular-lattice antiferromagnets Rb $_3$Yb(VO$_4$)$_2$ and Cs$_3$Yb(VO$_4$)$_2$**|Zhen Ma et.al.|[2504.17470v1](http://arxiv.org/abs/2504.17470v1)|null|
 |**2025-04-22**|**From Spin Waves to Monte Carlo Simulations: Compiling an Experimental Exchange Interaction Dataset for Magnetic Materials**|Mojtaba Alaei et.al.|[2504.15764v1](http://arxiv.org/abs/2504.15764v1)|null|
 |**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
 |**2025-04-16**|**Chiral crossroads in $\mathrm{Ho_3ScO_6}$ : a tale of frustration in maple leaf lattice**|Pratyay Ghosh et.al.|[2504.12387v1](http://arxiv.org/abs/2504.12387v1)|null|
