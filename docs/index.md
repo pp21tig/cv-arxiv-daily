@@ -1102,6 +1102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Analytic solution for the nonlinear response of magnetic nanoparticles to large amplitude oscillatory fields**|Patrick Ilg et.al.|[2504.18402v1](http://arxiv.org/abs/2504.18402v1)|null|
+|**2025-04-25**|**Bridging the Gap Between Avalanche Relaxation and Yielding Rheology**|Leonardo Relmucao-Leiva et.al.|[2504.18382v1](http://arxiv.org/abs/2504.18382v1)|null|
+|**2025-04-25**|**More is less in unpercolated active solids**|Jack Binysh et.al.|[2504.18362v1](http://arxiv.org/abs/2504.18362v1)|null|
+|**2025-04-25**|**The possible frustrated superconductivity in the kagome superconductors**|Hong-Min Jiang et.al.|[2504.18336v1](http://arxiv.org/abs/2504.18336v1)|null|
+|**2025-04-25**|**Translocation of Active Polymerlike Worms**|Marin Vatin et.al.|[2504.18275v1](http://arxiv.org/abs/2504.18275v1)|null|
+|**2025-04-25**|**DFT Investigations of Major Defects in Quartz Crystal: Implications for Luminescence and ESR Dosimetry and Dating**|Jalaja Pandya et.al.|[2504.18077v1](http://arxiv.org/abs/2504.18077v1)|null|
+|**2025-04-25**|**Magnetic Resonance Imaging of Single Organic Radicals with Sub-Molecular Resolution**|Gregory Czap et.al.|[2504.18043v1](http://arxiv.org/abs/2504.18043v1)|null|
+|**2025-04-24**|**Spin wave propagation in a ring-shaped magnonic waveguide**|Franz Vilsmeier et.al.|[2504.17920v1](http://arxiv.org/abs/2504.17920v1)|null|
 |**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask et.al.|[2504.17778v1](http://arxiv.org/abs/2504.17778v1)|null|
 |**2025-04-24**|**Dynamical gauge invariance of statistical mechanics**|Johanna Müller et.al.|[2504.17599v1](http://arxiv.org/abs/2504.17599v1)|null|
 |**2025-04-24**|**New self-organized benzo[b]thiophene-based materials for GHz applications**|Agnieszka Mieczkowska et.al.|[2504.17499v1](http://arxiv.org/abs/2504.17499v1)|null|
@@ -9290,6 +9298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Evidence of electronic states driving current-induced insulator-to-metal transition**|V. K. Bhartiya et.al.|[2504.17871v1](http://arxiv.org/abs/2504.17871v1)|null|
 |**2025-04-18**|**Single-molecule electroluminescence: crossover from weak to strong coupling**|Andrés Bejarano et.al.|[2504.13657v1](http://arxiv.org/abs/2504.13657v1)|null|
 |**2025-04-17**|**Current-driven dynamics of antiferromagnetic domain-wall skyrmions**|Wooyon Kim et.al.|[2504.12653v1](http://arxiv.org/abs/2504.12653v1)|null|
 |**2025-04-14**|**AC Current-Driven Magnetization Switching and Nonlinear Hall Rectification in a Magnetic Topological Insulator**|Yuto Kiyonaga et.al.|[2504.10450v1](http://arxiv.org/abs/2504.10450v1)|null|
@@ -9578,6 +9587,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Computational search for materials having a giant anomalous Hall effect in the pyrochlore and spinel crystal structures**|Sean Sullivan et.al.|[2504.18320v1](http://arxiv.org/abs/2504.18320v1)|null|
+|**2025-04-25**|**Anomalous Hall effect in antiferromagnetic RGaGe (R = Nd, Gd) single crystals**|Weizheng Cao et.al.|[2504.18313v1](http://arxiv.org/abs/2504.18313v1)|null|
+|**2025-04-25**|**Valley Polarization and Anomalous Valley Hall Effect in Altermagnet Ti2Se2S with Multipiezo Properties**|Xin Hu et.al.|[2504.18308v1](http://arxiv.org/abs/2504.18308v1)|null|
+|**2025-04-25**|**Tunable topological phase in 2D ScV $_6$Sn$_6$ kagome material**|Chidiebere I. Nwaogbo et.al.|[2504.18030v1](http://arxiv.org/abs/2504.18030v1)|null|
 |**2025-04-23**|**Type-II Weyl nodes, flat bands, and evidence for a topological Hall-effect in the new ferromagnet FeCr $_3$Te$_6$**|Shyam Raj Karullithodi et.al.|[2504.17035v1](http://arxiv.org/abs/2504.17035v1)|null|
 |**2025-04-18**|**Isotropic and anisotropic spin-dependent transport in epitaxial Fe $_3$ Si**|Nozomi Soya et.al.|[2504.13721v1](http://arxiv.org/abs/2504.13721v1)|null|
 |**2025-04-17**|**Accessing quasi-flat $\textit{f}$ -bands to harvest large Berry curvature in NdGaSi**|Anyesh Saraswati et.al.|[2504.12784v1](http://arxiv.org/abs/2504.12784v1)|null|
