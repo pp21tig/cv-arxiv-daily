@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966v1](http://arxiv.org/abs/2504.19966v1)|null|
+|**2025-04-28**|**The Diffuse Solid Method for Wetting and Multiphase Fluid Simulations in Complex Geometries**|Fandi Oktasendra et.al.|[2504.19941v1](http://arxiv.org/abs/2504.19941v1)|null|
+|**2025-04-28**|**Post-buckling of fiber-reinforced soft tissues**|Yang Liu et.al.|[2504.19932v1](http://arxiv.org/abs/2504.19932v1)|null|
+|**2025-04-28**|**Dissipative particle dynamics models of encapsulated microbubbles and gas vesicles for biomedical ultrasound simulations**|Nikolaos Ntarakas et.al.|[2504.19890v1](http://arxiv.org/abs/2504.19890v1)|null|
+|**2025-04-28**|**Unconventional Relaxation Dynamics in Co_8Zn_7Mn_5 and Co_8Zn_8Mn_4: Evidence of Inertial Effects**|P. Saha et.al.|[2504.19803v1](http://arxiv.org/abs/2504.19803v1)|null|
+|**2025-04-28**|**TDP-43 multidomains and RNA modulate interactions and viscoelasticity in biomolecular condensates**|Yui Matsushita et.al.|[2504.19790v1](http://arxiv.org/abs/2504.19790v1)|null|
+|**2025-04-28**|**Interpretable machine learning-guided design of Fe-based soft magnetic alloys**|Aditi Nachnani et.al.|[2504.19787v1](http://arxiv.org/abs/2504.19787v1)|null|
+|**2025-04-28**|**Eppur si muove: Shape of topological defects -- in active nematics**|Giacomo Marco La Montagna et.al.|[2504.19665v1](http://arxiv.org/abs/2504.19665v1)|null|
+|**2025-04-28**|**Oscillation death by mechanochemical feedback**|Phanindra Dewan et.al.|[2504.19655v1](http://arxiv.org/abs/2504.19655v1)|null|
+|**2025-04-28**|**Ferroelectric and Hyper Dielectric modes in Ferronematic Liquid Crystals**|Rahul Uttam et.al.|[2504.19633v1](http://arxiv.org/abs/2504.19633v1)|null|
+|**2025-04-28**|**Molecular Dynamics Investigation of Static and Dynamic Interfacial Properties in Ice-Polymer Premelting Layers**|Takumi Sato et.al.|[2504.19628v1](http://arxiv.org/abs/2504.19628v1)|null|
+|**2025-04-28**|**How rigidity percolation and bending stiffness shape colloidal gel elasticity**|David Richard et.al.|[2504.19568v1](http://arxiv.org/abs/2504.19568v1)|null|
+|**2025-04-28**|**Cholic Acid-Based Mixed Micelles as siRNA Delivery Agents for Gene Therapy**|Alexander J Cunningham et.al.|[2504.19558v1](http://arxiv.org/abs/2504.19558v1)|null|
+|**2025-04-28**|**Evolution of quantum criticality in underdoped cuprates**|Changshuai Lan et.al.|[2504.19535v1](http://arxiv.org/abs/2504.19535v1)|null|
+|**2025-04-28**|**Stokes drag on a sphere in a three-dimensional anisotropic porous medium**|Andrej Vilfan et.al.|[2504.19517v1](http://arxiv.org/abs/2504.19517v1)|null|
+|**2025-04-27**|**Predicting neutron experiments from first principles: A workflow powered by machine learning**|Eric Lindgren et.al.|[2504.19352v1](http://arxiv.org/abs/2504.19352v1)|null|
+|**2025-04-27**|**Control of active field theories at minimal dissipation**|Artur Soriani et.al.|[2504.19285v1](http://arxiv.org/abs/2504.19285v1)|null|
+|**2025-04-27**|**Interplay of Coil-Globule Transitions and Aggregation in Homopolymer Aqueous Solutions: Simulation and Topological Insights**|Junichi Komatsu et.al.|[2504.19147v1](http://arxiv.org/abs/2504.19147v1)|null|
+|**2025-04-26**|**Connecting weakly nonlinear elasticity theories of isotropic hyperelastic materials**|Yangkun Du et.al.|[2504.19033v1](http://arxiv.org/abs/2504.19033v1)|null|
+|**2025-04-26**|**Sparks: Multi-Agent Artificial Intelligence Model Discovers Protein Design Principles**|Alireza Ghafarollahi et.al.|[2504.19017v1](http://arxiv.org/abs/2504.19017v1)|null|
 |**2025-04-25**|**Analytic solution for the nonlinear response of magnetic nanoparticles to large amplitude oscillatory fields**|Patrick Ilg et.al.|[2504.18402v1](http://arxiv.org/abs/2504.18402v1)|null|
 |**2025-04-25**|**Bridging the Gap Between Avalanche Relaxation and Yielding Rheology**|Leonardo Relmucao-Leiva et.al.|[2504.18382v1](http://arxiv.org/abs/2504.18382v1)|null|
 |**2025-04-25**|**More is less in unpercolated active solids**|Jack Binysh et.al.|[2504.18362v1](http://arxiv.org/abs/2504.18362v1)|null|
@@ -8849,6 +8869,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Light-based electron aberration corrector**|Marius Constantin Chirita Mihaila et.al.|[2504.18661v1](http://arxiv.org/abs/2504.18661v1)|null|
 |**2025-04-24**|**Bringing light into the Landau-Lifshitz-Gilbert equation: Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons**|Felipe Reyes-Osorio et.al.|[2504.17769v1](http://arxiv.org/abs/2504.17769v1)|null|
 |**2025-04-24**|**Light-driven lattice metastability for enhanced superconductivity in FeSe/SrTiO3**|Qiang Zou et.al.|[2504.17359v1](http://arxiv.org/abs/2504.17359v1)|null|
 |**2025-04-23**|**Microscopic theory of the inverse Faraday effect in a multiorbital model: Role of orbital magnetic moment and electric dipole**|Kosuke Tazuke et.al.|[2504.16490v1](http://arxiv.org/abs/2504.16490v1)|null|
@@ -10067,6 +10088,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-27**|**Predicting neutron experiments from first principles: A workflow powered by machine learning**|Eric Lindgren et.al.|[2504.19352v1](http://arxiv.org/abs/2504.19352v1)|null|
+|**2025-04-25**|**Magnetic excitations from the hexagonal spin clusters in the S = 1/2 distorted honeycomb lattice antiferromagnet Cu2(pymca)3(ClO4)**|Masaaki Matsuda et.al.|[2504.18681v1](http://arxiv.org/abs/2504.18681v1)|null|
 |**2025-04-24**|**Magnetically disordered ground state in the triangular-lattice antiferromagnets Rb $_3$Yb(VO$_4$)$_2$ and Cs$_3$Yb(VO$_4$)$_2$**|Zhen Ma et.al.|[2504.17470v1](http://arxiv.org/abs/2504.17470v1)|null|
 |**2025-04-22**|**From Spin Waves to Monte Carlo Simulations: Compiling an Experimental Exchange Interaction Dataset for Magnetic Materials**|Mojtaba Alaei et.al.|[2504.15764v1](http://arxiv.org/abs/2504.15764v1)|null|
 |**2025-04-16**|**Anomalous Electrical Transport in the Kagome Magnet YbFe $_6$Ge$_6$**|Weiliang Yao et.al.|[2504.12454v1](http://arxiv.org/abs/2504.12454v1)|null|
