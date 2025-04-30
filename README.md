@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Chemotactic aggregation dynamics of micro-swimmers in Brinkman flows**|Yasser Almoteri et.al.|[2504.20925v1](http://arxiv.org/abs/2504.20925v1)|null|
+|**2025-04-29**|**E. coli bacterium tumbling in bulk and close to surfaces: A simulation study**|Pierre Martin et.al.|[2504.20893v1](http://arxiv.org/abs/2504.20893v1)|null|
+|**2025-04-29**|**Critical clusters in liquid crystals: Fractal geometry and conformal invariance**|Renan A. L. Almeida et.al.|[2504.20788v1](http://arxiv.org/abs/2504.20788v1)|null|
+|**2025-04-29**|**Self-assembly and time-dependent control of active and passive triblock Janus colloids**|Juri Franz Schubert et.al.|[2504.20764v1](http://arxiv.org/abs/2504.20764v1)|null|
+|**2025-04-29**|**Trotterization is substantially efficient for low-energy states**|Kaoru Mizuta et.al.|[2504.20746v1](http://arxiv.org/abs/2504.20746v1)|null|
+|**2025-04-29**|**Particle-Hole Asymmetry and Pinball Liquid in a Triangular-Lattice Extended Hubbard Model within Mean-Field Approximation**|Aleksey Alekseev et.al.|[2504.20719v1](http://arxiv.org/abs/2504.20719v1)|null|
+|**2025-04-29**|**Inhomogeneous Diffusion in Confined Colloidal Suspensions**|Gerhard Jung et.al.|[2504.20692v1](http://arxiv.org/abs/2504.20692v1)|null|
+|**2025-04-29**|**Hydrodynamics converts chiral flagellar rotation into contactless actuation of microdiscs**|Daniel Grober et.al.|[2504.20675v1](http://arxiv.org/abs/2504.20675v1)|null|
+|**2025-04-29**|**Electroactive differential growth and delayed instability in accelerated healing tissues**|Yafei Wang et.al.|[2504.20647v1](http://arxiv.org/abs/2504.20647v1)|null|
+|**2025-04-29**|**Spin-Exchange Induced Spillover on Poor Man's Majoranas in Minimal Kitaev Chains**|J. E. Sanches et.al.|[2504.20321v1](http://arxiv.org/abs/2504.20321v1)|null|
+|**2025-04-28**|**Force chain dynamics in a quasi-static granular pile**|Benjamin Allen et.al.|[2504.20248v1](http://arxiv.org/abs/2504.20248v1)|null|
+|**2025-04-28**|**Hinge electronic structure of strained half-Heuslers**|Sanjib Kumar Das et.al.|[2504.20190v1](http://arxiv.org/abs/2504.20190v1)|null|
+|**2025-04-28**|**$N$ -ality symmetry and SPT phases in (1+1)d**|Jun Maeda et.al.|[2504.20151v1](http://arxiv.org/abs/2504.20151v1)|null|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966v1](http://arxiv.org/abs/2504.19966v1)|null|
 |**2025-04-28**|**The Diffuse Solid Method for Wetting and Multiphase Fluid Simulations in Complex Geometries**|Fandi Oktasendra et.al.|[2504.19941v1](http://arxiv.org/abs/2504.19941v1)|null|
 |**2025-04-28**|**Post-buckling of fiber-reinforced soft tissues**|Yang Liu et.al.|[2504.19932v1](http://arxiv.org/abs/2504.19932v1)|null|
