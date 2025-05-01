@@ -1102,6 +1102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Comment on 'Anomalies in the Electronic Stopping of Slow Antiprotons in LiF', arXiv:2501.14381**|G. Schiwietz et.al.|[2504.21839v1](http://arxiv.org/abs/2504.21839v1)|null|
+|**2025-04-30**|**Entanglement-Enhanced Nanoscale Single-Spin Sensing**|Xu Zhou et.al.|[2504.21715v1](http://arxiv.org/abs/2504.21715v1)|null|
+|**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636v1](http://arxiv.org/abs/2504.21636v1)|null|
+|**2025-04-30**|**Chiral interactions between tropocollagen molecules determine the collagen microfibril structure**|Art'om Zolotarjov et.al.|[2504.21484v1](http://arxiv.org/abs/2504.21484v1)|null|
+|**2025-04-30**|**Diffusion of intruders in a granular gas thermostatted by a bath of elastic hard spheres**|Rubén Gómez González et.al.|[2504.21441v1](http://arxiv.org/abs/2504.21441v1)|null|
+|**2025-04-30**|**From fluttering to drifting in inertialess sedimentation of achiral particles**|Christian Vaquero-Stainer et.al.|[2504.21355v1](http://arxiv.org/abs/2504.21355v1)|null|
+|**2025-04-30**|**Analytical model and experimental validation for nonlinear mechanical response of aspirated elastic shells**|Kazutoshi Masuda et.al.|[2504.21283v1](http://arxiv.org/abs/2504.21283v1)|null|
 |**2025-04-29**|**Chemotactic aggregation dynamics of micro-swimmers in Brinkman flows**|Yasser Almoteri et.al.|[2504.20925v1](http://arxiv.org/abs/2504.20925v1)|null|
 |**2025-04-29**|**E. coli bacterium tumbling in bulk and close to surfaces: A simulation study**|Pierre Martin et.al.|[2504.20893v1](http://arxiv.org/abs/2504.20893v1)|null|
 |**2025-04-29**|**Critical clusters in liquid crystals: Fractal geometry and conformal invariance**|Renan A. L. Almeida et.al.|[2504.20788v1](http://arxiv.org/abs/2504.20788v1)|null|
@@ -8882,6 +8889,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434v1](http://arxiv.org/abs/2504.21434v1)|null|
 |**2025-04-25**|**Light-based electron aberration corrector**|Marius Constantin Chirita Mihaila et.al.|[2504.18661v1](http://arxiv.org/abs/2504.18661v1)|null|
 |**2025-04-24**|**Bringing light into the Landau-Lifshitz-Gilbert equation: Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons**|Felipe Reyes-Osorio et.al.|[2504.17769v1](http://arxiv.org/abs/2504.17769v1)|null|
 |**2025-04-24**|**Light-driven lattice metastability for enhanced superconductivity in FeSe/SrTiO3**|Qiang Zou et.al.|[2504.17359v1](http://arxiv.org/abs/2504.17359v1)|null|
@@ -9332,6 +9340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**The U2H map explains the effect of (sub)mesoscale turbulence on significant wave height statistics**|Han Wang et.al.|[2504.21736v1](http://arxiv.org/abs/2504.21736v1)|null|
 |**2025-04-24**|**Evidence of electronic states driving current-induced insulator-to-metal transition**|V. K. Bhartiya et.al.|[2504.17871v1](http://arxiv.org/abs/2504.17871v1)|null|
 |**2025-04-18**|**Single-molecule electroluminescence: crossover from weak to strong coupling**|Andrés Bejarano et.al.|[2504.13657v1](http://arxiv.org/abs/2504.13657v1)|null|
 |**2025-04-17**|**Current-driven dynamics of antiferromagnetic domain-wall skyrmions**|Wooyon Kim et.al.|[2504.12653v1](http://arxiv.org/abs/2504.12653v1)|null|
@@ -9621,6 +9630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Quantum theory of magnetic octupole in periodic crystals and characterization of time-reversal-symmetry breaking antiferromagnetism**|Takumi Sato et.al.|[2504.21431v1](http://arxiv.org/abs/2504.21431v1)|null|
 |**2025-04-25**|**Computational search for materials having a giant anomalous Hall effect in the pyrochlore and spinel crystal structures**|Sean Sullivan et.al.|[2504.18320v1](http://arxiv.org/abs/2504.18320v1)|null|
 |**2025-04-25**|**Anomalous Hall effect in antiferromagnetic RGaGe (R = Nd, Gd) single crystals**|Weizheng Cao et.al.|[2504.18313v1](http://arxiv.org/abs/2504.18313v1)|null|
 |**2025-04-25**|**Valley Polarization and Anomalous Valley Hall Effect in Altermagnet Ti2Se2S with Multipiezo Properties**|Xin Hu et.al.|[2504.18308v1](http://arxiv.org/abs/2504.18308v1)|null|
