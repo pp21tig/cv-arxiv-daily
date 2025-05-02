@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces**|Shivam Gupta et.al.|[2505.00640v1](http://arxiv.org/abs/2505.00640v1)|null|
+|**2025-05-01**|**Single-site entanglement as a marker for quantum phase transitions at non-zero temperatures**|Willdauany C. de Freitas Silva et.al.|[2505.00628v1](http://arxiv.org/abs/2505.00628v1)|null|
+|**2025-05-01**|**Planckian scattering and parallel conduction channels in the iron chalcogenide superconductors FeTe $_{1-x}$Se$_x$**|Ralph Romero III et.al.|[2505.00623v1](http://arxiv.org/abs/2505.00623v1)|null|
+|**2025-05-01**|**Frustration, dynamics and catalysis**|R. Gonzalo Parra et.al.|[2505.00600v1](http://arxiv.org/abs/2505.00600v1)|null|
+|**2025-05-01**|**Non-Hermitian band topology in twisted bilayer graphene aligned with hexagonal boron nitride**|Kamalesh Bera et.al.|[2505.00566v1](http://arxiv.org/abs/2505.00566v1)|null|
+|**2025-05-01**|**Characterizing the dissolution states of a fluorescent probe within a lipid bilayer using molec ular dynamics simulations**|Ryo Okabe et.al.|[2505.00403v1](http://arxiv.org/abs/2505.00403v1)|null|
+|**2025-05-01**|**Non-reciprocal anti-aligning active mixtures: deriving the exact Boltzmann collision operator**|Jakob Mihatsch et.al.|[2505.00357v1](http://arxiv.org/abs/2505.00357v1)|null|
+|**2025-05-01**|**A $_1$-A$_2$ splitting in pure $^3$ He in nematic aerogel**|V. V. Dmitriev et.al.|[2505.00313v1](http://arxiv.org/abs/2505.00313v1)|null|
+|**2025-05-01**|**Wideband covariance magnetometry below the diffraction limit**|Xuan Hoang Le et.al.|[2505.00260v1](http://arxiv.org/abs/2505.00260v1)|null|
+|**2025-04-30**|**Diffusion and instabilities in large-N holographic Fermi liquids: the vector fluctuations of the electron star**|Vladan Gecin et.al.|[2505.00211v1](http://arxiv.org/abs/2505.00211v1)|null|
+|**2025-04-30**|**Expanding Active Matter to the Third Dimension: Exploring Short and Long-Range Particle-Wall Interactions**|Sandeep Ramteke et.al.|[2505.00141v1](http://arxiv.org/abs/2505.00141v1)|null|
+|**2025-04-30**|**Nonlinear thermoelectric effects as a means to probe quantum geometry**|Xu Yang et.al.|[2505.00086v1](http://arxiv.org/abs/2505.00086v1)|null|
+|**2025-04-30**|**EuAuSb: A helical variation on altermagnetism**|J. Sears et.al.|[2505.00081v1](http://arxiv.org/abs/2505.00081v1)|null|
 |**2025-04-30**|**Comment on 'Anomalies in the Electronic Stopping of Slow Antiprotons in LiF', arXiv:2501.14381**|G. Schiwietz et.al.|[2504.21839v1](http://arxiv.org/abs/2504.21839v1)|null|
 |**2025-04-30**|**Entanglement-Enhanced Nanoscale Single-Spin Sensing**|Xu Zhou et.al.|[2504.21715v1](http://arxiv.org/abs/2504.21715v1)|null|
 |**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636v1](http://arxiv.org/abs/2504.21636v1)|null|
@@ -8889,6 +8902,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Unveiling competitions between carrier recombination pathways in semiconductors via mechanical damping**|Mingyu Xie et.al.|[2505.00575v1](http://arxiv.org/abs/2505.00575v1)|null|
+|**2025-05-01**|**Photoengineering the Magnon Spectrum in an Insulating Antiferromagnet**|V. Radovskaia et.al.|[2505.00459v1](http://arxiv.org/abs/2505.00459v1)|null|
 |**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434v1](http://arxiv.org/abs/2504.21434v1)|null|
 |**2025-04-25**|**Light-based electron aberration corrector**|Marius Constantin Chirita Mihaila et.al.|[2504.18661v1](http://arxiv.org/abs/2504.18661v1)|null|
 |**2025-04-24**|**Bringing light into the Landau-Lifshitz-Gilbert equation: Consequences of its fractal non-Markovian memory kernel for optically induced magnetic inertia and magnons**|Felipe Reyes-Osorio et.al.|[2504.17769v1](http://arxiv.org/abs/2504.17769v1)|null|
@@ -9630,6 +9645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Differentiating anomalous and topological Hall effects using first-order reversal curve measurements**|Gregory M. Stephen et.al.|[2505.00565v1](http://arxiv.org/abs/2505.00565v1)|null|
 |**2025-04-30**|**Quantum theory of magnetic octupole in periodic crystals and characterization of time-reversal-symmetry breaking antiferromagnetism**|Takumi Sato et.al.|[2504.21431v1](http://arxiv.org/abs/2504.21431v1)|null|
 |**2025-04-25**|**Computational search for materials having a giant anomalous Hall effect in the pyrochlore and spinel crystal structures**|Sean Sullivan et.al.|[2504.18320v1](http://arxiv.org/abs/2504.18320v1)|null|
 |**2025-04-25**|**Anomalous Hall effect in antiferromagnetic RGaGe (R = Nd, Gd) single crystals**|Weizheng Cao et.al.|[2504.18313v1](http://arxiv.org/abs/2504.18313v1)|null|
