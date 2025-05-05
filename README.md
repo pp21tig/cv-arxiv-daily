@@ -1098,6 +1098,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Hacktive Matter: data-driven discovery through hackathon-based cross-disciplinary coding**|Megan T. Valentine et.al.|[2505.01365v1](http://arxiv.org/abs/2505.01365v1)|null|
+|**2025-05-02**|**Direct Evidence of Metal-Ligand Redox in Li-ion Battery Cathodes**|Galo J. Paez Fajardo et.al.|[2505.01251v1](http://arxiv.org/abs/2505.01251v1)|null|
+|**2025-05-02**|**Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions**|J. Gupta et.al.|[2505.01230v1](http://arxiv.org/abs/2505.01230v1)|null|
+|**2025-05-02**|**Coarse-grained graph architectures for all-atom force predictions**|Sungwoo Kang et.al.|[2505.01058v1](http://arxiv.org/abs/2505.01058v1)|null|
+|**2025-05-02**|**Kinetic roughening transition of ice crystals and its implications during recrystallization**|Jorge H. Melillo et.al.|[2505.01055v1](http://arxiv.org/abs/2505.01055v1)|null|
+|**2025-05-02**|**Quasi-local Frustration-Free Free Fermions**|Shunsuke Sengoku et.al.|[2505.01010v1](http://arxiv.org/abs/2505.01010v1)|null|
+|**2025-05-02**|**Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993v1](http://arxiv.org/abs/2505.00993v1)|null|
+|**2025-05-01**|**Real-space orbital tiling approach for the design of novel superconductors**|Gregory Bassen et.al.|[2505.00771v1](http://arxiv.org/abs/2505.00771v1)|null|
 |**2025-05-01**|**Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces**|Shivam Gupta et.al.|[2505.00640v1](http://arxiv.org/abs/2505.00640v1)|null|
 |**2025-05-01**|**Single-site entanglement as a marker for quantum phase transitions at non-zero temperatures**|Willdauany C. de Freitas Silva et.al.|[2505.00628v1](http://arxiv.org/abs/2505.00628v1)|null|
 |**2025-05-01**|**Planckian scattering and parallel conduction channels in the iron chalcogenide superconductors FeTe $_{1-x}$Se$_x$**|Ralph Romero III et.al.|[2505.00623v1](http://arxiv.org/abs/2505.00623v1)|null|
@@ -9351,6 +9359,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Current-induced Dynamics of Bloch Domain-wall Bimerons**|Jiwen Chen et.al.|[2505.00959v1](http://arxiv.org/abs/2505.00959v1)|null|
 |**2025-04-30**|**The U2H map explains the effect of (sub)mesoscale turbulence on significant wave height statistics**|Han Wang et.al.|[2504.21736v1](http://arxiv.org/abs/2504.21736v1)|null|
 |**2025-04-24**|**Evidence of electronic states driving current-induced insulator-to-metal transition**|V. K. Bhartiya et.al.|[2504.17871v1](http://arxiv.org/abs/2504.17871v1)|null|
 |**2025-04-18**|**Single-molecule electroluminescence: crossover from weak to strong coupling**|Andrés Bejarano et.al.|[2504.13657v1](http://arxiv.org/abs/2504.13657v1)|null|
@@ -9641,6 +9650,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Intrinsic magnetic topological insulators of the MnBi ${}_2$Te${}_4$ family**|A. Yu. Vyazovskaya et.al.|[2505.01252v1](http://arxiv.org/abs/2505.01252v1)|null|
+|**2025-05-02**|**Sensitivity enhancement of an anomalous Hall effect magnetic sensor by means of second-order magnetic anisotropy**|Hiroko Arai et.al.|[2505.00955v1](http://arxiv.org/abs/2505.00955v1)|null|
 |**2025-05-01**|**Differentiating anomalous and topological Hall effects using first-order reversal curve measurements**|Gregory M. Stephen et.al.|[2505.00565v1](http://arxiv.org/abs/2505.00565v1)|null|
 |**2025-04-30**|**Quantum theory of magnetic octupole in periodic crystals and characterization of time-reversal-symmetry breaking antiferromagnetism**|Takumi Sato et.al.|[2504.21431v1](http://arxiv.org/abs/2504.21431v1)|null|
 |**2025-04-25**|**Computational search for materials having a giant anomalous Hall effect in the pyrochlore and spinel crystal structures**|Sean Sullivan et.al.|[2504.18320v1](http://arxiv.org/abs/2504.18320v1)|null|
