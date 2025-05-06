@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
+|**2025-05-05**|**Particles, trajectories and diffusion: random walks in cooling granular gases**|Santos Bravo Yuste et.al.|[2505.02777v1](http://arxiv.org/abs/2505.02777v1)|null|
+|**2025-05-05**|**Flow induced intermittent transport shapes colloid filtration in complex media**|Filippo Miele et.al.|[2505.02689v1](http://arxiv.org/abs/2505.02689v1)|null|
+|**2025-05-05**|**Metamorphosis of collective patterns modulated by non-reciprocal interactions**|Edgardo Brigatti et.al.|[2505.02672v1](http://arxiv.org/abs/2505.02672v1)|null|
+|**2025-05-05**|**Role of Noise on Defect Formation and Correlations in a Long-Range Ising Model Under Adiabatic Driving**|Santanu Dhara et.al.|[2505.02661v1](http://arxiv.org/abs/2505.02661v1)|null|
+|**2025-05-05**|**Statistics within UV-Visible Absorption Spectrum of Ethanolic Azobenzene**|Eemeli A. Eronen et.al.|[2505.02610v1](http://arxiv.org/abs/2505.02610v1)|null|
+|**2025-05-05**|**How individual vs shared coordination governs the degree of correlation in rotational vs residence times in a high-viscosity lithium electrolyte**|Vinay Thakur et.al.|[2505.02457v1](http://arxiv.org/abs/2505.02457v1)|null|
+|**2025-05-05**|**High-Order Harmonic Generation in Organic Molecular Crystals**|Falk-Erik Wiechmann et.al.|[2505.02432v1](http://arxiv.org/abs/2505.02432v1)|null|
+|**2025-05-05**|**Molecular-sized bubbles in a liquid: free energy of formation beyond the capillarity approximation**|J. Puibasset et.al.|[2505.02430v1](http://arxiv.org/abs/2505.02430v1)|null|
+|**2025-05-05**|**2D van der Waals magnets: from fundamental physics to applications**|Je-Geun Park et.al.|[2505.02355v1](http://arxiv.org/abs/2505.02355v1)|null|
+|**2025-05-05**|**A universal scaling law for active diffusion in complex media**|Qun Zhang et.al.|[2505.02342v1](http://arxiv.org/abs/2505.02342v1)|null|
+|**2025-05-04**|**Simple scaling rules governing work functions of two-dimensional materials**|James C. Ellenbogen et.al.|[2505.02249v1](http://arxiv.org/abs/2505.02249v1)|null|
+|**2025-05-04**|**Diffuson-Dominated Thermal Transport Crossover from Ordered to Liquid-like Cu $_3$BiS$_3$ :The Negligible Role of Ion Hopping**|Jincheng Yue et.al.|[2505.02135v1](http://arxiv.org/abs/2505.02135v1)|null|
+|**2025-05-04**|**Rényi Markov length in one-dimensional non-trivial mixed state phases and mixed state phase transitions**|Yoshihito Kuno et.al.|[2505.02125v1](http://arxiv.org/abs/2505.02125v1)|null|
+|**2025-05-04**|**Three types of condensation in open wedges**|Jiří Janek et.al.|[2505.02100v1](http://arxiv.org/abs/2505.02100v1)|null|
+|**2025-05-03**|**Braided mixing in confined chiral active matter**|Yue Wang et.al.|[2505.01847v1](http://arxiv.org/abs/2505.01847v1)|null|
+|**2025-05-03**|**Myosin-driven advection and actin reorganization control the geometry of confined actomyosin gel**|Archit Negi et.al.|[2505.01717v1](http://arxiv.org/abs/2505.01717v1)|null|
+|**2025-05-02**|**Probing fractional quantum Hall effect by photoluminescence**|Aamir A. Makki et.al.|[2505.01577v1](http://arxiv.org/abs/2505.01577v1)|null|
+|**2025-05-02**|**Emergent heavy-fermion physics in a new family of topological insulators RAsS (R = Y, La, and Sm)**|Iñigo Robredo et.al.|[2505.01511v1](http://arxiv.org/abs/2505.01511v1)|null|
 |**2025-05-02**|**Hacktive Matter: data-driven discovery through hackathon-based cross-disciplinary coding**|Megan T. Valentine et.al.|[2505.01365v1](http://arxiv.org/abs/2505.01365v1)|null|
 |**2025-05-05**|**Direct Evidence of Metal-Ligand Redox in Li-ion Battery Cathodes**|Galo J. Paez Fajardo et.al.|[2505.01251v2](http://arxiv.org/abs/2505.01251v2)|null|
 |**2025-05-02**|**Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions**|J. Gupta et.al.|[2505.01230v1](http://arxiv.org/abs/2505.01230v1)|null|
@@ -8910,6 +8929,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**2D van der Waals magnets: from fundamental physics to applications**|Je-Geun Park et.al.|[2505.02355v1](http://arxiv.org/abs/2505.02355v1)|null|
+|**2025-05-04**|**Emergent scattering regimes in disordered metasurfaces near critical packing**|Miao Chen et.al.|[2505.02244v1](http://arxiv.org/abs/2505.02244v1)|null|
 |**2025-05-01**|**Unveiling competitions between carrier recombination pathways in semiconductors via mechanical damping**|Mingyu Xie et.al.|[2505.00575v1](http://arxiv.org/abs/2505.00575v1)|null|
 |**2025-05-01**|**Photoengineering the Magnon Spectrum in an Insulating Antiferromagnet**|V. Radovskaia et.al.|[2505.00459v1](http://arxiv.org/abs/2505.00459v1)|null|
 |**2025-04-30**|**Integration of a Synthetic Molecular Motor Into a Rotary DNA Nanostructure: A Framework for Single-Molecule Actuation**|Seham Helmi et.al.|[2504.21434v1](http://arxiv.org/abs/2504.21434v1)|null|
@@ -9654,6 +9675,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
+|**2025-05-03**|**Tunable Chern Insulators in Moiré-Distant and Moiré-Proximal Rhombohedral Pentalayer Graphene**|Chushan Li et.al.|[2505.01767v1](http://arxiv.org/abs/2505.01767v1)|null|
+|**2025-05-03**|**Ferroelectrically Switchable Chirality in Topological Superconductivity: Bilayer-MnBi2Te4/Fe(Se,Te) Heterostructure**|Kai-Zhi Bai et.al.|[2505.01759v1](http://arxiv.org/abs/2505.01759v1)|null|
+|**2025-05-03**|**Unveiling the interplay of magnetic order and electronic band structure on the evolution of anomalous Hall effect in MnPtGa single crystal**|Gourav Dwari et.al.|[2505.01745v1](http://arxiv.org/abs/2505.01745v1)|null|
 |**2025-05-02**|**Intrinsic magnetic topological insulators of the MnBi ${}_2$Te${}_4$ family**|A. Yu. Vyazovskaya et.al.|[2505.01252v1](http://arxiv.org/abs/2505.01252v1)|null|
 |**2025-05-02**|**Sensitivity enhancement of an anomalous Hall effect magnetic sensor by means of second-order magnetic anisotropy**|Hiroko Arai et.al.|[2505.00955v1](http://arxiv.org/abs/2505.00955v1)|null|
 |**2025-05-01**|**Differentiating anomalous and topological Hall effects using first-order reversal curve measurements**|Gregory M. Stephen et.al.|[2505.00565v1](http://arxiv.org/abs/2505.00565v1)|null|
