@@ -1098,12 +1098,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Nematic ordering via vertical stratification in drying clay nanotube suspensions**|Arun Dadwal et.al.|[2505.03718v1](http://arxiv.org/abs/2505.03718v1)|null|
+|**2025-05-06**|**Active Learning for Predicting Polymer/Plasticizer Phase Behaviour**|Lois Smith et.al.|[2505.03620v1](http://arxiv.org/abs/2505.03620v1)|null|
+|**2025-05-06**|**Barrier induced stalemate-consensus transition of self-propelled participants subject to majority rule**|Yan-Wen Xiao et.al.|[2505.03464v1](http://arxiv.org/abs/2505.03464v1)|null|
+|**2025-05-06**|**Competitive Adsorption in Polymer Nanocomposites: The Molecular Weight and End-Group Effect Revealed by SANS and MD Simulations**|Tae Yeon Kong et.al.|[2505.03312v1](http://arxiv.org/abs/2505.03312v1)|null|
+|**2025-05-06**|**Displacement and Stress Analysis of an Elastic Hollow Disk: Comparison with Strength of Materials' Prediction**|Ken Okamura et.al.|[2505.03282v1](http://arxiv.org/abs/2505.03282v1)|null|
+|**2025-05-06**|**Tailoring ultra-high-order optical skyrmions**|Xinji Zeng et.al.|[2505.03272v1](http://arxiv.org/abs/2505.03272v1)|null|
+|**2025-05-06**|**Constraints on magnetism and correlations in RuO $_2$ from lattice dynamics and Mössbauer spectroscopy**|George Yumnam et.al.|[2505.03250v1](http://arxiv.org/abs/2505.03250v1)|null|
+|**2025-05-06**|**Broadband Dielectric Spectroscopy on dry Poly(vinyl alcohol)/Poly(vinylidene fluoride) blends reinforced with Nano-Graphene Platelets at combined pressure and temperature**|Eirini Kolonelou et.al.|[2505.03192v1](http://arxiv.org/abs/2505.03192v1)|null|
+|**2025-05-05**|**Ferroelectric Nematic and Smectic Liquid Crystals with Sub-Molecular Spatial Correlations**|Parikshit Guragain et.al.|[2505.03009v1](http://arxiv.org/abs/2505.03009v1)|null|
 |**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793v1](http://arxiv.org/abs/2505.02793v1)|null|
 |**2025-05-05**|**Particles, trajectories and diffusion: random walks in cooling granular gases**|Santos Bravo Yuste et.al.|[2505.02777v1](http://arxiv.org/abs/2505.02777v1)|null|
 |**2025-05-05**|**Flow induced intermittent transport shapes colloid filtration in complex media**|Filippo Miele et.al.|[2505.02689v1](http://arxiv.org/abs/2505.02689v1)|null|
 |**2025-05-05**|**Metamorphosis of collective patterns modulated by non-reciprocal interactions**|Edgardo Brigatti et.al.|[2505.02672v1](http://arxiv.org/abs/2505.02672v1)|null|
 |**2025-05-05**|**Role of Noise on Defect Formation and Correlations in a Long-Range Ising Model Under Adiabatic Driving**|Santanu Dhara et.al.|[2505.02661v1](http://arxiv.org/abs/2505.02661v1)|null|
 |**2025-05-05**|**Statistics within UV-Visible Absorption Spectrum of Ethanolic Azobenzene**|Eemeli A. Eronen et.al.|[2505.02610v1](http://arxiv.org/abs/2505.02610v1)|null|
+|**2025-05-05**|**Compositional disorder in a multicomponent non-reciprocal mixture: stability and patterns**|Laya Parkavousi et.al.|[2505.02532v1](http://arxiv.org/abs/2505.02532v1)|null|
 |**2025-05-05**|**How individual vs shared coordination governs the degree of correlation in rotational vs residence times in a high-viscosity lithium electrolyte**|Vinay Thakur et.al.|[2505.02457v1](http://arxiv.org/abs/2505.02457v1)|null|
 |**2025-05-05**|**High-Order Harmonic Generation in Organic Molecular Crystals**|Falk-Erik Wiechmann et.al.|[2505.02432v1](http://arxiv.org/abs/2505.02432v1)|null|
 |**2025-05-05**|**Molecular-sized bubbles in a liquid: free energy of formation beyond the capillarity approximation**|J. Puibasset et.al.|[2505.02430v1](http://arxiv.org/abs/2505.02430v1)|null|
@@ -9303,6 +9313,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Parametrically amplified Josephson plasma waves in YBa_2Cu_3O_(6+x): evidence for local superconducting fluctuations up to the pseudogap temperature $T^*$**|Marios H. Michael et.al.|[2505.03358v1](http://arxiv.org/abs/2505.03358v1)|null|
 |**2025-04-15**|**Generation of Relativistic Structured Spin-Polarized Lepton Beams**|Zhong-Peng Li et.al.|[2504.11113v1](http://arxiv.org/abs/2504.11113v1)|null|
 |**2025-04-11**|**Positive Terahertz Photoconductivity in CdHgTe Under Hydrostatic Pressure**|Ivan Yahniuk et.al.|[2504.08319v1](http://arxiv.org/abs/2504.08319v1)|null|
 |**2025-02-21**|**Efficiently Laser Driven Terahertz Surface Plasmon Polaritons on Long Metal Wire**|Shuoting Shao et.al.|[2502.08048v2](http://arxiv.org/abs/2502.08048v2)|null|
@@ -9671,6 +9682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Large Topological Magnetic Optical Effects and Imaging of Antiferromagnetic Octupole Domains of an Altermagnet-like Weyl Semimetal**|Xingyue Han et.al.|[2505.03713v1](http://arxiv.org/abs/2505.03713v1)|null|
+|**2025-05-06**|**Robust quantum anomalous Hall effect with spatially uncorrelated disorder**|Kristof Moors et.al.|[2505.03485v1](http://arxiv.org/abs/2505.03485v1)|null|
 |**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
 |**2025-05-03**|**Tunable Chern Insulators in Moiré-Distant and Moiré-Proximal Rhombohedral Pentalayer Graphene**|Chushan Li et.al.|[2505.01767v1](http://arxiv.org/abs/2505.01767v1)|null|
 |**2025-05-03**|**Ferroelectrically Switchable Chirality in Topological Superconductivity: Bilayer-MnBi2Te4/Fe(Se,Te) Heterostructure**|Kai-Zhi Bai et.al.|[2505.01759v1](http://arxiv.org/abs/2505.01759v1)|null|
