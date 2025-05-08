@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**All-DNA associative polymers**|Francesco Tosti Guerra et.al.|[2505.04482v1](http://arxiv.org/abs/2505.04482v1)|null|
+|**2025-05-07**|**Consistent Field Theory Across the Mott-Insulator to Superfluid Transition**|Idan S. Wallerstein et.al.|[2505.04442v1](http://arxiv.org/abs/2505.04442v1)|null|
+|**2025-05-07**|**Electromagnetic diffraction and bidirectional plasmon launching in partially gated 2d systems**|Ilia Moiseenko et.al.|[2505.04356v1](http://arxiv.org/abs/2505.04356v1)|null|
+|**2025-05-07**|**Tangential Forces Govern the Viscous-Inertial Transition in Dense Frictional Suspensions**|Sudarshan Konidena et.al.|[2505.04242v1](http://arxiv.org/abs/2505.04242v1)|null|
+|**2025-05-07**|**A Predictive Theory of Electrochemical Ostwald Ripening for Electrodeposited Lithium Metal**|Hanning Zhang et.al.|[2505.04198v1](http://arxiv.org/abs/2505.04198v1)|null|
+|**2025-05-07**|**Sound Attenuation in Glasses**|Grzegorz Szamel et.al.|[2505.04026v1](http://arxiv.org/abs/2505.04026v1)|null|
+|**2025-05-06**|**Anomalous grain dynamics and grain locomotion of odd crystals**|Zhi-Feng Huang et.al.|[2505.03957v1](http://arxiv.org/abs/2505.03957v1)|null|
+|**2025-05-06**|**Quantum tunneling and anti-tunneling across entropic barriers**|Paolo Malgaretti et.al.|[2505.03948v1](http://arxiv.org/abs/2505.03948v1)|null|
+|**2025-05-06**|**Physics-informed Neural Networks Enable High Fidelity Shear Wave Viscoelastography across Multiple organs**|Ziying Yin et.al.|[2505.03935v1](http://arxiv.org/abs/2505.03935v1)|null|
 |**2025-05-06**|**Nematic ordering via vertical stratification in drying clay nanotube suspensions**|Arun Dadwal et.al.|[2505.03718v1](http://arxiv.org/abs/2505.03718v1)|null|
 |**2025-05-06**|**Active Learning for Predicting Polymer/Plasticizer Phase Behaviour**|Lois Smith et.al.|[2505.03620v1](http://arxiv.org/abs/2505.03620v1)|null|
 |**2025-05-06**|**Barrier induced stalemate-consensus transition of self-propelled participants subject to majority rule**|Yan-Wen Xiao et.al.|[2505.03464v1](http://arxiv.org/abs/2505.03464v1)|null|
@@ -8939,6 +8948,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Direct evidence of light-induced phase-fluctuations in cuprates via time-resolved ARPES**|D. Armanno et.al.|[2505.03900v1](http://arxiv.org/abs/2505.03900v1)|null|
+|**2025-05-06**|**Spectroscopic evidence of intra-unit-cell charge redistribution in charge-neutral magnetic topological insulator Sb-doped MnBi6Te10**|Khanh Duy Nguyen et.al.|[2505.03894v1](http://arxiv.org/abs/2505.03894v1)|null|
 |**2025-05-05**|**2D van der Waals magnets: from fundamental physics to applications**|Je-Geun Park et.al.|[2505.02355v1](http://arxiv.org/abs/2505.02355v1)|null|
 |**2025-05-04**|**Emergent scattering regimes in disordered metasurfaces near critical packing**|Miao Chen et.al.|[2505.02244v1](http://arxiv.org/abs/2505.02244v1)|null|
 |**2025-05-01**|**Unveiling competitions between carrier recombination pathways in semiconductors via mechanical damping**|Mingyu Xie et.al.|[2505.00575v1](http://arxiv.org/abs/2505.00575v1)|null|
@@ -9686,6 +9697,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Sign competing sources of Berry curvature and anomalous Hall conductance humps in topological ferromagnets**|Wojciech Brzezicki et.al.|[2505.04268v1](http://arxiv.org/abs/2505.04268v1)|null|
+|**2025-05-06**|**Spectroscopic evidence of intra-unit-cell charge redistribution in charge-neutral magnetic topological insulator Sb-doped MnBi6Te10**|Khanh Duy Nguyen et.al.|[2505.03894v1](http://arxiv.org/abs/2505.03894v1)|null|
+|**2025-05-06**|**Transdimensional anomalous Hall effect in rhombohedral thin graphite**|Qingxin Li et.al.|[2505.03891v1](http://arxiv.org/abs/2505.03891v1)|null|
 |**2025-05-06**|**Large Topological Magnetic Optical Effects and Imaging of Antiferromagnetic Octupole Domains of an Altermagnet-like Weyl Semimetal**|Xingyue Han et.al.|[2505.03713v1](http://arxiv.org/abs/2505.03713v1)|null|
 |**2025-05-06**|**Robust quantum anomalous Hall effect with spatially uncorrelated disorder**|Kristof Moors et.al.|[2505.03485v1](http://arxiv.org/abs/2505.03485v1)|null|
 |**2025-05-05**|**Fermi surface nesting driven anomalous Hall effect in magnetically frustrated Mn_2PdIn**|Afsar Ahmed et.al.|[2505.02769v1](http://arxiv.org/abs/2505.02769v1)|null|
