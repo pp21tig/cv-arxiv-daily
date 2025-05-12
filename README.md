@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|null|
+|**2025-05-09**|**Controlling the morphologies and dynamics in three-dimensional tissues**|Rajsekhar Das et.al.|[2505.06168v1](http://arxiv.org/abs/2505.06168v1)|null|
+|**2025-05-09**|**Control of encounter kinetics by chemically active droplets**|Jacques Fries et.al.|[2505.06153v1](http://arxiv.org/abs/2505.06153v1)|null|
+|**2025-05-09**|**A Piezoelectric Molecular Cocrystal with Unconventional $π$ -Stacking**|Samuel G. Dunning et.al.|[2505.06095v1](http://arxiv.org/abs/2505.06095v1)|null|
+|**2025-05-09**|**Validating Griffith fracture propagation in the phase-field approach to fracture: The case of Mode III by means of the trousers test**|F. Kamarei et.al.|[2505.06086v1](http://arxiv.org/abs/2505.06086v1)|null|
+|**2025-05-09**|**Modeling complex particle suspensions: perspectives on the rigid multiblob method**|Blaise Delmotte et.al.|[2505.06066v1](http://arxiv.org/abs/2505.06066v1)|null|
+|**2025-05-09**|**Narrowband, angle-stable, and highly efficient polariton organic light emitting diodes employing thermally activated delayed fluorescence**|Andreas Mischok et.al.|[2505.06057v1](http://arxiv.org/abs/2505.06057v1)|null|
+|**2025-05-09**|**Surface Nematic Uniformity**|Andrea Pedrini et.al.|[2505.06037v1](http://arxiv.org/abs/2505.06037v1)|null|
+|**2025-05-09**|**Engineering Morphologies of Metal Colloidal Assemblies via Colloid Jamming at Liquid-Liquid Interfaces**|Jiyuan Yao et.al.|[2505.06026v1](http://arxiv.org/abs/2505.06026v1)|null|
+|**2025-05-09**|**Unravelling the Antimicrobial Action Mechanism of Ribosomal Protein S30**|J. Bhatt Mitra et.al.|[2505.06019v1](http://arxiv.org/abs/2505.06019v1)|null|
+|**2025-05-09**|**Surface mobility of a glass-forming polymer in an ionic liquid**|Xinyu Zhang et.al.|[2505.06008v1](http://arxiv.org/abs/2505.06008v1)|null|
+|**2025-05-09**|**How Salt Solvation Slows Water Dynamics While Blue-Shifting Its Dielectric Spectrum**|Florian Pabst et.al.|[2505.05995v1](http://arxiv.org/abs/2505.05995v1)|null|
+|**2025-05-09**|**Quantum Monte Carlo description of correlated electrons in two-dimensional FeSe**|S. Azadi et.al.|[2505.05883v1](http://arxiv.org/abs/2505.05883v1)|null|
+|**2025-05-09**|**Finite Membrane Thickness Influences Hydrodynamics on the Nanoscale**|Zachary G. Lipel et.al.|[2505.05776v1](http://arxiv.org/abs/2505.05776v1)|null|
+|**2025-05-09**|**Static and dynamic theory of polarization under internal and directing electric fields: Fixed-charge and fixed-potential conditions**|Akira Onuki et.al.|[2505.05739v1](http://arxiv.org/abs/2505.05739v1)|null|
+|**2025-05-08**|**Subdiffusion of sticky dendrimers in an associative polymer network**|Silpa Mariya et.al.|[2505.05682v1](http://arxiv.org/abs/2505.05682v1)|null|
+|**2025-05-08**|**Interpolating between pair-potential systems**|Lorenzo Costigliola et.al.|[2505.05656v1](http://arxiv.org/abs/2505.05656v1)|null|
 |**2025-05-08**|**Cell size heterogeneity controls crystallization of the developing fruit fly wing**|Kartik Chhajed et.al.|[2505.05437v1](http://arxiv.org/abs/2505.05437v1)|null|
 |**2025-05-08**|**Robustly optimal dynamics for active matter reservoir computing**|Mario U. Gaimann et.al.|[2505.05420v1](http://arxiv.org/abs/2505.05420v1)|null|
 |**2025-05-08**|**Quantum Simulation of Dynamical Response Functions of Equilibrium States**|Esther Cruz et.al.|[2505.05411v1](http://arxiv.org/abs/2505.05411v1)|null|
@@ -8964,6 +8981,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225v1](http://arxiv.org/abs/2505.06225v1)|null|
+|**2025-05-09**|**Edelstein effect in optically driven monolayer jacutingaite Pt $_2$HgSe$_3$**|Nguyen Quang Bau et.al.|[2505.06144v1](http://arxiv.org/abs/2505.06144v1)|null|
 |**2025-05-08**|**Nonlinear optical response of truly chiral phonons: Light-induced phonon angular momentum, Peltier effect, and orbital current**|Hiroaki Ishizuka et.al.|[2505.05313v1](http://arxiv.org/abs/2505.05313v1)|null|
 |**2025-05-06**|**Direct evidence of light-induced phase-fluctuations in cuprates via time-resolved ARPES**|D. Armanno et.al.|[2505.03900v1](http://arxiv.org/abs/2505.03900v1)|null|
 |**2025-05-06**|**Spectroscopic evidence of intra-unit-cell charge redistribution in charge-neutral magnetic topological insulator Sb-doped MnBi6Te10**|Khanh Duy Nguyen et.al.|[2505.03894v1](http://arxiv.org/abs/2505.03894v1)|null|
@@ -10209,6 +10228,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Neutron scattering studies of complex lattice dynamics in energy materials**|Qingyong Ren et.al.|[2505.06076v1](http://arxiv.org/abs/2505.06076v1)|null|
+|**2025-05-09**|**Atypical Ferrimagnetism in the case of Ni $_4$Nb$_2$O$_9$**|Jhuma Sannigrahi et.al.|[2505.05824v1](http://arxiv.org/abs/2505.05824v1)|null|
 |**2025-04-27**|**Predicting neutron experiments from first principles: A workflow powered by machine learning**|Eric Lindgren et.al.|[2504.19352v1](http://arxiv.org/abs/2504.19352v1)|null|
 |**2025-04-25**|**Magnetic excitations from the hexagonal spin clusters in the S = 1/2 distorted honeycomb lattice antiferromagnet Cu2(pymca)3(ClO4)**|Masaaki Matsuda et.al.|[2504.18681v1](http://arxiv.org/abs/2504.18681v1)|null|
 |**2025-04-24**|**Magnetically disordered ground state in the triangular-lattice antiferromagnets Rb $_3$Yb(VO$_4$)$_2$ and Cs$_3$Yb(VO$_4$)$_2$**|Zhen Ma et.al.|[2504.17470v1](http://arxiv.org/abs/2504.17470v1)|null|
