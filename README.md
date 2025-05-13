@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Emerging (2+1)D electrodynamics and topological instanton in pseudo-Hermitian two-level systems**|Kuangyin Deng et.al.|[2505.07791v1](http://arxiv.org/abs/2505.07791v1)|null|
+|**2025-05-12**|**Prethermal discrete time crystals in one-dimensional classical Floquet systems with nearest-neighbor interactions**|Zhuo-Yi Li et.al.|[2505.07524v1](http://arxiv.org/abs/2505.07524v1)|null|
+|**2025-05-12**|**Unraveling the impact of competing interactions on non-equilibrium colloidal gelation**|Joeri Opdam et.al.|[2505.07470v1](http://arxiv.org/abs/2505.07470v1)|null|
+|**2025-05-12**|**Interaction Effects on the Electronic Floquet Spectra: Excitonic Effects**|Teng Xiao et.al.|[2505.07428v1](http://arxiv.org/abs/2505.07428v1)|null|
+|**2025-05-12**|**Charge transfer between van der Waals coupled metallic 2D layers**|Bharti Matta et.al.|[2505.07382v1](http://arxiv.org/abs/2505.07382v1)|null|
+|**2025-05-12**|**Inverse Bauschinger Effect in Active Ultrastable Glasses**|Rashmi Priya et.al.|[2505.07356v1](http://arxiv.org/abs/2505.07356v1)|null|
+|**2025-05-12**|**Interplay between timescales governs the residual activity of a harmonically bound active Brownian particle**|Sanatan Halder et.al.|[2505.07265v1](http://arxiv.org/abs/2505.07265v1)|null|
+|**2025-05-12**|**Superconducting Dome and Quantum Criticality in Two-Dimensional NbO2 Triangular Lattice**|Takuto Soma et.al.|[2505.07241v1](http://arxiv.org/abs/2505.07241v1)|null|
+|**2025-05-11**|**Buckling of residually stressed cylindrical tubes under compression**|Tao Zhang et.al.|[2505.07109v1](http://arxiv.org/abs/2505.07109v1)|null|
+|**2025-05-11**|**Driving electronic features of twisted bilayer zigzag-graphene nanoribbons**|Kevin J. U. Vidarte et.al.|[2505.06968v1](http://arxiv.org/abs/2505.06968v1)|null|
+|**2025-05-10**|**Self-organization of active rod suspensions on fluid membranes and thin viscous films**|Arijit Mahapatra et.al.|[2505.06783v1](http://arxiv.org/abs/2505.06783v1)|null|
+|**2025-05-10**|**Critical States of Fermions with ${\mathbb{Z}}_2$ Flux Disorder**|Hiranmay Das et.al.|[2505.06689v1](http://arxiv.org/abs/2505.06689v1)|null|
+|**2025-05-10**|**Spatially Structured Flocking in a Proliferating Population of Self-Propelled Organisms without Explicit Alignment Interactions**|Seiya Takamura et.al.|[2505.06658v1](http://arxiv.org/abs/2505.06658v1)|null|
+|**2025-05-10**|**Transient size segregation of binary granular mixtures**|Soniya Kumawat et.al.|[2505.06568v1](http://arxiv.org/abs/2505.06568v1)|null|
+|**2025-05-10**|**Interplay between defects and the non-Hermitian skin effect**|Yin Huang et.al.|[2505.06530v1](http://arxiv.org/abs/2505.06530v1)|null|
+|**2025-05-09**|**Lipidation-induced bacterial cell membrane translocation of star-peptides**|Amal Jayawardena et.al.|[2505.06447v1](http://arxiv.org/abs/2505.06447v1)|null|
+|**2025-05-09**|**Phase field model for viscous inclusions in anisotropic networks**|Aakanksha Gubbala et.al.|[2505.06432v1](http://arxiv.org/abs/2505.06432v1)|null|
+|**2025-05-09**|**Viscous flow model of ion-induced pattern formation: consistency between theory and experiment**|Tyler P. Evans et.al.|[2505.06430v1](http://arxiv.org/abs/2505.06430v1)|null|
+|**2025-05-09**|**Defects in vibrated monolayers of equilateral triangular prisms**|Jorge Vega et.al.|[2505.06376v1](http://arxiv.org/abs/2505.06376v1)|null|
+|**2025-05-09**|**Soft Electromechanical Elastomers Impervious to Instability**|Daniel Katusele et.al.|[2505.06355v1](http://arxiv.org/abs/2505.06355v1)|null|
 |**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|null|
 |**2025-05-09**|**Controlling the morphologies and dynamics in three-dimensional tissues**|Rajsekhar Das et.al.|[2505.06168v1](http://arxiv.org/abs/2505.06168v1)|null|
 |**2025-05-09**|**Control of encounter kinetics by chemically active droplets**|Jacques Fries et.al.|[2505.06153v1](http://arxiv.org/abs/2505.06153v1)|null|
@@ -8981,6 +9001,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Unified theory of photovoltaic Hall effect by field- and light-induced Berry curvatures**|Yuta Murotani et.al.|[2505.07189v1](http://arxiv.org/abs/2505.07189v1)|null|
+|**2025-05-10**|**Adjusting optical cavity birefringence with wavelength tunable laser for axion searches**|Hinata Takidera et.al.|[2505.06770v1](http://arxiv.org/abs/2505.06770v1)|null|
 |**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225v1](http://arxiv.org/abs/2505.06225v1)|null|
 |**2025-05-09**|**Edelstein effect in optically driven monolayer jacutingaite Pt $_2$HgSe$_3$**|Nguyen Quang Bau et.al.|[2505.06144v1](http://arxiv.org/abs/2505.06144v1)|null|
 |**2025-05-08**|**Nonlinear optical response of truly chiral phonons: Light-induced phonon angular momentum, Peltier effect, and orbital current**|Hiroaki Ishizuka et.al.|[2505.05313v1](http://arxiv.org/abs/2505.05313v1)|null|
@@ -9442,6 +9464,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Current-induced Nonequilibrium Phase Transition Accompanied by Giant Gap Reduction in Vanadium Dioxide**|Akitoshi Nakano et.al.|[2505.07307v1](http://arxiv.org/abs/2505.07307v1)|null|
+|**2025-05-11**|**Stabilization of the skyrmion in a hybrid magnetic-superconducting nanostucture**|Julia Kharlan et.al.|[2505.07133v1](http://arxiv.org/abs/2505.07133v1)|null|
+|**2025-05-11**|**Optimal Current Control Strategy for Reliable Power Electronics Converters: Frequency-Domain Approach**|Amin Rezaeizadeh et.al.|[2505.06922v1](http://arxiv.org/abs/2505.06922v1)|null|
+|**2025-05-10**|**Nonlinearity Modulation of Auto-oscillations in Three-terminal Magnetic Tunnel Junctions**|Zixi Wang et.al.|[2505.06547v1](http://arxiv.org/abs/2505.06547v1)|null|
+|**2025-05-09**|**Demonstration of full-scale spatio-temporal diagnostics of solid-density plasmas driven by an ultra-short relativistic laser pulse using an X-ray free-electron laser**|Lingen Huang et.al.|[2505.06425v1](http://arxiv.org/abs/2505.06425v1)|null|
 |**2025-05-07**|**Proposed controlled creation and manipulation of skyrmions with spin-orbit torque**|Yuto Uwabo et.al.|[2505.04827v1](http://arxiv.org/abs/2505.04827v1)|null|
 |**2025-05-02**|**Current-induced Dynamics of Bloch Domain-wall Bimerons**|Jiwen Chen et.al.|[2505.00959v1](http://arxiv.org/abs/2505.00959v1)|null|
 |**2025-04-30**|**The U2H map explains the effect of (sub)mesoscale turbulence on significant wave height statistics**|Han Wang et.al.|[2504.21736v1](http://arxiv.org/abs/2504.21736v1)|null|
@@ -9734,6 +9761,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Unified theory of photovoltaic Hall effect by field- and light-induced Berry curvatures**|Yuta Murotani et.al.|[2505.07189v1](http://arxiv.org/abs/2505.07189v1)|null|
+|**2025-05-11**|**Magnetization Dependent In-plane Anomalous Hall Effect in a Low-dimensional System**|I-Hsuan Kao et.al.|[2505.06829v1](http://arxiv.org/abs/2505.06829v1)|null|
 |**2025-05-08**|**Fermi lune and transdimensional orbital magnetism in rhombohedral multilayer graphene**|Min Li et.al.|[2505.05414v1](http://arxiv.org/abs/2505.05414v1)|null|
 |**2025-05-07**|**Sign competing sources of Berry curvature and anomalous Hall conductance humps in topological ferromagnets**|Wojciech Brzezicki et.al.|[2505.04268v1](http://arxiv.org/abs/2505.04268v1)|null|
 |**2025-05-06**|**Spectroscopic evidence of intra-unit-cell charge redistribution in charge-neutral magnetic topological insulator Sb-doped MnBi6Te10**|Khanh Duy Nguyen et.al.|[2505.03894v1](http://arxiv.org/abs/2505.03894v1)|null|
@@ -9747,6 +9776,7 @@
 |**2025-05-02**|**Intrinsic magnetic topological insulators of the MnBi ${}_2$Te${}_4$ family**|A. Yu. Vyazovskaya et.al.|[2505.01252v1](http://arxiv.org/abs/2505.01252v1)|null|
 |**2025-05-02**|**Sensitivity enhancement of an anomalous Hall effect magnetic sensor by means of second-order magnetic anisotropy**|Hiroko Arai et.al.|[2505.00955v1](http://arxiv.org/abs/2505.00955v1)|null|
 |**2025-05-01**|**Differentiating anomalous and topological Hall effects using first-order reversal curve measurements**|Gregory M. Stephen et.al.|[2505.00565v1](http://arxiv.org/abs/2505.00565v1)|null|
+|**2025-05-12**|**Altermagnetic band splitting in 10 nm epitaxial CrSb thin films**|Sandra Santhosh et.al.|[2505.00239v2](http://arxiv.org/abs/2505.00239v2)|null|
 |**2025-04-30**|**Quantum theory of magnetic octupole in periodic crystals and characterization of time-reversal-symmetry breaking antiferromagnetism**|Takumi Sato et.al.|[2504.21431v1](http://arxiv.org/abs/2504.21431v1)|null|
 |**2025-04-25**|**Computational search for materials having a giant anomalous Hall effect in the pyrochlore and spinel crystal structures**|Sean Sullivan et.al.|[2504.18320v1](http://arxiv.org/abs/2504.18320v1)|null|
 |**2025-04-25**|**Anomalous Hall effect in antiferromagnetic RGaGe (R = Nd, Gd) single crystals**|Weizheng Cao et.al.|[2504.18313v1](http://arxiv.org/abs/2504.18313v1)|null|
@@ -10228,6 +10258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**From continuum excitations to sharp magnons via transverse magnetic field in the spin-1/2 Ising-like triangular lattice antiferromagnet Na2BaCo(PO4)2**|Leonie Woodland et.al.|[2505.06398v1](http://arxiv.org/abs/2505.06398v1)|null|
 |**2025-05-09**|**Neutron scattering studies of complex lattice dynamics in energy materials**|Qingyong Ren et.al.|[2505.06076v1](http://arxiv.org/abs/2505.06076v1)|null|
 |**2025-05-09**|**Atypical Ferrimagnetism in the case of Ni $_4$Nb$_2$O$_9$**|Jhuma Sannigrahi et.al.|[2505.05824v1](http://arxiv.org/abs/2505.05824v1)|null|
 |**2025-04-27**|**Predicting neutron experiments from first principles: A workflow powered by machine learning**|Eric Lindgren et.al.|[2504.19352v1](http://arxiv.org/abs/2504.19352v1)|null|
