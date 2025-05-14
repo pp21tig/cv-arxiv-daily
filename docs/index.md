@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Bubble formation in active binary mixture model**|Kyosuke Adachi et.al.|[2505.08637v1](http://arxiv.org/abs/2505.08637v1)|null|
+|**2025-05-13**|**Real-space observation of salt-dependent aging in Laponite gels**|Shunichi Saito et.al.|[2505.08475v1](http://arxiv.org/abs/2505.08475v1)|null|
+|**2025-05-13**|**Measurements of molecular size and shape on a chip**|Xin Zhu et.al.|[2505.08452v1](http://arxiv.org/abs/2505.08452v1)|null|
+|**2025-05-13**|**Metal-Insulator Transition described by Natural Orbital Functional Theory**|Juan Felipe Huan Lew-Yee et.al.|[2505.08397v1](http://arxiv.org/abs/2505.08397v1)|null|
+|**2025-05-13**|**Simplified, Physically Motivated, and Universally Applicable Range-Separation Tuning**|Aditi Singh et.al.|[2505.08383v1](http://arxiv.org/abs/2505.08383v1)|null|
+|**2025-05-13**|**Controllable creation of topological boundary states in topological-insulator-based Josephson corner junctions**|Xiang Wang et.al.|[2505.08290v1](http://arxiv.org/abs/2505.08290v1)|null|
+|**2025-05-13**|**Nonlinear optical response in kagome lattice with inversion symmetry breaking**|Xiangyang Liu et.al.|[2505.08289v1](http://arxiv.org/abs/2505.08289v1)|null|
+|**2025-05-13**|**Quantum metrology of hopping strength in a one-dimensional electronic chain**|Yuetao Chen et.al.|[2505.08282v1](http://arxiv.org/abs/2505.08282v1)|null|
+|**2025-05-13**|**Quantum Time Crystal Clock and its Performance**|Ludmila Viotti et.al.|[2505.08276v1](http://arxiv.org/abs/2505.08276v1)|null|
+|**2025-05-13**|**Toward Efficient Electrokinetic Energy Conversion with Topographic Modulation of Electrical Conduction**|Austin Dick et.al.|[2505.08208v1](http://arxiv.org/abs/2505.08208v1)|null|
+|**2025-05-12**|**Micro-swimmer locomotion and hydrodynamics in Brinkman Flows**|Francisca Guzman-Lastra et.al.|[2505.08047v1](http://arxiv.org/abs/2505.08047v1)|null|
+|**2025-05-12**|**Singular Damped Twist Waves in Chromonic Liquid Crystals**|Silvia Paparini et.al.|[2505.08023v1](http://arxiv.org/abs/2505.08023v1)|null|
+|**2025-05-12**|**Experimental Observation of Short-Range Magnetic Correlations in Amorphous Nb $_2$O$_5$ and Ta$_2$O$_5$ Thin Films**|Y. V. Krasnikova et.al.|[2505.07957v1](http://arxiv.org/abs/2505.07957v1)|null|
 |**2025-05-12**|**Emerging (2+1)D electrodynamics and topological instanton in pseudo-Hermitian two-level systems**|Kuangyin Deng et.al.|[2505.07791v1](http://arxiv.org/abs/2505.07791v1)|null|
 |**2025-05-12**|**Prethermal discrete time crystals in one-dimensional classical Floquet systems with nearest-neighbor interactions**|Zhuo-Yi Li et.al.|[2505.07524v1](http://arxiv.org/abs/2505.07524v1)|null|
 |**2025-05-12**|**Unraveling the impact of competing interactions on non-equilibrium colloidal gelation**|Joeri Opdam et.al.|[2505.07470v1](http://arxiv.org/abs/2505.07470v1)|null|
@@ -9468,6 +9481,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Current-induced successive structural phase transitions beyond thermal equilibrium in single-crystal VO2**|Shunsuke Kitou et.al.|[2505.08186v1](http://arxiv.org/abs/2505.08186v1)|null|
 |**2025-05-12**|**Current-induced Nonequilibrium Phase Transition Accompanied by Giant Gap Reduction in Vanadium Dioxide**|Akitoshi Nakano et.al.|[2505.07307v1](http://arxiv.org/abs/2505.07307v1)|null|
 |**2025-05-11**|**Stabilization of the skyrmion in a hybrid magnetic-superconducting nanostucture**|Julia Kharlan et.al.|[2505.07133v1](http://arxiv.org/abs/2505.07133v1)|null|
 |**2025-05-11**|**Optimal Current Control Strategy for Reliable Power Electronics Converters: Frequency-Domain Approach**|Amin Rezaeizadeh et.al.|[2505.06922v1](http://arxiv.org/abs/2505.06922v1)|null|
@@ -9765,6 +9779,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Dominant orbital magnetization in the prototypical altermagnet MnTe**|Chao Chen Ye et.al.|[2505.08675v1](http://arxiv.org/abs/2505.08675v1)|null|
+|**2025-05-12**|**Coulomb Interaction-Stabilized Isolated Narrow Bands with Chern Numbers $\mathcal{C} > 1$ in Twisted Rhombohedral Trilayer-Bilayer Graphene**|Vo Tien Phong et.al.|[2505.07981v1](http://arxiv.org/abs/2505.07981v1)|null|
 |**2025-05-12**|**Unified theory of photovoltaic Hall effect by field- and light-induced Berry curvatures**|Yuta Murotani et.al.|[2505.07189v1](http://arxiv.org/abs/2505.07189v1)|null|
 |**2025-05-11**|**Magnetization Dependent In-plane Anomalous Hall Effect in a Low-dimensional System**|I-Hsuan Kao et.al.|[2505.06829v1](http://arxiv.org/abs/2505.06829v1)|null|
 |**2025-05-08**|**Fermi lune and transdimensional orbital magnetism in rhombohedral multilayer graphene**|Min Li et.al.|[2505.05414v1](http://arxiv.org/abs/2505.05414v1)|null|
