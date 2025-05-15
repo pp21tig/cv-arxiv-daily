@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Exchange-driven giant magnetoelastic coupling in Sr $_4$Ru$_3$O$_{10}$**|Carolina A. Marques et.al.|[2505.09611v1](http://arxiv.org/abs/2505.09611v1)|null|
+|**2025-05-14**|**Quantum simulation of bubble nucleation across a quantum phase transition**|De Luo et.al.|[2505.09607v1](http://arxiv.org/abs/2505.09607v1)|null|
+|**2025-05-14**|**Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory**|Karnik Ram et.al.|[2505.09543v1](http://arxiv.org/abs/2505.09543v1)|null|
+|**2025-05-14**|**Experimental demonstration of an analogy between optical non-coherence and irreversibility of heat transport**|Aleksandr Meilakhs et.al.|[2505.09522v1](http://arxiv.org/abs/2505.09522v1)|null|
+|**2025-05-14**|**Transients and multiperiodic responses: a hierarchy of material bits**|Colin M. Meulblok et.al.|[2505.09517v1](http://arxiv.org/abs/2505.09517v1)|null|
+|**2025-05-14**|**Glassy dynamics and a growing structural length scale in supercooled nanoparticles**|Weikai Qi et.al.|[2505.09480v1](http://arxiv.org/abs/2505.09480v1)|null|
+|**2025-05-14**|**Nonmonotonic diffusion in sheared active suspensions of squirmers**|Zhouyang Ge et.al.|[2505.09457v1](http://arxiv.org/abs/2505.09457v1)|null|
+|**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441v1](http://arxiv.org/abs/2505.09441v1)|null|
+|**2025-05-14**|**Optimal randomized measurements for a family of non-linear quantum properties**|Zhenyu Du et.al.|[2505.09206v1](http://arxiv.org/abs/2505.09206v1)|null|
+|**2025-05-14**|**Spatial Offset of Excited States in Non-Hermitian Lattices**|Xiaohan Jiang et.al.|[2505.09158v1](http://arxiv.org/abs/2505.09158v1)|null|
+|**2025-05-13**|**Physics-informed machine learning applied to the identification of high-pressure elusive phases from spatially resolved X-ray diffraction large datasets**|Lucas H. Francisco et.al.|[2505.08922v1](http://arxiv.org/abs/2505.08922v1)|null|
+|**2025-05-13**|**The Migdal effect in solid crystals and the role of non-adiabaticity**|Angelo Esposito et.al.|[2505.08864v1](http://arxiv.org/abs/2505.08864v1)|null|
 |**2025-05-13**|**Bubble formation in active binary mixture model**|Kyosuke Adachi et.al.|[2505.08637v1](http://arxiv.org/abs/2505.08637v1)|null|
 |**2025-05-13**|**Real-space observation of salt-dependent aging in Laponite gels**|Shunichi Saito et.al.|[2505.08475v1](http://arxiv.org/abs/2505.08475v1)|null|
 |**2025-05-13**|**Measurements of molecular size and shape on a chip**|Xin Zhu et.al.|[2505.08452v1](http://arxiv.org/abs/2505.08452v1)|null|
