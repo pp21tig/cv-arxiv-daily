@@ -1102,6 +1102,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Computer simulations show that liquid-liquid phase separation enhances self-assembly**|Layne B. Frechette et.al.|[2505.10400v1](http://arxiv.org/abs/2505.10400v1)|null|
+|**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|null|
+|**2025-05-15**|**Tuning the morphology of aerosolised cellulose nanocrystals via controlled aggregation**|Daniel Warnes et.al.|[2505.10342v1](http://arxiv.org/abs/2505.10342v1)|null|
+|**2025-05-15**|**Sensing a magnetic rare-earth surface alloy by proximity effect with an open-shell nanographene**|Nicolò Bassi et.al.|[2505.10313v1](http://arxiv.org/abs/2505.10313v1)|null|
+|**2025-05-15**|**Inferring activity from the flow field around active colloidal particles using deep learning**|Aditya Mohapatra et.al.|[2505.10270v1](http://arxiv.org/abs/2505.10270v1)|null|
+|**2025-05-15**|**Subcellular nano-chemical characterization in photothermal spectroscopic imaging of antimicrobial interaction in model system Bacillus subtilis & vancomycin**|Maryam Ali et.al.|[2505.10249v1](http://arxiv.org/abs/2505.10249v1)|null|
+|**2025-05-15**|**Modeling droplet-particle interactions on solid surfaces by coupling the lattice Boltzmann and discrete element methods**|Abhinav Naga et.al.|[2505.10171v1](http://arxiv.org/abs/2505.10171v1)|null|
+|**2025-05-15**|**Accelerated snapping of slender beams under lateral forcing**|Colin M. Meulblok et.al.|[2505.10091v1](http://arxiv.org/abs/2505.10091v1)|null|
+|**2025-05-15**|**Advancements in Entangled Photon Pairs in 2D Van der Waals Materials for On-chip Quantum Applications**|Abdus Salam Sarkar et.al.|[2505.09944v1](http://arxiv.org/abs/2505.09944v1)|null|
+|**2025-05-15**|**Topological photonics of generalized and nonlinear eigenvalue equations**|Takuma Isobe et.al.|[2505.09876v1](http://arxiv.org/abs/2505.09876v1)|null|
+|**2025-05-14**|**Emergent chirality and enantiomeric selectivity in layered NbOX $_2$ crystals**|Martin Gutierrez-Amigo et.al.|[2505.09749v1](http://arxiv.org/abs/2505.09749v1)|null|
+|**2025-05-14**|**Brownian Dynamics Simulations of Inclusions in an Active Fluid Bath**|Lijie Ding et.al.|[2505.09744v1](http://arxiv.org/abs/2505.09744v1)|null|
+|**2025-05-14**|**Role of structural biaxiality on the phase behaviour of chiral liquid crystals**|Sayantan Mondal et.al.|[2505.09726v1](http://arxiv.org/abs/2505.09726v1)|null|
 |**2025-05-14**|**Exchange-driven giant magnetoelastic coupling in Sr $_4$Ru$_3$O$_{10}$**|Carolina A. Marques et.al.|[2505.09611v1](http://arxiv.org/abs/2505.09611v1)|null|
 |**2025-05-14**|**Quantum simulation of bubble nucleation across a quantum phase transition**|De Luo et.al.|[2505.09607v1](http://arxiv.org/abs/2505.09607v1)|null|
 |**2025-05-14**|**Learned Free-Energy Functionals from Pair-Correlation Matching for Dynamical Density Functional Theory**|Karnik Ram et.al.|[2505.09543v1](http://arxiv.org/abs/2505.09543v1)|null|
@@ -9493,6 +9506,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Phonon Edelstein effect in chiral metals**|Takehito Yokoyama et.al.|[2505.10345v1](http://arxiv.org/abs/2505.10345v1)|null|
 |**2025-05-13**|**Current-induced successive structural phase transitions beyond thermal equilibrium in single-crystal VO2**|Shunsuke Kitou et.al.|[2505.08186v1](http://arxiv.org/abs/2505.08186v1)|null|
 |**2025-05-12**|**Current-induced Nonequilibrium Phase Transition Accompanied by Giant Gap Reduction in Vanadium Dioxide**|Akitoshi Nakano et.al.|[2505.07307v1](http://arxiv.org/abs/2505.07307v1)|null|
 |**2025-05-11**|**Stabilization of the skyrmion in a hybrid magnetic-superconducting nanostucture**|Julia Kharlan et.al.|[2505.07133v1](http://arxiv.org/abs/2505.07133v1)|null|
@@ -9791,6 +9805,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Complex electronic topography and magnetotransport in an in-plane ferromagnetic kagome metal**|Anup Pradhan Sakhya et.al.|[2505.09891v1](http://arxiv.org/abs/2505.09891v1)|null|
+|**2025-05-15**|**Strain-induced gyrotropic effects in ferroelectric BaTiS3**|Wei Luo et.al.|[2505.09881v1](http://arxiv.org/abs/2505.09881v1)|null|
 |**2025-05-13**|**Dominant orbital magnetization in the prototypical altermagnet MnTe**|Chao Chen Ye et.al.|[2505.08675v1](http://arxiv.org/abs/2505.08675v1)|null|
 |**2025-05-12**|**Coulomb Interaction-Stabilized Isolated Narrow Bands with Chern Numbers $\mathcal{C} > 1$ in Twisted Rhombohedral Trilayer-Bilayer Graphene**|Vo Tien Phong et.al.|[2505.07981v1](http://arxiv.org/abs/2505.07981v1)|null|
 |**2025-05-12**|**Unified theory of photovoltaic Hall effect by field- and light-induced Berry curvatures**|Yuta Murotani et.al.|[2505.07189v1](http://arxiv.org/abs/2505.07189v1)|null|
