@@ -1102,6 +1102,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Chemically active droplets in crowded environments**|Jacques Fries et.al.|[2505.11188v1](http://arxiv.org/abs/2505.11188v1)|null|
+|**2025-05-16**|**Simultaneous probes of pseudogap and disorder by hard x-ray photoemission applied for a candidate thermoelectric Al-Pd-Ru quasicrystal**|N. U. Sakamoto et.al.|[2505.11156v1](http://arxiv.org/abs/2505.11156v1)|null|
+|**2025-05-16**|**Walsh-Floquet Theory of Periodic Kick Drives**|James Walkling et.al.|[2505.11071v1](http://arxiv.org/abs/2505.11071v1)|null|
+|**2025-05-16**|**Delayed Active Swimmer in a Velocity Landscape**|Viktor Holubec et.al.|[2505.11042v1](http://arxiv.org/abs/2505.11042v1)|null|
+|**2025-05-16**|**Structure and dynamics of ionic liquids under shear flow**|Abbas Gholami et.al.|[2505.11007v1](http://arxiv.org/abs/2505.11007v1)|null|
+|**2025-05-16**|**Universal scaling of segment fluctuations in polymer and chromatin dynamics**|Kirill Polovnikov et.al.|[2505.10943v1](http://arxiv.org/abs/2505.10943v1)|null|
+|**2025-05-15**|**Microscopic description of the liquid-gas coexistence curve for Morse fluids in the immediate vicinity of the critical point**|I. V. Pylyuk et.al.|[2505.10725v1](http://arxiv.org/abs/2505.10725v1)|null|
+|**2025-05-15**|**Spatially patterned phases in a reaction-time-symmetry-broken model of flocking**|Charles R. Packard et.al.|[2505.10657v1](http://arxiv.org/abs/2505.10657v1)|null|
+|**2025-05-15**|**Is diamagnetism really acausal?**|Niclas Westerberg et.al.|[2505.10612v1](http://arxiv.org/abs/2505.10612v1)|null|
 |**2025-05-15**|**Computer simulations show that liquid-liquid phase separation enhances self-assembly**|Layne B. Frechette et.al.|[2505.10400v1](http://arxiv.org/abs/2505.10400v1)|null|
 |**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393v1](http://arxiv.org/abs/2505.10393v1)|null|
 |**2025-05-15**|**Tuning the morphology of aerosolised cellulose nanocrystals via controlled aggregation**|Daniel Warnes et.al.|[2505.10342v1](http://arxiv.org/abs/2505.10342v1)|null|
@@ -9805,6 +9814,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Linear Magnetoresistance and Anomalous Hall Effect in the Superconductor NiBi $_{3}$**|Gabriel Sant'ana et.al.|[2505.11285v1](http://arxiv.org/abs/2505.11285v1)|null|
 |**2025-05-15**|**Complex electronic topography and magnetotransport in an in-plane ferromagnetic kagome metal**|Anup Pradhan Sakhya et.al.|[2505.09891v1](http://arxiv.org/abs/2505.09891v1)|null|
 |**2025-05-15**|**Strain-induced gyrotropic effects in ferroelectric BaTiS3**|Wei Luo et.al.|[2505.09881v1](http://arxiv.org/abs/2505.09881v1)|null|
 |**2025-05-16**|**Dominant orbital magnetization in the prototypical altermagnet MnTe**|Chao Chen Ye et.al.|[2505.08675v2](http://arxiv.org/abs/2505.08675v2)|null|
@@ -10306,6 +10316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Neutron Spin Resonance Near a Lifshitz Transition in Overdoped Ba $_{0.4}$K$_{0.6}$Fe$_2$As$_2$**|Yang Li et.al.|[2505.11000v1](http://arxiv.org/abs/2505.11000v1)|null|
 |**2025-05-09**|**From continuum excitations to sharp magnons via transverse magnetic field in the spin-1/2 Ising-like triangular lattice antiferromagnet Na2BaCo(PO4)2**|Leonie Woodland et.al.|[2505.06398v1](http://arxiv.org/abs/2505.06398v1)|null|
 |**2025-05-09**|**Neutron scattering studies of complex lattice dynamics in energy materials**|Qingyong Ren et.al.|[2505.06076v1](http://arxiv.org/abs/2505.06076v1)|null|
 |**2025-05-09**|**Atypical Ferrimagnetism in the case of Ni $_4$Nb$_2$O$_9$**|Jhuma Sannigrahi et.al.|[2505.05824v1](http://arxiv.org/abs/2505.05824v1)|null|
