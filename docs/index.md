@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|null|
+|**2025-05-19**|**Entropy production rate in thermodynamically consistent flocks**|Tal Agranov et.al.|[2505.13117v1](http://arxiv.org/abs/2505.13117v1)|null|
+|**2025-05-19**|**Energy Dissipation in Cyclic Strain of Amorphous Solids**|Itamar Procaccia et.al.|[2505.13035v1](http://arxiv.org/abs/2505.13035v1)|null|
+|**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky et.al.|[2505.12953v1](http://arxiv.org/abs/2505.12953v1)|null|
+|**2025-05-19**|**Numerical Investigation on the Compressive Behavior of Hierarchical Granular Piles**|Sota Arakawa et.al.|[2505.12850v1](http://arxiv.org/abs/2505.12850v1)|null|
+|**2025-05-19**|**Characterization of phospholipid-cholesterol bilayers as self-assembled amphiphile block polymers that contain headgroups**|Xiaoyuan Wang et.al.|[2505.12726v1](http://arxiv.org/abs/2505.12726v1)|null|
+|**2025-05-19**|**Unconventional band splitting of CeSb in the devil's staircase transition**|Tongrui Li et.al.|[2505.12622v1](http://arxiv.org/abs/2505.12622v1)|null|
+|**2025-05-18**|**Reentrant Rigidity Transition in Planar Epithelia with Volume- and Area Elasticity**|Tanmoy Sarkar et.al.|[2505.12558v1](http://arxiv.org/abs/2505.12558v1)|null|
+|**2025-05-17**|**Polymer (imperfect) single-file diffusion: A phase diagram**|Hanyang Wang et.al.|[2505.12164v1](http://arxiv.org/abs/2505.12164v1)|null|
+|**2025-05-17**|**Preventing clustering of active particles in microchannels**|Juan Pablo Carrillo-Mora et.al.|[2505.12067v1](http://arxiv.org/abs/2505.12067v1)|null|
+|**2025-05-17**|**Dislocation Glides in Monolayered Granular Media: Effect of Lattice Constant**|Fumiaki Nakai et.al.|[2505.12042v1](http://arxiv.org/abs/2505.12042v1)|null|
+|**2025-05-17**|**Measuring the mechanical properties of asymmetric membranes in computer simulations -- new methods and insights**|Oded Farago et.al.|[2505.12033v1](http://arxiv.org/abs/2505.12033v1)|null|
+|**2025-05-17**|**Accelerating the Search for Superconductors Using Machine Learning**|Suhas Adiga et.al.|[2505.11964v1](http://arxiv.org/abs/2505.11964v1)|**[link](https://github.com/adigasuhas/Accelerating-Search-for-Superconductors-using-Machine-Learning)**|
+|**2025-05-17**|**Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer**|Stéphane Chevalier et.al.|[2505.11775v1](http://arxiv.org/abs/2505.11775v1)|null|
+|**2025-05-16**|**The role of confined water in the emergence of electrostatic strong coupling as revealed by nanoseparated charged lipid layers**|Swen Helstroffer et.al.|[2505.11617v1](http://arxiv.org/abs/2505.11617v1)|null|
+|**2025-05-16**|**Aharonov-Bohm caging of an electron in a quantum fractal**|Biplab Pal et.al.|[2505.11590v1](http://arxiv.org/abs/2505.11590v1)|null|
 |**2025-05-16**|**Chemically active droplets in crowded environments**|Jacques Fries et.al.|[2505.11188v1](http://arxiv.org/abs/2505.11188v1)|null|
 |**2025-05-16**|**Simultaneous probes of pseudogap and disorder by hard x-ray photoemission applied for a candidate thermoelectric Al-Pd-Ru quasicrystal**|N. U. Sakamoto et.al.|[2505.11156v1](http://arxiv.org/abs/2505.11156v1)|null|
 |**2025-05-16**|**Walsh-Floquet Theory of Periodic Kick Drives**|James Walkling et.al.|[2505.11071v1](http://arxiv.org/abs/2505.11071v1)|null|
@@ -9814,6 +9830,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Competing Magnetic States in the Candidate Altermagnet GdAlGe**|Oleg E. Parfenov et.al.|[2505.13001v1](http://arxiv.org/abs/2505.13001v1)|null|
 |**2025-05-16**|**Linear Magnetoresistance and Anomalous Hall Effect in the Superconductor NiBi $_{3}$**|Gabriel Sant'ana et.al.|[2505.11285v1](http://arxiv.org/abs/2505.11285v1)|null|
 |**2025-05-15**|**Complex electronic topography and magnetotransport in an in-plane ferromagnetic kagome metal**|Anup Pradhan Sakhya et.al.|[2505.09891v1](http://arxiv.org/abs/2505.09891v1)|null|
 |**2025-05-15**|**Strain-induced gyrotropic effects in ferroelectric BaTiS3**|Wei Luo et.al.|[2505.09881v1](http://arxiv.org/abs/2505.09881v1)|null|
