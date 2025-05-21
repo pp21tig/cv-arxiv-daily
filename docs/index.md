@@ -1102,6 +1102,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Impact of Surfactant and Flow Rate on the Electrical Properties of Activated Carbon Black Suspensions**|KangJin Lee et.al.|[2505.14618v1](http://arxiv.org/abs/2505.14618v1)|null|
+|**2025-05-20**|**Pressure Waves During Granular Flows in Varying Gravity Environments**|Abigail Tadlock et.al.|[2505.14525v1](http://arxiv.org/abs/2505.14525v1)|null|
+|**2025-05-20**|**Influence of active breathing on rheology and jamming of amorphous solids: insights from microscopic and mesoscale analysis**|Sayantan Ghosh et.al.|[2505.14520v1](http://arxiv.org/abs/2505.14520v1)|null|
+|**2025-05-20**|**Reference lattice, sound, stiffness, and magnetic transitions of Ising monolayers**|John M. Davis et.al.|[2505.14416v1](http://arxiv.org/abs/2505.14416v1)|null|
+|**2025-05-20**|**Role of Friction on the Formation of Confined Granular Structures**|Vinícius Pereira da S. Oliveira et.al.|[2505.14382v1](http://arxiv.org/abs/2505.14382v1)|null|
+|**2025-05-20**|**Freezing line of polydisperse hard spheres via direct-coexistence simulations**|Antoine Castagnède et.al.|[2505.14360v1](http://arxiv.org/abs/2505.14360v1)|null|
+|**2025-05-20**|**Water-rich amorphous state from drying mixed-metal sulfate solutions**|Christiaan T. van Campenhout et.al.|[2505.14334v1](http://arxiv.org/abs/2505.14334v1)|null|
+|**2025-05-20**|**A General Algorithm For Determining The Conductivity Zeros In Large Molecular Nanostructures: Applications To Rectangular Graphene Sheets**|Marian Nita et.al.|[2505.14237v1](http://arxiv.org/abs/2505.14237v1)|null|
+|**2025-05-20**|**Large, ultra-flat optical traps for uniform quantum gases**|Kai Frye-Arndt et.al.|[2505.14155v1](http://arxiv.org/abs/2505.14155v1)|null|
+|**2025-05-20**|**Quantum and Critical Casimir Effects: Bridging Fluctuation Physics and Nanotechnology**|Roberto Passante et.al.|[2505.14127v1](http://arxiv.org/abs/2505.14127v1)|null|
+|**2025-05-19**|**Solving Lyapunov equations for electrically driven ternary electrolytes -- application to long-range van der Waals interactions**|Guangle Du et.al.|[2505.13720v1](http://arxiv.org/abs/2505.13720v1)|null|
+|**2025-05-19**|**A new scale anomaly in Dirac matter**|Matteo Baggioli et.al.|[2505.13712v1](http://arxiv.org/abs/2505.13712v1)|null|
+|**2025-05-19**|**Real-time dynamics with bead-Fourier path integrals I: Bead-Fourier CMD**|Nathan London et.al.|[2505.13707v1](http://arxiv.org/abs/2505.13707v1)|null|
+|**2025-05-19**|**Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers**|Zihan Chen et.al.|[2505.13683v1](http://arxiv.org/abs/2505.13683v1)|null|
 |**2025-05-19**|**Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization**|Tianyi Chu et.al.|[2505.13283v1](http://arxiv.org/abs/2505.13283v1)|null|
 |**2025-05-19**|**Entropy production rate in thermodynamically consistent flocks**|Tal Agranov et.al.|[2505.13117v1](http://arxiv.org/abs/2505.13117v1)|null|
 |**2025-05-19**|**Energy Dissipation in Cyclic Strain of Amorphous Solids**|Itamar Procaccia et.al.|[2505.13035v1](http://arxiv.org/abs/2505.13035v1)|null|
@@ -9531,6 +9545,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Space Charge in Circular Machines**|Massimo Ferrario et.al.|[2505.14091v1](http://arxiv.org/abs/2505.14091v1)|null|
 |**2025-05-15**|**Phonon Edelstein effect in chiral metals**|Takehito Yokoyama et.al.|[2505.10345v1](http://arxiv.org/abs/2505.10345v1)|null|
 |**2025-05-13**|**Current-induced successive structural phase transitions beyond thermal equilibrium in single-crystal VO2**|Shunsuke Kitou et.al.|[2505.08186v1](http://arxiv.org/abs/2505.08186v1)|null|
 |**2025-05-12**|**Current-induced Nonequilibrium Phase Transition Accompanied by Giant Gap Reduction in Vanadium Dioxide**|Akitoshi Nakano et.al.|[2505.07307v1](http://arxiv.org/abs/2505.07307v1)|null|
@@ -9830,6 +9845,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Interplay between altermagnetic order and crystal symmetry probed using magnetotransport in epitaxial altermagnet MnTe**|Himanshu Bangar et.al.|[2505.14589v1](http://arxiv.org/abs/2505.14589v1)|null|
 |**2025-05-19**|**Competing Magnetic States in the Candidate Altermagnet GdAlGe**|Oleg E. Parfenov et.al.|[2505.13001v1](http://arxiv.org/abs/2505.13001v1)|null|
 |**2025-05-16**|**Linear Magnetoresistance and Anomalous Hall Effect in the Superconductor NiBi $_{3}$**|Gabriel Sant'ana et.al.|[2505.11285v1](http://arxiv.org/abs/2505.11285v1)|null|
 |**2025-05-15**|**Complex electronic topography and magnetotransport in an in-plane ferromagnetic kagome metal**|Anup Pradhan Sakhya et.al.|[2505.09891v1](http://arxiv.org/abs/2505.09891v1)|null|
