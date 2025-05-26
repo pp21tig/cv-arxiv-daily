@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Rotational Multi-material 3D Printing of Soft Robotic Matter with Asymmetrical Embedded Pneumatics**|Jackson K. Wilt et.al.|[2505.18095v1](http://arxiv.org/abs/2505.18095v1)|null|
+|**2025-05-23**|**Recovering Hidden Degrees of Freedom Using Gaussian Processes**|Georg Diez et.al.|[2505.18072v1](http://arxiv.org/abs/2505.18072v1)|null|
+|**2025-05-23**|**Fine-tuning the dispersion of active suspensions with oscillatory flows**|Hakan Osman Caldag et.al.|[2505.17788v1](http://arxiv.org/abs/2505.17788v1)|null|
+|**2025-05-23**|**A Magnetic-like description of Oscillatory Behavior in Chemotactic Ants**|Rosa Flaquer-Galmés et.al.|[2505.17722v1](http://arxiv.org/abs/2505.17722v1)|null|
+|**2025-05-23**|**Star-like thermoresponsive microgels: a new class of soft nanocolloids**|Elisa Ballin et.al.|[2505.17700v1](http://arxiv.org/abs/2505.17700v1)|null|
+|**2025-05-23**|**Patterns with long and short-range order in monoloyers of binary mixtures with competing interactions**|M. Litniewski et.al.|[2505.17675v1](http://arxiv.org/abs/2505.17675v1)|null|
+|**2025-05-23**|**Global optimisation of the control strategy of a Brownian information Engine: Efficient information-energy exchange in a generalised potential energy surface**|Rafna Rafeek et.al.|[2505.17546v1](http://arxiv.org/abs/2505.17546v1)|null|
+|**2025-05-23**|**Activity-enhanced shear thinning of flexible linear polar polymers**|Arindam Panda et.al.|[2505.17539v1](http://arxiv.org/abs/2505.17539v1)|null|
+|**2025-05-23**|**The Discovery Engine: A Framework for AI-Driven Synthesis and Navigation of Scientific Knowledge Landscapes**|Vladimir Baulin et.al.|[2505.17500v1](http://arxiv.org/abs/2505.17500v1)|null|
+|**2025-05-23**|**Cross-scale Modeling of Polymer Topology Impact on Extrudability through Molecular Dynamics and Computational Fluid Dynamics**|Yawei Gao et.al.|[2505.17396v1](http://arxiv.org/abs/2505.17396v1)|null|
+|**2025-05-23**|**Emergence of Anti-chemotactic Flocking in Active Biomimetic Colloids**|Joseph D. Lopes et.al.|[2505.17394v1](http://arxiv.org/abs/2505.17394v1)|null|
+|**2025-05-23**|**Mechanics of three-dimensional micro-architected interpenetrating phase composites**|Andrew Y. Chen et.al.|[2505.17386v1](http://arxiv.org/abs/2505.17386v1)|null|
+|**2025-05-23**|**Cavity-Altered Superconductivity**|Itai Keren et.al.|[2505.17378v1](http://arxiv.org/abs/2505.17378v1)|null|
+|**2025-05-22**|**Polariton cascade phonon laser**|I. Papuccio-Fernández et.al.|[2505.17336v1](http://arxiv.org/abs/2505.17336v1)|null|
+|**2025-05-22**|**Stochastic Heat Engine Using a Single Brownian Ellipsoid**|Soham Dutta et.al.|[2505.17313v1](http://arxiv.org/abs/2505.17313v1)|null|
+|**2025-05-22**|**Circuit structure-preserving error mitigation for High-Fidelity Quantum Simulations**|Ruizhe Shen et.al.|[2505.17187v1](http://arxiv.org/abs/2505.17187v1)|null|
+|**2025-05-22**|**Role of Nonstabilizerness in Quantum Optimization**|Chiara Capecci et.al.|[2505.17185v1](http://arxiv.org/abs/2505.17185v1)|null|
 |**2025-05-22**|**Sliding Friction of Hard Sliders on Rubber: Theory and Experiment**|R. Xu et.al.|[2505.16943v1](http://arxiv.org/abs/2505.16943v1)|null|
 |**2025-05-22**|**Interfacial Effects Determine Nonequilibrium Phase Behaviors in Chemically Driven Fluids**|Yongick Cho et.al.|[2505.16824v1](http://arxiv.org/abs/2505.16824v1)|null|
 |**2025-05-22**|**Braid Group Representations and Defect Operators in AdS/CFT Correspondence**|Tzu-Miao Chou et.al.|[2505.16817v1](http://arxiv.org/abs/2505.16817v1)|null|
@@ -9102,6 +9119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Light-Driven Bound State of Interacting Impurities in a Dirac-Like Bath**|Vinayak M. Kulkarni et.al.|[2505.17811v1](http://arxiv.org/abs/2505.17811v1)|null|
 |**2025-05-12**|**Unified theory of photovoltaic Hall effect by field- and light-induced Berry curvatures**|Yuta Murotani et.al.|[2505.07189v1](http://arxiv.org/abs/2505.07189v1)|null|
 |**2025-05-20**|**Adjusting optical cavity birefringence with wavelength tunable laser for axion searches**|Hinata Takidera et.al.|[2505.06770v2](http://arxiv.org/abs/2505.06770v2)|null|
 |**2025-05-09**|**Anomalous spin dynamics after dual optical excitation**|Sergii Parchenko et.al.|[2505.06225v1](http://arxiv.org/abs/2505.06225v1)|null|
@@ -9565,6 +9583,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Promoted current-induced spin polarization in inversion symmetry broken topological insulator thin films**|Maryam Heydari et.al.|[2505.17294v1](http://arxiv.org/abs/2505.17294v1)|null|
 |**2025-05-20**|**Space Charge in Circular Machines**|Massimo Ferrario et.al.|[2505.14091v1](http://arxiv.org/abs/2505.14091v1)|null|
 |**2025-05-15**|**Phonon Edelstein effect in chiral metals**|Takehito Yokoyama et.al.|[2505.10345v1](http://arxiv.org/abs/2505.10345v1)|null|
 |**2025-05-13**|**Current-induced successive structural phase transitions beyond thermal equilibrium in single-crystal VO2**|Shunsuke Kitou et.al.|[2505.08186v1](http://arxiv.org/abs/2505.08186v1)|null|
