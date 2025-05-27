@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Biaxial characterization of soft elastomers: experiments and data-adaptive configurational forces for fracture**|Miguel Angel Moreno-Mateos et.al.|[2505.20244v1](http://arxiv.org/abs/2505.20244v1)|null|
+|**2025-05-26**|**Capillary wave formation in conserved active emulsions**|Florian Raßhofer et.al.|[2505.20028v1](http://arxiv.org/abs/2505.20028v1)|null|
+|**2025-05-26**|**Disentangling hierarchical relaxations in glass formers via dynamic eigenmodes**|Wensi Sun et.al.|[2505.19934v1](http://arxiv.org/abs/2505.19934v1)|null|
+|**2025-05-26**|**Yielding and memory in a driven mean-field model of glasses**|Makoto Suda et.al.|[2505.19900v1](http://arxiv.org/abs/2505.19900v1)|null|
+|**2025-05-26**|**Statistical physics of active matter, cell division and cell aggregation**|Jean-François Joanny et.al.|[2505.19830v1](http://arxiv.org/abs/2505.19830v1)|null|
+|**2025-05-26**|**Spin-Waves without Spin-Waves: A Case for Soliton Propagation in Starling Flocks**|Andrea Cavagna et.al.|[2505.19665v1](http://arxiv.org/abs/2505.19665v1)|null|
+|**2025-05-26**|**Fluctuations in DNA Packing Density Drive the Spatial Segregation between Euchromatin and Heterochromatin**|Luming Meng et.al.|[2505.19461v1](http://arxiv.org/abs/2505.19461v1)|null|
+|**2025-05-26**|**Driven Probe Particle Dynamics in a Bubble Forming System**|C. Reichhardt et.al.|[2505.19394v1](http://arxiv.org/abs/2505.19394v1)|null|
+|**2025-05-25**|**Active Matter under Cyclic Stretch: Modeling Microtubule Alignment and Bundling**|Takumi Tagaki et.al.|[2505.19127v1](http://arxiv.org/abs/2505.19127v1)|null|
+|**2025-05-25**|**Attraction-Induced Cluster Fragmentation and Local Alignment in Active Particle Systems**|Sota Shimamura et.al.|[2505.19118v1](http://arxiv.org/abs/2505.19118v1)|null|
+|**2025-05-25**|**Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes**|Ryo Murakami et.al.|[2505.19044v1](http://arxiv.org/abs/2505.19044v1)|null|
+|**2025-05-25**|**Dynamics of Poro-viscoelastic Wetting with Large Swelling**|B. X. Zheng et.al.|[2505.18968v1](http://arxiv.org/abs/2505.18968v1)|null|
+|**2025-05-24**|**Cooperative ligand-mediated transitions in simple macromolecules**|James L. Martin Robinson et.al.|[2505.18852v1](http://arxiv.org/abs/2505.18852v1)|null|
+|**2025-05-24**|**The Gilbert Damping Factor of Heavy Quark Spin Polarization in the Magnetic Field**|Tianyang Li et.al.|[2505.18767v1](http://arxiv.org/abs/2505.18767v1)|null|
+|**2025-05-24**|**Unraveled origin of the multi-directional and super wide optical-response found on metal/n-Si**|Takanari Yasuia et.al.|[2505.18678v1](http://arxiv.org/abs/2505.18678v1)|null|
+|**2025-05-23**|**Getting out of a tight spot: Cooperative unclogging of hydrogel particles in disordered porous media**|Sanjana Kamath et.al.|[2505.18415v1](http://arxiv.org/abs/2505.18415v1)|null|
+|**2025-05-23**|**Quantum spin Hall effects in van der Waals materials**|Jian Tang et.al.|[2505.18335v1](http://arxiv.org/abs/2505.18335v1)|null|
+|**2025-05-23**|**Correlations, mean-field limits, and transition to the concentrated regime in motile particle suspensions**|Bryce Palmer et.al.|[2505.18299v1](http://arxiv.org/abs/2505.18299v1)|null|
+|**2025-05-23**|**Mechanochemical feedback drives complex inertial dynamics in active solids**|Siddhartha Sarkar et.al.|[2505.18272v1](http://arxiv.org/abs/2505.18272v1)|null|
+|**2025-05-23**|**Time Independence Does Not Limit Information Flow. I. The Free-Particle Case**|Dong Yuan et.al.|[2505.18249v1](http://arxiv.org/abs/2505.18249v1)|null|
 |**2025-05-23**|**Rotational Multi-material 3D Printing of Soft Robotic Matter with Asymmetrical Embedded Pneumatics**|Jackson K. Wilt et.al.|[2505.18095v1](http://arxiv.org/abs/2505.18095v1)|null|
 |**2025-05-23**|**Recovering Hidden Degrees of Freedom Using Gaussian Processes**|Georg Diez et.al.|[2505.18072v1](http://arxiv.org/abs/2505.18072v1)|null|
 |**2025-05-23**|**Fine-tuning the dispersion of active suspensions with oscillatory flows**|Hakan Osman Caldag et.al.|[2505.17788v1](http://arxiv.org/abs/2505.17788v1)|**[link](https://github.com/caldag/2025_Oscillatory_Dispersion)**|
@@ -10393,6 +10413,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Quantum Spin Liquids in Pyrochlore Magnets With Non-Kramers Local Moments**|Tony An et.al.|[2505.18250v1](http://arxiv.org/abs/2505.18250v1)|null|
 |**2025-05-16**|**Neutron Spin Resonance Near a Lifshitz Transition in Overdoped Ba $_{0.4}$K$_{0.6}$Fe$_2$As$_2$**|Yang Li et.al.|[2505.11000v1](http://arxiv.org/abs/2505.11000v1)|null|
 |**2025-05-09**|**From continuum excitations to sharp magnons via transverse magnetic field in the spin-1/2 Ising-like triangular lattice antiferromagnet Na2BaCo(PO4)2**|Leonie Woodland et.al.|[2505.06398v1](http://arxiv.org/abs/2505.06398v1)|null|
 |**2025-05-09**|**Neutron scattering studies of complex lattice dynamics in energy materials**|Qingyong Ren et.al.|[2505.06076v1](http://arxiv.org/abs/2505.06076v1)|null|
