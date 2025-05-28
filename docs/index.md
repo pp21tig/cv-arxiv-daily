@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
+|**2025-05-27**|**Strain controlled g- to d-wave transition in altermagnetic CrSb**|Bennet Karetta et.al.|[2505.21293v1](http://arxiv.org/abs/2505.21293v1)|null|
+|**2025-05-27**|**Functional renormalization group approach to phonon modified criticality: anomalous dimension of strain and non-analytic corrections to Hooke's law**|Max O. Hansen et.al.|[2505.21210v1](http://arxiv.org/abs/2505.21210v1)|null|
+|**2025-05-27**|**Disentangling the Roles of Dissolved Oxygen, Common Salts, and pH on the Spontaneous Hydrogen Peroxide Production in Water: No O2, No H2O2**|Muzzamil Ahmad Eatoo et.al.|[2505.21175v1](http://arxiv.org/abs/2505.21175v1)|null|
+|**2025-05-27**|**Identifying Heart Attack Risk in Vulnerable Population: A Machine Learning Approach**|Subhagata Chattopadhyay et.al.|[2505.21139v1](http://arxiv.org/abs/2505.21139v1)|null|
+|**2025-05-27**|**Effect of Vaccine Dose Intervals: Considering Immunity Levels, Vaccine Efficacy, and Strain Variants for Disease Control Strategy**|Samiran Ghosh et.al.|[2505.21132v1](http://arxiv.org/abs/2505.21132v1)|null|
+|**2025-05-27**|**Direct Measurement of Zak Phase and Higher Winding Numbers in an Electroacoustic Cavity System**|Guang-Chen He et.al.|[2505.21131v1](http://arxiv.org/abs/2505.21131v1)|null|
+|**2025-05-27**|**Hybrid Machine Learning and Mathematical Modeling for Tumor Dynamics Prediction: Comparing SPIONs against mNP-FDG**|Amit K Chattopadhyay et.al.|[2505.21094v1](http://arxiv.org/abs/2505.21094v1)|null|
+|**2025-05-27**|**Modeling of Water Evaporation in Hydrogels from Aspect of Mechanical Analytics**|Zehua Yu et.al.|[2505.21075v1](http://arxiv.org/abs/2505.21075v1)|null|
+|**2025-05-27**|**Ordered buckling structures in a twisted crimped tube**|Pan Dong et.al.|[2505.21065v1](http://arxiv.org/abs/2505.21065v1)|null|
+|**2025-05-27**|**The non-equilibrium thermodynamics of active suspensions**|Pierre Gaspard et.al.|[2505.21009v1](http://arxiv.org/abs/2505.21009v1)|null|
+|**2025-05-27**|**Superstability of micrometer jets surrounded by a polymeric shell**|A. Rubio et.al.|[2505.20965v1](http://arxiv.org/abs/2505.20965v1)|null|
+|**2025-05-27**|**Spatial organisation of multiple species of active particles interacting with an interface**|Love Grover et.al.|[2505.20806v1](http://arxiv.org/abs/2505.20806v1)|null|
+|**2025-05-27**|**Reconfigurable Defect States in Non-Hermitian Topolectrical Chains with Gain and Loss**|S. M. Rafi-Ul-Islam et.al.|[2505.20791v1](http://arxiv.org/abs/2505.20791v1)|null|
+|**2025-05-27**|**A stochastic Stirling engine powered by an active particle**|Erick Efrain Cote-Valencia et.al.|[2505.20616v1](http://arxiv.org/abs/2505.20616v1)|null|
 |**2025-05-26**|**Biaxial characterization of soft elastomers: experiments and data-adaptive configurational forces for fracture**|Miguel Angel Moreno-Mateos et.al.|[2505.20244v1](http://arxiv.org/abs/2505.20244v1)|null|
 |**2025-05-26**|**Capillary wave formation in conserved active emulsions**|Florian Raßhofer et.al.|[2505.20028v1](http://arxiv.org/abs/2505.20028v1)|null|
 |**2025-05-27**|**Disentangling hierarchical relaxations in glass formers via dynamic eigenmodes**|Wensi Sun et.al.|[2505.19934v2](http://arxiv.org/abs/2505.19934v2)|null|
@@ -9143,6 +9158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Effect of magnetic field and light on energy levels of (1+3+1) chirally twisted multilayer graphene system**|Nadia Benlakhouy et.al.|[2505.20994v1](http://arxiv.org/abs/2505.20994v1)|null|
+|**2025-05-26**|**Atomic-scale ultrafast dynamics of local charge order in a THz-induced metastable state of 1T-TaS2**|Luis E. Parra López et.al.|[2505.20541v1](http://arxiv.org/abs/2505.20541v1)|null|
 |**2025-05-23**|**Light-Driven Bound State of Interacting Impurities in a Dirac-Like Bath**|Vinayak M. Kulkarni et.al.|[2505.17811v1](http://arxiv.org/abs/2505.17811v1)|null|
 |**2025-05-12**|**Unified theory of photovoltaic Hall effect by field- and light-induced Berry curvatures**|Yuta Murotani et.al.|[2505.07189v1](http://arxiv.org/abs/2505.07189v1)|null|
 |**2025-05-20**|**Adjusting optical cavity birefringence with wavelength tunable laser for axion searches**|Hinata Takidera et.al.|[2505.06770v2](http://arxiv.org/abs/2505.06770v2)|null|
@@ -9607,6 +9624,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Current-induced spin and orbital polarization in the ferroelectric Rashba semiconductor GeTe**|Sergio Leiva-Montecinos et.al.|[2505.21340v1](http://arxiv.org/abs/2505.21340v1)|null|
 |**2025-05-22**|**Promoted current-induced spin polarization in inversion symmetry broken topological insulator thin films**|Maryam Heydari et.al.|[2505.17294v1](http://arxiv.org/abs/2505.17294v1)|null|
 |**2025-05-20**|**Space Charge in Circular Machines**|Massimo Ferrario et.al.|[2505.14091v1](http://arxiv.org/abs/2505.14091v1)|null|
 |**2025-05-15**|**Phonon Edelstein effect in chiral metals**|Takehito Yokoyama et.al.|[2505.10345v1](http://arxiv.org/abs/2505.10345v1)|null|
