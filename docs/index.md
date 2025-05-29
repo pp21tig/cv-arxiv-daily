@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Softness and Hydrodynamic Interactions Regulate Lipoprotein Transport in Crowded Yolk Environments**|Nimmi Das Anthuparambil et.al.|[2505.22520v1](http://arxiv.org/abs/2505.22520v1)|null|
+|**2025-05-28**|**Emergence of Diverse Topological States in Ge Doped MnBi2Te4**|Zhijian Shi et.al.|[2505.22348v1](http://arxiv.org/abs/2505.22348v1)|null|
+|**2025-05-28**|**Ultrasonic spin pumping in the antiferromagnetic acoustic resonator $α-\text{Fe}_2\text{O}_3$**|David A. Gabrielyan et.al.|[2505.22263v1](http://arxiv.org/abs/2505.22263v1)|null|
+|**2025-05-28**|**Unified Magnetoelectric Mechanism for Spin Splitting in Magnets**|Carlos Mera Acosta et.al.|[2505.22227v1](http://arxiv.org/abs/2505.22227v1)|null|
+|**2025-05-28**|**Systematic generation of electron models for Second-Principles Density Functional Theory Methods**|Nayara Carral-Sainz et.al.|[2505.22056v1](http://arxiv.org/abs/2505.22056v1)|null|
+|**2025-05-28**|**Stress distribution in elastic disks with a hole under uniaxial compression**|Ken Okamura et.al.|[2505.21984v1](http://arxiv.org/abs/2505.21984v1)|null|
+|**2025-05-27**|**Active Hyperuniform Networks of Chiral Magnetic Micro-Robotic Spinners**|Jing Wang et.al.|[2505.21820v1](http://arxiv.org/abs/2505.21820v1)|null|
+|**2025-05-27**|**Viscoelasticity of biomimetic scale beams from trapped complex fluids**|Pranta Rahman Sarkar et.al.|[2505.21760v1](http://arxiv.org/abs/2505.21760v1)|null|
+|**2025-05-27**|**Rolling, sliding and trapping of driven particles in square obstacle lattices**|Galor Geva et.al.|[2505.21702v1](http://arxiv.org/abs/2505.21702v1)|null|
+|**2025-05-27**|**Pauli Propagation: A Computational Framework for Simulating Quantum Systems**|Manuel S. Rudolph et.al.|[2505.21606v1](http://arxiv.org/abs/2505.21606v1)|null|
+|**2025-05-27**|**Response to the comment on The inconvenient truth about flocks by Chaté and Solon**|Leiming Chen et.al.|[2505.21602v1](http://arxiv.org/abs/2505.21602v1)|null|
 |**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
 |**2025-05-27**|**Strain controlled g- to d-wave transition in altermagnetic CrSb**|Bennet Karetta et.al.|[2505.21293v1](http://arxiv.org/abs/2505.21293v1)|null|
 |**2025-05-27**|**Functional renormalization group approach to phonon modified criticality: anomalous dimension of strain and non-analytic corrections to Hooke's law**|Max O. Hansen et.al.|[2505.21210v1](http://arxiv.org/abs/2505.21210v1)|null|
@@ -9158,6 +9169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**X-ray View of Light-Induced Spin Reorientation in TmFeO $_{3}$: Direct Observation of a 90$^\circ$ Néel Vector Rotation**|Somnath Jana et.al.|[2505.22462v1](http://arxiv.org/abs/2505.22462v1)|null|
 |**2025-05-27**|**Effect of magnetic field and light on energy levels of (1+3+1) chirally twisted multilayer graphene system**|Nadia Benlakhouy et.al.|[2505.20994v1](http://arxiv.org/abs/2505.20994v1)|null|
 |**2025-05-26**|**Atomic-scale ultrafast dynamics of local charge order in a THz-induced metastable state of 1T-TaS2**|Luis E. Parra López et.al.|[2505.20541v1](http://arxiv.org/abs/2505.20541v1)|null|
 |**2025-05-23**|**Light-Driven Bound State of Interacting Impurities in a Dirac-Like Bath**|Vinayak M. Kulkarni et.al.|[2505.17811v1](http://arxiv.org/abs/2505.17811v1)|null|
@@ -9926,6 +9938,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Anomalous Hall Effect in Thick Co $_3$Sn$_2$S$_2$ Weyl Semimetal Crystals**|Eddy Divin Kenvo Songwa et.al.|[2505.22183v1](http://arxiv.org/abs/2505.22183v1)|null|
+|**2025-05-28**|**The experimental determination of exchange mass terms in surface states on both terminations of MnBi4Te7**|Dezhi Song et.al.|[2505.22058v1](http://arxiv.org/abs/2505.22058v1)|null|
+|**2025-05-27**|**Family of Multilayer Graphene Superconductors with Tunable Chirality: Momentum-Space Vortices Forged in the Berry-Ring of Fire**|Adarsh S. Patri et.al.|[2505.21616v1](http://arxiv.org/abs/2505.21616v1)|null|
 |**2025-05-21**|**Activation of anomalous Hall effect and orbital magnetization by domain walls in altermagnets**|Sopheak Sorn et.al.|[2505.15894v1](http://arxiv.org/abs/2505.15894v1)|null|
 |**2025-05-20**|**Interplay between altermagnetic order and crystal symmetry probed using magnetotransport in epitaxial altermagnet MnTe**|Himanshu Bangar et.al.|[2505.14589v1](http://arxiv.org/abs/2505.14589v1)|null|
 |**2025-05-19**|**Competing Magnetic States in the Candidate Altermagnet GdAlGe**|Oleg E. Parfenov et.al.|[2505.13001v1](http://arxiv.org/abs/2505.13001v1)|null|
