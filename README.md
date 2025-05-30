@@ -1098,6 +1098,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Diffusive noise controls early stages of genetic demixing**|Rashmiranjan Bhutia et.al.|[2505.23698v1](http://arxiv.org/abs/2505.23698v1)|null|
+|**2025-05-29**|**X-ray diffraction from smectic multilayers: crossover from kinematical to dynamical regime**|V. V. Samsonov et.al.|[2505.23547v1](http://arxiv.org/abs/2505.23547v1)|null|
+|**2025-05-29**|**Importance of pressure-dependent electronic interactions and magnetic order on pressure-driven insulator-metal transitions in MnO and NiO**|Bei-Lei Liu et.al.|[2505.23466v1](http://arxiv.org/abs/2505.23466v1)|null|
+|**2025-05-29**|**Dynamic signature of the thermodynamic transition in a novel mean field system**|Ehtesham Anwar et.al.|[2505.23371v1](http://arxiv.org/abs/2505.23371v1)|null|
+|**2025-05-29**|**Intermediate State Formation of Topologically Associated Chromatin Domains using Quantum Annealing**|Tobias Kempe et.al.|[2505.23289v1](http://arxiv.org/abs/2505.23289v1)|null|
+|**2025-05-29**|**Polymer-modulated evaporation flow enables scalable self-assembly of highly aligned nanowires**|Liyiming Tao et.al.|[2505.23227v1](http://arxiv.org/abs/2505.23227v1)|null|
+|**2025-05-29**|**Burgers rings as topological signatures of Eshelby-like plastic events in glasses**|Arabinda Bera et.al.|[2505.23069v1](http://arxiv.org/abs/2505.23069v1)|null|
+|**2025-05-28**|**Emergent universal long-range structure in random-organizing systems**|Satyam Anand et.al.|[2505.22933v1](http://arxiv.org/abs/2505.22933v1)|null|
+|**2025-05-28**|**Understanding and Embracing Imperfection in Physical Learning Networks**|Sam Dillavou et.al.|[2505.22887v1](http://arxiv.org/abs/2505.22887v1)|null|
+|**2025-05-28**|**Provably Efficient Quantum Thermal State Preparation via Local Driving**|Dominik Hahn et.al.|[2505.22816v1](http://arxiv.org/abs/2505.22816v1)|null|
+|**2025-05-28**|**Frictional Contact Network in Dense Suspension Flow**|Shweta Sharma et.al.|[2505.22747v1](http://arxiv.org/abs/2505.22747v1)|null|
+|**2025-05-28**|**Exact analysis of AC sensors based on Floquet time crystals**|Andrei Tsypilnikov et.al.|[2505.22731v1](http://arxiv.org/abs/2505.22731v1)|null|
 |**2025-05-28**|**Softness and Hydrodynamic Interactions Regulate Lipoprotein Transport in Crowded Yolk Environments**|Nimmi Das Anthuparambil et.al.|[2505.22520v1](http://arxiv.org/abs/2505.22520v1)|null|
 |**2025-05-28**|**Emergence of Diverse Topological States in Ge Doped MnBi2Te4**|Zhijian Shi et.al.|[2505.22348v1](http://arxiv.org/abs/2505.22348v1)|null|
 |**2025-05-28**|**Ultrasonic spin pumping in the antiferromagnetic acoustic resonator $α-\text{Fe}_2\text{O}_3$**|David A. Gabrielyan et.al.|[2505.22263v1](http://arxiv.org/abs/2505.22263v1)|null|
@@ -9165,6 +9177,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Spectrum Selective Interfaces and Materials towards Non-photothermal Saltwater Evaporation: Demonstration with a White Ceramic Wick**|Navindra D. Singh et.al.|[2505.22874v1](http://arxiv.org/abs/2505.22874v1)|null|
+|**2025-05-28**|**Quantum cooling below absolute zero**|Francesco Libbi et.al.|[2505.22791v1](http://arxiv.org/abs/2505.22791v1)|null|
+|**2025-05-28**|**Geometry of chiral temporal structures II: The formalism**|Aycke Roos et.al.|[2505.22744v1](http://arxiv.org/abs/2505.22744v1)|null|
 |**2025-05-28**|**X-ray View of Light-Induced Spin Reorientation in TmFeO $_{3}$: Direct Observation of a 90$^\circ$ Néel Vector Rotation**|Somnath Jana et.al.|[2505.22462v1](http://arxiv.org/abs/2505.22462v1)|null|
 |**2025-05-27**|**Effect of magnetic field and light on energy levels of (1+3+1) chirally twisted multilayer graphene system**|Nadia Benlakhouy et.al.|[2505.20994v1](http://arxiv.org/abs/2505.20994v1)|null|
 |**2025-05-26**|**Atomic-scale ultrafast dynamics of local charge order in a THz-induced metastable state of 1T-TaS2**|Luis E. Parra López et.al.|[2505.20541v1](http://arxiv.org/abs/2505.20541v1)|null|
@@ -9934,6 +9949,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Breakdown of the quantum anomalous Hall effect under microwave drives**|Torsten Röper et.al.|[2505.23156v1](http://arxiv.org/abs/2505.23156v1)|null|
 |**2025-05-28**|**Anomalous Hall Effect in Thick Co $_3$Sn$_2$S$_2$ Weyl Semimetal Crystals**|Eddy Divin Kenvo Songwa et.al.|[2505.22183v1](http://arxiv.org/abs/2505.22183v1)|null|
 |**2025-05-28**|**The experimental determination of exchange mass terms in surface states on both terminations of MnBi4Te7**|Dezhi Song et.al.|[2505.22058v1](http://arxiv.org/abs/2505.22058v1)|null|
 |**2025-05-27**|**Family of Multilayer Graphene Superconductors with Tunable Chirality: Momentum-Space Vortices Forged in the Berry-Ring of Fire**|Adarsh S. Patri et.al.|[2505.21616v1](http://arxiv.org/abs/2505.21616v1)|null|
@@ -10442,6 +10458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Localized Triplons and Site Stuffing in the Quantum Dimer Magnet BiYbGeO $_5$**|Rachit Kapoor et.al.|[2505.22714v1](http://arxiv.org/abs/2505.22714v1)|null|
 |**2025-05-23**|**Quantum Spin Liquids in Pyrochlore Magnets With Non-Kramers Local Moments**|Tony An et.al.|[2505.18250v1](http://arxiv.org/abs/2505.18250v1)|null|
 |**2025-05-16**|**Neutron Spin Resonance Near a Lifshitz Transition in Overdoped Ba $_{0.4}$K$_{0.6}$Fe$_2$As$_2$**|Yang Li et.al.|[2505.11000v1](http://arxiv.org/abs/2505.11000v1)|null|
 |**2025-05-09**|**From continuum excitations to sharp magnons via transverse magnetic field in the spin-1/2 Ising-like triangular lattice antiferromagnet Na2BaCo(PO4)2**|Leonie Woodland et.al.|[2505.06398v1](http://arxiv.org/abs/2505.06398v1)|null|
