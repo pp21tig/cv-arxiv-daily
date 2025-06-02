@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855v1](http://arxiv.org/abs/2505.24855v1)|null|
+|**2025-05-30**|**Cryogenic scanning photocurrent spectroscopy for materials responses to structured optical fields**|Duxing Hao et.al.|[2505.24833v1](http://arxiv.org/abs/2505.24833v1)|null|
+|**2025-05-30**|**Strong coupling of chiral light with chiral matter: a macroscopic study**|Sergey A. Dyakov et.al.|[2505.24800v1](http://arxiv.org/abs/2505.24800v1)|null|
+|**2025-05-30**|**Mixed state concurrence for symmetric systems**|S. H. Curnoe et.al.|[2505.24772v1](http://arxiv.org/abs/2505.24772v1)|null|
+|**2025-05-30**|**Emergent Dynamics of Active Systems on Curved Environments**|Euan D. Mackay et.al.|[2505.24730v1](http://arxiv.org/abs/2505.24730v1)|null|
+|**2025-05-30**|**Nematic ordering in active fluids driven by substrate deformations: Mechanisms and patterning regimes**|Varun Venkatesh et.al.|[2505.24639v1](http://arxiv.org/abs/2505.24639v1)|null|
+|**2025-05-30**|**Detecting the axion field with waveguide apparatus**|André H. Gomes et.al.|[2505.24617v1](http://arxiv.org/abs/2505.24617v1)|null|
+|**2025-05-30**|**The understanding of the penetration and clusterization of 1-alkanol in bilayer membrane: An open outlook based on atomistic molecular dynamics simulation**|Anirban Polley et.al.|[2505.24152v1](http://arxiv.org/abs/2505.24152v1)|null|
+|**2025-05-30**|**The 'Brazil-nut effect' in bidisperse particle laden flow on an incline**|Jack Luong et.al.|[2505.24114v1](http://arxiv.org/abs/2505.24114v1)|null|
+|**2025-05-29**|**Modelling bulk mechanical effects in a planar cellular monolayer**|Natasha Cowley et.al.|[2505.23935v1](http://arxiv.org/abs/2505.23935v1)|null|
+|**2025-05-29**|**Motility-dependent selective transport of active matter in trap arrays: Separation methods based on trapping-detrapping and deterministic lateral displacement**|Vyacheslav R. Misko et.al.|[2505.23882v1](http://arxiv.org/abs/2505.23882v1)|null|
 |**2025-05-29**|**Diffusive noise controls early stages of genetic demixing**|Rashmiranjan Bhutia et.al.|[2505.23698v1](http://arxiv.org/abs/2505.23698v1)|null|
 |**2025-05-29**|**X-ray diffraction from smectic multilayers: crossover from kinematical to dynamical regime**|V. V. Samsonov et.al.|[2505.23547v1](http://arxiv.org/abs/2505.23547v1)|null|
 |**2025-05-29**|**Importance of pressure-dependent electronic interactions and magnetic order on pressure-driven insulator-metal transitions in MnO and NiO**|Bei-Lei Liu et.al.|[2505.23466v1](http://arxiv.org/abs/2505.23466v1)|null|
@@ -9949,6 +9960,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Quantum anomalous Hall effects and Hall crystals at fractional filling of helical trilayer graphene**|Sen Niu et.al.|[2505.24146v1](http://arxiv.org/abs/2505.24146v1)|null|
 |**2025-05-29**|**Breakdown of the quantum anomalous Hall effect under microwave drives**|Torsten Röper et.al.|[2505.23156v1](http://arxiv.org/abs/2505.23156v1)|null|
 |**2025-05-28**|**Anomalous Hall Effect in Thick Co $_3$Sn$_2$S$_2$ Weyl Semimetal Crystals**|Eddy Divin Kenvo Songwa et.al.|[2505.22183v1](http://arxiv.org/abs/2505.22183v1)|null|
 |**2025-05-28**|**The experimental determination of exchange mass terms in surface states on both terminations of MnBi4Te7**|Dezhi Song et.al.|[2505.22058v1](http://arxiv.org/abs/2505.22058v1)|null|
