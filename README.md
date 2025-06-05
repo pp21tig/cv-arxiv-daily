@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Programmable wrinkling for functionally-graded auxetic circular membranes**|Sairam Pamulaparthi Venkata et.al.|[2506.04148v1](http://arxiv.org/abs/2506.04148v1)|null|
+|**2025-06-04**|**Lattice and Orientational Defects Mediate Collective Transport of Confluent Cells**|Jiusi Zhang et.al.|[2506.04068v1](http://arxiv.org/abs/2506.04068v1)|null|
+|**2025-06-04**|**Complex rheology of condensin in entangled DNA**|Filippo Conforto et.al.|[2506.04060v1](http://arxiv.org/abs/2506.04060v1)|null|
+|**2025-06-04**|**Flat-band compactons in a two-dimensional driven-dissipative Lieb lattice**|Seth Lovett et.al.|[2506.03963v1](http://arxiv.org/abs/2506.03963v1)|null|
+|**2025-06-04**|**Mechanical Degradation of Unentangled Polymer Melts under Uniaxial Extensional Flow**|Mingchao Wang et.al.|[2506.03945v1](http://arxiv.org/abs/2506.03945v1)|null|
+|**2025-06-04**|**Canceling the elastic Poynting effect with geometry**|M. Destrade et.al.|[2506.03821v1](http://arxiv.org/abs/2506.03821v1)|null|
+|**2025-06-04**|**Understanding Flow Behaviors of Supercooled Liquids by Embodying Solid-Liquid Duality at Particle Level**|Dong-Xu Yu et.al.|[2506.03818v1](http://arxiv.org/abs/2506.03818v1)|null|
+|**2025-06-04**|**Non-invasive measurement of local stress inside soft materials with programmed shear waves**|Zhaoyi Zhang et.al.|[2506.03816v1](http://arxiv.org/abs/2506.03816v1)|null|
+|**2025-06-04**|**Defect states in compressible active polar fluids with turnover**|Ludovic Dumoulin et.al.|[2506.03795v1](http://arxiv.org/abs/2506.03795v1)|null|
+|**2025-06-04**|**Only the Ambidextrous Can Flock: Two-dimensional Chiral Malthusian Flocks, Time crystals, and the KPZ Equation**|Leiming Chen et.al.|[2506.03488v1](http://arxiv.org/abs/2506.03488v1)|null|
+|**2025-06-03**|**Nanoscale Ultrafast Lattice Modulation with Hard X-ray Free Electron Laser**|Haoyuan Li et.al.|[2506.03428v1](http://arxiv.org/abs/2506.03428v1)|null|
+|**2025-06-03**|**Nanoconfinement Effects on Intermolecular Forces Observed via Dewetting**|Tara et.al.|[2506.03387v1](http://arxiv.org/abs/2506.03387v1)|null|
+|**2025-06-03**|**Model for the Thermodynamics of Iron at High Pressures Near Melting**|Rann Shikler et.al.|[2506.03386v1](http://arxiv.org/abs/2506.03386v1)|null|
 |**2025-06-03**|**Paramagnetism in spherically confined charged active matter**|Balázs Németh et.al.|[2506.03064v1](http://arxiv.org/abs/2506.03064v1)|null|
 |**2025-06-03**|**Mesoscopic Helices of Polar Domains in a Quadruple Perovskite**|Yang Zhang et.al.|[2506.03048v1](http://arxiv.org/abs/2506.03048v1)|null|
 |**2025-06-03**|**Subdiffusion from competition between multi-exponential friction memory and energy barriers**|Anton Klimek et.al.|[2506.03036v1](http://arxiv.org/abs/2506.03036v1)|null|
@@ -9678,6 +9691,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Feedback stabilization of switched systems under arbitrary switching: A convex characterization**|Thiago Alves Lima et.al.|[2506.03759v1](http://arxiv.org/abs/2506.03759v1)|null|
 |**2025-05-27**|**Current-induced spin and orbital polarization in the ferroelectric Rashba semiconductor GeTe**|Sergio Leiva-Montecinos et.al.|[2505.21340v1](http://arxiv.org/abs/2505.21340v1)|null|
 |**2025-05-22**|**Promoted current-induced spin polarization in inversion symmetry broken topological insulator thin films**|Maryam Heydari et.al.|[2505.17294v1](http://arxiv.org/abs/2505.17294v1)|null|
 |**2025-05-20**|**Space Charge in Circular Machines**|Massimo Ferrario et.al.|[2505.14091v1](http://arxiv.org/abs/2505.14091v1)|null|
