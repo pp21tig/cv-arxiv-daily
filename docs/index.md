@@ -1102,6 +1102,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311v1](http://arxiv.org/abs/2506.05311v1)|null|
+|**2025-06-05**|**Phase separation in a mixture of proliferating and motile active matter**|Lukas Hupe et.al.|[2506.05288v1](http://arxiv.org/abs/2506.05288v1)|null|
+|**2025-06-05**|**Tuning Shear Rheology through Active Dopants**|Amir Shee et.al.|[2506.05262v1](http://arxiv.org/abs/2506.05262v1)|null|
+|**2025-06-05**|**Modelling the evolution of flow-induced anisotropy of concentrated suspensions**|Pappu Acharya et.al.|[2506.05222v1](http://arxiv.org/abs/2506.05222v1)|null|
+|**2025-06-05**|**A Gaussian process approach for rapid evaluation of skin tension**|Matt Nagle et.al.|[2506.05118v1](http://arxiv.org/abs/2506.05118v1)|null|
+|**2025-06-05**|**Chirality Amplification and Deracemization in Liquid Crystals**|Matthew J. Deutsch et.al.|[2506.05053v1](http://arxiv.org/abs/2506.05053v1)|null|
+|**2025-06-05**|**Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints**|Mohammad Mirzakhani et.al.|[2506.05031v1](http://arxiv.org/abs/2506.05031v1)|null|
+|**2025-06-05**|**Complexity reduction of physical models: an equation-free approach by means of scaling**|Simone Rusconi et.al.|[2506.05029v1](http://arxiv.org/abs/2506.05029v1)|null|
+|**2025-06-05**|**Engineering harmonic emission through spatial modulation in a Kitaev chain**|Nivash R. et.al.|[2506.05003v1](http://arxiv.org/abs/2506.05003v1)|null|
+|**2025-06-05**|**Identification of the high-pressure phases of alpha-SnWO4 combining x-ray diffraction and crystal structure prediction**|Daniel Diaz-Anichtchenko et.al.|[2506.04930v1](http://arxiv.org/abs/2506.04930v1)|null|
+|**2025-06-05**|**Dynamics of Wound Closure in Living Nematic Epithelia**|Henry Andralojc et.al.|[2506.04922v1](http://arxiv.org/abs/2506.04922v1)|**[link](https://github.com/andra516/dynamicsOfWoundClosure)**|
+|**2025-06-05**|**Ultrafast Orbital-Selective Photodoping Melts Charge Order in Overdoped Bi-based Cuprates**|Xinyi Jiang et.al.|[2506.04697v1](http://arxiv.org/abs/2506.04697v1)|null|
+|**2025-06-05**|**Nonreciprocal superconducting critical currents with normal state field trainability in kagome superconductor CsV3Sb5**|Jun Ge et.al.|[2506.04601v1](http://arxiv.org/abs/2506.04601v1)|null|
+|**2025-06-04**|**Accelerated Ostwald ripening by chemical activity**|Benjamin Sorkin et.al.|[2506.04493v1](http://arxiv.org/abs/2506.04493v1)|null|
+|**2025-06-04**|**Sedimentation of particulate suspensions under stagnant conditions in horizontal pipes**|Tanmoy Das et.al.|[2506.04443v1](http://arxiv.org/abs/2506.04443v1)|null|
+|**2025-06-04**|**Om-Theory of Macroscopic Electromagnetism: Greener Vibes for Isotropy-Broken Media**|Maxim Durach et.al.|[2506.04393v1](http://arxiv.org/abs/2506.04393v1)|null|
 |**2025-06-04**|**Programmable wrinkling for functionally-graded auxetic circular membranes**|Sairam Pamulaparthi Venkata et.al.|[2506.04148v1](http://arxiv.org/abs/2506.04148v1)|null|
 |**2025-06-04**|**Lattice and Orientational Defects Mediate Collective Transport of Confluent Cells**|Jiusi Zhang et.al.|[2506.04068v1](http://arxiv.org/abs/2506.04068v1)|null|
 |**2025-06-04**|**Complex rheology of condensin in entangled DNA**|Filippo Conforto et.al.|[2506.04060v1](http://arxiv.org/abs/2506.04060v1)|null|
@@ -9225,6 +9241,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Exciton-Exciton Annihilation Mediated by Many-Body Coulomb and Phonon Interactions: An Ab Initio Study**|Guy Vosco et.al.|[2506.05223v1](http://arxiv.org/abs/2506.05223v1)|null|
+|**2025-06-05**|**Ultrafast magneto-lattice dynamics in two-dimensional CrSBr driven by terahertz excitation**|Yiqi Huo et.al.|[2506.05058v1](http://arxiv.org/abs/2506.05058v1)|null|
+|**2025-06-05**|**Characterization of the Hamamatsu R12699-406-M4 Photomultiplier Tube in Cold Xenon Environments**|M. Adrover et.al.|[2506.04844v1](http://arxiv.org/abs/2506.04844v1)|null|
 |**2025-05-28**|**Spectrum Selective Interfaces and Materials towards Non-photothermal Saltwater Evaporation: Demonstration with a White Ceramic Wick**|Navindra D. Singh et.al.|[2505.22874v1](http://arxiv.org/abs/2505.22874v1)|null|
 |**2025-05-28**|**Quantum cooling below absolute zero**|Francesco Libbi et.al.|[2505.22791v1](http://arxiv.org/abs/2505.22791v1)|null|
 |**2025-05-28**|**Geometry of chiral temporal structures II: The formalism**|Aycke Roos et.al.|[2505.22744v1](http://arxiv.org/abs/2505.22744v1)|null|
@@ -9998,6 +10017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Strongly enhanced topological quantum phases in dual-surface AlO $_x$-encapsulated MnBi$_2$Te$_4$**|Zichen Lian et.al.|[2506.04901v1](http://arxiv.org/abs/2506.04901v1)|null|
 |**2025-06-02**|**Microscopic mechanisms of Strong Electron Scattering and Giant Anomalous Hall Effect in high-Curie-temperature Fe3GaTe2 van der Waals Films**|Zhengxiao Li et.al.|[2506.02152v1](http://arxiv.org/abs/2506.02152v1)|null|
 |**2025-06-02**|**Phenomenology of altermagnets**|Maxim Mostovoy et.al.|[2506.01823v1](http://arxiv.org/abs/2506.01823v1)|null|
 |**2025-06-02**|**Unconventional Orbital Magnetism in Graphene-based Fractional Chern Insulators**|Jian Xie et.al.|[2506.01485v1](http://arxiv.org/abs/2506.01485v1)|null|
