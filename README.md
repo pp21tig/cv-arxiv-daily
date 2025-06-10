@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Recoil of a driven tracer in a correlated medium**|Marcin Piotr Pruszczyk et.al.|[2506.07895v1](http://arxiv.org/abs/2506.07895v1)|null|
+|**2025-06-09**|**Anomalous diffusion and directed coalescence of condensates in driven media**|Andriy Goychuk et.al.|[2506.07753v1](http://arxiv.org/abs/2506.07753v1)|null|
+|**2025-06-09**|**Interface Fragmentation via Horizontal Vibration: A Pathway to Scalable Monodisperse Emulsification**|Linfeng Piao et.al.|[2506.07742v1](http://arxiv.org/abs/2506.07742v1)|null|
+|**2025-06-09**|**Bloch Waves, Magnetization and Domain Walls: The Case of the Gluon Propagator**|Attilio Cucchieri et.al.|[2506.07730v1](http://arxiv.org/abs/2506.07730v1)|null|
+|**2025-06-09**|**Continuous-time multifarious systems -- Part II: non-reciprocal multifarious self-organization**|Jakob Metson et.al.|[2506.07649v1](http://arxiv.org/abs/2506.07649v1)|null|
+|**2025-06-09**|**Continuous-time multifarious systems -- Part I: equilibrium multifarious self-assembly**|Jakob Metson et.al.|[2506.07648v1](http://arxiv.org/abs/2506.07648v1)|null|
+|**2025-06-09**|**Intense THz s-SNOM for nonlinearity engineering in nanoscale**|Pengfei Qi et.al.|[2506.07615v1](http://arxiv.org/abs/2506.07615v1)|null|
+|**2025-06-08**|**Non-Abelian Magnon Gauge Interactions in Condensed Matter Physics**|Y. M. Cho et.al.|[2506.07318v1](http://arxiv.org/abs/2506.07318v1)|null|
+|**2025-06-08**|**Engineering and harnessing long-range interactions for atomic quantum simulators**|Argüello-Luengo Javier et.al.|[2506.07250v1](http://arxiv.org/abs/2506.07250v1)|null|
+|**2025-06-08**|**Physics of unraveling and micromechanics of hagfish threads**|Mohammad Tanver Hossain et.al.|[2506.07243v1](http://arxiv.org/abs/2506.07243v1)|null|
+|**2025-06-08**|**AttoSHINE: Generation of continuous-wave terawatt-scale attosecond X-ray pulses at SHINE**|Bingyang Yan et.al.|[2506.07213v1](http://arxiv.org/abs/2506.07213v1)|null|
+|**2025-06-08**|**Dumbbell dimer dynamics in three-dimensional chiral fluids**|Michalis Chatzittofi et.al.|[2506.07156v1](http://arxiv.org/abs/2506.07156v1)|null|
+|**2025-06-08**|**Elastic turbulence in highly entangled polymers and wormlike micelles**|Theo A. Lewy et.al.|[2506.07146v1](http://arxiv.org/abs/2506.07146v1)|null|
+|**2025-06-08**|**Dynamic and Geometric Shifts in Wave Scattering**|Konstantin Y. Bliokh et.al.|[2506.07144v1](http://arxiv.org/abs/2506.07144v1)|null|
+|**2025-06-08**|**Dimensionless Hierarchical Topological Phononic States**|Joel R. Pyfrom et.al.|[2506.07048v1](http://arxiv.org/abs/2506.07048v1)|null|
+|**2025-06-08**|**A Neuronal Model at the Edge of Criticality: An Ising-Inspired Approach to Brain Dynamics**|Sajedeh Sarmastani et.al.|[2506.07027v1](http://arxiv.org/abs/2506.07027v1)|null|
+|**2025-06-08**|**Dynamic Fingerprint of Controlled Structural Disorder in Artificial Spin Lattices**|Vinayak Shantaram Bhat et.al.|[2506.07007v1](http://arxiv.org/abs/2506.07007v1)|null|
+|**2025-06-08**|**Spin pumping driven by magnon-polaritons in a ferromagnet-coplanar superconducting resonator hybrid system**|Dinesh Wagle et.al.|[2506.06996v1](http://arxiv.org/abs/2506.06996v1)|null|
+|**2025-06-08**|**Towards a unified understanding of polymer cononsolvency: insights from the Flory-Huggins-Potts framework**|Satyen Dhamankar et.al.|[2506.06960v1](http://arxiv.org/abs/2506.06960v1)|null|
+|**2025-06-08**|**Crossover between Solid-like and Liquid-like Behavior in Supercooled Liquids**|X. R. Tian et.al.|[2506.06957v1](http://arxiv.org/abs/2506.06957v1)|null|
 |**2025-06-06**|**Transient osmotic flows in a microfluidic channel: measurements of solute permeability and reflection coefficients of hydrogel membranes**|Julien Renaudeau et.al.|[2506.06186v1](http://arxiv.org/abs/2506.06186v1)|null|
 |**2025-06-06**|**A comprehensive Darcy-type law for viscoplastic fluids: I. Framework**|Emad Chaparian et.al.|[2506.06184v1](http://arxiv.org/abs/2506.06184v1)|null|
 |**2025-06-06**|**Phase transitions induced by resonant light: a phenomenological approach**|A. Kudlis et.al.|[2506.05964v1](http://arxiv.org/abs/2506.05964v1)|null|
@@ -9256,6 +9276,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Spin Dynamics and Light-Induced Effects in EuZn $_2$P$_2$**|M. Dutra et.al.|[2506.07681v1](http://arxiv.org/abs/2506.07681v1)|null|
 |**2025-06-06**|**Phase transitions induced by resonant light: a phenomenological approach**|A. Kudlis et.al.|[2506.05964v1](http://arxiv.org/abs/2506.05964v1)|null|
 |**2025-06-05**|**Stringent requirements for detecting light-induced gravitational effects using interferometry**|F. Fillion-Gourdeau et.al.|[2506.05534v1](http://arxiv.org/abs/2506.05534v1)|null|
 |**2025-06-05**|**Exciton-Exciton Annihilation Mediated by Many-Body Coulomb and Phonon Interactions: An Ab Initio Study**|Guy Vosco et.al.|[2506.05223v1](http://arxiv.org/abs/2506.05223v1)|null|
@@ -9731,6 +9752,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Orbital Hall Effect Enables Field-Free Magnetization Reversal in Ferrimagnets without Additional Conversion Layer**|Zelalem Abebe Bekele et.al.|[2506.07608v1](http://arxiv.org/abs/2506.07608v1)|null|
 |**2025-06-04**|**Feedback stabilization of switched systems under arbitrary switching: A convex characterization**|Thiago Alves Lima et.al.|[2506.03759v1](http://arxiv.org/abs/2506.03759v1)|null|
 |**2025-05-27**|**Current-induced spin and orbital polarization in the ferroelectric Rashba semiconductor GeTe**|Sergio Leiva-Montecinos et.al.|[2505.21340v1](http://arxiv.org/abs/2505.21340v1)|null|
 |**2025-05-22**|**Promoted current-induced spin polarization in inversion symmetry broken topological insulator thin films**|Maryam Heydari et.al.|[2505.17294v1](http://arxiv.org/abs/2505.17294v1)|null|
@@ -10034,6 +10056,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Magnetic structure of the kagome metal YbFe6Ge6 in view of Bragg diffraction**|S W Lovesey et.al.|[2506.07654v1](http://arxiv.org/abs/2506.07654v1)|null|
+|**2025-06-09**|**Ferroelectric switching of quantum anomalous Hall effects in MnBi2Te4 films**|Jiaheng Li et.al.|[2506.07653v1](http://arxiv.org/abs/2506.07653v1)|null|
 |**2025-06-05**|**Strongly enhanced topological quantum phases in dual-surface AlO $_x$-encapsulated MnBi$_2$Te$_4$**|Zichen Lian et.al.|[2506.04901v1](http://arxiv.org/abs/2506.04901v1)|null|
 |**2025-06-02**|**Microscopic mechanisms of Strong Electron Scattering and Giant Anomalous Hall Effect in high-Curie-temperature Fe3GaTe2 van der Waals Films**|Zhengxiao Li et.al.|[2506.02152v1](http://arxiv.org/abs/2506.02152v1)|null|
 |**2025-06-02**|**Phenomenology of altermagnets**|Maxim Mostovoy et.al.|[2506.01823v1](http://arxiv.org/abs/2506.01823v1)|null|
@@ -10550,6 +10574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Interacting Dirac magnons in honeycomb ferromagnets CrBr $_3$**|Saikat Banerjee et.al.|[2506.07650v1](http://arxiv.org/abs/2506.07650v1)|null|
 |**2025-06-02**|**Benchmarking Universal Machine Learning Interatomic Potentials for Real-Time Analysis of Inelastic Neutron Scattering Data**|Bowen Han et.al.|[2506.01860v1](http://arxiv.org/abs/2506.01860v1)|null|
 |**2025-05-28**|**Localized Triplons and Site Stuffing in the Quantum Dimer Magnet BiYbGeO $_5$**|Rachit Kapoor et.al.|[2505.22714v1](http://arxiv.org/abs/2505.22714v1)|null|
 |**2025-05-23**|**Quantum Spin Liquids in Pyrochlore Magnets With Non-Kramers Local Moments**|Tony An et.al.|[2505.18250v1](http://arxiv.org/abs/2505.18250v1)|null|
