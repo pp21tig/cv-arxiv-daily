@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037v1](http://arxiv.org/abs/2506.09037v1)|null|
+|**2025-06-10**|**Thermodynamics of microphase separation in a swollen, strain-stiffening polymer network**|Carla Fernández-Rico et.al.|[2506.08958v1](http://arxiv.org/abs/2506.08958v1)|null|
+|**2025-06-10**|**Strain dependent viscous response describes the mechanics of cohesionless soft granular materials**|Chandan Shakya et.al.|[2506.08855v1](http://arxiv.org/abs/2506.08855v1)|null|
+|**2025-06-10**|**Packing3D: An Open-Source Analytical Framework for Computing Packing Density and Mixing Indices Using Partial Spherical Volumes**|Freddie Barter et.al.|[2506.08852v1](http://arxiv.org/abs/2506.08852v1)|null|
+|**2025-06-10**|**Aging of amorphous materials under cyclic strain**|Dor Shohat et.al.|[2506.08779v1](http://arxiv.org/abs/2506.08779v1)|null|
+|**2025-06-10**|**Non-Abelian Gauge Effect for 2-D Non-Hermitian Hatano-Nelson Model in Cylinder Type**|Yiming Zhao et.al.|[2506.08714v1](http://arxiv.org/abs/2506.08714v1)|null|
+|**2025-06-10**|**A pipeline for Megahertz X-ray Photon Correlation Spectroscopy on soft matter samples at the MID instrument of European XFEL**|Aliaksandr Leonau et.al.|[2506.08668v1](http://arxiv.org/abs/2506.08668v1)|null|
+|**2025-06-10**|**Ramanujan, Landau and Casimir, divergent series: a physicist point of view**|Gilles Montambaux et.al.|[2506.08664v1](http://arxiv.org/abs/2506.08664v1)|null|
+|**2025-06-10**|**HSG-12M: A Large-Scale Spatial Multigraph Dataset**|Xianquan Yan et.al.|[2506.08618v1](http://arxiv.org/abs/2506.08618v1)|null|
+|**2025-06-10**|**Adaptive quantum dynamics with the time-dependent variational Monte Carlo method**|Raffaele Salioni et.al.|[2506.08575v1](http://arxiv.org/abs/2506.08575v1)|null|
+|**2025-06-10**|**Bridging Electrostatic Screening and Ion Transport in Lithium Salt-Doped Ionic Liquids**|Hyungshick Park et.al.|[2506.08476v1](http://arxiv.org/abs/2506.08476v1)|null|
+|**2025-06-10**|**Revealing the Dominance of the Orbital Hall Effect over Spin in Transition Metal Heterostructures**|J. L. Costa et.al.|[2506.08425v1](http://arxiv.org/abs/2506.08425v1)|null|
+|**2025-06-10**|**Exploring the energy landscape of the Thomson problem: local minima and stationary states**|Paolo Amore et.al.|[2506.08398v1](http://arxiv.org/abs/2506.08398v1)|null|
+|**2025-06-10**|**Micro-Macro Modeling of Polymeric Fluids with Multi-Bead Polymer Chain**|Xuelian Bao et.al.|[2506.08377v1](http://arxiv.org/abs/2506.08377v1)|null|
+|**2025-06-10**|**Diffusive spreading of a polydisperse polymer solution in a channel**|Hanyang. Wang et.al.|[2506.08323v1](http://arxiv.org/abs/2506.08323v1)|null|
 |**2025-06-09**|**Recoil of a driven tracer in a correlated medium**|Marcin Piotr Pruszczyk et.al.|[2506.07895v1](http://arxiv.org/abs/2506.07895v1)|null|
 |**2025-06-09**|**Anomalous diffusion and directed coalescence of condensates in driven media**|Andriy Goychuk et.al.|[2506.07753v1](http://arxiv.org/abs/2506.07753v1)|null|
 |**2025-06-09**|**Interface Fragmentation via Horizontal Vibration: A Pathway to Scalable Monodisperse Emulsification**|Linfeng Piao et.al.|[2506.07742v1](http://arxiv.org/abs/2506.07742v1)|null|
@@ -9280,6 +9295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Light-induced localized vortices in multicomponent Bose-Einstein condensates**|Y. Braver et.al.|[2506.08683v1](http://arxiv.org/abs/2506.08683v1)|null|
+|**2025-06-09**|**Influence of atomic-scale defects on coherent phonon excitations by THz near fields in an STM**|Vibhuti N. Rai et.al.|[2506.08219v1](http://arxiv.org/abs/2506.08219v1)|null|
 |**2025-06-09**|**Spin Dynamics and Light-Induced Effects in EuZn $_2$P$_2$**|M. Dutra et.al.|[2506.07681v1](http://arxiv.org/abs/2506.07681v1)|null|
 |**2025-06-06**|**Phase transitions induced by resonant light: a phenomenological approach**|A. Kudlis et.al.|[2506.05964v1](http://arxiv.org/abs/2506.05964v1)|null|
 |**2025-06-05**|**Stringent requirements for detecting light-induced gravitational effects using interferometry**|F. Fillion-Gourdeau et.al.|[2506.05534v1](http://arxiv.org/abs/2506.05534v1)|null|
@@ -10060,6 +10077,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Ferromagnetic Two-dimensional Electron Gases with Magnetic Doping and Proximity Effects**|Zixin Fan et.al.|[2506.08806v1](http://arxiv.org/abs/2506.08806v1)|null|
 |**2025-06-09**|**Magnetic structure of the kagome metal YbFe6Ge6 in view of Bragg diffraction**|S W Lovesey et.al.|[2506.07654v1](http://arxiv.org/abs/2506.07654v1)|null|
 |**2025-06-09**|**Ferroelectric switching of quantum anomalous Hall effects in MnBi2Te4 films**|Jiaheng Li et.al.|[2506.07653v1](http://arxiv.org/abs/2506.07653v1)|null|
 |**2025-06-05**|**Strongly enhanced topological quantum phases in dual-surface AlO $_x$-encapsulated MnBi$_2$Te$_4$**|Zichen Lian et.al.|[2506.04901v1](http://arxiv.org/abs/2506.04901v1)|null|
