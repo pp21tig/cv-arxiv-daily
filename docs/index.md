@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Experimental investigation of the flow rate--pressure drop relation of a viscoelastic Boger fluid in a deformable channel**|SungGyu Chun et.al.|[2506.10926v1](http://arxiv.org/abs/2506.10926v1)|null|
+|**2025-06-12**|**Prediction and control of geometry-induced nematic order in growing multicellular systems**|Lukas Hupe et.al.|[2506.10867v1](http://arxiv.org/abs/2506.10867v1)|null|
+|**2025-06-12**|**Failure modes of irregular ceramic foam under compression: Development of a new image based strut segmentation strategy**|Vinit Vijay Deshpande et.al.|[2506.10860v1](http://arxiv.org/abs/2506.10860v1)|null|
+|**2025-06-12**|**Surface Nematic Quasi-Uniformity**|Andrea Pedrini et.al.|[2506.10795v1](http://arxiv.org/abs/2506.10795v1)|null|
+|**2025-06-12**|**Break-up of an active chiral fluid**|Luke Neville et.al.|[2506.10534v1](http://arxiv.org/abs/2506.10534v1)|null|
+|**2025-06-12**|**Disentangling Electronic and Ionic Nonlinear Polarization Effects in the THz Kerr Response of LaAlO $_{3}$**|Chao Shen et.al.|[2506.10472v1](http://arxiv.org/abs/2506.10472v1)|null|
+|**2025-06-12**|**A Time-Symmetric Quantum Algorithm for Direct Eigenstate Determination**|Shijie Wei et.al.|[2506.10283v1](http://arxiv.org/abs/2506.10283v1)|null|
+|**2025-06-12**|**Slip electron flow in GaAs microscale constrictions**|Daniil I. Sarypov et.al.|[2506.10276v1](http://arxiv.org/abs/2506.10276v1)|null|
+|**2025-06-12**|**Statistical mechanics of fluids with hidden degrees of freedom**|Masanari Shimada et.al.|[2506.10253v1](http://arxiv.org/abs/2506.10253v1)|null|
+|**2025-06-11**|**Constructive interference at the edge of quantum ergodic dynamics**|Dmitry A. Abanin et.al.|[2506.10191v1](http://arxiv.org/abs/2506.10191v1)|null|
+|**2025-06-11**|**Laser Stabilised Ionising Transitions**|Erika Cortese et.al.|[2506.10183v1](http://arxiv.org/abs/2506.10183v1)|null|
 |**2025-06-11**|**A Diffuse-Interface Marangoni Instability**|Xiangwei Li et.al.|[2506.09945v1](http://arxiv.org/abs/2506.09945v1)|null|
 |**2025-06-11**|**Surface phase behavior, not hydrogen bonding, governs hydrophobic attraction between extended solutes**|Nigel B. Wilding et.al.|[2506.09858v1](http://arxiv.org/abs/2506.09858v1)|null|
 |**2025-06-11**|**Anomalous slow-down of the bound state dynamics in a non-locally coupled quantum circuit**|Biswajit Paul et.al.|[2506.09818v1](http://arxiv.org/abs/2506.09818v1)|null|
@@ -9312,6 +9323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Light-induced Floquet spin-triplet Cooper pairs in unconventional magnets**|Pei-Hao Fu et.al.|[2506.10590v1](http://arxiv.org/abs/2506.10590v1)|null|
 |**2025-06-11**|**Photo-induced directional transport in extended SSH chains**|Usham Harish Kumar Singha et.al.|[2506.09783v1](http://arxiv.org/abs/2506.09783v1)|null|
 |**2025-06-10**|**Light-induced localized vortices in multicomponent Bose-Einstein condensates**|Y. Braver et.al.|[2506.08683v1](http://arxiv.org/abs/2506.08683v1)|null|
 |**2025-06-09**|**Influence of atomic-scale defects on coherent phonon excitations by THz near fields in an STM**|Vibhuti N. Rai et.al.|[2506.08219v1](http://arxiv.org/abs/2506.08219v1)|null|
@@ -9713,6 +9725,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Disentangling Electronic and Ionic Nonlinear Polarization Effects in the THz Kerr Response of LaAlO $_{3}$**|Chao Shen et.al.|[2506.10472v1](http://arxiv.org/abs/2506.10472v1)|null|
 |**2025-05-06**|**Parametrically amplified Josephson plasma waves in YBa_2Cu_3O_(6+x): evidence for local superconducting fluctuations up to the pseudogap temperature $T^*$**|Marios H. Michael et.al.|[2505.03358v1](http://arxiv.org/abs/2505.03358v1)|null|
 |**2025-04-15**|**Generation of Relativistic Structured Spin-Polarized Lepton Beams**|Zhong-Peng Li et.al.|[2504.11113v1](http://arxiv.org/abs/2504.11113v1)|null|
 |**2025-04-11**|**Positive Terahertz Photoconductivity in CdHgTe Under Hydrostatic Pressure**|Ivan Yahniuk et.al.|[2504.08319v1](http://arxiv.org/abs/2504.08319v1)|null|
@@ -9791,6 +9804,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Deterministic Switching of the Néel Vector by Asymmetric Spin Torque**|Shui-Sen Zhang et.al.|[2506.10786v1](http://arxiv.org/abs/2506.10786v1)|null|
 |**2025-06-09**|**Orbital Hall Effect Enables Field-Free Magnetization Reversal in Ferrimagnets without Additional Conversion Layer**|Zelalem Abebe Bekele et.al.|[2506.07608v1](http://arxiv.org/abs/2506.07608v1)|null|
 |**2025-06-04**|**Feedback stabilization of switched systems under arbitrary switching: A convex characterization**|Thiago Alves Lima et.al.|[2506.03759v1](http://arxiv.org/abs/2506.03759v1)|null|
 |**2025-05-27**|**Current-induced spin and orbital polarization in the ferroelectric Rashba semiconductor GeTe**|Sergio Leiva-Montecinos et.al.|[2505.21340v1](http://arxiv.org/abs/2505.21340v1)|null|
@@ -10095,6 +10109,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Apparent inconsistency between Streda formula and Hall conductivity in reentrant integer quantum anomalous Hall effect in twisted MoTe $_2$**|Yi Huang et.al.|[2506.10965v1](http://arxiv.org/abs/2506.10965v1)|null|
+|**2025-06-12**|**From Fractionalization to Chiral Topological Superconductivity in Flat Chern Band**|Daniele Guerci et.al.|[2506.10938v1](http://arxiv.org/abs/2506.10938v1)|null|
+|**2025-06-11**|**Theory of bound magnetic polarons in cubic and uniaxial antiferromagnets**|Dawid Bugajewski et.al.|[2506.10208v1](http://arxiv.org/abs/2506.10208v1)|null|
 |**2025-06-10**|**Ferromagnetic Two-dimensional Electron Gases with Magnetic Doping and Proximity Effects**|Zixin Fan et.al.|[2506.08806v1](http://arxiv.org/abs/2506.08806v1)|null|
 |**2025-06-09**|**Magnetic structure of the kagome metal YbFe6Ge6 in view of Bragg diffraction**|S W Lovesey et.al.|[2506.07654v1](http://arxiv.org/abs/2506.07654v1)|null|
 |**2025-06-09**|**Ferroelectric switching of quantum anomalous Hall effects in MnBi2Te4 films**|Jiaheng Li et.al.|[2506.07653v1](http://arxiv.org/abs/2506.07653v1)|null|
