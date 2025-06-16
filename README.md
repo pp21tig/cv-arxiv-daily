@@ -1098,6 +1098,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013v1](http://arxiv.org/abs/2506.12013v1)|null|
+|**2025-06-13**|**Quantum Critical Eliashberg Theory**|Ilya Esterlis et.al.|[2506.11952v1](http://arxiv.org/abs/2506.11952v1)|null|
+|**2025-06-13**|**Quick starch guide: A perspective on shear thickening in dense non-Brownian suspensions**|Cécile Clavaud et.al.|[2506.11951v1](http://arxiv.org/abs/2506.11951v1)|null|
+|**2025-06-13**|**Hydrodynamics of chiral nematics in a channel and sudden contraction geometry**|Isreal Morawo et.al.|[2506.11933v1](http://arxiv.org/abs/2506.11933v1)|null|
+|**2025-06-13**|**Thermal conductivity minimum with thickness in ultrathin films**|Alessio Zaccone et.al.|[2506.11914v1](http://arxiv.org/abs/2506.11914v1)|null|
+|**2025-06-13**|**Bridging a gap: A heavy elastica between point supports**|Grace K. Curtis et.al.|[2506.11875v1](http://arxiv.org/abs/2506.11875v1)|null|
+|**2025-06-13**|**Inverse Thermodynamics: Designing Interactions for Targeted Phase Behavior**|Camilla Beneduce et.al.|[2506.11856v1](http://arxiv.org/abs/2506.11856v1)|null|
+|**2025-06-13**|**Vane rheology of a fiber-reinforced granular material**|Ladislas Wierzchalek et.al.|[2506.11762v1](http://arxiv.org/abs/2506.11762v1)|null|
+|**2025-06-13**|**Transport-Generated Signals Uncover Geometric Features of Evolving Branched Structures**|Fabian H. Kreten et.al.|[2506.11575v1](http://arxiv.org/abs/2506.11575v1)|null|
+|**2025-06-13**|**Universal Scaling Laws for Deep Indentation Beyond the Hertzian Regime**|Tong Mu et.al.|[2506.11461v1](http://arxiv.org/abs/2506.11461v1)|null|
+|**2025-06-13**|**Compressed self-avoiding walks in two and three dimensions**|C J Bradly et.al.|[2506.11433v1](http://arxiv.org/abs/2506.11433v1)|null|
+|**2025-06-12**|**Entropy-Constrained Noise Yields Superdiffusive Dynamics in Axonal Growth**|Julian Sutaria et.al.|[2506.11272v1](http://arxiv.org/abs/2506.11272v1)|null|
+|**2025-06-12**|**Theory of infrared magneto-optical effects from chiral phonons in solids**|Chiara Fiorazzo et.al.|[2506.11258v1](http://arxiv.org/abs/2506.11258v1)|null|
 |**2025-06-12**|**Experimental investigation of the flow rate--pressure drop relation of a viscoelastic Boger fluid in a deformable channel**|SungGyu Chun et.al.|[2506.10926v1](http://arxiv.org/abs/2506.10926v1)|null|
 |**2025-06-12**|**Prediction and control of geometry-induced nematic order in growing multicellular systems**|Lukas Hupe et.al.|[2506.10867v1](http://arxiv.org/abs/2506.10867v1)|null|
 |**2025-06-12**|**Failure modes of irregular ceramic foam under compression: Development of a new image based strut segmentation strategy**|Vinit Vijay Deshpande et.al.|[2506.10860v1](http://arxiv.org/abs/2506.10860v1)|null|
@@ -9319,6 +9332,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984v1](http://arxiv.org/abs/2506.11984v1)|null|
 |**2025-06-12**|**Light-induced Floquet spin-triplet Cooper pairs in unconventional magnets**|Pei-Hao Fu et.al.|[2506.10590v1](http://arxiv.org/abs/2506.10590v1)|null|
 |**2025-06-11**|**Photo-induced directional transport in extended SSH chains**|Usham Harish Kumar Singha et.al.|[2506.09783v1](http://arxiv.org/abs/2506.09783v1)|null|
 |**2025-06-10**|**Light-induced localized vortices in multicomponent Bose-Einstein condensates**|Y. Braver et.al.|[2506.08683v1](http://arxiv.org/abs/2506.08683v1)|null|
