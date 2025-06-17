@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Significant role of first-principles electron-phonon coupling in the electronic and thermoelectric properties of LiZnAs and ScAgC semiconductors**|Vinod Kumar Solet et.al.|[2506.13675v1](http://arxiv.org/abs/2506.13675v1)|null|
+|**2025-06-16**|**On the diffusion of hard sphere fluids in disordered porous media: New extended Enskog theory description**|M. F. Holovko et.al.|[2506.13483v1](http://arxiv.org/abs/2506.13483v1)|null|
+|**2025-06-16**|**Continuing the discussion on "The inconvenient truth about flocks" by Chen et al**|Hugues Chaté et.al.|[2506.13437v1](http://arxiv.org/abs/2506.13437v1)|null|
+|**2025-06-16**|**2D MXene-Based Photocatalysts for Efficient Water Splitting and Hydrogen Evolution: A brief review**|C. B. Subba et.al.|[2506.13411v1](http://arxiv.org/abs/2506.13411v1)|null|
+|**2025-06-16**|**Uncovering the nanoscopic phase behavior of ternary solutions in the presence of electrolytes: from pre-Ouzo to Ouzo region**|Mingbo Li et.al.|[2506.13377v1](http://arxiv.org/abs/2506.13377v1)|null|
+|**2025-06-16**|**Tuning the Viscosity and Jamming Point in Dense Active non-Brownian Suspensions**|Bhanu Prasad Bhowmik et.al.|[2506.13316v1](http://arxiv.org/abs/2506.13316v1)|null|
+|**2025-06-16**|**Non-reciprocal interactions reshape cells in a model for symbiosis**|Maitane Muñoz-Basagoiti et.al.|[2506.13299v1](http://arxiv.org/abs/2506.13299v1)|null|
+|**2025-06-16**|**Scalable Simulation of Quantum Many-Body Dynamics with Or-Represented Quantum Algebra**|Lukas Broers et.al.|[2506.13241v1](http://arxiv.org/abs/2506.13241v1)|null|
+|**2025-06-16**|**Two-photon 3D printing of functional microstructures inside living cells**|Marusa Mur et.al.|[2506.13232v1](http://arxiv.org/abs/2506.13232v1)|null|
+|**2025-06-16**|**Backsolution: A Framework for Solving Inverse Problems via Automatic Differentiation**|Koji Kobayashi et.al.|[2506.13210v1](http://arxiv.org/abs/2506.13210v1)|null|
+|**2025-06-16**|**Dynamics of Vortex Clusters on a Torus**|Aswathy K R et.al.|[2506.13158v1](http://arxiv.org/abs/2506.13158v1)|null|
+|**2025-06-16**|**Density-Independent Glassy Behavior in the High-Density Phase of Motility-Induced Phase Separation**|Toranosuke Umemura et.al.|[2506.13140v1](http://arxiv.org/abs/2506.13140v1)|null|
+|**2025-06-16**|**Hopfield Networks as Models of Emergent Function in Biology**|Maria Yampolskaya et.al.|[2506.13076v1](http://arxiv.org/abs/2506.13076v1)|null|
+|**2025-06-16**|**Implementing van der Waals forces for polytope particles in DEM simulations of clay**|Dominik Krengel et.al.|[2506.13046v1](http://arxiv.org/abs/2506.13046v1)|null|
+|**2025-06-15**|**Flocking as a second-order phase transition in self-aligning active crystals**|Marco Musacchio et.al.|[2506.12967v1](http://arxiv.org/abs/2506.12967v1)|null|
+|**2025-06-15**|**Kinetic theory of coupled binary-fluid-surfactant systems**|Alexandra J. Hardy et.al.|[2506.12955v1](http://arxiv.org/abs/2506.12955v1)|null|
+|**2025-06-15**|**Electric Field Control of Spin Orbit Coupling and Circular Photogalvanic Effect in a True Ferrielectric Crystal**|Yunlin Lei et.al.|[2506.12780v1](http://arxiv.org/abs/2506.12780v1)|null|
+|**2025-06-15**|**Structure-Dynamics Correlation and Its Link to Fragility and Dynamic Heterogeneity**|Mohit Sharma et.al.|[2506.12773v1](http://arxiv.org/abs/2506.12773v1)|null|
+|**2025-06-14**|**Iterative Annealing Mechanism for Protein and RNA Chaperones**|Changbong Hyeon et.al.|[2506.12645v1](http://arxiv.org/abs/2506.12645v1)|null|
+|**2025-06-14**|**Nanodroplets Condensation on Solid Surfaces**|Matteo Teodori et.al.|[2506.12565v1](http://arxiv.org/abs/2506.12565v1)|null|
 |**2025-06-13**|**Entropy production in active Rouse polymers**|Sandipan Dutta et.al.|[2506.12013v1](http://arxiv.org/abs/2506.12013v1)|null|
 |**2025-06-13**|**Quantum Critical Eliashberg Theory**|Ilya Esterlis et.al.|[2506.11952v1](http://arxiv.org/abs/2506.11952v1)|null|
 |**2025-06-13**|**Quick starch guide: A perspective on shear thickening in dense non-Brownian suspensions**|Cécile Clavaud et.al.|[2506.11951v1](http://arxiv.org/abs/2506.11951v1)|null|
@@ -9336,6 +9356,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting**|Tianwei Ouyang et.al.|[2506.13696v1](http://arxiv.org/abs/2506.13696v1)|null|
+|**2025-06-14**|**Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures**|Even Chiari et.al.|[2506.12504v1](http://arxiv.org/abs/2506.12504v1)|null|
 |**2025-06-16**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984v2](http://arxiv.org/abs/2506.11984v2)|null|
 |**2025-06-12**|**Light-induced Floquet spin-triplet Cooper pairs in unconventional magnets**|Pei-Hao Fu et.al.|[2506.10590v1](http://arxiv.org/abs/2506.10590v1)|null|
 |**2025-06-11**|**Photo-induced directional transport in extended SSH chains**|Usham Harish Kumar Singha et.al.|[2506.09783v1](http://arxiv.org/abs/2506.09783v1)|null|
