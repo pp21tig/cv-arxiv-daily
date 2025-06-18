@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Extending the capillary wave model to include the effect of bending rigidity: X-ray reflection and diffuse scattering**|Chen Shen et.al.|[2506.14672v1](http://arxiv.org/abs/2506.14672v1)|null|
+|**2025-06-17**|**Approximating Hamiltonian for Hartree-Fock solutions for nonrelativistic atoms**|N. Q. San et.al.|[2506.14661v1](http://arxiv.org/abs/2506.14661v1)|null|
+|**2025-06-17**|**Towards construction of microscopic model for smart coating of a solid surface**|O. Pizio et.al.|[2506.14628v1](http://arxiv.org/abs/2506.14628v1)|null|
+|**2025-06-17**|**Liquid-gas state regularities as a manifestation of global isomorphism with the Ising model**|L. A. Bulavin et.al.|[2506.14622v1](http://arxiv.org/abs/2506.14622v1)|null|
+|**2025-06-17**|**Replica RISM molecular solvation theory for electric double layer in nanoporous materials**|A. Kovalenko et.al.|[2506.14616v1](http://arxiv.org/abs/2506.14616v1)|null|
+|**2025-06-17**|**Mutual effect of charge- and number-density correlations in ionic liquids and concentrated electrolytes**|O. Patsahan et.al.|[2506.14604v1](http://arxiv.org/abs/2506.14604v1)|null|
+|**2025-06-17**|**Anomalous diffusion for mass transport phenomena II: Subdiffusion in polydimethylsiloxane (PDMS)**|Nathaniel G. Hermann et.al.|[2506.14600v1](http://arxiv.org/abs/2506.14600v1)|null|
+|**2025-06-17**|**Active viscoelastic condensates provide controllable mechanical anchor points**|Oliver W. Paulin et.al.|[2506.14591v1](http://arxiv.org/abs/2506.14591v1)|null|
+|**2025-06-17**|**Hydrodynamic theory of wetting by active particles**|Noah Grodzinski et.al.|[2506.14559v1](http://arxiv.org/abs/2506.14559v1)|null|
+|**2025-06-17**|**Coarsening Kinetics in Active Model B+: Macroscale and Microscale Phase Separation**|Pradeep Kumar Yadav et.al.|[2506.14548v1](http://arxiv.org/abs/2506.14548v1)|null|
+|**2025-06-17**|**From Attraction to Repulsion: Emergent Interactions in Harmonically Coupled Active Binary System**|Ritwick Sarkar et.al.|[2506.14484v1](http://arxiv.org/abs/2506.14484v1)|null|
+|**2025-06-17**|**Cyclically sheared colloidal gels: structural change and delayed failure time**|Himangsu Bhaumik et.al.|[2506.14408v1](http://arxiv.org/abs/2506.14408v1)|null|
+|**2025-06-17**|**Coupling Anisotropic Curvature and Nematic Order: Mechanisms of Membrane Shape Remodeling**|Yoav Ravid et.al.|[2506.14347v1](http://arxiv.org/abs/2506.14347v1)|null|
+|**2025-06-17**|**Random organization criticality with long-range hydrodynamic interactions**|Tristan Jocteur et.al.|[2506.14330v1](http://arxiv.org/abs/2506.14330v1)|null|
+|**2025-06-17**|**Turbulent stretching of dumbbells with hydrodynamic interactions: an analytical study**|Jason R. Picardo et.al.|[2506.14282v1](http://arxiv.org/abs/2506.14282v1)|null|
+|**2025-06-17**|**Controlling energy delivery with bistable nanostructures**|Andreas Ehrmann et.al.|[2506.14266v1](http://arxiv.org/abs/2506.14266v1)|null|
+|**2025-06-17**|**Compositional fluctuations and polymorph selection in crystallization of model soft colloids**|Abhilasha Kumari et.al.|[2506.14109v1](http://arxiv.org/abs/2506.14109v1)|null|
+|**2025-06-17**|**ReLCP: Scalable Complementarity-Based Collision Resolution for Smooth Rigid Bodies**|Bryce Palmer et.al.|[2506.14097v1](http://arxiv.org/abs/2506.14097v1)|null|
+|**2025-06-17**|**Asymmetric Diffusion of Chiral Skyrmions**|X. Zhang et.al.|[2506.14090v1](http://arxiv.org/abs/2506.14090v1)|null|
+|**2025-06-16**|**Mechanically Interlocked Polymers in Dilute Solution under Shear and Extensional Flows: A Brownian Dynamics Study**|Ali Seyedi et.al.|[2506.13968v1](http://arxiv.org/abs/2506.13968v1)|null|
 |**2025-06-16**|**Significant role of first-principles electron-phonon coupling in the electronic and thermoelectric properties of LiZnAs and ScAgC semiconductors**|Vinod Kumar Solet et.al.|[2506.13675v1](http://arxiv.org/abs/2506.13675v1)|null|
 |**2025-06-16**|**On the diffusion of hard sphere fluids in disordered porous media: New extended Enskog theory description**|M. F. Holovko et.al.|[2506.13483v1](http://arxiv.org/abs/2506.13483v1)|null|
 |**2025-06-16**|**Continuing the discussion on "The inconvenient truth about flocks" by Chen et al**|Hugues Chaté et.al.|[2506.13437v1](http://arxiv.org/abs/2506.13437v1)|null|
@@ -9840,6 +9860,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Signature of current-induced nuclear spin polarization in (Bi $_{1-x}$Sb$_{x}$)$_2$Te$_3$**|Sofie Kölling et.al.|[2506.14481v1](http://arxiv.org/abs/2506.14481v1)|null|
+|**2025-06-16**|**Emergence of Chern metal in a moiré Kondo lattice**|Wenjin Zhao et.al.|[2506.14063v1](http://arxiv.org/abs/2506.14063v1)|null|
 |**2025-06-12**|**Deterministic Switching of the Néel Vector by Asymmetric Spin Torque**|Shui-Sen Zhang et.al.|[2506.10786v1](http://arxiv.org/abs/2506.10786v1)|null|
 |**2025-06-09**|**Orbital Hall Effect Enables Field-Free Magnetization Reversal in Ferrimagnets without Additional Conversion Layer**|Zelalem Abebe Bekele et.al.|[2506.07608v1](http://arxiv.org/abs/2506.07608v1)|null|
 |**2025-06-04**|**Feedback stabilization of switched systems under arbitrary switching: A convex characterization**|Thiago Alves Lima et.al.|[2506.03759v1](http://arxiv.org/abs/2506.03759v1)|null|
