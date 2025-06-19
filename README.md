@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -372,7 +372,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## SFM
 
@@ -451,7 +451,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -725,7 +725,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -835,7 +835,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Image Matching
 
@@ -934,7 +934,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## NeRF
 
@@ -1082,7 +1082,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## NaRF
 
@@ -1092,12 +1092,25 @@
 |**2021-08-18**|**Neural Articulated Radiance Field**|Atsuhiro Noguchi et.al.|[2104.03110v2](http://arxiv.org/abs/2104.03110v2)|**[link](https://github.com/nogu-atsu/NARF)**|
 |**2020-11-11**|**Multi-wavelength high energy gas-filled fiber Raman laser spanning from 1.53 um to 2.4 um**|Abubakar I. Adamu et.al.|[2011.06121v1](http://arxiv.org/abs/2011.06121v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Terahertz
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Machine learning based prediction of dynamical clustering in granular gases**|Sai Preetham Sata et.al.|[2506.15657v1](http://arxiv.org/abs/2506.15657v1)|null|
+|**2025-06-18**|**Determining the chemical potential via universal density functional learning**|Florian Sammüller et.al.|[2506.15608v1](http://arxiv.org/abs/2506.15608v1)|null|
+|**2025-06-18**|**Learning to flock in open space by avoiding collisions and staying together**|Martino Brambati et.al.|[2506.15587v1](http://arxiv.org/abs/2506.15587v1)|null|
+|**2025-06-18**|**Advanced Langevin thermostats: Properties, extensions to rheology, and a lean momentum-conserving approach**|Shubham Agarwal et.al.|[2506.15579v1](http://arxiv.org/abs/2506.15579v1)|null|
+|**2025-06-18**|**Devitrification and Melting Dynamics in Vapor Deposited Water Ice**|Fabio Leoni et.al.|[2506.15433v1](http://arxiv.org/abs/2506.15433v1)|null|
+|**2025-06-18**|**Slip flows of a Bingham fluid in curved channels**|S. J. Cox et.al.|[2506.15303v1](http://arxiv.org/abs/2506.15303v1)|null|
+|**2025-06-18**|**Highly anisotropic magnetic phase diagram of the ferromagnetic rare-earth diboride HoB $_{2}$**|Takafumi D. Yamamoto et.al.|[2506.15302v1](http://arxiv.org/abs/2506.15302v1)|null|
+|**2025-06-18**|**Anomalous energy correlations and spectral form factor in the nonergodic phase of the $β$ -ensemble**|Basudha Roy et.al.|[2506.15283v1](http://arxiv.org/abs/2506.15283v1)|null|
+|**2025-06-18**|**Algal Optics**|Ming Yang et.al.|[2506.15214v1](http://arxiv.org/abs/2506.15214v1)|null|
+|**2025-06-18**|**Autonomous life-like behavior emerging in active and flexible microstructures**|Mengshi Wei et.al.|[2506.15198v1](http://arxiv.org/abs/2506.15198v1)|null|
+|**2025-06-18**|**Segregation and cooperation in active colloidal binary mixtures**|Laura Alvarez et.al.|[2506.15188v1](http://arxiv.org/abs/2506.15188v1)|null|
+|**2025-06-17**|**Simultaneous Charge Carrier Density Mapping of SiC Epilayers and Substrates with Terahertz Time-Domain Spectroscopy**|Joshua Hennig et.al.|[2506.14945v1](http://arxiv.org/abs/2506.14945v1)|null|
+|**2025-06-17**|**Inverse method for determining general molecular weight distribution from polymer rheology**|Nihal Pushkar et.al.|[2506.14926v1](http://arxiv.org/abs/2506.14926v1)|null|
 |**2025-06-17**|**Extending the capillary wave model to include the effect of bending rigidity: X-ray reflection and diffuse scattering**|Chen Shen et.al.|[2506.14672v1](http://arxiv.org/abs/2506.14672v1)|null|
 |**2025-06-17**|**Approximating Hamiltonian for Hartree-Fock solutions for nonrelativistic atoms**|N. Q. San et.al.|[2506.14661v1](http://arxiv.org/abs/2506.14661v1)|null|
 |**2025-06-17**|**Towards construction of microscopic model for smart coating of a solid surface**|O. Pizio et.al.|[2506.14628v1](http://arxiv.org/abs/2506.14628v1)|null|
@@ -9366,14 +9379,14 @@
 |**2022-12-21**|**Shape-tension coupling produces nematic order in an epithelium vertex model**|Jan Rozman et.al.|[2212.11037v1](http://arxiv.org/abs/2212.11037v1)|null|
 |**2022-12-21**|**Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions**|Yongfeng Zhao et.al.|[2212.10996v1](http://arxiv.org/abs/2212.10996v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Light induce
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-16**|**Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting**|Tianwei Ouyang et.al.|[2506.13696v1](http://arxiv.org/abs/2506.13696v1)|null|
-|**2025-06-14**|**Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures**|Even Chiari et.al.|[2506.12504v1](http://arxiv.org/abs/2506.12504v1)|null|
+|**2025-06-18**|**Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures**|Even Chiari et.al.|[2506.12504v2](http://arxiv.org/abs/2506.12504v2)|null|
 |**2025-06-16**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984v2](http://arxiv.org/abs/2506.11984v2)|null|
 |**2025-06-12**|**Light-induced Floquet spin-triplet Cooper pairs in unconventional magnets**|Pei-Hao Fu et.al.|[2506.10590v1](http://arxiv.org/abs/2506.10590v1)|null|
 |**2025-06-11**|**Photo-induced directional transport in extended SSH chains**|Usham Harish Kumar Singha et.al.|[2506.09783v1](http://arxiv.org/abs/2506.09783v1)|null|
@@ -9771,7 +9784,7 @@
 |**2022-10-26**|**An in vitro living system for flow rectification**|Zhi Dou et.al.|[2210.14479v1](http://arxiv.org/abs/2210.14479v1)|null|
 |**2022-10-25**|**Fast loading of a cold mixture of Sodium and Potassium atoms from compact and versatile cold atomic beam sources**|Sagar Sutradhar et.al.|[2210.14084v1](http://arxiv.org/abs/2210.14084v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Intense Terahertz
 
@@ -9850,7 +9863,7 @@
 |**2020-07-28**|**Terahertz Strong-Field Physics in Light-Emitting Diodes for Terahertz Detection and Imaging**|Chen Ouyang et.al.|[2007.14093v1](http://arxiv.org/abs/2007.14093v1)|null|
 |**2020-06-17**|**Lightwave Terahertz Quantum Manipulation of Non-equilibrium Superconductor Phases and their Collective Modes**|Martin Mootz et.al.|[2006.09151v2](http://arxiv.org/abs/2006.09151v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Electric Field Terahertz
 
@@ -10157,12 +10170,13 @@
 |**2023-02-28**|**Highly-parallelized simulation of a pixelated LArTPC on a GPU**|DUNE Collaboration et.al.|[2212.09807v3](http://arxiv.org/abs/2212.09807v3)|**[link](https://github.com/DUNE/larnd-sim)**|
 |**2022-12-14**|**Ordered creation and motion of skyrmions with surface acoustic wave**|Ruyi Chen et.al.|[2212.06997v1](http://arxiv.org/abs/2212.06997v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## AHE
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Intertwined magnetic phase driven exchange bias and its impact on the anomalous Hall effect in MnBi $_4$Te$_7$**|Nazma Firdosh et.al.|[2506.15540v1](http://arxiv.org/abs/2506.15540v1)|null|
 |**2025-06-12**|**Apparent inconsistency between Streda formula and Hall conductivity in reentrant integer quantum anomalous Hall effect in twisted MoTe $_2$**|Yi Huang et.al.|[2506.10965v1](http://arxiv.org/abs/2506.10965v1)|null|
 |**2025-06-12**|**From Fractionalization to Chiral Topological Superconductivity in Flat Chern Band**|Daniele Guerci et.al.|[2506.10938v1](http://arxiv.org/abs/2506.10938v1)|null|
 |**2025-06-11**|**Theory of bound magnetic polarons in cubic and uniaxial antiferromagnets**|Dawid Bugajewski et.al.|[2506.10208v1](http://arxiv.org/abs/2506.10208v1)|null|
@@ -10679,12 +10693,13 @@
 |**2023-02-14**|**Direct evidence of terahertz emission arising from anomalous Hall effect**|V. Mottamchetty et.al.|[2302.07398v1](http://arxiv.org/abs/2302.07398v1)|null|
 |**2023-02-14**|**Pressure-tunable magnetic topological phases in magnetic topological insulator MnSb4Te7**|Lingling Gao et.al.|[2302.07113v1](http://arxiv.org/abs/2302.07113v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## INS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**Unconventional Spin Dynamics and Supersolid Excitations in the Triangular-Lattice XXZ Model**|Rafael Flores-Calderón et.al.|[2506.15516v1](http://arxiv.org/abs/2506.15516v1)|null|
 |**2025-06-11**|**Magnetic excitations and exchange parameters of a nickel chain compound PbMn $_2$Ni$_6$Te$_3$O$_{18}$ : Neutron scattering and density functional theory studies**|S. Uthayakumar et.al.|[2506.09861v1](http://arxiv.org/abs/2506.09861v1)|null|
 |**2025-06-09**|**Interacting Dirac magnons in honeycomb ferromagnets CrBr $_3$**|Saikat Banerjee et.al.|[2506.07650v1](http://arxiv.org/abs/2506.07650v1)|null|
 |**2025-06-02**|**Benchmarking Universal Machine Learning Interatomic Potentials for Real-Time Analysis of Inelastic Neutron Scattering Data**|Bowen Han et.al.|[2506.01860v1](http://arxiv.org/abs/2506.01860v1)|null|
@@ -10896,7 +10911,7 @@
 |**2023-01-20**|**Inelastic neutron scattering study of crystalline electric field excitations in the caged compounds NdT2Zn20 (T = Co, Rh, and Ir)**|Rikako Yamamoto et.al.|[2301.08507v1](http://arxiv.org/abs/2301.08507v1)|null|
 |**2023-01-12**|**Spectroscopic signatures of fractionalization in octupolar quantum spin ice**|Félix Desrochers et.al.|[2301.05240v1](http://arxiv.org/abs/2301.05240v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
