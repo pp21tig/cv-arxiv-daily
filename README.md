@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Cascade at local yield strain for silica and metallic glass**|Nandlal Pingua et.al.|[2506.17129v1](http://arxiv.org/abs/2506.17129v1)|null|
+|**2025-06-20**|**Instabilities in Colloidal Crystals on Fluid Membranes**|Sanjay Dharmavaram et.al.|[2506.17098v1](http://arxiv.org/abs/2506.17098v1)|null|
+|**2025-06-20**|**Two dimensional sub-wavelength topological dark state lattices**|Domantas Burba et.al.|[2506.17096v1](http://arxiv.org/abs/2506.17096v1)|null|
+|**2025-06-20**|**Probing dynamical axion quasiparticles with two-photon correlations**|Daniel Boyanovsky et.al.|[2506.17013v1](http://arxiv.org/abs/2506.17013v1)|null|
+|**2025-06-20**|**Line Tension Reshapes Nucleation at Surface Edges: A Generalized Theory for Nanopore Activation**|Yanchen Wu et.al.|[2506.16978v1](http://arxiv.org/abs/2506.16978v1)|null|
+|**2025-06-20**|**Skewness-Kurtosis: small samples and power-law behavior**|Carlo De Michele et.al.|[2506.16906v1](http://arxiv.org/abs/2506.16906v1)|null|
+|**2025-06-20**|**Omnidirectionally manipulated skyrmions in an orientationally chiral system**|Jiahao Chen et.al.|[2506.16781v1](http://arxiv.org/abs/2506.16781v1)|null|
+|**2025-06-20**|**Polar solitons in a nonpolar chiral soft matter system**|Jiahao Chen et.al.|[2506.16778v1](http://arxiv.org/abs/2506.16778v1)|null|
+|**2025-06-20**|**Measuring Cyclic Tensile Properties of Fluids with Composite Harmonic Exponential Waveforms (CHEW)**|L. A. Kroo et.al.|[2506.16747v1](http://arxiv.org/abs/2506.16747v1)|null|
+|**2025-06-20**|**Symmetry-breaking motility of an active hinge in a crowded channel**|Leonardo Garibaldi Rigon et.al.|[2506.16722v1](http://arxiv.org/abs/2506.16722v1)|null|
+|**2025-06-20**|**Rotating Quantum Droplets in Low Dimensions**|Kevin Hernández et.al.|[2506.16719v1](http://arxiv.org/abs/2506.16719v1)|null|
+|**2025-06-20**|**A unifying perspective on measuring transient planar extensional viscosity from exponential shear**|L. A. Kroo et.al.|[2506.16667v1](http://arxiv.org/abs/2506.16667v1)|null|
+|**2025-06-19**|**Observation of a spin-textured nematic Kondo lattice**|Yu-Xiao Jiang et.al.|[2506.16642v1](http://arxiv.org/abs/2506.16642v1)|null|
+|**2025-06-19**|**Flat Midgap Topological Surface and Hypersurface Bands without Parameter Tuning**|Keun Hyuk Ahn et.al.|[2506.16554v1](http://arxiv.org/abs/2506.16554v1)|null|
+|**2025-06-19**|**Update of Hartree--Fock theory for Hubbard-like models**|E. Langmann et.al.|[2506.16525v1](http://arxiv.org/abs/2506.16525v1)|null|
+|**2025-06-19**|**Thin active nematohydrodynamic layers: asymptotic theories and instabilities**|Mehrana R. Nejad et.al.|[2506.16523v1](http://arxiv.org/abs/2506.16523v1)|null|
+|**2025-06-19**|**Ultrastable jammed sphere packings with a wide range of particle dispersities**|Robert S. Hoy et.al.|[2506.16521v1](http://arxiv.org/abs/2506.16521v1)|null|
+|**2025-06-19**|**Lattice-dependent orientational order in active crystals**|Till Welker et.al.|[2506.16501v1](http://arxiv.org/abs/2506.16501v1)|null|
+|**2025-06-19**|**Nucleation and propagation of fracture in viscoelastic elastomers: A complete phase-field theory**|Farhad Kamarei et.al.|[2506.16479v1](http://arxiv.org/abs/2506.16479v1)|null|
+|**2025-06-19**|**Jamming as a topological satisfiability transition with contact number hyperuniformity and criticality**|Jin Shang et.al.|[2506.16474v1](http://arxiv.org/abs/2506.16474v1)|null|
 |**2025-06-18**|**Machine learning based prediction of dynamical clustering in granular gases**|Sai Preetham Sata et.al.|[2506.15657v1](http://arxiv.org/abs/2506.15657v1)|null|
 |**2025-06-18**|**Determining the chemical potential via universal density functional learning**|Florian Sammüller et.al.|[2506.15608v1](http://arxiv.org/abs/2506.15608v1)|**[link](https://github.com/sfalmo/neural-mu)**|
 |**2025-06-18**|**Learning to flock in open space by avoiding collisions and staying together**|Martino Brambati et.al.|[2506.15587v1](http://arxiv.org/abs/2506.15587v1)|null|
@@ -9869,6 +9889,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Nanosculpted 3D helices of a magnetic Weyl semimetal with switchable nonreciprocity**|Max T. Birch et.al.|[2506.17023v1](http://arxiv.org/abs/2506.17023v1)|null|
 |**2025-06-17**|**Signature of current-induced nuclear spin polarization in (Bi $_{1-x}$Sb$_{x}$)$_2$Te$_3$**|Sofie Kölling et.al.|[2506.14481v1](http://arxiv.org/abs/2506.14481v1)|null|
 |**2025-06-16**|**Emergence of Chern metal in a moiré Kondo lattice**|Wenjin Zhao et.al.|[2506.14063v1](http://arxiv.org/abs/2506.14063v1)|null|
 |**2025-06-12**|**Deterministic Switching of the Néel Vector by Asymmetric Spin Torque**|Shui-Sen Zhang et.al.|[2506.10786v1](http://arxiv.org/abs/2506.10786v1)|null|
@@ -10176,6 +10197,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**Superconductivity in a Chern band: effect of time-reversal-symmetry breaking on superconductivity**|Bernhard E. Lüscher et.al.|[2506.16508v1](http://arxiv.org/abs/2506.16508v1)|null|
+|**2025-06-19**|**Pseudo anomalous Hall effect in semiconductors and semimetals: A classical perspective**|Akiyoshi Yamada et.al.|[2506.16137v1](http://arxiv.org/abs/2506.16137v1)|null|
 |**2025-06-18**|**Intertwined magnetic phase driven exchange bias and its impact on the anomalous Hall effect in MnBi $_4$Te$_7$**|Nazma Firdosh et.al.|[2506.15540v1](http://arxiv.org/abs/2506.15540v1)|null|
 |**2025-06-12**|**Apparent inconsistency between Streda formula and Hall conductivity in reentrant integer quantum anomalous Hall effect in twisted MoTe $_2$**|Yi Huang et.al.|[2506.10965v1](http://arxiv.org/abs/2506.10965v1)|null|
 |**2025-06-12**|**From Fractionalization to Chiral Topological Superconductivity in Flat Chern Band**|Daniele Guerci et.al.|[2506.10938v1](http://arxiv.org/abs/2506.10938v1)|null|
@@ -10699,6 +10722,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**Quantum disordered ground state and relative proximity to an exactly solvable model in the frustrated magnet CeMgAl $_{11}$O$_{19}$**|G. Bastien et.al.|[2506.16207v1](http://arxiv.org/abs/2506.16207v1)|null|
 |**2025-06-18**|**Unconventional Spin Dynamics and Supersolid Excitations in the Triangular-Lattice XXZ Model**|Rafael Flores-Calderón et.al.|[2506.15516v1](http://arxiv.org/abs/2506.15516v1)|null|
 |**2025-06-11**|**Magnetic excitations and exchange parameters of a nickel chain compound PbMn $_2$Ni$_6$Te$_3$O$_{18}$ : Neutron scattering and density functional theory studies**|S. Uthayakumar et.al.|[2506.09861v1](http://arxiv.org/abs/2506.09861v1)|null|
 |**2025-06-09**|**Interacting Dirac magnons in honeycomb ferromagnets CrBr $_3$**|Saikat Banerjee et.al.|[2506.07650v1](http://arxiv.org/abs/2506.07650v1)|null|
