@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Chelation of the mercury ions by polyethyleneimine: Atomistic molecular dynamics study**|Halyna Butovych et.al.|[2506.18835v1](http://arxiv.org/abs/2506.18835v1)|null|
+|**2025-06-23**|**Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins**|Anton Klimek et.al.|[2506.18823v1](http://arxiv.org/abs/2506.18823v1)|null|
+|**2025-06-23**|**Role of bubble positioning in force induced melting of DNA**|Bidisha Mukherjee et.al.|[2506.18821v1](http://arxiv.org/abs/2506.18821v1)|null|
+|**2025-06-23**|**To Flow or Not To Flow? The granular Bond number to predict clogging in low gravity**|Oliver Gaida et.al.|[2506.18771v1](http://arxiv.org/abs/2506.18771v1)|null|
+|**2025-06-23**|**Challenges and opportunities in piezoelectric polymers: Effect of oriented amorphous fraction in ferroelectric semicrystalline polymers**|Guanchun Rui et.al.|[2506.18722v1](http://arxiv.org/abs/2506.18722v1)|null|
+|**2025-06-23**|**Wetting and Pattern Formation in Non-Reciprocal Ternary Phase Separation**|Xiao Ma et.al.|[2506.18702v1](http://arxiv.org/abs/2506.18702v1)|null|
+|**2025-06-23**|**Topologically protected edge oscillations in nonlinear dynamical units**|Sayantan Nag Chowdhury et.al.|[2506.18699v1](http://arxiv.org/abs/2506.18699v1)|null|
+|**2025-06-23**|**Shaping Boundaries to Control and Transport Topological Defects in Colloidal Nematic Liquid Crystals**|Gerardo Campos-Villalobos et.al.|[2506.18664v1](http://arxiv.org/abs/2506.18664v1)|null|
+|**2025-06-23**|**General theory of perturbation of infinite resistor networks**|József Cserti et.al.|[2506.18654v1](http://arxiv.org/abs/2506.18654v1)|null|
+|**2025-06-23**|**Nonequilibrium orders in parametrically driven field theories**|Carl Philipp Zelle et.al.|[2506.18622v1](http://arxiv.org/abs/2506.18622v1)|null|
+|**2025-06-23**|**Electromagnetic Proximity Effect: Superconducting Magnonics and Beyond**|Tao Yu et.al.|[2506.18502v1](http://arxiv.org/abs/2506.18502v1)|null|
+|**2025-06-23**|**Probing universal phase diagram of dimensional crossover with an atomic quantum simulator**|Jinyuan Tian et.al.|[2506.18464v1](http://arxiv.org/abs/2506.18464v1)|null|
+|**2025-06-23**|**Boltzmann-Ginzburg-Landau theory for autochemotaxis of active rod-like particles**|Shun Sakurai et.al.|[2506.18263v1](http://arxiv.org/abs/2506.18263v1)|null|
+|**2025-06-22**|**Corner Topology Makes Woven Baskets into Stiff, yet Resilient Metamaterials**|Guowei Wayne Tu et.al.|[2506.18197v1](http://arxiv.org/abs/2506.18197v1)|null|
+|**2025-06-22**|**Quantifying Gibbs measures of disordered crystals up to the solid-liquid phase transition**|Vladislav Efremkin et.al.|[2506.18190v1](http://arxiv.org/abs/2506.18190v1)|null|
+|**2025-06-22**|**An Extended Model of Fractional-Dimensional Space for Anisotropic Solids with Deformed Derivatives**|José Weberszpil et.al.|[2506.18127v1](http://arxiv.org/abs/2506.18127v1)|null|
+|**2025-06-22**|**Size distribution of decaying foam bubbles**|Ildoo Kim et.al.|[2506.18049v1](http://arxiv.org/abs/2506.18049v1)|null|
+|**2025-06-22**|**Mechanical inhibition of dissipation in a thermodynamically consistent active solid**|Luca Cocconi et.al.|[2506.18000v1](http://arxiv.org/abs/2506.18000v1)|null|
+|**2025-06-22**|**Basal layer of granular flow down smooth and rough inclines: kinematics, slip laws and rheology**|Teng Wang et.al.|[2506.17920v1](http://arxiv.org/abs/2506.17920v1)|null|
+|**2025-06-22**|**A continuous damage accumulation scenario for elastomeric frictional wear**|Ombeline Taisne et.al.|[2506.17860v1](http://arxiv.org/abs/2506.17860v1)|null|
 |**2025-06-20**|**Cascade at local yield strain for silica and metallic glass**|Nandlal Pingua et.al.|[2506.17129v1](http://arxiv.org/abs/2506.17129v1)|null|
 |**2025-06-20**|**Instabilities in Colloidal Crystals on Fluid Membranes**|Sanjay Dharmavaram et.al.|[2506.17098v1](http://arxiv.org/abs/2506.17098v1)|null|
 |**2025-06-20**|**Two dimensional sub-wavelength topological dark state lattices**|Domantas Burba et.al.|[2506.17096v1](http://arxiv.org/abs/2506.17096v1)|null|
@@ -9409,6 +9429,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**New modeling of the stray light noise in the main arms of the Einstein Telescope**|M. Andrés-Carcasona et.al.|[2506.18083v1](http://arxiv.org/abs/2506.18083v1)|null|
 |**2025-06-16**|**Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting**|Tianwei Ouyang et.al.|[2506.13696v1](http://arxiv.org/abs/2506.13696v1)|null|
 |**2025-06-18**|**Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures**|Even Chiari et.al.|[2506.12504v2](http://arxiv.org/abs/2506.12504v2)|null|
 |**2025-06-16**|**Exploring light-induced phases of 2D materials in a modulated 1D quasicrystal**|Yifei Bai et.al.|[2506.11984v2](http://arxiv.org/abs/2506.11984v2)|null|
@@ -10201,6 +10222,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Finite-momentum superconductivity from chiral bands in twisted MoTe $_2$**|Yinqi Chen et.al.|[2506.18886v1](http://arxiv.org/abs/2506.18886v1)|null|
+|**2025-06-23**|**Intercalation-Altermagnet-Driven Ferrimagnetic-Ferroelastic Multiferroics and Anomalous and Spin Transport**|Long Zhang et.al.|[2506.18531v1](http://arxiv.org/abs/2506.18531v1)|null|
+|**2025-06-22**|**Pairing-induced Momentum-space Magnetism and Its Implication In Optical Anomalous Hall Effect In Chiral Superconductors**|Bin Geng et.al.|[2506.18005v1](http://arxiv.org/abs/2506.18005v1)|null|
 |**2025-06-19**|**Superconductivity in a Chern band: effect of time-reversal-symmetry breaking on superconductivity**|Bernhard E. Lüscher et.al.|[2506.16508v1](http://arxiv.org/abs/2506.16508v1)|null|
 |**2025-06-19**|**Pseudo anomalous Hall effect in semiconductors and semimetals: A classical perspective**|Akiyoshi Yamada et.al.|[2506.16137v1](http://arxiv.org/abs/2506.16137v1)|null|
 |**2025-06-18**|**Intertwined magnetic phase driven exchange bias and its impact on the anomalous Hall effect in MnBi $_4$Te$_7$**|Nazma Firdosh et.al.|[2506.15540v1](http://arxiv.org/abs/2506.15540v1)|null|
@@ -10726,6 +10750,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Quantum critical dynamical response of the twisted Kitaev spin chain**|Uliana E. Khodaeva et.al.|[2506.18766v1](http://arxiv.org/abs/2506.18766v1)|null|
+|**2025-06-23**|**TasVisAn and InsPy -- Python Packages for Triple-Axis Spectrometer Data Visualization, Analysis, Instrument Resolution Calculation, and Convolution**|Guochu Deng et.al.|[2506.18216v1](http://arxiv.org/abs/2506.18216v1)|null|
 |**2025-06-19**|**Quantum disordered ground state and relative proximity to an exactly solvable model in the frustrated magnet CeMgAl $_{11}$O$_{19}$**|G. Bastien et.al.|[2506.16207v1](http://arxiv.org/abs/2506.16207v1)|null|
 |**2025-06-18**|**Unconventional Spin Dynamics and Supersolid Excitations in the Triangular-Lattice XXZ Model**|Rafael Flores-Calderón et.al.|[2506.15516v1](http://arxiv.org/abs/2506.15516v1)|null|
 |**2025-06-11**|**Magnetic excitations and exchange parameters of a nickel chain compound PbMn $_2$Ni$_6$Te$_3$O$_{18}$ : Neutron scattering and density functional theory studies**|S. Uthayakumar et.al.|[2506.09861v1](http://arxiv.org/abs/2506.09861v1)|null|
