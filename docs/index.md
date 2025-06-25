@@ -1102,6 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Self-assembled clusters of mutually repelling particles in confinement**|P. D. S. de Lima et.al.|[2506.19772v1](http://arxiv.org/abs/2506.19772v1)|null|
+|**2025-06-24**|**Orbital FFLO and layer-selective FFLO phases in trilayer NbSe $_2$**|Michiya Chazono et.al.|[2506.19706v1](http://arxiv.org/abs/2506.19706v1)|null|
+|**2025-06-24**|**Elastic heterogeneity governs anomalous scaling in a soft porous crystal**|Kota Mitsumoto et.al.|[2506.19546v1](http://arxiv.org/abs/2506.19546v1)|null|
+|**2025-06-24**|**Towards a two-scale model for morphogenesis -- How cellular processes influence tissue deformations**|Lea Happel et.al.|[2506.19475v1](http://arxiv.org/abs/2506.19475v1)|null|
+|**2025-06-24**|**Interior structure of the holographic s + p superconductor and chaotic-stable transition near the black hole singularity**|Xing-Kun Zhang et.al.|[2506.19419v1](http://arxiv.org/abs/2506.19419v1)|null|
+|**2025-06-24**|**Quantum simulation of thermodynamics: Maxwell relations for pair correlations**|F. Rist et.al.|[2506.19407v1](http://arxiv.org/abs/2506.19407v1)|null|
+|**2025-06-24**|**Simulation of Flagellated Bacteria Near a Solid Surface: Effects of Flagellar Morphology and Ionic Strength**|Baopi Liu et.al.|[2506.19271v1](http://arxiv.org/abs/2506.19271v1)|null|
+|**2025-06-23**|**Entropy from scattering in weakly interacting systems**|Duncan MacIntyre et.al.|[2506.19127v1](http://arxiv.org/abs/2506.19127v1)|null|
+|**2025-06-23**|**Emergent collective dynamics from motile photokinetic organisms**|J. Morales et.al.|[2506.19081v1](http://arxiv.org/abs/2506.19081v1)|null|
+|**2025-06-23**|**Discovery of magnon self-interaction in a strongly driven antiferromagnet**|David Rohrbach et.al.|[2506.19040v1](http://arxiv.org/abs/2506.19040v1)|null|
+|**2025-06-23**|**Dynamics of Phase-Separated Interfaces in Inhomogenous and Driven Mixtures**|Jacopo Romano et.al.|[2506.19029v1](http://arxiv.org/abs/2506.19029v1)|null|
 |**2025-06-23**|**Chelation of the mercury ions by polyethyleneimine: Atomistic molecular dynamics study**|Halyna Butovych et.al.|[2506.18835v1](http://arxiv.org/abs/2506.18835v1)|null|
 |**2025-06-23**|**Hierarchical friction memory leads to subdiffusive configurational dynamics of fast-folding proteins**|Anton Klimek et.al.|[2506.18823v1](http://arxiv.org/abs/2506.18823v1)|null|
 |**2025-06-23**|**Role of bubble positioning in force induced melting of DNA**|Bidisha Mukherjee et.al.|[2506.18821v1](http://arxiv.org/abs/2506.18821v1)|null|
@@ -9429,6 +9440,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Emergent collective dynamics from motile photokinetic organisms**|J. Morales et.al.|[2506.19081v1](http://arxiv.org/abs/2506.19081v1)|null|
 |**2025-06-22**|**New modeling of the stray light noise in the main arms of the Einstein Telescope**|M. Andrés-Carcasona et.al.|[2506.18083v1](http://arxiv.org/abs/2506.18083v1)|null|
 |**2025-06-16**|**Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting**|Tianwei Ouyang et.al.|[2506.13696v1](http://arxiv.org/abs/2506.13696v1)|null|
 |**2025-06-18**|**Ab Initio Polaritonic Chemistry on Diverse Quantum Computing Platforms: Qubit, Qudit, and Hybrid Qubit-Qumode Architectures**|Even Chiari et.al.|[2506.12504v2](http://arxiv.org/abs/2506.12504v2)|null|
