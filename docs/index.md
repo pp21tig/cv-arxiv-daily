@@ -1102,6 +1102,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Tunable lower critical fractal dimension for a non-equilibrium phase transition**|Mattheus Burkhard et.al.|[2506.20617v1](http://arxiv.org/abs/2506.20617v1)|null|
+|**2025-06-25**|**Depinning and activated motion of chiral self-propelled robots**|Juan Pablo Carrillo-Mora et.al.|[2506.20610v1](http://arxiv.org/abs/2506.20610v1)|null|
+|**2025-06-25**|**On the temperature of an active nematic**|Jay Armas et.al.|[2506.20602v1](http://arxiv.org/abs/2506.20602v1)|null|
+|**2025-06-25**|**Symmetry-Checking in Band Structure Calculations on a Noisy Quantum Computer**|Shaobo Zhang et.al.|[2506.20483v1](http://arxiv.org/abs/2506.20483v1)|null|
+|**2025-06-25**|**Phonon spectra and vibrational heat capacity of quasi-one-dimensional structures formed by rare gas atoms on the surface of carbon nanotube bundles**|E. V. Manzhelii et.al.|[2506.20460v1](http://arxiv.org/abs/2506.20460v1)|null|
+|**2025-06-25**|**Shape-determined kinetic pathways in two-dimensional solid-solid phase transitions**|Ruijian Zhu et.al.|[2506.20423v1](http://arxiv.org/abs/2506.20423v1)|null|
+|**2025-06-25**|**Controlling Casimir Effect in Networks**|Tian-Ming Zhao et.al.|[2506.20405v1](http://arxiv.org/abs/2506.20405v1)|null|
+|**2025-06-25**|**Equilibrium Propagation for Periodic Dynamics**|Marc Berneman et.al.|[2506.20402v1](http://arxiv.org/abs/2506.20402v1)|null|
+|**2025-06-25**|**Anomalous Bulk Current in Quantum Hall Systems with an Expanding Edge**|Yuuki Sugiyama et.al.|[2506.20338v1](http://arxiv.org/abs/2506.20338v1)|null|
+|**2025-06-25**|**Thermal transport characteristics of impinging ferrofluid droplets in the presence of a magnetic field**|Ram Krishna Shah et.al.|[2506.20284v1](http://arxiv.org/abs/2506.20284v1)|null|
+|**2025-06-25**|**Crystallization of Chiral Active Brownian Particles at Low Densities**|Kangeun Jeong et.al.|[2506.20230v1](http://arxiv.org/abs/2506.20230v1)|null|
+|**2025-06-25**|**Majorana zero modes are the edge modes?**|Vijay Pathak et.al.|[2506.20182v1](http://arxiv.org/abs/2506.20182v1)|null|
+|**2025-06-25**|**Strong thermoelectric response of nanoconfined weak electrolytes**|Rajkumar Sarma et.al.|[2506.20149v1](http://arxiv.org/abs/2506.20149v1)|null|
+|**2025-06-25**|**Static friction of liquid marbles**|Yui Takai et.al.|[2506.20116v1](http://arxiv.org/abs/2506.20116v1)|null|
+|**2025-06-24**|**Realization of pure gyration in an on-chip superconducting microwave device**|Zhiyin Tu et.al.|[2506.19912v1](http://arxiv.org/abs/2506.19912v1)|null|
 |**2025-06-24**|**Self-assembled clusters of mutually repelling particles in confinement**|P. D. S. de Lima et.al.|[2506.19772v1](http://arxiv.org/abs/2506.19772v1)|null|
 |**2025-06-24**|**Orbital FFLO and layer-selective FFLO phases in trilayer NbSe $_2$**|Michiya Chazono et.al.|[2506.19706v1](http://arxiv.org/abs/2506.19706v1)|null|
 |**2025-06-24**|**Elastic heterogeneity governs anomalous scaling in a soft porous crystal**|Kota Mitsumoto et.al.|[2506.19546v1](http://arxiv.org/abs/2506.19546v1)|null|
@@ -9926,6 +9941,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Staggered nonlinear spin generations in centrosymmetric altermagnets under electric current**|Jie Zhang et.al.|[2506.20298v1](http://arxiv.org/abs/2506.20298v1)|null|
 |**2025-06-20**|**Nanosculpted 3D helices of a magnetic Weyl semimetal with switchable nonreciprocity**|Max T. Birch et.al.|[2506.17023v1](http://arxiv.org/abs/2506.17023v1)|null|
 |**2025-06-17**|**Signature of current-induced nuclear spin polarization in (Bi $_{1-x}$Sb$_{x}$)$_2$Te$_3$**|Sofie Kölling et.al.|[2506.14481v1](http://arxiv.org/abs/2506.14481v1)|null|
 |**2025-06-16**|**Emergence of Chern metal in a moiré Kondo lattice**|Wenjin Zhao et.al.|[2506.14063v1](http://arxiv.org/abs/2506.14063v1)|null|
@@ -10234,6 +10250,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Interplay of magnetic ordering and charge transport in a distorted ScAl $_3$C$_3$-type GdZn$_3$As$_3$**|Zhiyu Zhou et.al.|[2506.20454v1](http://arxiv.org/abs/2506.20454v1)|null|
+|**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan et.al.|[2506.20180v1](http://arxiv.org/abs/2506.20180v1)|null|
 |**2025-06-23**|**Finite-momentum superconductivity from chiral bands in twisted MoTe $_2$**|Yinqi Chen et.al.|[2506.18886v1](http://arxiv.org/abs/2506.18886v1)|null|
 |**2025-06-23**|**Intercalation-Altermagnet-Driven Ferrimagnetic-Ferroelastic Multiferroics and Anomalous and Spin Transport**|Long Zhang et.al.|[2506.18531v1](http://arxiv.org/abs/2506.18531v1)|null|
 |**2025-06-22**|**Pairing-induced Momentum-space Magnetism and Its Implication In Optical Anomalous Hall Effect In Chiral Superconductors**|Bin Geng et.al.|[2506.18005v1](http://arxiv.org/abs/2506.18005v1)|null|
