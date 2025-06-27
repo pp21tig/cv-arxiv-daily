@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma et.al.|[2506.21534v1](http://arxiv.org/abs/2506.21534v1)|null|
+|**2025-06-26**|**Photocurrents induced by k-linear terms in semiconductors and semimetals**|M. M. Glazov et.al.|[2506.21450v1](http://arxiv.org/abs/2506.21450v1)|null|
+|**2025-06-26**|**Analytical Calculation of Viscosity in Rouse Networks Below Gelation Transition**|Bohan Lyu et.al.|[2506.21399v1](http://arxiv.org/abs/2506.21399v1)|null|
+|**2025-06-26**|**Interradical motion can push magnetosensing precision towards quantum limits**|Luke D. Smith et.al.|[2506.21389v1](http://arxiv.org/abs/2506.21389v1)|null|
+|**2025-06-26**|**Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations**|Parvez Khana et.al.|[2506.21339v1](http://arxiv.org/abs/2506.21339v1)|null|
+|**2025-06-26**|**Molecular motion at the experimental glass transition**|Romain Simon et.al.|[2506.21290v1](http://arxiv.org/abs/2506.21290v1)|null|
+|**2025-06-26**|**Crystallization of metallic glass as a grain-boundary nucleated process: experimental and theoretical evidence for the grain structure of metallic glasses**|Nikolay V. Alekseechkin et.al.|[2506.21261v1](http://arxiv.org/abs/2506.21261v1)|null|
+|**2025-06-26**|**Confined acoustic phonons in CsPbI3 nanocrystals explored by resonant Raman scattering on excitons**|Carolin Harkort et.al.|[2506.21194v1](http://arxiv.org/abs/2506.21194v1)|null|
+|**2025-06-26**|**Microphase Separation Controls the Dynamics of Associative Vitrimers**|Rahul Karmakar et.al.|[2506.21066v1](http://arxiv.org/abs/2506.21066v1)|null|
+|**2025-06-26**|**Modeling active nematics via the nematic locking principle**|Kevin A. Mitchell et.al.|[2506.20996v1](http://arxiv.org/abs/2506.20996v1)|null|
+|**2025-06-26**|**Electric field-induced clustering in nanocomposite films of highly polarizable inclusions**|Elshad Allahyarov et.al.|[2506.20903v1](http://arxiv.org/abs/2506.20903v1)|null|
+|**2025-06-26**|**Confusion-driven machine learning of structural phases of a flexible, magnetic Stockmayer polymer**|Dilina Perera et.al.|[2506.20899v1](http://arxiv.org/abs/2506.20899v1)|null|
+|**2025-06-25**|**From the dynamic to the static glass transition via hypersonic measurements using Brillouin spectroscopy**|Jan-Kristian Krüger et.al.|[2506.20808v1](http://arxiv.org/abs/2506.20808v1)|null|
+|**2025-06-25**|**Pull-off strength of mushroom-shaped fibrils adhered to rigid substrates**|C. Betegón et.al.|[2506.20745v1](http://arxiv.org/abs/2506.20745v1)|null|
+|**2025-06-25**|**Symmetry Classification of Magnetic Orders and Emergence of Spin-Orbit Magnetism**|Yuntian Liu et.al.|[2506.20739v1](http://arxiv.org/abs/2506.20739v1)|null|
 |**2025-06-25**|**Tunable lower critical fractal dimension for a non-equilibrium phase transition**|Mattheus Burkhard et.al.|[2506.20617v1](http://arxiv.org/abs/2506.20617v1)|null|
 |**2025-06-25**|**Depinning and activated motion of chiral self-propelled robots**|Juan Pablo Carrillo-Mora et.al.|[2506.20610v1](http://arxiv.org/abs/2506.20610v1)|null|
 |**2025-06-25**|**On the temperature of an active nematic**|Jay Armas et.al.|[2506.20602v1](http://arxiv.org/abs/2506.20602v1)|null|
@@ -10246,6 +10261,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Ultrahigh Anomalous Nernst Thermopower and Thermal Hall Angle in YbMnBi2**|Jiamin Wen et.al.|[2506.20721v1](http://arxiv.org/abs/2506.20721v1)|null|
+|**2025-06-25**|**Relativistic spin hydrodynamics with antisymmetric spin tensors and an extension of the Bargmann-Michel-Telegdi equation**|Shuo Fang et.al.|[2506.20698v1](http://arxiv.org/abs/2506.20698v1)|null|
 |**2025-06-25**|**Interplay of magnetic ordering and charge transport in a distorted ScAl $_3$C$_3$-type GdZn$_3$As$_3$**|Zhiyu Zhou et.al.|[2506.20454v1](http://arxiv.org/abs/2506.20454v1)|null|
 |**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan et.al.|[2506.20180v1](http://arxiv.org/abs/2506.20180v1)|null|
 |**2025-06-23**|**Finite-momentum superconductivity from chiral bands in twisted MoTe $_2$**|Yinqi Chen et.al.|[2506.18886v1](http://arxiv.org/abs/2506.18886v1)|null|
