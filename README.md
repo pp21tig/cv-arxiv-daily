@@ -1098,6 +1098,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
+|**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424v1](http://arxiv.org/abs/2506.22424v1)|null|
+|**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto et.al.|[2506.22369v1](http://arxiv.org/abs/2506.22369v1)|null|
+|**2025-06-27**|**Entropy of self-avoiding branching polymers: mean field theory and Monte Carlo simulations**|Davide Marcato et.al.|[2506.22315v1](http://arxiv.org/abs/2506.22315v1)|null|
+|**2025-06-27**|**Ultra-small Mode Volume Polariton Condensation via Precision $He^+$ Ion Implantation**|Y. C. Balas et.al.|[2506.22202v1](http://arxiv.org/abs/2506.22202v1)|null|
+|**2025-06-27**|**Code CFTs and Topological Matter**|E. H Saidi et.al.|[2506.22088v1](http://arxiv.org/abs/2506.22088v1)|null|
+|**2025-06-27**|**Magneto-Thomson and transverse Thomson effects in an interacting hadron gas in the presence of an external magnetic field**|Kamaljeet Singh et.al.|[2506.22086v1](http://arxiv.org/abs/2506.22086v1)|null|
+|**2025-06-27**|**Flocking with random non-reciprocal interactions**|Jiwon Choi et.al.|[2506.22060v1](http://arxiv.org/abs/2506.22060v1)|null|
+|**2025-06-27**|**First-order nuclear dipolar order in rotating solids**|Kohei Suzuki et.al.|[2506.21916v1](http://arxiv.org/abs/2506.21916v1)|null|
+|**2025-06-26**|**Hydrodynamic Origin of Friction Between Suspended Rough Particles**|Jake Minten et.al.|[2506.21799v1](http://arxiv.org/abs/2506.21799v1)|null|
+|**2025-06-26**|**Droplet growth, Ostwald's rule, and emergence of order in Fused in Sarcoma**|Farkhad Maksudov et.al.|[2506.21792v1](http://arxiv.org/abs/2506.21792v1)|null|
 |**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma et.al.|[2506.21534v1](http://arxiv.org/abs/2506.21534v1)|null|
 |**2025-06-26**|**Photocurrents induced by k-linear terms in semiconductors and semimetals**|M. M. Glazov et.al.|[2506.21450v1](http://arxiv.org/abs/2506.21450v1)|null|
 |**2025-06-26**|**Analytical Calculation of Viscosity in Rouse Networks Below Gelation Transition**|Bohan Lyu et.al.|[2506.21399v1](http://arxiv.org/abs/2506.21399v1)|null|
@@ -10261,6 +10272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Code CFTs and Topological Matter**|E. H Saidi et.al.|[2506.22088v1](http://arxiv.org/abs/2506.22088v1)|null|
 |**2025-06-25**|**Ultrahigh Anomalous Nernst Thermopower and Thermal Hall Angle in YbMnBi2**|Jiamin Wen et.al.|[2506.20721v1](http://arxiv.org/abs/2506.20721v1)|null|
 |**2025-06-25**|**Relativistic spin hydrodynamics with antisymmetric spin tensors and an extension of the Bargmann-Michel-Telegdi equation**|Shuo Fang et.al.|[2506.20698v1](http://arxiv.org/abs/2506.20698v1)|null|
 |**2025-06-25**|**Interplay of magnetic ordering and charge transport in a distorted ScAl $_3$C$_3$-type GdZn$_3$As$_3$**|Zhiyu Zhou et.al.|[2506.20454v1](http://arxiv.org/abs/2506.20454v1)|null|
