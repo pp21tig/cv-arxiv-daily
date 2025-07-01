@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Approximate half-integer quantization in anomalous planar transport in $d$ -wave altermagnets**|Srimayi Korrapati et.al.|[2506.24122v1](http://arxiv.org/abs/2506.24122v1)|null|
+|**2025-06-30**|**Dissipation Pathways in a Photosynthetic Complex**|Ignacio Gustin et.al.|[2506.24075v1](http://arxiv.org/abs/2506.24075v1)|null|
+|**2025-06-30**|**DNA Unzipping Transition**|Somendra M. Bhattacharjee et.al.|[2506.24064v1](http://arxiv.org/abs/2506.24064v1)|null|
+|**2025-06-30**|**Dynamical Heterogeneity in Supercooled Water and its Spectroscopic Fingerprints**|Cesare Malosso et.al.|[2506.24055v1](http://arxiv.org/abs/2506.24055v1)|null|
+|**2025-06-30**|**Deconstructing the Origins of Interfacial Catalysis: Why Electric Fields are Inseparable from Solvation**|Solana Di Pino et.al.|[2506.23988v1](http://arxiv.org/abs/2506.23988v1)|null|
+|**2025-06-30**|**Thermodynamics of Hard Sphere and Spherocylinder Mixtures -- Scaled Particle Theory and Monte Carlo Simulations**|Volodymyr Shmotolokha et.al.|[2506.23922v1](http://arxiv.org/abs/2506.23922v1)|null|
+|**2025-06-30**|**Decoding Noise in Nanofluidic Systems: Adsorption versus Diffusion Signatures in Power Spectra**|Anna Drummond Young et.al.|[2506.23867v1](http://arxiv.org/abs/2506.23867v1)|null|
+|**2025-06-30**|**First observation of quantum oscillations by transport measurements in semi-destructive pulsed magnetic fields up to 125 T**|M. Massoudzadegan et.al.|[2506.23779v1](http://arxiv.org/abs/2506.23779v1)|null|
+|**2025-06-30**|**A Rigorous Foundation for Stochastic Thermodynamics via the Microcanonical Ensemble**|Xiangjun Xing et.al.|[2506.23604v1](http://arxiv.org/abs/2506.23604v1)|null|
+|**2025-06-30**|**Multiple Photon Field-induced Topological States in Bulk HgTe**|Dongbin Shin et.al.|[2506.23494v1](http://arxiv.org/abs/2506.23494v1)|null|
+|**2025-06-29**|**Tension-Induced Soft Stress and Viscoelastic Bending in Liquid Crystal Elastomers for Enhanced Energy Dissipation**|Beijun Shen et.al.|[2506.23360v1](http://arxiv.org/abs/2506.23360v1)|null|
+|**2025-06-29**|**Trotterization, Operator Scrambling, and Entanglement**|Tianfeng Feng et.al.|[2506.23345v1](http://arxiv.org/abs/2506.23345v1)|null|
+|**2025-06-29**|**Helically twisted spacetime: study of geometric and wave optics, and physical analysis**|Edilberto O. Silva et.al.|[2506.23291v1](http://arxiv.org/abs/2506.23291v1)|null|
+|**2025-06-29**|**Quantitative electron beam-single atom interactions enabled by sub-20-pm precision targeting**|Kevin M. Roccapriore et.al.|[2506.23255v1](http://arxiv.org/abs/2506.23255v1)|null|
+|**2025-06-29**|**Energetic variational modeling of active nematics: coupling the Toner-Tu model with ATP hydrolysis**|Yiwei Wang et.al.|[2506.23043v1](http://arxiv.org/abs/2506.23043v1)|null|
+|**2025-06-28**|**Generating Moving Field Initial Conditions with Spatially Varying Boost**|Siyang Ling et.al.|[2506.23020v1](http://arxiv.org/abs/2506.23020v1)|null|
+|**2025-06-28**|**Gigantic Harmonic Generation in Néel-Torque Antiferromagnetic Resonance**|Kuangyin Deng et.al.|[2506.22974v1](http://arxiv.org/abs/2506.22974v1)|null|
+|**2025-06-28**|**Actively induced supercoiling can slow down plasmid solutions by trapping the threading entanglements**|Roman Staňo et.al.|[2506.22842v1](http://arxiv.org/abs/2506.22842v1)|null|
+|**2025-06-28**|**The mechanics of disclination emergence in 3D active nematics**|Yingyou Ma et.al.|[2506.22785v1](http://arxiv.org/abs/2506.22785v1)|null|
+|**2025-06-28**|**Protein Drift-Diffusion in Membranes with Non-equilibrium Fluctuations arising from Gradients in Concentration or Temperature**|D. Jasuja et.al.|[2506.22695v1](http://arxiv.org/abs/2506.22695v1)|null|
 |**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
 |**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424v1](http://arxiv.org/abs/2506.22424v1)|null|
 |**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto et.al.|[2506.22369v1](http://arxiv.org/abs/2506.22369v1)|null|
