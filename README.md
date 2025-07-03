@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Photoelastic Grain Solver v2.0: An updated tool for analysis of force measurements in granular materials**|Carmen L. Lee et.al.|[2507.01933v1](http://arxiv.org/abs/2507.01933v1)|null|
+|**2025-07-02**|**Midveins regulate the shape formation of drying leaves**|Kexin Guo et.al.|[2507.01813v1](http://arxiv.org/abs/2507.01813v1)|null|
+|**2025-07-02**|**Electrostatics overcome acoustic collapse to assemble, adapt, and activate levitated matter**|Sue Shi et.al.|[2507.01739v1](http://arxiv.org/abs/2507.01739v1)|null|
+|**2025-07-02**|**More sophisticated is not always better: comparison of similarity measures for unsupervised learning of pathways in biomolecular simulations**|Miriam Jäger et.al.|[2507.01725v1](http://arxiv.org/abs/2507.01725v1)|null|
+|**2025-07-02**|**Phototactic Decision-Making by Micro-Algae**|Shantanu Raikwar et.al.|[2507.01684v1](http://arxiv.org/abs/2507.01684v1)|null|
+|**2025-07-02**|**Magnetism from Conductors, and Enhanced Non-Linear Phenomena**|JB Pendry et.al.|[2507.01680v1](http://arxiv.org/abs/2507.01680v1)|null|
+|**2025-07-02**|**Low-temperature anomalies in 1D hard rods with soft attractive nearest-neighbor interactions**|Igor Travěnec et.al.|[2507.01568v1](http://arxiv.org/abs/2507.01568v1)|null|
+|**2025-07-02**|**Prenematic Fluctuations in Nanoparticle-Hosted Systems**|Szymon Starzonek et.al.|[2507.01562v1](http://arxiv.org/abs/2507.01562v1)|null|
+|**2025-07-02**|**A reentrancy of motility-induced phase separation in overdamped active Brownian particles**|Hiroya Yamamoto et.al.|[2507.01553v1](http://arxiv.org/abs/2507.01553v1)|null|
+|**2025-07-02**|**The effect of doping layers position on the heterojunction sharpness in (In,Al)As/AlAs quantum dots**|T. S. Shamirzaev et.al.|[2507.01500v1](http://arxiv.org/abs/2507.01500v1)|null|
+|**2025-07-02**|**Observation of generic U(m) non-Abelian holonomy in photonics**|Youlve Chen et.al.|[2507.01394v1](http://arxiv.org/abs/2507.01394v1)|null|
+|**2025-07-02**|**Structure and flow of low-dimensional water**|Maxim Trushin et.al.|[2507.01301v1](http://arxiv.org/abs/2507.01301v1)|null|
+|**2025-07-02**|**TeO2-BaO-Bi2O3 tellurite optical glasses II. -- Linear and non-linear optical and magneto-optical properties**|Jan Hrabovský et.al.|[2507.01258v1](http://arxiv.org/abs/2507.01258v1)|null|
+|**2025-07-01**|**Scaling particle-size segregation in wide-ranging sheared granular flows**|Tianxiong Zhao et.al.|[2507.01248v1](http://arxiv.org/abs/2507.01248v1)|null|
+|**2025-07-01**|**Localized and quasi-localized energy levels in the electron spectrum of graphene with isolated boron and nitrogen substitutions**|S. B. Feodosyev et.al.|[2507.01135v1](http://arxiv.org/abs/2507.01135v1)|null|
+|**2025-07-01**|**Dynamic Models for Two Nonreciprocally Coupled Fields: A Microscopic Derivation for Zero, One, and Two Conservation Laws**|Kristian Blom et.al.|[2507.01105v1](http://arxiv.org/abs/2507.01105v1)|null|
+|**2025-07-01**|**Beyond von Mises Truss Models: Emergent Bistability in Mechanical Metamaterials**|Md Nahid Hasan et.al.|[2507.00996v1](http://arxiv.org/abs/2507.00996v1)|null|
+|**2025-07-01**|**Light-induced Pairing Instability of Ultrafast Electron Beams with Space Charge Interactions**|Hao Geng et.al.|[2507.00869v1](http://arxiv.org/abs/2507.00869v1)|null|
+|**2025-07-01**|**Equilibrium distribution of the liquid phase in an unsaturated granular material**|Lazar Loredana et.al.|[2507.00751v1](http://arxiv.org/abs/2507.00751v1)|null|
+|**2025-07-01**|**A fast algorithm for 2D Rigidity Percolation**|Nina Javerzat et.al.|[2507.00741v1](http://arxiv.org/abs/2507.00741v1)|null|
 |**2025-06-30**|**Approximate half-integer quantization in anomalous planar transport in $d$ -wave altermagnets**|Srimayi Korrapati et.al.|[2506.24122v1](http://arxiv.org/abs/2506.24122v1)|null|
 |**2025-06-30**|**Dissipation Pathways in a Photosynthetic Complex**|Ignacio Gustin et.al.|[2506.24075v1](http://arxiv.org/abs/2506.24075v1)|null|
 |**2025-06-30**|**DNA Unzipping Transition**|Somendra M. Bhattacharjee et.al.|[2506.24064v1](http://arxiv.org/abs/2506.24064v1)|null|
@@ -9497,6 +9517,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**Light-induced Pairing Instability of Ultrafast Electron Beams with Space Charge Interactions**|Hao Geng et.al.|[2507.00869v1](http://arxiv.org/abs/2507.00869v1)|null|
 |**2025-06-23**|**Emergent collective dynamics from motile photokinetic organisms**|J. Morales et.al.|[2506.19081v1](http://arxiv.org/abs/2506.19081v1)|null|
 |**2025-06-22**|**New modeling of the stray light noise in the main arms of the Einstein Telescope**|M. Andrés-Carcasona et.al.|[2506.18083v1](http://arxiv.org/abs/2506.18083v1)|null|
 |**2025-06-16**|**Photomagnetic-Chiral Anisotropy mediated by Chirality-Driven Asymmetric Spin Splitting**|Tianwei Ouyang et.al.|[2506.13696v1](http://arxiv.org/abs/2506.13696v1)|null|
@@ -10292,6 +10313,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems**|Katarzyna Gas et.al.|[2507.01385v1](http://arxiv.org/abs/2507.01385v1)|null|
 |**2025-06-27**|**Code CFTs and Topological Matter**|E. H Saidi et.al.|[2506.22088v1](http://arxiv.org/abs/2506.22088v1)|null|
 |**2025-06-25**|**Ultrahigh Anomalous Nernst Thermopower and Thermal Hall Angle in YbMnBi2**|Jiamin Wen et.al.|[2506.20721v1](http://arxiv.org/abs/2506.20721v1)|null|
 |**2025-06-25**|**Relativistic spin hydrodynamics with antisymmetric spin tensors and an extension of the Bargmann-Michel-Telegdi equation**|Shuo Fang et.al.|[2506.20698v1](http://arxiv.org/abs/2506.20698v1)|null|
@@ -10825,6 +10847,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Magnetic Ground State and Spin Excitations in the 2D Trimerized Collinear-II Lattice Antiferromagnet Li2Ni3P4O14**|K. S. Chikara et.al.|[2507.01403v1](http://arxiv.org/abs/2507.01403v1)|null|
 |**2025-06-23**|**Quantum critical dynamical response of the twisted Kitaev spin chain**|Uliana E. Khodaeva et.al.|[2506.18766v1](http://arxiv.org/abs/2506.18766v1)|null|
 |**2025-06-23**|**TasVisAn and InsPy -- Python Packages for Triple-Axis Spectrometer Data Visualization, Analysis, Instrument Resolution Calculation, and Convolution**|Guochu Deng et.al.|[2506.18216v1](http://arxiv.org/abs/2506.18216v1)|null|
 |**2025-06-19**|**Quantum disordered ground state and relative proximity to an exactly solvable model in the frustrated magnet CeMgAl $_{11}$O$_{19}$**|G. Bastien et.al.|[2506.16207v1](http://arxiv.org/abs/2506.16207v1)|null|
