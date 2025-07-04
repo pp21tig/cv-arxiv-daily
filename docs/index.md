@@ -1102,6 +1102,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**A finite element implementation of a large deformation gradient-damage theory for fracture with Abaqus user material subroutines**|Keven Alkhoury et.al.|[2507.02702v1](http://arxiv.org/abs/2507.02702v1)|null|
+|**2025-07-03**|**Radical scaling: beyond our feet and fingers**|Marc-Antoine Fardin et.al.|[2507.02631v1](http://arxiv.org/abs/2507.02631v1)|null|
+|**2025-07-03**|**A unifying approach to self-organizing systems interacting via conservation laws**|Frank Barrows et.al.|[2507.02575v1](http://arxiv.org/abs/2507.02575v1)|null|
+|**2025-07-03**|**Spatiotemporal hierarchy of thermal avalanches**|Vladimir Yu. Rudyak et.al.|[2507.02573v1](http://arxiv.org/abs/2507.02573v1)|null|
+|**2025-07-03**|**Synergistic Effects of Spin-Orbit Coupling and Intercomponent Interactions in Two-Component (2+1)D Photonic Fields**|Suri Deekshita et.al.|[2507.02505v1](http://arxiv.org/abs/2507.02505v1)|null|
+|**2025-07-03**|**Observation of terahertz spin-Hall magnetoresistance in insulating magnet YIG/Pt**|P. Kubaščík et.al.|[2507.02498v1](http://arxiv.org/abs/2507.02498v1)|null|
+|**2025-07-03**|**Dynamic Avalanches: Rate-Controlled Switching and Race Conditions**|Lishuai Jin et.al.|[2507.02387v1](http://arxiv.org/abs/2507.02387v1)|null|
+|**2025-07-03**|**A statistical theory for polymer elasticity: from molecular kinematics to continuum behavior**|Lin Zhan et.al.|[2507.02361v1](http://arxiv.org/abs/2507.02361v1)|null|
+|**2025-07-03**|**A semi-analytical solution for the lubrication force between two spheres approaching in viscoelastic fluids described by the Oldroyd-B model under small Deborah numbers**|Alan Rosales-Romero et.al.|[2507.02266v1](http://arxiv.org/abs/2507.02266v1)|null|
+|**2025-07-02**|**An alternative approach to the phonon theory of liquids: Evolution of the energy of diffusion**|M. Y. Esmer et.al.|[2507.02121v1](http://arxiv.org/abs/2507.02121v1)|null|
+|**2025-07-02**|**Applied Supersymmetry**|V. P. Berezovoj et.al.|[2507.02081v1](http://arxiv.org/abs/2507.02081v1)|null|
+|**2025-07-02**|**Topological Reality Switch: Towards Bulk-Boundary Selective Lasing**|Sayed Ali Akbar Ghorashi et.al.|[2507.02038v1](http://arxiv.org/abs/2507.02038v1)|null|
 |**2025-07-02**|**Photoelastic Grain Solver v2.0: An updated tool for analysis of force measurements in granular materials**|Carmen L. Lee et.al.|[2507.01933v1](http://arxiv.org/abs/2507.01933v1)|null|
 |**2025-07-02**|**Midveins regulate the shape formation of drying leaves**|Kexin Guo et.al.|[2507.01813v1](http://arxiv.org/abs/2507.01813v1)|null|
 |**2025-07-02**|**Electrostatics overcome acoustic collapse to assemble, adapt, and activate levitated matter**|Sue Shi et.al.|[2507.01739v1](http://arxiv.org/abs/2507.01739v1)|null|
