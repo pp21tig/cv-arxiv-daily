@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Stealthy-Hyperuniform Wave Dynamics in Two-Dimensional Photonic Crystals**|Maria Barsukova et.al.|[2507.05253v1](http://arxiv.org/abs/2507.05253v1)|null|
+|**2025-07-07**|**Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions**|Sumukh Vaidya et.al.|[2507.05133v1](http://arxiv.org/abs/2507.05133v1)|null|
+|**2025-07-07**|**The Hitchhiker's Guide to Differential Dynamic Microscopy**|Enrico Lattuada et.al.|[2507.05058v1](http://arxiv.org/abs/2507.05058v1)|null|
+|**2025-07-07**|**Moiré-assisted charge instability in ultrathin RuO $_2$**|Philipp Keßler et.al.|[2507.05047v1](http://arxiv.org/abs/2507.05047v1)|null|
+|**2025-07-07**|**Particle-scale origin of quadrupolar non-affine displacement fields in granular solids**|Evan P. Willmarth et.al.|[2507.05038v1](http://arxiv.org/abs/2507.05038v1)|null|
+|**2025-07-07**|**Stochastic size control of self-assembled filaments**|Maximilian C. Hübl et.al.|[2507.04985v1](http://arxiv.org/abs/2507.04985v1)|null|
+|**2025-07-07**|**Momentum transfer in the ponderomotive potential of near-infrared laser pulses leads to sizable energy shifts and electron-wavepacket squeezing in time-resolved ARPES**|Xinwei Zheng et.al.|[2507.04957v1](http://arxiv.org/abs/2507.04957v1)|null|
+|**2025-07-07**|**Spin-dependent routing of optical beams in the bulk of twisted anisotropic media**|Chandroth P. Jisha et.al.|[2507.04934v1](http://arxiv.org/abs/2507.04934v1)|null|
+|**2025-07-07**|**Computing dielectric spectra in molecular dynamics simulations: using a cavity to disentangle self and cross correlations**|Marceau Hénot et.al.|[2507.04908v1](http://arxiv.org/abs/2507.04908v1)|null|
+|**2025-07-07**|**Quantum transport in nitrogen-doped nanoporous graphenes**|Gaetano Calogero et.al.|[2507.04892v1](http://arxiv.org/abs/2507.04892v1)|null|
+|**2025-07-07**|**Ultrafast non-equilibrium magnon generation and collapse of spin-orbit hybridization gaps in iron**|Xinwei Zheng et.al.|[2507.04875v1](http://arxiv.org/abs/2507.04875v1)|null|
+|**2025-07-07**|**Particle-Based Framework for Continuous Fields of Coupled Phase Oscillators: Exploring Spontaneous Local Synchronization**|Hugues Berry et.al.|[2507.04732v1](http://arxiv.org/abs/2507.04732v1)|null|
+|**2025-07-07**|**Scaling laws for doublet craters formed by low-velocity impacts of unequal-mass spheres into a granular bed**|Haruto Kitagawa et.al.|[2507.04593v1](http://arxiv.org/abs/2507.04593v1)|null|
+|**2025-07-06**|**New Molecular Dynamics Methods for Simulating Neutron Star Crusts with Superfluid Vortices**|M. E. Caplan et.al.|[2507.04527v1](http://arxiv.org/abs/2507.04527v1)|null|
+|**2025-07-06**|**Shear flow of frictional spheroids: lentil-like grains slide more than rice-like**|Jacopo Bilotto et.al.|[2507.04429v1](http://arxiv.org/abs/2507.04429v1)|null|
+|**2025-07-06**|**CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials**|Jifeng Wang et.al.|[2507.04423v1](http://arxiv.org/abs/2507.04423v1)|null|
+|**2025-07-06**|**Intertwined Orders in a Quantum-Entangled Metal**|Junyoung Kwon et.al.|[2507.04375v1](http://arxiv.org/abs/2507.04375v1)|null|
+|**2025-07-05**|**Electrons in quantum dots on helium: from charge qubits to synthetic color centers**|M. I. Dykman et.al.|[2507.04159v1](http://arxiv.org/abs/2507.04159v1)|null|
+|**2025-07-05**|**Microscopic Origins of Conformable Dynamics: From Disorder to Deformation**|José Weberszpil et.al.|[2507.04078v1](http://arxiv.org/abs/2507.04078v1)|null|
+|**2025-07-05**|**TopoMAS: Large Language Model Driven Topological Materials Multiagent System**|Baohua Zhang et.al.|[2507.04053v1](http://arxiv.org/abs/2507.04053v1)|null|
 |**2025-07-03**|**A finite element implementation of a large deformation gradient-damage theory for fracture with Abaqus user material subroutines**|Keven Alkhoury et.al.|[2507.02702v1](http://arxiv.org/abs/2507.02702v1)|null|
 |**2025-07-03**|**Radical scaling: beyond our feet and fingers**|Marc-Antoine Fardin et.al.|[2507.02631v1](http://arxiv.org/abs/2507.02631v1)|null|
 |**2025-07-04**|**A unifying approach to self-organizing systems interacting via conservation laws**|Frank Barrows et.al.|[2507.02575v2](http://arxiv.org/abs/2507.02575v2)|null|
@@ -9533,6 +9553,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Floquet-Engineering Weyl Points and Linked Fermi Arcs from Straight Nodal Lines**|Dongling Liu et.al.|[2507.04489v1](http://arxiv.org/abs/2507.04489v1)|null|
+|**2025-07-05**|**Probing coherent electronic superpositions of singly- and doubly-excited states of krypton with attosecond four-wave mixing spectroscopy**|S. Yanez-Pagans et.al.|[2507.03845v1](http://arxiv.org/abs/2507.03845v1)|null|
+|**2025-07-02**|**On the Underlying Mechanism of Light-Induced Patterning of N719-Stained Photoanodes for "Photovoltaic Photographs"**|Allyson Robert et.al.|[2507.03008v1](http://arxiv.org/abs/2507.03008v1)|null|
 |**2025-07-01**|**Light-induced Pairing Instability of Ultrafast Electron Beams with Space Charge Interactions**|Hao Geng et.al.|[2507.00869v1](http://arxiv.org/abs/2507.00869v1)|null|
 |**2025-06-23**|**Emergent collective dynamics from motile photokinetic organisms**|J. Morales et.al.|[2506.19081v1](http://arxiv.org/abs/2506.19081v1)|null|
 |**2025-06-22**|**New modeling of the stray light noise in the main arms of the Einstein Telescope**|M. Andrés-Carcasona et.al.|[2506.18083v1](http://arxiv.org/abs/2506.18083v1)|null|
@@ -10020,6 +10043,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**Nonlinear Seebeck effect in Ni $_{81}$Fe$_{19}$ |Pt at room temperature**|Y. Hirata et.al.|[2507.03249v1](http://arxiv.org/abs/2507.03249v1)|null|
 |**2025-06-25**|**Staggered nonlinear spin generations in centrosymmetric altermagnets under electric current**|Jie Zhang et.al.|[2506.20298v1](http://arxiv.org/abs/2506.20298v1)|null|
 |**2025-06-20**|**Nanosculpted 3D helices of a magnetic Weyl semimetal with switchable nonreciprocity**|Max T. Birch et.al.|[2506.17023v1](http://arxiv.org/abs/2506.17023v1)|null|
 |**2025-06-17**|**Signature of current-induced nuclear spin polarization in (Bi $_{1-x}$Sb$_{x}$)$_2$Te$_3$**|Sofie Kölling et.al.|[2506.14481v1](http://arxiv.org/abs/2506.14481v1)|null|
@@ -10329,6 +10353,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-05**|**Prediction of High-Temperature Half Quantum Anomalous Hall Effect in a Semi-magnetic Topological Insulator of MnBi $_2$Te$_4$/Sb$_2$Te$_3$**|M. U. Muzaffar et.al.|[2507.03994v1](http://arxiv.org/abs/2507.03994v1)|null|
 |**2025-07-02**|**Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems**|Katarzyna Gas et.al.|[2507.01385v1](http://arxiv.org/abs/2507.01385v1)|null|
 |**2025-06-27**|**Code CFTs and Topological Matter**|E. H Saidi et.al.|[2506.22088v1](http://arxiv.org/abs/2506.22088v1)|null|
 |**2025-06-25**|**Ultrahigh Anomalous Nernst Thermopower and Thermal Hall Angle in YbMnBi2**|Jiamin Wen et.al.|[2506.20721v1](http://arxiv.org/abs/2506.20721v1)|null|
@@ -10863,6 +10888,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249v1](http://arxiv.org/abs/2507.05249v1)|null|
+|**2025-07-07**|**Spin liquid state in a three-dimensional pyrochlore-like frustrated magnet**|U. Jena et.al.|[2507.05061v1](http://arxiv.org/abs/2507.05061v1)|null|
 |**2025-07-02**|**Magnetic Ground State and Spin Excitations in the 2D Trimerized Collinear-II Lattice Antiferromagnet Li2Ni3P4O14**|K. S. Chikara et.al.|[2507.01403v1](http://arxiv.org/abs/2507.01403v1)|null|
 |**2025-06-23**|**Quantum critical dynamical response of the twisted Kitaev spin chain**|Uliana E. Khodaeva et.al.|[2506.18766v1](http://arxiv.org/abs/2506.18766v1)|null|
 |**2025-06-23**|**TasVisAn and InsPy -- Python Packages for Triple-Axis Spectrometer Data Visualization, Analysis, Instrument Resolution Calculation, and Convolution**|Guochu Deng et.al.|[2506.18216v1](http://arxiv.org/abs/2506.18216v1)|null|
