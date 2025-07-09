@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Harmonic emission as a probe to coherent transitions in the topological superconductors**|Nivash R. et.al.|[2507.06215v1](http://arxiv.org/abs/2507.06215v1)|null|
+|**2025-07-08**|**A kinetic model to simulate charge flow through an electrochemical half cell**|Diego Veloza-Diaz et.al.|[2507.06197v1](http://arxiv.org/abs/2507.06197v1)|null|
+|**2025-07-08**|**Bridging Machine Learning and Glassy Dynamics Theory for Predictive Polymer Modeling**|Anh D. Phan et.al.|[2507.06194v1](http://arxiv.org/abs/2507.06194v1)|null|
+|**2025-07-08**|**A Comprehensive MARTINI Coarse-Grained Framework for Phyllosilicate Clay/Polymer Nanocomposites: From Atomistic Validation to Mesoscale Insights**|Ankit Patidar et.al.|[2507.06159v1](http://arxiv.org/abs/2507.06159v1)|null|
+|**2025-07-08**|**Dynamical and structural properties of an absorbing phase transition: a case study from granular systems**|Raphael Maire et.al.|[2507.06083v1](http://arxiv.org/abs/2507.06083v1)|null|
+|**2025-07-08**|**Irreversibility in scalar active turbulence: The role of topological defects**|Byjesh N. Radhakrishnan et.al.|[2507.06073v1](http://arxiv.org/abs/2507.06073v1)|null|
+|**2025-07-08**|**New universality classes govern the critical and multicritical behavior of an active Ising model**|Matthew Wong et.al.|[2507.06068v1](http://arxiv.org/abs/2507.06068v1)|null|
+|**2025-07-08**|**Spin-Based Modeling of Perception as Emergent from contextualized Internal Evaluation**|Laura Fanfarillo et.al.|[2507.06041v1](http://arxiv.org/abs/2507.06041v1)|null|
+|**2025-07-08**|**Liquid-Gas Criticality of Hyperuniform Fluids**|Shang Gao et.al.|[2507.06023v1](http://arxiv.org/abs/2507.06023v1)|null|
+|**2025-07-08**|**Sliding of a liquid spherical drop in an external fluid: a generalization of the Hadamard-Rybczynski equation**|Peter Lebedev-Stepanov et.al.|[2507.05947v1](http://arxiv.org/abs/2507.05947v1)|null|
+|**2025-07-08**|**Light Induced Half-Metallic Phase in Insulators and Correlated Metals**|Suryashekhar Kusari et.al.|[2507.05935v1](http://arxiv.org/abs/2507.05935v1)|null|
+|**2025-07-08**|**Evaluating non-equilibrium trajectories via mean back relaxation: Dependence on length and time scales**|Gabriel Knotz et.al.|[2507.05912v1](http://arxiv.org/abs/2507.05912v1)|null|
+|**2025-07-08**|**Design and optimization of in situ self-functionalizing stress sensors**|Olga Vasiljevic et.al.|[2507.05907v1](http://arxiv.org/abs/2507.05907v1)|null|
+|**2025-07-08**|**Metamaterials and Negative Refractive Index**|D. R. Smith et.al.|[2507.05737v1](http://arxiv.org/abs/2507.05737v1)|null|
+|**2025-07-08**|**Dissipative response of driven bead-spring-dashpot chains**|R. Kailasham et.al.|[2507.05692v1](http://arxiv.org/abs/2507.05692v1)|null|
+|**2025-07-08**|**Tensor network algorithm to solve polaron impurity problems**|Ruofan Chen et.al.|[2507.05580v1](http://arxiv.org/abs/2507.05580v1)|null|
+|**2025-07-08**|**Revisiting Multi-Wave Resonance in Classical Lattices: Quasi-Resonances, Not Exact Resonance, Govern Energy Redistribution**|Wei Lin et.al.|[2507.05551v1](http://arxiv.org/abs/2507.05551v1)|null|
+|**2025-07-08**|**On void formation during the simulated tensile testing of polymer-filler particle composites**|John J. Karnes et.al.|[2507.05547v1](http://arxiv.org/abs/2507.05547v1)|null|
+|**2025-07-08**|**Direct observation of the compression behavior of polystyrene microbeads in a diamond anvil cell**|Haruto Moriguchi et.al.|[2507.05545v1](http://arxiv.org/abs/2507.05545v1)|null|
+|**2025-07-07**|**Jammed disks of two sizes in a channel: segregation driven by steric forces**|Dan Liu et.al.|[2507.05420v1](http://arxiv.org/abs/2507.05420v1)|null|
 |**2025-07-07**|**Stealthy-Hyperuniform Wave Dynamics in Two-Dimensional Photonic Crystals**|Maria Barsukova et.al.|[2507.05253v1](http://arxiv.org/abs/2507.05253v1)|null|
 |**2025-07-07**|**Coherent Spins in van der Waals Semiconductor GeS2 at Ambient Conditions**|Sumukh Vaidya et.al.|[2507.05133v1](http://arxiv.org/abs/2507.05133v1)|null|
 |**2025-07-07**|**The Hitchhiker's Guide to Differential Dynamic Microscopy**|Enrico Lattuada et.al.|[2507.05058v1](http://arxiv.org/abs/2507.05058v1)|null|
@@ -9553,6 +9573,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Light Induced Half-Metallic Phase in Insulators and Correlated Metals**|Suryashekhar Kusari et.al.|[2507.05935v1](http://arxiv.org/abs/2507.05935v1)|null|
 |**2025-07-08**|**Floquet-Engineering Weyl Points and Linked Fermi Arcs from Straight Nodal Lines**|Dongling Liu et.al.|[2507.04489v2](http://arxiv.org/abs/2507.04489v2)|null|
 |**2025-07-05**|**Probing coherent electronic superpositions of singly- and doubly-excited states of krypton with attosecond four-wave mixing spectroscopy**|S. Yanez-Pagans et.al.|[2507.03845v1](http://arxiv.org/abs/2507.03845v1)|null|
 |**2025-07-02**|**On the Underlying Mechanism of Light-Induced Patterning of N719-Stained Photoanodes for "Photovoltaic Photographs"**|Allyson Robert et.al.|[2507.03008v1](http://arxiv.org/abs/2507.03008v1)|null|
