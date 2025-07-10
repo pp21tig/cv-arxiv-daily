@@ -1098,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Sensitivity and Topology of Exceptional Rings in Nonlinear Non-Hermitian Planar Optical Microcavities**|Jan Wingenbach et.al.|[2507.07099v1](http://arxiv.org/abs/2507.07099v1)|null|
+|**2025-07-09**|**Compressibility of Confined Fluids from Volume Fluctuations**|Jason Ogbebor et.al.|[2507.07020v1](http://arxiv.org/abs/2507.07020v1)|null|
+|**2025-07-09**|**Solving boundary time crystals via the superspin method**|Dominik Nemeth et.al.|[2507.06998v1](http://arxiv.org/abs/2507.06998v1)|null|
+|**2025-07-09**|**Denjoy's anachronistic topological viewpoint on Aubry transition**|O. Cépas et.al.|[2507.06915v1](http://arxiv.org/abs/2507.06915v1)|null|
+|**2025-07-09**|**Effects of multiple cycles on the resistance distance of a strand in a homogeneous polymer network**|Erica Uehara et.al.|[2507.06476v1](http://arxiv.org/abs/2507.06476v1)|null|
+|**2025-07-08**|**Terahertz field-induced metastable magnetization near criticality in FePS3**|Batyr Ilyas et.al.|[2507.06371v1](http://arxiv.org/abs/2507.06371v1)|null|
+|**2025-07-08**|**Cherenkov radiation in isotropic chiral matter: the space-frequency domain**|R. Martínez von Dossow et.al.|[2507.06369v1](http://arxiv.org/abs/2507.06369v1)|null|
 |**2025-07-08**|**Harmonic emission as a probe to coherent transitions in the topological superconductors**|Nivash R. et.al.|[2507.06215v1](http://arxiv.org/abs/2507.06215v1)|null|
 |**2025-07-09**|**A kinetic model to simulate charge flow through an electrochemical half cell**|Diego Veloza-Diaz et.al.|[2507.06197v2](http://arxiv.org/abs/2507.06197v2)|null|
 |**2025-07-08**|**Bridging Machine Learning and Glassy Dynamics Theory for Predictive Polymer Modeling**|Anh D. Phan et.al.|[2507.06194v1](http://arxiv.org/abs/2507.06194v1)|null|
@@ -9569,6 +9576,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Terahertz field-induced metastable magnetization near criticality in FePS3**|Batyr Ilyas et.al.|[2507.06371v1](http://arxiv.org/abs/2507.06371v1)|null|
 |**2025-07-08**|**Light Induced Half-Metallic Phase in Insulators and Correlated Metals**|Suryashekhar Kusari et.al.|[2507.05935v1](http://arxiv.org/abs/2507.05935v1)|null|
 |**2025-07-08**|**Floquet-Engineering Weyl Points and Linked Fermi Arcs from Straight Nodal Lines**|Dongling Liu et.al.|[2507.04489v2](http://arxiv.org/abs/2507.04489v2)|null|
 |**2025-07-05**|**Probing coherent electronic superpositions of singly- and doubly-excited states of krypton with attosecond four-wave mixing spectroscopy**|S. Yanez-Pagans et.al.|[2507.03845v1](http://arxiv.org/abs/2507.03845v1)|null|
@@ -9981,6 +9989,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Terahertz field-induced metastable magnetization near criticality in FePS3**|Batyr Ilyas et.al.|[2507.06371v1](http://arxiv.org/abs/2507.06371v1)|null|
 |**2025-06-12**|**Disentangling Electronic and Ionic Nonlinear Polarization Effects in the THz Kerr Response of LaAlO $_{3}$**|Chao Shen et.al.|[2506.10472v1](http://arxiv.org/abs/2506.10472v1)|null|
 |**2025-05-06**|**Parametrically amplified Josephson plasma waves in YBa_2Cu_3O_(6+x): evidence for local superconducting fluctuations up to the pseudogap temperature $T^*$**|Marios H. Michael et.al.|[2505.03358v1](http://arxiv.org/abs/2505.03358v1)|null|
 |**2025-04-15**|**Generation of Relativistic Structured Spin-Polarized Lepton Beams**|Zhong-Peng Li et.al.|[2504.11113v1](http://arxiv.org/abs/2504.11113v1)|null|
@@ -10060,6 +10069,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Quantum Kinetic Anatomy of Electron Angular Momenta Edge Accumulation**|T. Valet et.al.|[2507.06771v1](http://arxiv.org/abs/2507.06771v1)|null|
 |**2025-07-04**|**Nonlinear Seebeck effect in Ni $_{81}$Fe$_{19}$ |Pt at room temperature**|Y. Hirata et.al.|[2507.03249v1](http://arxiv.org/abs/2507.03249v1)|null|
 |**2025-06-25**|**Staggered nonlinear spin generations in centrosymmetric altermagnets under electric current**|Jie Zhang et.al.|[2506.20298v1](http://arxiv.org/abs/2506.20298v1)|null|
 |**2025-06-20**|**Nanosculpted 3D helices of a magnetic Weyl semimetal with switchable nonreciprocity**|Max T. Birch et.al.|[2506.17023v1](http://arxiv.org/abs/2506.17023v1)|null|
