@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Pseudoperiodic Spherical Boundary Conditions: Efficient And Isotropic 3D Particle Simulations Without Lattice Artifacts**|Manuel Dedola et.al.|[2507.07888v1](http://arxiv.org/abs/2507.07888v1)|null|
+|**2025-07-10**|**Membrane-mediated force transduction: Stick-slip motion of vesicles with fluid membranes**|Paula Magrinya et.al.|[2507.07880v1](http://arxiv.org/abs/2507.07880v1)|null|
+|**2025-07-10**|**The effect of fiber plasticity on domain formation in soft biological composites -- Part I: a bifurcation analysis**|Michalis Agoras et.al.|[2507.07843v1](http://arxiv.org/abs/2507.07843v1)|null|
+|**2025-07-10**|**Growth of Structural Lengthscale in Kob Andersen Binary Mixtures: Role of medium range order**|Sanket Kumawat et.al.|[2507.07819v1](http://arxiv.org/abs/2507.07819v1)|null|
+|**2025-07-10**|**Temporal and spatial separations between spin glass and short-range order**|Margarita G. Dronova et.al.|[2507.07783v1](http://arxiv.org/abs/2507.07783v1)|null|
+|**2025-07-10**|**Crossing over from flat band superconductivity to conventional superconductivity**|M. Thumin et.al.|[2507.07701v1](http://arxiv.org/abs/2507.07701v1)|null|
+|**2025-07-10**|**Geometry-Dependent Adhesion in Transparent, Monodomain Liquid Crystal Elastomers**|Aidan Street et.al.|[2507.07639v1](http://arxiv.org/abs/2507.07639v1)|null|
+|**2025-07-10**|**Dark states of electrons in a quantum system with two pairs of sublattices**|Yoonah Chung et.al.|[2507.07533v1](http://arxiv.org/abs/2507.07533v1)|null|
+|**2025-07-10**|**Vestigial Order Melting of a Chiral Atomic Superfluid in a Double-Valley Optical Lattice**|Zhongcheng Yu et.al.|[2507.07494v1](http://arxiv.org/abs/2507.07494v1)|null|
+|**2025-07-10**|**Hydrodynamic bend instability of motile particles on a substrate**|Sameer Kumar et.al.|[2507.07392v1](http://arxiv.org/abs/2507.07392v1)|null|
+|**2025-07-10**|**Not even metastable: Cubic double-diamond in diblock copolymer melts**|Micheal S. Dimitriyev et.al.|[2507.07361v1](http://arxiv.org/abs/2507.07361v1)|null|
+|**2025-07-09**|**Superheating and melting phenomena of a vibrated granular layer of cubic particles**|Francisco López-González et.al.|[2507.07305v1](http://arxiv.org/abs/2507.07305v1)|null|
+|**2025-07-09**|**A physics-informed neural network for modeling fracture without gradient damage: formulation, application, and assessment**|Aditya Konale et.al.|[2507.07272v1](http://arxiv.org/abs/2507.07272v1)|null|
+|**2025-07-09**|**Ordering According to Size of Disks in a Narrow Channel**|Dan Liu et.al.|[2507.07266v1](http://arxiv.org/abs/2507.07266v1)|null|
+|**2025-07-09**|**Short-wavelength mesophases in the ground states of core-softened particles in two-dimensions**|Rômulo Cenci et.al.|[2507.07240v1](http://arxiv.org/abs/2507.07240v1)|null|
+|**2025-07-09**|**A Study of Non-linear Flows and Shear Banding in Wormlike Micelles Under Varying Elasticity, Flow Curvature, and Surfactant Chemistry**|Alfredo Scigliani et.al.|[2507.07218v1](http://arxiv.org/abs/2507.07218v1)|null|
+|**2025-07-09**|**Introduction to Sachdev-Ye-Kitaev Model: A Strongly Correlated System Perspective**|Rishabh Jha et.al.|[2507.07195v1](http://arxiv.org/abs/2507.07195v1)|null|
 |**2025-07-09**|**Sensitivity and Topology of Exceptional Rings in Nonlinear Non-Hermitian Planar Optical Microcavities**|Jan Wingenbach et.al.|[2507.07099v1](http://arxiv.org/abs/2507.07099v1)|null|
 |**2025-07-09**|**Compressibility of Confined Fluids from Volume Fluctuations**|Jason Ogbebor et.al.|[2507.07020v1](http://arxiv.org/abs/2507.07020v1)|null|
 |**2025-07-09**|**Solving boundary time crystals via the superspin method**|Dominik Nemeth et.al.|[2507.06998v1](http://arxiv.org/abs/2507.06998v1)|null|
@@ -10384,6 +10401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Large unconventional anomalous Hall effect far above room temperature in epitaxial Fe $_3$Ga$_4$ films**|Jing Meng et.al.|[2507.07434v1](http://arxiv.org/abs/2507.07434v1)|null|
 |**2025-07-05**|**Prediction of High-Temperature Half Quantum Anomalous Hall Effect in a Semi-magnetic Topological Insulator of MnBi $_2$Te$_4$/Sb$_2$Te$_3$**|M. U. Muzaffar et.al.|[2507.03994v1](http://arxiv.org/abs/2507.03994v1)|null|
 |**2025-07-02**|**Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems**|Katarzyna Gas et.al.|[2507.01385v1](http://arxiv.org/abs/2507.01385v1)|null|
 |**2025-06-27**|**Code CFTs and Topological Matter**|E. H Saidi et.al.|[2506.22088v1](http://arxiv.org/abs/2506.22088v1)|null|
