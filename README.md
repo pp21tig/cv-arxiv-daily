@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Singular density correlations in chiral active fluids in three dimensions**|Yuta Kuroda et.al.|[2507.08770v1](http://arxiv.org/abs/2507.08770v1)|null|
+|**2025-07-11**|**Interplay of polar order and positional order in liquid crystals -- observation of re-entrant ferroelectric nematic phase**|Grant Strachan et.al.|[2507.08754v1](http://arxiv.org/abs/2507.08754v1)|null|
+|**2025-07-11**|**Granular jamming and rheology in microgravity**|Qing Yu et.al.|[2507.08674v1](http://arxiv.org/abs/2507.08674v1)|null|
+|**2025-07-11**|**Interfacial Entanglement-Induced Time-Dependent Solidification of Polymeric Fluids**|Jaewon Shim et.al.|[2507.08559v1](http://arxiv.org/abs/2507.08559v1)|null|
+|**2025-07-11**|**Emergent Softening and Stiffening Dictate Transport of Active Filaments**|Bipul Biswas et.al.|[2507.08535v1](http://arxiv.org/abs/2507.08535v1)|null|
+|**2025-07-11**|**Spin-Orbit Structure and Helicity Anomaly in Relativistic Electron Vortex Beams**|Zhongze Guo et.al.|[2507.08493v1](http://arxiv.org/abs/2507.08493v1)|null|
+|**2025-07-11**|**Learning the bulk and interfacial physics of liquid-liquid phase separation**|Silas Robitschko et.al.|[2507.08395v1](http://arxiv.org/abs/2507.08395v1)|null|
+|**2025-07-11**|**The effects of knot topology on the collapse of active polymers**|Davide Breoni et.al.|[2507.08391v1](http://arxiv.org/abs/2507.08391v1)|null|
+|**2025-07-11**|**Computational Study of the Spectral Properties of Isospectrally Patterned Lattices**|Peter Schmelcher et.al.|[2507.08351v1](http://arxiv.org/abs/2507.08351v1)|null|
+|**2025-07-11**|**Anomalous diffusion in coupled viscoelastic media: A fractional Langevin equation approach**|Chan Lim et.al.|[2507.08291v1](http://arxiv.org/abs/2507.08291v1)|null|
+|**2025-07-11**|**Symmetry and Thermodynamic Bounds on Cross-Coupling Transport in Chiral Liquid Crystals**|Shunsuke Takano et.al.|[2507.08225v1](http://arxiv.org/abs/2507.08225v1)|null|
+|**2025-07-10**|**Unveiling the electronic structure of the charge density wave and topological semimetal TaTe4 through high-field magnetotransport measurements**|D. Silvera-Vega et.al.|[2507.08192v1](http://arxiv.org/abs/2507.08192v1)|null|
+|**2025-07-10**|**Stability of discrete-symmetry flocks: sandwich state, traveling domains and motility-induced pinning**|Swarnajit Chatterjee et.al.|[2507.08187v1](http://arxiv.org/abs/2507.08187v1)|null|
+|**2025-07-10**|**Topological network analysis using a programmable photonic quantum processor**|Shang Yu et.al.|[2507.08157v1](http://arxiv.org/abs/2507.08157v1)|null|
+|**2025-07-10**|**Noise-Enabled Goal Attainment in Crowded Collectives**|Lucy Liu et.al.|[2507.08100v1](http://arxiv.org/abs/2507.08100v1)|null|
 |**2025-07-10**|**Pseudoperiodic Spherical Boundary Conditions: Efficient And Isotropic 3D Particle Simulations Without Lattice Artifacts**|Manuel Dedola et.al.|[2507.07888v1](http://arxiv.org/abs/2507.07888v1)|null|
 |**2025-07-10**|**Membrane-mediated force transduction: Stick-slip motion of vesicles with fluid membranes**|Paula Magrinya et.al.|[2507.07880v1](http://arxiv.org/abs/2507.07880v1)|null|
 |**2025-07-10**|**The effect of fiber plasticity on domain formation in soft biological composites -- Part I: a bifurcation analysis**|Michalis Agoras et.al.|[2507.07843v1](http://arxiv.org/abs/2507.07843v1)|null|
@@ -9593,6 +9608,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Electronic and optical properties of the thio-apatites phases Ba $_5$(VS$_α$O$_β$)$_3$ X [X=Cl, F, Br, I]: impact of multiple anionic substitution**|Smritijit Sen et.al.|[2507.08308v1](http://arxiv.org/abs/2507.08308v1)|null|
+|**2025-07-10**|**Off-resonant light-induced topological phase transition and thermoelectric transport in semi-Dirac materials**|Vassilios Vargiamidis et.al.|[2507.08168v1](http://arxiv.org/abs/2507.08168v1)|null|
 |**2025-07-08**|**Terahertz field-induced metastable magnetization near criticality in FePS3**|Batyr Ilyas et.al.|[2507.06371v1](http://arxiv.org/abs/2507.06371v1)|null|
 |**2025-07-08**|**Light Induced Half-Metallic Phase in Insulators and Correlated Metals**|Suryashekhar Kusari et.al.|[2507.05935v1](http://arxiv.org/abs/2507.05935v1)|null|
 |**2025-07-08**|**Floquet-Engineering Weyl Points and Linked Fermi Arcs from Straight Nodal Lines**|Dongling Liu et.al.|[2507.04489v2](http://arxiv.org/abs/2507.04489v2)|null|
