@@ -1102,6 +1102,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe $_2$**|Dimple Rani et.al.|[2507.10477v1](http://arxiv.org/abs/2507.10477v1)|null|
+|**2025-07-14**|**Inference of time delay in stochastic systems**|Robin A. Kopp et.al.|[2507.10429v1](http://arxiv.org/abs/2507.10429v1)|null|
+|**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399v1](http://arxiv.org/abs/2507.10399v1)|null|
+|**2025-07-14**|**Electro-optic Kerr Effect Induced by Nonlinear Transport in monolayer WTe2**|He-Lin Li et.al.|[2507.10309v1](http://arxiv.org/abs/2507.10309v1)|null|
+|**2025-07-14**|**Unveiling the Self-Orthogonality at Exceptional Points in Driven $\mathcal{PT}$ -Symmetric Systems**|Alexander Fritzsche et.al.|[2507.10232v1](http://arxiv.org/abs/2507.10232v1)|null|
+|**2025-07-14**|**Active anisotropic diffusion of microparticles in nematic lyotropic chromonic liquid crystal powered by light**|Patrycja Kadzialka et.al.|[2507.10147v1](http://arxiv.org/abs/2507.10147v1)|null|
+|**2025-07-14**|**Observation of Integer and Fractional Chern insulators in high Chern number flatbands**|Jingwei Dong et.al.|[2507.09908v1](http://arxiv.org/abs/2507.09908v1)|null|
+|**2025-07-13**|**From Spheres to Cones: Structural Instabilities and Acidity at Conical Regions in Trivalent Metal Ion Nano-clusters**|Jihong Shi et.al.|[2507.09812v1](http://arxiv.org/abs/2507.09812v1)|null|
+|**2025-07-13**|**Distinct Uniaxial Stress and Pressure Fingerprint of Superconductivity in the 3D Kagome Lattice Compound CeRu2**|O. Gerguri et.al.|[2507.09779v1](http://arxiv.org/abs/2507.09779v1)|null|
+|**2025-07-13**|**Study of surface roughness modulation on the adhesion behavior of PDMS elastomer**|Susheel Kumar et.al.|[2507.09603v1](http://arxiv.org/abs/2507.09603v1)|null|
+|**2025-07-13**|**Leakage at interfaces: a comprehensive study based on Persson contact mechanics theory**|R. Xu et.al.|[2507.09571v1](http://arxiv.org/abs/2507.09571v1)|null|
+|**2025-07-13**|**Variational Formulation of Local Molecular Field Theory**|David M. Rogers et.al.|[2507.09449v1](http://arxiv.org/abs/2507.09449v1)|null|
+|**2025-07-12**|**Deciphering the Scattering of Polydisperse Hard Spheres using Deep Learning**|Lijie Ding et.al.|[2507.09400v1](http://arxiv.org/abs/2507.09400v1)|null|
+|**2025-07-12**|**Defects and their Time Scales in Quantum and Classical Annealing of the Two-Dimensional Ising Model**|Phillip Weinberg et.al.|[2507.09273v1](http://arxiv.org/abs/2507.09273v1)|null|
+|**2025-07-12**|**Microscopic origin of shear bands in 2D amorphous solids from topological defects**|Arabinda Bera et.al.|[2507.09250v1](http://arxiv.org/abs/2507.09250v1)|null|
+|**2025-07-12**|**Dual-circular Raman optical activity of axial multipolar order**|Hikaru Watanabe et.al.|[2507.09237v1](http://arxiv.org/abs/2507.09237v1)|null|
+|**2025-07-12**|**Lecture Notes on Quantum Many-Body Theory: A Pedagogical Introduction**|Fabrizio Tafuri et.al.|[2507.09229v1](http://arxiv.org/abs/2507.09229v1)|null|
+|**2025-07-11**|**Theoretical evaluation of decay mode of ${}^{229m} \mathrm{Th}$ in solid samples**|Ryotaro Masuda et.al.|[2507.09064v1](http://arxiv.org/abs/2507.09064v1)|null|
+|**2025-07-11**|**On failure mechanisms and load-parallel cracking in confined elastomeric layers**|Aarosh Dahal et.al.|[2507.09042v1](http://arxiv.org/abs/2507.09042v1)|null|
+|**2025-07-11**|**Electrostatically Assembled Open Square and Checkerboard Superlattices**|Binay P. Nayak et.al.|[2507.08989v1](http://arxiv.org/abs/2507.08989v1)|null|
 |**2025-07-11**|**Singular density correlations in chiral active fluids in three dimensions**|Yuta Kuroda et.al.|[2507.08770v1](http://arxiv.org/abs/2507.08770v1)|null|
 |**2025-07-11**|**Interplay of polar order and positional order in liquid crystals -- observation of re-entrant ferroelectric nematic phase**|Grant Strachan et.al.|[2507.08754v1](http://arxiv.org/abs/2507.08754v1)|null|
 |**2025-07-11**|**Granular jamming and rheology in microgravity**|Qing Yu et.al.|[2507.08674v1](http://arxiv.org/abs/2507.08674v1)|null|
@@ -9612,6 +9632,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Active anisotropic diffusion of microparticles in nematic lyotropic chromonic liquid crystal powered by light**|Patrycja Kadzialka et.al.|[2507.10147v1](http://arxiv.org/abs/2507.10147v1)|null|
+|**2025-07-14**|**Hopping and orbiting of Mie-resonant nanoparticles in optical tweezers**|Ivan Toftul et.al.|[2507.10058v1](http://arxiv.org/abs/2507.10058v1)|null|
 |**2025-07-11**|**Electronic and optical properties of the thio-apatites phases Ba $_5$(VS$_α$O$_β$)$_3$ X [X=Cl, F, Br, I]: impact of multiple anionic substitution**|Smritijit Sen et.al.|[2507.08308v1](http://arxiv.org/abs/2507.08308v1)|null|
 |**2025-07-10**|**Off-resonant light-induced topological phase transition and thermoelectric transport in semi-Dirac materials**|Vassilios Vargiamidis et.al.|[2507.08168v1](http://arxiv.org/abs/2507.08168v1)|null|
 |**2025-07-08**|**Terahertz field-induced metastable magnetization near criticality in FePS3**|Batyr Ilyas et.al.|[2507.06371v1](http://arxiv.org/abs/2507.06371v1)|null|
@@ -10107,6 +10129,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-12**|**Electric-Field-Induced Second-Harmonic Generation**|Hangkai Fan et.al.|[2507.09306v1](http://arxiv.org/abs/2507.09306v1)|null|
+|**2025-07-12**|**Spin current generation driven by skyrmion dynamics under magnetic anisotropy and polarized microwaves**|Seno Aji et.al.|[2507.09126v1](http://arxiv.org/abs/2507.09126v1)|null|
 |**2025-07-09**|**Quantum Kinetic Anatomy of Electron Angular Momenta Edge Accumulation**|T. Valet et.al.|[2507.06771v1](http://arxiv.org/abs/2507.06771v1)|null|
 |**2025-07-04**|**Nonlinear Seebeck effect in Ni $_{81}$Fe$_{19}$ |Pt at room temperature**|Y. Hirata et.al.|[2507.03249v1](http://arxiv.org/abs/2507.03249v1)|null|
 |**2025-06-25**|**Staggered nonlinear spin generations in centrosymmetric altermagnets under electric current**|Jie Zhang et.al.|[2506.20298v1](http://arxiv.org/abs/2506.20298v1)|null|
@@ -10418,6 +10442,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Observation of Integer and Fractional Chern insulators in high Chern number flatbands**|Jingwei Dong et.al.|[2507.09908v1](http://arxiv.org/abs/2507.09908v1)|null|
+|**2025-07-12**|**Quantum Anomalous Hall Effect in Flat Bands with Paramagnetism**|Yedi Shen et.al.|[2507.09316v1](http://arxiv.org/abs/2507.09316v1)|null|
+|**2025-07-12**|**Evidence for magnetoelastic coupling and chiral magnetic ground state in quasi-van der Waals tr-Cr $_{1.22}$Te$_{2}$**|S. M. Hossain et.al.|[2507.09147v1](http://arxiv.org/abs/2507.09147v1)|null|
 |**2025-07-10**|**Large unconventional anomalous Hall effect far above room temperature in epitaxial Fe $_3$Ga$_4$ films**|Jing Meng et.al.|[2507.07434v1](http://arxiv.org/abs/2507.07434v1)|null|
 |**2025-07-05**|**Prediction of High-Temperature Half Quantum Anomalous Hall Effect in a Semi-magnetic Topological Insulator of MnBi $_2$Te$_4$/Sb$_2$Te$_3$**|M. U. Muzaffar et.al.|[2507.03994v1](http://arxiv.org/abs/2507.03994v1)|null|
 |**2025-07-02**|**Reliable Magnetometry for Antiferromagnets and Thin Films: Correcting Substrate Artifacts in Mn3Sn/MgO Systems**|Katarzyna Gas et.al.|[2507.01385v1](http://arxiv.org/abs/2507.01385v1)|null|
