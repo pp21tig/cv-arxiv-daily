@@ -1098,6 +1098,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453v1](http://arxiv.org/abs/2507.11453v1)|null|
+|**2025-07-15**|**Simulating and Sampling from Quantum Circuits with 2D Tensor Networks**|Manuel S. Rudolph et.al.|[2507.11424v1](http://arxiv.org/abs/2507.11424v1)|null|
+|**2025-07-15**|**Subharmonic Shapiro steps in depinning dynamics of a 2D solid dusty plasma modulated by 1D nonlinear deformed periodic substrates**|Zhaoye Wang et.al.|[2507.11389v1](http://arxiv.org/abs/2507.11389v1)|null|
+|**2025-07-15**|**Solving Distance-Based Optimization Problems Using Optical Hardware**|Guangyao Li et.al.|[2507.11378v1](http://arxiv.org/abs/2507.11378v1)|null|
+|**2025-07-15**|**Channel Formation Enhances Target Consumption by Chemotactic Active Brownian Particles**|Vladimir Yu. Rudyak et.al.|[2507.11328v1](http://arxiv.org/abs/2507.11328v1)|null|
+|**2025-07-15**|**Sub-microsecond electric switching of large birefringence in the isotropic phase of ferroelectric nematics**|Kamal Thapa et.al.|[2507.11290v1](http://arxiv.org/abs/2507.11290v1)|null|
+|**2025-07-15**|**Wallpaper Group-Based Mechanical Metamaterials: Dataset Including Mechanical Responses**|Fleur Hendriks et.al.|[2507.11195v1](http://arxiv.org/abs/2507.11195v1)|null|
+|**2025-07-15**|**Dipole-Induced Transition in 3-Dimensions**|Itamar Procaccia et.al.|[2507.11179v1](http://arxiv.org/abs/2507.11179v1)|null|
+|**2025-07-15**|**Cutting rules for non-relativistic dark matter in solids based on Kohn-Sham orbitals**|Zheng-Liang Liang et.al.|[2507.11033v1](http://arxiv.org/abs/2507.11033v1)|null|
+|**2025-07-15**|**On the statistical physics and thermodynamics of polymer networks: a Eulerian theory for entropic elasticity**|Siyu Wang et.al.|[2507.10974v1](http://arxiv.org/abs/2507.10974v1)|null|
+|**2025-07-14**|**Quorum sensing of light-activated colloids in nematic liquid crystals**|Antonio Tavera-Vázquez et.al.|[2507.10866v1](http://arxiv.org/abs/2507.10866v1)|null|
+|**2025-07-14**|**Rate-independent hysteretic energy dissipation in collagen fibrils**|Robert Magerle et.al.|[2507.10841v1](http://arxiv.org/abs/2507.10841v1)|null|
+|**2025-07-14**|**Functional Neural Wavefunction Optimization**|Victor Armegioiu et.al.|[2507.10835v1](http://arxiv.org/abs/2507.10835v1)|null|
+|**2025-07-14**|**Ratchet Effects in Cyclic Pattern Formation Systems with Competing Interactions**|C. Reichhardt et.al.|[2507.10824v1](http://arxiv.org/abs/2507.10824v1)|null|
+|**2025-07-14**|**Exotic superconducting states in altermagnets**|Kirill Parshukov et.al.|[2507.10700v1](http://arxiv.org/abs/2507.10700v1)|null|
+|**2025-07-14**|**Quasiparticle band picture bridging topology and strong correlations across energy scales**|Ivan Pasqua et.al.|[2507.10670v1](http://arxiv.org/abs/2507.10670v1)|null|
+|**2025-07-14**|**Optimal Calibration of Qubit Detuning and Crosstalk**|David Shnaiderov et.al.|[2507.10661v1](http://arxiv.org/abs/2507.10661v1)|null|
 |**2025-07-14**|**Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe $_2$**|Dimple Rani et.al.|[2507.10477v1](http://arxiv.org/abs/2507.10477v1)|null|
 |**2025-07-14**|**Inference of time delay in stochastic systems**|Robin A. Kopp et.al.|[2507.10429v1](http://arxiv.org/abs/2507.10429v1)|null|
 |**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399v1](http://arxiv.org/abs/2507.10399v1)|null|
@@ -10438,6 +10455,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Significant electron-magnon scattering in layered ferromagnet Cr $_2$Te$_3$**|Yujun Wang et.al.|[2507.11182v1](http://arxiv.org/abs/2507.11182v1)|null|
 |**2025-07-14**|**Observation of Integer and Fractional Chern insulators in high Chern number flatbands**|Jingwei Dong et.al.|[2507.09908v1](http://arxiv.org/abs/2507.09908v1)|null|
 |**2025-07-12**|**Quantum Anomalous Hall Effect in Flat Bands with Paramagnetism**|Yedi Shen et.al.|[2507.09316v1](http://arxiv.org/abs/2507.09316v1)|null|
 |**2025-07-12**|**Evidence for magnetoelastic coupling and chiral magnetic ground state in quasi-van der Waals tr-Cr $_{1.22}$Te$_{2}$**|S. M. Hossain et.al.|[2507.09147v1](http://arxiv.org/abs/2507.09147v1)|null|
@@ -10977,6 +10995,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Magnetic ground state and persistent spin fluctuations in triangular-lattice antiferromagnet NdZnAl $_{11}$O$_{19}$**|Yantao Cao et.al.|[2507.11391v1](http://arxiv.org/abs/2507.11391v1)|null|
+|**2025-07-15**|**Implementation of the magnetic force theorem for large-scale calculations of magnon bands: application to yttrium iron garnet**|Thorbjørn Skovhus et.al.|[2507.11374v1](http://arxiv.org/abs/2507.11374v1)|null|
 |**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249v1](http://arxiv.org/abs/2507.05249v1)|null|
 |**2025-07-07**|**Spin liquid state in a three-dimensional pyrochlore-like frustrated magnet**|U. Jena et.al.|[2507.05061v1](http://arxiv.org/abs/2507.05061v1)|null|
 |**2025-07-02**|**Magnetic Ground State and Spin Excitations in the 2D Trimerized Collinear-II Lattice Antiferromagnet Li2Ni3P4O14**|K. S. Chikara et.al.|[2507.01403v1](http://arxiv.org/abs/2507.01403v1)|null|
