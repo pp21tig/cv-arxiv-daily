@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Topological quantum materials: kagome, chiral, and square-net frameworks**|Avdhesh K. Sharma et.al.|[2507.12410v1](http://arxiv.org/abs/2507.12410v1)|null|
+|**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313v1](http://arxiv.org/abs/2507.12313v1)|null|
+|**2025-07-16**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312v1](http://arxiv.org/abs/2507.12312v1)|null|
+|**2025-07-16**|**Cryogenic spin 3/2 nuclear quadrupole resonance: Spin relaxation and electric field gradient via Rabi frequency goniometry**|Ritik R. Modi et.al.|[2507.12279v1](http://arxiv.org/abs/2507.12279v1)|null|
+|**2025-07-16**|**Electrically tunable heavy fermion and quantum criticality in magic-angle twisted trilayer graphene**|Le Zhang et.al.|[2507.12254v1](http://arxiv.org/abs/2507.12254v1)|null|
+|**2025-07-16**|**Comment on "Properties and dynamics of generalized squeezed states"**|Rubén Gordillo et.al.|[2507.12250v1](http://arxiv.org/abs/2507.12250v1)|null|
+|**2025-07-16**|**Configurational forces explain echelon cracks in soft materials**|Angel Santarossa et.al.|[2507.12247v1](http://arxiv.org/abs/2507.12247v1)|null|
+|**2025-07-16**|**Drive-induced Non-local Interactions and Topological Bulk Transport of Extended Doublons**|Julius Beck et.al.|[2507.12131v1](http://arxiv.org/abs/2507.12131v1)|null|
+|**2025-07-16**|**Selective decoupling in multi-level quantum systems by the SU(2) sign anomaly**|Giorgio Anfuso et.al.|[2507.12056v1](http://arxiv.org/abs/2507.12056v1)|null|
+|**2025-07-16**|**Channel capacity of small modular quantum networks in the ultrastrongly coupled regime**|Salvatore Alex Cordovana et.al.|[2507.12020v1](http://arxiv.org/abs/2507.12020v1)|null|
+|**2025-07-16**|**Anisotropic-scaling localization in higher-dimensional non-Hermitian systems**|Zuxuan Ou et.al.|[2507.11933v1](http://arxiv.org/abs/2507.11933v1)|null|
+|**2025-07-16**|**Steady-state extensional viscosity of wormlike micellar solutions via dissipative particle dynamics simulations**|Yusuke Koide et.al.|[2507.11923v1](http://arxiv.org/abs/2507.11923v1)|null|
+|**2025-07-16**|**Bose-Hubbard model in the presence of artificial magnetic fields: Ground state and thermal phase diagrams**|Mohammadamin Jaberi et.al.|[2507.11914v1](http://arxiv.org/abs/2507.11914v1)|null|
+|**2025-07-15**|**Conformable Scaling and Critical Dynamics: A Unified Framework for Phase Transitions**|José Weberszpil et.al.|[2507.11782v1](http://arxiv.org/abs/2507.11782v1)|null|
+|**2025-07-15**|**A Proliferating Nematic That Collectively Senses an Anisotropic Substrate**|Toshi Parmar et.al.|[2507.11754v1](http://arxiv.org/abs/2507.11754v1)|null|
+|**2025-07-15**|**Separation of relaxation timescales via strong system-bath coupling: Dissipative three-level system as a case study**|Brett Min et.al.|[2507.11712v1](http://arxiv.org/abs/2507.11712v1)|null|
+|**2025-07-15**|**Electron and phonon topology in transition metal material TaSi**|Saurabh Kumar Sen et.al.|[2507.11705v1](http://arxiv.org/abs/2507.11705v1)|null|
+|**2025-07-15**|**Impacts and Ejecta in Natural Granular Material**|Esteban Wright et.al.|[2507.11691v1](http://arxiv.org/abs/2507.11691v1)|null|
 |**2025-07-15**|**Effects of Epoxy Composition on the Thermal and Network Properties of Crosslinked Thermosets: A Molecular-Dynamics Study**|Venkata Rama Manoj Pola et.al.|[2507.11453v1](http://arxiv.org/abs/2507.11453v1)|null|
 |**2025-07-15**|**Simulating and Sampling from Quantum Circuits with 2D Tensor Networks**|Manuel S. Rudolph et.al.|[2507.11424v1](http://arxiv.org/abs/2507.11424v1)|null|
 |**2025-07-15**|**Subharmonic Shapiro steps in depinning dynamics of a 2D solid dusty plasma modulated by 1D nonlinear deformed periodic substrates**|Zhaoye Wang et.al.|[2507.11389v1](http://arxiv.org/abs/2507.11389v1)|null|
@@ -9649,6 +9667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**Intermediate scattering function of colloids in a periodic laser field**|Regina Rusch et.al.|[2507.11756v1](http://arxiv.org/abs/2507.11756v1)|null|
 |**2025-07-14**|**Active anisotropic diffusion of microparticles in nematic lyotropic chromonic liquid crystal powered by light**|Patrycja Kadzialka et.al.|[2507.10147v1](http://arxiv.org/abs/2507.10147v1)|null|
 |**2025-07-14**|**Hopping and orbiting of Mie-resonant nanoparticles in optical tweezers**|Ivan Toftul et.al.|[2507.10058v1](http://arxiv.org/abs/2507.10058v1)|null|
 |**2025-07-11**|**Electronic and optical properties of the thio-apatites phases Ba $_5$(VS$_α$O$_β$)$_3$ X [X=Cl, F, Br, I]: impact of multiple anionic substitution**|Smritijit Sen et.al.|[2507.08308v1](http://arxiv.org/abs/2507.08308v1)|null|
@@ -10066,6 +10085,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Observation and Interpretation of Field Emission Saturation Induced by an Ultra-fast Intense Terahertz Field**|Wentao Yu et.al.|[2507.11811v1](http://arxiv.org/abs/2507.11811v1)|null|
 |**2025-07-08**|**Terahertz field-induced metastable magnetization near criticality in FePS3**|Batyr Ilyas et.al.|[2507.06371v1](http://arxiv.org/abs/2507.06371v1)|null|
 |**2025-06-12**|**Disentangling Electronic and Ionic Nonlinear Polarization Effects in the THz Kerr Response of LaAlO $_{3}$**|Chao Shen et.al.|[2506.10472v1](http://arxiv.org/abs/2506.10472v1)|null|
 |**2025-05-06**|**Parametrically amplified Josephson plasma waves in YBa_2Cu_3O_(6+x): evidence for local superconducting fluctuations up to the pseudogap temperature $T^*$**|Marios H. Michael et.al.|[2505.03358v1](http://arxiv.org/abs/2505.03358v1)|null|
