@@ -1098,6 +1098,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Local nanoscale probing of electron spins using NV centers in diamond**|Sergei Trofimov et.al.|[2507.13295v1](http://arxiv.org/abs/2507.13295v1)|null|
+|**2025-07-17**|**State transfer analysis for linear spin chains with non-uniform on-site energies**|Chad C. Nelmes et.al.|[2507.13261v1](http://arxiv.org/abs/2507.13261v1)|null|
+|**2025-07-17**|**Impact of particle-size polydispersity on the quality of thin-film colloidal crystals**|Mariam Arif et.al.|[2507.13258v1](http://arxiv.org/abs/2507.13258v1)|null|
+|**2025-07-17**|**Designing binary mixtures of colloidal particles with simple interactions that assemble complex crystals**|Beth Hsiao-Yen Wei et.al.|[2507.13166v1](http://arxiv.org/abs/2507.13166v1)|null|
+|**2025-07-17**|**Machine learning many-body potentials for charged colloids in primitive 1:1 electrolytes**|Thijs ter Rele et.al.|[2507.12934v1](http://arxiv.org/abs/2507.12934v1)|null|
+|**2025-07-17**|**Banding and polarization in driven multistable materials**|Sheng Huang et.al.|[2507.12895v1](http://arxiv.org/abs/2507.12895v1)|null|
+|**2025-07-17**|**Spontaneous Rotation of a Symmetric Inclusion in Chiral Active Bath**|Abhra Puitandy et.al.|[2507.12811v1](http://arxiv.org/abs/2507.12811v1)|null|
+|**2025-07-17**|**Hyperuniformity near jamming transition over a wide range of bidispersity**|Duc T. Dam et.al.|[2507.12738v1](http://arxiv.org/abs/2507.12738v1)|null|
+|**2025-07-16**|**Stress Softening Damage in Strongly Nonlinear Viscoelastic Soft Materials A Physics Informed Data Driven Constitutive Model with Time Temperature Coupling**|Alireza Ostadrahimi et.al.|[2507.12694v1](http://arxiv.org/abs/2507.12694v1)|null|
+|**2025-07-16**|**A Physics-Informed Data-Driven Discovery for Constitutive Modeling of Compressible, Nonlinear, History-Dependent Soft Materials under Multiaxial Cyclic Loading**|Alireza Ostadrahimi et.al.|[2507.12683v1](http://arxiv.org/abs/2507.12683v1)|null|
+|**2025-07-16**|**Walking on Archimedean Lattices: Insights from Bloch Band Theory**|Davidson Noby Joseph et.al.|[2507.12662v1](http://arxiv.org/abs/2507.12662v1)|null|
+|**2025-07-16**|**TinyDEM: Minimal open granular DEM code with sliding, rolling and twisting friction**|Roman Vetter et.al.|[2507.12610v1](http://arxiv.org/abs/2507.12610v1)|null|
+|**2025-07-16**|**Defect Interactions Through Periodic Boundaries in Two-Dimensional $p$ -atics**|Cody D. Schimming et.al.|[2507.12597v1](http://arxiv.org/abs/2507.12597v1)|null|
+|**2025-07-16**|**Self-learning Monte Carlo Method: A Review**|Gaopei Pan et.al.|[2507.12554v1](http://arxiv.org/abs/2507.12554v1)|null|
+|**2025-07-16**|**Higher Structures on Boundary Conformal Manifolds: Higher Berry Phase and Boundary Conformal Field Theory**|Yichul Choi et.al.|[2507.12525v1](http://arxiv.org/abs/2507.12525v1)|null|
 |**2025-07-16**|**Topological quantum materials: kagome, chiral, and square-net frameworks**|Avdhesh K. Sharma et.al.|[2507.12410v1](http://arxiv.org/abs/2507.12410v1)|null|
 |**2025-07-16**|**Velocity Distribution and Diffusion of an Athermal Inertial Run-and-Tumble Particle in a Shear-Thickening Medium**|Subhanker Howlader et.al.|[2507.12313v1](http://arxiv.org/abs/2507.12313v1)|null|
 |**2025-07-17**|**When $B_2$ is Not Enough: Evaluating Simple Metrics for Predicting Phase Separation of Intrinsically Disordered Proteins**|Wesley W. Oliver et.al.|[2507.12312v2](http://arxiv.org/abs/2507.12312v2)|null|
@@ -9663,6 +9678,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Towards a fictitious magnetic field trap for both ground and Rydberg state $^{87}$ Rb atoms via the evanescent field of an optical nanofibre**|Alexey Vylegzhanin et.al.|[2507.12827v1](http://arxiv.org/abs/2507.12827v1)|null|
 |**2025-07-01**|**Intermediate scattering function of colloids in a periodic laser field**|Regina Rusch et.al.|[2507.11756v1](http://arxiv.org/abs/2507.11756v1)|null|
 |**2025-07-14**|**Active anisotropic diffusion of microparticles in nematic lyotropic chromonic liquid crystal powered by light**|Patrycja Kadzialka et.al.|[2507.10147v1](http://arxiv.org/abs/2507.10147v1)|null|
 |**2025-07-14**|**Hopping and orbiting of Mie-resonant nanoparticles in optical tweezers**|Ivan Toftul et.al.|[2507.10058v1](http://arxiv.org/abs/2507.10058v1)|null|
@@ -10162,6 +10178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Spin Polarization driven by Itinerant Orbital Angular Momentum in van der Waals Heterostructures**|Luis M. Canonico et.al.|[2507.12587v1](http://arxiv.org/abs/2507.12587v1)|null|
 |**2025-07-12**|**Electric-Field-Induced Second-Harmonic Generation**|Hangkai Fan et.al.|[2507.09306v1](http://arxiv.org/abs/2507.09306v1)|null|
 |**2025-07-12**|**Spin current generation driven by skyrmion dynamics under magnetic anisotropy and polarized microwaves**|Seno Aji et.al.|[2507.09126v1](http://arxiv.org/abs/2507.09126v1)|null|
 |**2025-07-09**|**Quantum Kinetic Anatomy of Electron Angular Momenta Edge Accumulation**|T. Valet et.al.|[2507.06771v1](http://arxiv.org/abs/2507.06771v1)|null|
@@ -10475,6 +10492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Anisotropic Multi-Q Order in CoxTaS2**|Jonathon Kruppe et.al.|[2507.12588v1](http://arxiv.org/abs/2507.12588v1)|null|
 |**2025-07-15**|**Significant electron-magnon scattering in layered ferromagnet Cr $_2$Te$_3$**|Yujun Wang et.al.|[2507.11182v1](http://arxiv.org/abs/2507.11182v1)|null|
 |**2025-07-14**|**Observation of Integer and Fractional Chern insulators in high Chern number flatbands**|Jingwei Dong et.al.|[2507.09908v1](http://arxiv.org/abs/2507.09908v1)|null|
 |**2025-07-12**|**Quantum Anomalous Hall Effect in Flat Bands with Paramagnetism**|Yedi Shen et.al.|[2507.09316v1](http://arxiv.org/abs/2507.09316v1)|null|
@@ -11015,6 +11033,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Disorder-induced spin excitation continuum and spin-glass ground state in the inverse spinel CuGa $_2$O$_4$**|Zhentao Huang et.al.|[2507.12943v1](http://arxiv.org/abs/2507.12943v1)|null|
+|**2025-07-16**|**Quenched Disorder in the Triangular Lattice Antiferromagnet YbZn $_2$GaO$_5$**|Leshan Zhao et.al.|[2507.12592v1](http://arxiv.org/abs/2507.12592v1)|null|
 |**2025-07-15**|**Magnetic ground state and persistent spin fluctuations in triangular-lattice antiferromagnet NdZnAl $_{11}$O$_{19}$**|Yantao Cao et.al.|[2507.11391v1](http://arxiv.org/abs/2507.11391v1)|null|
 |**2025-07-15**|**Implementation of the magnetic force theorem for large-scale calculations of magnon bands: application to yttrium iron garnet**|Thorbjørn Skovhus et.al.|[2507.11374v1](http://arxiv.org/abs/2507.11374v1)|null|
 |**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249v1](http://arxiv.org/abs/2507.05249v1)|null|
