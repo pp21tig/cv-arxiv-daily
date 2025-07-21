@@ -1102,6 +1102,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Design framework for programmable three-dimensional woven metamaterials**|Molly Carton et.al.|[2507.14130v1](http://arxiv.org/abs/2507.14130v1)|null|
+|**2025-07-18**|**Global $q$ -dependent inverse transforms of intensity autocorrelation data**|Tobias Eklund et.al.|[2507.14106v1](http://arxiv.org/abs/2507.14106v1)|null|
+|**2025-07-18**|**Machine Learning-aided Optimal Control of a noisy qubit**|Riccardo Cantone et.al.|[2507.14085v1](http://arxiv.org/abs/2507.14085v1)|null|
+|**2025-07-18**|**Efficient Variational Dynamics of Open Quantum Bosonic Systems via Automatic Differentiation**|Jacopo Tosca et.al.|[2507.14076v1](http://arxiv.org/abs/2507.14076v1)|null|
+|**2025-07-18**|**Multiscale contact mechanics for elastoplastic contacts**|Andreas Almqvist et.al.|[2507.14054v1](http://arxiv.org/abs/2507.14054v1)|null|
+|**2025-07-18**|**Contact point geometry governs structural build-up at rest in Portland cement-limestone blends**|Luca Michel et.al.|[2507.14029v1](http://arxiv.org/abs/2507.14029v1)|null|
+|**2025-07-18**|**Magnetic monopoles with an internal degree of freedom**|Petr Beneš et.al.|[2507.13879v1](http://arxiv.org/abs/2507.13879v1)|null|
+|**2025-07-18**|**Driven shear flow in biological magneto-active fluids**|Malo Marmol et.al.|[2507.13851v1](http://arxiv.org/abs/2507.13851v1)|null|
+|**2025-07-18**|**Extension of Second-Principles Density Functional Theory into the time domain**|Toraya Fernández-Ruiz et.al.|[2507.13824v1](http://arxiv.org/abs/2507.13824v1)|null|
+|**2025-07-18**|**Less is more: removing a single bond increases the toughness of elastic networks**|Antoine Sanner et.al.|[2507.13806v1](http://arxiv.org/abs/2507.13806v1)|null|
+|**2025-07-18**|**Molecular Dynamics Study of Rayleigh-Plateau Instability at Liquid-Liquid Interfaces**|Shunta Kikuchi et.al.|[2507.13786v1](http://arxiv.org/abs/2507.13786v1)|null|
+|**2025-07-18**|**Topological signatures of jamming in granular force networks via persistent homology**|Vishali S et.al.|[2507.13690v1](http://arxiv.org/abs/2507.13690v1)|null|
+|**2025-07-18**|**Learning general pair interactions between self-propelled particles**|Jérôme Hem et.al.|[2507.13667v1](http://arxiv.org/abs/2507.13667v1)|null|
+|**2025-07-18**|**An indirect correlation of dielectric properties using optical trapping and dielectric resonance in two different frequency regimes**|Somaditya Sen et.al.|[2507.13584v1](http://arxiv.org/abs/2507.13584v1)|null|
+|**2025-07-17**|**Competing Length Scales and Symmetry Frustration Govern Non-Universal Melting in 2D Core-softened Colloidal Crystals**|Thiago Puccinelli et.al.|[2507.13573v1](http://arxiv.org/abs/2507.13573v1)|null|
+|**2025-07-17**|**Cutting soft materials: how material differences shape the response**|Miguel Angel Moreno-Mateos et.al.|[2507.13565v1](http://arxiv.org/abs/2507.13565v1)|null|
+|**2025-07-17**|**High-performance amorphous superconducting rhenium films by e-beam evaporation**|E. V. Tarkaeva et.al.|[2507.13536v1](http://arxiv.org/abs/2507.13536v1)|null|
+|**2025-07-17**|**Out-of-bounds hydrodynamics in holographic anisotropic Dirac semimetals**|Sebastián Bahamondes et.al.|[2507.13497v1](http://arxiv.org/abs/2507.13497v1)|null|
 |**2025-07-17**|**Local nanoscale probing of electron spins using NV centers in diamond**|Sergei Trofimov et.al.|[2507.13295v1](http://arxiv.org/abs/2507.13295v1)|null|
 |**2025-07-17**|**State transfer analysis for linear spin chains with non-uniform on-site energies**|Chad C. Nelmes et.al.|[2507.13261v1](http://arxiv.org/abs/2507.13261v1)|null|
 |**2025-07-17**|**Impact of particle-size polydispersity on the quality of thin-film colloidal crystals**|Mariam Arif et.al.|[2507.13258v1](http://arxiv.org/abs/2507.13258v1)|null|
@@ -9682,6 +9700,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Spatiotemporal Order and Parametric Instabilities from First-Principles**|Daniel Kaplan et.al.|[2507.14110v1](http://arxiv.org/abs/2507.14110v1)|null|
 |**2025-07-17**|**Towards a fictitious magnetic field trap for both ground and Rydberg state $^{87}$ Rb atoms via the evanescent field of an optical nanofibre**|Alexey Vylegzhanin et.al.|[2507.12827v1](http://arxiv.org/abs/2507.12827v1)|null|
 |**2025-07-01**|**Intermediate scattering function of colloids in a periodic laser field**|Regina Rusch et.al.|[2507.11756v1](http://arxiv.org/abs/2507.11756v1)|null|
 |**2025-07-14**|**Active anisotropic diffusion of microparticles in nematic lyotropic chromonic liquid crystal powered by light**|Patrycja Kadzialka et.al.|[2507.10147v1](http://arxiv.org/abs/2507.10147v1)|null|
