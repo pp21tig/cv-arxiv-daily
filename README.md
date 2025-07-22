@@ -1098,6 +1098,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Relationship between Structure and Dynamics of an Icosahedral Quasicrystal using Unsupervised Machine Learning**|Edwin A. Bedolla-Montiel et.al.|[2507.15731v1](http://arxiv.org/abs/2507.15731v1)|null|
+|**2025-07-21**|**Using stochastic thermodynamics with internal variables to capture orientational spreading in cell populations undergoing cyclic stretch**|Rohan Abeyaratne et.al.|[2507.15694v1](http://arxiv.org/abs/2507.15694v1)|null|
+|**2025-07-21**|**Vortices in dipolar condensates of interlayer excitons**|Sara Conti et.al.|[2507.15561v1](http://arxiv.org/abs/2507.15561v1)|null|
+|**2025-07-21**|**Modeling and Design of Integrated Iontronic Circuits Based on Ionic Bipolar Junction Transistors**|Soichiro Tottori et.al.|[2507.15440v1](http://arxiv.org/abs/2507.15440v1)|null|
+|**2025-07-21**|**Pressure-Induced Low-Spin State Destabilization and Piezo-Chromic Effect in an Iron(II) Spin Crossover Complex with Pyrazol-Pyridine-Triazolate Coordination Core**|Hanlin Yu et.al.|[2507.15369v1](http://arxiv.org/abs/2507.15369v1)|null|
+|**2025-07-20**|**The Order-disorder Transition in Incompressible Polar Active Fluids with an Easy Axis**|Leiming Chen et.al.|[2507.15159v1](http://arxiv.org/abs/2507.15159v1)|null|
+|**2025-07-20**|**Entropy Production from Density Field Theories for interacting particles systems**|Antonin Brossollet et.al.|[2507.15131v1](http://arxiv.org/abs/2507.15131v1)|null|
+|**2025-07-20**|**General scaling behavior of superconductors**|V. R. Shaginyan et.al.|[2507.15068v1](http://arxiv.org/abs/2507.15068v1)|null|
+|**2025-07-20**|**Neutron reflectometry on superspreading and non-superspreading trisiloxane surfactants**|Joshua Reed et.al.|[2507.15038v1](http://arxiv.org/abs/2507.15038v1)|null|
+|**2025-07-20**|**Interfacial Stability in Tensionless Phase-Separated Quorum-Sensing Systems**|Zihao Sun et.al.|[2507.15030v1](http://arxiv.org/abs/2507.15030v1)|null|
+|**2025-07-20**|**Sustained Amplification of Coherent Spin Waves by Parametric Pumping with Surface Acoustic Waves**|Carson Rivard et.al.|[2507.15023v1](http://arxiv.org/abs/2507.15023v1)|null|
+|**2025-07-20**|**Finite-temperature properties of the Frenkel-Kontorova model: Relation to tribological systems and fluid rheology**|Shubham Agarwal et.al.|[2507.14948v1](http://arxiv.org/abs/2507.14948v1)|null|
+|**2025-07-20**|**Simultaneous determination of multiple low-energy eigenstates of many-body systems on a superconducting quantum processor**|Huili Zhang et.al.|[2507.14880v1](http://arxiv.org/abs/2507.14880v1)|null|
+|**2025-07-20**|**Analysis of Hopf solitons as generalized fold maps**|Yuta Nozaki et.al.|[2507.14778v1](http://arxiv.org/abs/2507.14778v1)|null|
+|**2025-07-19**|**The effect of fiber plasticity on domain formation in soft biological composites -- Part II: An imperfection analysis**|Dimitris Iordanidis et.al.|[2507.14764v1](http://arxiv.org/abs/2507.14764v1)|null|
+|**2025-07-19**|**Low Speed Oblique Impact Behavior On Granular Media Across Gravitational Conditions; The role of cohesion**|Seungju Yeo et.al.|[2507.14645v1](http://arxiv.org/abs/2507.14645v1)|null|
+|**2025-07-19**|**Intrinsic pressure as a convenient mechanical framework for dry active matter**|Zihao Sun et.al.|[2507.14644v1](http://arxiv.org/abs/2507.14644v1)|null|
+|**2025-07-19**|**A Lattice Physics Approach to Spin-Networks in Loop Quantum Gravity**|Noah M. MacKay et.al.|[2507.14630v1](http://arxiv.org/abs/2507.14630v1)|null|
+|**2025-07-19**|**The physical consequences of sperm gigantism**|Jasmin Imran Alsous et.al.|[2507.14567v1](http://arxiv.org/abs/2507.14567v1)|null|
+|**2025-07-18**|**Martini 3 application for the design of bistable nanomachines**|Alexander D. Muratov et.al.|[2507.14319v1](http://arxiv.org/abs/2507.14319v1)|null|
 |**2025-07-18**|**Design framework for programmable three-dimensional woven metamaterials**|Molly Carton et.al.|[2507.14130v1](http://arxiv.org/abs/2507.14130v1)|null|
 |**2025-07-18**|**Global $q$ -dependent inverse transforms of intensity autocorrelation data**|Tobias Eklund et.al.|[2507.14106v1](http://arxiv.org/abs/2507.14106v1)|null|
 |**2025-07-18**|**Machine Learning-aided Optimal Control of a noisy qubit**|Riccardo Cantone et.al.|[2507.14085v1](http://arxiv.org/abs/2507.14085v1)|null|
@@ -9696,6 +9716,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Light-induced ultrafast magnetization dynamics in van der Waals antiferromagnetic CrSBr**|Ali Kefayati et.al.|[2507.15199v1](http://arxiv.org/abs/2507.15199v1)|null|
+|**2025-07-19**|**Light-Induced Giant Enhancement of the Nonlinear Hall Effect in Two-Dimensional Electron Gases at KTaO3 (111) Interfaces**|Hui Zhang et.al.|[2507.14476v1](http://arxiv.org/abs/2507.14476v1)|null|
 |**2025-07-18**|**Spatiotemporal Order and Parametric Instabilities from First-Principles**|Daniel Kaplan et.al.|[2507.14110v1](http://arxiv.org/abs/2507.14110v1)|null|
 |**2025-07-17**|**Towards a fictitious magnetic field trap for both ground and Rydberg state $^{87}$ Rb atoms via the evanescent field of an optical nanofibre**|Alexey Vylegzhanin et.al.|[2507.12827v1](http://arxiv.org/abs/2507.12827v1)|null|
 |**2025-07-01**|**Intermediate scattering function of colloids in a periodic laser field**|Regina Rusch et.al.|[2507.11756v1](http://arxiv.org/abs/2507.11756v1)|null|
@@ -10197,6 +10219,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Skyrmion Hall effect and shape deformation of current-driven bilayer skyrmions in synthetic antiferromagnets**|Mu-Kun Lee et.al.|[2507.15531v1](http://arxiv.org/abs/2507.15531v1)|null|
+|**2025-07-18**|**Interplay of orbital and spin magnetization in trigonal tellurium**|Zhenqi Hua et.al.|[2507.14292v1](http://arxiv.org/abs/2507.14292v1)|null|
 |**2025-07-16**|**Spin Polarization driven by Itinerant Orbital Angular Momentum in van der Waals Heterostructures**|Luis M. Canonico et.al.|[2507.12587v1](http://arxiv.org/abs/2507.12587v1)|null|
 |**2025-07-12**|**Electric-Field-Induced Second-Harmonic Generation**|Hangkai Fan et.al.|[2507.09306v1](http://arxiv.org/abs/2507.09306v1)|null|
 |**2025-07-12**|**Spin current generation driven by skyrmion dynamics under magnetic anisotropy and polarized microwaves**|Seno Aji et.al.|[2507.09126v1](http://arxiv.org/abs/2507.09126v1)|null|
@@ -10511,6 +10535,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Ab-initio exploration of Gd monolayer interfaced with WSe $_2$ : from electronic and magnetic properties to the anomalous Hall effect**|Lyes Mesbahi et.al.|[2507.15583v1](http://arxiv.org/abs/2507.15583v1)|null|
+|**2025-07-21**|**Is the shear induced spin polarization non-dissipative?**|Jia-Rong Wang et.al.|[2507.15238v1](http://arxiv.org/abs/2507.15238v1)|null|
+|**2025-07-19**|**Anomalous temperature dependence of local magnetic fields in altermagnetic MnTe**|Thomas J. Hicken et.al.|[2507.14710v1](http://arxiv.org/abs/2507.14710v1)|null|
 |**2025-07-16**|**Anisotropic Multi-Q Order in CoxTaS2**|Jonathon Kruppe et.al.|[2507.12588v1](http://arxiv.org/abs/2507.12588v1)|null|
 |**2025-07-15**|**Significant electron-magnon scattering in layered ferromagnet Cr $_2$Te$_3$**|Yujun Wang et.al.|[2507.11182v1](http://arxiv.org/abs/2507.11182v1)|null|
 |**2025-07-14**|**Observation of Integer and Fractional Chern insulators in high Chern number flatbands**|Jingwei Dong et.al.|[2507.09908v1](http://arxiv.org/abs/2507.09908v1)|null|
