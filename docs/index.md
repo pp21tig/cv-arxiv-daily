@@ -1102,6 +1102,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Elastic turbulence hides in the small scales of inertial polymeric turbulence**|Piyush Garg et.al.|[2507.16789v1](http://arxiv.org/abs/2507.16789v1)|null|
+|**2025-07-22**|**Collective synchrony in confluent, pulsatile epithelia**|Wenhui Tang et.al.|[2507.16772v1](http://arxiv.org/abs/2507.16772v1)|null|
+|**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763v1](http://arxiv.org/abs/2507.16763v1)|null|
+|**2025-07-22**|**Notes from the bulk**|Erica Bertolini et.al.|[2507.16744v1](http://arxiv.org/abs/2507.16744v1)|null|
+|**2025-07-22**|**Dissecting intervalley coupling mechanisms in monolayer transition metal dichalcogenides**|Oleg Dogadov et.al.|[2507.16665v1](http://arxiv.org/abs/2507.16665v1)|null|
+|**2025-07-22**|**Dynamical analog spacetimes from nonlinear perturbations in a topological material**|Surajit Das et.al.|[2507.16570v1](http://arxiv.org/abs/2507.16570v1)|null|
+|**2025-07-22**|**Graph-Coarsening for Machine Learning Coarse-grained Molecular Dynamics**|Soumya Mondal et.al.|[2507.16531v1](http://arxiv.org/abs/2507.16531v1)|null|
+|**2025-07-22**|**Revisiting boundary-driven method for transport: Finite-size effects and the role of system-bath coupling**|Mariel Kempa et.al.|[2507.16528v1](http://arxiv.org/abs/2507.16528v1)|null|
+|**2025-07-22**|**Unconventional Floquet topological phases in the SSH lattice**|Dunkan Martínez et.al.|[2507.16441v1](http://arxiv.org/abs/2507.16441v1)|null|
+|**2025-07-22**|**Defect-Mediated Melting of Square-Lattice Solids**|William Grampel et.al.|[2507.16418v1](http://arxiv.org/abs/2507.16418v1)|null|
+|**2025-07-22**|**A general model for frictional contacts in colloidal systems**|Kay Hofmann et.al.|[2507.16388v1](http://arxiv.org/abs/2507.16388v1)|null|
+|**2025-07-22**|**Characterizing the cage state of glassy systems and its sensitivity to frozen boundaries**|Rinske M. Alkemade et.al.|[2507.16339v1](http://arxiv.org/abs/2507.16339v1)|null|
+|**2025-07-22**|**Exact model of aerotactic band: From Fokker-Planck equation to band structure and fluid flow**|F. Detcheverry et.al.|[2507.16314v1](http://arxiv.org/abs/2507.16314v1)|null|
+|**2025-07-22**|**Dynamic correlations in a polar fluid: confronting stochastic density functional theory to simulations**|Sleeba Varghese et.al.|[2507.16239v1](http://arxiv.org/abs/2507.16239v1)|null|
+|**2025-07-22**|**Cooperation and competition of basepairing and electrostatic interactions in mixtures of DNA nanostars and polylysine**|Gabrielle R. Abraham et.al.|[2507.16179v1](http://arxiv.org/abs/2507.16179v1)|null|
+|**2025-07-22**|**Zurek's scaling-law in the Ising model out of thermal equilibrium**|José Armando Pérez-Loera et.al.|[2507.16168v1](http://arxiv.org/abs/2507.16168v1)|null|
+|**2025-07-22**|**A Taylor swimming sheet under a finite Brinkman layer**|Tasawar Iqbal et.al.|[2507.16125v1](http://arxiv.org/abs/2507.16125v1)|null|
+|**2025-07-21**|**Spatiotemporal organization of chemical oscillators via phase separation**|Jonathan Bauermann et.al.|[2507.16030v1](http://arxiv.org/abs/2507.16030v1)|null|
+|**2025-07-21**|**Anomalous thermal activation of the electron glass dynamics in a-InOx and granular aluminum**|Thierry Grenet et.al.|[2507.16016v1](http://arxiv.org/abs/2507.16016v1)|null|
 |**2025-07-21**|**Relationship between Structure and Dynamics of an Icosahedral Quasicrystal using Unsupervised Machine Learning**|Edwin A. Bedolla-Montiel et.al.|[2507.15731v1](http://arxiv.org/abs/2507.15731v1)|null|
 |**2025-07-21**|**Using stochastic thermodynamics with internal variables to capture orientational spreading in cell populations undergoing cyclic stretch**|Rohan Abeyaratne et.al.|[2507.15694v1](http://arxiv.org/abs/2507.15694v1)|null|
 |**2025-07-21**|**Vortices in dipolar condensates of interlayer excitons**|Sara Conti et.al.|[2507.15561v1](http://arxiv.org/abs/2507.15561v1)|null|
@@ -9720,6 +9739,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Fast Recovery of Niobium-based Superconducting Resonators after Laser Illumination**|Chunzhen Li et.al.|[2507.16082v1](http://arxiv.org/abs/2507.16082v1)|null|
 |**2025-07-21**|**Light-induced ultrafast magnetization dynamics in van der Waals antiferromagnetic CrSBr**|Ali Kefayati et.al.|[2507.15199v1](http://arxiv.org/abs/2507.15199v1)|null|
 |**2025-07-19**|**Light-Induced Giant Enhancement of the Nonlinear Hall Effect in Two-Dimensional Electron Gases at KTaO3 (111) Interfaces**|Hui Zhang et.al.|[2507.14476v1](http://arxiv.org/abs/2507.14476v1)|null|
 |**2025-07-18**|**Spatiotemporal Order and Parametric Instabilities from First-Principles**|Daniel Kaplan et.al.|[2507.14110v1](http://arxiv.org/abs/2507.14110v1)|null|
@@ -10223,6 +10243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Scanning Tunneling Microscope Tip-Induced Formation of Bi Bilayers on Bi $_2$Te$_3$**|Duy Nguyen et.al.|[2507.16081v1](http://arxiv.org/abs/2507.16081v1)|null|
 |**2025-07-21**|**Skyrmion Hall effect and shape deformation of current-driven bilayer skyrmions in synthetic antiferromagnets**|Mu-Kun Lee et.al.|[2507.15531v1](http://arxiv.org/abs/2507.15531v1)|null|
 |**2025-07-18**|**Interplay of orbital and spin magnetization in trigonal tellurium**|Zhenqi Hua et.al.|[2507.14292v1](http://arxiv.org/abs/2507.14292v1)|null|
 |**2025-07-16**|**Spin Polarization driven by Itinerant Orbital Angular Momentum in van der Waals Heterostructures**|Luis M. Canonico et.al.|[2507.12587v1](http://arxiv.org/abs/2507.12587v1)|null|
