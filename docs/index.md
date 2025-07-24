@@ -1102,6 +1102,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**The Scaling of Triboelectric Charging Powder Drops for Industrial Applications**|Tom F. O'Hara et.al.|[2507.17701v1](http://arxiv.org/abs/2507.17701v1)|null|
+|**2025-07-23**|**Wave propagation in a model artery**|Pierre Chantelot et.al.|[2507.17698v1](http://arxiv.org/abs/2507.17698v1)|null|
+|**2025-07-23**|**Using optical tweezers to simultaneously trap, charge and measure the charge of a microparticle in air**|Andrea Stoellner et.al.|[2507.17591v1](http://arxiv.org/abs/2507.17591v1)|null|
+|**2025-07-23**|**Exact results for active particle models: from long-range interactions to first-passage properties**|Léo Touzo et.al.|[2507.17504v1](http://arxiv.org/abs/2507.17504v1)|null|
+|**2025-07-23**|**Universality of Alpha-Relaxation in Glasses**|Valeriy V. Ginzburg et.al.|[2507.17490v1](http://arxiv.org/abs/2507.17490v1)|null|
+|**2025-07-23**|**Multifold degeneracy points of quantum systems and singularities of matrix varieties**|György Frank et.al.|[2507.17485v1](http://arxiv.org/abs/2507.17485v1)|null|
+|**2025-07-23**|**From shallow to full wrapping: geometry and deformability dictate lipid vesicle internalization**|Stijn van der Ham et.al.|[2507.17434v1](http://arxiv.org/abs/2507.17434v1)|null|
+|**2025-07-23**|**Giant Damping-like Torque Efficiency via Synergistic Spin Hall and enhanced Orbital Hall Effects**|Subhakanta Das et.al.|[2507.17372v1](http://arxiv.org/abs/2507.17372v1)|null|
+|**2025-07-23**|**pH-dependent interfacial rheology of polymer membranes assembled at liquid-liquid interfaces using hydrogen bonds**|Julien Dupré de Baubigny et.al.|[2507.17355v1](http://arxiv.org/abs/2507.17355v1)|null|
+|**2025-07-23**|**Beyond symmetry protection: Robust feedback-enforced edge states in non-Hermitian stacked quantum spin Hall systems**|Mengjie Yang et.al.|[2507.17295v1](http://arxiv.org/abs/2507.17295v1)|null|
+|**2025-07-23**|**Defect-Mediated Aggregation and Motility-Induced Phase Separation in Active XY Model**|Shun Inoue et.al.|[2507.17108v1](http://arxiv.org/abs/2507.17108v1)|null|
+|**2025-07-22**|**Dispersion of active particles in oscillatory Poiseuille flow**|Vhaskar Chakraborty et.al.|[2507.17081v1](http://arxiv.org/abs/2507.17081v1)|null|
+|**2025-07-22**|**Emergent discrete space-time crystal of Majorana-like quasiparticles in chiral liquid crystals**|Hanqing Zhao et.al.|[2507.16977v1](http://arxiv.org/abs/2507.16977v1)|null|
+|**2025-07-22**|**Space-time crystals from particle-like topological solitons**|Hanqing Zhao et.al.|[2507.16972v1](http://arxiv.org/abs/2507.16972v1)|null|
+|**2025-07-22**|**Speed of sound in dense simple liquids**|Sergey Khrapak et.al.|[2507.16967v1](http://arxiv.org/abs/2507.16967v1)|null|
+|**2025-07-22**|**Rigidity control of general origami structures**|Rongxuan Li et.al.|[2507.16934v1](http://arxiv.org/abs/2507.16934v1)|null|
+|**2025-07-22**|**Exact downfolding and its perturbative approximation**|Jonas B. Profe et.al.|[2507.16916v1](http://arxiv.org/abs/2507.16916v1)|null|
 |**2025-07-22**|**Elastic turbulence hides in the small scales of inertial polymeric turbulence**|Piyush Garg et.al.|[2507.16789v1](http://arxiv.org/abs/2507.16789v1)|null|
 |**2025-07-22**|**Collective synchrony in confluent, pulsatile epithelia**|Wenhui Tang et.al.|[2507.16772v1](http://arxiv.org/abs/2507.16772v1)|null|
 |**2025-07-22**|**Generalized non-reciprocal phase transitions in multipopulation systems**|Cheyne Weis et.al.|[2507.16763v1](http://arxiv.org/abs/2507.16763v1)|null|
@@ -10243,6 +10260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Giant Damping-like Torque Efficiency via Synergistic Spin Hall and enhanced Orbital Hall Effects**|Subhakanta Das et.al.|[2507.17372v1](http://arxiv.org/abs/2507.17372v1)|null|
 |**2025-07-21**|**Scanning Tunneling Microscope Tip-Induced Formation of Bi Bilayers on Bi $_2$Te$_3$**|Duy Nguyen et.al.|[2507.16081v1](http://arxiv.org/abs/2507.16081v1)|null|
 |**2025-07-21**|**Skyrmion Hall effect and shape deformation of current-driven bilayer skyrmions in synthetic antiferromagnets**|Mu-Kun Lee et.al.|[2507.15531v1](http://arxiv.org/abs/2507.15531v1)|null|
 |**2025-07-18**|**Interplay of orbital and spin magnetization in trigonal tellurium**|Zhenqi Hua et.al.|[2507.14292v1](http://arxiv.org/abs/2507.14292v1)|null|
@@ -10560,6 +10578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Pressure-tunable phase transitions in atomically thin Chern insulator MnBi $_2$Te$_4$**|Albin Marffy et.al.|[2507.17449v1](http://arxiv.org/abs/2507.17449v1)|null|
 |**2025-07-21**|**Ab-initio exploration of Gd monolayer interfaced with WSe $_2$ : from electronic and magnetic properties to the anomalous Hall effect**|Lyes Mesbahi et.al.|[2507.15583v1](http://arxiv.org/abs/2507.15583v1)|null|
 |**2025-07-21**|**Is the shear induced spin polarization non-dissipative?**|Jia-Rong Wang et.al.|[2507.15238v1](http://arxiv.org/abs/2507.15238v1)|null|
 |**2025-07-19**|**Anomalous temperature dependence of local magnetic fields in altermagnetic MnTe**|Thomas J. Hicken et.al.|[2507.14710v1](http://arxiv.org/abs/2507.14710v1)|null|
@@ -11104,6 +11123,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Hydrogen modes in KDP under pressure from ab initio calculation and inelastic neutron scattering**|V. A. Abalmasov et.al.|[2507.17536v1](http://arxiv.org/abs/2507.17536v1)|null|
 |**2025-07-17**|**Disorder-induced spin excitation continuum and spin-glass ground state in the inverse spinel CuGa $_2$O$_4$**|Zhentao Huang et.al.|[2507.12943v1](http://arxiv.org/abs/2507.12943v1)|null|
 |**2025-07-16**|**Quenched Disorder in the Triangular Lattice Antiferromagnet YbZn $_2$GaO$_5$**|Leshan Zhao et.al.|[2507.12592v1](http://arxiv.org/abs/2507.12592v1)|null|
 |**2025-07-15**|**Magnetic ground state and persistent spin fluctuations in triangular-lattice antiferromagnet NdZnAl $_{11}$O$_{19}$**|Yantao Cao et.al.|[2507.11391v1](http://arxiv.org/abs/2507.11391v1)|null|
